@@ -1,26 +1,10 @@
-# Runtime / generated media
 __pycache__/
-.pytest_cache/
 *.py[cod]
 .venv/
-venv/
 .env
 .env.*
-!.env.example
 *.mp4
 *.mov
 *.wav
-*.flac
-*.mp3
-*.tmp
-*.bak
-.DS_Store
-# Local restored large archive and media assets (version with Git LFS or external asset store)
 *.zip
-preproduction/characters/
-preproduction/environments/
-preproduction/storyboards/
-preproduction/learning/
-preproduction/flow_prompts/
-preproduction/Episode_01_Production_Book.html
-preproduction/*.png
+.DS_Store
