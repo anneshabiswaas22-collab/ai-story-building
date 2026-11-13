@@ -1,14 +1,18 @@
-name: Validate preproduction source
+name: Validate Maple House preproduction sources
 on:
   push:
   pull_request:
 jobs:
-  timeline:
+  source-integrity:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - name: Validate Episode 1 timestamp structure
+      - name: Check 20-minute story/recap timestamp structure
         run: python tools/validate_script.py
+      - name: Check source data, subtitles, prices, lesson phases and source hashes
+        run: python tools/validate_production.py
+      - name: Run regression tests
+        run: python -m unittest discover -s tests -v

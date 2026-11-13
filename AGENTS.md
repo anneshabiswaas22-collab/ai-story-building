@@ -1,37 +1,23 @@
-# Instructions for human contributors, Codex Cloud and other AI agents
+# AI agents and developers: authoritative Maple House production handoff
 
-## Mission
-Build a production-ready, original 3D animated **Maple House English** family-story + American-English-learning workflow. Start from existing preproduction, not from scratch. First read `README.md`, `docs/STATUS_AND_ASSETS.md`, `preproduction/documents/10_Original_22_Section_Application.md`, then the Episode 1 script.
+Read `README.md`, `preproduction/README.md`, `preproduction/documents/10_Original_22_Section_Application.md`, and the complete script **before** making edits. The `preproduction/episode_01.json` and `preproduction/asset_manifest.json` are original frozen v1 source records.
 
-## Non-negotiable story canon
-- The six permanent characters are **DAN, MAYA, NINA, LEO, ELLA, MAX**. DAN is the father and partner of MAYA/NINA. MAYA is mother of LEO and ELLA; NINA is mother of MAX.
-- Both adult partners are equally respected. Stories are funny, warm and appropriate for families. No sexuality, abuse, bullying, humiliation or stereotype-driven wife rivalry.
-- American English (General American speech target) only; short, deliberate, understandable lines; actual actors must be assessed for pronunciation and rhythm.
-- One look per character and one stable identity across ALL generated clips; never regenerate faces freely for a new shot. Maintain art, lighting, body proportions, wardrobe, age, voice, scene geography and props.
-- Current approved **preproduction basis** is *Maple House English / Two Lists, One Dad*. Earlier Chatterwood drafts are not current canon.
-- Fixed Episode 1 structure: 48 x 15-second story shots (720 seconds) + 24 x 20-second narrated recaps (480 seconds) = exactly 1200 seconds. Recaps after every two shots. Use exact cue timing from source script. Do not append intro/outro.
-- Use the exact original 22 section headings and crosswalk document; do not relabel these as a newly discovered historical guide.
+## Permanent creative rules
 
-## Scope and permissions
-- **Task 5 is deferred** until explicit user instruction. Do NOT call Flow, spend credits, sign into accounts, generate animation, synthesize final performed voice, deliver a mock film as real, or publish to YouTube.
-- Never say a generated clip exists unless its real file, prompt, reference set, model/version, date, cost, acceptance log and visual check are captured.
-- Correct preproduction errors in small reviewed changes; no invented completion statuses or invented cast art.
-- Keep existing ZIP-derived binaries/reference images unmodified when restored, unless a deliberate versioned replacement is approved.
-- Use GitHub pull requests for future agent work; avoid direct main pushes for speculative changes. Keep each PR focused and tests passing.
-- No credentials/API keys in source, prompts or issue bodies. Do not copy private Library links into public files.
+- Six fixed family members: DAN, MAYA, NINA, LEO, ELLA, MAX. Maya and Nina are equally respected partners; Maya parents Leo and Ella; Nina parents Max. No mean-spirited competition.
+- Original **Maple House English** series; do not switch to any previously proposed working name.
+- User goal: original high-quality 3D American-English-family learning comedy, A1–A2 basics and B1–B2 extensions, all audiences, understandable dialogue and regular object-focused lessons with five-second speaking pauses.
+- Fixed Episode 1: `S01`..`S48` (15s each), `R01`..`R24` (20s each), 24 × 50-second cycles = 20:00. Blue salad list and yellow soup list are immutable identity props. Maintain basket item counts, wardrobe W01, room geometry, shopping totals and character voices.
+- The original six portrait reference masters and five environment PNG masters are in a **separate owner-controlled ZIP**. Do not invent lookalike replacements for any missing PNG.
+- Illustrated storyboards 01–06 are studies with documented continuity warnings. Boards 07–12 are absent; source request records are included. Never label an ungenerated board approved.
+- Never claim actual video/voices/lip-sync/animated pilot/movie exist. No actual video/voice generation until **Task 5** is explicitly resumed by the creator.
 
-## First priorities
-1. Restore ZIP assets in the expected `preproduction/` layout; keep the full archive outside Git due to its size.
-2. Re-run project tests, inspect planned subtitle/text fit and item-count ledger.
-3. Fix visual review notes (list colors, quantities, basket/cost and camera geography) in a new version, without rewriting canon.
-4. Complete storyboard boards 07-12 ONLY as static preproduction assets if authorized; do not mistake this for Task 5 motion generation.
-5. Verify all six characters and environment prompts can reproduce references without identity drift in a **separate approved pilot**.
-6. Only after the user activates Task 5: create S01, S02, R01, S03, S04, R02 100-second pilot; review against acceptance gates; scale in batches.
+## Engineering and QA rules
 
-## Implementation conventions
-- Stable IDs: `DAN`, `MAYA`, `NINA`, `LEO`, `ELLA`, `MAX`; `S01`…`S48` and `R01`…`R24`.
-- Shot files: `S##_take##_modelVersion.ext`. Always log attempts separately from accepted takes.
-- Images: prefer immutable `*_ID_v01.png`; use a new version when approved, never overwrite a reference invisibly.
-- Keep 16:9 composition and explicit camera direction. Story video dialogue is voice-driven; recap narration is off-camera.
-- Update `data/episode_01_timeline.json` if the timing source changes; the script is authoritative. Run `python3 tools/validate_script.py` and require green CI.
-- Place follow-up notes in `docs/DEVELOPMENT_ROADMAP.md`. Preserve the user-deferred boundary.
+- Use `preproduction/episode_01.json` as data authority and `preproduction/documents/02_Episode_01_Complete_Script.md` as reader-facing narrative authority. Do not create contradictory alternate source-of-truth files.
+- Source manifest `preproduction/asset_manifest.json` records 727 original content hashes; all 390 non-PNG original files are versioned, 338 PNGs are external and can be restored with `tools/restore_archive.py`.
+- Source metadata distinguishes the **voice actor visible in a shot** from **phone/off-screen dialogue**. Maya phones Dan during S27, Nina speaks during S28, and VENDOR is off-screen in S33 and S35. These are intentional and validators must not flag them as swapped characters.
+- A shot's video acceptance fields may only be completed after a real exported file has been watched, reviewed and provenance logged.
+- Do not commit credentials, generated paid assets, network tokens or creator accounts. Avoid pushing 190MB of art to the public repo until the creator approves licensing/asset storage.
+- Run `python tools/validate_script.py`, `python tools/validate_production.py`, and `python -m unittest discover -s tests -v` after editing any source, prompt or timing file.
+- Preserve the current known-good main branch. Put speculative code and visual changes in focused PRs, not invisible background edits.
