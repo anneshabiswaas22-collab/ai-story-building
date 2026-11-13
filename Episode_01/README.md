@@ -12,8 +12,14 @@ The story includes family-friendly comedy and emotional teamwork. Natural Americ
 4. [SUBTITLES.srt](SUBTITLES.srt) — provisional **dialogue only**; 20-minute story timing, not the former practice captions.
 5. [CONTINUITY.md](CONTINUITY.md) — character, world, shopping, phone, money and food locks.
 6. `assets/characters/` — six portraits, six reference sheets and two lineup previews, all based on frozen original master images.
-7. `assets/environments/` — five location previews; `assets/props/` — exact lists, receipt and editorial title/end-card graphics.
+7. `assets/environments/` — five location previews; `assets/overlays/` — five useful **editable SVG** graphics (Maya’s blue list, Nina’s yellow list, exact receipt, title and ending); these are *not* character or scene images.
 8. `assets/storyboards/` — only current 12 final reviewed storyboard sheet images; **no `_v01`/`_v02`/`_v03` duplicates**.
+
+## Production readiness and populated scenes
+
+- [PRODUCTION_READINESS.md](PRODUCTION_READINESS.md) — verified original 22-section workflow mapped to this **new 80-shot story**, plus specific Task 5 and Task 6 prerequisites and acceptance gates.
+- [SCENE_REFERENCE_PLAN.md](SCENE_REFERENCE_PLAN.md) — the five original location masters, precisely which original characters belong in each location and the instructions for generating character-populated **scene-specific** images while matching the official skin, face, height, hairstyle and clothes.
+- Existing images in `assets/environments/` are **deliberately clean location masters**; do not overwrite them with a scene full of people. The five character-populated scene references are **not generated yet**. This is a real pending deliverable, not an empty-folder defect.
 
 ## Important limits
 

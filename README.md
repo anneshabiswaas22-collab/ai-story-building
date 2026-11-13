@@ -13,7 +13,7 @@ Read [EPISODE_IDEAS.md](EPISODE_IDEAS.md) for the planned first ten stories. It 
 
 **Important new format:** Every episode begins with an approximately **20-minute full animated story**: comedy, gentle drama and natural learning through entertaining conversation. **No separate English-practice slots, no documentary recap blocks, no forced repeat pauses or quiz overlays** are included in that story runtime. The creator will design and add optional practice content **after** the 20-minute story; uploads may then be 25, 30 or more minutes in total. This is not a requirement that the finished upload must be 20 minutes.
 
-**Episode 01:** [Full script](Episode_01/STORY.md) · [Final storyboards](Episode_01/STORYBOARD_INDEX.md) · [All story video prompts](Episode_01/VIDEO_PROMPTS.md) · [Dialogue-only subtitles](Episode_01/SUBTITLES.srt) · [Character gallery](Episode_01/assets/characters/) · [Continuity](Episode_01/CONTINUITY.md)
+**Episode 01:** [Full script](Episode_01/STORY.md) · [Final storyboards](Episode_01/STORYBOARD_INDEX.md) · [All story video prompts](Episode_01/VIDEO_PROMPTS.md) · [Dialogue-only subtitles](Episode_01/SUBTITLES.srt) · [Character gallery](Episode_01/assets/characters/) · [Continuity](Episode_01/CONTINUITY.md) · [22-step/Task 5–6 readiness](Episode_01/PRODUCTION_READINESS.md) · [character-populated scene plan](Episode_01/SCENE_REFERENCE_PLAN.md)
 
 ## Scope and production status
 
@@ -25,3 +25,9 @@ Read [EPISODE_IDEAS.md](EPISODE_IDEAS.md) for the planned first ten stories. It 
 ## Quality check
 
 Run `python Episode_01/check.py` to confirm 80 continuous story slots, 20-minute SRT coverage, 12 selected boards, and no practice recap headings or versioned duplicates. GitHub Actions runs it automatically.
+
+## Clarification on environment images and project tasks
+
+The existing five environment pictures intentionally show **locations without people**. This is correct for background masters, but the production also needs **separate scene-specific character composites** and checked first frames. See [the five scene briefs](Episode_01/SCENE_REFERENCE_PLAN.md). Do not swap out the masters or invent six inconsistent replacement faces. The old `assets/props/` directory has been replaced by `assets/overlays/` for real, editable list/receipt/title graphics.
+
+The [original 22-section guide mapping and Tasks 5/6 readiness](Episode_01/PRODUCTION_READINESS.md) use the **current 80-shot / 20-minute story-only** canon, not the obsolete 48-shot + 24 teaching recaps.
