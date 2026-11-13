@@ -1,0 +1,17 @@
+{
+  "id": "BOARD_08",
+  "shots": [
+    "S29",
+    "S30",
+    "S31",
+    "S32"
+  ],
+  "references": [
+    "task4/boards/BOARD_08_v02.png"
+  ],
+  "prompt": "Use case: precise-object-edit. Make only TWO small fixes to this 2x2 Maple House storyboard. Preserve every other pixel-level composition, face, hairstyle, clothing, bags, foods, label, pose and panel. (1) TOP RIGHT S30: remove the woven basket standing between the two children, restoring plain wooden counter/background in that space. The full purchased basket is OUTSIDE this crop at this story moment; do not draw a replacement or any loose vegetables. Both totes held by Ella and Max must stay EMPTY exactly as now. (2) TOP LEFT S29: add Dan's canonical dark wristwatch on his anatomical LEFT wrist (the hand holding the blue/yellow sheets, image-right hand). Leave his other wrist bare. Bottom panels S31 and S32 must stay unchanged, including S32's empty woven basket and clipped color-matched notes. No other additions.",
+  "method": "built-in image_gen",
+  "output": "task4/boards/BOARD_08_v03.png",
+  "review_status": "reviewed_static_study",
+  "production_first_frame_approved": false
+}

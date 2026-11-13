@@ -14,5 +14,9 @@ jobs:
         run: python tools/validate_script.py
       - name: Check source data, subtitles, prices, lesson phases and source hashes
         run: python tools/validate_production.py
+      - name: Check current storyboard coverage, provenance and image integrity
+        run: python tools/validate_task4.py
+      - name: Check that the current review page is reproducible
+        run: python tools/build_task4_review.py --check
       - name: Run regression tests
         run: python -m unittest discover -s tests -v
