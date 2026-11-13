@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "brand": "Maple House English",
+  "series": "The Maple House Family",
+  "tagline": "Big Family. Funny Stories. Better English.",
+  "language": "en-US",
+  "target_levels": [
+    "A1",
+    "A2",
+    "B1-extension",
+    "B2-extension"
+  ],
+  "format": {
+    "episode_seconds": 1200,
+    "cycles": 24,
+    "story_shot_seconds": 15,
+    "recap_seconds": 20,
+    "story_shots": 48,
+    "recaps": 24,
+    "aspect_ratio": "16:9"
+  },
+  "characters": [
+    {
+      "id": "DAN",
+      "role": "father; partner of MAYA and NINA"
+    },
+    {
+      "id": "MAYA",
+      "role": "mother of LEO and ELLA; equal partner"
+    },
+    {
+      "id": "NINA",
+      "role": "mother of MAX; equal partner"
+    },
+    {
+      "id": "LEO",
+      "role": "son of MAYA and DAN"
+    },
+    {
+      "id": "ELLA",
+      "role": "daughter of MAYA and DAN"
+    },
+    {
+      "id": "MAX",
+      "role": "son of NINA and DAN"
+    }
+  ],
+  "episode_01": {
+    "title": "Two Lists, One Dad: The Vegetable Market Mix-Up",
+    "clips": "S01-S48",
+    "recaps": "R01-R24",
+    "production_state": "PREPRODUCTION_ONLY",
+    "task5": "DEFERRED_BY_USER"
+  },
+  "source_art": "Separate Maple_House_Episode_01_Production_Package.zip; not yet committed",
+  "provider_target": {
+    "requested": "Google Flow / Gemini Omni Flash 1.2",
+    "verified_available": false
+  }
+}
