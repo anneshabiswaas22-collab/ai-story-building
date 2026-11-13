@@ -1,66 +1,44 @@
-# Maple House English — AI Animated Family & American English
+# Maple House English — original 3D animated American-English family series
 
-> **Status: Preproduction package available. Task 5 (real Google Flow generation) is DEFERRED.** This is not a finished video or a functioning generation app.
+**Preproduction source repository · Task 5 (actual video generation) deferred by the creator.**
 
-**Maple House English** is an original, consistent 3D animated family-comedy universe that teaches everyday **American English** through playful stories, clear speech, and short documentary-style lesson recaps.
+This is an original family-comedy and American-English-learning animated YouTube project, with the permanent family **Dan, Maya, Nina, Leo, Ella and Max**. Maya and Nina are Dan's two equal, respected partners; Leo and Ella are Maya's children and Max is Nina's son. The stories teach useful everyday General American English through enjoyable misunderstandings and respectful teamwork. Learn A1/A2 naturally; B1/B2 appear as marked extensions.
 
-- **Core family (fixed):** Dan (father), Maya (wife; mother of Leo and Ella), Nina (wife; mother of Max), Leo, Ella and Max. Maya and Nina are equal, affectionate partners; comedy is family-friendly.
-- **Learning:** A1–A2 accessible dialogue, with marked B1–B2 extensions; vocabulary, grammar, expressions, pronunciation, listening and speaking practice.
-- **Episode format:** 20:00, consisting of **24 cycles**. Each cycle = **S odd 15 sec + S even 15 sec + R 20 sec**, exactly 50 sec; total **48 story shots + 24 WordFlash-style recaps**.
-- **Target generation workflow (requested, not verified as available):** Google Flow / Gemini Omni Flash 1.2, 16:9, with 15-second clips and reference/Ingredients inputs. Check the available model, durations, terms and credits before attempting.
-- **Pilot story:** “Two Lists, One Dad: The Vegetable Market Mix-Up”. Dad confuses the blue salad list and yellow soup list; the family works together to correct the shopping.
-- **Brand continuity:** Earlier working proposals (such as “Chatterwood English”) are **superseded** by this final Maple House preproduction package.
+## Episode 1 production contract
+
+- **Title:** Two Lists, One Dad: The Vegetable Market Mix-Up
+- **Runtime:** exactly 20:00 (1,200 seconds)
+- **Visuals:** 48 planned 15-second story shots plus 24 planned 20-second learning recaps (72 timeline units / 24 cycles)
+- **Story:** Blue list = Maya's salad; yellow list = Nina's soup; Dan mixes up shopping quantities and the family sorts it out.
+- **Method:** 3D reference-consistent art; 16:9; dialogue and narrated recap; designed for Google Flow-style Ingredients generation, but exact account capabilities must be verified before use.
+- **Status:** planned, scripted and illustrated as static preproduction; **not a generated video**, with no produced audio or lip-sync.
 
 ## Start here
 
-1. [Read this developer/AI handoff](AGENTS.md) before modifying production data.
-2. [Read the 22-section workflow application](preproduction/documents/10_Original_22_Section_Application.md) to understand the exact original guide and which steps are deferred.
-3. [Read the complete 20-minute Episode 1 script](preproduction/documents/02_Episode_01_Complete_Script.md) (48 scripted shots and 24 precisely timed recaps).
-4. [Read the first 10-video publication plan](preproduction/documents/01_Ten_Episode_Publication_Plan.md).
-5. [Review production status and asset inventory](docs/STATUS_AND_ASSETS.md) before claiming anything is generated.
-6. Run `python3 tools/validate_script.py` to check 20-minute pacing; CI runs it as well.
+- [`AGENTS.md`](AGENTS.md) — AI coding agents and developer instructions.
+- [`preproduction/README.md`](preproduction/README.md) — original archive's guide.
+- [`preproduction/documents/01_Ten_Episode_Publication_Plan.md`](preproduction/documents/01_Ten_Episode_Publication_Plan.md) — ten planned 20-minute episodes.
+- [`preproduction/documents/02_Episode_01_Complete_Script.md`](preproduction/documents/02_Episode_01_Complete_Script.md) — original full 20-minute production script.
+- [`preproduction/documents/04_All_Flow_Prompts.md`](preproduction/documents/04_All_Flow_Prompts.md) and [`preproduction/flow_prompts/`](preproduction/flow_prompts/) — all 48 original prompts (planning only).
+- [`preproduction/documents/10_Original_22_Section_Application.md`](preproduction/documents/10_Original_22_Section_Application.md) — original 22-section guide's exact headings applied to this episode.
+- [`preproduction/storyboards/Visual_Review_Notes.md`](preproduction/storyboards/Visual_Review_Notes.md) — visual issues and six ungenerated illustrated boards.
+- [`docs/ASSET_RESTORATION.md`](docs/ASSET_RESTORATION.md) — restore 338 original PNGs from the preserved ZIP and understand media limitations.
+- [`preproduction/Episode_01_Production_Book.html`](preproduction/Episode_01_Production_Book.html) — local review book; requires the image archive to be fully usable.
 
-## Repository layout
+## Test preproduction data
 
-```text
-README.md
-AGENTS.md                       # Rules / handoff for Codex, human developers and agents
-docs/
-  STATUS_AND_ASSETS.md          # What exists, what is missing, known visual issues
-  PRODUCTION_WORKFLOW.md        # Execution gates and consistency-first production protocol
-  DEVELOPMENT_ROADMAP.md        # Engineering task roadmap and acceptance gates
-preproduction/
-  README.md                     # How to restore the separate asset archive
-  documents/
-    01_Ten_Episode_Publication_Plan.md
-    02_Episode_01_Complete_Script.md
-    10_Original_22_Section_Application.md
-data/
-  channel.json                  # Small, machine-readable production contract
-  episode_01_timeline.json      # 72-unit timestamp map extracted from the script
-tools/
-  validate_script.py
-.github/workflows/
-  validate.yml
+```bash
+python tools/validate_script.py
+python tools/validate_production.py
+python -m unittest discover -s tests -v
 ```
 
-### Separate full asset archive
+The comprehensive validator checks all 48 shot definitions, 24 recap definitions, timing/cues, expected 205 planned subtitle cues, shopping totals ($18.50; $1.50 change from $20), 216 learning phases, off-screen phone dialogue and content integrity against the source manifest. In the GitHub source checkout it reports the original PNGs missing, by design. After restoring the original ZIP, run `python tools/validate_production.py --require-all-assets` for full SHA-256 verification of all 727 original source artifacts.
 
-The original **Maple_House_Episode_01_Production_Package.zip** is preserved separately in the project owner's ChatGPT Library. It contains original character masters, five environments, shot-card images, 48 prompt files, 24 recap cards, 216 learning phase graphics, the detailed JSON ledger, scripts and build tools. **The archive's large PNGs are not yet committed to GitHub.** Unzip it locally as described in [preproduction/README.md](preproduction/README.md) before trying to run image-building or generation workflows. Do not silently substitute newly invented identities.
+## Content coverage
 
-### State as of 2026-11-13
+This repository versions the **390 non-PNG source entries** from the 728-entry archive: Markdown, JSON, Python, subtitle file, all per-shot text prompts, all 299 editable SVG assets and HTML review book. The original **338 PNG reference/preview images** remain in the owner's archive, not in GitHub. SVG assets may reference those PNGs. GitHub cannot reconstruct unique human identity reference images from text alone. Do not silently regenerate faces or substitute unrelated art.
 
-| Workstream | State |
-|---|---|
-| Vision, naming, 10-episode plan | Prepared |
-| Episode 1 timed script / 48 clips / 24 recaps | Prepared; duration is a plan, not rendered footage |
-| Six reference characters and five location art masters | Produced in separate ZIP; **not** yet motion/identity tested |
-| Shot prompts/cards, subtitle timing, continuity ledger | Prepared in separate ZIP |
-| Illustrated 4-panel cinematic boards | Six boards (24 panels) in original ZIP; six more pending |
-| Google Flow account/actor/voice setup, video clips, lip-sync | **Not executed — Task 5 deferred** |
-| Actual produced 20:00 MP4, YouTube upload | **Not produced** |
+### Next steps
 
-No paid or usage-cost operation should be initiated without explicit user authorization. Development contributions should use PRs for review; this initial documentation bootstrap was added to `main` at the user's earlier request.
-
-**Rights and licensing:** The user has not selected a repository software/content license. Do not assume public GitHub visibility grants rights to reuse the original characters or art.
-
+Restore PNGs, inspect the incomplete illustrated boards and exact continuity overlays, review the local book, then, *only on a separate explicit creator instruction for Task 5*, generate and evaluate a 100-second pilot before scaling real Flow renders. Do not call a video-generation API or spend credits in this repository's current status.

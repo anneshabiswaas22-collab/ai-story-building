@@ -1,0 +1,21 @@
+MAPLE HOUSE ENGLISH - EPISODE 01 - S48
+Target: one 15-second continuous shot, 16:9, Omni Flash 1.2, Ingredients.
+Use these actually attached visual assets: characters/DAN_ID_v01.png, characters/MAYA_ID_v01.png, characters/NINA_ID_v01.png, characters/LEO_ID_v01.png, characters/ELLA_ID_v01.png, characters/MAX_ID_v01.png, environments/HOME_TABLE_v01.png.
+Do not use the multi-panel model sheet or storyboard as a literal scene. Select the corresponding single-person masters and environment. If the interface limits reference count, establish the group in an approved scene image before animation.
+Visible cast: DAN, MAYA, NINA, LEO, ELLA, MAX. Wardrobe: W01, exactly as each master.
+Original polished stylized 3D family animation; rounded appealing forms; moderate head proportions; matte clothes; sculpted expressive faces; soft cinematic light; readable silhouettes; no imitation of a named studio.
+Environment: Pale-oak rectangular dining table for six adjacent to kitchen; cream walls; sage accents; window at rear; kitchen doorway at left. Seating clockwise from near-left: Dan, Leo, Ella, Maya, Nina, Max.
+Lighting: Warm early-afternoon light after cooking time ellipsis; no dramatic sunset.
+Camera: Wide final family tableau; no synchronized group speech; gentle short pullback.
+Starting state: Everyone seated; W01 outfits unchanged; prepared food on table.
+Action: All six enjoy the meal around the table in the fixed seating plan. Dan's voice is off-screen narration over quiet smiles, eliminating six-mouth lip-sync. The shot closes on the two correctly labeled lists beside the dishes.
+Ending state: Story fully resolved before final recap; final frame holds for transition.
+Performance: natural slow General American English, approximately 100 words per minute, clear words and short pauses. Select the saved character voice for each speaker; actual voice IDs are not yet created.
+All dialogue is off-screen voiceover. Keep visible mouths relaxed; do not animate synchronized speech.
+Exact dialogue and planned relative windows (do not speak the timestamps):
+DAN [0.75-13.35s]: "Today we brought home vegetables, new words, and a better plan. One family, one team. See you at the fruit shop!"
+Sound: quiet home room tone, subtle prop sounds, no generated music.
+No extra dialogue, captions, logos, title cards, camera cuts, new people or wardrobe changes. Add readable lists, price labels and subtitles later in the editor. Preserve facial identity throughout motion. Do not mirror the scene.
+Review: face and body match each master; exact prop/count state; correct voice and words; first/middle/last frames; adjacent cut. These are requirements to inspect, not guarantees of generation.
+
+EXPLICIT INVENTORY CHECK: After returning home, use the start/end states for preparation; no new or duplicate vegetables. Do not carry whole raw market produce into the final dining scene.

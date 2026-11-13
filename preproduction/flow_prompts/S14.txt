@@ -1,0 +1,22 @@
+MAPLE HOUSE ENGLISH - EPISODE 01 - S14
+Target: one 15-second continuous shot, 16:9, Omni Flash 1.2, Ingredients.
+Use these actually attached visual assets: characters/LEO_ID_v01.png, characters/DAN_ID_v01.png, environments/MARKET_STALL_v01.png.
+Do not use the multi-panel model sheet or storyboard as a literal scene. Select the corresponding single-person masters and environment. If the interface limits reference count, establish the group in an approved scene image before animation.
+Visible cast: LEO, DAN. Wardrobe: W01, exactly as each master.
+Original polished stylized 3D family animation; rounded appealing forms; moderate head proportions; matte clothes; sculpted expressive faces; soft cinematic light; readable silhouettes; no imitation of a named studio.
+Environment: One continuous stall: carrots and tomatoes left, cucumber/zucchini beside them, potatoes/onions center, broccoli/peppers/corn to right, leafy vegetables at far right. Clean broad customer-side wooden counter.
+Lighting: Same red-and-cream awning diffusion and warm daylight as master market.
+Camera: Counter insert, Leo at frame right; keep all six potatoes readable.
+Starting state: Potatoes selected at bin; basket on counter.
+Action: Leo counts six potatoes into a plain small paper sack; Dan nods and places the sack below the tomato tray in the basket. Heavy produce stays under fragile produce.
+Ending state: Six potatoes in sack at basket bottom; earlier produce retained undamaged.
+Performance: natural slow General American English, approximately 100 words per minute, clear words and short pauses. Select the saved character voice for each speaker; actual voice IDs are not yet created.
+Only the assigned speaker moves their mouth; off-screen speakers remain off-screen. No overlapping speech.
+Exact dialogue and planned relative windows (do not speak the timestamps):
+LEO [0.75-4.95s]: "How many potatoes do we need? Six."
+DAN [5.25-13.65s]: "Six potatoes. I can count them. I just cannot decide where they are going."
+Sound: soft distant market ambience, subtle prop sounds, no generated music.
+No extra dialogue, captions, logos, title cards, camera cuts, new people or wardrobe changes. Add readable lists, price labels and subtitles later in the editor. Preserve facial identity throughout motion. Do not mirror the scene.
+Review: face and body match each master; exact prop/count state; correct voice and words; first/middle/last frames; adjacent cut. These are requirements to inspect, not guarantees of generation.
+
+EXPLICIT INVENTORY CHECK: Previous shot basket inventory (before any stated sorting ellipsis): 4 carrots, 3 tomatoes, 1 cucumber. Basket at shot end: 4 carrots, 3 tomatoes, 1 cucumber, 6 potatoes. Active items may be in a hand or on the counter until the ending state; do not duplicate them. Both blue and yellow totes remain EMPTY.

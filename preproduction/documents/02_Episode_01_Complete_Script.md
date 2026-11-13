@@ -997,6 +997,7 @@
 **Inventory:** Previous shot basket inventory (before any stated sorting ellipsis): 4 carrots, 3 tomatoes, 1 cucumber, 6 potatoes, 2 onions, 1 broccoli head, 1 red bell pepper. Basket at shot end: 4 carrots, 3 tomatoes, 1 cucumber, 6 potatoes, 2 onions, 1 broccoli head, 1 red bell pepper, 2 ears of corn. Active items may be in a hand or on the counter until the ending state; do not duplicate them. Both blue and yellow totes remain EMPTY.
 
 **Inputs:** characters/DAN_ID_v01.png, characters/MAX_ID_v01.png, environments/MARKET_STALL_v01.png
+
 **Flow prompt:** `flow_prompts/S22.txt`; reference shot card `storyboards/shot_cards/S22.png`.
 
 
@@ -1996,6 +1997,7 @@
 **Action timing:** 0.00-0.75: establish starting pose and eyeline. 0.75-13.65: perform scripted lines and the single planned action. 13.65-15.00: hold the required ending state and a natural reaction.
 
 **Inventory:** After returning home, use the start/end states for preparation; no new or duplicate vegetables. Do not carry whole raw market produce into the final dining scene.
+
 **Inputs:** characters/DAN_ID_v01.png, characters/LEO_ID_v01.png, environments/HOME_TABLE_v01.png
 
 **Flow prompt:** `flow_prompts/S43.txt`; reference shot card `storyboards/shot_cards/S43.png`.
@@ -2251,3 +2253,4 @@
 **Optional extension / editor note:** End-card text inside the final three seconds: Next episode: the fruit shop.
 
 **Visual asset:** `learning/cards/R24.svg`. Keep story ambience faintly underneath; use a short soft transition cue, not a repeated loud sting. Resume the next story shot at the exact boundary.
+

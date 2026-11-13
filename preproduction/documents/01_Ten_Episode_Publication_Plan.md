@@ -207,3 +207,4 @@ Format: 24 cycles x (30 seconds story + 20 seconds recap). Core A1-A2; optional 
 **Arc:** Party preparation -> missing cake -> reconstruct and ask -> warm payoff with callbacks.
 
 **Relative appearance:** Brief returns of Rose and Ed; no large new cast.
+
