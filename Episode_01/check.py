@@ -44,12 +44,18 @@ def check():
     assert len(re.findall(r'^\| \d{2} \| S', index, re.M)) == 12
     assert len(list((EP/'assets/characters').glob('*.jpg'))) == 14, 'expected 14 character viewing references'
     assert len(list((EP/'assets/environments').glob('*.jpg'))) == 5
+    assert not (EP/'assets/props').exists(), 'obsolete props directory should be removed'
+    assert sorted(x.name for x in (EP/'assets/overlays').glob('*.svg')) == [
+        'END_CARD_overlay.svg', 'MARKET_RECEIPT.svg', 'MAYA_LIST.svg',
+        'NINA_LIST.svg', 'TITLE_overlay.svg'], 'missing five useful SVG overlays'
+    assert (EP/'PRODUCTION_READINESS.md').is_file()
+    assert (EP/'SCENE_REFERENCE_PLAN.md').is_file()
     assert not list(ROOT.rglob('*.json')), 'no JSON files should remain in active clean repo'
     for i in range(2, 11):
         folder=ROOT/f'Episode_{i:02}'
         assert folder.is_dir() and set(x.name for x in folder.iterdir()) == {'.gitkeep'}, f'Episode {i:02} not empty'
     assert 'story-only runtime: exactly 20 minutes' in (EP/'README.md').read_text(encoding='utf-8').lower()
-    print('PASS: 80 x 15s = 20:00 story, prompts, dialogue SRT, 12 final boards, 14 cast previews, 5 environment previews, no practice recaps/JSON, Episodes 02–10 empty')
+    print('PASS: 80 x 15s = 20:00 story, prompts, dialogue SRT, 12 final boards, 14 cast previews, 5 clean environment previews, 5 editable overlays, no obsolete props folder or practice recaps/JSON, Episodes 02–10 empty')
 
 
 if __name__=='__main__':

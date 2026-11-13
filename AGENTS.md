@@ -10,3 +10,7 @@ Read the root README and `Episode_01/{README,STORY,CONTINUITY,STORYBOARD_INDEX}.
 - For generating real video, first restore original PNG masters from the owner ZIP, confirm service duration/cost/capabilities and obtain explicit authorization for Task 5. No automated render calls are authorized.
 - Maintain existing shopping quantities, colors, location geography, S27/S28 off-screen phone voices, dollar totals, parent-child roles and food safety.
 - Change `STORY.md`, `VIDEO_PROMPTS.md`, `SUBTITLES.srt` together if dialogue or timing changes. Run `python Episode_01/check.py` and check broken links before a PR.
+
+- The original 22 production-guide sections are summarized against the **current 80-story-shot canon** in `Episode_01/PRODUCTION_READINESS.md`. Task 5 is video/voices/edit/QC. Task 6 is an approved reusable episode template and should follow a reviewed Episode 1, not precede it.
+- Maintain clean environment masters separately from cast-populated shot stills. See `Episode_01/SCENE_REFERENCE_PLAN.md`; generating a generic new face rather than referencing our six original PNG masters is a continuity error.
+- Exact shopping-list and receipt SVGs are in `Episode_01/assets/overlays/`; do not recreate `assets/props/`.

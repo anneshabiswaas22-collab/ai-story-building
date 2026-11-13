@@ -26,7 +26,7 @@ Keep Maya and Nina equally respected; avoid jealousy/putdowns. Every voice is na
 - Dan folds notes together at the start; mistakenly reverses their mental assignments. Original headings never swap. Papers remain overlapped blue-first until the reveal at original **S26** (new STORY shot number shown in `STORYBOARD_INDEX.md`).
 - Both bags are empty until original **S31/S32**; items are sorted in those two shots, basket is empty afterward. Do not put duplicate whole items simultaneously in bag and basket.
 - Heavy potatoes stay below the protected tomato tray; lettuce on top; no spoiled/raw eating.
-- Checkout total **$18.50**; Dan pays **$20** and receives **$1.50 change** (one dollar, two quarters). Use exact SVG overlays in `assets/props/`, never AI-made digits.
+- Checkout total **$18.50**; Dan pays **$20** and receives **$1.50 change** (one dollar, two quarters). Use exact editable SVG overlays in `assets/overlays/`, never AI-made digits.
 - Maya and Nina are **off-screen phone voices** at original S27/S28. The checkout VENDOR is off-screen/hands-only at S33/S35. No seventh permanent family member.
 - Dan keeps phone/wallet in RIGHT trouser pocket; telephone to RIGHT ear; watch on LEFT wrist.
 - Adults handle cutting and the hot stove. Cooking requires an explicit passage-of-time visual; do not teleport raw potatoes into ready soup.
@@ -35,3 +35,7 @@ Keep Maya and Nina equally respected; avoid jealousy/putdowns. Every voice is na
 ## Status
 
 12 existing selected storyboard images cover the **original 48 story beats**. The added 32 dialogue/action bridges have no generated illustrated panels yet. All original illustration choices represent composition studies, not approved video first frames. No actual produced animation/voice. Task 5 requires the creator to resume it explicitly.
+
+## Location masters versus character-populated scenes
+
+The five clean `assets/environments/*.jpg` previews are correct environment-only masters. Do not replace or corrupt their identity or geography; use them as backgrounds while placing actors for each shot. The cast/reference pairings and all five scene-specific composition requests are in [`SCENE_REFERENCE_PLAN.md`](SCENE_REFERENCE_PLAN.md). Match skin tones from the *actual* archived masters, not a guessed lookalike. Static location+character composites are **pending**, and the 32 additional beats also require planned visuals before Task 5.
