@@ -7,12 +7,16 @@ Priority is correctness and repeatable media production. See the [Tasks 1–4 au
 | P0 | Publish authoritative preproduction source documents | Readable by human and AI; CI validates 48 shots / 24 recaps / 20:00 | Done in repo bootstrap |
 | P0 | Restore archived ZIP into `preproduction/` locally | Done in review workspace: all 727 manifest-listed files verified. New clones still need the external ZIP. | File extraction, no generation |
 | P0 | Review source lists, props and market cost arithmetic | Done: blue salad/yellow soup, quantities, $18.50 total and $1.50 change checked; illustration limitations recorded | Preproduction |
-| P1 | Finish six outstanding illustrated boards | Done: 12 selected sheets now cover S01–S48, with actual prompts, versions and hashes | Static prep, not live video |
+| P1 | Complete illustrated-sheet coverage for all 48 story shots | **Done:** `task4/board_catalog.json` selects 12 current sheets (48 panels), with version hashes and two separately labeled superseded studies | Static prep, not live video |
 | P1 | Build reproducible validators for source and new boards | Done: source/timing/hash checks plus coverage, portable paths, identity pins and approval-status regression checks in CI | Code/testing |
 | P1 | Export current visual review | Done: `task4/Review.html`; per-board notes and per-panel moments. Creator approvals remain pending, not inferred. | Static review |
 | P2 | Real Flow 100-second pilot | Real generated media + voice, watched continuity & lipsync; verified model/cost; acceptance log | **Task 5: forbidden until authorized** |
 | P2 | Batch 48 shot render + 24 recap edit | Real outputs, shot IDs, costs/take IDs, QC, 20:00 export and playback | **Task 5** |
 | P3 | First 10 uploads plus analytics feedback | Publish only completed legal/quality-checked episodes, measure retention and learning outcomes | Later |
+
+## Source hierarchy and approvals
+
+[Content authority and version precedence](CONTENT_AUTHORITY.md) identifies the script/data as original canon, the Task 4 catalog as the current static visual selection, and the original six-board notes as preserved history. Coverage is complete, but **human creator approval and production-ready first-frame QA are not**; these are honest acceptance gates, not pending storyboards.
 
 ## Proposed engineering modules (future)
 - `registry/`: content-addressed reference versions, stable cast/scene IDs, controlled releases.

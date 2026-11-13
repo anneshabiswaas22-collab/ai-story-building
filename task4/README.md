@@ -2,6 +2,8 @@
 
 The selected static sequence now covers **12 four-panel boards / all 48 story shots**. Six later boards were generated from the existing character and environment references; early studies received targeted prop/count repairs. Original boards 02 and 05 are retained unchanged. Two superseded studies remain only as generation inputs/provenance.
 
+**Read [Content authority](../docs/CONTENT_AUTHORITY.md)** before comparing the frozen six-board archive to this twelve-board selection or deciding which version to use.
+
 **Open [Review.html](Review.html)** after cloning or downloading this repository. The page works locally without installing dependencies and includes every selected image, continuity notes, panel moments, scripted actions, dialogue and required ending states. GitHub's source view displays HTML code; download the checkout and open the file in a browser to see the review. The new board gallery does not need the separate original archive.
 
 | Record | Purpose |
