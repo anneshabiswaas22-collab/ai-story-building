@@ -1,0 +1,22 @@
+MAPLE HOUSE ENGLISH - EPISODE 01 - S32
+Target: one 15-second continuous shot, 16:9, Omni Flash 1.2, Ingredients.
+Use these actually attached visual assets: characters/DAN_ID_v01.png, characters/MAX_ID_v01.png, environments/MARKET_STALL_v01.png.
+Do not use the multi-panel model sheet or storyboard as a literal scene. Select the corresponding single-person masters and environment. If the interface limits reference count, establish the group in an approved scene image before animation.
+Visible cast: DAN, MAX. Wardrobe: W01, exactly as each master.
+Original polished stylized 3D family animation; rounded appealing forms; moderate head proportions; matte clothes; sculpted expressive faces; soft cinematic light; readable silhouettes; no imitation of a named studio.
+Environment: One continuous stall: carrots and tomatoes left, cucumber/zucchini beside them, potatoes/onions center, broccoli/peppers/corn to right, leafy vegetables at far right. Clean broad customer-side wooden counter.
+Lighting: Same red-and-cream awning diffusion and warm daylight as master market.
+Camera: Counter-level two-shot with YELLOW tote; Dan left, Max right.
+Starting state: At the cut, yellow tote holds six potatoes, two onions, one broccoli head and two ears of corn; spinach bag waits beside it. Blue tote full; basket empty; notes clipped to matching handles.
+Action: After a second small sorting ellipsis at the cut, the yellow tote already holds potatoes, onions, broccoli and corn. Dan places the final spinach bag inside while Max steadies the tote. The woven basket is empty on the counter. Notes are already clipped to matching handles at this cut.
+Ending state: Yellow tote filled correctly; woven basket empty; notes attached to matching tote handles with clips.
+Performance: natural slow General American English, approximately 100 words per minute, clear words and short pauses. Select the saved character voice for each speaker; actual voice IDs are not yet created.
+Only the assigned speaker moves their mouth; off-screen speakers remain off-screen. No overlapping speech.
+Exact dialogue and planned relative windows (do not speak the timestamps):
+DAN [0.75-5.55s]: "Nina's soup: potatoes, onions, broccoli, corn, and spinach."
+MAX [5.85-11.85s]: "Yellow list, yellow bag. The forest found its swimming pool!"
+Sound: soft distant market ambience, subtle prop sounds, no generated music.
+No extra dialogue, captions, logos, title cards, camera cuts, new people or wardrobe changes. Add readable lists, price labels and subtitles later in the editor. Preserve facial identity throughout motion. Do not mirror the scene.
+Review: face and body match each master; exact prop/count state; correct voice and words; first/middle/last frames; adjacent cut. These are requirements to inspect, not guarantees of generation.
+
+EXPLICIT INVENTORY CHECK: Previous shot basket inventory (before any stated sorting ellipsis): 6 potatoes, 2 onions, 1 broccoli head, 2 ears of corn, 1 bag of spinach. Basket at shot end: empty. Active items may be in a hand or on the counter until the ending state; do not duplicate them. BLUE tote: 4 carrots, 3 tomatoes, 1 cucumber, 1 loose-leaf lettuce, 1 red bell pepper. YELLOW tote now contains 6 potatoes, 2 onions, 1 broccoli head, 2 ears of corn, 1 bag of spinach.
