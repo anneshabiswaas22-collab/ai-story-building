@@ -11,7 +11,7 @@ Set format and learning objectives; choose tool and budget envelope; lock premis
 Approve six masters, their reference sheets, camera-friendly wardrobe and stable voice briefs; capture environment masters, state/prop continuity and color-coded shopping lists. New faces, scene geometry and costume variations are defects until approved.
 
 **C. Shot design & preproduction — sections 10–13**
-Convert full script into 48 timed shot cards and 24 recap specifications; keep all Flow prompts and inputs bound to IDs. Use the original 100-second pilot (S01/S02/R01/S03/S04/R02) before any batch. Every shot uses one clear action, stable start/end state and planned dialogue.
+The 48 timed original shot cards and 24 recap specifications are complete. The current [Task 4 catalog](../task4/board_catalog.json) selects **12 static illustrated sheets, one panel for each S01–S48 story shot**; two additional board files are explicitly superseded studies. They are *not* approved video first frames. Keep Flow prompts and inputs bound to IDs. The 100-second pilot (S01/S02/R01/S03/S04/R02) is planned for **Task 5 only**, not authorized for execution yet. Every shot requires a stable start/end state and planned dialogue.
 
 **D. Quality & batch management — sections 14–15**
 Apply audio/visual review gates and acceptance logging. Check body identity, clothing, prop quantity/ownership, shot geography, lip sync and pauses. Reject broken takes. Do not scale a failed pilot.
@@ -26,4 +26,4 @@ Maintain cast sheets, continuity tables, shot/take logs and reproducible prompt/
 Each recap lasts 20 seconds, shows a clean item image, natural American-English word/sentence model, a grammar micro-note, a five-second speaking pause and delayed model answer. Hide the answer during the pause. The A1/A2 story remains independently understandable; B1/B2 layers are optional and should not make basic dialogue unnatural.
 
 ## Task boundary
-Tasks 1–4: story planning, complete Episode 1 script, static character/environment/learning assets and 22-section application. These are **preproduction**, with some visual board work still outstanding. Task 5: live Google Flow video and voice generation, explicitly deferred. Do not run Task 5 until a new user instruction authorizes it.
+**Creator Tasks 1–4 are complete as a static preproduction handoff**, including all 12 selected storyboard sheets / 48 panels. No illustrated-sheet coverage is outstanding. The original ZIP and frozen 22-section guide still describe their earlier 6-board snapshot; that history is **not** the current status. Current creative approvals, individual first-frame staging and real video/audio QA remain pending, and those are not reasons to relabel Task 4 unfinished. **Creator Task 5** (live Google Flow video/voice generation) is explicitly deferred. Do not execute until the creator instructs it. [Source hierarchy](CONTENT_AUTHORITY.md) and [current audit](TASKS_1_TO_4_AUDIT.md).

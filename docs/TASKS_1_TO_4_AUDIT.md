@@ -1,6 +1,6 @@
 # Tasks 1–4: current preproduction audit
 
-Reviewed 2026-11-13 against the refreshed repository at `c6c2df47c4bdd81674123b59967d15fed90bbf7f` and the creator's original archive. No open pull requests were present at that inspection. This supplement updates the current work status; files under `preproduction/` remain the unchanged historical v1 source.
+Prepared from the creator's original archive and audited 2026-11-13. **Task 4 supplement has since been merged in PR #2** (main snapshot `b4670ec6d949bd72655b7fa84e26215941890c5b`). That snapshot has **438 tracked files with no identical Git blob SHA duplicated across distinct paths**; multiple authored representations of the same scene are intentional, not conflicting copies. For exact version and status precedence, follow [Content authority](CONTENT_AUTHORITY.md). Files under `preproduction/` remain the unchanged historical v1 source.
 
 ## Completed static handoff
 

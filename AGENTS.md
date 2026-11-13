@@ -2,7 +2,7 @@
 
 Read `README.md`, `preproduction/README.md`, `preproduction/documents/10_Original_22_Section_Application.md`, and the complete script **before** making edits. The `preproduction/episode_01.json` and `preproduction/asset_manifest.json` are original frozen v1 source records.
 
-Read `docs/TASKS_1_TO_4_AUDIT.md` and `task4/README.md` for current completion status. Historical source files still describe the original interrupted storyboard run; do not rewrite those files merely to update that status.
+Read [`docs/CONTENT_AUTHORITY.md`](docs/CONTENT_AUTHORITY.md), `docs/TASKS_1_TO_4_AUDIT.md` and `task4/README.md` for the **current file precedence and completion status**. No application or coding agent should count the frozen archive's six illustrated boards as an outstanding Task 4 deliverable. Historical source files still describe the original interrupted storyboard run; do not rewrite those files merely to update that status.
 
 ## Permanent creative rules
 

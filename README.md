@@ -18,6 +18,7 @@ This is an original family-comedy and American-English-learning animated YouTube
 ## Start here
 
 - [`AGENTS.md`](AGENTS.md) — AI coding agents and developer instructions.
+- [`docs/CONTENT_AUTHORITY.md`](docs/CONTENT_AUTHORITY.md) — **which file/version to trust** when original documents, generated views and current storyboard studies overlap.
 - [`task4/README.md`](task4/README.md) — current selected boards, continuity notes and generation records.
 - [`task4/Review.html`](task4/Review.html) — current visual review; open locally after cloning/downloading. All 12 selected images are included; no archive required for this page.
 - [`docs/TASKS_1_TO_4_AUDIT.md`](docs/TASKS_1_TO_4_AUDIT.md) — evidence for Tasks 1–4, validation commands and remaining production gates.

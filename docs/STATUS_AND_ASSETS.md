@@ -1,10 +1,14 @@
-# Source-of-truth status and full asset inventory
+# Current status and original-archive asset inventory
 
 Verified from the archived preproduction ZIP **Maple_House_Episode_01_Production_Package.zip**, prepared 2026-11-12 and restored for review on 2026-11-13.
 
 **Tasks 1–4 static handoff is complete; see the [current audit](TASKS_1_TO_4_AUDIT.md).** This repository includes all original non-PNG source artifacts plus the selected 12-board image sequence and two superseded studies under `task4/`. The separate ZIP (about 183 MB compressed, ~193 MB uncompressed, 728 archive entries) holds the original binary/reference package and is **not** a GitHub attachment. The original 338 PNGs still require restoration for full-source work; two board copies also appear in the new supplement.
 
-## Canonical media inventory inside the separate ZIP
+## Current storyboard status (not the original ZIP snapshot)
+
+The **current** Task 4 catalog, [`task4/board_catalog.json`](../task4/board_catalog.json), selects 12 illustrated sheets covering S01–S48. They are 12 different storyboard compositions, **not 12 animated clips or approved production first frames**. The 2 additional PNGs in `task4/boards/` are superseded historical study versions, not extra coverage. See [content authority](CONTENT_AUTHORITY.md) for the precedence rule and [current visual review](../task4/README.md) for remaining composition limitations.
+
+## Historical inventory inside the separate ZIP (superseded board-count snapshot)
 - 6 individual reference ID portraits; 6 character reference sheets; 2 group lineups.
 - 5 primary location images: HOME_KITCHEN, MARKET_WIDE, MARKET_STALL, MARKET_CHECKOUT, HOME_TABLE (plus seating diagram).
 - 48 original `flow_prompts/S01.txt` through `S48.txt`.
