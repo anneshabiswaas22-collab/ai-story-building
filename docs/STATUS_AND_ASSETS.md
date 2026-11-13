@@ -2,7 +2,7 @@
 
 Verified from the archived preproduction ZIP **Maple_House_Episode_01_Production_Package.zip**, prepared 2026-11-12 and restored for review on 2026-11-13.
 
-**This GitHub repository currently includes the primary text source documents and production guidance.** The separate ZIP (about 183 MB compressed, ~193 MB uncompressed, 728 archive entries) holds the original binary/reference package and is **not** a GitHub attachment. Large media should eventually be stored via appropriate versioned asset storage / Git LFS after a rights and budget decision.
+**Tasks 1–4 static handoff is complete; see the [current audit](TASKS_1_TO_4_AUDIT.md).** This repository includes all original non-PNG source artifacts plus the selected 12-board image sequence and two superseded studies under `task4/`. The separate ZIP (about 183 MB compressed, ~193 MB uncompressed, 728 archive entries) holds the original binary/reference package and is **not** a GitHub attachment. The original 338 PNGs still require restoration for full-source work; two board copies also appear in the new supplement.
 
 ## Canonical media inventory inside the separate ZIP
 - 6 individual reference ID portraits; 6 character reference sheets; 2 group lineups.
@@ -19,10 +19,10 @@ Verified from the archived preproduction ZIP **Maple_House_Episode_01_Production
 - Each shot's planned spoken-dialogue ceiling: 22 words; real voice pacing still needs recording and timing checks.
 - Market inventory in planned source ledger totals **$18.50** and **$1.50 change**. Recheck price arithmetic against real revised dialogue/graphics.
 - Captions, asset references and learning phases were statically checked; actual Flow motion, identity stability, lip-sync and final encoded export have never been checked.
-- Illustrated boards have recorded visual defects; see ZIP `storyboards/Visual_Review_Notes.md`. They are **not approved first frames**.
+- All 727 source-manifest artifacts verified after local restoration. The frozen original review remains in `preproduction/storyboards/Visual_Review_Notes.md`; current per-board corrections, selected moments and remaining limitations are in the [Task 4 catalog](../task4/board_catalog.json). All boards remain **unapproved as animation first frames**.
 
 ## Known missing / deferred deliverables
-- 6 remaining illustrated 4-panel boards (25–48), unless a newer archive is explicitly supplied and verified.
+- No illustrated-sheet coverage gaps remain: all 48 shots have selected static panels. Creator approval and camera-specific single-scene first-frame staging remain pending.
 - Google Flow actor/voice IDs, model availability confirmation, actual usage costs and on-platform actor reference saves.
 - All 48 actual animated clips, performed voiceovers, motion quality checks, lip-sync, 100-second pilot and finished 1200-second video.
 - Actual YouTube upload, metadata performance data and audience analysis.

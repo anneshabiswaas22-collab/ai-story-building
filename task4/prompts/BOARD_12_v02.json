@@ -1,0 +1,20 @@
+{
+  "id": "BOARD_12",
+  "shots": [
+    "S45",
+    "S46",
+    "S47",
+    "S48"
+  ],
+  "prompt": "Use case: illustration-story. Create ONE polished stylized 3D Maple House family storyboard, FOUR equal 16:9 panels 2 by 2, thin white gutters, landscape 2048x1152. EXACT identities from two lineups: Dan blue polo/mustache/watch left wrist; Maya plum/dark ponytail; Nina teal/auburn bob; Leo orange; Ella coral/denim overalls/two braids; Max green/auburn waves. Ref3 exact dining room: kitchen doorway LEFT, garden window REAR, plant RIGHT, rectangular oak table. Ref4 is the REQUIRED fixed seat diagram. Do not copy diagram as artwork.\nFIXED SEATS FOR EVERY PANEL relative to master camera: Dan near-left long side, Max near-right long side, Leo left short END, Nina right short END, Ella far-left long side, Maya far-right long side. No changing seats for easier framing. Use views ACROSS the table when characters aren't adjacent.\nTop left S45: Ella seen frontally on FAR side left, Max in right foreground three-quarter/back view on NEAR side. Looking diagonally across table at each other, smiling. Ella points to blank blue/yellow list sheets resting on table; Max raises two fingers. Only these two visible in crop; prepared soup bowls rest down.\nTop right S46: Dan near-left foreground in three-quarter view and Nina at right short END across table, face visible right. He gestures with EMPTY hand as if checking imaginary book; no literal book. Nina smiles reassuringly. No one changes seats.\nBottom left S47: Maya seated FAR-right long side with garden window behind; Dan NEAR-left foreground at diagonal opposite, face shown in side profile. She holds one new blank planning card and he raises one finger, playful expressions. No fruit yet.\nBottom right S48: WIDE elevated view from same master camera side, whole room and entire table, ALL SIX ONCE. Ella coral braids FAR LEFT and Maya plum FAR RIGHT, both visible faces with window behind. Leo orange at LEFT END in profile. Nina teal at RIGHT END in profile. Dan blue at NEAR LEFT, Max green at NEAR RIGHT seen from behind/three-quarter, both looking inward. Six chairs/six people, no front-facing lineup. Prepared salad/soup in bowls only, blank blue/yellow lists flat beside serving dishes. No bags/basket/raw market produce, no extra people. Warm quiet contented smiles, no synchronized speech.\nOnly shot labels S45 S46 S47 S48. No dialogue text. Preserve clothes, bodies and faces. Rectangular table geometry and exact fixed seats override desire to show all faces. Static storyboard art.",
+  "references": [
+    "preproduction/characters/ADULTS_LINEUP_v01.png",
+    "preproduction/characters/CHILDREN_LINEUP_v01.png",
+    "preproduction/environments/HOME_TABLE_v01.png",
+    "preproduction/environments/HOME_TABLE_seating.png"
+  ],
+  "method": "built-in image_gen",
+  "output": "task4/boards/BOARD_12_v02.png",
+  "review_status": "reviewed_static_study",
+  "production_first_frame_approved": false
+}

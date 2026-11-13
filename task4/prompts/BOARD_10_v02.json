@@ -1,0 +1,19 @@
+{
+  "id": "BOARD_10",
+  "shots": [
+    "S37",
+    "S38",
+    "S39",
+    "S40"
+  ],
+  "prompt": "Use case: illustration-story. Create one cinematic 3D storyboard, 2x2 grid of FOUR equal 16:9 panels, thin white gutters, landscape 2048x1152. Same original Maple House identities as reference lineups: adults Dan blue polo/brown mustache/left wristwatch, Maya plum blouse/dark low ponytail, Nina teal three-quarter sleeves/auburn bob. Children Ella coral shirt/denim overalls/two braids, Max green shirt/tan shorts. Match their faces, heights and clothes. Third image is exact kitchen layout: fridge and doorway LEFT, sink under CENTER window, cooker RIGHT, wooden island foreground. Never mirror layout.\nTop left label S37: Only Maya left and Dan right at island. BLUE full tote rests beside Maya with blank blue paper clipped on handle. Dan still holds YELLOW full tote by its handle, with blank yellow note clipped on handle. Warm amused smiles. All food stays inside bags below rim; no raw food loose on island.\nTop right label S38: Only Nina and Max at same kitchen island, yellow tote in front of Nina with yellow note. Nina lifts exactly ONE broccoli head just above its rim; no other broccoli visible. Max proudly points to himself. EMPTY woven basket rests on CHAIR beside Max, not on island. No blue tote needed in this crop.\nBottom left label S39: Only Maya and Ella at original sink UNDER back window, side-angle close two-shot, adult supervises as both wash their hands with running water and small soap lather. No vegetables in their hands. Salad tray is out of crop so counts cannot contradict. No extra faucet and no sink in island; no stove/knife near child.\nBottom right label S40: Same Maya and Ella at SAME original sink. Rinsing has FINISHED: exactly one dark-green bumpy cucumber lies on a clean white plate beside sink; faucet visibly OFF, Ella's hands away from cucumber, Maya smiles. No duplicate cucumber. No knives or pots near Ella.\nNo dialogue balloons, titles, random text, floating UI or extra people. Only shot labels S37 S38 S39 S40. A single still moment per panel. This is static preproduction art; faces must match original named masters.",
+  "references": [
+    "preproduction/characters/ADULTS_LINEUP_v01.png",
+    "preproduction/characters/CHILDREN_LINEUP_v01.png",
+    "preproduction/environments/HOME_KITCHEN_v01.png"
+  ],
+  "method": "built-in image_gen",
+  "output": "task4/boards/BOARD_10_v02.png",
+  "review_status": "reviewed_static_study",
+  "production_first_frame_approved": false
+}
