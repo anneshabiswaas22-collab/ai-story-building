@@ -23,14 +23,14 @@ Use fixed identity/wardrobe previews in `assets/characters/` for viewing; origin
 **Composition:** Medium shot across kitchen island. **Action:** The two notes rest side by side as Dan nods. Maya points to the blue paper; Nina points to the yellow. He smiles as though he understands, while the papers stay separate on the counter.
 **Starting continuity:** Continue immediately after the previous shot; preserve props and inventory. **Ending continuity:** Hold the specified action end state; match the next shot with no unexplained changes.
 **Dialogue:** MAYA: “Blue is salad. You have it?” DAN: “Blue salad, yellow soup. I have it.”
-**Notes:** New story-only connecting beat: storyboard illustration and production first frame **not yet created**. No invented lettering, extra people, duplicated props, abrupt cuts or subtitles baked into the footage. Add exact labels during editing. Review reference identity, six-person family geography, physical actions, item quantities and speech timing.
+**Notes:** Generated storyboard study: [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 1; creator approval and a separate production first frame remain pending. No invented lettering, extra people, duplicated props, abrupt cuts or subtitles baked into the footage. Add exact labels during editing. Review reference identity, six-person family geography, physical actions, item quantities and speech timing.
 
 ## SHOT_004 | 00:00:45–00:01:00 | NEW_C01B
 **Characters:** DAN, LEO, ELLA, MAX. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Wide doorway-to-island family reaction. **Action:** Leo and Ella arrive at the kitchen doorway; Max peeks from behind them. Dan proudly raises the overlapping lists but blocks one heading with his thumb.
 **Starting continuity:** Continue immediately after the previous shot; preserve props and inventory. **Ending continuity:** Hold the specified action end state; match the next shot with no unexplained changes.
 **Dialogue:** LEO: “Should we check those together?” DAN: “No need. I have an excellent memory.”
-**Notes:** New story-only connecting beat: storyboard illustration and production first frame **not yet created**. No invented lettering, extra people, duplicated props, abrupt cuts or subtitles baked into the footage. Add exact labels during editing. Review reference identity, six-person family geography, physical actions, item quantities and speech timing.
+**Notes:** Generated storyboard study: [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 2; creator approval and a separate production first frame remain pending. No invented lettering, extra people, duplicated props, abrupt cuts or subtitles baked into the footage. Add exact labels during editing. Review reference identity, six-person family geography, physical actions, item quantities and speech timing.
 
 ## SHOT_005 | 00:01:00–00:01:15 | S03
 **Characters:** DAN, LEO. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
@@ -51,7 +51,7 @@ Use fixed identity/wardrobe previews in `assets/characters/` for viewing; origin
 **Composition:** Medium-wide doorway shot. **Action:** At the kitchen doorway, the children gather their empty bags and basket. Dan pats his right trouser pocket and carefully checks that everyone has shoes on before they leave.
 **Starting continuity:** Continue immediately after the previous shot; preserve props and inventory. **Ending continuity:** Hold the specified action end state; match the next shot with no unexplained changes.
 **Dialogue:** DAN: “Ready, team?” MAX: “Ready. Even the empty basket looks hungry.”
-**Notes:** New story-only connecting beat: storyboard illustration and production first frame **not yet created**. No invented lettering, extra people, duplicated props, abrupt cuts or subtitles baked into the footage. Add exact labels during editing. Review reference identity, six-person family geography, physical actions, item quantities and speech timing.
+**Notes:** Generated storyboard study: [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 3; creator approval and a separate production first frame remain pending. No invented lettering, extra people, duplicated props, abrupt cuts or subtitles baked into the footage. Add exact labels during editing. Review reference identity, six-person family geography, physical actions, item quantities and speech timing.
 
 ## SHOT_008 | 00:01:45–00:02:00 | S05
 **Characters:** DAN, LEO, ELLA, MAX. **Location:** MARKET_WIDE. **Wardrobe:** W01 only.
@@ -72,14 +72,14 @@ Use fixed identity/wardrobe previews in `assets/characters/` for viewing; origin
 **Composition:** Wide aisle establishing shot. **Action:** They pause at the market aisle entrance. Ella points toward the bright produce stall while Max walks on Dan's inside, leaving the aisle clear.
 **Starting continuity:** Continue immediately after the previous shot; preserve props and inventory. **Ending continuity:** Hold the specified action end state; match the next shot with no unexplained changes.
 **Dialogue:** ELLA: “The vegetable stand is on the right.” DAN: “Right. My first useful direction today.”
-**Notes:** New story-only connecting beat: storyboard illustration and production first frame **not yet created**. No invented lettering, extra people, duplicated props, abrupt cuts or subtitles baked into the footage. Add exact labels during editing. Review reference identity, six-person family geography, physical actions, item quantities and speech timing.
+**Notes:** Generated storyboard study: [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 4; creator approval and a separate production first frame remain pending. No invented lettering, extra people, duplicated props, abrupt cuts or subtitles baked into the footage. Add exact labels during editing. Review reference identity, six-person family geography, physical actions, item quantities and speech timing.
 
 ## SHOT_011 | 00:02:30–00:02:45 | NEW_C03B
 **Characters:** DAN, LEO, ELLA, MAX. **Location:** MARKET_WIDE. **Wardrobe:** W01 only.
 **Composition:** Medium basket-identification insert. **Action:** Dan notices several similarly colored baskets and stops instead of taking anything. Leo points to their family's woven basket; everyone laughs softly.
 **Starting continuity:** Continue immediately after the previous shot; preserve props and inventory. **Ending continuity:** Hold the specified action end state; match the next shot with no unexplained changes.
 **Dialogue:** LEO: “Our basket has the blue handle.” DAN: “Good. We are not shopping for someone else.”
-**Notes:** New story-only connecting beat: storyboard illustration and production first frame **not yet created**. No invented lettering, extra people, duplicated props, abrupt cuts or subtitles baked into the footage. Add exact labels during editing. Review reference identity, six-person family geography, physical actions, item quantities and speech timing.
+**Notes:** Generated storyboard study: [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 1; creator approval and a separate production first frame remain pending. No invented lettering, extra people, duplicated props, abrupt cuts or subtitles baked into the footage. Add exact labels during editing. Review reference identity, six-person family geography, physical actions, item quantities and speech timing.
 
 ## SHOT_012 | 00:02:45–00:03:00 | S07
 **Characters:** DAN, ELLA. **Location:** MARKET_STALL. **Wardrobe:** W01 only.
@@ -100,7 +100,7 @@ Use fixed identity/wardrobe previews in `assets/characters/` for viewing; origin
 **Composition:** Close basket and shared smile. **Action:** Dan looks at the four carrots in his basket, then at a crate full of many more. Ella closes the folded note with a patient smile; no additional vegetables are picked up.
 **Starting continuity:** Continue immediately after the previous shot; preserve props and inventory. **Ending continuity:** Hold the specified action end state; match the next shot with no unexplained changes.
 **Dialogue:** DAN: “Four feels much lighter than forty.” ELLA: “And much easier to carry home.”
-**Notes:** New story-only connecting beat: storyboard illustration and production first frame **not yet created**. No invented lettering, extra people, duplicated props, abrupt cuts or subtitles baked into the footage. Add exact labels during editing. Review reference identity, six-person family geography, physical actions, item quantities and speech timing.
+**Notes:** Generated storyboard study: [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 2; creator approval and a separate production first frame remain pending. No invented lettering, extra people, duplicated props, abrupt cuts or subtitles baked into the footage. Add exact labels during editing. Review reference identity, six-person family geography, physical actions, item quantities and speech timing.
 
 ## SHOT_015 | 00:03:30–00:03:45 | S09
 **Characters:** LEO, DAN. **Location:** MARKET_STALL. **Wardrobe:** W01 only.
@@ -121,7 +121,7 @@ Use fixed identity/wardrobe previews in `assets/characters/` for viewing; origin
 **Composition:** Medium close basket rim. **Action:** Leo gently adjusts the protected tomato tray beside the four carrots. Dan mimics a slow bowling roll with his empty hand; Leo shakes his head, smiling.
 **Starting continuity:** Continue immediately after the previous shot; preserve props and inventory. **Ending continuity:** Hold the specified action end state; match the next shot with no unexplained changes.
 **Dialogue:** LEO: “They are tomatoes, not bowling balls.” DAN: “Then I promise no strikes today.”
-**Notes:** New story-only connecting beat: storyboard illustration and production first frame **not yet created**. No invented lettering, extra people, duplicated props, abrupt cuts or subtitles baked into the footage. Add exact labels during editing. Review reference identity, six-person family geography, physical actions, item quantities and speech timing.
+**Notes:** Generated storyboard study: [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 3; creator approval and a separate production first frame remain pending. No invented lettering, extra people, duplicated props, abrupt cuts or subtitles baked into the footage. Add exact labels during editing. Review reference identity, six-person family geography, physical actions, item quantities and speech timing.
 
 ## SHOT_018 | 00:04:15–00:04:30 | S11
 **Characters:** DAN, ELLA. **Location:** MARKET_STALL. **Wardrobe:** W01 only.
@@ -142,14 +142,14 @@ Use fixed identity/wardrobe previews in `assets/characters/` for viewing; origin
 **Composition:** Two-shot with separated crates. **Action:** Ella points out the bumpy skin of the cucumber already in the basket. Dan holds his empty hand beside the zucchini crate without taking another vegetable.
 **Starting continuity:** Continue immediately after the previous shot; preserve props and inventory. **Ending continuity:** Hold the specified action end state; match the next shot with no unexplained changes.
 **Dialogue:** ELLA: “These two look similar, but they are different.” DAN: “I will remember the bumps.”
-**Notes:** New story-only connecting beat: storyboard illustration and production first frame **not yet created**. No invented lettering, extra people, duplicated props, abrupt cuts or subtitles baked into the footage. Add exact labels during editing. Review reference identity, six-person family geography, physical actions, item quantities and speech timing.
+**Notes:** Generated storyboard study: [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 4; creator approval and a separate production first frame remain pending. No invented lettering, extra people, duplicated props, abrupt cuts or subtitles baked into the footage. Add exact labels during editing. Review reference identity, six-person family geography, physical actions, item quantities and speech timing.
 
 ## SHOT_021 | 00:05:00–00:05:15 | NEW_C06B
 **Characters:** LEO, DAN. **Location:** MARKET_STALL. **Wardrobe:** W01 only.
 **Composition:** Tracking medium shot toward potato crates. **Action:** They move along the same stall to the potato bins. Leo notices the yellow note tucked behind the blue one, while Dan keeps his confident grin.
 **Starting continuity:** Continue immediately after the previous shot; preserve props and inventory. **Ending continuity:** Hold the specified action end state; match the next shot with no unexplained changes.
 **Dialogue:** LEO: “Dad, the yellow list is still hiding.” DAN: “Then we should give it some fresh air.”
-**Notes:** New story-only connecting beat: storyboard illustration and production first frame **not yet created**. No invented lettering, extra people, duplicated props, abrupt cuts or subtitles baked into the footage. Add exact labels during editing. Review reference identity, six-person family geography, physical actions, item quantities and speech timing.
+**Notes:** Generated storyboard study: [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 1; creator approval and a separate production first frame remain pending. No invented lettering, extra people, duplicated props, abrupt cuts or subtitles baked into the footage. Add exact labels during editing. Review reference identity, six-person family geography, physical actions, item quantities and speech timing.
 
 ## SHOT_022 | 00:05:15–00:05:30 | S13
 **Characters:** DAN, LEO. **Location:** MARKET_STALL. **Wardrobe:** W01 only.
@@ -170,7 +170,7 @@ Use fixed identity/wardrobe previews in `assets/characters/` for viewing; origin
 **Composition:** Medium two-shot with potato sack. **Action:** Dan looks from the six-potato sack to a picture of salad, puzzled. Leo leaves the vegetables untouched and studies Dan's overlapping lists.
 **Starting continuity:** Continue immediately after the previous shot; preserve props and inventory. **Ending continuity:** Hold the specified action end state; match the next shot with no unexplained changes.
 **Dialogue:** DAN: “Potato salad? That was not the plan.” LEO: “Maybe the lists are telling different stories.”
-**Notes:** New story-only connecting beat: storyboard illustration and production first frame **not yet created**. No invented lettering, extra people, duplicated props, abrupt cuts or subtitles baked into the footage. Add exact labels during editing. Review reference identity, six-person family geography, physical actions, item quantities and speech timing.
+**Notes:** Generated storyboard study: [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 2; creator approval and a separate production first frame remain pending. No invented lettering, extra people, duplicated props, abrupt cuts or subtitles baked into the footage. Add exact labels during editing. Review reference identity, six-person family geography, physical actions, item quantities and speech timing.
 
 ## SHOT_025 | 00:06:00–00:06:15 | S15
 **Characters:** DAN, MAX. **Location:** MARKET_STALL. **Wardrobe:** W01 only.
@@ -191,7 +191,7 @@ Use fixed identity/wardrobe previews in `assets/characters/` for viewing; origin
 **Composition:** Low-angle comic two-shot. **Action:** Max pretends to be a serious detective, studying the two intact onions through the basket opening. Dan keeps the onions secure beside the heavy potatoes.
 **Starting continuity:** Continue immediately after the previous shot; preserve props and inventory. **Ending continuity:** Hold the specified action end state; match the next shot with no unexplained changes.
 **Dialogue:** MAX: “No tears. The onions are innocent.” DAN: “Then we close the case for now.”
-**Notes:** New story-only connecting beat: storyboard illustration and production first frame **not yet created**. No invented lettering, extra people, duplicated props, abrupt cuts or subtitles baked into the footage. Add exact labels during editing. Review reference identity, six-person family geography, physical actions, item quantities and speech timing.
+**Notes:** Generated storyboard study: [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 3; creator approval and a separate production first frame remain pending. No invented lettering, extra people, duplicated props, abrupt cuts or subtitles baked into the footage. Add exact labels during editing. Review reference identity, six-person family geography, physical actions, item quantities and speech timing.
 
 ## SHOT_028 | 00:06:45–00:07:00 | S17
 **Characters:** MAX, ELLA. **Location:** MARKET_STALL. **Wardrobe:** W01 only.
@@ -212,14 +212,14 @@ Use fixed identity/wardrobe previews in `assets/characters/` for viewing; origin
 **Composition:** Close-up broccoli and curious faces. **Action:** The broccoli nestles in the basket away from the tomatoes. Max peers at the tiny florets while Ella checks the next item on the paper without pulling anything out.
 **Starting continuity:** Continue immediately after the previous shot; preserve props and inventory. **Ending continuity:** Hold the specified action end state; match the next shot with no unexplained changes.
 **Dialogue:** MAX: “Does our little forest need sunlight?” ELLA: “Not for the ride home.”
-**Notes:** New story-only connecting beat: storyboard illustration and production first frame **not yet created**. No invented lettering, extra people, duplicated props, abrupt cuts or subtitles baked into the footage. Add exact labels during editing. Review reference identity, six-person family geography, physical actions, item quantities and speech timing.
+**Notes:** Generated storyboard study: [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 4; creator approval and a separate production first frame remain pending. No invented lettering, extra people, duplicated props, abrupt cuts or subtitles baked into the footage. Add exact labels during editing. Review reference identity, six-person family geography, physical actions, item quantities and speech timing.
 
 ## SHOT_031 | 00:07:30–00:07:45 | NEW_C09B
 **Characters:** DAN, LEO. **Location:** MARKET_STALL. **Wardrobe:** W01 only.
 **Composition:** Steady medium at pepper crates. **Action:** Dan checks the basket's growing weight with both hands. Leo spots red bell peppers farther along the stall and points; nobody removes or adds produce.
 **Starting continuity:** Continue immediately after the previous shot; preserve props and inventory. **Ending continuity:** Hold the specified action end state; match the next shot with no unexplained changes.
 **Dialogue:** LEO: “The red peppers are next.” DAN: “Great. I can hear success coming.”
-**Notes:** New story-only connecting beat: storyboard illustration and production first frame **not yet created**. No invented lettering, extra people, duplicated props, abrupt cuts or subtitles baked into the footage. Add exact labels during editing. Review reference identity, six-person family geography, physical actions, item quantities and speech timing.
+**Notes:** Generated storyboard study: [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 1; creator approval and a separate production first frame remain pending. No invented lettering, extra people, duplicated props, abrupt cuts or subtitles baked into the footage. Add exact labels during editing. Review reference identity, six-person family geography, physical actions, item quantities and speech timing.
 
 ## SHOT_032 | 00:07:45–00:08:00 | S19
 **Characters:** DAN, LEO. **Location:** MARKET_STALL. **Wardrobe:** W01 only.
@@ -240,7 +240,7 @@ Use fixed identity/wardrobe previews in `assets/characters/` for viewing; origin
 **Composition:** Medium two-shot, basket visible. **Action:** Dan holds his now-empty hands near his ears like a bell ringer while Leo protects the red pepper in the basket. Both laugh quietly at the harmless wordplay.
 **Starting continuity:** Continue immediately after the previous shot; preserve props and inventory. **Ending continuity:** Hold the specified action end state; match the next shot with no unexplained changes.
 **Dialogue:** DAN: “No ringing. Just a very good pepper.” LEO: “And the correct color, finally.”
-**Notes:** New story-only connecting beat: storyboard illustration and production first frame **not yet created**. No invented lettering, extra people, duplicated props, abrupt cuts or subtitles baked into the footage. Add exact labels during editing. Review reference identity, six-person family geography, physical actions, item quantities and speech timing.
+**Notes:** Generated storyboard study: [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 2; creator approval and a separate production first frame remain pending. No invented lettering, extra people, duplicated props, abrupt cuts or subtitles baked into the footage. Add exact labels during editing. Review reference identity, six-person family geography, physical actions, item quantities and speech timing.
 
 ## SHOT_035 | 00:08:30–00:08:45 | S21
 **Characters:** ELLA, MAX. **Location:** MARKET_STALL. **Wardrobe:** W01 only.
@@ -261,7 +261,7 @@ Use fixed identity/wardrobe previews in `assets/characters/` for viewing; origin
 **Composition:** Low close-up over basket. **Action:** Max leans toward the two corn ears tucked safely in the basket without touching them. Ella leans closer, waiting for his latest question.
 **Starting continuity:** Continue immediately after the previous shot; preserve props and inventory. **Ending continuity:** Hold the specified action end state; match the next shot with no unexplained changes.
 **Dialogue:** MAX: “What if the corn tells us a secret?” ELLA: “Then we will keep it hushed.”
-**Notes:** New story-only connecting beat: storyboard illustration and production first frame **not yet created**. No invented lettering, extra people, duplicated props, abrupt cuts or subtitles baked into the footage. Add exact labels during editing. Review reference identity, six-person family geography, physical actions, item quantities and speech timing.
+**Notes:** Generated storyboard study: [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 3; creator approval and a separate production first frame remain pending. No invented lettering, extra people, duplicated props, abrupt cuts or subtitles baked into the footage. Add exact labels during editing. Review reference identity, six-person family geography, physical actions, item quantities and speech timing.
 
 ## SHOT_038 | 00:09:15–00:09:30 | S23
 **Characters:** DAN, ELLA. **Location:** MARKET_STALL. **Wardrobe:** W01 only.
@@ -282,14 +282,14 @@ Use fixed identity/wardrobe previews in `assets/characters/` for viewing; origin
 **Composition:** Medium two-shot and shop-window reflection. **Action:** Dan admires the lettuce resting above the heavier vegetables. Ella smiles as he checks his hair in a reflected market window, still holding no extra produce.
 **Starting continuity:** Continue immediately after the previous shot; preserve props and inventory. **Ending continuity:** Hold the specified action end state; match the next shot with no unexplained changes.
 **Dialogue:** DAN: “My hair looks like lettuce today.” ELLA: “Only when the wind helps.”
-**Notes:** New story-only connecting beat: storyboard illustration and production first frame **not yet created**. No invented lettering, extra people, duplicated props, abrupt cuts or subtitles baked into the footage. Add exact labels during editing. Review reference identity, six-person family geography, physical actions, item quantities and speech timing.
+**Notes:** Generated storyboard study: [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 4; creator approval and a separate production first frame remain pending. No invented lettering, extra people, duplicated props, abrupt cuts or subtitles baked into the footage. Add exact labels during editing. Review reference identity, six-person family geography, physical actions, item quantities and speech timing.
 
 ## SHOT_041 | 00:10:00–00:10:15 | NEW_C12B
 **Characters:** LEO, DAN. **Location:** MARKET_STALL. **Wardrobe:** W01 only.
 **Composition:** Pan toward spinach section. **Action:** Leo studies the far-right leafy-greens section and spots sealed spinach bags. Dan's blue note remains in front of the yellow one as they approach.
 **Starting continuity:** Continue immediately after the previous shot; preserve props and inventory. **Ending continuity:** Hold the specified action end state; match the next shot with no unexplained changes.
 **Dialogue:** LEO: “I think we have one thing left.” DAN: “Excellent. My basket agrees.”
-**Notes:** New story-only connecting beat: storyboard illustration and production first frame **not yet created**. No invented lettering, extra people, duplicated props, abrupt cuts or subtitles baked into the footage. Add exact labels during editing. Review reference identity, six-person family geography, physical actions, item quantities and speech timing.
+**Notes:** Generated storyboard study: [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 1; creator approval and a separate production first frame remain pending. No invented lettering, extra people, duplicated props, abrupt cuts or subtitles baked into the footage. Add exact labels during editing. Review reference identity, six-person family geography, physical actions, item quantities and speech timing.
 
 ## SHOT_042 | 00:10:15–00:10:30 | S25
 **Characters:** LEO, DAN. **Location:** MARKET_STALL. **Wardrobe:** W01 only.
@@ -310,7 +310,7 @@ Use fixed identity/wardrobe previews in `assets/characters/` for viewing; origin
 **Composition:** Close notes then reaction. **Action:** With both papers open and separate, Dan finally sees SALAD on blue and SOUP on yellow. Leo points at the basket, reminding him they have still bought the correct food.
 **Starting continuity:** Continue immediately after the previous shot; preserve props and inventory. **Ending continuity:** Hold the specified action end state; match the next shot with no unexplained changes.
 **Dialogue:** DAN: “The groceries are right. The dinner names are wrong.” LEO: “We can fix the bags before we leave.”
-**Notes:** New story-only connecting beat: storyboard illustration and production first frame **not yet created**. No invented lettering, extra people, duplicated props, abrupt cuts or subtitles baked into the footage. Add exact labels during editing. Review reference identity, six-person family geography, physical actions, item quantities and speech timing.
+**Notes:** Generated storyboard study: [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 2; creator approval and a separate production first frame remain pending. No invented lettering, extra people, duplicated props, abrupt cuts or subtitles baked into the footage. Add exact labels during editing. Review reference identity, six-person family geography, physical actions, item quantities and speech timing.
 
 ## SHOT_045 | 00:11:00–00:11:15 | S27
 **Characters:** DAN. **Location:** MARKET_STALL. **Wardrobe:** W01 only.
@@ -331,14 +331,14 @@ Use fixed identity/wardrobe previews in `assets/characters/` for viewing; origin
 **Composition:** Medium Dan; both women audible by phone only. **Action:** Dan leaves his phone safely on the stall counter on speaker as Maya and Nina finish their call. He nods, amused by how kindly they tease him.
 **Starting continuity:** Continue immediately after the previous shot; preserve props and inventory. **Ending continuity:** Hold the specified action end state; match the next shot with no unexplained changes.
 **Dialogue:** NINA: “Read the colors slowly, Dan.” DAN: “Blue salad. Yellow soup. Message received.”
-**Notes:** New story-only connecting beat: storyboard illustration and production first frame **not yet created**. No invented lettering, extra people, duplicated props, abrupt cuts or subtitles baked into the footage. Add exact labels during editing. Review reference identity, six-person family geography, physical actions, item quantities and speech timing.
+**Notes:** Generated storyboard study: [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 3; creator approval and a separate production first frame remain pending. No invented lettering, extra people, duplicated props, abrupt cuts or subtitles baked into the footage. Add exact labels during editing. Review reference identity, six-person family geography, physical actions, item quantities and speech timing.
 
 ## SHOT_048 | 00:11:45–00:12:00 | NEW_C14B
 **Characters:** LEO, DAN. **Location:** MARKET_STALL. **Wardrobe:** W01 only.
 **Composition:** Quiet two-shot over separated lists. **Action:** Leo studies the two lists beside Dan. No vegetables are removed; the empty totes remain hooked nearby until Ella and Max get ready to sort.
 **Starting continuity:** Continue immediately after the previous shot; preserve props and inventory. **Ending continuity:** Hold the specified action end state; match the next shot with no unexplained changes.
 **Dialogue:** LEO: “You do not have to remember everything.” DAN: “Then I should ask more questions.”
-**Notes:** New story-only connecting beat: storyboard illustration and production first frame **not yet created**. No invented lettering, extra people, duplicated props, abrupt cuts or subtitles baked into the footage. Add exact labels during editing. Review reference identity, six-person family geography, physical actions, item quantities and speech timing.
+**Notes:** Generated storyboard study: [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 4; creator approval and a separate production first frame remain pending. No invented lettering, extra people, duplicated props, abrupt cuts or subtitles baked into the footage. Add exact labels during editing. Review reference identity, six-person family geography, physical actions, item quantities and speech timing.
 
 ## SHOT_049 | 00:12:00–00:12:15 | S29
 **Characters:** DAN, LEO. **Location:** MARKET_STALL. **Wardrobe:** W01 only.
@@ -359,7 +359,7 @@ Use fixed identity/wardrobe previews in `assets/characters/` for viewing; origin
 **Composition:** Medium three-shot at counter. **Action:** The children hold the blue and yellow totes apart so the colors stay visible. Dan kneels slightly to meet Max's eye and thanks them, without starting to fill either tote yet.
 **Starting continuity:** Continue immediately after the previous shot; preserve props and inventory. **Ending continuity:** Hold the specified action end state; match the next shot with no unexplained changes.
 **Dialogue:** DAN: “Thank you for helping me fix this.” MAX: “We can do it. One vegetable at a time.”
-**Notes:** New story-only connecting beat: storyboard illustration and production first frame **not yet created**. No invented lettering, extra people, duplicated props, abrupt cuts or subtitles baked into the footage. Add exact labels during editing. Review reference identity, six-person family geography, physical actions, item quantities and speech timing.
+**Notes:** Generated storyboard study: [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 1; creator approval and a separate production first frame remain pending. No invented lettering, extra people, duplicated props, abrupt cuts or subtitles baked into the footage. Add exact labels during editing. Review reference identity, six-person family geography, physical actions, item quantities and speech timing.
 
 ## SHOT_052 | 00:12:45–00:13:00 | S31
 **Characters:** LEO, ELLA. **Location:** MARKET_STALL. **Wardrobe:** W01 only.
@@ -380,7 +380,7 @@ Use fixed identity/wardrobe previews in `assets/characters/` for viewing; origin
 **Composition:** Close handles then medium reaction. **Action:** Dan checks the handles: blue salad bag for Maya, yellow soup bag for Nina. The basket on the counter is empty after sorting and no ingredients are moved again.
 **Starting continuity:** Continue immediately after the previous shot; preserve props and inventory. **Ending continuity:** Hold the specified action end state; match the next shot with no unexplained changes.
 **Dialogue:** DAN: “Two bags, two dishes. Correct at last.” ELLA: “And no one has to eat potato salad soup.”
-**Notes:** New story-only connecting beat: storyboard illustration and production first frame **not yet created**. No invented lettering, extra people, duplicated props, abrupt cuts or subtitles baked into the footage. Add exact labels during editing. Review reference identity, six-person family geography, physical actions, item quantities and speech timing.
+**Notes:** Generated storyboard study: [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 2; creator approval and a separate production first frame remain pending. No invented lettering, extra people, duplicated props, abrupt cuts or subtitles baked into the footage. Add exact labels during editing. Review reference identity, six-person family geography, physical actions, item quantities and speech timing.
 
 ## SHOT_055 | 00:13:30–00:13:45 | S33
 **Characters:** DAN. **Location:** MARKET_CHECKOUT. **Wardrobe:** W01 only.
@@ -401,7 +401,7 @@ Use fixed identity/wardrobe previews in `assets/characters/` for viewing; origin
 **Composition:** Over-shoulder on checkout counter. **Action:** Dan keeps the twenty-dollar bill flat on the checkout counter while the vendor prepares the receipt. Leo watches the register without touching the bags or payment.
 **Starting continuity:** Continue immediately after the previous shot; preserve props and inventory. **Ending continuity:** Hold the specified action end state; match the next shot with no unexplained changes.
 **Dialogue:** DAN: “A good meal is worth careful shopping.” LEO: “And a careful receipt check.”
-**Notes:** New story-only connecting beat: storyboard illustration and production first frame **not yet created**. No invented lettering, extra people, duplicated props, abrupt cuts or subtitles baked into the footage. Add exact labels during editing. Review reference identity, six-person family geography, physical actions, item quantities and speech timing.
+**Notes:** Generated storyboard study: [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 3; creator approval and a separate production first frame remain pending. No invented lettering, extra people, duplicated props, abrupt cuts or subtitles baked into the footage. Add exact labels during editing. Review reference identity, six-person family geography, physical actions, item quantities and speech timing.
 
 ## SHOT_058 | 00:14:15–00:14:30 | S35
 **Characters:** DAN, MAX. **Location:** MARKET_CHECKOUT. **Wardrobe:** W01 only.
@@ -422,7 +422,7 @@ Use fixed identity/wardrobe previews in `assets/characters/` for viewing; origin
 **Composition:** Two-shot beside counter. **Action:** Dan puts the receipt and one dollar plus two quarters in his wallet. Max straightens his green shirt after finally understanding what the vendor meant by change.
 **Starting continuity:** Continue immediately after the previous shot; preserve props and inventory. **Ending continuity:** Hold the specified action end state; match the next shot with no unexplained changes.
 **Dialogue:** MAX: “My shirt stays green. The money comes back.” DAN: “Exactly. Two meanings, one good joke.”
-**Notes:** New story-only connecting beat: storyboard illustration and production first frame **not yet created**. No invented lettering, extra people, duplicated props, abrupt cuts or subtitles baked into the footage. Add exact labels during editing. Review reference identity, six-person family geography, physical actions, item quantities and speech timing.
+**Notes:** Generated storyboard study: [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 4; creator approval and a separate production first frame remain pending. No invented lettering, extra people, duplicated props, abrupt cuts or subtitles baked into the footage. Add exact labels during editing. Review reference identity, six-person family geography, physical actions, item quantities and speech timing.
 
 ## SHOT_061 | 00:15:00–00:15:15 | NEW_C18B
 **Characters:** DAN, LEO, ELLA, MAX. **Location:** MARKET_WIDE. **Wardrobe:** W01 only.

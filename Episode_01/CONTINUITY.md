@@ -34,8 +34,8 @@ Keep Maya and Nina equally respected; avoid jealousy/putdowns. Every voice is na
 
 ## Status
 
-12 existing selected storyboard images cover the **original 48 story beats**. The added 32 dialogue/action bridges have no generated illustrated panels yet. All original illustration choices represent composition studies, not approved video first frames. No actual produced animation/voice. Task 5 requires the creator to resume it explicitly.
+12 original selected storyboard images cover 48 retained beats. Six generated studies (boards 13–18) add 24 bridge panels; 72/80 shots now have illustrations. Boards 19–20 remain pending, and the six new studies await creator review. All original illustration choices represent composition studies, not approved video first frames. No actual produced animation/voice. Task 5 requires the creator to resume it explicitly.
 
 ## Location masters versus character-populated scenes
 
-The five clean `assets/environments/*.jpg` previews are correct environment-only masters. Do not replace or corrupt their identity or geography; use them as backgrounds while placing actors for each shot. The cast/reference pairings and all five scene-specific composition requests are in [`SCENE_REFERENCE_PLAN.md`](SCENE_REFERENCE_PLAN.md). Match skin tones from the *actual* archived masters, not a guessed lookalike. Static location+character composites are **pending**, and the 32 additional beats also require planned visuals before Task 5.
+The five clean `assets/environments/*.jpg` previews are correct environment-only masters. Do not replace or corrupt their identity or geography; use them as backgrounds while placing actors for each shot. The cast/reference pairings and all five scene-specific composition requests are in [`SCENE_REFERENCE_PLAN.md`](SCENE_REFERENCE_PLAN.md). Match skin tones from the *actual* archived masters, not a guessed lookalike. Static location+character composites are **pending**, and eight bridge beats still need illustrations; all 80 shots require approved production first frames before Task 5.

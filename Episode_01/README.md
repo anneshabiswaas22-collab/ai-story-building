@@ -7,14 +7,14 @@ The story includes family-friendly comedy and emotional teamwork. Natural Americ
 ## Start here
 
 1. [STORY.md](STORY.md) — **complete revised 80-shot, 00:00–20:00 screenplay**; actions, camera, characters, dialogue, states and original storyboard mapping.
-2. [STORYBOARD_INDEX.md](STORYBOARD_INDEX.md) — 12 final image sheets, 48 original shot illustrations and 32 still-unillustrated expansion beats.
-   - [Four-slot expansion-board plan](storyboard_plans/README.md) — eight future 2×2 boards for the 32 new shots; first two precise briefs supplied, **artwork not yet generated**.
+2. [STORYBOARD_INDEX.md](STORYBOARD_INDEX.md) — 18 image sheets: 48 original plus 24 generated expansion panels (72/80 shots); eight shots pending.
+   - [Four-slot expansion-board plan](storyboard_plans/README.md) — eight 2×2 assignments; boards 13–18 generated, boards 19–20 pending with reusable briefs. See [handoff](STORYBOARD_HANDOFF.md).
 3. [VIDEO_PROMPTS.md](VIDEO_PROMPTS.md) — all 80 prompts for story-only shots (no learner practice instructions).
 4. [SUBTITLES.srt](SUBTITLES.srt) — provisional **dialogue only**; 20-minute story timing, not the former practice captions.
 5. [CONTINUITY.md](CONTINUITY.md) — character, world, shopping, phone, money and food locks.
 6. `assets/characters/` — six portraits, six reference sheets and two lineup previews, all based on frozen original master images.
 7. `assets/environments/` — five location previews; `assets/overlays/` — five useful **editable SVG** graphics (Maya’s blue list, Nina’s yellow list, exact receipt, title and ending); these are *not* character or scene images.
-8. `assets/storyboards/` — only current 12 final reviewed storyboard sheet images; **no `_v01`/`_v02`/`_v03` duplicates**.
+8. `assets/storyboards/` — 12 original selected sheets plus six generated studies awaiting creator review; **no `_v01`/`_v02`/`_v03` duplicates**.
 
 ## Production readiness and populated scenes
 
@@ -25,7 +25,7 @@ The story includes family-friendly comedy and emotional teamwork. Natural Americ
 ## Important limits
 
 - **No real animation/video/audio** has been produced. Task 5 stays deferred until the creator authorizes generation.
-- The 12 selected 4-panel sheets cover the retained original 48 beats; the 32 newly written bridging scenes **still need their own storyboard visuals / first-frame concepts** before actual production.
+- The 18 four-panel sheets illustrate 72 of 80 shots. **Boards 19–20 / eight shots still need images**; the new studies and all motion first frames need creator approval before production.
 - Preview images are faithful smaller JPEGs; full-resolution original PNG master assets remain available in the owner-supplied ZIP and past Git history, not in this simplified repository.
 - The voice/SRT timings are **planned**; verify them against actual performances before final export.
 - Story ending is 20:00. Any creator-designed practice segment comes **after** 20:00, independently, without modifying the story timeline.

@@ -5,7 +5,7 @@
 > **Genre:** family comedy, gentle emotional drama, natural American English in the story  
 > **NO practice blocks, narrator drills, teaching recap cards or forced viewer-response pauses.**
 
-This is a revised 20-minute **story-only screenplay** replacing the older 12-minute story + 8-minute lesson-recap format. Thirty-two additional dialogue/action beats connect and deepen the 48 original story shots. The 12 selected storyboards correspond to the 48 original beats; 32 new shots still require illustrated first-frame concepts before motion production.
+This is a revised 20-minute **story-only screenplay** replacing the older 12-minute story + 8-minute lesson-recap format. Thirty-two additional dialogue/action beats connect and deepen the 48 original story shots. The 12 original boards cover 48 retained beats. Six generated expansion studies (boards 13–18) add 24 illustrated beats: 18 sheets / 72 of 80 shots. Boards 19–20 remain ungenerated; all new studies await creator review and are not approved production first frames.
 
 ## Arc
 **Act I — Two lists and a promise:** Maya and Nina ask Dan to buy salad and soup ingredients. He confidently reverses the colors.
@@ -52,7 +52,7 @@ This is a revised 20-minute **story-only screenplay** replacing the older 12-min
 **Action:** The two notes rest side by side as Dan nods. Maya points to the blue paper; Nina points to the yellow. He smiles as though he understands, while the papers stay separate on the counter.  
 **Opening state:** Continue immediately after the previous shot; preserve props and inventory.  
 **End state:** Hold the specified action end state; match the next shot with no unexplained changes.  
-**Picture:** New story-only connecting beat: storyboard illustration and production first frame **not yet created**.  
+**Picture:** Generated storyboard study: [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 1; creator approval and a separate production first frame remain pending.\
 **Continuity:** No new vegetables purchased; preserve exactly the established bag/basket/item state.
 
 **Dialogue:**
@@ -67,7 +67,7 @@ This is a revised 20-minute **story-only screenplay** replacing the older 12-min
 **Action:** Leo and Ella arrive at the kitchen doorway; Max peeks from behind them. Dan proudly raises the overlapping lists but blocks one heading with his thumb.  
 **Opening state:** Continue immediately after the previous shot; preserve props and inventory.  
 **End state:** Hold the specified action end state; match the next shot with no unexplained changes.  
-**Picture:** New story-only connecting beat: storyboard illustration and production first frame **not yet created**.  
+**Picture:** Generated storyboard study: [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 2; creator approval and a separate production first frame remain pending.\
 **Continuity:** No new vegetables purchased; preserve exactly the established bag/basket/item state.
 
 **Dialogue:**
@@ -112,7 +112,7 @@ This is a revised 20-minute **story-only screenplay** replacing the older 12-min
 **Action:** At the kitchen doorway, the children gather their empty bags and basket. Dan pats his right trouser pocket and carefully checks that everyone has shoes on before they leave.  
 **Opening state:** Continue immediately after the previous shot; preserve props and inventory.  
 **End state:** Hold the specified action end state; match the next shot with no unexplained changes.  
-**Picture:** New story-only connecting beat: storyboard illustration and production first frame **not yet created**.  
+**Picture:** Generated storyboard study: [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 3; creator approval and a separate production first frame remain pending.\
 **Continuity:** No new vegetables purchased; preserve exactly the established bag/basket/item state.
 
 **Dialogue:**
@@ -157,7 +157,7 @@ This is a revised 20-minute **story-only screenplay** replacing the older 12-min
 **Action:** They pause at the market aisle entrance. Ella points toward the bright produce stall while Max walks on Dan's inside, leaving the aisle clear.  
 **Opening state:** Continue immediately after the previous shot; preserve props and inventory.  
 **End state:** Hold the specified action end state; match the next shot with no unexplained changes.  
-**Picture:** New story-only connecting beat: storyboard illustration and production first frame **not yet created**.  
+**Picture:** Generated storyboard study: [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 4; creator approval and a separate production first frame remain pending.\
 **Continuity:** No new vegetables purchased; preserve exactly the established bag/basket/item state.
 
 **Dialogue:**
@@ -172,7 +172,7 @@ This is a revised 20-minute **story-only screenplay** replacing the older 12-min
 **Action:** Dan notices several similarly colored baskets and stops instead of taking anything. Leo points to their family's woven basket; everyone laughs softly.  
 **Opening state:** Continue immediately after the previous shot; preserve props and inventory.  
 **End state:** Hold the specified action end state; match the next shot with no unexplained changes.  
-**Picture:** New story-only connecting beat: storyboard illustration and production first frame **not yet created**.  
+**Picture:** Generated storyboard study: [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 1; creator approval and a separate production first frame remain pending.\
 **Continuity:** No new vegetables purchased; preserve exactly the established bag/basket/item state.
 
 **Dialogue:**
@@ -218,7 +218,7 @@ This is a revised 20-minute **story-only screenplay** replacing the older 12-min
 **Action:** Dan looks at the four carrots in his basket, then at a crate full of many more. Ella closes the folded note with a patient smile; no additional vegetables are picked up.  
 **Opening state:** Continue immediately after the previous shot; preserve props and inventory.  
 **End state:** Hold the specified action end state; match the next shot with no unexplained changes.  
-**Picture:** New story-only connecting beat: storyboard illustration and production first frame **not yet created**.  
+**Picture:** Generated storyboard study: [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 2; creator approval and a separate production first frame remain pending.\
 **Continuity:** No new vegetables purchased; preserve exactly the established bag/basket/item state.
 
 **Dialogue:**
@@ -264,7 +264,7 @@ This is a revised 20-minute **story-only screenplay** replacing the older 12-min
 **Action:** Leo gently adjusts the protected tomato tray beside the four carrots. Dan mimics a slow bowling roll with his empty hand; Leo shakes his head, smiling.  
 **Opening state:** Continue immediately after the previous shot; preserve props and inventory.  
 **End state:** Hold the specified action end state; match the next shot with no unexplained changes.  
-**Picture:** New story-only connecting beat: storyboard illustration and production first frame **not yet created**.  
+**Picture:** Generated storyboard study: [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 3; creator approval and a separate production first frame remain pending.\
 **Continuity:** No new vegetables purchased; preserve exactly the established bag/basket/item state.
 
 **Dialogue:**
@@ -309,7 +309,7 @@ This is a revised 20-minute **story-only screenplay** replacing the older 12-min
 **Action:** Ella points out the bumpy skin of the cucumber already in the basket. Dan holds his empty hand beside the zucchini crate without taking another vegetable.  
 **Opening state:** Continue immediately after the previous shot; preserve props and inventory.  
 **End state:** Hold the specified action end state; match the next shot with no unexplained changes.  
-**Picture:** New story-only connecting beat: storyboard illustration and production first frame **not yet created**.  
+**Picture:** Generated storyboard study: [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 4; creator approval and a separate production first frame remain pending.\
 **Continuity:** No new vegetables purchased; preserve exactly the established bag/basket/item state.
 
 **Dialogue:**
@@ -324,7 +324,7 @@ This is a revised 20-minute **story-only screenplay** replacing the older 12-min
 **Action:** They move along the same stall to the potato bins. Leo notices the yellow note tucked behind the blue one, while Dan keeps his confident grin.  
 **Opening state:** Continue immediately after the previous shot; preserve props and inventory.  
 **End state:** Hold the specified action end state; match the next shot with no unexplained changes.  
-**Picture:** New story-only connecting beat: storyboard illustration and production first frame **not yet created**.  
+**Picture:** Generated storyboard study: [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 1; creator approval and a separate production first frame remain pending.\
 **Continuity:** No new vegetables purchased; preserve exactly the established bag/basket/item state.
 
 **Dialogue:**
@@ -369,7 +369,7 @@ This is a revised 20-minute **story-only screenplay** replacing the older 12-min
 **Action:** Dan looks from the six-potato sack to a picture of salad, puzzled. Leo leaves the vegetables untouched and studies Dan's overlapping lists.  
 **Opening state:** Continue immediately after the previous shot; preserve props and inventory.  
 **End state:** Hold the specified action end state; match the next shot with no unexplained changes.  
-**Picture:** New story-only connecting beat: storyboard illustration and production first frame **not yet created**.  
+**Picture:** Generated storyboard study: [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 2; creator approval and a separate production first frame remain pending.\
 **Continuity:** No new vegetables purchased; preserve exactly the established bag/basket/item state.
 
 **Dialogue:**
@@ -414,7 +414,7 @@ This is a revised 20-minute **story-only screenplay** replacing the older 12-min
 **Action:** Max pretends to be a serious detective, studying the two intact onions through the basket opening. Dan keeps the onions secure beside the heavy potatoes.  
 **Opening state:** Continue immediately after the previous shot; preserve props and inventory.  
 **End state:** Hold the specified action end state; match the next shot with no unexplained changes.  
-**Picture:** New story-only connecting beat: storyboard illustration and production first frame **not yet created**.  
+**Picture:** Generated storyboard study: [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 3; creator approval and a separate production first frame remain pending.\
 **Continuity:** No new vegetables purchased; preserve exactly the established bag/basket/item state.
 
 **Dialogue:**
@@ -460,7 +460,7 @@ This is a revised 20-minute **story-only screenplay** replacing the older 12-min
 **Action:** The broccoli nestles in the basket away from the tomatoes. Max peers at the tiny florets while Ella checks the next item on the paper without pulling anything out.  
 **Opening state:** Continue immediately after the previous shot; preserve props and inventory.  
 **End state:** Hold the specified action end state; match the next shot with no unexplained changes.  
-**Picture:** New story-only connecting beat: storyboard illustration and production first frame **not yet created**.  
+**Picture:** Generated storyboard study: [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 4; creator approval and a separate production first frame remain pending.\
 **Continuity:** No new vegetables purchased; preserve exactly the established bag/basket/item state.
 
 **Dialogue:**
@@ -475,7 +475,7 @@ This is a revised 20-minute **story-only screenplay** replacing the older 12-min
 **Action:** Dan checks the basket's growing weight with both hands. Leo spots red bell peppers farther along the stall and points; nobody removes or adds produce.  
 **Opening state:** Continue immediately after the previous shot; preserve props and inventory.  
 **End state:** Hold the specified action end state; match the next shot with no unexplained changes.  
-**Picture:** New story-only connecting beat: storyboard illustration and production first frame **not yet created**.  
+**Picture:** Generated storyboard study: [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 1; creator approval and a separate production first frame remain pending.\
 **Continuity:** No new vegetables purchased; preserve exactly the established bag/basket/item state.
 
 **Dialogue:**
@@ -520,7 +520,7 @@ This is a revised 20-minute **story-only screenplay** replacing the older 12-min
 **Action:** Dan holds his now-empty hands near his ears like a bell ringer while Leo protects the red pepper in the basket. Both laugh quietly at the harmless wordplay.  
 **Opening state:** Continue immediately after the previous shot; preserve props and inventory.  
 **End state:** Hold the specified action end state; match the next shot with no unexplained changes.  
-**Picture:** New story-only connecting beat: storyboard illustration and production first frame **not yet created**.  
+**Picture:** Generated storyboard study: [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 2; creator approval and a separate production first frame remain pending.\
 **Continuity:** No new vegetables purchased; preserve exactly the established bag/basket/item state.
 
 **Dialogue:**
@@ -567,7 +567,7 @@ This is a revised 20-minute **story-only screenplay** replacing the older 12-min
 **Action:** Max leans toward the two corn ears tucked safely in the basket without touching them. Ella leans closer, waiting for his latest question.  
 **Opening state:** Continue immediately after the previous shot; preserve props and inventory.  
 **End state:** Hold the specified action end state; match the next shot with no unexplained changes.  
-**Picture:** New story-only connecting beat: storyboard illustration and production first frame **not yet created**.  
+**Picture:** Generated storyboard study: [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 3; creator approval and a separate production first frame remain pending.\
 **Continuity:** No new vegetables purchased; preserve exactly the established bag/basket/item state.
 
 **Dialogue:**
@@ -613,7 +613,7 @@ This is a revised 20-minute **story-only screenplay** replacing the older 12-min
 **Action:** Dan admires the lettuce resting above the heavier vegetables. Ella smiles as he checks his hair in a reflected market window, still holding no extra produce.  
 **Opening state:** Continue immediately after the previous shot; preserve props and inventory.  
 **End state:** Hold the specified action end state; match the next shot with no unexplained changes.  
-**Picture:** New story-only connecting beat: storyboard illustration and production first frame **not yet created**.  
+**Picture:** Generated storyboard study: [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 4; creator approval and a separate production first frame remain pending.\
 **Continuity:** No new vegetables purchased; preserve exactly the established bag/basket/item state.
 
 **Dialogue:**
@@ -628,7 +628,7 @@ This is a revised 20-minute **story-only screenplay** replacing the older 12-min
 **Action:** Leo studies the far-right leafy-greens section and spots sealed spinach bags. Dan's blue note remains in front of the yellow one as they approach.  
 **Opening state:** Continue immediately after the previous shot; preserve props and inventory.  
 **End state:** Hold the specified action end state; match the next shot with no unexplained changes.  
-**Picture:** New story-only connecting beat: storyboard illustration and production first frame **not yet created**.  
+**Picture:** Generated storyboard study: [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 1; creator approval and a separate production first frame remain pending.\
 **Continuity:** No new vegetables purchased; preserve exactly the established bag/basket/item state.
 
 **Dialogue:**
@@ -673,7 +673,7 @@ This is a revised 20-minute **story-only screenplay** replacing the older 12-min
 **Action:** With both papers open and separate, Dan finally sees SALAD on blue and SOUP on yellow. Leo points at the basket, reminding him they have still bought the correct food.  
 **Opening state:** Continue immediately after the previous shot; preserve props and inventory.  
 **End state:** Hold the specified action end state; match the next shot with no unexplained changes.  
-**Picture:** New story-only connecting beat: storyboard illustration and production first frame **not yet created**.  
+**Picture:** Generated storyboard study: [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 2; creator approval and a separate production first frame remain pending.\
 **Continuity:** No new vegetables purchased; preserve exactly the established bag/basket/item state.
 
 **Dialogue:**
@@ -719,7 +719,7 @@ This is a revised 20-minute **story-only screenplay** replacing the older 12-min
 **Action:** Dan leaves his phone safely on the stall counter on speaker as Maya and Nina finish their call. He nods, amused by how kindly they tease him.  
 **Opening state:** Continue immediately after the previous shot; preserve props and inventory.  
 **End state:** Hold the specified action end state; match the next shot with no unexplained changes.  
-**Picture:** New story-only connecting beat: storyboard illustration and production first frame **not yet created**.  
+**Picture:** Generated storyboard study: [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 3; creator approval and a separate production first frame remain pending.\
 **Continuity:** No new vegetables purchased; preserve exactly the established bag/basket/item state.
 
 **Dialogue:**
@@ -734,7 +734,7 @@ This is a revised 20-minute **story-only screenplay** replacing the older 12-min
 **Action:** Leo studies the two lists beside Dan. No vegetables are removed; the empty totes remain hooked nearby until Ella and Max get ready to sort.  
 **Opening state:** Continue immediately after the previous shot; preserve props and inventory.  
 **End state:** Hold the specified action end state; match the next shot with no unexplained changes.  
-**Picture:** New story-only connecting beat: storyboard illustration and production first frame **not yet created**.  
+**Picture:** Generated storyboard study: [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 4; creator approval and a separate production first frame remain pending.\
 **Continuity:** No new vegetables purchased; preserve exactly the established bag/basket/item state.
 
 **Dialogue:**
@@ -779,7 +779,7 @@ This is a revised 20-minute **story-only screenplay** replacing the older 12-min
 **Action:** The children hold the blue and yellow totes apart so the colors stay visible. Dan kneels slightly to meet Max's eye and thanks them, without starting to fill either tote yet.  
 **Opening state:** Continue immediately after the previous shot; preserve props and inventory.  
 **End state:** Hold the specified action end state; match the next shot with no unexplained changes.  
-**Picture:** New story-only connecting beat: storyboard illustration and production first frame **not yet created**.  
+**Picture:** Generated storyboard study: [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 1; creator approval and a separate production first frame remain pending.\
 **Continuity:** No new vegetables purchased; preserve exactly the established bag/basket/item state.
 
 **Dialogue:**
@@ -824,7 +824,7 @@ This is a revised 20-minute **story-only screenplay** replacing the older 12-min
 **Action:** Dan checks the handles: blue salad bag for Maya, yellow soup bag for Nina. The basket on the counter is empty after sorting and no ingredients are moved again.  
 **Opening state:** Continue immediately after the previous shot; preserve props and inventory.  
 **End state:** Hold the specified action end state; match the next shot with no unexplained changes.  
-**Picture:** New story-only connecting beat: storyboard illustration and production first frame **not yet created**.  
+**Picture:** Generated storyboard study: [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 2; creator approval and a separate production first frame remain pending.\
 **Continuity:** No new vegetables purchased; preserve exactly the established bag/basket/item state.
 
 **Dialogue:**
@@ -870,7 +870,7 @@ This is a revised 20-minute **story-only screenplay** replacing the older 12-min
 **Action:** Dan keeps the twenty-dollar bill flat on the checkout counter while the vendor prepares the receipt. Leo watches the register without touching the bags or payment.  
 **Opening state:** Continue immediately after the previous shot; preserve props and inventory.  
 **End state:** Hold the specified action end state; match the next shot with no unexplained changes.  
-**Picture:** New story-only connecting beat: storyboard illustration and production first frame **not yet created**.  
+**Picture:** Generated storyboard study: [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 3; creator approval and a separate production first frame remain pending.\
 **Continuity:** No new vegetables purchased; preserve exactly the established bag/basket/item state.
 
 **Dialogue:**
@@ -916,7 +916,7 @@ This is a revised 20-minute **story-only screenplay** replacing the older 12-min
 **Action:** Dan puts the receipt and one dollar plus two quarters in his wallet. Max straightens his green shirt after finally understanding what the vendor meant by change.  
 **Opening state:** Continue immediately after the previous shot; preserve props and inventory.  
 **End state:** Hold the specified action end state; match the next shot with no unexplained changes.  
-**Picture:** New story-only connecting beat: storyboard illustration and production first frame **not yet created**.  
+**Picture:** Generated storyboard study: [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 4; creator approval and a separate production first frame remain pending.\
 **Continuity:** No new vegetables purchased; preserve exactly the established bag/basket/item state.
 
 **Dialogue:**

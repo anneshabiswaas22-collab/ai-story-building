@@ -15,12 +15,12 @@
 - Keep background locations faithful to the original master camera geography. Items cannot teleport or duplicate.
 - Shopping notes: BLUE = Maya/salad; YELLOW = Nina/soup. No shopping items before they're bought, two totes remain empty until sorting.
 
-**Production gate:** This is a script-aligned **image-generation brief**, NOT a completed illustrated storyboard. Only move a sheet into `Episode_01/assets/storyboards/BOARD_XX.png` after visually checking four correctly rendered slots, exact IDs, actors, geography, hands, lists, and prop inventory. Don't replace BOARD_01–12 and don't treat the brief as an image. Stop if reference identities drift.
+**Production gate:** This file is the reusable image-generation brief; the linked PNG now exists as a generated study awaiting creator approval. Only move a sheet into `Episode_01/assets/storyboards/BOARD_XX.png` after visually checking four correctly rendered slots, exact IDs, actors, geography, hands, lists, and prop inventory. Don't replace BOARD_01–12 and don't treat the brief as an image. Stop if reference identities drift.
 
 **Work in batches of only one or two sheets** and seek creator review before expanding to further sheets, rather than generating eight sheets in one request.
 
 ## New storyboard BOARD_13 — 4 exact shots
-**Image asset target (not yet created):** `Episode_01/assets/storyboards/BOARD_13.png`. **Status: planned; no approved art.**
+**Image asset:** `Episode_01/assets/storyboards/BOARD_13.png`. **Status: generated study; creator approval pending.**
 **Reference board:** [Original approved BOARD_01](../assets/storyboards/BOARD_01.png). **Output:** four panels ONLY, ordered left-to-right then top-to-bottom.
 
 ### TOP-LEFT — SHOT_003 (00:00:30–00:00:45)
@@ -64,8 +64,8 @@
 - **Visual label:** `SHOT_010` in the small lower-left dark chip only.
 
 ## Image production / acceptance checklist
-- [ ] 1672×941 sheet, exactly **2×2** with 4 cinematic panels; same soft 3D rendering as accepted BOARD_01–12.
-- [ ] All four IDs are present exactly once in order: SHOT_003, SHOT_004, SHOT_007, SHOT_010.
+- [x] 1672×941 sheet, exactly **2×2** with 4 cinematic panels; same soft 3D rendering as accepted BOARD_01–12.
+- [x] All four IDs are present exactly once in order: SHOT_003, SHOT_004, SHOT_007, SHOT_010.
 - [ ] Every panel contains only its declared cast, no unplanned vendor/adult/family doubles.
 - [ ] Hair, skin tones, clothing, adult/child scale and prop hands match official archived cast.
 - [ ] Location geography, tote colors, basket quantities and transition states match STORY.md.

@@ -2,13 +2,22 @@ name: Verify clean 20-minute story
 on:
   push:
   pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: episode-validation-${{ github.ref }}
+  cancel-in-progress: true
 jobs:
   verify:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - name: Check story runtime, subtitles, storyboard versions and clean episode folders
+      - name: Check runtime, illustrated coverage, PNG integrity, source mapping and links
         run: python Episode_01/check.py
+      - name: Ensure validation rejects missing art, duplicate shots, corruption and broken links
+        run: python Episode_01/test_checks.py

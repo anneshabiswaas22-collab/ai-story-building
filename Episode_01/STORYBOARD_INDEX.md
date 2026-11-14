@@ -1,8 +1,8 @@
-# Episode 01 — FINAL selected storyboard images
+# Episode 01 — storyboard images and exact shot coverage
 
-Exactly **12 current four-panel boards** (48 illustrated original story beats). The superseded v1/v2 images have been removed from the active project. The original picture selection comes from the last reviewed Task 4 catalog; no alternate v1/v2 imagery is present under the current paths. The images remain unchanged (Git blobs reused by hash).
+**18 image sheets / 72 illustrated shots out of 80 planned story shots.** The 12 original selected sheets remain unchanged. Boards 13–18 are newly generated four-panel studies, visually inspected but **awaiting creator approval**. Boards 19–20 (8 shots) are not generated. No rendered video or approved motion first frames are claimed.
 
-**Important:** The new story-only screenplay contains 80 total 15-second shots. Current boards are mapped by retained original S-numbers to their *new* shot IDs/timestamps. **32 added story beats have no illustrated storyboard yet**. Do not falsely claim 80 illustrated shots or a completed rendered movie.
+The story remains 80 × 15 seconds = 20:00. Missing shots are distributed through the story; board numbers are asset groups, not one-minute chronological clips. Original S-labels map to new SHOT IDs below. New panels use exact SHOT labels in reading order: top-left, top-right, bottom-left, bottom-right.
 
 | Final board | Covers old beats | New 20-minute story shots | Image |
 |---|---|---|---|
@@ -19,12 +19,19 @@ Exactly **12 current four-panel boards** (48 illustrated original story beats). 
 | 11 | S41–S44 | SHOT_068, SHOT_069, SHOT_072, SHOT_073 | [BOARD_11.png](assets/storyboards/BOARD_11.png) |
 | 12 | S45–S48 | SHOT_075, SHOT_076, SHOT_078, SHOT_079 | [BOARD_12.png](assets/storyboards/BOARD_12.png) |
 
-## Added shots — **eight planned four-slot sheets, artwork not generated**
+## Expansion sheets
 
-The [expansion-board mapping](storyboard_plans/README.md) groups all 32 additional shots into `BOARD_13`–`BOARD_20`, **four story shots per board in a 2×2 grid** matching the style of the original 12. The first two briefs are [BOARD_13](storyboard_plans/BOARD_13.md) and [BOARD_14](storyboard_plans/BOARD_14.md). These files are production briefs, **not images**. No new expansion PNG has been approved or placed under `assets/storyboards`. Do not substitute previously rejected eight-panel composites.
+| Board | Top-left | Top-right | Bottom-left | Bottom-right | Image / status |
+|---|---|---|---|---|---|
+| 13 | SHOT_003 | SHOT_004 | SHOT_007 | SHOT_010 | [BOARD_13.png](assets/storyboards/BOARD_13.png) — Generated study; creator review pending |
+| 14 | SHOT_011 | SHOT_014 | SHOT_017 | SHOT_020 | [BOARD_14.png](assets/storyboards/BOARD_14.png) — Generated study; creator review pending |
+| 15 | SHOT_021 | SHOT_024 | SHOT_027 | SHOT_030 | [BOARD_15.png](assets/storyboards/BOARD_15.png) — Generated study; creator review pending |
+| 16 | SHOT_031 | SHOT_034 | SHOT_037 | SHOT_040 | [BOARD_16.png](assets/storyboards/BOARD_16.png) — Generated study; creator review pending |
+| 17 | SHOT_041 | SHOT_044 | SHOT_047 | SHOT_048 | [BOARD_17.png](assets/storyboards/BOARD_17.png) — Generated study; creator review pending |
+| 18 | SHOT_051 | SHOT_054 | SHOT_057 | SHOT_060 | [BOARD_18.png](assets/storyboards/BOARD_18.png) — Generated study; creator review pending |
+| 19 | SHOT_061 | SHOT_064 | SHOT_067 | SHOT_070 | Pending — [brief](storyboard_plans/BOARD_19.md) |
+| 20 | SHOT_071 | SHOT_074 | SHOT_077 | SHOT_080 | Pending — [brief](storyboard_plans/BOARD_20.md) |
 
-## Added shots awaiting static first-frame art
+**Remaining:** SHOT_061, SHOT_064, SHOT_067, SHOT_070, SHOT_071, SHOT_074, SHOT_077, SHOT_080.
 
-SHOT_003 (NEW_C01A), SHOT_004 (NEW_C01B), SHOT_007 (NEW_C02), SHOT_010 (NEW_C03A), SHOT_011 (NEW_C03B), SHOT_014 (NEW_C04), SHOT_017 (NEW_C05), SHOT_020 (NEW_C06A), SHOT_021 (NEW_C06B), SHOT_024 (NEW_C07), SHOT_027 (NEW_C08), SHOT_030 (NEW_C09A), SHOT_031 (NEW_C09B), SHOT_034 (NEW_C10), SHOT_037 (NEW_C11), SHOT_040 (NEW_C12A), SHOT_041 (NEW_C12B), SHOT_044 (NEW_C13), SHOT_047 (NEW_C14A), SHOT_048 (NEW_C14B), SHOT_051 (NEW_C15), SHOT_054 (NEW_C16), SHOT_057 (NEW_C17), SHOT_060 (NEW_C18A), SHOT_061 (NEW_C18B), SHOT_064 (NEW_C19), SHOT_067 (NEW_C20), SHOT_070 (NEW_C21A), SHOT_071 (NEW_C21B), SHOT_074 (NEW_C22), SHOT_077 (NEW_C23), SHOT_080 (NEW_C24)
-
-Original source contains earlier versions; those revisions are recoverable from Git history if ever required. Do not use them as current scene art. Generated four-panel sheets must not be animated literally as a continuous scene; stage one scene at a time with proper identities and environment.
+[Developer handoff](STORYBOARD_HANDOFF.md) · [All expansion briefs](storyboard_plans/README.md). Storyboard sheets are composition studies: stage, inspect and approve one shot at a time before video generation.
