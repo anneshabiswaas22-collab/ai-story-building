@@ -42,6 +42,28 @@ def check():
     assert len(active)==12, f'exactly 12 final boards needed, got {len(active)}'
     assert sorted(x.name for x in active) == [f'BOARD_{i:02}.png' for i in range(1,13)]
     assert len(re.findall(r'^\| \d{2} \| S', index, re.M)) == 12
+    # The 32 inserted story shots require EXACTLY 8 future 4-panel sheets.
+    # Do not mistake planning briefs for actual rendered/approved PNGs.
+    board_plan = (EP/'storyboard_plans/README.md').read_text(encoding='utf-8')
+    planned_rows = re.findall(
+        r'^\| \*\*BOARD_(1[3-9]|20)\*\* \| (SHOT_\d{3}) \| (SHOT_\d{3}) \| '
+        r'(SHOT_\d{3}) \| (SHOT_\d{3}) \|', board_plan, re.M)
+    assert len(planned_rows) == 8, 'exactly eight four-panel expansion board plans required'
+    assert [int(r[0]) for r in planned_rows] == list(range(13, 21)), 'board plan order 13-20'
+    planned_shots = [name for row in planned_rows for name in row[1:]]
+    original_rows = re.findall(r'^\| \d{2} \| S\d{2}–S\d{2} \| ([^|]+) \|', index, re.M)
+    retained_shots = set(re.findall(r'SHOT_\d{3}', ' '.join(original_rows)))
+    expected_added = {f'SHOT_{i:03}' for i in range(1,81)} - retained_shots
+    assert len(retained_shots) == 48 and len(expected_added) == 32
+    assert len(planned_shots) == len(set(planned_shots)) == 32, 'duplicate planned shot'
+    assert set(planned_shots) == expected_added, 'expansion board assignment missing or includes retained shot'
+    for n in (13, 14):
+        brief = (EP/'storyboard_plans'/f'BOARD_{n}.md').read_text(encoding='utf-8')
+        row = planned_rows[n-13]
+        for expected in row[1:]:
+            assert re.search(r'^### (?:TOP-LEFT|TOP-RIGHT|BOTTOM-LEFT|BOTTOM-RIGHT) — '
+                             + expected + r' \(', brief, re.M), f'brief {n} missing {expected}'
+        assert 'Status: planned; no approved art' in brief, 'do not present briefs as finished PNGs'
     assert len(list((EP/'assets/characters').glob('*.jpg'))) == 14, 'expected 14 character viewing references'
     assert len(list((EP/'assets/environments').glob('*.jpg'))) == 5
     assert not (EP/'assets/props').exists(), 'obsolete props directory should be removed'

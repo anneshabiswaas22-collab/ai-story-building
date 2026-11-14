@@ -8,6 +8,7 @@ The story includes family-friendly comedy and emotional teamwork. Natural Americ
 
 1. [STORY.md](STORY.md) — **complete revised 80-shot, 00:00–20:00 screenplay**; actions, camera, characters, dialogue, states and original storyboard mapping.
 2. [STORYBOARD_INDEX.md](STORYBOARD_INDEX.md) — 12 final image sheets, 48 original shot illustrations and 32 still-unillustrated expansion beats.
+   - [Four-slot expansion-board plan](storyboard_plans/README.md) — eight future 2×2 boards for the 32 new shots; first two precise briefs supplied, **artwork not yet generated**.
 3. [VIDEO_PROMPTS.md](VIDEO_PROMPTS.md) — all 80 prompts for story-only shots (no learner practice instructions).
 4. [SUBTITLES.srt](SUBTITLES.srt) — provisional **dialogue only**; 20-minute story timing, not the former practice captions.
 5. [CONTINUITY.md](CONTINUITY.md) — character, world, shopping, phone, money and food locks.
