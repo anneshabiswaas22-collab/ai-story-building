@@ -19,6 +19,10 @@ Exactly **12 current four-panel boards** (48 illustrated original story beats). 
 | 11 | S41–S44 | SHOT_068, SHOT_069, SHOT_072, SHOT_073 | [BOARD_11.png](assets/storyboards/BOARD_11.png) |
 | 12 | S45–S48 | SHOT_075, SHOT_076, SHOT_078, SHOT_079 | [BOARD_12.png](assets/storyboards/BOARD_12.png) |
 
+## Added shots — **eight planned four-slot sheets, artwork not generated**
+
+The [expansion-board mapping](storyboard_plans/README.md) groups all 32 additional shots into `BOARD_13`–`BOARD_20`, **four story shots per board in a 2×2 grid** matching the style of the original 12. The first two briefs are [BOARD_13](storyboard_plans/BOARD_13.md) and [BOARD_14](storyboard_plans/BOARD_14.md). These files are production briefs, **not images**. No new expansion PNG has been approved or placed under `assets/storyboards`. Do not substitute previously rejected eight-panel composites.
+
 ## Added shots awaiting static first-frame art
 
 SHOT_003 (NEW_C01A), SHOT_004 (NEW_C01B), SHOT_007 (NEW_C02), SHOT_010 (NEW_C03A), SHOT_011 (NEW_C03B), SHOT_014 (NEW_C04), SHOT_017 (NEW_C05), SHOT_020 (NEW_C06A), SHOT_021 (NEW_C06B), SHOT_024 (NEW_C07), SHOT_027 (NEW_C08), SHOT_030 (NEW_C09A), SHOT_031 (NEW_C09B), SHOT_034 (NEW_C10), SHOT_037 (NEW_C11), SHOT_040 (NEW_C12A), SHOT_041 (NEW_C12B), SHOT_044 (NEW_C13), SHOT_047 (NEW_C14A), SHOT_048 (NEW_C14B), SHOT_051 (NEW_C15), SHOT_054 (NEW_C16), SHOT_057 (NEW_C17), SHOT_060 (NEW_C18A), SHOT_061 (NEW_C18B), SHOT_064 (NEW_C19), SHOT_067 (NEW_C20), SHOT_070 (NEW_C21A), SHOT_071 (NEW_C21B), SHOT_074 (NEW_C22), SHOT_077 (NEW_C23), SHOT_080 (NEW_C24)
