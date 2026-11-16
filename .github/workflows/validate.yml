@@ -25,6 +25,8 @@ jobs:
         run: python tools/audit_series.py --strict-art --report "$RUNNER_TEMP/series-audit.md" --manifest "$RUNNER_TEMP/shot-manifest.tsv"
       - name: Generate full non-image production handoff and continuity-review queue
         run: python tools/production_handoff.py --output-dir "$RUNNER_TEMP/production-handoff"
+      - name: Export safe four-shot Google Flow pilot (text only)
+        run: python tools/export_flow_shots.py --episode 1 --first 1 --last 4 --output-dir "$RUNNER_TEMP/flow-pilot"
       - name: Check living root documentation and repository navigation
         run: python tools/check_root_docs.py
       - name: Check Episode 01 sequential written handoff
@@ -40,5 +42,6 @@ jobs:
             ${{ runner.temp }}/series-audit.md
             ${{ runner.temp }}/shot-manifest.tsv
             ${{ runner.temp }}/production-handoff/
+            ${{ runner.temp }}/flow-pilot/
           if-no-files-found: warn
           retention-days: 30
