@@ -38,7 +38,7 @@ class FlowShotHandoffTests(unittest.TestCase):
             self.assertIn("MAYA:", prompt)
             self.assertIn("Dan, please buy four carrots", prompt)
             self.assertIn("BOARD_01.png", prompt)
-            self.assertIn("not a single video starting frame", prompt)
+            self.assertIn("as a single video starting frame", prompt)
             self.assertIn("PENDING_HUMAN_REVIEW",
                           (out / "shot_preflight.tsv").read_text())
             self.assertNotIn("start_frame.png", [x.name for x in out.rglob("*") if x.is_file()])
