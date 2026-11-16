@@ -2,6 +2,8 @@
 
 **One complete planned story at a time.** An original 3D animated American-English family comedy with six recurring family characters: Dan, Maya, Nina, Leo, Ella and Max.
 
+**Google Flow / video stage:** Use the [per-shot Flow production guide](FLOW_PRODUCTION_GUIDE.md) and source-grounded [visual-issue review list](FLOW_VISUAL_ISSUES.tsv). Generate a small set of exact shot briefs with `python tools/export_flow_shots.py --episode 1 --first 1 --last 4 --output-dir /tmp/maple-flow-pilot`. These outputs are **text-only**, not approved frames/videos. The existing 200 storyboard sheets remain safe and unchanged. Do not delete historical Markdown documentation or assume an unflagged image is visually approved.
+
 **Storyboard milestone (2026-11-16): 200/200 unique PNG storyboard sheets saved on `main`, covering 800 authored shot concepts.** Strict full-art structural checks and all 104 automated tests passed. These are still **unapproved visual drafts**, not approved motion first frames or completed animated movies. See [current production status](CURRENT_PRODUCTION_STATUS.md); always run `python tools/list_missing_storyboards.py` for a live count.
 
 ## Episode folders

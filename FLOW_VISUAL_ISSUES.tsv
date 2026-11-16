@@ -1,0 +1,79 @@
+episode	board	panel	priority	issue	source_document	review_status
+04	BOARD_14	1	P1	SHOT_053: duplicate navy shoes in Ella box while Nina already holds the only pair	Episode_04/assets/storyboards/GENERATION_NOTES.md	reported_needs_pixel_recheck
+04	BOARD_14	3	P1	SHOT_055: duplicated closed shoe box; Dan should hold the matching lid	Episode_04/assets/storyboards/GENERATION_NOTES.md	reported_needs_pixel_recheck
+04	BOARD_16	1	P2	SHOT_061: $8 change denomination partly occluded; overlay must show one $5 and three $1	Episode_04/assets/storyboards/GENERATION_NOTES.md	reported_needs_pixel_recheck
+04	BOARD_16	2	P2	SHOT_062: generated floating budget lettering needs precise editable overlay	Episode_04/assets/storyboards/GENERATION_NOTES.md	reported_needs_pixel_recheck
+04	BOARD_17	1	P1	SHOT_065: unscripted wallet or receipt handoff after wallet already pocketed	Episode_04/assets/storyboards/GENERATION_NOTES.md	reported_needs_pixel_recheck
+04	BOARD_17	2	P1	SHOT_066: Nina holds Maya personal cream tote without a source transfer	Episode_04/assets/storyboards/GENERATION_NOTES.md	reported_needs_pixel_recheck
+04	BOARD_19	all	P1	Wrong four-stacked-strip layout; incorrect bag and duplicated navy display shoes	Episode_04/assets/storyboards/GENERATION_NOTES.md	reported_needs_pixel_recheck
+04	BOARD_20	all	P1	Wrong four-strip layout; unbagged purchase box and unsafe Max island staging	Episode_04/assets/storyboards/GENERATION_NOTES.md	reported_needs_pixel_recheck
+05	BOARD_01	2	P2	SHOT_002: six-plate stack count not yet visually certified	Episode_05/assets/storyboards/GENERATION_NOTES.md	reported_needs_pixel_recheck
+05	BOARD_05	4	P1	SHOT_020: map prematurely placed in Leo hand before planned transfer	Episode_05/assets/storyboards/GENERATION_NOTES.md	reported_needs_pixel_recheck
+05	BOARD_06	3	P1	SHOT_023: paper map symbols rotate inconsistently; standing actors shown seated	Episode_05/assets/storyboards/GENERATION_NOTES.md	reported_needs_pixel_recheck
+05	BOARD_06	4	P1	SHOT_024: paper map perspective and standing poses inconsistent	Episode_05/assets/storyboards/GENERATION_NOTES.md	reported_needs_pixel_recheck
+05	BOARD_07	all	P1	Blue cooler/case substitutes for tan wicker map basket; wrong carrying poses	Episode_05/assets/storyboards/GENERATION_NOTES.md	reported_needs_pixel_recheck
+05	BOARD_09	4	P1	SHOT_036: wicker basket missing from Dan left hand	Episode_05/assets/storyboards/GENERATION_NOTES.md	reported_needs_pixel_recheck
+05	BOARD_11	1	P1	SHOT_041: all six appear instead of listed visible three-character subset	Episode_05/assets/storyboards/GENERATION_NOTES.md	reported_needs_pixel_recheck
+05	BOARD_11	3	P1	SHOT_043: invented extra sketchbook/papers; should be one map and one sleeve	Episode_05/assets/storyboards/GENERATION_NOTES.md	reported_needs_pixel_recheck
+05	BOARD_12	3	P2	SHOT_047: six-person seating order drifts from fixed picnic diagram	Episode_05/assets/storyboards/GENERATION_NOTES.md	reported_needs_pixel_recheck
+05	BOARD_13	2	P1	SHOT_050: duplicated Leo creates seventh visible person; SHOT_052 separately corrected	Episode_05/assets/storyboards/GENERATION_NOTES.md	reported_needs_pixel_recheck
+05	BOARD_14	3	P1	SHOT_055: sandwich appears in Dan hands and still on his plate; filling wrong	Episode_05/assets/storyboards/GENERATION_NOTES.md	reported_needs_pixel_recheck
+05	BOARD_16	all	P1	Clear tumblers replace six owned blue-cap bottles; duplicate food/plate portions	Episode_05/assets/storyboards/GENERATION_NOTES.md	reported_needs_pixel_recheck
+05	BOARD_17	all	P1	Metal flasks replace six blue-cap bottles; possible seventh drinking vessel	Episode_05/assets/storyboards/GENERATION_NOTES.md	reported_needs_pixel_recheck
+05	BOARD_20	1	P2	SHOT_077: Nina appears beyond shot visible-cast subset; dish count review	Episode_05/assets/storyboards/GENERATION_NOTES.md	reported_needs_pixel_recheck
+06	BOARD_03	4	P1	SHOT_012: six required empty restaurant place settings missing	Episode_06/assets/storyboards/SOURCE_RECORD.md	reported_needs_pixel_recheck
+06	BOARD_04	2	P1	SHOT_014: water appears before service	Episode_06/assets/storyboards/SOURCE_RECORD.md	reported_needs_pixel_recheck
+06	BOARD_04	4	P1	SHOT_016: water glasses duplicated beyond the permitted six	Episode_06/assets/storyboards/SOURCE_RECORD.md	reported_needs_pixel_recheck
+06	BOARD_05	all	P1	Restaurant seat blocking compresses actors onto one side; extra glasses	Episode_06/assets/storyboards/SOURCE_RECORD.md	reported_needs_pixel_recheck
+06	BOARD_06	all	P2	Restaurant three-shots drift from original fixed seating	Episode_06/assets/storyboards/SOURCE_RECORD.md	reported_needs_pixel_recheck
+06	BOARD_10	all	P1	Characters switch table sides and water-glass count changes	Episode_06/assets/storyboards/SOURCE_RECORD.md	reported_needs_pixel_recheck
+06	BOARD_12	all	P1	Tomato soup appears pale, and wrong dishes are assigned to fixed seats	Episode_06/assets/storyboards/SOURCE_RECORD.md	reported_needs_pixel_recheck
+06	BOARD_13	all	P1	Collected menus reappear in shots 049–052	Episode_06/assets/storyboards/SOURCE_RECORD.md	reported_needs_pixel_recheck
+06	BOARD_16	1	P1	SHOT_061: Max plate contains food after packed leftovers and dishes refill	Episode_06/assets/storyboards/SOURCE_RECORD.md	reported_needs_pixel_recheck
+06	BOARD_19	all	P1	Inaccurate tip/change denominations; use exact dinner-check SVG and cash states	Episode_06/assets/storyboards/SOURCE_RECORD.md	reported_needs_pixel_recheck
+07	BOARD_12	2	P1	SHOT_046: bus approaches from apparently wrong direction relative to northbound route	Episode_07/assets/storyboards/GENERATION_NOTES.md	reported_needs_pixel_recheck
+07	BOARD_14	4	P2	SHOT_056: Max bus window side possibly mirrored	Episode_07/assets/storyboards/GENERATION_NOTES.md	reported_needs_pixel_recheck
+07	BOARD_16	1	P1	SHOT_061: Ella on same three-person bench instead of across aisle	Episode_07/assets/storyboards/GENERATION_NOTES.md	reported_needs_pixel_recheck
+07	BOARD_16	2	P1	SHOT_062: window/aisle seating positions need correction	Episode_07/assets/storyboards/GENERATION_NOTES.md	reported_needs_pixel_recheck
+07	BOARD_17	all	P2	Red, blue and yellow returned-book transfer sequence inconsistent	Episode_07/assets/storyboards/GENERATION_NOTES.md	reported_needs_pixel_recheck
+07	BOARD_18	1	P1	SHOT_069: four card-like shapes visible instead of three child library cards	Episode_07/assets/storyboards/GENERATION_NOTES.md	reported_needs_pixel_recheck
+08	BOARD_05	1	P1	SHOT_017: invented open suitcase in laundry foreground	Episode_08/assets/storyboards/GENERATION_NOTES.md	reported_needs_pixel_recheck
+08	BOARD_06	3	P1	SHOT_023: lavender private pouch missing from opened suitcase	Episode_08/assets/storyboards/GENERATION_NOTES.md	reported_needs_pixel_recheck
+08	BOARD_07	all	P1	Rigid household boxes used instead of soft zippered fabric cubes	Episode_08/assets/storyboards/GENERATION_NOTES.md	reported_needs_pixel_recheck
+08	BOARD_08	4	P1	SHOT_032: shoes substituted for one green-heeled sock pair	Episode_08/assets/storyboards/GENERATION_NOTES.md	reported_needs_pixel_recheck
+08	BOARD_09	4	P1	SHOT_036: duplicate coral sock pair on laundry mat	Episode_08/assets/storyboards/GENERATION_NOTES.md	reported_needs_pixel_recheck
+08	BOARD_11	1	P1	SHOT_041: orange pair name/cube ownership mismatched	Episode_08/assets/storyboards/GENERATION_NOTES.md	reported_needs_pixel_recheck
+08	BOARD_11	4	P1	SHOT_044: plum pair label and cube ownership mismatched	Episode_08/assets/storyboards/GENERATION_NOTES.md	reported_needs_pixel_recheck
+08	BOARD_13	1	P1	SHOT_049: extra unrelated socks inside active cube	Episode_08/assets/storyboards/GENERATION_NOTES.md	reported_needs_pixel_recheck
+08	BOARD_13	4	P1	SHOT_052: navy sock pair reappears on counter after packing	Episode_08/assets/storyboards/GENERATION_NOTES.md	reported_needs_pixel_recheck
+08	BOARD_15	1	P1	SHOT_057: invented overhead cubbies and rigid boxes	Episode_08/assets/storyboards/GENERATION_NOTES.md	reported_needs_pixel_recheck
+08	BOARD_15	2	P1	SHOT_058: adult top cubby row empties after previously being filled	Episode_08/assets/storyboards/GENERATION_NOTES.md	reported_needs_pixel_recheck
+08	BOARD_16	2	P1	SHOT_062: family points to wrong names and cubes	Episode_08/assets/storyboards/GENERATION_NOTES.md	reported_needs_pixel_recheck
+08	BOARD_16	4	P2	SHOT_064: dresser moves/rotates compared with established guest-room geography	Episode_08/assets/storyboards/GENERATION_NOTES.md	reported_needs_pixel_recheck
+09	BOARD_03	4	P1	SHOT_012: extra garden pots and paper coin/token design drift	Episode_09/assets/storyboards/GENERATION_NOTES.md	reported_needs_pixel_recheck
+09	BOARD_04	1	P1	SHOT_013: four terracotta pots appear when there are only three	Episode_09/assets/storyboards/GENERATION_NOTES.md	reported_needs_pixel_recheck
+09	BOARD_07	all	P1	Garden gloves missing and basil container prematurely positioned in pot	Episode_09/assets/storyboards/GENERATION_NOTES.md	reported_needs_pixel_recheck
+09	BOARD_08	all	P1	Gloves missing and transplant/empty nursery-container states inconsistent	Episode_09/assets/storyboards/GENERATION_NOTES.md	reported_needs_pixel_recheck
+09	BOARD_09	all	P1	Seed dish count and premature stake labels disagree with planting ledger	Episode_09/assets/storyboards/GENERATION_NOTES.md	reported_needs_pixel_recheck
+09	BOARD_10	4	P2	SHOT_040: gloved hands near mouth despite safety guidance	Episode_09/assets/storyboards/GENERATION_NOTES.md	reported_needs_pixel_recheck
+09	BOARD_11	1	P1	SHOT_041: Ella absent, gloves missing and token wrong shape	Episode_09/assets/storyboards/GENERATION_NOTES.md	reported_needs_pixel_recheck
+09	BOARD_13	all	P1	Plant labels disappear during watering; gloves missing	Episode_09/assets/storyboards/GENERATION_NOTES.md	reported_needs_pixel_recheck
+09	BOARD_14	all	P1	Plant label stakes missing or picture-only; gloves absent	Episode_09/assets/storyboards/GENERATION_NOTES.md	reported_needs_pixel_recheck
+09	BOARD_15	1	P1	SHOT_057: tips planted pots into tub instead of draining saucers	Episode_09/assets/storyboards/GENERATION_NOTES.md	reported_needs_pixel_recheck
+09	BOARD_17	4	P1	SHOT_068: plants return to bench; invented stopwatch or moved seed packet	Episode_09/assets/storyboards/GENERATION_NOTES.md	reported_needs_pixel_recheck
+09	BOARD_18	3	P1	SHOT_071: fixed ground plants incorrectly return to bench	Episode_09/assets/storyboards/GENERATION_NOTES.md	reported_needs_pixel_recheck
+09	BOARD_18	4	P1	SHOT_072: fixed ground plants incorrectly return to bench and labels vanish	Episode_09/assets/storyboards/GENERATION_NOTES.md	reported_needs_pixel_recheck
+10	BOARD_01	2	P1	SHOT_002: five table plates instead of six	Episode_10/assets/storyboards/GENERATION_NOTES.md	reported_needs_pixel_recheck
+10	BOARD_03	1	P1	SHOT_009: duplicate cream ribbon spools	Episode_10/assets/storyboards/GENERATION_NOTES.md	reported_needs_pixel_recheck
+10	BOARD_04	1	P1	SHOT_013: more than one strawberry depicted before serving	Episode_10/assets/storyboards/GENERATION_NOTES.md	reported_needs_pixel_recheck
+10	BOARD_04	2	P1	SHOT_014: white cake box appears before delivery	Episode_10/assets/storyboards/GENERATION_NOTES.md	reported_needs_pixel_recheck
+10	BOARD_05	2	P1	SHOT_018: original blue bow becomes red and extra bunting appears	Episode_10/assets/storyboards/GENERATION_NOTES.md	reported_needs_pixel_recheck
+10	BOARD_05	4	P1	SHOT_020: folded checklist becomes bound notebook	Episode_10/assets/storyboards/GENERATION_NOTES.md	reported_needs_pixel_recheck
+10	BOARD_06	4	P1	SHOT_024: phone ownership changes and kitchen gets wrong exterior doorway	Episode_10/assets/storyboards/GENERATION_NOTES.md	reported_needs_pixel_recheck
+10	BOARD_07	1	P1	SHOT_025: second unscripted phone appears	Episode_10/assets/storyboards/GENERATION_NOTES.md	reported_needs_pixel_recheck
+10	BOARD_08	1	P1	SHOT_029: tablet replaces established phone	Episode_10/assets/storyboards/GENERATION_NOTES.md	reported_needs_pixel_recheck
+10	BOARD_08	2	P1	SHOT_030: tablet replaces established phone	Episode_10/assets/storyboards/GENERATION_NOTES.md	reported_needs_pixel_recheck
+10	BOARD_08	3	P1	SHOT_031: duplicate phones	Episode_10/assets/storyboards/GENERATION_NOTES.md	reported_needs_pixel_recheck
+10	BOARD_09	1	P1	SHOT_033: blue door bow changes to gold and children gain backpacks	Episode_10/assets/storyboards/GENERATION_NOTES.md	reported_needs_pixel_recheck
+10	BOARD_10	1	P1	SHOT_037: all six appear instead of listed Dan/Ella/Max subset	Episode_10/assets/storyboards/GENERATION_NOTES.md	reported_needs_pixel_recheck
+10	BOARD_14	all	P2	Delivery box, seal, and exact label/phone editorial SVG need source-level review	Episode_10/assets/storyboards/GENERATION_NOTES.md	reported_needs_pixel_recheck
