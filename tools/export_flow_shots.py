@@ -14,7 +14,10 @@ import argparse
 import csv
 from pathlib import Path
 import re
+import sys
 
+# Allow direct execution as `python tools/export_flow_shots.py` from repo root.
+sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 from tools.production_handoff import ROOT, build_records
 
 ISSUE_TABLE = ROOT / "FLOW_VISUAL_ISSUES.tsv"
