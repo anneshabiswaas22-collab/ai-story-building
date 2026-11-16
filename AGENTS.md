@@ -1,5 +1,7 @@
 # Maple House English: AI developer instructions
 
+**Flow staging:** Before attempting image-to-video, use `FLOW_PRODUCTION_GUIDE.md` and the reviewed issue registry `FLOW_VISUAL_ISSUES.tsv`. `python tools/export_flow_shots.py --episode 1 --first 1 --last 4 --output-dir /tmp/flow-pilot` generates exact per-shot text only, and must never auto-approve or modify image frames. Defective panels require separate verified image edits in a PR. Do not merge generated art solely on the strength of structural tests.
+
 **Current milestone (2026-11-16):** All 200 planned four-panel storyboard PNG files are saved and merged (PR #15). CI's strict structural art gates pass and the 104-test source suite passed on `main`. These images are **not creator-approved**; documented likeness, quantity, prop and staging corrections, approved individual motion first frames, voice and movie production remain separate. See `CURRENT_PRODUCTION_STATUS.md` and run `python tools/list_missing_storyboards.py` for the live inventory. Do not regenerate completed sheets merely because an older guide says they were missing.
 
 Read the root README and `Episode_01/{README,STORY,CONTINUITY,STORYBOARD_INDEX}.md` before changes.
