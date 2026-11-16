@@ -114,6 +114,7 @@ def flow_prompt(record: dict, reported: list[dict]) -> str:
         f"SUPPORTING VISIBLE CAST REFERENCES: {'; '.join(refs['supporting_cast_refs']) or 'NONE'}",
         "",
         "PREFLIGHT: This is a generated PROMPT, not a production-approved shot.",
+        "FRAME APPROVAL: PENDING_HUMAN_REVIEW. AUDIO: NOT_VERIFIED. VIDEO: NOT_GENERATED.",
         "Human must visually review/correct the exact individual starting frame before video generation.",
     ]
     if reported:
