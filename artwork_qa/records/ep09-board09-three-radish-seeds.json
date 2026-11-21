@@ -1,0 +1,70 @@
+{
+  "episode": 9,
+  "board": 9,
+  "path": "Episode_09/assets/storyboards/BOARD_09.png",
+  "parent_commit": "5676347bdf46496c8f36e20d74734c479fdb6496",
+  "parent_sha256": "efe0f3b7f0d3294d2a3417932b88ad80fddddd148aaf0085eb966f4db8596269",
+  "selected_sha256": "60e4596a7f40a2063514328fc9e531f80886534bef2220cefe76e4ac1f39939e",
+  "parent_size": [
+    1672,
+    941
+  ],
+  "selected_size": [
+    1672,
+    941
+  ],
+  "generated_source": "Episode_09/assets/storyboards/BOARD_09.png",
+  "method": "The referenced ImageGen sheet and a localized generated detail were assembled. The detail-edit record identifies their hashes and placement.",
+  "request": "Edit the first input image, the selected storyboard. Preserve the existing four landscape panel positions in a 2×2 grid, exact original numbered SHOT_ badges, original palette/compositions and actor likeness. The second input is original family visual reference. Dan blue / left watch, Maya plum with ponytail, Nina teal auburn waves, Leo orange, braided Ella in denim overalls, small Max green. A third reference supplies setting or continuity. In every panel actors and props must follow its specified shot precisely. Keep good panels intact. Apply the following specific changes in the artwork. Keep all visible hands in the established sage work gloves with cream cuffs. Exact three terra-cotta pots and saucers: LEFT planted mint / CENTER planted basil / RIGHT bare damp radish seed bed in all four images. No extra plants, labels or green shoots in the right pot. Pot order does not change. 033 Max checks the notebook with Maya and Ella, naming the two separate herbs; no stakes in pots. 034 Leo opens the single radish seed packet with Maya nearby, Dan puts the blunt trowel down, Maya's gloved hand smooths bare RIGHT soil. 035 Maya tips exactly THREE separate tiny brown radish seeds into one shallow empty cream dish on the dry tray, show the three seeds distinct, nothing goes into soil in this shot. Leo reseals the packet; no loose seed elsewhere. 036 Nina makes exactly THREE small spaced holes in the RIGHT pot, Leo holds one small ruled ruler above the soil; ALL THREE seeds remain visible IN THE DISH. Keep safe working hands, consistent green gloves and original cast/subsets in each panel. Use practical close-up framing so the three seeds and three empty holes can be counted.\nSHOT_033 shows only MAYA, MAX, ELLA in POTTING_BENCH. Maya asks Max what belongs where while he checks the notebook. Ella smiles as he names the mint and basil correctly without turning it into an audience exercise. End: Max identifies both positions; all three pots remain stationary; no labels inserted yet. Existing artwork error: All three pots have stakes inserted early; Max holds notebook barehanded. Fix: Remove early stakes, restore gloves.\nSHOT_034 shows only DAN, MAYA, LEO in POTTING_BENCH. Maya smooths the right pot’s surface with her glove. Dan rests the trowel on the tray; Leo opens the packet carefully at the adult’s request. End: Right bed level; radish packet opened by Leo with Maya beside him; no seeds counted out yet. Existing artwork error: Three stakes already planted; Dan and Leo use bare hands. Fix: Remove stakes, restore gloves.\nSHOT_035 shows only MAYA, LEO, ELLA in POTTING_BENCH. Maya tips exactly three radish seeds into a shallow dedicated garden dish. Leo closes the remaining seed packet and returns it to the dry tray. End: Three radish seeds in dish; remaining seed stock closed in packet; right pot still unsown. Existing artwork error: Two separate packet copies, several loose falling seeds, stakes already planted. Fix: Show one packet and exactly three seeds, remove stakes and restore gloves.\nSHOT_036 shows only NINA, LEO, DAN in POTTING_BENCH. Nina makes three small holes about five centimeters apart and one centimeter deep, using the packet’s variety guidance as the story reference. Leo holds a clean garden ruler above the soil. End: Three spaced shallow holes in right pot; all three seeds still in dish. Existing artwork error: An extra pot stands between basil and right pot; two visible seeds in dish, stakes planted too early. Fix: Make three holes in original right vessel, three seeds still in dish, remove stakes.",
+  "qa_updates": {
+    "SHOT_033": {
+      "observed": "Max holds the notebook in gloved hands beside Maya and Ella. The three saucered pots show mint on the left, basil in the center and bare soil on the right.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_034": {
+      "observed": "Gloved Maya levels the right pot while Leo opens one radish packet. Dan sets the trowel down on the tray; all three pots remain in order.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_035": {
+      "observed": "Maya points at three separate seeds in the shallow dish. Leo folds the only packet closed and Ella watches. The right pot is still bare.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_036": {
+      "observed": "Nina makes the spaced holes in the right pot as Leo holds the ruler above it. Three seeds remain in the dish beside the pot and the adults’ and child’s working hands are gloved.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    }
+  },
+  "image_inputs": {
+    "selected_sheet": {
+      "path": "Episode_09/assets/storyboards/BOARD_09.png",
+      "sha256": "efe0f3b7f0d3294d2a3417932b88ad80fddddd148aaf0085eb966f4db8596269"
+    },
+    "cast_contact_sheet": {
+      "sha256": "ee132e6bb6535a21dc45a3bed61516cfd1e2c5ff9eeb35c596d1324c1079193f",
+      "original_previews": "Episode_09/assets/characters"
+    },
+    "additional_reference": {
+      "sha256": "b3ed247b759f17964d4feee3e9fb41cd65f124168a269c22591e5b9d8a69ede6",
+      "path": "Episode_09/assets/environments/POTTING_BENCH.png"
+    }
+  },
+  "detail_edit": {
+    "generated_full_sheet_sha256": "75fcf5119e3726b47d6324d2e9be4f53d16d714f63ecf9c8faa15f851addf1fd",
+    "generated_detail_sha256": "15877136ba7e293764e9b5ab148ad5e7592c207e9f9568e115d31557b426fadc",
+    "detail_request": "Edit image 1, the COMPLETE single landscape SHOT_035. Image 2 shows the correct hands and packet arrangement and is a local reference, not a replacement crop. Keep the original wide composition with Maya (plum, dark ponytail) left, Leo (orange) center AND Ella (overalls, braids) right. Their upper bodies, the frame edges, three pots, one tray and one shallow dish all stay. Match the gloved working pose in the second image. Maya's hand now holds NOTHING; her empty sage gardening glove points at EXACTLY THREE separate brown seeds in the dish on the tray. Only Leo has the one white radish seed packet as he folds it closed. No additional packet, no fourth seed, no seed in the soil. Mint plant in left terra-cotta pot, basil in center pot, right-hand pot filled with bare soil. Preserve the existing black SHOT_035 badge only once. All actors' visible hands gloved. Return ONE complete full-bleed landscape storyboard panel with the correct family and finished action, seamlessly drawn throughout, no panels inside it or added text.",
+    "detail_source_crop_width_height_x_y": "830x456+4+475",
+    "detail_resize_to": "830x456",
+    "detail_selection_region": "830x456+0+0",
+    "detail_destination": "+4+475",
+    "assembly": "Placed the entire reviewed single shot into the third quadrant, keeping one packet, three distinct seeds and the visible pot row.",
+    "hand_pose_reference_sha256": "80e5569486d3311896b52270a13fb874e719a17da81527e0ff0c32c1c03c1924"
+  }
+}
