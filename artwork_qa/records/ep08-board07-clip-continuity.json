@@ -1,0 +1,45 @@
+{
+  "episode": 8,
+  "board": 7,
+  "path": "Episode_08/assets/storyboards/BOARD_07.png",
+  "parent_commit": "1ba62c4c7f28472c8e5fab7575c44af0a698fb93",
+  "parent_sha256": "499fb0e78fedf57d615e7a02567229096bcb8d75da1c570908f7248d68a5ffe5",
+  "selected_sha256": "a9068bb88030dc9c10112a292c15f1c917bffffa5ea7f8c5a7622c08aaa3dbb6",
+  "parent_size": [
+    1672,
+    941
+  ],
+  "selected_size": [
+    1672,
+    941
+  ],
+  "generated_source": "Episode_08/assets/storyboards/BOARD_07.png",
+  "method": "Referenced ImageGen edit. The selected PNG is the original returned file.",
+  "request": "Edit the first reference: full four-panel storyboard, landscape 16:9 finished sheet, 2×2 panels with four equal rectangles. Keep black numbered labels top left, text SHOT_025 to SHOT_028 in reading order. The second image locks the family's original appearance and outfits: Dan blue polo and left-wrist watch, Maya plum and cream, Nina teal and tan, Leo orange, Ella red with long denim overalls and braids, small Max green. The third is a scene or adjacent continuity reference, not a panel to copy. Preserve composition, cast, actions, light and art from the first input except as specified. In the first three scenes the six identical gray gift organizers are small flexible textile travel packing cubes with stitched rounded corners, soft bulging weave and a zipper around the top edge. Use no hinged lids or rigid crates. At 025 Max points at his tiny pair of socks with green heels inside the ONLY open cube, five zipped ones grouped nearby and the three scripted characters. At 026 the open suitcase sits on the wooden folding luggage stand with one closed lavender pouch inside; six closed gray fabric cubes beside the stand. At 027 Dan receives the six zipped cubes in a manageable 2 x 3 arrangement from Maya; Leo takes one checklist. Keep case on stand with its closed lavender pouch. At 028 clearly change to the laundry counter, Ella arranges SIX blank tags, Leo places two distinct sheets side by side, Nina uncaps one marker above mat. Reference 3 fixes the guest room geography. Keep all four numbered labels, exactly three named cast each panel, same faces and colored clothes, no decorative text. Individual panel beats: 25 visible MAX, DAN, MAYA; Max points to the green heels and small size while Dan listens. Dan returns the intact pair to its first cube and closes it. 26 visible ELLA, NINA, MAYA; Ella notices the lavender pouch; Nina gently redirects attention to the recovered gifts without opening personal storage. 27 visible MAYA, DAN, LEO; Maya hands the six closed cubes to Dan. Leo takes Ruth's checklist from beside the case with her earlier permission. 28 visible NINA, ELLA, LEO; After the short walking transition, Ella sets six blank tabs by the counter. Leo lays the borrowed checklist beside a fresh family sorting sheet taken from the adult stationery shelf; Nina uncaps the marker over a protective scrap mat.",
+  "qa_updates": {
+    "SHOT_025": {
+      "observed": "Max points out the green-heeled socks inside Dan's open fabric cube as Maya watches. Four other closed cubes are visible.",
+      "severity": "major",
+      "correction": "Show five closed cubes plus Dan’s open cube, for a total of six.",
+      "status": "FAIL"
+    },
+    "SHOT_026": {
+      "observed": "A single closed lavender pouch is in the open suitcase on a folding stand. Exactly six zipped cubes are visible behind Ella, Nina and Maya.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_027": {
+      "observed": "Maya passes six zipped gray cubes to Dan, Leo holds the checklist, and the open case with its lavender pouch rests on its stand.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_028": {
+      "observed": "Ella arranges six blank punched tags beside two separate sheets and Nina holds the uncapped marker above the mat.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    }
+  }
+}
