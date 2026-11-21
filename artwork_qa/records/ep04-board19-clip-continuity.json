@@ -1,0 +1,45 @@
+{
+  "episode": 4,
+  "board": 19,
+  "path": "Episode_04/assets/storyboards/BOARD_19.png",
+  "parent_commit": "939c730536ca5c49a58cfc7b2250d6a421c41d03",
+  "parent_sha256": "394936165e56d5d64aeae64f10dc1ebc22777b36d932c6c504ef62f570a6dee9",
+  "selected_sha256": "d70440c0a00313f4ff724666f6b32820280d3c3f080e36023250bff0feea066e",
+  "parent_size": [
+    1261,
+    1247
+  ],
+  "selected_size": [
+    1672,
+    941
+  ],
+  "generated_source": "Episode_04/assets/storyboards/BOARD_19.png",
+  "method": "Referenced ImageGen edit. The selected PNG is the original returned file.",
+  "request": "Edit the first reference: full four-panel storyboard, landscape 16:9 finished sheet, 2×2 panels with four equal rectangles. Keep black numbered labels top left, text SHOT_073 to SHOT_076 in reading order. The second image locks the family's original appearance and outfits: Dan blue polo and left-wrist watch, Maya plum and cream, Nina teal and tan, Leo orange, Ella red with long denim overalls and braids, small Max green. The third is a scene or adjacent continuity reference, not a panel to copy. Preserve composition, cast, actions, light and art from the first input except as specified. Replace the stacked narrow horizontal strips with a wide 2×2 sheet. Refer to the following corrected home scene in reference 3 for lighting, family and CREAM paper shopping bag with a single TEAL stripe and two handles, containing one closed navy-shoe box. SHOT_073 Dan, Nina, little Max; Max stands with both original green shoes on the FLOOR beside Nina, not on furniture, as Dan sets that bag on the island. SHOT_074 Maya, Dan, Leo; Dan puts the one bagged box on a shoe bench just outside the kitchen doorway; cubbies underneath are empty or neutral with no copies of the new navy shoes. SHOT_075 Ella, Dan, Nina; the bag stays on the background bench; Dan puts just the white receipt into a blue folder while keeping cash in his wallet. SHOT_076 Max with Maya and Nina; standing on floor wearing original green shoes, demonstrating fit with empty hands. Bag remains on doorway bench. Do not add a second box, new shoes or a spare bag in any panel. Individual panel beats: 73 visible DAN, NINA, MAX; After the travel ellipsis Dan sets the single shopping bag on the clear island; Max stands beside Nina in his original green shoes. 74 visible MAYA, DAN, LEO; Maya points to a clean low household shoe-storage bench just outside the kitchen doorway; Dan moves the still-bagged box there. 75 visible DAN, NINA, ELLA; Dan retrieves only the receipt from his right-pocketed wallet and puts it in the family's blue document folder, leaving $8 inside the wallet. 76 visible MAX, MAYA, NINA; Max describes the tight, loose and comfortable trials with empty hands; both adults listen without turning it into a quiz.",
+  "qa_updates": {
+    "SHOT_073": {
+      "observed": "Upper left shows Dan, Nina and Max in the kitchen, the cream-and-teal shopping bag on the island and Max in green shoes on the floor.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_074": {
+      "observed": "Upper right shows Maya directing Dan to the doorway bench with Leo watching; the closed box is in the single striped bag above empty cubbies.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_075": {
+      "observed": "Lower left shows Dan filing only the receipt beside Nina and Ella. The wallet art erroneously suggests an eight-dollar banknote.",
+      "severity": "major",
+      "correction": "Obscure printed dollar denominations inside the wallet; the $8 change consists of ordinary bills.",
+      "status": "FAIL"
+    },
+    "SHOT_076": {
+      "observed": "Lower right shows Max in his green shoes gesturing with empty hands, Maya and Nina listening. The bag is on the doorway bench.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    }
+  }
+}
