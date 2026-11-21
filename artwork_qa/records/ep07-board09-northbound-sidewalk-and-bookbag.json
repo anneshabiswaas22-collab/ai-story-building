@@ -1,0 +1,96 @@
+{
+  "episode": 7,
+  "board": 9,
+  "path": "Episode_07/assets/storyboards/BOARD_09.png",
+  "parent_commit": "da9a36aba522a5434a35c59dffc3f86d7961ca2f",
+  "parent_sha256": "212a6ec72064495efa92dd0d0a4aca717191fae457d931bb6fdc0079dac239f4",
+  "selected_sha256": "4c65ae6d2c3cfa9359da8c8cc640df1c000605c4ab45956cae8b98a34e8a8df8",
+  "parent_size": [
+    1672,
+    941
+  ],
+  "selected_size": [
+    1672,
+    941
+  ],
+  "generated_source": "Episode_07/assets/storyboards/BOARD_09.png",
+  "method": "Selected panels from a referenced ImageGen edit were assembled into the previous sheet. The other panel rectangles match the parent pixels exactly.",
+  "request": "Edit the first input image, the selected storyboard. Preserve the existing four landscape panel positions in a 2×2 grid, exact original numbered SHOT_ badges, original palette/compositions and actor likeness. The second input is original family visual reference. Dan blue / left watch, Maya plum with ponytail, Nina teal auburn waves, Leo orange, braided Ella in denim overalls, small Max green. A third reference supplies setting or continuity. In every panel actors and props must follow its specified shot precisely. Keep good panels intact. Apply the following specific changes in the artwork. 033 Leo wears closed zipped navy canvas bag on his back. One folded yellow umbrella secured outside only. Dan offers the one folded white leaflet with his free hand, his other holds Max just out of frame. 034 rear three-quarter wide facing NORTH toward crossing pole visible in front, red shelter bakery behind them on the same sidewalk on their right, road on their LEFT. Dan actually holds small Max's hand on building side, Ella with Maya, Nina alongside orange-shirted Leo with pack. All six backs mostly seen walking away from camera. 035 exactly original. 036 frame child green Max and adult Dan with their clearly clasped adjacent hands visible. Right side Nina secures the OUTSIDE folded yellow umbrella on the closed navy pack worn by orange-shirted Leo; show cropped orange shoulder/back belonging to the bag wearer so bag cannot read as worn by Dan. All wait behind curb at red hand. Retain correct tall adult Dan with black mustache and proper relative heights.\nSHOT_033 shows only DAN, ELLA, LEO in WRONG_STOP. Dan gives Leo the folded leaflet to hold while he takes Max’s hand; Ella moves beside Maya. He changes his proud announcement into an invitation to check. End: Leaflet with Leo, Dan holding Max’s hand, group organized for walk. Existing artwork error: Leo receives folded leaflet, bag has exposed books. Fix: Zip bag closed leaving umbrella strapped outside.\nSHOT_034 shows only DAN, MAYA, NINA, LEO, ELLA, MAX in WRONG_STOP. All six walk north along the sidewalk toward the crossing. Dan and Max stay on the building side; Maya guides Ella; Nina walks alongside Leo without leaving anyone behind. End: All six reach pedestrian waiting area at signal pole. Existing artwork error: Signal behind family as they walk toward camera, away from signal. Fix: Turn walking group north along bakery sidewalk facing crossing ahead.\nSHOT_035 shows only ELLA, MAYA, DAN in WRONG_STOP. Ella presses the crossing request button with Maya beside her. Dan keeps Max’s hand and waits at the curb line rather than immediately moving. End: Request made, signal still WAIT; everyone remains behind curb. Preserve this shot as it stands.\nSHOT_036 shows only MAX, DAN, NINA in WRONG_STOP. Max shifts his weight but does not pull away. Nina checks that the bookbag’s umbrella is secure while Dan answers Max’s patient question. End: Umbrella strap secured; Max relaxed beside Dan. Existing artwork error: At WAIT sign Dan and Max are apart without handhold while Nina fastens bag by Dan. Fix: Maintain Dan–Max handhold and bag on Leo.",
+  "qa_updates": {
+    "SHOT_033": {
+      "observed": "Dan hands Leo the folded white leaflet at the red shelter. A yellow umbrella stays strapped outside Leo's zipped navy bag, with the books inside.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_034": {
+      "observed": "All six walk toward the signal ahead, with the roadway on their left and bakery on their right. Dan holds Max's hand and stays on the building side.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_035": {
+      "observed": "Ella presses button below red hand, still behind curb with adults.",
+      "severity": "none observed",
+      "correction": "Creator to verify likeness, hands and final staging before first-frame approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_036": {
+      "observed": "Dan and Max hold hands at the red pedestrian signal. Nina reaches the strap on the single yellow umbrella carried on Leo's back.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    }
+  },
+  "generated_source_sha256": "824f55e2738242a7b5cec90d93cfdcc8a0100309eb2b8f60ff57d16164126ff5",
+  "generated_source_size": [
+    1672,
+    941
+  ],
+  "selected_panels": [
+    1,
+    2,
+    4
+  ],
+  "preserved_panels": [
+    3
+  ],
+  "selected_rectangles_xyxy": [
+    [
+      0,
+      0,
+      836,
+      470
+    ],
+    [
+      836,
+      0,
+      1672,
+      470
+    ],
+    [
+      836,
+      470,
+      1672,
+      941
+    ]
+  ],
+  "image_inputs": {
+    "selected_sheet": {
+      "path": "Episode_07/assets/storyboards/BOARD_09.png",
+      "sha256": "212a6ec72064495efa92dd0d0a4aca717191fae457d931bb6fdc0079dac239f4"
+    },
+    "cast_contact_sheet": {
+      "sha256": "ee132e6bb6535a21dc45a3bed61516cfd1e2c5ff9eeb35c596d1324c1079193f",
+      "original_previews": "Episode_07/assets/characters"
+    },
+    "additional_reference": {
+      "sha256": "5bc46fa9e777493c6d9db8f72fc908015fa417844d4860478ffc678441c0934f",
+      "sources": [
+        "Episode_07/assets/environments/WRONG_STOP.png",
+        "Episode_07/assets/storyboards/BOARD_10.png",
+        "Episode_07/assets/overlays/ROUTE_MAP.svg"
+      ]
+    }
+  }
+}
