@@ -28,6 +28,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **MAYA:** Mom! Come in.  
 **NINA:** Welcome, Ruth. We kept the afternoon free.  
 **RUTH:** Then I have brought good company and a small surprise.  
+**MAYA:** Come sit by us. The surprise can wait a minute.  
 
 ## SHOT_002 | 00:00:15–00:00:30 | Six little gifts
 
@@ -43,6 +44,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **RUTH:** Six packing cubes, one for each of you.  
 **DAN:** My socks are receiving their own apartments.  
 **ELLA:** They need addresses first.  
+**RUTH:** Then you children can help the apartments find their owners.  
 
 ## SHOT_003 | 00:00:30–00:00:45 | A familiar travel story
 
@@ -58,6 +60,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **RUTH:** Once, Dan packed a tiny sock instead of his necktie.  
 **DAN:** A very compact fashion choice.  
 **LEO:** Did it match your shirt?  
+**DAN:** I never got far enough to try it under my collar.  
 
 ## SHOT_004 | 00:00:45–00:01:00 | A room ready for a guest
 
@@ -73,6 +76,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **MAYA:** Your suitcase can go on this stand.  
 **NINA:** The top drawer is empty for you.  
 **RUTH:** You have thought of everything.  
+**MAYA:** Good. There's room for you to unpack at your own pace.  
 
 ## SHOT_005 | 00:01:00–00:01:15 | A useful checklist
 
@@ -88,6 +92,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **RUTH:** This checklist keeps my own things together.  
 **DAN:** An excellent traveling companion.  
 **MAYA:** We will leave your lavender pouch just as it is.  
+**RUTH:** Thank you. I like finding that one just where I put it.  
 
 ## SHOT_006 | 00:01:15–00:01:30 | The ending of the sock story
 
@@ -103,6 +108,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **RUTH:** We noticed before he left. He borrowed a proper tie.  
 **MAX:** So the sock did not attend the meeting?  
 **DAN:** It had other appointments.  
+**MAX:** I hope it found a shoe with a less formal dress code.  
 
 ## SHOT_007 | 00:01:30–00:01:45 | Permission and a quiet break
 
@@ -118,6 +124,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **RUTH:** Use the cubes and borrow my checklist idea. I will rest next door.  
 **MAYA:** Of course, Mom.  
 **NINA:** We will keep your room peaceful.  
+**RUTH:** Thanks, girls. I'll look forward to hearing how it went.  
 
 ## SHOT_008 | 00:01:45–00:02:00 | See you after your rest
 
@@ -133,6 +140,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **ELLA:** Thank you for the cubes, Grandma.  
 **RUTH:** You are welcome. Tell me how the new apartments work.  
 **NINA:** We will, after your rest.  
+**ELLA:** I already have a pair of tenants in mind, Grandma.  
 
 ## SHOT_009 | 00:02:00–00:02:15 | A clean place to sort
 
@@ -148,6 +156,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **NINA:** These socks are clean and dry.  
 **LEO:** And these cubes still have no names.  
 **ELLA:** Let us sort before we store.  
+**LEO:** Good. A gray cube doesn't tell you much by itself.  
 
 ## SHOT_010 | 00:02:15–00:02:30 | One basket, six owners
 
@@ -163,6 +172,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **MAX:** I can see my green heels.  
 **DAN:** A whole family of socks.  
 **NINA:** Six pairs. We will check the owners together.  
+**MAX:** I'll know those green bits even with my eyes half shut.  
 
 ## SHOT_011 | 00:02:30–00:02:45 | Packing before asking
 
@@ -175,7 +185,10 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Continuity:** Loading order is green heels, coral stars, orange heels, plum dots, teal plain, navy stripes; no pair is split.
 
 **Dialogue:**
+**DAN:** Six pairs and six places. I can manage that.  
 **DAN:** One pair in each. Surely I cannot mix up identical boxes.  
+**DAN:** Green heels in this one.  
+**DAN:** There. Its neighbor gets the next pair.  
 
 ## SHOT_012 | 00:02:45–00:03:00 | Six zippers, no labels
 
@@ -188,7 +201,10 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Dialogue:**
+**DAN:** That zipper went all the way around.  
 **DAN:** They are packed. The names can catch up later.  
+**DAN:** Which one had the green heels?  
+**DAN:** Ah, they're all snug. I'll sort out names later.  
 
 ## SHOT_013 | 00:03:00–00:03:15 | The wrong destination
 
@@ -201,7 +217,10 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Continuity:** Ruth is offscreen resting; gifted family cubes are distinct from her lavender personal pouch.
 
 **Dialogue:**
+**DAN:** Now where should these go?  
 **DAN:** Packing cubes, suitcase. That seems a very strong connection.  
+**DAN:** Well, look who brought them.  
+**DAN:** Grandma's case has exactly the right sort of space.  
 
 ## SHOT_014 | 00:03:15–00:03:30 | Everyone is accidentally packed
 
@@ -214,7 +233,10 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Continuity:** No sock remains in basket or appears loose; case has sufficient room, with no crushing.
 
 **Dialogue:**
+**DAN:** There's room on this side.  
 **DAN:** Six small apartments, one large building.  
+**DAN:** That's all six together.  
+**DAN:** The lavender pouch can have its own side.  
 
 ## SHOT_015 | 00:03:30–00:03:45 | A job that looks finished
 
@@ -227,7 +249,10 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Dialogue:**
+**DAN:** There. The case closes nicely.  
 **DAN:** Everything put away. A remarkably tidy afternoon.  
+**DAN:** Funny how quiet the counter looks.  
+**DAN:** Wait till everybody sees how quickly I finished.  
 
 ## SHOT_016 | 00:03:45–00:04:00 | The empty basket mystery
 
@@ -243,6 +268,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **MAYA:** Where are the socks?  
 **DAN:** Safely packed.  
 **NINA:** For which destination?  
+**DAN:** Well, that depends on whose suitcase we're talking about.  
 
 ## SHOT_017 | 00:04:00–00:04:15 | A drawer cannot answer
 
@@ -258,6 +284,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **MAX:** My socks are not in their new apartment.  
 **LEO:** Perhaps the building moved.  
 **DAN:** I may have arranged transportation.  
+**MAX:** Did you tell my feet? They didn't pack for a trip.  
 
 ## SHOT_018 | 00:04:15–00:04:30 | The clue left behind
 
@@ -273,6 +300,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **ELLA:** The labels never went anywhere.  
 **NINA:** Then let us ask the person who packed.  
 **DAN:** That would be me.  
+**ELLA:** Which way did you go after you closed the zippers?  
 
 ## SHOT_019 | 00:04:30–00:04:45 | An honest explanation
 
@@ -288,6 +316,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **DAN:** I put our six cubes in Ruth's suitcase. I assumed they were hers.  
 **MAYA:** Thank you for telling us.  
 **LEO:** Then we know where to look.  
+**DAN:** Good thing she hasn't taken that suitcase anywhere yet.  
 
 ## SHOT_020 | 00:04:45–00:05:00 | A small repair together
 
@@ -303,6 +332,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **MAYA:** We can retrieve our gifts and leave Grandma's pouch alone.  
 **NINA:** Then describe, ask, label, and store.  
 **MAX:** Four steps. No moving buildings.  
+**NINA:** That's right. We'll only move what belongs to us.  
 
 ## SHOT_021 | 00:05:00–00:05:15 | At the luggage stand
 
@@ -318,6 +348,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **DAN:** This is exactly where I left them.  
 **MAYA:** Open the main compartment gently.  
 **NINA:** The lavender pouch stays closed.  
+**DAN:** Got it. I can see the two areas now.  
 
 ## SHOT_022 | 00:05:15–00:05:30 | Only the family cubes
 
@@ -332,6 +363,8 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Dialogue:**
 **ELLA:** Gray cubes on the left. Lavender pouch on the right.  
 **DAN:** An address I should have checked earlier.  
+**MAYA:** Which side are we reaching into?  
+**ELLA:** Just the gray side. Her pouch stays put.  
 
 ## SHOT_023 | 00:05:30–00:05:45 | Count the containers first
 
@@ -347,6 +380,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **LEO:** One, two, three, four, five, six.  
 **NINA:** Six gifts recovered.  
 **DAN:** And nobody needed a boarding pass.  
+**LEO:** And all six came back on the very same trip.  
 
 ## SHOT_024 | 00:05:45–00:06:00 | Travel-size fashion
 
@@ -362,6 +396,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **DAN:** My new travel-size socks. Very economical.  
 **MAX:** Those are mine, Dad.  
 **MAYA:** Let us check, rather than guess.  
+**DAN:** Okay, Max. What gives this particular pair away?  
 
 ## SHOT_025 | 00:06:00–00:06:15 | A description worth hearing
 
@@ -377,6 +412,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **MAX:** Mine have green heels, and both socks fit me.  
 **DAN:** Excellent. My feet were being ambitious.  
 **MAYA:** Back to the clean sorting counter.  
+**MAX:** Good. I'd rather my socks stayed the size they are.  
 
 ## SHOT_026 | 00:06:15–00:06:30 | Privacy is part of helping
 
@@ -392,6 +428,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **ELLA:** Do we need to sort Grandma's pouch too?  
 **NINA:** No. Those are her private things.  
 **MAYA:** We have only our own cubes to fix.  
+**ELLA:** So we can help her best by leaving that one closed.  
 
 ## SHOT_027 | 00:06:30–00:06:45 | A method, not a race
 
@@ -407,6 +444,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **MAYA:** Describe the pair, ask its owner, then add a name.  
 **DAN:** Before I invent a destination.  
 **LEO:** That order sounds promising.  
+**MAYA:** Exactly. No cube goes anywhere till its owner agrees.  
 
 ## SHOT_028 | 00:06:45–00:07:00 | A list with room for names
 
@@ -422,6 +460,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **NINA:** We can borrow the method without copying Grandma's personal list.  
 **ELLA:** Six names, six pairs.  
 **LEO:** And we check each one.  
+**NINA:** Good. We'll write down what belongs to our own family.  
 
 ## SHOT_029 | 00:07:00–00:07:15 | All six back on the counter
 
@@ -437,6 +476,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **DAN:** No suitcase this time.  
 **MAX:** Good. My socks prefer staying home.  
 **ELLA:** Let us start at this end.  
+**MAX:** I'll look at the heels before we guess about sizes.  
 
 ## SHOT_030 | 00:07:15–00:07:30 | A guest room left tidy
 
@@ -449,7 +489,10 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Continuity:** Ruth neither answers nor reappears; this line is spoken quietly to herself, not a phone or extra cameo.
 
 **Dialogue:**
+**MAYA:** There, that's the last thing back in place.  
 **MAYA:** Your own things are right where you left them, Mom.  
+**MAYA:** I'll leave the pouch closed.  
+**MAYA:** Sleep well. The sorting can wait outside.  
 
 ## SHOT_031 | 00:07:30–00:07:45 | Six empty name tabs
 
@@ -465,6 +508,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **MAYA:** The room is tidy again.  
 **NINA:** Now we finish our own sorting.  
 **DAN:** One owner at a time.  
+**MAYA:** Good. I want to know whose pair we're holding first.  
 
 ## SHOT_032 | 00:07:45–00:08:00 | Green heels first
 
@@ -480,6 +524,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **NINA:** What makes this pair yours?  
 **MAX:** Green heels and my size.  
 **DAN:** Evidence beats enthusiasm.  
+**MAX:** Look, both heels are green. I checked the other one.  
 
 ## SHOT_033 | 00:08:00–00:08:15 | Two socks make this pair
 
@@ -495,6 +540,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **ELLA:** Two matching socks.  
 **MAX:** Both mine.  
 **NINA:** Then the owner is settled.  
+**ELLA:** Good. The pair has a name before the cube does.  
 
 ## SHOT_034 | 00:08:15–00:08:30 | A name where it belongs
 
@@ -510,6 +556,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **LEO:** Name on the cube, not on the sock.  
 **MAX:** My toes appreciate that.  
 **NINA:** And it can be read without opening it.  
+**MAX:** Then I can find it even before school in the morning.  
 
 ## SHOT_035 | 00:08:30–00:08:45 | One checked home
 
@@ -524,6 +571,8 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Dialogue:**
 **MAX:** Mine, checked, closed.  
 **DAN:** The first apartment has an owner.  
+**MAX:** Can you read my name from there?  
+**DAN:** Sure can. No need to unzip anything.  
 
 ## SHOT_036 | 00:08:45–00:09:00 | Coral stars next
 
@@ -539,6 +588,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **ELLA:** These have coral stars.  
 **DAN:** A famous constellation of toes.  
 **MAYA:** Who recognizes them?  
+**ELLA:** I do. I picked that pattern for a reason.  
 
 ## SHOT_037 | 00:09:00–00:09:15 | Recognize and ask
 
@@ -554,6 +604,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **ELLA:** They are mine. I chose the stars.  
 **MAYA:** Yes, and both match.  
 **MAX:** My green ones are already home.  
+**ELLA:** And my stars can have their own place next door.  
 
 ## SHOT_038 | 00:09:15–00:09:30 | Ella on the second cube
 
@@ -569,6 +620,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **MAYA:** Ella, on the handle.  
 **ELLA:** Not Grandma's suitcase.  
 **NINA:** Correct destination, too.  
+**ELLA:** Good. I want to find them without taking a trip.  
 
 ## SHOT_039 | 00:09:30–00:09:45 | Orange heels, larger size
 
@@ -584,6 +636,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **DAN:** Orange heels, longer than Max's.  
 **LEO:** Those are mine.  
 **ELLA:** Your feet have been busy growing.  
+**LEO:** That's how I can spot them beside his little pair.  
 
 ## SHOT_040 | 00:09:45–00:10:00 | A question before a label
 
@@ -599,6 +652,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **DAN:** May I label this cube Leo?  
 **LEO:** Yes. That is my pair.  
 **DAN:** A short question saves a long search.  
+**LEO:** Good. Now I can find them without opening Max's.  
 
 ## SHOT_041 | 00:10:00–00:10:15 | Leo joins the checked row
 
@@ -614,6 +668,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **LEO:** Checked and zipped.  
 **NINA:** Three owners found.  
 **DAN:** And no departures scheduled.  
+**NINA:** Three more at home, then. We're halfway down the row.  
 
 ## SHOT_042 | 00:10:15–00:10:30 | Plum dots from cube four
 
@@ -629,6 +684,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **MAYA:** Plum dots. These are mine.  
 **DAN:** I nearly said Nina.  
 **NINA:** Nearly is a good time to ask.  
+**DAN:** Maya, are the plum dots the ones you picked?  
 
 ## SHOT_043 | 00:10:30–00:10:45 | Each person knows her things
 
@@ -644,6 +700,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **MAYA:** I chose the dots.  
 **NINA:** Mine are plain teal.  
 **DAN:** Thank you. Two people, two answers worth hearing.  
+**MAYA:** We can see why guessing would've put them in the wrong cube.  
 
 ## SHOT_044 | 00:10:45–00:11:00 | Maya gets her own label
 
@@ -658,6 +715,8 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Dialogue:**
 **DAN:** Maya. Plum dots. Confirmed.  
 **MAYA:** And safely stored together.  
+**DAN:** And whose name faces out?  
+**MAYA:** Mine. I can read it from right here.  
 
 ## SHOT_045 | 00:11:00–00:11:15 | Plain teal appears
 
@@ -673,6 +732,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **ELLA:** These are the plain teal ones.  
 **NINA:** Yes, that is my pair.  
 **DAN:** The description arrived before the guess.  
+**NINA:** Good. That saves somebody opening the wrong cube tomorrow.  
 
 ## SHOT_046 | 00:11:15–00:11:30 | Ownership is not a contest
 
@@ -688,6 +748,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **MAX:** Would six identical pairs be easier?  
 **NINA:** Not for telling whose is whose.  
 **MAYA:** Different can be useful.  
+**MAX:** Good thing my heels are green. They're quicker to spot.  
 
 ## SHOT_047 | 00:11:30–00:11:45 | Nina in clear letters
 
@@ -703,6 +764,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **MAYA:** Nina, checked.  
 **NINA:** Thank you.  
 **LEO:** Five pairs, five names. One to go.  
+**MAYA:** Good. I think the last one's pretty easy to recognize.  
 
 ## SHOT_048 | 00:11:45–00:12:00 | The largest pair at last
 
@@ -718,6 +780,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **LEO:** Navy stripes. Largest size.  
 **DAN:** Those are definitely mine.  
 **MAX:** Much less travel-sized.  
+**DAN:** Thank goodness. I couldn't get a toe into Max's pair.  
 
 ## SHOT_049 | 00:12:00–00:12:15 | A joke that stays a joke
 
@@ -733,6 +796,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **DAN:** Suitable for feet. Unsuitable for meetings.  
 **ELLA:** We will tell your collar.  
 **MAX:** No sock tie today.  
+**DAN:** Good. My neck and my feet each get the right outfit.  
 
 ## SHOT_050 | 00:12:15–00:12:30 | Dad signs his own address
 
@@ -748,6 +812,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **DAN:** Dan. Navy stripes. Staying at home.  
 **NINA:** That is a complete address.  
 **LEO:** Six out of six.  
+**NINA:** Great. Now let's give all six an address we can find.  
 
 ## SHOT_051 | 00:12:30–00:12:45 | Read before moving
 
@@ -763,6 +828,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **LEO:** Six names, with no duplicates.  
 **MAYA:** Now choose the storage places.  
 **NINA:** Then we can find them again.  
+**LEO:** Somewhere that makes sense when we're looking in a hurry.  
 
 ## SHOT_052 | 00:12:45–00:13:00 | Pairs and individual socks
 
@@ -778,6 +844,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **LEO:** Six pairs means twelve socks.  
 **MAX:** Twelve feet?  
 **DAN:** Six people, two feet each. Fortunately.  
+**MAX:** Good. None of those twelve has to travel by itself.  
 
 ## SHOT_053 | 00:13:00–00:13:15 | Nothing is missing
 
@@ -793,6 +860,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **ELLA:** No lonely socks left here.  
 **DAN:** All twelve accounted for.  
 **MAYA:** Then the repair really is finished.  
+**ELLA:** Good. The basket bottom was the last place I wanted to check.  
 
 ## SHOT_054 | 00:13:15–00:13:30 | No need to unpack again
 
@@ -808,6 +876,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **MAX:** Should we count one more time?  
 **NINA:** We checked each pair already.  
 **LEO:** Now we keep the record and move them once.  
+**MAX:** Okay. I'd rather find mine than count them all again.  
 
 ## SHOT_055 | 00:13:30–00:13:45 | Six places in the cubby
 
@@ -823,6 +892,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **MAYA:** Adults across the top, children below.  
 **NINA:** Everyone can reach without climbing.  
 **DAN:** A building with an excellent floor plan.  
+**MAYA:** Then keep the names facing this way as they go in.  
 
 ## SHOT_056 | 00:13:45–00:14:00 | Left means this view
 
@@ -838,6 +908,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **DAN:** From where we stand: Dan, Maya, Nina.  
 **ELLA:** And Leo, Ella, Max underneath.  
 **LEO:** Same viewpoint. Clear directions.  
+**DAN:** Good. It matters which way you're standing when you say left.  
 
 ## SHOT_057 | 00:14:00–00:14:15 | The three adult cubes
 
@@ -853,6 +924,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **MAYA:** Mine is in the middle.  
 **NINA:** Mine is on the right.  
 **DAN:** And I finally know where mine lives.  
+**NINA:** And all three labels face the person doing the looking.  
 
 ## SHOT_058 | 00:14:15–00:14:30 | The three child cubes
 
@@ -868,6 +940,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **LEO:** Left.  
 **ELLA:** Middle.  
 **MAX:** Right. My apartment is downstairs.  
+**NINA:** Good. Face the shelf and you can point to your own.  
 
 ## SHOT_059 | 00:14:30–00:14:45 | Names on the shelf map
 
@@ -883,6 +956,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **ELLA:** We can read them before opening anything.  
 **MAYA:** That will help tomorrow too.  
 **NINA:** A useful label explains, then stays put.  
+**ELLA:** Tomorrow I'll only have to open the one with my name.  
 
 ## SHOT_060 | 00:14:45–00:15:00 | Cap on, job closed
 
@@ -898,6 +972,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **DAN:** Even the marker has a place.  
 **MAX:** Does it need a suitcase?  
 **NINA:** Only its cap.  
+**MAX:** Good. It wouldn't have much to wear on vacation.  
 
 ## SHOT_061 | 00:15:00–00:15:15 | An empty basket can rest
 
@@ -912,6 +987,8 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Dialogue:**
 **MAYA:** This can wait for the next clean load.  
 **DAN:** Empty, correctly located, and not traveling.  
+**MAYA:** Shall we leave it here by the washer?  
+**DAN:** Yes. That'll make the next load easier.  
 
 ## SHOT_062 | 00:15:15–00:15:30 | Find it without opening it
 
@@ -927,6 +1004,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **MAX:** Mine is bottom-right.  
 **ELLA:** Mine is beside yours.  
 **LEO:** And mine is on the left. No search needed.  
+**MAX:** I like directions I can use before I'm fully awake.  
 
 ## SHOT_063 | 00:15:30–00:15:45 | A towel for the guest
 
@@ -942,6 +1020,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **MAYA:** A clean towel for Mom.  
 **NINA:** She said the top drawer was free.  
 **MAYA:** Let us keep the rest just as it is.  
+**NINA:** Right. She gets to choose what goes in her own things.  
 
 ## SHOT_064 | 00:15:45–00:16:00 | Ask about the place
 
@@ -957,6 +1036,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **DAN:** The towel goes in this drawer?  
 **MAYA:** Yes. That is the guest drawer.  
 **NINA:** You checked the destination first.  
+**DAN:** I like asking before I have to carry it back.  
 
 ## SHOT_065 | 00:16:00–00:16:15 | The towel finds its drawer
 
@@ -972,6 +1052,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **NINA:** One towel, top drawer.  
 **DAN:** A very uneventful delivery.  
 **MAYA:** Sometimes that is perfect.  
+**NINA:** Especially if you're trying to give somebody a quiet afternoon.  
 
 ## SHOT_066 | 00:16:15–00:16:30 | A blanket already at home
 
@@ -987,6 +1068,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **ELLA:** The blanket was already where it belongs.  
 **DAN:** I can admire that without packing it.  
 **MAYA:** Excellent restraint.  
+**ELLA:** Thanks. A folded blanket doesn't really need a new address.  
 
 ## SHOT_067 | 00:16:30–00:16:45 | An empty hanger can stay empty
 
@@ -1002,6 +1084,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **MAX:** We did not find any pajamas to hang.  
 **NINA:** They are Grandma's to unpack.  
 **MAYA:** Helping includes leaving her a choice.  
+**MAX:** So she can hang them herself if she feels like it.  
 
 ## SHOT_068 | 00:16:45–00:17:00 | The checklist comes back with us
 
@@ -1017,6 +1100,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **LEO:** Grandma's list goes back here.  
 **DAN:** Our own record comes with us.  
 **MAYA:** Two lists, two clear owners.  
+**LEO:** Good. Grandma won't have to hunt for her own list.  
 
 ## SHOT_069 | 00:17:00–00:17:15 | Clean hands after the job
 
@@ -1032,6 +1116,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **NINA:** Hands washed after sorting.  
 **MAX:** Even though the socks were clean?  
 **MAYA:** Yes. We are finished with the laundry now.  
+**MAX:** Good. My hands can retire from sock duty now.  
 
 ## SHOT_070 | 00:17:15–00:17:30 | Two good organizers
 
@@ -1047,6 +1132,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **MAYA:** Your questions made the sorting easy.  
 **NINA:** And your shelf plan made it useful.  
 **DAN:** I benefited from both departments.  
+**MAYA:** So tomorrow morning nobody has to ask where their socks went.  
 
 ## SHOT_071 | 00:17:30–00:17:45 | Helping is more than speed
 
@@ -1062,6 +1148,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **DAN:** I wanted to make the visit easy. I moved too fast.  
 **LEO:** You fixed it with us.  
 **ELLA:** Next time, ask before the suitcase.  
+**DAN:** Agreed. Even a quick question would've saved two trips.  
 
 ## SHOT_072 | 00:17:45–00:18:00 | A very short journey
 
@@ -1077,6 +1164,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **MAX:** Our socks almost went on vacation.  
 **DAN:** A journey of approximately one hallway.  
 **NINA:** And a return ticket paid in questions.  
+**MAX:** Next time they're staying here without buying a ticket.  
 
 ## SHOT_073 | 00:18:00–00:18:15 | Six people, familiar seats
 
@@ -1092,6 +1180,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **MAYA:** A peaceful table at last.  
 **DAN:** With everyone's feet properly represented.  
 **MAX:** Mine are still under my chair.  
+**ELLA:** My stars are off duty. They know where to go tomorrow.  
 
 ## SHOT_074 | 00:18:15–00:18:30 | The sock that stayed home
 
@@ -1107,6 +1196,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **LEO:** Did Grandma tease you about that tie for years?  
 **DAN:** Kindly. Then she helped me find one.  
 **ELLA:** A family tradition: notice, then help.  
+**DAN:** I'm glad the family remembers the helping part too.  
 
 ## SHOT_075 | 00:18:30–00:18:45 | Labels do not replace people
 
@@ -1122,6 +1212,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **ELLA:** The label worked because we asked first.  
 **MAYA:** Exactly.  
 **NINA:** A name cannot make the wrong pair yours.  
+**ELLA:** Good. My stars won't turn into dots behind a different name.  
 
 ## SHOT_076 | 00:18:45–00:19:00 | A place we can explain
 
@@ -1137,6 +1228,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **LEO:** Top row for adults. Bottom row for us.  
 **MAX:** Mine is bottom-right when I face it.  
 **DAN:** Directions with a starting point. Very helpful.  
+**LEO:** Exactly. Turn toward the shelf first and the directions work.  
 
 ## SHOT_077 | 00:19:00–00:19:15 | Tomorrow can wait
 
@@ -1152,6 +1244,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **NINA:** Another day, we can organize the garden pots.  
 **MAX:** Do plants need name labels too?  
 **MAYA:** A question for another afternoon.  
+**MAX:** I wonder whether Dad will give the pots apartments too.  
 
 ## SHOT_078 | 00:19:15–00:19:30 | No labels on grandmothers
 
@@ -1167,6 +1260,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **MAX:** Grandma does not need a label, does she?  
 **MAYA:** She introduced herself years ago.  
 **DAN:** And remembers my packing history perfectly.  
+**MAX:** Good. That story was worth bringing along in her suitcase.  
 
 ## SHOT_079 | 00:19:30–00:19:45 | One record, finished
 
@@ -1182,6 +1276,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **DAN:** Six pairs at home. One suitcase correctly packed.  
 **NINA:** And one generous guest resting peacefully.  
 **LEO:** That is a good afternoon.  
+**NINA:** And she'll wake up to a room that's still hers.  
 
 ## SHOT_080 | 00:19:45–00:20:00 | An ordinary kind of welcome
 
@@ -1197,3 +1292,4 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **DAN:** Next time I help, I will ask where things belong.  
 **MAYA:** That sounds like a wonderful welcome.  
 **MAX:** Especially for socks.  
+**ELLA:** Even better if you ask before you close the zipper, Dad.  
