@@ -50,6 +50,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **NINA:** Lunch would appreciate a map.
 
+**MAYA:** It would also appreciate arriving before we get hungry.
+
 ### SHOT_002 | 00:00:15–00:00:30 | What travels with us
 
 **Visible cast:** ELLA, LEO, MAX
@@ -75,6 +77,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 **LEO:** And a bag for our rubbish.
 
 **MAX:** The blanket gets to travel too.
+
+**ELLA:** Roll it tight, Max. It has a long walk today.
 
 ### SHOT_003 | 00:00:30–00:00:45 | One place to meet
 
@@ -102,6 +106,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **DAN:** A bench. I can recognize a bench.
 
+**LEO:** Dad, remember the tree part. The park has other benches.
+
 ### SHOT_004 | 00:00:45–00:01:00 | A bench needs a neighbor
 
 **Visible cast:** NINA, MAX, DAN
@@ -127,6 +133,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 **MAX:** This one has a squirrel.
 
 **DAN:** Then we shall choose the one with our family.
+
+**MAX:** Does the squirrel get a sandwich if we choose wrong?
 
 ### SHOT_005 | 00:01:00–00:01:15 | Cold passengers
 
@@ -154,6 +162,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **ELLA:** Plates with Dad. Nobody has to carry everything.
 
+**MAYA:** Good. We can share the carrying as well as lunch.
+
 ### SHOT_006 | 00:01:15–00:01:30 | Our direction expert
 
 **Visible cast:** DAN, MAX, LEO
@@ -179,6 +189,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 **MAX:** Which direction is remarkable?
 
 **LEO:** We can check that when we get there.
+
+**DAN:** The direction that gets these plates to lunch, I hope.
 
 ### SHOT_007 | 00:01:30–00:01:45 | Six leave together
 
@@ -206,6 +218,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **NINA:** Stay beside us. We will find it together.
 
+**ELLA:** I'll look for the big oak when we reach the gate.
+
 ### SHOT_008 | 00:01:45–00:02:00 | The small drawing
 
 **Visible cast:** DAN, LEO, ELLA
@@ -231,6 +245,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 **ELLA:** It is a drawing, Dad.
 
 **LEO:** The real one may be slightly taller.
+
+**DAN:** Good. We won't have to eat under a pencil mark.
 
 ### SHOT_009 | 00:02:00–00:02:15 | A gate to somewhere new
 
@@ -258,6 +274,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **DAN:** I recognize at least three things from the map.
 
+**LEO:** Can you match them to the drawing from here, Dad?
+
 ### SHOT_010 | 00:02:15–00:02:30 | Look before the turn
 
 **Visible cast:** MAYA, DAN, MAX
@@ -283,6 +301,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 **MAX:** The squirrel is on the other side.
 
 **DAN:** A useful neighbor to remember.
+
+**MAX:** If he looks like a squirrel, we've gone too far.
 
 ### SHOT_011 | 00:02:30–00:02:45 | A short head start
 
@@ -310,6 +330,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **DAN:** We will follow with the plates.
 
+**ELLA:** Just look for us when you come round the fountain.
+
 ### SHOT_012 | 00:02:45–00:03:00 | The sensible route
 
 **Visible cast:** MAYA, NINA, ELLA
@@ -335,6 +357,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 **MAYA:** Yes. We can still see Dad.
 
 **NINA:** He has only the plates to persuade.
+
+**MAYA:** They'd better come. Lunch needs something to land on.
 
 ### SHOT_013 | 00:03:00–00:03:15 | The map takes a turn
 
@@ -362,6 +386,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **DAN:** Let us compare it with the scenery.
 
+**MAX:** Dad, the trees on paper look funny from here.
+
 ### SHOT_014 | 00:03:15–00:03:30 | A very convincing green bench
 
 **Visible cast:** DAN, MAX, LEO
@@ -387,6 +413,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 **DAN:** An excellent match.
 
 **LEO:** What about the tree?
+
+**DAN:** Fair question. Nobody promised us the only green bench.
 
 ### SHOT_015 | 00:03:30–00:03:45 | A tree is nearly everywhere
 
@@ -414,6 +442,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **MAX:** This park has been very thorough.
 
+**LEO:** But only one of those trees is our big oak.
+
 ### SHOT_016 | 00:03:45–00:04:00 | The first bench wins too soon
 
 **Visible cast:** DAN, LEO, MAX
@@ -439,6 +469,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 **MAX:** The picnic seems to be missing most of the picnic.
 
 **LEO:** Including our family.
+
+**DAN:** Ah. That's quite a lot for a picnic to be missing.
 
 ### SHOT_017 | 00:04:00–00:04:15 | Three places too few
 
@@ -466,6 +498,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **LEO:** We should admire the directions.
 
+**MAX:** I still count three. Nobody's hiding behind you, Dad.
+
 ### SHOT_018 | 00:04:15–00:04:30 | The silent local expert
 
 **Visible cast:** MAX, DAN, LEO
@@ -491,6 +525,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 **DAN:** Our friend seems quiet.
 
 **LEO:** Stone squirrels are excellent at waiting.
+
+**DAN:** And apparently terrible at giving directions out loud.
 
 ### SHOT_019 | 00:04:30–00:04:45 | A bench without a blanket
 
@@ -518,6 +554,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **DAN:** A strong clue that lunch went somewhere else.
 
+**MAX:** Same green paint, though. I see why you stopped.
+
 ### SHOT_020 | 00:04:45–00:05:00 | A call would be allowed
 
 **Visible cast:** DAN, LEO, MAX
@@ -543,6 +581,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 **LEO:** First, let us check where we are.
 
 **MAX:** Good. The bench is not going anywhere.
+
+**DAN:** Good point. The map might have an opinion on this.
 
 ### SHOT_021 | 00:05:00–00:05:15 | One color, two places
 
@@ -570,6 +610,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **MAX:** Or ours copied the one with lunch.
 
+**LEO:** Worth checking which one's got the oak beside it.
+
 ### SHOT_022 | 00:05:15–00:05:30 | A landmark is more than a seat
 
 **Visible cast:** DAN, MAX, LEO
@@ -595,6 +637,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 **LEO:** The drawing says oak.
 
 **DAN:** The bench had a very convincing alibi.
+
+**MAX:** The squirrel hasn't got much to say in its defense.
 
 ### SHOT_023 | 00:05:30–00:05:45 | The upside-down oak
 
@@ -622,6 +666,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **MAX:** Maybe the paper is upside down.
 
+**DAN:** That would certainly save us from turning the park around.
+
 ### SHOT_024 | 00:05:45–00:06:00 | Turn the page, keep the park
 
 **Visible cast:** DAN, LEO, MAX
@@ -647,6 +693,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 **LEO:** Gate at the bottom. Fountain in the middle.
 
 **MAX:** Now lunch is on the other side.
+
+**DAN:** So that's where we should be taking these plates.
 
 ### SHOT_025 | 00:06:00–00:06:15 | A small admission
 
@@ -674,6 +722,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **MAX:** The squirrel was not much help either.
 
+**LEO:** Actually, he's the part that gave this place away.
+
 ### SHOT_026 | 00:06:15–00:06:30 | The better question
 
 **Visible cast:** MAX, DAN, LEO
@@ -699,6 +749,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 **DAN:** The green bench under the big oak.
 
 **LEO:** That gives us something we can actually check.
+
+**MAX:** And if we see the squirrel, we've already checked him.
 
 ### SHOT_027 | 00:06:30–00:06:45 | Our quiet friend has a job
 
@@ -726,6 +778,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **LEO:** Without saying a word.
 
+**DAN:** That's more help than I got from guessing green.
+
 ### SHOT_028 | 00:06:45–00:07:00 | Two landmarks agree
 
 **Visible cast:** LEO, DAN, MAX
@@ -751,6 +805,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 **DAN:** And our oak to the east.
 
 **MAX:** The paper and park are friends again.
+
+**LEO:** Let's keep them that way until we get to lunch.
 
 ### SHOT_029 | 00:07:00–00:07:15 | Do not move the picnic
 
@@ -778,6 +834,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **LEO:** Moving us will be easier.
 
+**DAN:** Fair point. The plates are lighter than a whole bench.
+
 ### SHOT_030 | 00:07:15–00:07:30 | No shortcuts through flowers
 
 **Visible cast:** DAN, MAX, LEO
@@ -803,6 +861,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 **DAN:** The path is the way for us.
 
 **LEO:** The flowers already have their seats.
+
+**MAX:** Okay. We'll walk round and leave them to it.
 
 ### SHOT_031 | 00:07:30–00:07:45 | A wave across the square
 
@@ -830,6 +890,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **MAX:** And the better bench.
 
+**DAN:** Better company, too. No offense to our squirrel.
+
 ### SHOT_032 | 00:07:45–00:08:00 | Carry the useful things
 
 **Visible cast:** DAN, LEO, MAX
@@ -855,6 +917,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 **DAN:** Except a confidently wrong conclusion.
 
 **MAX:** The squirrel can look after that.
+
+**LEO:** Come on, Dad. Lunch won't find us sitting here.
 
 ### SHOT_033 | 00:08:00–00:08:15 | Back to a known point
 
@@ -882,6 +946,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **MAX:** This time, we bring the north arrow.
 
+**DAN:** Good. I don't want another trip to the statue.
+
 ### SHOT_034 | 00:08:15–00:08:30 | Face the way we came in
 
 **Visible cast:** DAN, LEO, MAX
@@ -907,6 +973,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 **LEO:** Now right, toward the oak.
 
 **MAX:** The real tree. Not the little upside-down one.
+
+**LEO:** It's easier to see now that we're facing it.
 
 ### SHOT_035 | 00:08:30–00:08:45 | Listen to the landmark
 
@@ -934,6 +1002,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **LEO:** And now we know where we are.
 
+**MAX:** And we can hear it without looking at a map.
+
 ### SHOT_036 | 00:08:45–00:09:00 | Right means this turn
 
 **Visible cast:** DAN, LEO, MAX
@@ -959,6 +1029,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 **MAX:** And away from our stone adviser.
 
 **LEO:** He has done enough guiding for today.
+
+**DAN:** At least we won't have to thank him twice.
 
 ### SHOT_037 | 00:09:00–00:09:15 | The bench with the people
 
@@ -986,6 +1058,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **LEO:** Two excellent landmarks.
 
+**MAX:** And an oak. We can finally tick off all three.
+
 ### SHOT_038 | 00:09:15–00:09:30 | Already saving places
 
 **Visible cast:** MAYA, NINA, ELLA
@@ -1011,6 +1085,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 **MAYA:** Your plates took the scenic route.
 
 **NINA:** The sandwiches waited in the shade.
+
+**MAYA:** I hope the boys have an appetite after that walk.
 
 ### SHOT_039 | 00:09:30–00:09:45 | The destination is complete
 
@@ -1038,6 +1114,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **MAX:** The map needed a little turning.
 
+**LEO:** All the way around, Dad. Tell them about the arrow.
+
 ### SHOT_040 | 00:09:45–00:10:00 | A helpful explanation
 
 **Visible cast:** DAN, MAYA, LEO
@@ -1063,6 +1141,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 **MAYA:** That explains the detour.
 
 **LEO:** The statue helped us work it out.
+
+**DAN:** I owe that squirrel a thank-you. You two, too.
 
 ### SHOT_041 | 00:10:00–00:10:15 | Good information, better directions
 
@@ -1090,6 +1170,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **DAN:** Much harder to confuse.
 
+**ELLA:** Especially when the other bench has a stone squirrel.
+
 ### SHOT_042 | 00:10:15–00:10:30 | Both sides of the misunderstanding
 
 **Visible cast:** MAYA, DAN, MAX
@@ -1115,6 +1197,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 **DAN:** And I could have checked before walking.
 
 **MAX:** The bench was not the only thing needing a partner.
+
+**DAN:** Next time let's point at it together before anyone starts off.
 
 ### SHOT_043 | 00:10:30–00:10:45 | Map gets a clear home
 
@@ -1142,6 +1226,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **LEO:** An ambitious new system.
 
+**ELLA:** And we can see it without getting sandwich on it.
+
 ### SHOT_044 | 00:10:45–00:11:00 | Food can wait a moment
 
 **Visible cast:** NINA, MAX, ELLA
@@ -1167,6 +1253,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 **NINA:** After clean hands. The pavilion has a sink.
 
 **ELLA:** I can see its red roof from here.
+
+**MAX:** Good. Even from here I can tell those roofs apart.
 
 ### SHOT_045 | 00:11:00–00:11:15 | A short wash trip together
 
@@ -1194,6 +1282,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **MAX:** The oak will wait too.
 
+**NINA:** Come on, then. Nobody needs to guard lunch alone.
+
 ### SHOT_046 | 00:11:15–00:11:30 | Our picnic returns once
 
 **Visible cast:** MAYA, DAN, ELLA
@@ -1219,6 +1309,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 **DAN:** A very satisfying combination.
 
 **MAYA:** Now we can settle in.
+
+**ELLA:** Let's leave a little room at the blanket edge for me.
 
 ### SHOT_047 | 00:11:30–00:11:45 | Six places, fixed and comfortable
 
@@ -1246,6 +1338,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **DAN:** I enjoyed the extra research.
 
+**MAX:** Did your research discover that sandwiches taste better over here?
+
 ### SHOT_048 | 00:11:45–00:12:00 | Room for everyone
 
 **Visible cast:** MAX, NINA, MAYA
@@ -1271,6 +1365,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 **NINA:** We have more room right here.
 
 **MAYA:** The bench helped us find a good place, too.
+
+**MAX:** Good. My knees were hoping for some blanket space.
 
 ### SHOT_049 | 00:12:00–00:12:15 | The clean plates arrive
 
@@ -1298,6 +1394,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **DAN:** At last, the plates have met their passengers.
 
+**MAYA:** They can put in for a rest after lunch.
+
 ### SHOT_050 | 00:12:15–00:12:30 | Napkins know where to go
 
 **Visible cast:** LEO, MAX, NINA
@@ -1323,6 +1421,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 **LEO:** The useful side is beside your plate.
 
 **NINA:** You can put it wherever you can reach comfortably.
+
+**MAX:** Beside my plate makes sense. My elbow can find it.
 
 ### SHOT_051 | 00:12:30–00:12:45 | The cold lid opens
 
@@ -1350,6 +1450,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **MAYA:** It had excellent transport.
 
+**NINA:** Let's hand them out while they're nice and cool.
+
 ### SHOT_052 | 00:12:45–00:13:00 | One parcel for each person
 
 **Visible cast:** NINA, MAYA, ELLA
@@ -1375,6 +1477,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 **MAYA:** Nobody left out.
 
 **NINA:** And no sandwich at the squirrel bench.
+
+**ELLA:** I think the squirrel would just sit on his anyway.
 
 ### SHOT_053 | 00:13:00–00:13:15 | Water follows the same plan
 
@@ -1402,6 +1506,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **LEO:** Correct. It came all the way from our fridge.
 
+**MAX:** Good. I prefer the kind that comes in a bottle.
+
 ### SHOT_054 | 00:13:15–00:13:30 | Wrappers stay with us
 
 **Visible cast:** MAYA, MAX, NINA
@@ -1427,6 +1533,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 **MAX:** The wrapper wants to fly.
 
 **NINA:** Our pouch will keep it here.
+
+**MAX:** Got it. This wrapper isn't getting its own park tour.
 
 ### SHOT_055 | 00:13:30–00:13:45 | The first quiet bite
 
@@ -1454,6 +1562,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **MAYA:** So does being together.
 
+**DAN:** The walk gave me quite an appetite for this sandwich.
+
 ### SHOT_056 | 00:13:45–00:14:00 | No race to the best shade
 
 **Visible cast:** ELLA, MAX, NINA
@@ -1479,6 +1589,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 **MAX:** A very polite sun.
 
 **NINA:** The oak is doing the hard work.
+
+**MAX:** Can it keep doing that till I finish my lunch?
 
 ### SHOT_057 | 00:14:00–00:14:15 | What the other bench taught us
 
@@ -1506,6 +1618,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **MAX:** And interviewed its quietest neighbor.
 
+**LEO:** I never thought a statue could answer a question.
+
 ### SHOT_058 | 00:14:15–00:14:30 | A kind correction travels farther
 
 **Visible cast:** MAYA, DAN, ELLA
@@ -1531,6 +1645,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 **DAN:** They let me turn the paper before turning me into a joke.
 
 **ELLA:** Only a very small joke.
+
+**DAN:** A small one is fair. I did ask a squirrel.
 
 ### SHOT_059 | 00:14:30–00:14:45 | A map needs a listener
 
@@ -1558,6 +1674,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **NINA:** A map is helpful company, not a replacement for listening.
 
+**MAX:** I'll listen for the tree part first next time.
+
 ### SHOT_060 | 00:14:45–00:15:00 | The oak gets no medal
 
 **Visible cast:** ELLA, LEO, MAX
@@ -1583,6 +1701,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 **ELLA:** It has been practicing for years.
 
 **MAX:** And it already knows where to stand.
+
+**LEO:** The tree definitely had the shortest trip to lunch.
 
 ### SHOT_061 | 00:15:00–00:15:15 | A picnic is not a test
 
@@ -1610,6 +1730,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **NINA:** Helping can include asking.
 
+**DAN:** I like having two people around who notice different things.
+
 ### SHOT_062 | 00:15:15–00:15:30 | Another sort of good guide
 
 **Visible cast:** DAN, MAX, LEO
@@ -1635,6 +1757,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 **MAX:** You carried all the plates.
 
 **LEO:** That was useful too.
+
+**DAN:** Thanks. I thought I'd only contributed the extra walk.
 
 ### SHOT_063 | 00:15:30–00:15:45 | The tiny tree grows up
 
@@ -1662,6 +1786,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **MAYA:** Fortunately, the shade is full-sized.
 
+**ELLA:** Plenty of shade for someone with a very small map.
+
 ### SHOT_064 | 00:15:45–00:16:00 | A place everyone can describe
 
 **Visible cast:** MAYA, NINA, MAX
@@ -1687,6 +1813,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 **MAX:** Under the big oak, right of the fountain.
 
 **NINA:** I would find you easily.
+
+**MAX:** And if you see the squirrel, wave across at us.
 
 ### SHOT_065 | 00:16:00–00:16:15 | The fountain keeps its voice
 
@@ -1714,6 +1842,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **ELLA:** The map was the busy one.
 
+**DAN:** Funny how different it looked after just one turn.
+
 ### SHOT_066 | 00:16:15–00:16:30 | The last bites take time
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX
@@ -1739,6 +1869,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 **NINA:** And we kept everything with us.
 
 **DAN:** Especially the people.
+
+**ELLA:** Let's check under the plates when we pack up.
 
 ### SHOT_067 | 00:16:30–00:16:45 | The basket changes jobs
 
@@ -1766,6 +1898,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **LEO:** And only one unnecessary stop.
 
+**DAN:** I think the plates would prefer a direct trip home.
+
 ### SHOT_068 | 00:16:45–00:17:00 | Leave the shade as we found it
 
 **Visible cast:** MAYA, NINA, MAX
@@ -1791,6 +1925,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 **MAYA:** Good. We take our things home.
 
 **NINA:** The next family should find clean shade too.
+
+**MAX:** I want the next picnic to have a nice spot too.
 
 ### SHOT_069 | 00:17:00–00:17:15 | Fold the meeting place
 
@@ -1818,6 +1954,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **MAYA:** Now we know it without our belongings.
 
+**ELLA:** That's how we'll find it next time, even before lunch.
+
 ### SHOT_070 | 00:17:15–00:17:30 | One last landmark check
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX
@@ -1843,6 +1981,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 **LEO:** A clear starting point and destination.
 
 **MAX:** No squirrel appointment this time.
+
+**NINA:** This time the fountain's on our way out of the park.
 
 ### SHOT_071 | 00:17:30–00:17:45 | A picture with the top marked
 
@@ -1870,6 +2010,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **LEO:** It seems to be working.
 
+**ELLA:** Just remember to turn yourself when we turn around.
+
 ### SHOT_072 | 00:17:45–00:18:00 | The quiet guide receives thanks
 
 **Visible cast:** DAN, MAX, MAYA
@@ -1895,6 +2037,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 **DAN:** He helped us notice where we were.
 
 **MAYA:** And we helped each other get here.
+
+**MAX:** I'll wave for him. His paws look busy staying still.
 
 ### SHOT_073 | 00:18:00–00:18:15 | Two benches, one good memory
 
@@ -1922,6 +2066,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **NINA:** A useful pair.
 
+**ELLA:** I'll remember which one has the surprisingly patient squirrel.
+
 ### SHOT_074 | 00:18:15–00:18:30 | Through the gate together
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX
@@ -1947,6 +2093,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 **MAYA:** Everybody.
 
 **MAX:** Even the direction expert.
+
+**LEO:** Especially him. We want his version of the story later.
 
 ### SHOT_075 | 00:18:30–00:18:45 | The correct kind of shortcut
 
@@ -1974,6 +2122,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **LEO:** Very clear directions.
 
+**MAX:** Good. Home is a landmark my feet already know.
+
 ### SHOT_076 | 00:18:45–00:19:00 | Home with a small story
 
 **Visible cast:** MAYA, NINA, DAN
@@ -1999,6 +2149,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 **NINA:** Everything back with us.
 
 **DAN:** And a much better understanding of benches.
+
+**MAYA:** Next time the directions can travel with a second reader.
 
 ### SHOT_077 | 00:19:00–00:19:15 | The second useful job
 
@@ -2026,6 +2178,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **MAX:** People to somewhere comfortable?
 
+**ELLA:** After the basket's empty, your knees can clock out too.
+
 ### SHOT_078 | 00:19:15–00:19:30 | One map, the right way up
 
 **Visible cast:** DAN, LEO, MAYA
@@ -2051,6 +2205,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 **LEO:** Ready for next time.
 
 **MAYA:** And next time, we can all check together.
+
+**DAN:** Deal. The park's big enough for more than one navigator.
 
 ### SHOT_079 | 00:19:30–00:19:45 | Tomorrow can use a simple question
 
@@ -2078,6 +2234,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **MAX:** Will the menu need a map?
 
+**DAN:** Only if dessert is hiding behind a stone squirrel.
+
 ### SHOT_080 | 00:19:45–00:20:00 | The bench with everyone
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX
@@ -2103,4 +2261,6 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 **MAYA:** We will leave you a place.
 
 **MAX:** The squirrel can keep his.
+
+**ELLA:** We'll save you the shady spot, Dad. You earned the walk.
 

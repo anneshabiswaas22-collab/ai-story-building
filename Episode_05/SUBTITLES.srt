@@ -1,975 +1,1359 @@
 1
-00:00:00,500 --> 00:00:05,480
+00:00:00,500 --> 00:00:04,843
 Today, the park. Our picnic is going farther
 than the backyard.
 
 2
-00:00:05,730 --> 00:00:09,420
+00:00:05,093 --> 00:00:08,311
 Excellent. I shall lead lunch to its
 destination.
 
 3
-00:00:09,670 --> 00:00:12,070
+00:00:08,561 --> 00:00:10,654
 Lunch would appreciate a map.
 
 4
+00:00:10,904 --> 00:00:14,497
+It would also appreciate arriving before we
+get hungry.
+
+5
 00:00:15,500 --> 00:00:17,470
 Six plates. Six napkins.
 
-5
+6
 00:00:17,720 --> 00:00:20,550
 And a bag for our rubbish.
 
-6
+7
 00:00:20,800 --> 00:00:23,630
 The blanket gets to travel too.
 
-7
-00:00:30,500 --> 00:00:34,190
-Past the fountain, right toward the big oak.
-
 8
-00:00:34,440 --> 00:00:37,700
-The bench under the oak. Got it.
+00:00:23,880 --> 00:00:28,430
+Roll it tight, Max. It has a long walk today.
 
 9
-00:00:37,950 --> 00:00:41,210
-A bench. I can recognize a bench.
+00:00:30,500 --> 00:00:33,812
+Past the fountain, right toward the big oak.
 
 10
-00:00:45,500 --> 00:00:47,900
-There are two green benches.
+00:00:34,062 --> 00:00:36,988
+The bench under the oak. Got it.
 
 11
-00:00:48,150 --> 00:00:50,550
-This one has a squirrel.
+00:00:37,238 --> 00:00:40,164
+A bench. I can recognize a bench.
 
 12
-00:00:50,800 --> 00:00:54,920
-Then we shall choose the one with our family.
+00:00:40,414 --> 00:00:44,498
+Dad, remember the tree part. The park has
+other benches.
 
 13
+00:00:45,500 --> 00:00:47,860
+There are two green benches.
+
+14
+00:00:48,110 --> 00:00:50,470
+This one has a squirrel.
+
+15
+00:00:50,720 --> 00:00:54,772
+Then we shall choose the one with our family.
+
+16
+00:00:55,022 --> 00:00:59,497
+Does the squirrel get a sandwich if we choose
+wrong?
+
+17
 00:01:00,500 --> 00:01:03,330
 Sandwiches stay cool until we eat.
 
-14
+18
 00:01:03,580 --> 00:01:05,380
 Blanket with me.
 
-15
+19
 00:01:05,630 --> 00:01:09,320
 Plates with Dad. Nobody has to carry
 everything.
 
-16
-00:01:15,500 --> 00:01:20,050
+20
+00:01:09,570 --> 00:01:14,120
+Good. We can share the carrying as well as
+lunch.
+
+21
+00:01:15,500 --> 00:01:19,584
 I have the basket and a remarkable sense of
 direction.
 
-17
-00:01:20,300 --> 00:01:22,270
+22
+00:01:19,834 --> 00:01:21,602
 Which direction is remarkable?
 
-18
-00:01:22,520 --> 00:01:26,210
+23
+00:01:21,852 --> 00:01:25,164
 We can check that when we get there.
 
-19
-00:01:30,500 --> 00:01:32,300
-Everybody ready?
-
-20
-00:01:32,550 --> 00:01:35,810
-Ready for the bench with the people.
-
-21
-00:01:36,060 --> 00:01:39,750
-Stay beside us. We will find it together.
-
-22
-00:01:45,500 --> 00:01:48,760
-Such a small tree. Easy to spot.
-
-23
-00:01:49,010 --> 00:01:51,410
-It is a drawing, Dad.
-
 24
-00:01:51,660 --> 00:01:54,920
-The real one may be slightly taller.
+00:01:25,414 --> 00:01:29,498
+The direction that gets these plates to lunch,
+I hope.
 
 25
-00:02:00,500 --> 00:02:02,470
-There is the fountain.
+00:01:30,500 --> 00:01:32,237
+Everybody ready?
 
 26
-00:02:02,720 --> 00:02:05,550
-And the big oak beyond it.
+00:01:32,487 --> 00:01:35,633
+Ready for the bench with the people.
 
 27
-00:02:05,800 --> 00:02:09,920
+00:01:35,883 --> 00:01:39,443
+Stay beside us. We will find it together.
+
+28
+00:01:39,693 --> 00:01:44,498
+I'll look for the big oak when we reach the
+gate.
+
+29
+00:01:45,500 --> 00:01:48,706
+Such a small tree. Easy to spot.
+
+30
+00:01:48,956 --> 00:01:51,316
+It is a drawing, Dad.
+
+31
+00:01:51,566 --> 00:01:54,772
+The real one may be slightly taller.
+
+32
+00:01:55,022 --> 00:01:59,497
+Good. We won't have to eat under a pencil
+mark.
+
+33
+00:02:00,500 --> 00:02:02,437
+There is the fountain.
+
+34
+00:02:02,687 --> 00:02:05,470
+And the big oak beyond it.
+
+35
+00:02:05,720 --> 00:02:09,772
 I recognize at least three things from the
 map.
 
-28
-00:02:15,500 --> 00:02:19,620
+36
+00:02:10,022 --> 00:02:14,497
+Can you match them to the drawing from here,
+Dad?
+
+37
+00:02:15,500 --> 00:02:19,309
 Our place is under that oak, on the right.
 
-29
-00:02:19,870 --> 00:02:23,130
+38
+00:02:19,559 --> 00:02:22,573
 The squirrel is on the other side.
 
-30
-00:02:23,380 --> 00:02:25,780
+39
+00:02:22,823 --> 00:02:25,042
 A useful neighbor to remember.
 
-31
-00:02:30,500 --> 00:02:34,190
+40
+00:02:25,292 --> 00:02:29,499
+If he looks like a squirrel, we've gone too
+far.
+
+41
+00:02:30,500 --> 00:02:33,911
 We will spread the blanket under the oak.
 
-32
-00:02:34,440 --> 00:02:37,700
+42
+00:02:34,161 --> 00:02:37,175
 We will be right across the fountain.
 
-33
-00:02:37,950 --> 00:02:40,780
+43
+00:02:37,425 --> 00:02:40,041
 We will follow with the plates.
 
-34
+44
+00:02:40,291 --> 00:02:44,498
+Just look for us when you come round the
+fountain.
+
+45
 00:02:45,500 --> 00:02:47,470
 Right at the fountain.
 
-35
+46
 00:02:47,720 --> 00:02:50,550
 Yes. We can still see Dad.
 
-36
+47
 00:02:50,800 --> 00:02:54,060
 He has only the plates to persuade.
 
-37
+48
+00:02:54,310 --> 00:02:58,430
+They'd better come. Lunch needs something to
+land on.
+
+49
 00:03:00,500 --> 00:03:02,900
 There. Tree on the left.
 
-38
+50
 00:03:03,150 --> 00:03:05,550
 I thought Mom said right.
 
-39
+51
 00:03:05,800 --> 00:03:09,060
 Let us compare it with the scenery.
 
-40
+52
+00:03:09,310 --> 00:03:13,430
+Dad, the trees on paper look funny from here.
+
+53
 00:03:15,500 --> 00:03:17,470
 That bench is green.
 
-41
+54
 00:03:17,720 --> 00:03:19,520
 An excellent match.
 
-42
+55
 00:03:19,770 --> 00:03:21,740
 What about the tree?
 
-43
+56
+00:03:21,990 --> 00:03:26,110
+Fair question. Nobody promised us the only
+green bench.
+
+57
 00:03:30,500 --> 00:03:33,330
 There is a tree beside it.
 
-44
+58
 00:03:33,580 --> 00:03:36,410
 There are trees beside almost everything.
 
-45
+59
 00:03:36,660 --> 00:03:39,490
 This park has been very thorough.
 
-46
+60
+00:03:39,740 --> 00:03:44,290
+But only one of those trees is our big oak.
+
+61
 00:03:45,500 --> 00:03:47,300
 Destination reached.
 
-47
+62
 00:03:47,550 --> 00:03:52,100
 The picnic seems to be missing most of the
 picnic.
 
-48
+63
 00:03:52,350 --> 00:03:54,150
 Including our family.
 
-49
+64
+00:03:54,400 --> 00:03:59,380
+Ah. That's quite a lot for a picnic to be
+missing.
+
+65
 00:04:00,500 --> 00:04:03,760
 One, two, three. We ordered six people.
 
-50
+66
 00:04:04,010 --> 00:04:07,270
 Perhaps the others are admiring the view.
 
-51
+67
 00:04:07,520 --> 00:04:09,920
 We should admire the directions.
 
-52
+68
+00:04:10,170 --> 00:04:14,290
+I still count three. Nobody's hiding behind
+you, Dad.
+
+69
 00:04:15,500 --> 00:04:18,760
 Excuse me. Have you seen our picnic?
 
-53
+70
 00:04:19,010 --> 00:04:20,980
 Our friend seems quiet.
 
-54
+71
 00:04:21,230 --> 00:04:24,060
 Stone squirrels are excellent at waiting.
 
-55
+72
+00:04:24,310 --> 00:04:28,000
+And apparently terrible at giving directions
+out loud.
+
+73
 00:04:30,500 --> 00:04:32,470
 There is no blanket.
 
-56
+74
 00:04:32,720 --> 00:04:34,690
 Mom Maya has it.
 
-57
+75
 00:04:34,940 --> 00:04:38,630
 A strong clue that lunch went somewhere else.
 
-58
-00:04:45,500 --> 00:04:49,190
+76
+00:04:38,880 --> 00:04:43,000
+Same green paint, though. I see why you
+stopped.
+
+77
+00:04:45,500 --> 00:04:48,812
 I can call them if we need help.
 
-59
-00:04:49,440 --> 00:04:52,700
+78
+00:04:49,062 --> 00:04:51,988
 First, let us check where we are.
 
-60
-00:04:52,950 --> 00:04:56,210
+79
+00:04:52,238 --> 00:04:55,164
 Good. The bench is not going anywhere.
 
-61
+80
+00:04:55,414 --> 00:04:59,498
+Good point. The map might have an opinion on
+this.
+
+81
 00:05:00,500 --> 00:05:02,900
 There is another green bench.
 
-62
+82
 00:05:03,150 --> 00:05:05,120
 It has copied ours.
 
-63
+83
 00:05:05,370 --> 00:05:08,630
 Or ours copied the one with lunch.
 
-64
+84
+00:05:08,880 --> 00:05:13,000
+Worth checking which one's got the oak beside
+it.
+
+85
 00:05:15,500 --> 00:05:17,900
 Our neighbor is a squirrel.
 
-65
+86
 00:05:18,150 --> 00:05:20,120
 The drawing says oak.
 
-66
+87
 00:05:20,370 --> 00:05:23,630
 The bench had a very convincing alibi.
 
-67
+88
+00:05:23,880 --> 00:05:28,430
+The squirrel hasn't got much to say in its
+defense.
+
+89
 00:05:30,500 --> 00:05:32,900
 Dad, the arrow points down.
 
-68
+90
 00:05:33,150 --> 00:05:36,410
 A south-going north arrow. That is unusual.
 
-69
+91
 00:05:36,660 --> 00:05:39,490
 Maybe the paper is upside down.
 
-70
-00:05:45,500 --> 00:05:48,330
+92
+00:05:39,740 --> 00:05:44,290
+That would certainly save us from turning the
+park around.
+
+93
+00:05:45,500 --> 00:05:48,197
 That would explain the adventurous tree.
 
-71
-00:05:48,580 --> 00:05:52,270
+94
+00:05:48,447 --> 00:05:51,964
 Gate at the bottom. Fountain in the middle.
 
-72
-00:05:52,520 --> 00:05:55,780
+95
+00:05:52,214 --> 00:05:55,321
 Now lunch is on the other side.
 
-73
+96
+00:05:55,571 --> 00:05:59,498
+So that's where we should be taking these
+plates.
+
+97
 00:06:00,500 --> 00:06:03,760
 I saw a bench and stopped checking.
 
-74
+98
 00:06:04,010 --> 00:06:05,810
 Easy to do.
 
-75
+99
 00:06:06,060 --> 00:06:09,320
 The squirrel was not much help either.
 
-76
-00:06:15,500 --> 00:06:17,300
+100
+00:06:09,570 --> 00:06:13,690
+Actually, he's the part that gave this place
+away.
+
+101
+00:06:15,500 --> 00:06:17,293
 Which bench, Dad?
 
-77
-00:06:17,550 --> 00:06:20,810
+102
+00:06:17,543 --> 00:06:20,790
 The green bench under the big oak.
 
-78
-00:06:21,060 --> 00:06:24,750
+103
+00:06:21,040 --> 00:06:24,716
 That gives us something we can actually check.
 
-79
+104
+00:06:24,966 --> 00:06:29,498
+And if we see the squirrel, we've already
+checked him.
+
+105
 00:06:30,500 --> 00:06:33,330
 We are beside the squirrel statue.
 
-80
+106
 00:06:33,580 --> 00:06:36,410
 So it did tell us something.
 
-81
+107
 00:06:36,660 --> 00:06:38,630
 Without saying a word.
 
-82
-00:06:45,500 --> 00:06:49,620
+108
+00:06:38,880 --> 00:06:43,000
+That's more help than I got from guessing
+green.
+
+109
+00:06:45,500 --> 00:06:49,198
 Gate behind us, fountain ahead, squirrel to
 the west.
 
-83
-00:06:49,870 --> 00:06:52,700
+110
+00:06:49,448 --> 00:06:51,988
 And our oak to the east.
 
-84
-00:06:52,950 --> 00:06:56,210
+111
+00:06:52,238 --> 00:06:55,164
 The paper and park are friends again.
 
-85
+112
+00:06:55,414 --> 00:06:59,498
+Let's keep them that way until we get to
+lunch.
+
+113
 00:07:00,500 --> 00:07:03,760
 Could we bring this bench to lunch?
 
-86
+114
 00:07:04,010 --> 00:07:06,840
 It seems attached to the park.
 
-87
+115
 00:07:07,090 --> 00:07:09,490
 Moving us will be easier.
 
-88
+116
+00:07:09,740 --> 00:07:14,290
+Fair point. The plates are lighter than a
+whole bench.
+
+117
 00:07:15,500 --> 00:07:18,330
 It looks closer across the flowers.
 
-89
+118
 00:07:18,580 --> 00:07:21,840
 The path is the way for us.
 
-90
+119
 00:07:22,090 --> 00:07:24,920
 The flowers already have their seats.
 
-91
+120
+00:07:25,170 --> 00:07:29,290
+Okay. We'll walk round and leave them to it.
+
+121
 00:07:30,500 --> 00:07:33,760
 There they are. They can see us.
 
-92
+122
 00:07:34,010 --> 00:07:35,980
 They have the blanket.
 
-93
+123
 00:07:36,230 --> 00:07:38,200
 And the better bench.
 
-94
+124
+00:07:38,450 --> 00:07:42,140
+Better company, too. No offense to our
+squirrel.
+
+125
 00:07:45,500 --> 00:07:47,300
 Nothing left behind.
 
-95
+126
 00:07:47,550 --> 00:07:49,950
 Except a confidently wrong conclusion.
 
-96
+127
 00:07:50,200 --> 00:07:53,030
 The squirrel can look after that.
 
-97
-00:08:00,500 --> 00:08:04,190
+128
+00:07:53,280 --> 00:07:57,400
+Come on, Dad. Lunch won't find us sitting
+here.
+
+129
+00:08:00,500 --> 00:08:03,911
 Back to the fountain. Then we check again.
 
-98
-00:08:04,440 --> 00:08:07,700
+130
+00:08:04,161 --> 00:08:07,175
 A known place is a useful start.
 
-99
-00:08:07,950 --> 00:08:11,210
+131
+00:08:07,425 --> 00:08:10,439
 This time, we bring the north arrow.
 
-100
+132
+00:08:10,689 --> 00:08:14,498
+Good. I don't want another trip to the statue.
+
+133
 00:08:15,500 --> 00:08:17,900
 Gate behind us. Fountain ahead.
 
-101
+134
 00:08:18,150 --> 00:08:20,550
 Now right, toward the oak.
 
-102
+135
 00:08:20,800 --> 00:08:24,490
 The real tree. Not the little upside-down one.
 
-103
-00:08:30,500 --> 00:08:33,330
+136
+00:08:24,740 --> 00:08:28,860
+It's easier to see now that we're facing it.
+
+137
+00:08:30,500 --> 00:08:33,197
 The fountain sounds different up close.
 
-104
-00:08:33,580 --> 00:08:36,840
+138
+00:08:33,447 --> 00:08:36,554
 A good reason to stop and notice.
 
-105
-00:08:37,090 --> 00:08:40,350
+139
+00:08:36,804 --> 00:08:39,911
 And now we know where we are.
 
-106
-00:08:45,500 --> 00:08:48,760
+140
+00:08:40,161 --> 00:08:44,498
+And we can hear it without looking at a map.
+
+141
+00:08:45,500 --> 00:08:48,706
 Right at the fountain, toward the oak.
 
-107
-00:08:49,010 --> 00:08:51,840
+142
+00:08:48,956 --> 00:08:51,739
 And away from our stone adviser.
 
-108
-00:08:52,090 --> 00:08:55,350
+143
+00:08:51,989 --> 00:08:55,195
 He has done enough guiding for today.
 
-109
+144
+00:08:55,445 --> 00:08:59,497
+At least we won't have to thank him twice.
+
+145
 00:09:00,500 --> 00:09:02,900
 That bench has our people.
 
-110
+146
 00:09:03,150 --> 00:09:05,550
 And a very promising lunch.
 
-111
+147
 00:09:05,800 --> 00:09:07,600
 Two excellent landmarks.
 
-112
+148
+00:09:07,850 --> 00:09:12,400
+And an oak. We can finally tick off all three.
+
+149
 00:09:15,500 --> 00:09:17,900
 We saved all six places.
 
-113
+150
 00:09:18,150 --> 00:09:20,980
 Your plates took the scenic route.
 
-114
+151
 00:09:21,230 --> 00:09:24,060
 The sandwiches waited in the shade.
 
-115
+152
+00:09:24,310 --> 00:09:28,860
+I hope the boys have an appetite after that
+walk.
+
+153
 00:09:30,500 --> 00:09:32,900
 Six people. One correct bench.
 
-116
+154
 00:09:33,150 --> 00:09:35,550
 And one family, all here.
 
-117
+155
 00:09:35,800 --> 00:09:38,630
 The map needed a little turning.
 
-118
-00:09:45,500 --> 00:09:50,480
+156
+00:09:38,880 --> 00:09:43,430
+All the way around, Dad. Tell them about the
+arrow.
+
+157
+00:09:45,500 --> 00:09:50,104
 I held the map upside down and trusted the
 first bench.
 
-119
-00:09:50,730 --> 00:09:52,700
+158
+00:09:50,354 --> 00:09:52,175
 That explains the detour.
 
-120
-00:09:52,950 --> 00:09:56,210
+159
+00:09:52,425 --> 00:09:55,439
 The statue helped us work it out.
 
-121
+160
+00:09:55,689 --> 00:09:59,498
+I owe that squirrel a thank-you. You two, too.
+
+161
 00:10:00,500 --> 00:10:03,760
 A bench alone was not enough information.
 
-122
+162
 00:10:04,010 --> 00:10:07,700
 Right at the fountain, under the big oak.
 
-123
+163
 00:10:07,950 --> 00:10:09,920
 Much harder to confuse.
 
-124
-00:10:15,500 --> 00:10:18,760
+164
+00:10:10,170 --> 00:10:14,290
+Especially when the other bench has a stone
+squirrel.
+
+165
+00:10:15,500 --> 00:10:18,191
 I could have pointed out both benches.
 
-125
-00:10:19,010 --> 00:10:22,270
+166
+00:10:18,441 --> 00:10:21,132
 And I could have checked before walking.
 
-126
-00:10:22,520 --> 00:10:27,070
+167
+00:10:21,382 --> 00:10:25,138
 The bench was not the only thing needing a
 partner.
 
-127
+168
+00:10:25,388 --> 00:10:29,499
+Next time let's point at it together before
+anyone starts off.
+
+169
 00:10:30,500 --> 00:10:32,900
 This sleeve keeps it dry.
 
-128
+170
 00:10:33,150 --> 00:10:37,270
 And I shall keep the top at the top.
 
-129
+171
 00:10:37,520 --> 00:10:39,490
 An ambitious new system.
 
-130
-00:10:45,500 --> 00:10:47,900
+172
+00:10:39,740 --> 00:10:44,290
+And we can see it without getting sandwich on
+it.
+
+173
+00:10:45,500 --> 00:10:47,719
 Can we open lunch now?
 
-131
-00:10:48,150 --> 00:10:51,840
+174
+00:10:47,969 --> 00:10:51,380
 After clean hands. The pavilion has a sink.
 
-132
-00:10:52,090 --> 00:10:55,780
+175
+00:10:51,630 --> 00:10:55,041
 I can see its red roof from here.
 
-133
+176
+00:10:55,291 --> 00:10:59,498
+Good. Even from here I can tell those roofs
+apart.
+
+177
 00:11:00,500 --> 00:11:03,330
 We will take everything with us.
 
-134
+178
 00:11:03,580 --> 00:11:06,840
 This time, I know the way back.
 
-135
+179
 00:11:07,090 --> 00:11:09,490
 The oak will wait too.
 
-136
+180
+00:11:09,740 --> 00:11:13,860
+Come on, then. Nobody needs to guard lunch
+alone.
+
+181
 00:11:15,500 --> 00:11:17,470
 Same blanket, right place.
 
-137
+182
 00:11:17,720 --> 00:11:19,690
 A very satisfying combination.
 
-138
+183
 00:11:19,940 --> 00:11:22,340
 Now we can settle in.
 
-139
-00:11:30,500 --> 00:11:32,470
+184
+00:11:22,590 --> 00:11:27,570
+Let's leave a little room at the blanket edge
+for me.
+
+185
+00:11:30,500 --> 00:11:32,377
 Everyone found a place.
 
-140
-00:11:32,720 --> 00:11:37,700
+186
+00:11:32,627 --> 00:11:37,374
 The right bench only needed one attempt from
 most of us.
 
-141
-00:11:37,950 --> 00:11:40,350
+187
+00:11:37,624 --> 00:11:39,911
 I enjoyed the extra research.
 
-142
-00:11:45,500 --> 00:11:49,190
+188
+00:11:40,161 --> 00:11:44,498
+Did your research discover that sandwiches
+taste better over here?
+
+189
+00:11:45,500 --> 00:11:48,812
 Would all of us fit on that bench?
 
-143
-00:11:49,440 --> 00:11:52,270
+190
+00:11:49,062 --> 00:11:51,602
 We have more room right here.
 
-144
-00:11:52,520 --> 00:11:56,640
+191
+00:11:51,852 --> 00:11:55,550
 The bench helped us find a good place, too.
 
-145
+192
+00:11:55,800 --> 00:11:59,498
+Good. My knees were hoping for some blanket
+space.
+
+193
 00:12:00,500 --> 00:12:03,330
 One plate for each of us.
 
-146
+194
 00:12:03,580 --> 00:12:05,380
 Thank you.
 
-147
+195
 00:12:05,630 --> 00:12:09,320
 At last, the plates have met their passengers.
 
-148
-00:12:15,500 --> 00:12:18,760
+196
+00:12:09,570 --> 00:12:13,690
+They can put in for a rest after lunch.
+
+197
+00:12:15,500 --> 00:12:18,343
 My napkin is on the right side.
 
-149
-00:12:19,010 --> 00:12:22,270
+198
+00:12:18,593 --> 00:12:21,436
 The useful side is beside your plate.
 
-150
-00:12:22,520 --> 00:12:26,640
+199
+00:12:21,686 --> 00:12:25,279
 You can put it wherever you can reach
 comfortably.
 
-151
+200
+00:12:25,529 --> 00:12:29,497
+Beside my plate makes sense. My elbow can find
+it.
+
+201
 00:12:30,500 --> 00:12:33,760
 Still cool. Six sandwiches, ready to share.
 
-152
+202
 00:12:34,010 --> 00:12:36,410
 Lunch followed its instructions perfectly.
 
-153
+203
 00:12:36,660 --> 00:12:38,630
 It had excellent transport.
 
-154
+204
+00:12:38,880 --> 00:12:43,000
+Let's hand them out while they're nice and
+cool.
+
+205
 00:12:45,500 --> 00:12:47,470
 Six plates, six sandwiches.
 
-155
+206
 00:12:47,720 --> 00:12:49,520
 Nobody left out.
 
-156
+207
 00:12:49,770 --> 00:12:53,030
 And no sandwich at the squirrel bench.
 
-157
-00:13:00,500 --> 00:13:02,300
+208
+00:12:53,280 --> 00:12:57,830
+I think the squirrel would just sit on his
+anyway.
+
+209
+00:13:00,500 --> 00:13:02,184
 One bottle each.
 
-158
-00:13:02,550 --> 00:13:06,240
+210
+00:13:02,434 --> 00:13:05,886
 This water did not come from the fountain.
 
-159
-00:13:06,490 --> 00:13:10,610
+211
+00:13:06,136 --> 00:13:09,991
 Correct. It came all the way from our fridge.
 
-160
+212
+00:13:10,241 --> 00:13:14,498
+Good. I prefer the kind that comes in a
+bottle.
+
+213
 00:13:15,500 --> 00:13:17,900
 Open it over your plate.
 
-161
+214
 00:13:18,150 --> 00:13:20,550
 The wrapper wants to fly.
 
-162
+215
 00:13:20,800 --> 00:13:23,630
 Our pouch will keep it here.
 
-163
+216
+00:13:23,880 --> 00:13:28,430
+Got it. This wrapper isn't getting its own
+park tour.
+
+217
 00:13:30,500 --> 00:13:33,330
 Worth finding the right place for.
 
-164
+218
 00:13:33,580 --> 00:13:35,380
 The shade helps.
 
-165
+219
 00:13:35,630 --> 00:13:37,600
 So does being together.
 
-166
+220
+00:13:37,850 --> 00:13:42,400
+The walk gave me quite an appetite for this
+sandwich.
+
+221
 00:13:45,500 --> 00:13:48,760
 The sun stopped at our blanket edge.
 
-167
+222
 00:13:49,010 --> 00:13:50,980
 A very polite sun.
 
-168
+223
 00:13:51,230 --> 00:13:54,490
 The oak is doing the hard work.
 
-169
+224
+00:13:54,740 --> 00:13:59,290
+Can it keep doing that till I finish my lunch?
+
+225
 00:14:00,500 --> 00:14:02,900
 That bench looked exactly right.
 
-170
+226
 00:14:03,150 --> 00:14:06,410
 Until we checked what was beside it.
 
-171
+227
 00:14:06,660 --> 00:14:09,060
 And interviewed its quietest neighbor.
 
-172
-00:14:15,500 --> 00:14:17,470
+228
+00:14:09,310 --> 00:14:13,430
+I never thought a statue could answer a
+question.
+
+229
+00:14:15,500 --> 00:14:17,321
 You helped one another.
 
-173
-00:14:17,720 --> 00:14:23,130
+230
+00:14:17,571 --> 00:14:22,573
 They let me turn the paper before turning me
 into a joke.
 
-174
-00:14:23,380 --> 00:14:25,780
+231
+00:14:22,823 --> 00:14:25,042
 Only a very small joke.
 
-175
-00:14:30,500 --> 00:14:32,900
+232
+00:14:25,292 --> 00:14:29,499
+A small one is fair. I did ask a squirrel.
+
+233
+00:14:30,500 --> 00:14:32,719
 Can a map hear directions?
 
-176
-00:14:33,150 --> 00:14:36,410
+234
+00:14:32,969 --> 00:14:35,983
 No. I have to do that part.
 
-177
-00:14:36,660 --> 00:14:41,210
+235
+00:14:36,233 --> 00:14:40,440
 A map is helpful company, not a replacement
 for listening.
 
-178
+236
+00:14:40,690 --> 00:14:44,499
+I'll listen for the tree part first next time.
+
+237
 00:14:45,500 --> 00:14:48,330
 Best shade goes to the oak.
 
-179
+238
 00:14:48,580 --> 00:14:51,410
 It has been practicing for years.
 
-180
+239
 00:14:51,660 --> 00:14:54,920
 And it already knows where to stand.
 
-181
-00:15:00,500 --> 00:15:04,620
+240
+00:14:55,170 --> 00:14:59,290
+The tree definitely had the shortest trip to
+lunch.
+
+241
+00:15:00,500 --> 00:15:04,198
 I wanted to take care of the directions
 myself.
 
-182
-00:15:04,870 --> 00:15:08,990
+242
+00:15:04,448 --> 00:15:08,146
 You do not have to do every part alone.
 
-183
-00:15:09,240 --> 00:15:11,210
+243
+00:15:08,396 --> 00:15:10,164
 Helping can include asking.
 
-184
+244
+00:15:10,414 --> 00:15:14,498
+I like having two people around who notice
+different things.
+
+245
 00:15:15,500 --> 00:15:19,620
 Leo found the arrow. Max found the wrong
 neighbor.
 
-185
+246
 00:15:19,870 --> 00:15:22,270
 You carried all the plates.
 
-186
+247
 00:15:22,520 --> 00:15:24,490
 That was useful too.
 
-187
+248
+00:15:24,740 --> 00:15:28,860
+Thanks. I thought I'd only contributed the
+extra walk.
+
+249
 00:15:30,500 --> 00:15:33,330
 Was the real tree slightly taller?
 
-188
+250
 00:15:33,580 --> 00:15:36,410
 An unexpectedly large amount of slightly.
 
-189
+251
 00:15:36,660 --> 00:15:39,060
 Fortunately, the shade is full-sized.
 
-190
-00:15:45,500 --> 00:15:49,620
+252
+00:15:39,310 --> 00:15:43,860
+Plenty of shade for someone with a very small
+map.
+
+253
+00:15:45,500 --> 00:15:49,198
 How would you tell us where this picnic is?
 
-191
-00:15:49,870 --> 00:15:53,560
+254
+00:15:49,448 --> 00:15:52,760
 Under the big oak, right of the fountain.
 
-192
-00:15:53,810 --> 00:15:56,210
+255
+00:15:53,010 --> 00:15:55,164
 I would find you easily.
 
-193
+256
+00:15:55,414 --> 00:15:59,498
+And if you see the squirrel, wave across at
+us.
+
+257
 00:16:00,500 --> 00:16:03,760
 The fountain stayed exactly where it was.
 
-194
+258
 00:16:04,010 --> 00:16:05,980
 Very considerate of it.
 
-195
+259
 00:16:06,230 --> 00:16:09,060
 The map was the busy one.
 
-196
+260
+00:16:09,310 --> 00:16:13,430
+Funny how different it looked after just one
+turn.
+
+261
 00:16:15,500 --> 00:16:17,900
 That was a good lunch.
 
-197
+262
 00:16:18,150 --> 00:16:20,980
 And we kept everything with us.
 
-198
+263
 00:16:21,230 --> 00:16:23,030
 Especially the people.
 
-199
-00:16:30,500 --> 00:16:33,760
+264
+00:16:23,280 --> 00:16:27,400
+Let's check under the plates when we pack up.
+
+265
+00:16:30,500 --> 00:16:33,706
 The basket can carry the plates home.
 
-200
-00:16:34,010 --> 00:16:37,270
+266
+00:16:33,956 --> 00:16:37,162
 It has had a very educational journey.
 
-201
-00:16:37,520 --> 00:16:39,920
+267
+00:16:37,412 --> 00:16:39,772
 And only one unnecessary stop.
 
-202
-00:16:45,500 --> 00:16:47,900
+268
+00:16:40,022 --> 00:16:44,497
+I think the plates would prefer a direct trip
+home.
+
+269
+00:16:45,500 --> 00:16:47,787
 No wrappers on the grass.
 
-203
-00:16:48,150 --> 00:16:50,980
+270
+00:16:48,037 --> 00:16:50,734
 Good. We take our things home.
 
-204
-00:16:51,230 --> 00:16:54,920
+271
+00:16:50,984 --> 00:16:54,501
 The next family should find clean shade too.
 
-205
+272
+00:16:54,751 --> 00:16:59,498
+I want the next picnic to have a nice spot
+too.
+
+273
 00:17:00,500 --> 00:17:03,760
 The place looks different without the blanket.
 
-206
+274
 00:17:04,010 --> 00:17:05,980
 Still the oak bench.
 
-207
+275
 00:17:06,230 --> 00:17:09,490
 Now we know it without our belongings.
 
-208
+276
+00:17:09,740 --> 00:17:14,290
+That's how we'll find it next time, even
+before lunch.
+
+277
 00:17:15,500 --> 00:17:18,330
 Fountain first. Then the south gate.
 
-209
+278
 00:17:18,580 --> 00:17:21,410
 A clear starting point and destination.
 
-210
+279
 00:17:21,660 --> 00:17:24,060
 No squirrel appointment this time.
 
-211
+280
+00:17:24,310 --> 00:17:29,290
+This time the fountain's on our way out of the
+park.
+
+281
 00:17:30,500 --> 00:17:33,330
 Keep this arrow at the top.
 
-212
+282
 00:17:33,580 --> 00:17:37,270
 Top at the top. I remember the system.
 
-213
+283
 00:17:37,520 --> 00:17:39,920
 It seems to be working.
 
-214
+284
+00:17:40,170 --> 00:17:44,290
+Just remember to turn yourself when we turn
+around.
+
+285
 00:17:45,500 --> 00:17:47,470
 Thank you, quiet guide.
 
-215
+286
 00:17:47,720 --> 00:17:50,980
 He helped us notice where we were.
 
-216
+287
 00:17:51,230 --> 00:17:54,490
 And we helped each other get here.
 
-217
+288
+00:17:54,740 --> 00:17:59,290
+I'll wave for him. His paws look busy staying
+still.
+
+289
 00:18:00,500 --> 00:18:02,900
 Which bench will you remember?
 
-218
+290
 00:18:03,150 --> 00:18:06,840
 Both. One for lunch, one for the story.
 
-219
+291
 00:18:07,090 --> 00:18:08,890
 A useful pair.
 
-220
+292
+00:18:09,140 --> 00:18:13,260
+I'll remember which one has the surprisingly
+patient squirrel.
+
+293
 00:18:15,500 --> 00:18:17,300
 Everybody with us?
 
-221
+294
 00:18:17,550 --> 00:18:19,350
 Everybody.
 
-222
+295
 00:18:19,600 --> 00:18:21,570
 Even the direction expert.
 
-223
+296
+00:18:21,820 --> 00:18:26,370
+Especially him. We want his version of the
+story later.
+
+297
 00:18:30,500 --> 00:18:32,300
 Any shortcuts?
 
-224
+298
 00:18:32,550 --> 00:18:36,240
 Only in my explanation. We are going home.
 
-225
+299
 00:18:36,490 --> 00:18:38,290
 Very clear directions.
 
-226
+300
+00:18:38,540 --> 00:18:42,660
+Good. Home is a landmark my feet already know.
+
+301
 00:18:45,500 --> 00:18:47,300
 Home again.
 
-227
+302
 00:18:47,550 --> 00:18:49,520
 Everything back with us.
 
-228
+303
 00:18:49,770 --> 00:18:53,030
 And a much better understanding of benches.
 
-229
+304
+00:18:53,280 --> 00:18:57,830
+Next time the directions can travel with a
+second reader.
+
+305
 00:19:00,500 --> 00:19:02,300
 Blanket to laundry.
 
-230
+306
 00:19:02,550 --> 00:19:04,520
 Plates to the sink.
 
-231
+307
 00:19:04,770 --> 00:19:06,740
 People to somewhere comfortable?
 
-232
-00:19:15,500 --> 00:19:19,620
+308
+00:19:06,990 --> 00:19:11,540
+After the basket's empty, your knees can clock
+out too.
+
+309
+00:19:15,500 --> 00:19:19,309
 A place for the map. The right way up.
 
-233
-00:19:19,870 --> 00:19:21,840
+310
+00:19:19,559 --> 00:19:21,380
 Ready for next time.
 
-234
-00:19:22,090 --> 00:19:25,780
+311
+00:19:21,630 --> 00:19:25,041
 And next time, we can all check together.
 
-235
-00:19:30,500 --> 00:19:33,760
+312
+00:19:25,291 --> 00:19:29,498
+Deal. The park's big enough for more than one
+navigator.
+
+313
+00:19:30,500 --> 00:19:33,514
 We have our restaurant dinner another evening.
 
-236
-00:19:34,010 --> 00:19:38,130
+314
+00:19:33,764 --> 00:19:37,573
 I shall ask one clear question at a time.
 
-237
-00:19:38,380 --> 00:19:41,210
+315
+00:19:37,823 --> 00:19:40,439
 Will the menu need a map?
 
-238
-00:19:45,500 --> 00:19:50,050
+316
+00:19:40,689 --> 00:19:44,498
+Only if dessert is hiding behind a stone
+squirrel.
+
+317
+00:19:45,500 --> 00:19:49,584
 Next time, I will look for the bench with
 everyone.
 
-239
-00:19:50,300 --> 00:19:53,130
+318
+00:19:49,834 --> 00:19:52,374
 We will leave you a place.
 
-240
-00:19:53,380 --> 00:19:55,780
+319
+00:19:52,624 --> 00:19:54,778
 The squirrel can keep his.
+
+320
+00:19:55,028 --> 00:19:59,498
+We'll save you the shady spot, Dad. You earned
+the walk.
