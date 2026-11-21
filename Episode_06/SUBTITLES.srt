@@ -1,977 +1,1365 @@
 1
-00:00:00,500 --> 00:00:04,620
+00:00:00,500 --> 00:00:04,198
 We have time for dinner at the neighborhood
 restaurant.
 
 2
-00:00:04,870 --> 00:00:07,700
+00:00:04,448 --> 00:00:06,988
 Everyone can choose something they enjoy.
 
 3
-00:00:07,950 --> 00:00:11,210
+00:00:07,238 --> 00:00:10,164
 I will be our extremely prepared diner.
 
 4
-00:00:15,500 --> 00:00:18,330
-Can we look at a menu?
+00:00:10,414 --> 00:00:14,498
+Will you be prepared to let us order for
+ourselves?
 
 5
-00:00:18,580 --> 00:00:21,410
-Will there be room for six?
+00:00:15,500 --> 00:00:18,283
+Can we look at a menu?
 
 6
-00:00:21,660 --> 00:00:24,920
-We will ask for a table together.
+00:00:18,533 --> 00:00:21,316
+Will there be room for six?
 
 7
+00:00:21,566 --> 00:00:24,772
+We will ask for a table together.
+
+8
+00:00:25,022 --> 00:00:29,497
+I want a seat where I can hear everybody
+order.
+
+9
 00:00:30,500 --> 00:00:33,760
 Esteemed keeper of dinner, we humbly request—
 
-8
+10
 00:00:34,010 --> 00:00:36,410
 A simple question will work.
 
-9
+11
 00:00:36,660 --> 00:00:39,490
 I may have overdressed the sentence.
 
-10
-00:00:45,500 --> 00:00:47,900
+12
+00:00:39,740 --> 00:00:43,860
+Try that sentence in your regular dinner
+voice, Dan.
+
+13
+00:00:45,500 --> 00:00:47,787
 Will everything be too hot?
 
-11
-00:00:48,150 --> 00:00:53,130
+14
+00:00:48,037 --> 00:00:52,784
 We can ask, and let food cool when it needs
 to.
 
-12
-00:00:53,380 --> 00:00:55,780
+15
+00:00:53,034 --> 00:00:55,321
 Clear questions. I am ready.
 
-13
-00:01:00,500 --> 00:01:04,190
-Eighty dollars for the meal, tax, and tip.
-
-14
-00:01:04,440 --> 00:01:07,700
-We will check the prices before ordering.
-
-15
-00:01:07,950 --> 00:01:10,780
-A budget that includes the ending.
-
 16
-00:01:15,500 --> 00:01:18,760
-Perhaps a dessert taller than this kitchen—
+00:00:55,571 --> 00:00:59,498
+I want to know before my tongue finds out.
 
 17
-00:01:19,010 --> 00:01:22,270
-We have not seen the menu yet.
+00:01:00,500 --> 00:01:03,911
+Eighty dollars for the meal, tax, and tip.
 
 18
-00:01:22,520 --> 00:01:24,920
-Let us start with dinner.
+00:01:04,161 --> 00:01:07,175
+We will check the prices before ordering.
 
 19
-00:01:30,500 --> 00:01:32,470
-I can check prices.
+00:01:07,425 --> 00:01:10,041
+A budget that includes the ending.
 
 20
-00:01:32,720 --> 00:01:35,980
-I want to choose my own dinner.
+00:01:10,291 --> 00:01:14,498
+That's my favorite part to know before we sit
+down.
 
 21
-00:01:36,230 --> 00:01:39,920
-Of course. Max can ask for water too.
+00:01:15,500 --> 00:01:18,607
+Perhaps a dessert taller than this kitchen—
 
 22
+00:01:18,857 --> 00:01:21,964
+We have not seen the menu yet.
+
+23
+00:01:22,214 --> 00:01:24,501
+Let us start with dinner.
+
+24
+00:01:24,751 --> 00:01:29,498
+Fair. My eyes can order all the imaginary
+dessert they like.
+
+25
+00:01:30,500 --> 00:01:32,437
+I can check prices.
+
+26
+00:01:32,687 --> 00:01:35,893
+I want to choose my own dinner.
+
+27
+00:01:36,143 --> 00:01:39,772
+Of course. Max can ask for water too.
+
+28
+00:01:40,022 --> 00:01:44,497
+I know that one already. Can I try it there?
+
+29
 00:01:45,500 --> 00:01:47,900
 I have shortened my speech.
 
-23
+30
 00:01:48,150 --> 00:01:49,950
 How short?
 
-24
+31
 00:01:50,200 --> 00:01:54,320
 Good evening. That should get us through the
 door.
 
-25
+32
+00:01:54,570 --> 00:01:58,260
+Let's see if dinner fits through with you.
+
+33
 00:02:00,500 --> 00:02:02,300
 Good evening.
 
-26
+34
 00:02:02,550 --> 00:02:04,950
 That was an excellent length.
 
-27
+35
 00:02:05,200 --> 00:02:08,460
 We all fit through the door too.
 
-28
-00:02:15,500 --> 00:02:19,190
+36
+00:02:08,710 --> 00:02:12,830
+So far, nobody's needed a dictionary to
+understand Dad.
+
+37
+00:02:15,500 --> 00:02:19,060
 Could we have a table for six, please?
 
-29
-00:02:19,440 --> 00:02:23,130
+38
+00:02:19,310 --> 00:02:22,870
 Certainly. The table by the window is ready.
 
-30
-00:02:23,380 --> 00:02:25,180
+39
+00:02:23,120 --> 00:02:24,857
 Thank you.
 
-31
+40
+00:02:25,107 --> 00:02:29,497
+The window sounds good. We'll all be able to
+see.
+
+41
 00:02:30,500 --> 00:02:34,190
 Stay beside me. This aisle is for everyone.
 
-32
+42
 00:02:34,440 --> 00:02:37,270
 I will wait for Leo's chair.
 
-33
+43
 00:02:37,520 --> 00:02:39,490
 No chair traffic jam.
 
-34
+44
+00:02:39,740 --> 00:02:44,290
+I'll tuck in here. Ella, there's room for you
+now.
+
+45
 00:02:45,500 --> 00:02:47,470
 Three on this side.
 
-35
+46
 00:02:47,720 --> 00:02:50,120
 Three on the window side.
 
-36
+47
 00:02:50,370 --> 00:02:54,490
 A table with exactly the right audience for
 dinner.
 
-37
+48
+00:02:54,740 --> 00:02:58,860
+Good. We can hear one another from both sides.
+
+49
 00:03:00,500 --> 00:03:03,760
 Here are your menus. Take your time.
 
-38
+50
 00:03:04,010 --> 00:03:05,810
 Thank you.
 
-39
+51
 00:03:06,060 --> 00:03:08,030
 We will choose together.
 
-40
-00:03:15,500 --> 00:03:19,190
+52
+00:03:08,280 --> 00:03:12,830
+I'll start with the part that actually looks
+like dinner.
+
+53
+00:03:15,500 --> 00:03:19,017
 Do I have to read the whole book?
 
-41
-00:03:19,440 --> 00:03:22,700
+54
+00:03:19,267 --> 00:03:22,374
 Only the parts that help you choose.
 
-42
-00:03:22,950 --> 00:03:25,780
+55
+00:03:22,624 --> 00:03:25,321
 The dinner section is right here.
 
-43
+56
+00:03:25,571 --> 00:03:29,498
+A book where I get to choose the ending!
+
+57
 00:03:30,500 --> 00:03:32,900
 Could we have water, please?
 
-44
+58
 00:03:33,150 --> 00:03:35,980
 Of course. Six glasses of water.
 
-45
+59
 00:03:36,230 --> 00:03:39,920
 My speech has been defeated by six words.
 
-46
+60
+00:03:40,170 --> 00:03:44,290
+Good. My mouth was dry just listening to
+yours.
+
+61
 00:03:45,500 --> 00:03:48,330
 Your water. There is no charge.
 
-47
+62
 00:03:48,580 --> 00:03:50,380
 Thank you.
 
-48
+63
 00:03:50,630 --> 00:03:53,890
 Mine has its own safe parking place.
 
-49
-00:04:00,500 --> 00:04:02,470
+64
+00:03:54,140 --> 00:03:58,260
+Leave it there, Max. There's room beside your
+menu.
+
+65
+00:04:00,500 --> 00:04:02,437
 Appetizers, main courses, desserts.
 
-50
-00:04:02,720 --> 00:04:05,980
+66
+00:04:02,687 --> 00:04:05,893
 I am ready for a main course.
 
-51
-00:04:06,230 --> 00:04:10,350
+67
+00:04:06,143 --> 00:04:10,195
 Then our dinner can begin in the middle
 section.
 
-52
+68
+00:04:10,445 --> 00:04:14,497
+Great. I don't think my stomach wants an
+introduction.
+
+69
 00:04:15,500 --> 00:04:18,760
 The vegetable pasta sounds good. Twelve
 dollars.
 
-53
+70
 00:04:19,010 --> 00:04:21,410
 With the vegetables listed here?
 
-54
+71
 00:04:21,660 --> 00:04:24,920
 Yes. That is the one I want.
 
-55
+72
+00:04:25,170 --> 00:04:29,290
+I can see why you picked that one, Maya.
+
+73
 00:04:30,500 --> 00:04:33,330
 Grilled chicken with rice for me.
 
-56
+74
 00:04:33,580 --> 00:04:36,840
 One main course, with the rice included?
 
-57
+75
 00:04:37,090 --> 00:04:39,060
 Exactly. Fourteen dollars together.
 
-58
-00:04:45,500 --> 00:04:48,330
+76
+00:04:39,310 --> 00:04:43,430
+Good. I was about to count the rice twice.
+
+77
+00:04:45,500 --> 00:04:48,116
 I would like the cheese sandwich.
 
-59
-00:04:48,580 --> 00:04:51,410
+78
+00:04:48,366 --> 00:04:50,982
 You can tell the server yourself.
 
-60
-00:04:51,660 --> 00:04:55,780
+79
+00:04:51,232 --> 00:04:55,041
 Eight dollars. I have its place in our plan.
 
-61
-00:05:00,500 --> 00:05:03,760
+80
+00:04:55,291 --> 00:04:59,498
+I'd like to do the asking for my own sandwich.
+
+81
+00:05:00,500 --> 00:05:03,706
 Does the baked potato include the vegetables?
 
-62
-00:05:04,010 --> 00:05:06,410
+82
+00:05:03,956 --> 00:05:06,316
 Yes. The filling is included.
 
-63
-00:05:06,660 --> 00:05:09,490
+83
+00:05:06,566 --> 00:05:09,349
 Then I would like that, please.
 
-64
-00:05:15,500 --> 00:05:18,760
+84
+00:05:09,599 --> 00:05:14,497
+Good question, Ella. Now you know exactly what
+comes with it.
+
+85
+00:05:15,500 --> 00:05:18,426
 There is a smaller chicken and rice.
 
-65
-00:05:19,010 --> 00:05:21,410
+86
+00:05:18,676 --> 00:05:20,830
 That can be your dinner.
 
-66
-00:05:21,660 --> 00:05:26,210
+87
+00:05:21,080 --> 00:05:25,164
 That one, please. I like a plate made for me.
 
-67
+88
+00:05:25,414 --> 00:05:29,498
+We can spot yours next to Nina's when it
+comes.
+
+89
 00:05:30,500 --> 00:05:33,760
 The tomato soup looks right for me.
 
-68
+90
 00:05:34,010 --> 00:05:37,270
 What kind of flavor would you enjoy?
 
-69
+91
 00:05:37,520 --> 00:05:39,490
 Something comforting. And hot.
 
-70
-00:05:45,500 --> 00:05:48,760
+92
+00:05:39,740 --> 00:05:43,860
+Hot like a pepper, or hot like the pan?
+
+93
+00:05:45,500 --> 00:05:48,514
 I would like the soup hot, please.
 
-71
-00:05:49,010 --> 00:05:53,130
+94
+00:05:48,764 --> 00:05:52,573
 Do you mean its temperature, or a spicy
 flavor?
 
-72
-00:05:53,380 --> 00:05:56,210
+95
+00:05:52,823 --> 00:05:55,439
 Those are different kinds of hot?
 
-73
+96
+00:05:55,689 --> 00:05:59,498
+Listen to the question, Dan. Which did you
+mean?
+
+97
 00:06:00,500 --> 00:06:02,470
 This pepper means spicy.
 
-74
+98
 00:06:02,720 --> 00:06:05,550
 I was thinking of warm soup.
 
-75
+99
 00:06:05,800 --> 00:06:09,060
 Then we should say both things clearly.
 
-76
+100
+00:06:09,310 --> 00:06:13,000
+Right. My tongue had one temperature in mind.
+
+101
 00:06:15,500 --> 00:06:18,330
 Should I rescue Dad with water?
 
-77
+102
 00:06:18,580 --> 00:06:20,550
 Nothing spicy has arrived.
 
-78
+103
 00:06:20,800 --> 00:06:24,920
 I need a better sentence, not a rescue team.
 
-79
+104
+00:06:25,170 --> 00:06:29,290
+I'll save my water for drinking with my
+dinner.
+
+105
 00:06:30,500 --> 00:06:33,760
 Mild tomato soup, please. Warm, not extra-hot.
 
-80
+106
 00:06:34,010 --> 00:06:35,980
 Certainly. No chili added.
 
-81
+107
 00:06:36,230 --> 00:06:39,490
 That tells us exactly what you want.
 
-82
-00:06:45,500 --> 00:06:49,620
+108
+00:06:39,740 --> 00:06:44,290
+Yes. That sounds like the soup I came here
+for.
+
+109
+00:06:45,500 --> 00:06:49,309
 Could we change the note before you send it?
 
-83
-00:06:49,870 --> 00:06:53,560
+110
+00:06:49,559 --> 00:06:52,970
 Of course. It now says mild and warm.
 
-84
-00:06:53,810 --> 00:06:56,210
+111
+00:06:53,220 --> 00:06:55,439
 No guessing reaches the kitchen.
 
-85
-00:07:00,500 --> 00:07:03,330
+112
+00:06:55,689 --> 00:06:59,498
+That's one note I'm glad we checked in time.
+
+113
+00:07:00,500 --> 00:07:03,040
 One meal for each of us.
 
-86
-00:07:03,580 --> 00:07:07,700
+114
+00:07:03,290 --> 00:07:06,988
 My chicken plate and Max's smaller plate are
 separate.
 
-87
-00:07:07,950 --> 00:07:11,640
+115
+00:07:07,238 --> 00:07:10,550
 And my soup is dinner, not an appetizer.
 
-88
-00:07:15,500 --> 00:07:18,330
+116
+00:07:10,800 --> 00:07:14,498
+Six mains, then. Let's see how that adds up.
+
+117
+00:07:15,500 --> 00:07:18,283
 Fifty-eight dollars for the six meals.
 
-89
-00:07:18,580 --> 00:07:20,550
+118
+00:07:18,533 --> 00:07:20,470
 Before tax and tip.
 
-90
-00:07:20,800 --> 00:07:25,350
+119
+00:07:20,720 --> 00:07:25,195
 Then the calculator has one more part of the
 story.
 
-91
-00:07:30,500 --> 00:07:33,760
+120
+00:07:25,445 --> 00:07:29,497
+Let's get that part right before the check
+comes.
+
+121
+00:07:30,500 --> 00:07:33,514
 This menu lists ten percent sales tax.
 
-92
-00:07:34,010 --> 00:07:36,410
+122
+00:07:33,764 --> 00:07:35,983
 That adds five dollars eighty.
 
-93
-00:07:36,660 --> 00:07:40,780
+123
+00:07:36,233 --> 00:07:40,042
 Sixty-three eighty before our tip. Still room
 to plan.
 
-94
+124
+00:07:40,292 --> 00:07:44,499
+Good. The tip still needs its own place in
+there.
+
+125
 00:07:45,500 --> 00:07:48,330
 Let us plan a ten-dollar tip.
 
-95
+126
 00:07:48,580 --> 00:07:50,550
 That fits our budget.
 
-96
+127
 00:07:50,800 --> 00:07:54,490
 Seventy-three eighty altogether. Six twenty
 stays with us.
 
-97
+128
+00:07:54,740 --> 00:07:59,290
+Good. We can enjoy dinner without guessing at
+the end.
+
+129
 00:08:00,500 --> 00:08:02,300
 Cheese sandwich, please.
 
-98
+130
 00:08:02,550 --> 00:08:05,380
 The baked potato with its vegetables.
 
-99
+131
 00:08:05,630 --> 00:08:08,460
 The children's chicken and rice, please.
 
-100
-00:08:15,500 --> 00:08:17,900
+132
+00:08:08,710 --> 00:08:13,260
+Good thing we each got to say our own part.
+
+133
+00:08:15,500 --> 00:08:17,860
 Vegetable pasta for me, please.
 
-101
-00:08:18,150 --> 00:08:20,550
+134
+00:08:18,110 --> 00:08:20,470
 The adult chicken and rice.
 
-102
-00:08:20,800 --> 00:08:24,920
+135
+00:08:20,720 --> 00:08:24,772
 Mild tomato soup, warm rather than extra-hot.
 Thank you.
 
-103
-00:08:30,500 --> 00:08:33,330
+136
+00:08:25,022 --> 00:08:29,497
+That's all three of us. Thanks for checking
+the soup.
+
+137
+00:08:30,500 --> 00:08:33,283
 Any ingredient restrictions I should flag?
 
-104
-00:08:33,580 --> 00:08:37,270
+138
+00:08:33,533 --> 00:08:37,162
 We checked the listed ingredients for our
 family.
 
-105
-00:08:37,520 --> 00:08:40,780
+139
+00:08:37,412 --> 00:08:40,618
 No changes to this order, thank you.
 
-106
-00:08:45,500 --> 00:08:51,340
+140
+00:08:40,868 --> 00:08:44,497
+Just the soup the way we agreed, please.
+
+141
+00:08:45,500 --> 00:08:50,195
 Six mains, with the soup mild and warm. I will
 send this now.
 
-107
-00:08:51,590 --> 00:08:55,280
+142
+00:08:50,445 --> 00:08:53,411
 Thank you. That was easier than my speech.
 
-108
-00:09:00,500 --> 00:09:04,620
+143
+00:08:53,661 --> 00:08:56,282
+Did the kitchen get the corrected note?
+
+144
+00:08:56,532 --> 00:08:59,498
+Yes. Mild and warm, just as you asked.
+
+145
+00:09:00,500 --> 00:09:04,198
 Does dinner need a quiet minute like pancake
 batter?
 
-109
-00:09:04,870 --> 00:09:07,270
+146
+00:09:04,448 --> 00:09:06,602
 It needs time to cook.
 
-110
-00:09:07,520 --> 00:09:10,780
+147
+00:09:06,852 --> 00:09:09,778
 We are getting good at that part.
 
-111
+148
+00:09:10,028 --> 00:09:14,498
+Good. I think my fork is less patient than the
+batter.
+
+149
 00:09:15,500 --> 00:09:18,330
 And now, the very patient fork.
 
-112
+150
 00:09:18,580 --> 00:09:22,270
 It has nothing to say until dinner arrives.
 
-113
+151
 00:09:22,520 --> 00:09:24,490
 A beautifully quiet introduction.
 
-114
-00:09:30,500 --> 00:09:33,760
+152
+00:09:24,740 --> 00:09:28,860
+Listen. It's doing a very good job of waiting.
+
+153
+00:09:30,500 --> 00:09:33,426
 Can mild food still be too hot?
 
-115
-00:09:34,010 --> 00:09:37,270
+154
+00:09:33,676 --> 00:09:36,602
 Yes. Mild describes flavor. Temperature is
 different.
 
-116
-00:09:37,520 --> 00:09:41,210
+155
+00:09:36,852 --> 00:09:40,164
 That was the missing half of my sentence.
 
-117
-00:09:45,500 --> 00:09:49,620
+156
+00:09:40,414 --> 00:09:44,498
+So I'll still give mine a minute if it steams.
+
+157
+00:09:45,500 --> 00:09:49,427
 I guessed a whole breakfast from one word
 once.
 
-118
-00:09:49,870 --> 00:09:51,840
+158
+00:09:49,677 --> 00:09:51,554
 Context helped then too.
 
-119
-00:09:52,090 --> 00:09:55,780
+159
+00:09:51,804 --> 00:09:55,321
 This time you asked before anything went
 wrong.
 
-120
-00:10:00,500 --> 00:10:03,330
+160
+00:09:55,571 --> 00:09:59,498
+One little question is cheaper than another
+whole dinner.
+
+161
+00:10:00,500 --> 00:10:03,116
 Are we missing the appetizer part?
 
-121
-00:10:03,580 --> 00:10:05,980
+162
+00:10:03,366 --> 00:10:05,585
 We chose dinner without one.
 
-122
-00:10:06,230 --> 00:10:10,780
+163
+00:10:05,835 --> 00:10:10,042
 The menu is a choice, not a list to finish.
 
-123
-00:10:15,500 --> 00:10:18,760
+164
+00:10:10,292 --> 00:10:14,499
+Good. My smaller plate is a whole dinner for
+me.
+
+165
+00:10:15,500 --> 00:10:18,706
 I prepared a request for more water.
 
-124
-00:10:19,010 --> 00:10:21,410
+166
+00:10:18,956 --> 00:10:21,316
 Your glass still has plenty.
 
-125
-00:10:21,660 --> 00:10:25,350
+167
+00:10:21,566 --> 00:10:25,195
 Then my request can wait beside my speech.
 
-126
-00:10:30,500 --> 00:10:33,760
+168
+00:10:25,445 --> 00:10:29,497
+Your glass appreciates a little peace and
+quiet too.
+
+169
+00:10:30,500 --> 00:10:33,706
 Let us leave room for the server.
 
-127
-00:10:34,010 --> 00:10:36,410
+170
+00:10:33,956 --> 00:10:36,316
 My hands can wait here.
 
-128
-00:10:36,660 --> 00:10:39,920
+171
+00:10:36,566 --> 00:10:39,772
 Mine too. Dinner gets a clear landing.
 
-129
+172
+00:10:40,022 --> 00:10:44,497
+I'll keep my elbows in. There's room on this
+side.
+
+173
 00:10:45,500 --> 00:10:49,190
 Vegetable pasta, and the adult chicken and
 rice.
 
-130
+174
 00:10:49,440 --> 00:10:51,840
 That is mine, thank you.
 
-131
+175
 00:10:52,090 --> 00:10:54,490
 And this one is mine.
 
-132
-00:11:00,500 --> 00:11:02,300
+176
+00:10:54,740 --> 00:10:58,860
+That chicken looks like the size Nina asked
+for.
+
+177
+00:11:00,500 --> 00:11:02,237
 My cheese sandwich.
 
-133
-00:11:02,550 --> 00:11:05,810
+178
+00:11:02,487 --> 00:11:05,633
 And the baked potato I asked about.
 
-134
-00:11:06,060 --> 00:11:10,610
+179
+00:11:05,883 --> 00:11:10,273
 Keep the hot plate on the table while it
 cools.
 
-135
-00:11:15,500 --> 00:11:19,620
+180
+00:11:10,523 --> 00:11:14,498
+The middle still looks steamy. I'll give it
+time.
+
+181
+00:11:15,500 --> 00:11:19,475
 Mild tomato soup, and the children's chicken
 and rice.
 
-136
-00:11:19,870 --> 00:11:21,670
+182
+00:11:19,725 --> 00:11:21,462
 Thank you.
 
-137
-00:11:21,920 --> 00:11:25,610
+183
+00:11:21,712 --> 00:11:25,272
 We will check the temperature before we begin.
 
-138
+184
+00:11:25,522 --> 00:11:29,497
+I see mine. The chicken's on the smaller
+plate.
+
+185
 00:11:30,500 --> 00:11:32,900
 Six orders, six correct dinners.
 
-139
+186
 00:11:33,150 --> 00:11:35,550
 Mine has the vegetables included.
 
-140
+187
 00:11:35,800 --> 00:11:39,920
 And mine has a smaller plate, just as
 promised.
 
-141
-00:11:45,500 --> 00:11:48,330
+188
+00:11:40,170 --> 00:11:44,290
+And nobody had to send a single dinner back.
+
+189
+00:11:45,500 --> 00:11:48,116
 I will check a little first.
 
-142
-00:11:48,580 --> 00:11:52,700
+190
+00:11:48,366 --> 00:11:52,175
 And we let it cool if it needs to.
 
-143
-00:11:52,950 --> 00:11:55,780
+191
+00:11:52,425 --> 00:11:55,041
 Even when the flavor is mild.
 
-144
-00:12:00,500 --> 00:12:02,900
+192
+00:11:55,291 --> 00:11:59,498
+Good point. Those are two different checks for
+my soup.
+
+193
+00:12:00,500 --> 00:12:02,860
 Is that what you wanted?
 
-145
-00:12:03,150 --> 00:12:05,550
+194
+00:12:03,110 --> 00:12:05,470
 Yes. Mild flavor, comfortably warm.
 
-146
-00:12:05,800 --> 00:12:09,920
+195
+00:12:05,720 --> 00:12:09,772
 A much better description than one very busy
 word.
 
-147
+196
+00:12:10,022 --> 00:12:14,497
+A word can have a very tiring day at dinner.
+
+197
 00:12:15,500 --> 00:12:17,900
 The middle needs another moment.
 
-148
+198
 00:12:18,150 --> 00:12:19,950
 You can wait.
 
-149
+199
 00:12:20,200 --> 00:12:24,320
 Dinner is not a race to the hottest bite.
 
-150
-00:12:30,500 --> 00:12:32,470
+200
+00:12:24,570 --> 00:12:29,120
+Then the center of my potato can take its
+time.
+
+201
+00:12:30,500 --> 00:12:32,437
 How is your dinner?
 
-151
-00:12:32,720 --> 00:12:36,840
+202
+00:12:32,687 --> 00:12:36,739
 Good. My napkin has more work than your
 speech.
 
-152
-00:12:37,090 --> 00:12:40,350
+203
+00:12:36,989 --> 00:12:40,195
 It came prepared for the right job.
 
-153
-00:12:45,500 --> 00:12:48,330
+204
+00:12:40,445 --> 00:12:44,497
+I bet my napkin never rehearsed a single word.
+
+205
+00:12:45,500 --> 00:12:48,283
 I liked saying my own order.
 
-154
-00:12:48,580 --> 00:12:50,980
+206
+00:12:48,533 --> 00:12:50,893
 You knew what you wanted.
 
-155
-00:12:51,230 --> 00:12:54,920
+207
+00:12:51,143 --> 00:12:54,772
 And I liked asking what came with mine.
 
-156
-00:13:00,500 --> 00:13:04,190
+208
+00:12:55,022 --> 00:12:59,497
+It's nice when the person taking the order
+hears you.
+
+209
+00:13:00,500 --> 00:13:04,017
 The server saved my dinner with one question.
 
-157
-00:13:04,440 --> 00:13:07,270
+210
+00:13:04,267 --> 00:13:06,964
 They gave you room to explain.
 
-158
-00:13:07,520 --> 00:13:10,780
+211
+00:13:07,214 --> 00:13:10,321
 And you used it. That worked well.
 
-159
+212
+00:13:10,571 --> 00:13:14,498
+I'd have got something very different without
+that question.
+
+213
 00:13:15,500 --> 00:13:18,760
 Will we ever hear your big speech?
 
-160
+214
 00:13:19,010 --> 00:13:23,130
 It is enjoying a quiet dinner in my pocket.
 
-161
+215
 00:13:23,380 --> 00:13:25,350
 A very well-behaved speech.
 
-162
+216
+00:13:25,600 --> 00:13:29,290
+Good. It can listen while we finish ours.
+
+217
 00:13:30,500 --> 00:13:33,760
 The library is open tomorrow, isn't it?
 
-163
+218
 00:13:34,010 --> 00:13:36,840
 We can check the hours later.
 
-164
+219
 00:13:37,090 --> 00:13:39,920
 Tonight we can finish dinner together.
 
-165
+220
+00:13:40,170 --> 00:13:44,290
+Deal. The books will still be there after
+dinner.
+
+221
 00:13:45,500 --> 00:13:47,900
 No rescue needed after all.
 
-166
+222
 00:13:48,150 --> 00:13:50,550
 Just a drink with dinner.
 
-167
+223
 00:13:50,800 --> 00:13:54,490
 And a safe place to put it back.
 
-168
-00:14:00,500 --> 00:14:03,330
+224
+00:13:54,740 --> 00:13:59,290
+Right beside my plate, where my elbow can miss
+it.
+
+225
+00:14:00,500 --> 00:14:03,040
 We can take a comfortable pause.
 
-169
-00:14:03,580 --> 00:14:07,700
+226
+00:14:03,290 --> 00:14:06,988
 I would like to save the rest of mine.
 
-170
-00:14:07,950 --> 00:14:11,640
+227
+00:14:07,238 --> 00:14:10,550
 Then we can ask for a takeout box.
 
-171
-00:14:15,500 --> 00:14:18,760
+228
+00:14:10,800 --> 00:14:14,498
+Saving a little sounds better than eating past
+full.
+
+229
+00:14:15,500 --> 00:14:18,646
 Could we have one takeout box, please?
 
-172
-00:14:19,010 --> 00:14:20,810
+230
+00:14:18,896 --> 00:14:20,633
 Certainly.
 
-173
-00:14:21,060 --> 00:14:25,610
+231
+00:14:20,883 --> 00:14:25,273
 For the rest of Max's dinner, not a second
 dinner.
 
-174
+232
+00:14:25,523 --> 00:14:29,498
+Good. I'd like my own dinner again another
+day.
+
+233
 00:14:30,500 --> 00:14:32,300
 Here you are.
 
-175
+234
 00:14:32,550 --> 00:14:34,350
 Thank you.
 
-176
+235
 00:14:34,600 --> 00:14:38,720
 An empty box waiting for food we already have.
 
-177
-00:14:45,500 --> 00:14:48,330
+236
+00:14:38,970 --> 00:14:43,520
+I'll hold it right beside your plate while we
+pack.
+
+237
+00:14:45,500 --> 00:14:48,283
 Your remaining dinner goes in once.
 
-178
-00:14:48,580 --> 00:14:51,410
+238
+00:14:48,533 --> 00:14:51,316
 So my plate is empty now.
 
-179
-00:14:51,660 --> 00:14:55,350
+239
+00:14:51,566 --> 00:14:55,195
 And the box has the part you saved.
 
-180
-00:15:00,500 --> 00:15:04,620
+240
+00:14:55,445 --> 00:14:59,497
+Exactly. You'll be able to recognize your own
+supper.
+
+241
+00:15:00,500 --> 00:15:04,475
 We will go straight home and refrigerate this
 promptly.
 
-181
-00:15:04,870 --> 00:15:06,670
+242
+00:15:04,725 --> 00:15:06,462
 No extra stops.
 
-182
-00:15:06,920 --> 00:15:10,180
+243
+00:15:06,712 --> 00:15:09,858
 My dinner has a sensible travel plan.
 
-183
+244
+00:15:10,108 --> 00:15:14,498
+And it'll have somebody beside it all the way
+home.
+
+245
 00:15:15,500 --> 00:15:17,300
 I am finished.
 
-184
+246
 00:15:17,550 --> 00:15:19,350
 Me too.
 
-185
+247
 00:15:19,600 --> 00:15:24,580
 Then we can ask for the check when everyone is
 ready.
 
-186
-00:15:30,500 --> 00:15:34,190
+248
+00:15:24,830 --> 00:15:28,950
+I'm ready. My fork can take the evening off.
+
+249
+00:15:30,500 --> 00:15:34,129
 My imaginary tall dessert can stay imaginary
 tonight.
 
-187
-00:15:34,440 --> 00:15:36,410
+250
+00:15:34,379 --> 00:15:36,316
 I am satisfied too.
 
-188
-00:15:36,660 --> 00:15:40,350
+251
+00:15:36,566 --> 00:15:40,195
 Then our order is complete as it is.
 
-189
+252
+00:15:40,445 --> 00:15:44,497
+My imaginary dessert didn't cost the budget a
+cent.
+
+253
 00:15:45,500 --> 00:15:48,330
 Could we have the check, please?
 
-190
+254
 00:15:48,580 --> 00:15:51,840
 Of course. I will bring it over.
 
-191
+255
 00:15:52,090 --> 00:15:53,890
 Thank you.
 
-192
+256
+00:15:54,140 --> 00:15:58,260
+Let's look it over together when it gets here.
+
+257
 00:16:00,500 --> 00:16:03,330
 This box is coming with us.
 
-193
+258
 00:16:03,580 --> 00:16:06,840
 Of course. I will leave it here.
 
-194
+259
 00:16:07,090 --> 00:16:09,490
 It has its own traveler.
 
-195
+260
+00:16:09,740 --> 00:16:13,860
+Yes, the little chicken dinner is traveling
+with me.
+
+261
 00:16:15,500 --> 00:16:17,470
 Here is your check.
 
-196
+262
 00:16:17,720 --> 00:16:19,520
 Thank you.
 
-197
+263
 00:16:19,770 --> 00:16:22,600
 May I help check the numbers?
 
-198
-00:16:30,500 --> 00:16:34,190
+264
+00:16:22,850 --> 00:16:26,970
+Please do. Start by counting the dinners we
+ordered.
+
+265
+00:16:30,500 --> 00:16:34,017
 Six meals. No extra soup, starter, or dessert.
 
-199
-00:16:34,440 --> 00:16:36,410
+266
+00:16:34,267 --> 00:16:36,144
 And water is free.
 
-200
-00:16:36,660 --> 00:16:40,780
+267
+00:16:36,394 --> 00:16:40,321
 The order on paper matches the dinner we had.
 
-201
+268
+00:16:40,571 --> 00:16:44,498
+Good. Now let's check what happens after the
+subtotal.
+
+269
 00:16:45,500 --> 00:16:47,470
 Fifty-eight plus five eighty.
 
-202
+270
 00:16:47,720 --> 00:16:49,520
 Sixty-three eighty.
 
-203
+271
 00:16:49,770 --> 00:16:54,320
 Our planned tip is separate. Good to check
 before paying.
 
-204
-00:17:00,500 --> 00:17:04,190
+272
+00:16:54,570 --> 00:16:58,260
+Right. We can still see both amounts
+separately.
+
+273
+00:17:00,500 --> 00:17:03,952
 Shall we keep the ten-dollar tip we planned?
 
-205
-00:17:04,440 --> 00:17:06,240
+274
+00:17:04,202 --> 00:17:05,886
 Yes.
 
-206
-00:17:06,490 --> 00:17:10,180
+275
+00:17:06,136 --> 00:17:09,588
 Seventy-three eighty altogether. Still inside
 our eighty-dollar plan.
 
-207
+276
+00:17:09,838 --> 00:17:14,497
+Good. I want to thank them for asking about
+the soup.
+
+277
 00:17:15,500 --> 00:17:17,900
 Does your speech pay too?
 
-208
+278
 00:17:18,150 --> 00:17:21,410
 No. Just the money in this wallet.
 
-209
+279
 00:17:21,660 --> 00:17:24,490
 Then the speech can keep resting.
 
-210
-00:17:30,500 --> 00:17:34,190
+280
+00:17:24,740 --> 00:17:28,860
+It hasn't earned a tip for all that talking.
+
+281
+00:17:30,500 --> 00:17:34,017
 Do I pay here or at the counter?
 
-211
-00:17:34,440 --> 00:17:36,840
+282
+00:17:34,267 --> 00:17:36,554
 At the service counter, please.
 
-212
-00:17:37,090 --> 00:17:40,350
+283
+00:17:36,804 --> 00:17:39,911
 We will wait here with the children.
 
-213
+284
+00:17:40,161 --> 00:17:44,498
+I'll take the check over. You keep the box
+here.
+
+285
 00:17:45,500 --> 00:17:47,900
 I will be right back.
 
-214
+286
 00:17:48,150 --> 00:17:50,120
 We will be here.
 
-215
+287
 00:17:50,370 --> 00:17:54,060
 And our takeout traveler is staying with me.
 
-216
+288
+00:17:54,310 --> 00:17:58,430
+Good. We'll have everything together when you
+come back.
+
+289
 00:18:00,500 --> 00:18:02,300
 Eighty dollars, please.
 
-217
+290
 00:18:02,550 --> 00:18:07,100
 Thank you. Your change is sixteen dollars and
 twenty cents.
 
-218
+291
+00:18:07,350 --> 00:18:10,610
+So that's the change before my tip?
+
+292
+00:18:10,860 --> 00:18:14,120
+Yes. The check itself was sixty-three eighty.
+
+293
 00:18:15,500 --> 00:18:18,760
 Sixteen twenty in change, before the tip.
 
-219
+294
 00:18:19,010 --> 00:18:20,810
 That's right.
 
-220
+295
 00:18:21,060 --> 00:18:22,860
 Thank you.
 
-221
-00:18:30,500 --> 00:18:35,910
+296
+00:18:23,110 --> 00:18:28,090
+You can count it here before you put the rest
+away.
+
+297
+00:18:30,500 --> 00:18:35,089
 This ten dollars is a tip. Thank you for
 checking my order.
 
-222
-00:18:36,160 --> 00:18:38,990
+298
+00:18:35,339 --> 00:18:37,739
 Thank you. Have a lovely evening.
 
-223
+299
+00:18:37,989 --> 00:18:40,754
+It made a difference to my dinner.
+
+300
+00:18:41,004 --> 00:18:44,498
+I'm glad the soup came the way you wanted.
+
+301
 00:18:45,500 --> 00:18:49,190
 Receipt, remaining change, and a much smaller
 speech.
 
-224
+302
 00:18:49,440 --> 00:18:52,270
 All set. Thank you for coming.
 
-225
+303
+00:18:52,520 --> 00:18:55,780
+Six twenty left after the tip, then?
+
+304
+00:18:56,030 --> 00:18:59,290
+Exactly. That's your receipt to take home.
+
+305
 00:19:00,500 --> 00:19:02,300
 Everyone ready?
 
-226
+306
 00:19:02,550 --> 00:19:04,950
 One box, all our people.
 
-227
+307
 00:19:05,200 --> 00:19:08,460
 And no speech left on the table.
 
-228
-00:19:15,500 --> 00:19:17,900
+308
+00:19:08,710 --> 00:19:13,260
+Good. The little chicken dinner is coming home
+with us.
+
+309
+00:19:15,500 --> 00:19:17,787
 What stayed in the budget?
 
-229
-00:19:18,150 --> 00:19:20,980
+310
+00:19:18,037 --> 00:19:20,734
 Six twenty after the ten-dollar tip.
 
-230
-00:19:21,230 --> 00:19:25,350
+311
+00:19:20,984 --> 00:19:24,911
 Seventy-three eighty spent. The numbers reach
 the same ending.
 
-231
-00:19:30,500 --> 00:19:33,760
+312
+00:19:25,161 --> 00:19:29,498
+Good thing we counted from the eighty we
+actually brought.
+
+313
+00:19:30,500 --> 00:19:33,706
 What will your next big speech be?
 
-232
-00:19:34,010 --> 00:19:36,840
+314
+00:19:33,956 --> 00:19:36,739
 Could I have some water, please?
 
-233
-00:19:37,090 --> 00:19:40,350
+315
+00:19:36,989 --> 00:19:40,195
 Perfect. Now straight home with our box.
 
-234
-00:19:45,500 --> 00:19:49,190
+316
+00:19:40,445 --> 00:19:44,497
+Good. At least the box doesn't need a menu.
+
+317
+00:19:45,500 --> 00:19:49,060
 A warm dinner and a very clear evening.
 
-235
-00:19:49,440 --> 00:19:51,240
+318
+00:19:49,310 --> 00:19:51,047
 Good questions helped.
 
-236
-00:19:51,490 --> 00:19:54,750
+319
+00:19:51,297 --> 00:19:54,443
 And nobody had to eat a speech.
+
+320
+00:19:54,693 --> 00:19:59,498
+I liked that we each got to choose our own
+dinner.
