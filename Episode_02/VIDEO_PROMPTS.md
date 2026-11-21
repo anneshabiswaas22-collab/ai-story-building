@@ -22,6 +22,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **MAYA:** One list, two colors. Just as promised.  
 **DAN:** Excellent. Yesterday my shopping needed a referee.  
 **NINA:** Today we are all coming with you.  
+**MAYA:** Good. I want to hear how you explain those colors, Dan.  
 
 ## SHOT_002 | 00:00:15–00:00:30 | A picnic close to home
 
@@ -37,6 +38,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **ELLA:** Can we have our picnic under our tree?  
 **MAYA:** Yes. We can make fruit salad first.  
 **MAX:** Then our lunch will have a very short journey.  
+**ELLA:** The shade under that tree is just the right size.  
 
 ## SHOT_003 | 00:00:30–00:00:45 | A real limit
 
@@ -52,6 +54,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **LEO:** Sixteen dollars for fruit. That is our limit.  
 **DAN:** But I have twenty.  
 **NINA:** Four dollars already have another job. Let us keep them.  
+**DAN:** Four stays out. Sixteen is what we can spend.  
 
 ## SHOT_004 | 00:00:45–00:01:00 | What we already own
 
@@ -67,6 +70,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **ELLA:** Plates, forks, napkins, water. We have these already.  
 **MAX:** Is the blanket on the list?  
 **NINA:** Yes. Lunch needs somewhere comfortable to sit.  
+**ELLA:** My knees vote for a blanket between them and the grass.  
 
 ## SHOT_005 | 00:01:00–00:01:15 | The size champion
 
@@ -82,6 +86,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **DAN:** I will choose the biggest fruit in the shop.  
 **MAYA:** Choose fruit we will enjoy.  
 **LEO:** And fruit we can actually carry.  
+**DAN:** You're taking all the fun out of showing off.  
 
 ## SHOT_006 | 00:01:15–00:01:30 | The basket has an opinion
 
@@ -97,6 +102,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **MAX:** What if the biggest fruit is bigger than our basket?  
 **DAN:** Then the basket will need confidence.  
 **MAX:** I think it needs a bigger door.  
+**DAN:** Let's look at the basket before we choose a winner.  
 
 ## SHOT_007 | 00:01:30–00:01:45 | Everyone has a job
 
@@ -112,6 +118,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **MAYA:** Ella and I will check the fruit.  
 **NINA:** Max and I can compare tastes.  
 **LEO:** I will watch the prices. Dad can listen.  
+**DAN:** Listening. That's a shopping job I haven't tried.  
 
 ## SHOT_008 | 00:01:45–00:02:00 | Out together
 
@@ -127,6 +134,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **DAN:** Six family members. One list. One modest basket.  
 **MAX:** And one very confident fruit expert.  
 **DAN:** I appreciate the promotion.  
+**LEO:** It's a trial position. Let's see what you choose.  
 
 ## SHOT_009 | 00:02:00–00:02:15 | The fruit shop
 
@@ -142,6 +150,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **ELLA:** Apples, peaches, strawberries. It smells wonderful.  
 **DAN:** And there is the champion!  
 **MAYA:** Let us meet the fruit before we award prizes.  
+**NINA:** Are we handing out medals before we've seen the prices?  
 
 ## SHOT_010 | 00:02:15–00:02:30 | A champion in a cradle
 
@@ -157,6 +166,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **DAN:** That watermelon could feed a whole picnic.  
 **LEO:** It costs eight dollars.  
 **MAX:** It could also be the picnic table.  
+**DAN:** Half our money on one fruit? That's quite a table.  
 
 ## SHOT_011 | 00:02:30–00:02:45 | No room at the rim
 
@@ -172,6 +182,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **MAYA:** It will not fit.  
 **DAN:** Perhaps diagonally?  
 **MAX:** Dad, it is already round in every direction.  
+**DAN:** It does seem to be winning against the basket.  
 
 ## SHOT_012 | 00:02:45–00:03:00 | The little yellow orange
 
@@ -187,6 +198,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **DAN:** A tiny yellow orange. Finally, something basket-sized.  
 **ELLA:** It has pointy ends.  
 **NINA:** Let us check what it is before we choose.  
+**ELLA:** A real orange doesn't usually have that little nose.  
 
 ## SHOT_013 | 00:03:00–00:03:15 | More than one clue
 
@@ -202,6 +214,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **ELLA:** The oranges are rounder. This one looks different.  
 **MAYA:** The label says lemon.  
 **DAN:** Then my orange is using a different name.  
+**MAYA:** That name might explain why it smells so different.  
 
 ## SHOT_014 | 00:03:15–00:03:30 | An invitation to compare
 
@@ -217,6 +230,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **NINA:** We can compare a lemon sample with an orange sample.  
 **MAX:** A tiny taste?  
 **NINA:** If you want one. First, clean hands.  
+**MAX:** Okay. I want to see Dad's face first, though.  
 
 ## SHOT_015 | 00:03:30–00:03:45 | A little hesitation
 
@@ -232,6 +246,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **DAN:** I was rather sure about my tiny orange.  
 **LEO:** You can change your mind.  
 **MAYA:** We came to choose together, remember?  
+**DAN:** Right. You can all help me pick a better name.  
 
 ## SHOT_016 | 00:03:45–00:04:00 | Putting a guess down
 
@@ -246,6 +261,8 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Dialogue:**
 **DAN:** Back you go. I should have asked your name.  
 **ELLA:** The card has lemons and oranges. We can choose both for different reasons.  
+**DAN:** So which one should taste sweeter?  
+**ELLA:** Let's find out before you guess again.  
 
 ## SHOT_017 | 00:04:00–00:04:15 | A proper washing pause
 
@@ -261,6 +278,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **MAX:** Do lemons need us to wash our hands?  
 **NINA:** The food does. We will all take a turn.  
 **DAN:** Even the fruit expert.  
+**ELLA:** Even experts touch baskets and door handles.  
 
 ## SHOT_018 | 00:04:15–00:04:30 | Two separate sample plates
 
@@ -276,6 +294,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **NINA:** These are fresh lemon samples. A small taste is enough.  
 **MAX:** You first, Dad.  
 **DAN:** A fair request from my assistant.  
+**MAX:** I'm watching your eyebrows. They always give you away.  
 
 ## SHOT_019 | 00:04:30–00:04:45 | The sour surprise
 
@@ -291,6 +310,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **DAN:** Oh! That is definitely not a tiny orange.  
 **MAX:** Your face folded up!  
 **DAN:** It discovered a very powerful lemon.  
+**NINA:** Those eyebrows just told us exactly how strong it is.  
 
 ## SHOT_020 | 00:04:45–00:05:00 | Is sour the same as bad?
 
@@ -306,6 +326,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **MAX:** If it is sour, is it spoiled?  
 **NINA:** No. Fresh lemons are naturally sour.  
 **DAN:** My surprise was bigger than the sample.  
+**NINA:** Your nose certainly had something to say about it.  
 
 ## SHOT_021 | 00:05:00–00:05:15 | A reassuring difference
 
@@ -321,6 +342,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **NINA:** Sour describes this lemon’s taste. Spoiled food is different.  
 **MAYA:** We never taste food to check whether it is spoiled.  
 **MAX:** I will skip mine today.  
+**NINA:** That's fine, Max. You can smell the orange instead.  
 
 ## SHOT_022 | 00:05:15–00:05:30 | An orange on its own terms
 
@@ -336,6 +358,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **DAN:** This orange is sweet and juicy.  
 **MAYA:** And the lemon was sour. Both were fresh.  
 **MAX:** So their names were not the only difference.  
+**DAN:** My eyebrows prefer this one. Did you see them relax?  
 
 ## SHOT_023 | 00:05:30–00:05:45 | A choice without a dare
 
@@ -351,6 +374,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **MAX:** Sweet. And a little tangy.  
 **ELLA:** That is a useful description.  
 **MAX:** Better than saying it tastes like a yellow circle.  
+**NINA:** I'd know exactly which sample you meant from that.  
 
 ## SHOT_024 | 00:05:45–00:06:00 | The expert changes the rule
 
@@ -366,6 +390,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **DAN:** New rule. We choose by what we need, not what looks impressive.  
 **MAYA:** That sounds promising.  
 **LEO:** Let us start with two apples.  
+**ELLA:** I'll help you find a pair that looks good.  
 
 ## SHOT_025 | 00:06:00–00:06:15 | An apple is not a trophy
 
@@ -381,6 +406,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **ELLA:** These apples are firm, with no damaged spots.  
 **DAN:** Even though they are not the biggest?  
 **MAYA:** They are exactly the size we need.  
+**DAN:** Then those two get the first seats in the basket.  
 
 ## SHOT_026 | 00:06:15–00:06:30 | Two apples, two dollars
 
@@ -396,6 +422,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **LEO:** Two apples, one dollar each. Two dollars so far.  
 **DAN:** A small start.  
 **MAYA:** A good start. There is a difference.  
+**LEO:** And fourteen dollars still gives us choices, Dad.  
 
 ## SHOT_027 | 00:06:30–00:06:45 | A bunch is one purchase
 
@@ -411,6 +438,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **MAX:** One, two, three, four. Four bananas in one bunch.  
 **DAN:** A very well-organized family.  
 **NINA:** And ripe enough for our salad today.  
+**MAX:** Did they have to hold hands all the way here?  
 
 ## SHOT_028 | 00:06:45–00:07:00 | No banana passengers
 
@@ -426,6 +454,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **LEO:** The whole bunch is two dollars. Four dollars altogether.  
 **DAN:** No extra passengers.  
 **NINA:** Good. We have more fruit to invite.  
+**DAN:** Who gets the next invitation? Something round, I hope.  
 
 ## SHOT_029 | 00:07:00–00:07:15 | Oranges with their own name
 
@@ -441,6 +470,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **DAN:** Two oranges. I checked the name this time.  
 **ELLA:** Seventy-five cents each.  
 **LEO:** One fifty for both. Our total is five fifty.  
+**DAN:** Two oranges, one price each. I'm following the total.  
 
 ## SHOT_030 | 00:07:15–00:07:30 | A reason for a lemon
 
@@ -456,6 +486,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **DAN:** Why buy a lemon after that surprise?  
 **NINA:** A little juice can brighten the sweet fruit.  
 **MAX:** A little sounds better than a mouthful.  
+**NINA:** Just enough for the juice to reach all the fruit.  
 
 ## SHOT_031 | 00:07:30–00:07:45 | Two different citrus fruits
 
@@ -471,6 +502,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **DAN:** One lemon. One lime. Different names, different jobs.  
 **LEO:** Fifty cents each. Six fifty now.  
 **NINA:** And this time we know what we are choosing.  
+**DAN:** Good. My mouth remembers which one it met first.  
 
 ## SHOT_032 | 00:07:45–00:08:00 | A pound is a weight
 
@@ -486,6 +518,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **DAN:** How many grapes make a pound?  
 **LEO:** It depends on their size. The scale measures the weight.  
 **MAYA:** One pound is enough for us.  
+**DAN:** I'm glad you said weight. I'd be here counting all day.  
 
 ## SHOT_033 | 00:08:00–00:08:15 | Weight, then price
 
@@ -501,6 +534,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **LEO:** One pound at three dollars a pound. Nine fifty altogether.  
 **DAN:** The scale is a useful shopping partner.  
 **MAYA:** It gives very precise advice.  
+**LEO:** And it doesn't care how impressive a grape looks.  
 
 ## SHOT_034 | 00:08:15–00:08:30 | Strawberries under a lid
 
@@ -516,6 +550,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **ELLA:** These strawberries look good, and the lid protects them.  
 **MAYA:** One pound, three dollars.  
 **LEO:** Twelve fifty now. We still have room in the budget.  
+**ELLA:** Can we keep the lid clear when we pack?  
 
 ## SHOT_035 | 00:08:30–00:08:45 | A safe place for soft fruit
 
@@ -531,6 +566,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **DAN:** The biggest fruit should go on top.  
 **NINA:** The soft fruit should stay protected.  
 **DAN:** Right. My old rule nearly squashed our new plan.  
+**ELLA:** The berries would like to thank you for changing it.  
 
 ## SHOT_036 | 00:08:45–00:09:00 | Ready today
 
@@ -546,6 +582,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **DAN:** Should we take the firmest peaches?  
 **MAYA:** These are ripe for today. Gentle hands.  
 **ELLA:** They smell lovely. Let us choose these two.  
+**DAN:** I can hold the basket steady while you choose.  
 
 ## SHOT_037 | 00:09:00–00:09:15 | Peaches need protection
 
@@ -561,6 +598,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **LEO:** Two peaches at seventy-five cents. Fourteen dollars.  
 **ELLA:** They get the gentle seats.  
 **MAYA:** Good thinking. Soft fruit travels better with a little care.  
+**ELLA:** I'll leave their spot clear while you finish counting.  
 
 ## SHOT_038 | 00:09:15–00:09:30 | The pear comparison
 
@@ -576,6 +614,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **MAX:** These two fit our hands.  
 **DAN:** And the biggest one?  
 **NINA:** We need two ripe pears, not a pear contest. These two are a good team.  
+**MAX:** My hands vote for the little team, too.  
 
 ## SHOT_039 | 00:09:30–00:09:45 | The last fruit line
 
@@ -591,6 +630,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **LEO:** Two pears, one fifty. Fifteen fifty altogether.  
 **DAN:** Under sixteen?  
 **NINA:** Yes. And every fruit has a reason to be here.  
+**DAN:** Just under. That's close enough to check it twice.  
 
 ## SHOT_040 | 00:09:45–00:10:00 | Enough is a useful amount
 
@@ -606,6 +646,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **MAYA:** We have everything for the salad, and it fits.  
 **MAX:** The basket did not even need confidence.  
 **NINA:** Just a sensible plan.  
+**LEO:** The melon can stay on its very own shelf.  
 
 ## SHOT_041 | 00:10:00–00:10:15 | Reading the total
 
@@ -620,6 +661,8 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Dialogue:**
 **LEO:** Two, two, one fifty, fifty cents, fifty cents, three, three, one fifty, one fifty.  
 **DAN:** Fifteen fifty. That is our actual total.  
+**ELLA:** Under our limit, then?  
+**LEO:** By fifty cents.  
 
 ## SHOT_042 | 00:10:15–00:10:30 | A little breathing room
 
@@ -635,6 +678,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **DAN:** So we have fifty cents left to spend.  
 **LEO:** Yes. Not four fifty. That will be the change from twenty.  
 **NINA:** Different starting amounts.  
+**DAN:** Ah, the change starts with the bill in my hand.  
 
 ## SHOT_043 | 00:10:30–00:10:45 | The champion asks too much
 
@@ -650,6 +694,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **DAN:** What if we added the watermelon?  
 **LEO:** Twenty-three fifty. Seven fifty over our limit.  
 **MAX:** And one whole basket over our basket.  
+**DAN:** I don't think my elbows can afford that either.  
 
 ## SHOT_044 | 00:10:45–00:11:00 | Leaving it for another picnic
 
@@ -665,6 +710,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **DAN:** No watermelon today. Bigger would leave us with less of everything else.  
 **MAYA:** That is a thoughtful choice.  
 **DAN:** I am trying a new specialty.  
+**LEO:** Choosing on purpose? You might get good at that.  
 
 ## SHOT_045 | 00:11:00–00:11:15 | One remaining worry
 
@@ -680,6 +726,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **MAX:** Will the whole salad make that face happen?  
 **DAN:** I was wondering that too.  
 **NINA:** We will use just a little juice.  
+**MAX:** I'll watch the spoon. My cheeks are counting on you.  
 
 ## SHOT_046 | 00:11:15–00:11:30 | A small job for a strong flavor
 
@@ -695,6 +742,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **NINA:** Half a lemon and half a lime for the whole bowl.  
 **MAX:** Not a bowl full of lemons?  
 **DAN:** I will help keep track.  
+**NINA:** Just wait until you smell the orange in there, too.  
 
 ## SHOT_047 | 00:11:30–00:11:45 | Sharing the important jobs
 
@@ -710,6 +758,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **MAYA:** I will cut the apples, pears and peaches.  
 **NINA:** I will prepare the grapes and dressing.  
 **ELLA:** We can set out the picnic things.  
+**DAN:** Sounds like the picnic crew is already on duty.  
 
 ## SHOT_048 | 00:11:45–00:12:00 | A plan worth carrying
 
@@ -725,6 +774,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **DAN:** We have fruit for everyone, and a plan for every fruit.  
 **LEO:** That sounds more useful than a champion.  
 **MAX:** And easier to carry.  
+**ELLA:** Easier to share, too. Everybody helped pick something.  
 
 ## SHOT_049 | 00:12:00–00:12:15 | The real checkout
 
@@ -740,6 +790,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **LEO:** Fifteen fifty. It matches our card.  
 **DAN:** Good. We checked before guessing.  
 **MAYA:** And before paying.  
+**DAN:** That makes me feel better about handing over twenty.  
 
 ## SHOT_050 | 00:12:15–00:12:30 | One twenty-dollar bill
 
@@ -755,6 +806,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **DAN:** Here you go. Twenty dollars.  
 **LEO:** We should get four dollars and fifty cents back.  
 **DAN:** I will check that too.  
+**LEO:** Four fifty back. I'll watch while you count it.  
 
 ## SHOT_051 | 00:12:30–00:12:45 | Four dollars and two quarters
 
@@ -770,6 +822,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **DAN:** Four dollars, and two quarters. Four fifty.  
 **MAX:** That is more than our fifty cents.  
 **NINA:** Yes. Let us check why.  
+**DAN:** Let's start with the bill I actually handed over.  
 
 ## SHOT_052 | 00:12:45–00:13:00 | Two different remainders
 
@@ -785,6 +838,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **LEO:** Twenty paid gives four fifty back. Sixteen budgeted leaves fifty cents.  
 **MAX:** So four dollars were never picnic money.  
 **DAN:** Exactly. Every dollar keeps its job.  
+**MAX:** Even the ones that never wanted to go shopping.  
 
 ## SHOT_053 | 00:13:00–00:13:15 | Gentle seats for the journey
 
@@ -800,6 +854,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **NINA:** The soft fruit can travel in the cooler.  
 **ELLA:** Nothing gets squashed.  
 **DAN:** A much better journey than riding under a watermelon.  
+**ELLA:** I can give the soft ones a little elbow room.  
 
 ## SHOT_054 | 00:13:15–00:13:30 | Everything accounted for
 
@@ -815,6 +870,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **LEO:** Fruit, receipt, change. All checked.  
 **MAX:** And the blanket.  
 **DAN:** I would hate to tell lunch it had to stand up.  
+**MAX:** And lunch has six people who would like to sit.  
 
 ## SHOT_055 | 00:13:30–00:13:45 | A smaller victory
 
@@ -830,6 +886,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **MAYA:** Happy with our choices?  
 **DAN:** Very. We bought a picnic, not a size record.  
 **MAX:** And we left the giant table behind.  
+**LEO:** That giant table still had an eight-dollar price tag.  
 
 ## SHOT_056 | 00:13:45–00:14:00 | Home, with the right fruit
 
@@ -845,6 +902,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **DAN:** All fruit delivered. No champion required.  
 **MAYA:** Now we prepare it.  
 **MAX:** Can we make the lemon less surprising?  
+**NINA:** Wait until it's mixed in. Then tell me what you taste.  
 
 ## SHOT_057 | 00:14:00–00:14:15 | Clean hands again
 
@@ -860,6 +918,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **MAYA:** Hands first, after our trip.  
 **ELLA:** Then the fruit?  
 **NINA:** Yes. Clean hands, clean fruit, clean plates. We all have a job.  
+**LEO:** Good. I'll keep the plates clear while we're washing.  
 
 ## SHOT_058 | 00:14:15–00:14:30 | Rinse before preparing
 
@@ -875,6 +934,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **ELLA:** Even the lemon peel gets washed?  
 **NINA:** Yes, before we cut it.  
 **MAYA:** Rinse, drain, then prepare. We have time.  
+**ELLA:** I can wait. I like the way that peel smells.  
 
 ## SHOT_059 | 00:14:30–00:14:45 | Adults take the cutting jobs
 
@@ -890,6 +950,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **LEO:** We can put out the plates while you cut.  
 **MAYA:** Thank you. I will handle the knife.  
 **DAN:** And I will escort these pits away.  
+**MAYA:** Thank you. A clear counter gives me room to work.  
 
 ## SHOT_060 | 00:14:45–00:15:00 | Grapes take the long cut
 
@@ -905,6 +966,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **MAX:** Four little pieces from one grape?  
 **NINA:** Yes, cut lengthwise. Small pieces for our salad.  
 **DAN:** These grapes are traveling in a group too.  
+**MAX:** Little boats. I can see all four of them.  
 
 ## SHOT_061 | 00:15:00–00:15:15 | Strawberries join the colors
 
@@ -920,6 +982,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **ELLA:** The red strawberries make it look like a picnic already.  
 **MAYA:** And every color came from our own choices.  
 **NINA:** One bowl, plenty to share.  
+**MAYA:** We can spot the red ones from across the island.  
 
 ## SHOT_062 | 00:15:15–00:15:30 | Two oranges, no surprises
 
@@ -935,6 +998,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **DAN:** Two oranges. Round, sweet, and correctly introduced.  
 **MAX:** No folded-up face this time.  
 **MAYA:** Please save the face until after the peeling.  
+**DAN:** My face will wait. My hands are busy anyway.  
 
 ## SHOT_063 | 00:15:30–00:15:45 | The bunch becomes four
 
@@ -950,6 +1014,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **LEO:** Four bananas. One empty bunch.  
 **DAN:** Their family meeting moved into the bowl.  
 **NINA:** Now for a little lemon and lime juice.  
+**DAN:** Remember my lemon face? Let's give it a smaller job.  
 
 ## SHOT_064 | 00:15:45–00:16:00 | Half of each
 
@@ -965,6 +1030,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **DAN:** Half a lemon. Half a lime. I am checking.  
 **MAX:** The little job for the strong flavor.  
 **NINA:** Exactly. No guessing this time.  
+**MAX:** Good. My tongue would like a little warning today.  
 
 ## SHOT_065 | 00:16:00–00:16:15 | Saving the other halves
 
@@ -980,6 +1046,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **ELLA:** We are saving those?  
 **MAYA:** Yes. Wrapped, covered and in the fridge.  
 **NINA:** A little today, a little another day.  
+**ELLA:** I like that we didn't need a whole one.  
 
 ## SHOT_066 | 00:16:15–00:16:30 | A small amount, a shared bowl
 
@@ -995,6 +1062,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **DAN:** A little sour with all this sweet.  
 **NINA:** That is the balance we planned.  
 **MAX:** I can decide what I think when we sit down.  
+**NINA:** Deal. Tell me which flavor you notice first.  
 
 ## SHOT_067 | 00:16:30–00:16:45 | Cool until lunch
 
@@ -1010,6 +1078,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **MAYA:** Lid on. Into the cooler until we eat.  
 **ELLA:** Forks in the basket.  
 **NINA:** Now our short journey can begin.  
+**MAYA:** Luckily the shade is only a few steps away.  
 
 ## SHOT_068 | 00:16:45–00:17:00 | Only a few steps away
 
@@ -1025,6 +1094,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **MAX:** Lunch has reached its destination.  
 **DAN:** No bus ticket required.  
 **MAYA:** And the tree has kept our seats in the shade.  
+**LEO:** Best trip yet. Nobody had to check the price of shade.  
 
 ## SHOT_069 | 00:17:00–00:17:15 | Six places in the shade
 
@@ -1040,6 +1110,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **LEO:** Six places. Everyone here.  
 **ELLA:** And nobody has to sit on the watermelon.  
 **DAN:** A relief for the watermelon as well.  
+**MAX:** I think that melon would have rolled right out from under me.  
 
 ## SHOT_070 | 00:17:15–00:17:30 | The bowl finally opens
 
@@ -1055,6 +1126,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **NINA:** Fruit salad, ready at last.  
 **MAX:** It smells like oranges and strawberries.  
 **DAN:** A much friendlier introduction than my lemon sample.  
+**NINA:** Give it a sniff before you pick your first bite.  
 
 ## SHOT_071 | 00:17:30–00:17:45 | Max makes his own choice
 
@@ -1070,6 +1142,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **MAX:** Sweet first. Then a little tangy.  
 **NINA:** Do you like it?  
 **MAX:** I do. The lemon has learned to share.  
+**DAN:** I wish it'd learned that before I met the sample.  
 
 ## SHOT_072 | 00:17:45–00:18:00 | What Dad wanted
 
@@ -1085,6 +1158,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **DAN:** I wanted the biggest fruit because I wanted this picnic to feel special.  
 **LEO:** It does.  
 **MAYA:** You did not need to impress us.  
+**DAN:** Oh. I could've asked what felt special to you.  
 
 ## SHOT_073 | 00:18:00–00:18:15 | Already special
 
@@ -1100,6 +1174,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **MAX:** We all came. That was the special part.  
 **DAN:** Even before the fruit?  
 **NINA:** Especially before the fruit.  
+**MAX:** I'd still come sit under the tree with you.  
 
 ## SHOT_074 | 00:18:15–00:18:30 | A better kind of champion
 
@@ -1115,6 +1190,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **ELLA:** No fruit won the size contest.  
 **MAYA:** They made a good team instead.  
 **DAN:** I am happy to join the team.  
+**ELLA:** Good. There's room under this tree for all six of us.  
 
 ## SHOT_075 | 00:18:30–00:18:45 | Both mothers, one good plan
 
@@ -1130,6 +1206,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **MAYA:** The samples helped us understand the difference.  
 **NINA:** And your careful choosing helped us bring good fruit home.  
 **DAN:** I had excellent company.  
+**MAYA:** You made picking two little pears feel important.  
 
 ## SHOT_076 | 00:18:45–00:19:00 | The face stays unfolded
 
@@ -1145,6 +1222,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **MAX:** Dad, your face is staying unfolded.  
 **ELLA:** A successful picnic result.  
 **DAN:** Yes. All my corners are comfortable.  
+**MAX:** Then I guess we gave the lemon just enough work.  
 
 ## SHOT_077 | 00:19:00–00:19:15 | A card worth keeping
 
@@ -1160,6 +1238,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **LEO:** We stayed under sixteen.  
 **ELLA:** And brought everything we needed.  
 **DAN:** One list, two colors, six people who actually listened.  
+**DAN:** And nobody had to carry a picnic table home.  
 
 ## SHOT_078 | 00:19:15–00:19:30 | Tomorrow can wait
 
@@ -1175,6 +1254,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **MAYA:** Maybe pancakes for breakfast tomorrow.  
 **DAN:** I would like to help. After lunch, of course.  
 **NINA:** Good. We will make a plan together.  
+**MAX:** If it's breakfast, I vote for something we can flip.  
 
 ## SHOT_079 | 00:19:30–00:19:45 | Keeping what we made
 
@@ -1190,6 +1270,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **ELLA:** The basket carried fruit out and dishes back.  
 **LEO:** A useful second job.  
 **NINA:** And the rest stays cool for later.  
+**MAYA:** Let's carry the dishes level on the way inside.  
 
 ## SHOT_080 | 00:19:45–00:20:00 | Enough for a happy ending
 
@@ -1205,3 +1286,4 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **DAN:** Not the biggest fruit. A very happy picnic.  
 **MAYA:** Exactly the picnic we needed.  
 **MAX:** And the basket can keep its small door.  
+**ELLA:** Tomorrow's breakfast can stay home. My feet vote for that.  
