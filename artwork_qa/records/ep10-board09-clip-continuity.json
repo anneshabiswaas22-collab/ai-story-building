@@ -1,0 +1,45 @@
+{
+  "episode": 10,
+  "board": 9,
+  "path": "Episode_10/assets/storyboards/BOARD_09.png",
+  "parent_commit": "2029398cf755a1bde324e1b122780dfc25cfc199",
+  "parent_sha256": "69c2d3af2d7ef6bb08dc68798c11101d4922fff4ff1e5202ac8195afb5197635",
+  "selected_sha256": "f09e5fb4b3e17f5df7268d0f2cc2f1dae770caf8cb8a553cde8eebc102b38a0c",
+  "parent_size": [
+    1672,
+    941
+  ],
+  "selected_size": [
+    1672,
+    941
+  ],
+  "generated_source": "Episode_10/assets/storyboards/BOARD_09.png",
+  "method": "Referenced ImageGen edit. The selected PNG is the original returned file.",
+  "request": "Edit the first reference: full four-panel storyboard, landscape 16:9 finished sheet, 2×2 panels with four equal rectangles. Keep black numbered labels top left, text SHOT_033 to SHOT_036 in reading order. The second image locks the family's original appearance and outfits: Dan blue polo and left-wrist watch, Maya plum and cream, Nina teal and tan, Leo orange, Ella red with long denim overalls and braids, small Max green. The third is a scene or adjacent continuity reference, not a panel to copy. Preserve composition, cast, actions, light and art from the first input except as specified. No backpacks or shoulder straps on ANY person in any panel. LOCK the two different houses. HOUSE 14 is the family's BLUE door, ONLY ONE ROYAL BLUE ribbon bow plus one cream celebration banner, no gold bow; HOUSE 18 is GREEN door and leaf-shaped brass knocker, brass plaque on left reads exactly ‘18’, black bell on right, and short hedge, no decorations. Maintain NOV-A daytime and existing family likeness. Panel 033 frame ALL SIX at the BLUE door: Dan blue, Maya plum, Nina teal holding the one phone, Leo orange, Ella in overalls, Max green and smallest. 034 three people visible walking on the PUBLIC paved sidewalk; Dan on the road side with Leo pointing ahead and Max looking back, the blue door behind them with BLUE bow. Keep Leo’s orange shirt plain on both shoulders. 035 Nina holds the family's only phone while Ella and Max compare the hedge, standing outside the path. 036 only Maya, Dan, Leo visible, three standing on the public sidewalk outside the hedge; show the undecorated GREEN neighbor door with leaf-shaped knocker and a clearly legible ‘18’ on the brass plaque mounted to its left. Maya points from sidewalk, Dan compares the delivery confirmation for 14 Maple Lane. Do not invent house numbers or extra phones or copy a child twice. No speech bubbles. Individual panel beats: 33 visible DAN, MAYA, NINA, LEO, ELLA, MAX; All six gather at the threshold. Maya and Nina choose to walk together rather than leave children searching. Nina keeps her phone; Dan checks the clear sidewalk. 34 visible DAN, LEO, MAX; Dan walks on the road side of the children along the sidewalk. Leo points toward the green door ahead; Max notices their blue door behind. Maya, Nina and Ella stay immediately with them outside the crop. 35 visible NINA, ELLA, MAX; Nina pauses the group at the public walkway edge beside the low hedge. Ella compares it with the phone photo. Max keeps both feet on the sidewalk. 36 visible MAYA, DAN, LEO; Maya points to the neighbor’s brass plaque from the sidewalk. Use the exact18 overlay; Dan compares it with14 on the phone confirmation.",
+  "qa_updates": {
+    "SHOT_033": {
+      "observed": "All six are together at the shut blue door. It has one blue bow and a cream banner; Nina has the phone. Leo and Ella have no backpacks.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_034": {
+      "observed": "Dan is on the road side and Leo points toward the green door. The blue bow is visible behind them. Max faces ahead.",
+      "severity": "major",
+      "correction": "Turn Max toward the blue door behind the group for his scripted look back.",
+      "status": "FAIL"
+    },
+    "SHOT_035": {
+      "observed": "Nina holds the only visible phone beside Ella and Max, with the hedge and green door behind them.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_036": {
+      "observed": "The left brass plaque reads 18, with the leaf knocker on the green door. Dan consults the phone and Maya points at the plaque from arm’s reach.",
+      "severity": "major",
+      "correction": "Keep the three on the public sidewalk for this beat. Stage the distant plaque as an eyeline insert before the later approach.",
+      "status": "FAIL"
+    }
+  }
+}
