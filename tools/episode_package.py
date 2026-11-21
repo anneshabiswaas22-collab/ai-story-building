@@ -219,7 +219,7 @@ def validate_source(episode, config):
         used_family.update(set(visible + offscreen) & FAMILY)
         require(f['Location'] in config['locations'], f'SHOT_{number}: unknown location')
         locations.add(f['Location'])
-        require(1 <= len(shot['dialogue']) <= 3, f'SHOT_{number}: expected 1–3 dialogue turns')
+        require(1 <= len(shot['dialogue']) <= 6, f'SHOT_{number}: expected 1–6 dialogue turns')
         require(all(name in visible + offscreen for name, _ in shot['dialogue']),
                 f'SHOT_{number}: speaker absent from visible/off-screen cast')
         words = sum(len(line.split()) for _, line in shot['dialogue'])

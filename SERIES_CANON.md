@@ -4,6 +4,7 @@
 
 ## Format and readiness
 
+- In the 15-second dialogue edit, use four to six brief, sequential lines where the scene supports an exchange. Give an isolated speaker distinct thoughts within their action. Start speaking on the action, keep the listener reacting, and leave a short visual button at the end. Cue times remain editorial estimates until a performance is recorded.
 - Each story: **80 successive 15-second editorial shots = exactly 20:00**. One sheet `BOARD_XX.png` illustrates 4 consecutive shot concepts in reading order (top-left, top-right, bottom-left, bottom-right).
 - English teaching occurs through natural General American dialogue; optional A1–B2 practice is **after** the 20-minute story, not inside it.
 - A still storyboard panel is **not** an approved individual motion first frame. Machine-readable labels, file checks and reference equality cannot certify characters' rendered visual likeness.
