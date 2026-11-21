@@ -1,4 +1,4 @@
-# Storyboard image corrections — 2026-11-20
+# Storyboard image corrections
 
 The active request is to fix the selected storyboard PNGs themselves. Video-prompt workarounds and still-polish deferrals have been removed. All recorded visual defects remain repair targets; no image is considered corrected solely because its instructions are correct.
 
@@ -23,8 +23,8 @@ The active request is to fix the selected storyboard PNGs themselves. Video-prom
 | 07 / BOARD_10 | Restored the two sides of the crossing and put the umbrella backpack on Leo. Dan and Max still need their curbside handhold. | [Selected sheet](../Episode_07/assets/storyboards/BOARD_10.png) · [Correction record](../artwork_qa/records/ep07-board10-clip-continuity.json) |
 | 08 / BOARD_07 | Replaced the hard boxes with zippered fabric cubes, put the suitcase on its stand and separated the two sorting sheets. Shot 025 is still short one closed cube. | [Selected sheet](../Episode_08/assets/storyboards/BOARD_07.png) · [Correction record](../artwork_qa/records/ep08-board07-clip-continuity.json) |
 | 09 / BOARD_07 | Restored Ella and gardening gloves and grounded the basil in 027. The first panel still has a suspended nursery pot and Leo’s hand placement needs work in 027. | [Selected sheet](../Episode_09/assets/storyboards/BOARD_07.png) · [Correction record](../artwork_qa/records/ep09-board07-clip-continuity.json) |
-| 10 / BOARD_09 | Removed the backpacks, restored the blue bow and made the neighbor's 18 readable. Max's look back and the standoff distance at the second house still need adjustment. | [Selected sheet](../Episode_10/assets/storyboards/BOARD_09.png) · [Correction record](../artwork_qa/records/ep10-board09-clip-continuity.json) |
+| 10 / BOARD_09 | Removed the backpacks, restored the blue bow and made the neighbor's 18 readable. The welcome banner, Max's look back and the distance from the second house still need adjustment. | [Selected sheet](../Episode_10/assets/storyboards/BOARD_09.png) · [Correction record](../artwork_qa/records/ep10-board09-clip-continuity.json) |
 
-Current QA inventory: **288 shots with major visual defects; 512 awaiting human review**. Selected repairs remove only the visually verified discrepancies recorded above. Creator acceptance and individual motion-frame approval remain pending. Other storyboard defects have not been declared fixed.
+Current QA inventory: **289 shots with major visual defects; 511 awaiting human review**. Selected repairs remove only the visually verified discrepancies recorded above. Creator acceptance and individual motion-frame approval remain pending. Other storyboard defects have not been declared fixed.
 
 Each selected edit preserves the prior image through its parent Git commit, retains the returned ImageGen source, updates all four panel evidence hashes and records what was visually confirmed. The Episode 01 printed-label audit is refreshed against the new pixels. Corrections are committed and pushed as checkpoints before requesting the next image.

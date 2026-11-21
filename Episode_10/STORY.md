@@ -428,7 +428,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 **Visible cast:** LEO, ELLA, DAN
 **Location:** HOME_KITCHEN
 **Camera:** Medium eye-level group coverage; camera stays on the established room/porch side.
-**Action:** Leo lays the confirmation beside Nina’s phone. Ella points to the matching order number on the two displays; Dan checks them closely.
+**Action:** Leo lays the printed bakery confirmation beside Nina’s phone. Ella points to MHE-10-C on the paper and the same order reference on the delivery notice. Dan checks both.
 **Opening state:** Correct address14 on confirmation; delivered notice14:06; same prepaid order.
 **End state:** Same order verified; no cancellation or second order assumed.
 **Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 1. Illustrated composition draft; creator approval and individual motion first frame pending.
@@ -628,7 +628,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 **Visible cast:** NINA, DAN, ELLA
 **Location:** HOME_KITCHEN
 **Camera:** Child-height medium reaction with the adult beside the children, not above their eyeline.
-**Action:** Nina receives a bakery support text stating that the driver recorded18. She shows the exact support reply as an editorial overlay; Dan checks14 on his confirmation beside it.
+**Action:** Nina shows the bakery support reply on her phone. The driver recorded 18. Dan checks 14 Maple Lane on the printed confirmation beside it.
 **Opening state:** One support request sent; no earlier reply; correct order14.
 **End state:** Driver’s recorded18 known;14 versus18 discrepancy established.
 **Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 3. Illustrated composition draft; creator approval and individual motion first frame pending.
@@ -668,7 +668,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX
 **Location:** HOME_PORCH
 **Camera:** Wide six-person eye-level establishing view; keep original heights and clear door/table axis.
-**Action:** All six gather at the threshold. Maya and Nina choose to walk together rather than leave children searching. Nina keeps her phone; Dan checks the clear sidewalk.
+**Action:** All six gather at the threshold. Nina picks up her phone as the family heads out together. Maya secures the door and Dan checks the sidewalk.
 **Opening state:** All six at home; no cake; neighbor18 on same sidewalk.
 **End state:** Six-person group ready; home door closed and secured by Maya.
 **Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 1. Illustrated composition draft; creator approval and individual motion first frame pending.
@@ -708,7 +708,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 **Visible cast:** NINA, ELLA, MAX
 **Location:** LANE_WALKWAY
 **Camera:** Child-height medium reaction with the adult beside the children, not above their eyeline.
-**Action:** Nina pauses the group at the public walkway edge beside the low hedge. Ella compares it with the phone photo. Max keeps both feet on the sidewalk.
+**Action:** Nina pauses beside the low hedge and holds her phone where Ella can compare the photo. Max keeps both feet on the sidewalk. At the cut, Nina offers the phone to Dan just outside the crop.
 **Opening state:** Group together near18; green door ahead; no gate entered.
 **End state:** Hedge matches photo; group remains outside private walk.
 **Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 3. Illustrated composition draft; creator approval and individual motion first frame pending.
@@ -728,9 +728,9 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 **Visible cast:** MAYA, DAN, LEO
 **Location:** LANE_WALKWAY
 **Camera:** Medium three-quarter view; leave physical space for the scripted action.
-**Action:** Maya points to the neighbor’s brass plaque from the sidewalk. Use the exact18 overlay; Dan compares it with14 on the phone confirmation.
+**Action:** Dan takes the phone from Nina at the edge of frame. Maya points from the public sidewalk to the plaque left of the green door. Cut in on 18, then back to Dan checking 14 Maple Lane on the confirmation. Use the address overlay for both numbers.
 **Opening state:** Green door and leaf knocker visible; family has not approached door.
-**End state:** House18 visually confirmed; one four-digit order reference unchanged.
+**End state:** House 18 confirmed. Dan holds Nina’s phone. The order reference is still MHE-10-C.
 **Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 4. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Same-side continuous sidewalk between14 and18. Six travel together with adults; no road crossing or driveway shortcut. W01, LEFT watch, RIGHT pocket.
 
@@ -770,7 +770,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX
 **Location:** NEIGHBOR_PORCH
 **Camera:** Wide six-person eye-level establishing view; keep original heights and clear door/table axis.
-**Action:** The group reaches the low porch; adults beside the door, children behind on the broad front walk. Dan raises one hand toward the bell but pauses to let Maya finish checking the photo.
+**Action:** The adults reach the low porch with the children behind on the broad front walk. Dan returns the phone to Nina. She holds up the photo for Maya. Dan raises a hand to the bell and waits for Maya’s nod.
 **Opening state:** All six at18; public-to-private approach only to front bell; no cake visible.
 **End state:** Maya confirms matching knocker; Dan ready to ring once.
 **Picture:** [BOARD_10.png](assets/storyboards/BOARD_10.png), panel 2. Illustrated composition draft; creator approval and individual motion first frame pending.
@@ -914,7 +914,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 **Visible cast:** DAN, MAYA, NINA
 **Location:** NEIGHBOR_PORCH
 **Camera:** Medium eye-level group coverage; camera stays on the established room/porch side.
-**Action:** Dan asks the agreed question and waits; Maya keeps the phone confirmation facing herself until requested. No resident face, hands or voice appears in this shot.
+**Action:** Nina hands the phone to Maya. Dan asks the agreed question and waits while Maya reads the confirmation facing her. Maya gives the phone back to Nina as they listen. The resident stays silent and out of frame.
 **Opening state:** Description given; box not yet confirmed by neighbor.
 **End state:** Question asked; family listening instead of guessing.
 **Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 1. Illustrated composition draft; creator approval and individual motion first frame pending.

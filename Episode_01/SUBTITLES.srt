@@ -1,20 +1,19 @@
 1
-00:00:00,250 --> 00:00:07,615
-Dan, please buy four carrots, three tomatoes,
-and one cucumber. The blue list is for my
-salad.
+00:00:00,250 --> 00:00:05,610
+Dan, can you pick up four carrots, three
+tomatoes, and one cucumber?
 
 2
-00:00:07,765 --> 00:00:09,129
-I am ready.
+00:00:05,760 --> 00:00:07,160
+For your salad?
 
 3
-00:00:09,279 --> 00:00:11,929
-And what's the little drawing for?
+00:00:07,310 --> 00:00:10,030
+Yes. Here, take the blue list.
 
 4
-00:00:12,079 --> 00:00:14,300
-Four carrots. I've got it.
+00:00:10,180 --> 00:00:13,340
+You even drew the carrots. That'll help.
 
 5
 00:00:15,250 --> 00:00:20,610

@@ -6,20 +6,20 @@
 
 All ten stories run 20 minutes each. The [panel repair log](docs/STORYBOARD_REPAIR_LOG.md) and [shot-by-shot findings](docs/qa/) identify pictures that still need attention.
 
-## Episode folders
+## Episodes
 
-| Folder | Status |
-|---|---|
-| [Episode_01](Episode_01/) | **Rebuilt 80-shot preproduction:** 20-minute script, 20 regenerated storyboard sheets illustrating SHOT_001–SHOT_080, aligned prompts and subtitles, original cast references |
-| [Episode_02](Episode_02/) | **Story and visual preproduction draft:** fruit-shop/picnic screenplay, 80 prompts and matching subtitles, 20 four-panel storyboard PNGs illustrating all 80 concepts, 14 shared cast previews, five environment references and editable overlays; creator approval, motion first frames, voices and video pending |
-| [Episode_03](Episode_03/) | **Story and visual preproduction draft:** pancake breakfast comedy, 80 shots and matching prompts/subtitles, 20 illustrated storyboard sheets, shared cast, five home-reference views and editable recipe graphics |
-| [Episode_04](Episode_04/) | 80-shot written package; **20/20** storyboard sheets; documented shoe, prop and panel-layout corrections pending |
-| [Episode_05](Episode_05/) | 80-shot written package; 20-board set saved in Git; visual corrections and creator acceptance pending |
-| [Episode_06](Episode_06/) | 80-shot written package; **20/20** boards; known restaurant visual corrections pending |
-| [Episode_07](Episode_07/) | 80-shot written package; 20-board set saved in Git; visual corrections and creator acceptance pending |
-| [Episode_08](Episode_08/) | 80-shot written package; check the live image inventory below; visual corrections and creator acceptance pending |
-| [Episode_09](Episode_09/) | 80-shot written package; check the live image inventory below; visual corrections and creator acceptance pending |
-| [Episode_10](Episode_10/) | 80-shot written package; check the live image inventory below; visual corrections and creator acceptance pending |
+| Episode | Story | 15-second clips | Storyboard findings |
+|---|---|---|---|
+| 01 | [Two Lists, One Dad](Episode_01/STORY.md) | [80 prompts](Episode_01/VIDEO_PROMPTS.md) | [Review by shot](docs/qa/Episode_01.tsv) |
+| 02 | [Dad Bought the Sourest Fruit!](Episode_02/STORY.md) | [80 prompts](Episode_02/VIDEO_PROMPTS.md) | [Review by shot](docs/qa/Episode_02.tsv) |
+| 03 | [Flowers in the Pancakes?!](Episode_03/STORY.md) | [80 prompts](Episode_03/VIDEO_PROMPTS.md) | [Review by shot](docs/qa/Episode_03.tsv) |
+| 04 | [Dad Tried On the Wrong Shoes!](Episode_04/STORY.md) | [80 prompts](Episode_04/VIDEO_PROMPTS.md) | [Review by shot](docs/qa/Episode_04.tsv) |
+| 05 | [The Picnic Is on the Wrong Bench!](Episode_05/STORY.md) | [80 prompts](Episode_05/VIDEO_PROMPTS.md) | [Review by shot](docs/qa/Episode_05.tsv) |
+| 06 | [Dad Said Hot, but Meant Warm!](Episode_06/STORY.md) | [80 prompts](Episode_06/VIDEO_PROMPTS.md) | [Review by shot](docs/qa/Episode_06.tsv) |
+| 07 | [Right Bus, Wrong Stop!](Episode_07/STORY.md) | [80 prompts](Episode_07/VIDEO_PROMPTS.md) | [Review by shot](docs/qa/Episode_07.tsv) |
+| 08 | [Grandma’s Suitcase Has Everyone’s Socks!](Episode_08/STORY.md) | [80 prompts](Episode_08/VIDEO_PROMPTS.md) | [Review by shot](docs/qa/Episode_08.tsv) |
+| 09 | [Can Dad Grow Money?](Episode_09/STORY.md) | [80 prompts](Episode_09/VIDEO_PROMPTS.md) | [Review by shot](docs/qa/Episode_09.tsv) |
+| 10 | [The Party Cake Went to the Wrong House!](Episode_10/STORY.md) | [80 prompts](Episode_10/VIDEO_PROMPTS.md) | [Review by shot](docs/qa/Episode_10.tsv) |
 
 Read [EPISODE_IDEAS.md](EPISODE_IDEAS.md) for the planned first ten stories. Episodes 01–10 have authored story packages; the continuation packages follow the Episode 02/03 handoff structure. Read [SERIES_REVIEW.md](SERIES_REVIEW.md) for the completed Episode 01–03 analysis and [WORK_CHECKPOINT.md](WORK_CHECKPOINT.md) for remote backup/recovery status. Illustrated packages are visual drafts pending creator approval, not completed animation or performed voices.
 

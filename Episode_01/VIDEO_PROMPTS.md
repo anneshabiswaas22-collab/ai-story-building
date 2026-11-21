@@ -19,16 +19,16 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Picture:** [BOARD_01.png](assets/storyboards/BOARD_01.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** The blue heading is SALAD throughout. Dan wears the original sky-blue polo and LEFT-wrist watch.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–7.62s · DAN 7.76–9.13s · MAYA 9.28–11.93s · DAN 12.08–14.30s.
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–5.61s · DAN 5.76–7.16s · MAYA 7.31–10.03s · DAN 10.18–13.34s.
 
 **Dialogue:**
-**MAYA:** Dan, please buy four carrots, three tomatoes, and one cucumber. The blue list is for my salad.
+**MAYA:** Dan, can you pick up four carrots, three tomatoes, and one cucumber?
 
-**DAN:** I am ready.
+**DAN:** For your salad?
 
-**MAYA:** And what's the little drawing for?
+**MAYA:** Yes. Here, take the blue list.
 
-**DAN:** Four carrots. I've got it.
+**DAN:** You even drew the carrots. That'll help.
 
 ## SHOT_002 | 00:00:15–00:00:30 | A second dish, a second color
 

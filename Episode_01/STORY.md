@@ -41,13 +41,13 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** The blue heading is SALAD throughout. Dan wears the original sky-blue polo and LEFT-wrist watch.
 
 **Dialogue:**
-**MAYA:** Dan, please buy four carrots, three tomatoes, and one cucumber. The blue list is for my salad.
+**MAYA:** Dan, can you pick up four carrots, three tomatoes, and one cucumber?
 
-**DAN:** I am ready.
+**DAN:** For your salad?
 
-**MAYA:** And what's the little drawing for?
+**MAYA:** Yes. Here, take the blue list.
 
-**DAN:** Four carrots. I've got it.
+**DAN:** You even drew the carrots. That'll help.
 
 ### SHOT_002 | 00:00:15–00:00:30 | A second dish, a second color
 
