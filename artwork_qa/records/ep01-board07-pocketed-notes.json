@@ -1,0 +1,18 @@
+{
+  "episode": 1,
+  "board": 7,
+  "path": "Episode_01/assets/storyboards/BOARD_07.png",
+  "parent_commit": "6c62e3679a2aa0053519f912e77ab72101120b86",
+  "parent_sha256": "88272548f51a0607302a636d0446fc5c55acdc3d2b8c6ccce269c45f55ae3f42",
+  "selected_sha256": "e3e6870ce1fbc02658fd86930d135aa3a3a7e33717c15442cf676f779aa49702",
+  "generated_source": "Episode_01/assets/storyboards/BOARD_07.png",
+  "method": "Full-sheet referenced ImageGen edit, returned PNG selected without alteration.",
+  "request": "Remove both pocketed paper notes from every counter, retain the hanging tote bags, shot labels, cast and food.",
+  "visual_verification": [
+    "Dan supports two whole onions and touches his eye beside Max. Bare counter beside the basket.",
+    "Max holds up two fingers while Dan lowers both onions. Bare counter to the right.",
+    "Leo gestures at the two hanging totes. Both onions are in the basket and the counter is clear.",
+    "Dan holds one broccoli head for Max. The right end of the produce counter is bare wood."
+  ],
+  "creator_approval": "pending"
+}
