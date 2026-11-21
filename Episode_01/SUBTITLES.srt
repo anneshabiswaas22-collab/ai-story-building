@@ -1,986 +1,1369 @@
 1
-00:00:00,500 --> 00:00:08,060
+00:00:00,500 --> 00:00:07,365
 Dan, please buy four carrots, three tomatoes,
 and one cucumber. The blue list is for my
 salad.
 
 2
-00:00:08,310 --> 00:00:10,110
+00:00:07,615 --> 00:00:09,249
 I am ready.
 
 3
+00:00:09,499 --> 00:00:12,069
+And what's the little drawing for?
+
+4
+00:00:12,319 --> 00:00:14,498
+Four carrots. I've got it.
+
+5
 00:00:15,500 --> 00:00:20,910
 Six potatoes, two onions, and broccoli for my
 soup. Yellow is mine.
 
-4
+6
 00:00:21,160 --> 00:00:23,560
 Two colors. Two delicious plans.
 
-5
+7
+00:00:23,810 --> 00:00:26,210
+Keep mine behind Maya's, okay?
+
+8
+00:00:26,460 --> 00:00:29,290
+They both fit in one hand.
+
+9
 00:00:30,500 --> 00:00:32,300
 Blue for salad.
 
-6
+10
 00:00:32,550 --> 00:00:34,350
 Yellow for soup.
 
-7
+11
 00:00:34,600 --> 00:00:38,720
 I have both. My memory has plenty of room.
 
-8
+12
+00:00:38,970 --> 00:00:43,090
+There's room for the actual notes, too, I
+hope.
+
+13
 00:00:45,500 --> 00:00:47,900
 Should we check those together?
 
-9
+14
 00:00:48,150 --> 00:00:50,550
 I have an excellent memory.
 
-10
+15
 00:00:50,800 --> 00:00:54,060
 We can bring excellent eyes as well.
 
-11
+16
+00:00:54,310 --> 00:00:58,430
+Can my eyes come along? They're good at
+broccoli.
+
+17
 00:01:00,500 --> 00:01:02,900
 Blue soup, yellow salad. Easy.
 
-12
+18
 00:01:03,150 --> 00:01:05,120
 That sounds backward, Dad.
 
-13
+19
 00:01:05,370 --> 00:01:09,490
 Then we will check the details at the stall.
 
-14
-00:01:15,500 --> 00:01:19,620
+20
+00:01:09,740 --> 00:01:13,430
+I'll hold you to that. Both headings, okay?
+
+21
+00:01:15,500 --> 00:01:19,427
 I will carry the bags and check the
 vegetables.
 
-15
-00:01:19,870 --> 00:01:24,420
+22
+00:01:19,677 --> 00:01:24,014
 I have the basket. Does broccoli need a seat
 belt?
 
-16
-00:01:30,500 --> 00:01:32,300
+23
+00:01:24,264 --> 00:01:26,961
+Only if you drive it, Max.
+
+24
+00:01:27,211 --> 00:01:29,498
+I'll walk it very carefully.
+
+25
+00:01:30,500 --> 00:01:32,237
 Ready, team?
 
-17
-00:01:32,550 --> 00:01:35,810
+26
+00:01:32,487 --> 00:01:35,633
 Ready. Even our empty basket looks hungry.
 
-18
-00:01:36,060 --> 00:01:40,610
+27
+00:01:35,883 --> 00:01:40,273
 Then let us bring it back with the right
 lunch.
 
-19
+28
+00:01:40,523 --> 00:01:44,498
+Come on, before the basket orders its own
+lunch.
+
+29
 00:01:45,500 --> 00:01:48,760
 Vegetables, team. We need vegetables, not
 surprises.
 
-20
+30
 00:01:49,010 --> 00:01:51,840
 The stand is on the right.
 
-21
+31
 00:01:52,090 --> 00:01:54,920
 The surprises may be there too.
 
-22
-00:02:00,500 --> 00:02:05,050
+32
+00:01:55,170 --> 00:01:58,860
+I can smell the tomatoes from here, Dad.
+
+33
+00:02:00,500 --> 00:02:04,837
 Can you carry the basket, Dad? It is very
 heavy.
 
-23
-00:02:05,300 --> 00:02:07,270
+34
+00:02:05,087 --> 00:02:06,964
 But it is empty!
 
-24
-00:02:07,520 --> 00:02:10,780
+35
+00:02:07,214 --> 00:02:10,321
 I am saving my muscles for later.
 
-25
+36
+00:02:10,571 --> 00:02:14,498
+Saving them for when the basket actually
+weighs something?
+
+37
 00:02:15,500 --> 00:02:19,190
 The bags can wait here while we choose.
 
-26
+38
 00:02:19,440 --> 00:02:22,270
 And we keep the aisle clear.
 
-27
+39
 00:02:22,520 --> 00:02:24,920
 An organized beginning. I approve.
 
-28
-00:02:30,500 --> 00:02:32,900
+40
+00:02:25,170 --> 00:02:29,290
+Wait till we put the shopping in it, Dad.
+
+41
+00:02:30,500 --> 00:02:32,787
 Ours has the blue handle.
 
-29
-00:02:33,150 --> 00:02:36,840
+42
+00:02:33,037 --> 00:02:36,554
 Good. We are not shopping for somebody else.
 
-30
-00:02:37,090 --> 00:02:40,780
+43
+00:02:36,804 --> 00:02:40,321
 Let us check the food just as carefully.
 
-31
+44
+00:02:40,571 --> 00:02:44,498
+Blue handle. I'd know that squeak anywhere by
+now.
+
+45
 00:02:45,500 --> 00:02:47,300
 Forty carrots?
 
-32
+46
 00:02:47,550 --> 00:02:49,520
 Four, Dad. Four carrots.
 
-33
+47
 00:02:49,770 --> 00:02:53,890
 Good catch. Forty would need their own
 shopping cart.
 
-34
+48
+00:02:54,140 --> 00:02:58,260
+And we'd be eating carrots well into next
+week.
+
+49
 00:03:00,500 --> 00:03:02,470
 One, two, three, four.
 
-35
+50
 00:03:02,720 --> 00:03:05,550
 Four is much easier to carry.
 
-36
+51
 00:03:05,800 --> 00:03:09,060
 And exactly what the list asked for.
 
-37
+52
+00:03:09,310 --> 00:03:12,570
+I'll take the ones you counted, then.
+
+53
 00:03:15,500 --> 00:03:18,330
 Should we get a few extra?
 
-38
+54
 00:03:18,580 --> 00:03:20,550
 We have four already.
 
-39
+55
 00:03:20,800 --> 00:03:24,490
 Then the others can stay for another family.
 
-40
-00:03:30,500 --> 00:03:34,620
+56
+00:03:24,740 --> 00:03:28,860
+Thanks. My arms were starting to worry about
+forty.
+
+57
+00:03:30,500 --> 00:03:34,552
 Three ripe tomatoes. The tray will keep them
 safe.
 
-41
-00:03:34,870 --> 00:03:36,840
+58
+00:03:34,802 --> 00:03:36,739
 Three tiny bowling balls?
 
-42
-00:03:37,090 --> 00:03:40,350
+59
+00:03:36,989 --> 00:03:40,195
 Only if you want tomato soup everywhere.
 
-43
+60
+00:03:40,445 --> 00:03:44,497
+Nobody bowl. I'd like these to make it home.
+
+61
 00:03:45,500 --> 00:03:47,470
 Three tomatoes, safely aboard.
 
-44
+62
 00:03:47,720 --> 00:03:50,550
 Keep the heavy things underneath later.
 
-45
+63
 00:03:50,800 --> 00:03:54,060
 A first-class ticket for the soft passengers.
 
-46
-00:04:00,500 --> 00:04:04,190
+64
+00:03:54,310 --> 00:03:58,430
+Just promise you won't roll them down the
+aisle.
+
+65
+00:04:00,500 --> 00:04:03,911
 We can make room before anything gets
 squashed.
 
-47
-00:04:04,440 --> 00:04:09,420
+66
+00:04:04,161 --> 00:04:08,765
 Good idea. The tomatoes should finish this
 trip looking like tomatoes.
 
-48
-00:04:15,500 --> 00:04:18,760
+67
+00:04:09,015 --> 00:04:11,631
+Can you keep the tray level?
+
+68
+00:04:11,881 --> 00:04:14,497
+Like it's carrying eggs. Got it.
+
+69
+00:04:15,500 --> 00:04:18,646
 Long, green, ready for salad. A cucumber!
 
-49
-00:04:19,010 --> 00:04:23,990
+70
+00:04:18,896 --> 00:04:23,701
 That is a zucchini. The cucumbers are in the
 next crate.
 
-50
-00:04:24,240 --> 00:04:26,040
+71
+00:04:23,951 --> 00:04:25,688
 A useful introduction.
 
-51
-00:04:30,500 --> 00:04:33,330
+72
+00:04:25,938 --> 00:04:29,498
+Check the little sign before you introduce
+yourself.
+
+73
+00:04:30,500 --> 00:04:33,197
 This is the cucumber we need.
 
-52
-00:04:33,580 --> 00:04:38,130
+74
+00:04:33,447 --> 00:04:37,784
 Two green cousins. I checked the right name
 this time.
 
-53
-00:04:38,380 --> 00:04:40,780
+75
+00:04:38,034 --> 00:04:40,321
 And only one comes home.
 
-54
-00:04:45,500 --> 00:04:48,760
+76
+00:04:40,571 --> 00:04:44,498
+Lucky cucumber. The other cousin can visit
+another time.
+
+77
+00:04:45,500 --> 00:04:48,607
 Shape helps, but the label helps too.
 
-55
-00:04:49,010 --> 00:04:51,840
+78
+00:04:48,857 --> 00:04:51,554
 I will use both next time.
 
-56
-00:04:52,090 --> 00:04:55,780
+79
+00:04:51,804 --> 00:04:55,321
 That gives your excellent memory a little
 help.
 
-57
+80
+00:04:55,571 --> 00:04:59,498
+My excellent memory appreciates a sign it can
+read.
+
+81
 00:05:00,500 --> 00:05:03,330
 The yellow note is still hiding.
 
-58
+82
 00:05:03,580 --> 00:05:06,410
 Then it deserves some fresh air.
 
-59
+83
 00:05:06,660 --> 00:05:09,920
 And a careful look at its heading.
 
-60
-00:05:15,500 --> 00:05:19,620
+84
+00:05:10,170 --> 00:05:13,860
+Good thing you noticed the corner peeking out.
+
+85
+00:05:15,500 --> 00:05:19,427
 Six potatoes for the salad? That sounds very
 crunchy.
 
-61
-00:05:19,870 --> 00:05:22,700
+86
+00:05:19,677 --> 00:05:22,374
 Maybe we should check the heading.
 
-62
-00:05:22,950 --> 00:05:25,780
+87
+00:05:22,624 --> 00:05:25,321
 Yes. Before we sort the bags.
 
-63
+88
+00:05:25,571 --> 00:05:29,498
+That's one question worth keeping till we see
+both.
+
+89
 00:05:30,500 --> 00:05:34,190
 Six potatoes. One, two, three, four, five,
 six.
 
-64
+90
 00:05:34,440 --> 00:05:36,240
 Heavy passengers downstairs.
 
-65
+91
 00:05:36,490 --> 00:05:39,750
 And the tomatoes keep their safe seats.
 
-66
-00:05:45,500 --> 00:05:49,190
+92
+00:05:40,000 --> 00:05:44,120
+Nobody wants to sit under a sack of potatoes.
+
+93
+00:05:45,500 --> 00:05:48,718
 The potatoes will not squash the tomatoes now.
 
-67
-00:05:49,440 --> 00:05:53,130
+94
+00:05:48,968 --> 00:05:52,186
 Good. At least their travel arrangements are
 clear.
 
-68
-00:05:53,380 --> 00:05:56,640
+95
+00:05:52,436 --> 00:05:55,279
 We can make the lists clear too.
 
-69
+96
+00:05:55,529 --> 00:05:59,497
+Two lists, two jobs. I'll let you help me
+sort.
+
+97
 00:06:00,500 --> 00:06:03,760
 These onions are making me cry already.
 
-70
+98
 00:06:04,010 --> 00:06:06,410
 You have not cut them.
 
-71
+99
 00:06:06,660 --> 00:06:09,490
 Perhaps they heard my potato-salad plan.
 
-72
-00:06:15,500 --> 00:06:19,190
+100
+00:06:09,740 --> 00:06:13,860
+I'm not crying. They're still wearing all
+their coats.
+
+101
+00:06:15,500 --> 00:06:18,952
 One onion, two onions. Which dish gets them?
 
-73
-00:06:19,440 --> 00:06:21,240
+102
+00:06:19,202 --> 00:06:20,886
 An excellent question.
 
-74
-00:06:21,490 --> 00:06:26,040
+103
+00:06:21,136 --> 00:06:25,393
 We can ask the notes when we open them
 properly.
 
-75
-00:06:30,500 --> 00:06:35,050
+104
+00:06:25,643 --> 00:06:29,498
+Remind me when we get to the bags, okay?
+
+105
+00:06:30,500 --> 00:06:34,584
 We can check before anything goes in the wrong
 bag.
 
-76
-00:06:35,300 --> 00:06:37,700
+106
+00:06:34,834 --> 00:06:36,988
 That is a good plan.
 
-77
-00:06:37,950 --> 00:06:41,640
+107
+00:06:37,238 --> 00:06:40,550
 There is still plenty of time to ask.
 
-78
-00:06:45,500 --> 00:06:48,760
+108
+00:06:40,800 --> 00:06:44,498
+Good. I can still get this right before lunch.
+
+109
+00:06:45,500 --> 00:06:48,607
 That broccoli looks like a tiny tree.
 
-79
-00:06:49,010 --> 00:06:52,270
+110
+00:06:48,857 --> 00:06:51,964
 A forest small enough for our basket.
 
-80
-00:06:52,520 --> 00:06:56,210
+111
+00:06:52,214 --> 00:06:55,731
 Then I will save it a window seat.
 
-81
-00:07:00,500 --> 00:07:04,620
+112
+00:06:55,981 --> 00:06:59,498
+Just one tree. We're shopping for lunch,
+remember?
+
+113
+00:07:00,500 --> 00:07:04,198
 One head of broccoli. That is all we need.
 
-82
-00:07:04,870 --> 00:07:07,270
+114
+00:07:04,448 --> 00:07:06,602
 The forest has arrived safely.
 
-83
-00:07:07,520 --> 00:07:11,640
+115
+00:07:06,852 --> 00:07:10,550
 And the basket still has room for the rest.
 
-84
-00:07:15,500 --> 00:07:20,480
+116
+00:07:10,800 --> 00:07:14,498
+Good. I can see the bottom getting pretty
+full.
+
+117
+00:07:15,500 --> 00:07:19,970
 Why is it a bell pepper if it does not ring?
 
-85
-00:07:20,730 --> 00:07:23,130
+118
+00:07:20,220 --> 00:07:22,374
 Perhaps it is on silent.
 
-86
-00:07:23,380 --> 00:07:26,640
+119
+00:07:22,624 --> 00:07:25,550
 That is very polite in a shop.
 
-87
-00:07:30,500 --> 00:07:34,620
+120
+00:07:25,800 --> 00:07:29,498
+Imagine a whole crate ringing every time
+someone shops.
+
+121
+00:07:30,500 --> 00:07:34,355
 The blue list asks for one red bell pepper.
 
-88
-00:07:34,870 --> 00:07:39,420
+122
+00:07:34,605 --> 00:07:38,862
 Blue paper, red pepper. I will keep those
 details separate.
 
-89
-00:07:39,670 --> 00:07:41,470
+123
+00:07:39,112 --> 00:07:40,796
 That will help.
 
-90
+124
+00:07:41,046 --> 00:07:44,498
+Red is the vegetable. Blue is the paper.
+
+125
 00:07:45,500 --> 00:07:49,620
 That one looks good. The skin is not damaged.
 
-91
+126
 00:07:49,870 --> 00:07:52,270
 And it has excellent manners.
 
-92
+127
 00:07:52,520 --> 00:07:54,320
 Still silent?
 
-93
+128
+00:07:54,570 --> 00:07:58,690
+Quiet as ever. I think we found our pepper.
+
+129
 00:08:00,500 --> 00:08:03,330
 One red bell pepper, safely packed.
 
-94
+130
 00:08:03,580 --> 00:08:05,380
 Checked.
 
-95
+131
 00:08:05,630 --> 00:08:09,320
 A quiet ingredient and a very useful helper.
 
-96
+132
+00:08:09,570 --> 00:08:13,260
+It didn't ring once. Max will be impressed.
+
+133
 00:08:15,500 --> 00:08:19,190
 Two ears of corn. Can they hear us?
 
-97
+134
 00:08:19,440 --> 00:08:22,270
 Only if we speak very politely.
 
-98
+135
 00:08:22,520 --> 00:08:24,320
 Good morning, corn.
 
-99
+136
+00:08:24,570 --> 00:08:28,260
+I think they heard you from that basket.
+
+137
 00:08:30,500 --> 00:08:32,900
 Two ears. Both look fresh.
 
-100
+138
 00:08:33,150 --> 00:08:35,550
 They came as a pair.
 
-101
+139
 00:08:35,800 --> 00:08:39,490
 Then let us keep their ride gentle too.
 
-102
+140
+00:08:39,740 --> 00:08:43,860
+Stalk side in, then. I like my elbows
+unscratched.
+
+141
 00:08:45,500 --> 00:08:47,470
 Two ears, safely aboard.
 
-103
+142
 00:08:47,720 --> 00:08:49,690
 Thank you for listening.
 
-104
+143
 00:08:49,940 --> 00:08:52,770
 They are our most patient passengers.
 
-105
-00:09:00,500 --> 00:09:02,470
+144
+00:08:53,020 --> 00:08:56,710
+They haven't interrupted a single joke all
+morning.
+
+145
+00:09:00,500 --> 00:09:02,437
 A very tidy lettuce?
 
-106
-00:09:02,720 --> 00:09:06,840
+146
+00:09:02,687 --> 00:09:06,739
 That is cabbage. Our list asks for loose-leaf
 lettuce.
 
-107
-00:09:07,090 --> 00:09:10,350
+147
+00:09:06,989 --> 00:09:10,195
 Then we need the less tidy one.
 
-108
+148
+00:09:10,445 --> 00:09:14,497
+Look at those open leaves in the next crate.
+
+149
 00:09:15,500 --> 00:09:18,330
 These leaves are loose and open.
 
-109
+150
 00:09:18,580 --> 00:09:20,980
 Not a round cabbage ball.
 
-110
+151
 00:09:21,230 --> 00:09:24,060
 Right. One lettuce for the salad.
 
-111
-00:09:30,500 --> 00:09:33,330
+152
+00:09:24,310 --> 00:09:28,430
+Now I can spot it without guessing the name.
+
+153
+00:09:30,500 --> 00:09:33,283
 The lettuce gets the top seat.
 
-112
-00:09:33,580 --> 00:09:36,410
+154
+00:09:33,533 --> 00:09:36,316
 Soft leaves need a gentle journey.
 
-113
-00:09:36,660 --> 00:09:40,350
+155
+00:09:36,566 --> 00:09:40,195
 Our basket is becoming a very considerate bus.
 
-114
+156
+00:09:40,445 --> 00:09:44,497
+Save a little space up here for one more.
+
+157
 00:09:45,500 --> 00:09:47,300
 One ingredient left.
 
-115
+158
 00:09:47,550 --> 00:09:50,380
 The little bag of green leaves.
 
-116
+159
 00:09:50,630 --> 00:09:53,460
 Then spinach is our final passenger.
 
-117
+160
+00:09:53,710 --> 00:09:58,260
+Do we need a whole bush or just a bag?
+
+161
 00:10:00,500 --> 00:10:03,330
 Spinach. Is this the last passenger?
 
-118
+162
 00:10:03,580 --> 00:10:05,980
 Yes. One bag of spinach.
 
-119
+163
 00:10:06,230 --> 00:10:09,490
 Then the basket can stop taking reservations.
 
-120
-00:10:15,500 --> 00:10:18,760
+164
+00:10:09,740 --> 00:10:13,860
+Once that's in, we'll see what the notes say.
+
+165
+00:10:15,500 --> 00:10:18,607
 That is everything. Ten ingredient lines
 checked.
 
-121
-00:10:19,010 --> 00:10:20,980
+166
+00:10:18,857 --> 00:10:20,734
 All the right vegetables.
 
-122
-00:10:21,230 --> 00:10:25,350
+167
+00:10:20,984 --> 00:10:24,911
 Now we can check which dish gets which ones.
 
-123
-00:10:30,500 --> 00:10:35,050
+168
+00:10:25,161 --> 00:10:29,498
+All ten? Good. Let's lay those notes side by
+side.
+
+169
+00:10:30,500 --> 00:10:34,584
 Let us put them where we can see both
 headings.
 
-124
-00:10:35,300 --> 00:10:37,270
+170
+00:10:34,834 --> 00:10:36,602
 Blue salad. Yellow soup.
 
-125
-00:10:37,520 --> 00:10:41,210
+171
+00:10:36,852 --> 00:10:40,164
 That is what they have said all morning.
 
-126
-00:10:45,500 --> 00:10:50,910
+172
+00:10:40,414 --> 00:10:44,498
+I see it now. I switched them in my head.
+
+173
+00:10:45,500 --> 00:10:50,089
 I put the dish names in the wrong places in my
 head.
 
-127
-00:10:51,160 --> 00:10:54,420
+174
+00:10:50,339 --> 00:10:53,104
 The vegetables are in the right place.
 
-128
-00:10:54,670 --> 00:10:57,500
+175
+00:10:53,354 --> 00:10:55,754
 And we can sort them correctly.
 
-129
-00:11:00,500 --> 00:11:05,480
+176
+00:10:56,004 --> 00:10:59,498
+Good thing nobody has to put the onions back.
+
+177
+00:11:00,500 --> 00:11:04,724
 Maya, I remembered the colors backward. Blue
 is your salad, right?
 
-130
-00:11:05,730 --> 00:11:11,570
+178
+00:11:04,974 --> 00:11:09,927
 Right. The blue list is my salad. You can
 check it with me.
 
-131
-00:11:15,500 --> 00:11:20,480
+179
+00:11:10,177 --> 00:11:12,577
+So the carrots really are yours?
+
+180
+00:11:12,827 --> 00:11:14,498
+Yes, all four, please.
+
+181
+00:11:15,500 --> 00:11:20,104
 And yellow is my soup. Potatoes, onions,
 broccoli, corn and spinach.
 
-132
-00:11:20,730 --> 00:11:26,140
+182
+00:11:20,354 --> 00:11:25,356
 The soup sounds much better now that it has
 its own ingredients.
 
-133
-00:11:30,500 --> 00:11:33,330
+183
+00:11:25,606 --> 00:11:27,427
+Even the little tree?
+
+184
+00:11:27,677 --> 00:11:29,498
+Especially the broccoli, Max.
+
+185
+00:11:30,500 --> 00:11:32,968
 I should have asked before guessing.
 
-134
-00:11:33,580 --> 00:11:37,700
+186
+00:11:33,218 --> 00:11:36,811
 You are asking now. We are glad to help.
 
-135
-00:11:37,950 --> 00:11:42,070
+187
+00:11:37,061 --> 00:11:40,654
 Bring our vegetables and our three helpers
 home safely.
 
-136
-00:11:45,500 --> 00:11:49,620
+188
+00:11:40,904 --> 00:11:44,497
+We'll bring him home too. He's learning the
+route.
+
+189
+00:11:45,500 --> 00:11:49,427
 Phone away. Two headings where we can see
 them.
 
-137
-00:11:49,870 --> 00:11:52,270
+190
+00:11:49,677 --> 00:11:51,964
 That will make packing easier.
 
-138
-00:11:52,520 --> 00:11:55,780
+191
+00:11:52,214 --> 00:11:55,321
 And make my memory work less hard.
 
-139
-00:12:00,500 --> 00:12:05,910
+192
+00:11:55,571 --> 00:11:59,498
+The bags will do the remembering once they're
+packed.
+
+193
+00:12:00,500 --> 00:12:05,219
 I mixed up the lists. Thank you for catching
 it before packing.
 
-140
-00:12:06,160 --> 00:12:08,130
+194
+00:12:05,469 --> 00:12:07,187
 We are a team.
 
-141
-00:12:08,380 --> 00:12:12,500
+195
+00:12:07,437 --> 00:12:11,030
 Then let us give each dish its own bag.
 
-142
+196
+00:12:11,280 --> 00:12:14,498
+I'm taking orders from the packing crew now.
+
+197
 00:12:15,500 --> 00:12:18,760
 Blue bag beside the blue salad note.
 
-143
+198
 00:12:19,010 --> 00:12:20,980
 Yellow beside yellow soup.
 
-144
+199
 00:12:21,230 --> 00:12:24,490
 A filing system I can actually see.
 
-145
-00:12:30,500 --> 00:12:33,760
+200
+00:12:24,740 --> 00:12:28,430
+Keep them open so we can see inside.
+
+201
+00:12:30,500 --> 00:12:33,607
 Read the heading, then match the ingredients.
 
-146
-00:12:34,010 --> 00:12:36,840
+202
+00:12:33,857 --> 00:12:36,554
 Salad in blue. Soup in yellow.
 
-147
-00:12:37,090 --> 00:12:41,210
+203
+00:12:36,804 --> 00:12:40,731
 Now we can make the bags match the notes.
 
-148
+204
+00:12:40,981 --> 00:12:44,498
+I'll say each name while you check it.
+
+205
 00:12:45,500 --> 00:12:49,190
 Four carrots, three tomatoes, cucumber,
 lettuce, red pepper.
 
-149
+206
 00:12:49,440 --> 00:12:51,410
 All for Maya's salad.
 
-150
+207
 00:12:51,660 --> 00:12:54,060
 The blue bag is ready.
 
-151
+208
+00:12:54,310 --> 00:12:58,430
+That one's hers. What belongs in the yellow
+bag?
+
+209
 00:13:00,500 --> 00:13:05,050
 Potatoes, onions, broccoli, corn and spinach.
 All for Nina's soup.
 
-152
+210
 00:13:05,300 --> 00:13:08,130
 The basket has finished its job.
 
-153
+211
 00:13:08,380 --> 00:13:10,350
 An excellent passenger service.
 
-154
+212
+00:13:10,600 --> 00:13:13,860
+No passengers left under the handle, either.
+
+213
 00:13:15,500 --> 00:13:19,190
 Blue salad. Yellow soup. Checked properly this
 time.
 
-155
+214
 00:13:19,440 --> 00:13:21,410
 Both bags look right.
 
-156
+215
 00:13:21,660 --> 00:13:24,920
 Now we can pay for the vegetables.
 
-157
+216
+00:13:25,170 --> 00:13:29,290
+I'll keep them apart on the way to checkout.
+
+217
 00:13:30,500 --> 00:13:33,330
 Eighteen dollars and fifty cents, please.
 
-158
+218
 00:13:33,580 --> 00:13:35,380
 Eighteen fifty.
 
-159
+219
 00:13:35,630 --> 00:13:40,180
 That matches our vegetables. We can check the
 receipt too.
 
-160
-00:13:45,500 --> 00:13:47,900
+220
+00:13:40,430 --> 00:13:44,120
+Let me get my wallet while you look.
+
+221
+00:13:45,500 --> 00:13:47,593
 Here you go. Twenty dollars.
 
-161
-00:13:48,150 --> 00:13:52,270
+222
+00:13:47,843 --> 00:13:51,436
 We should get one dollar and fifty cents back.
 
-162
-00:13:52,520 --> 00:13:57,070
+223
+00:13:51,686 --> 00:13:55,654
 Then I will check that as carefully as the
 lists.
 
-163
+224
+00:13:55,904 --> 00:13:59,497
+I'll listen for the coins when they come back.
+
+225
 00:14:00,500 --> 00:14:02,470
 Here is your receipt.
 
-164
+226
 00:14:02,720 --> 00:14:05,120
 All ten ingredients are here.
 
-165
+227
 00:14:05,370 --> 00:14:09,920
 Good. Right vegetables, right total, and
 nearly the right memory.
 
-166
+228
+00:14:10,170 --> 00:14:13,430
+Eighteen fifty, Dad. The bottom line agrees.
+
+229
 00:14:15,500 --> 00:14:18,330
 One dollar. Two quarters. One fifty.
 
-167
+230
 00:14:18,580 --> 00:14:20,550
 Small change, carefully checked.
 
-168
+231
 00:14:20,800 --> 00:14:23,200
 The smallest passengers still count.
 
-169
-00:14:30,500 --> 00:14:32,900
+232
+00:14:23,450 --> 00:14:27,570
+Good thing those quarters don't roll around
+the basket.
+
+233
+00:14:30,500 --> 00:14:32,787
 Receipt and change, both checked.
 
-170
-00:14:33,150 --> 00:14:35,550
+234
+00:14:33,037 --> 00:14:35,324
 And safely in my wallet.
 
-171
-00:14:35,800 --> 00:14:40,780
+235
+00:14:35,574 --> 00:14:40,321
 That is a better place for them than under the
 lettuce.
 
-172
-00:14:45,500 --> 00:14:47,300
+236
+00:14:40,571 --> 00:14:44,498
+Lettuce is terrible at keeping track of small
+change.
+
+237
+00:14:45,500 --> 00:14:47,237
 Nothing left behind.
 
-173
-00:14:47,550 --> 00:14:50,810
+238
+00:14:47,487 --> 00:14:50,633
 Except the vegetables we did not buy.
 
-174
-00:14:51,060 --> 00:14:55,610
+239
+00:14:50,883 --> 00:14:55,273
 They can stay. We have exactly what our family
 needs.
 
-175
+240
+00:14:55,523 --> 00:14:59,498
+One last look around our feet, then we're off.
+
+241
 00:15:00,500 --> 00:15:02,900
 All three helpers. Both bags.
 
-176
+242
 00:15:03,150 --> 00:15:05,550
 And one safely empty basket.
 
-177
+243
 00:15:05,800 --> 00:15:09,490
 It worked very hard without learning to cook.
 
-178
+244
+00:15:09,740 --> 00:15:13,860
+Neither did I. We'll need help in the kitchen.
+
+245
 00:15:15,500 --> 00:15:19,190
 Maya, your salad vegetables. Blue bag, blue
 list.
 
-179
+246
 00:15:19,440 --> 00:15:21,240
 And our helpers?
 
-180
+247
 00:15:21,490 --> 00:15:24,750
 All three. We checked that part too.
 
-181
-00:15:30,500 --> 00:15:34,620
+248
+00:15:25,000 --> 00:15:29,120
+I see my carrots. Who kept the tomatoes safe?
+
+249
+00:15:30,500 --> 00:15:34,427
 My soup vegetables! Did the broccoli enjoy its
 trip?
 
-182
-00:15:34,870 --> 00:15:37,700
+250
+00:15:34,677 --> 00:15:37,374
 It asked for a window seat.
 
-183
-00:15:37,950 --> 00:15:40,350
+251
+00:15:37,624 --> 00:15:39,911
 We offered very careful service.
 
-184
-00:15:45,500 --> 00:15:47,470
+252
+00:15:40,161 --> 00:15:44,498
+Then it can travel the last few feet with me.
+
+253
+00:15:45,500 --> 00:15:47,321
 Exactly what we needed.
 
-185
-00:15:47,720 --> 00:15:51,410
+254
+00:15:47,571 --> 00:15:50,982
 And a funny story to go with it.
 
-186
-00:15:51,660 --> 00:15:56,210
+255
+00:15:51,232 --> 00:15:55,439
 I would like the next part to involve fewer
 guesses.
 
-187
+256
+00:15:55,689 --> 00:15:59,498
+Can the tiny tree be in my bowl later?
+
+257
 00:16:00,500 --> 00:16:02,900
 Hands first, after our trip.
 
-188
+258
 00:16:03,150 --> 00:16:06,840
 Then we can help with the safe jobs.
 
-189
+259
 00:16:07,090 --> 00:16:10,350
 Yes. Everybody has a part in lunch.
 
-190
-00:16:15,500 --> 00:16:18,760
+260
+00:16:10,600 --> 00:16:14,290
+Can my elbows have the afternoon off, though?
+
+261
+00:16:15,500 --> 00:16:18,550
 Even our well-traveled cucumber gets a wash.
 
-191
-00:16:19,010 --> 00:16:20,810
+262
+00:16:18,800 --> 00:16:20,484
 Especially that cucumber.
 
-192
-00:16:21,060 --> 00:16:26,470
+263
+00:16:20,734 --> 00:16:25,796
 Then the adults can do the cutting while you
 set the table.
 
-193
-00:16:30,500 --> 00:16:33,760
+264
+00:16:26,046 --> 00:16:29,498
+I can do that while the cucumber dries.
+
+265
+00:16:30,500 --> 00:16:33,343
 I will take care of the napkins.
 
-194
-00:16:34,010 --> 00:16:37,270
+266
+00:16:33,593 --> 00:16:36,436
 And I will help with the vegetables.
 
-195
-00:16:37,520 --> 00:16:42,070
+267
+00:16:36,686 --> 00:16:40,654
 Careful hands and clear jobs. This part is
 coming together.
 
-196
-00:16:45,500 --> 00:16:47,470
+268
+00:16:40,904 --> 00:16:44,497
+I'll leave you a clear spot to work, Dad.
+
+269
+00:16:45,500 --> 00:16:47,268
 Shopping finished. Lunch finished?
 
-197
-00:16:47,720 --> 00:16:51,840
+270
+00:16:47,518 --> 00:16:51,216
 We brought ingredients, Dan. They have not
 cooked themselves.
 
-198
-00:16:52,090 --> 00:16:57,070
+271
+00:16:51,466 --> 00:16:55,936
 Then I am glad we left time for the next job.
 
-199
-00:17:00,500 --> 00:17:02,470
+272
+00:16:56,186 --> 00:16:59,498
+You'll smell the difference when it's actually
+ready.
+
+273
+00:17:00,500 --> 00:17:02,437
 The salad is ready.
 
-200
-00:17:02,720 --> 00:17:05,980
+274
+00:17:02,687 --> 00:17:05,893
 And now the soup is cooked, too.
 
-201
-00:17:06,230 --> 00:17:10,780
+275
+00:17:06,143 --> 00:17:10,618
 Two dishes. One kitchen that has done some
 excellent work.
 
-202
-00:17:15,500 --> 00:17:17,900
+276
+00:17:10,868 --> 00:17:14,497
+And everybody will taste what you brought
+home.
+
+277
+00:17:15,500 --> 00:17:17,860
 Six places. Everybody has one.
 
-203
-00:17:18,150 --> 00:17:20,120
+278
+00:17:18,110 --> 00:17:20,047
 Even the smallest helper.
 
-204
-00:17:20,370 --> 00:17:25,780
+279
+00:17:20,297 --> 00:17:25,618
 Especially the smallest helper. And the basket
 can rest on its chair.
 
-205
-00:17:30,500 --> 00:17:32,300
+280
+00:17:25,868 --> 00:17:29,497
+I don't think it's hungry after that trip.
+
+281
+00:17:30,500 --> 00:17:32,184
 Salad for everyone.
 
-206
-00:17:32,550 --> 00:17:37,100
+282
+00:17:32,434 --> 00:17:36,691
 And cooked soup. Let it cool enough before you
 taste.
 
-207
-00:17:37,350 --> 00:17:41,040
+283
+00:17:36,941 --> 00:17:40,393
 Lunch has finally arrived at the right seats.
 
-208
-00:17:45,500 --> 00:17:50,480
+284
+00:17:40,643 --> 00:17:44,498
+Mine smells good from all the way over here.
+
+285
+00:17:45,500 --> 00:17:49,893
 I felt embarrassed when I realized I mixed up
 the lists.
 
-209
-00:17:50,730 --> 00:17:56,140
+286
+00:17:50,143 --> 00:17:54,915
 We helped because we love you. You help us
 learn every day.
 
-210
-00:18:00,500 --> 00:18:03,330
+287
+00:17:55,165 --> 00:17:57,661
+Even when I get something backward?
+
+288
+00:17:57,911 --> 00:17:59,498
+Especially then, Dad.
+
+289
+00:18:00,500 --> 00:18:03,197
 You listened, checked, and tried again.
 
-211
-00:18:03,580 --> 00:18:06,840
+290
+00:18:03,447 --> 00:18:06,554
 And all our ingredients found their dishes.
 
-212
-00:18:07,090 --> 00:18:10,780
+291
+00:18:06,804 --> 00:18:10,321
 I had very good company along the way.
 
-213
-00:18:15,500 --> 00:18:19,190
+292
+00:18:10,571 --> 00:18:14,498
+And guess who gets to try both dishes today?
+
+293
+00:18:15,500 --> 00:18:19,129
 Would forty carrots need their own dining
 table?
 
-214
-00:18:19,440 --> 00:18:22,270
+294
+00:18:19,379 --> 00:18:22,162
 Only if they came as guests.
 
-215
-00:18:22,520 --> 00:18:25,780
+295
+00:18:22,412 --> 00:18:25,618
 Then four was a very considerate number.
 
-216
+296
+00:18:25,868 --> 00:18:29,497
+Four guests are much easier to squeeze in.
+
+297
 00:18:30,500 --> 00:18:33,760
 A question helped more than another guess.
 
-217
+298
 00:18:34,010 --> 00:18:36,840
 Especially when the vegetables had ears.
 
-218
+299
 00:18:37,090 --> 00:18:40,350
 That was the polite part of shopping.
 
-219
-00:18:45,500 --> 00:18:50,050
+300
+00:18:40,600 --> 00:18:44,290
+I still think the corn understood good
+morning.
+
+301
+00:18:45,500 --> 00:18:49,359
 Next time I am unsure, could you check with
 me?
 
-220
-00:18:50,300 --> 00:18:54,420
+302
+00:18:49,609 --> 00:18:53,103
 Of course. Asking for help is always welcome
 here.
 
-221
-00:18:54,670 --> 00:18:57,500
+303
+00:18:53,353 --> 00:18:55,753
 That sounds like a useful plan.
 
-222
-00:19:00,500 --> 00:19:02,300
+304
+00:18:56,003 --> 00:18:59,497
+I'd rather hear your question while there's
+still time.
+
+305
+00:19:00,500 --> 00:19:02,258
 Blue salad.
 
-223
-00:19:02,550 --> 00:19:04,350
+306
+00:19:02,508 --> 00:19:04,266
 Yellow soup.
 
-224
-00:19:04,600 --> 00:19:10,440
+307
+00:19:04,516 --> 00:19:10,222
 Two notes that deserve to be read separately.
 I will remember that part.
 
-225
+308
+00:19:10,472 --> 00:19:14,497
+We'll bring our excellent eyes along next time
+too.
+
+309
 00:19:15,500 --> 00:19:18,760
 Tomorrow, we need fruit for a picnic.
 
-226
+310
 00:19:19,010 --> 00:19:20,810
 One list, please.
 
-227
+311
 00:19:21,060 --> 00:19:23,030
 One list. Two colors.
 
-228
-00:19:30,500 --> 00:19:33,330
+312
+00:19:23,280 --> 00:19:25,080
+You're kidding.
+
+313
+00:19:25,330 --> 00:19:28,590
+Wait till you see what we're buying.
+
+314
+00:19:30,500 --> 00:19:33,283
 Tomorrow, we can choose fruit together.
 
-229
-00:19:33,580 --> 00:19:37,270
+315
+00:19:33,533 --> 00:19:37,162
 Three excellent helpers, and all six of us.
 
-230
-00:19:37,520 --> 00:19:40,780
+316
+00:19:37,412 --> 00:19:40,618
 That sounds like a very good team.
 
-231
+317
+00:19:40,868 --> 00:19:44,497
+Leo can count while Max interviews the fruit.
+
+318
 00:19:45,500 --> 00:19:47,900
 Two dishes. One happy family.
 
-232
+319
 00:19:48,150 --> 00:19:50,550
 Exactly the plan we wanted.
 
-233
+320
 00:19:50,800 --> 00:19:54,490
 And nobody left the basket at the market.
+
+321
+00:19:54,740 --> 00:19:58,860
+Let's finish lunch before that basket gets
+another job.
