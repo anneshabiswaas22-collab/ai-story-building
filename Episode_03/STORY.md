@@ -507,7 +507,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **Action:** Leo points to the twelve-small-pancake plan. Maya sets six plain white plates on the safe supplies counter. Dan counts the six family places with his fingers before any batter is made.
 
-**Opening state:** Recipe ingredients unmeasured; six clean plates newly on supplies counter; no cooked food.
+**Opening state:** Recipe ingredients unmeasured; six clean plates ready for Maya to set on the supplies counter; no cooked food.
 
 **End state:** Yield plan agreed: 12 small pancakes, 2 for each of 6 people.
 

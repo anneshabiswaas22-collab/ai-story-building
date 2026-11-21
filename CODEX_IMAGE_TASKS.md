@@ -1,4 +1,6 @@
-# Codex image-generation and visual-correction handoff — images NOT generated here
+# Historical image-generation and visual-correction handoff
+
+The original queue below records the November 15 handoff. Use [current production status](CURRENT_PRODUCTION_STATUS.md) for inventory and the [master audit](docs/AUDIT_EP01_EP10.md) for current findings.
 
 **Owner of this lane:** Codex, or another creator-authorized image-capable tool. **Non-image engineering explicitly excludes calling image-generation tools, modifying saved PNG/JPGs, and starting voice/video generation.**
 

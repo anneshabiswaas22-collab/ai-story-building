@@ -4,7 +4,7 @@
 
 Current saved sheets: **20/20**. Missing: none; documented visual corrections still require attention.
 
-Complete missing sheets and apply documented corrections using the original references. Read [CHECKPOINT.md](CHECKPOINT.md), [storyboard notes](assets/storyboards/GENERATION_NOTES.md), [continuity](CONTINUITY.md) and [scene plan](SCENE_REFERENCE_PLAN.md). Passing file checks does not approve faces, rendered counts or geography.
+Verify any proposed correction against the current sheet, screenplay and original references. Read [CHECKPOINT.md](CHECKPOINT.md), [storyboard notes](assets/storyboards/GENERATION_NOTES.md), [continuity](CONTINUITY.md) and [scene plan](SCENE_REFERENCE_PLAN.md). Passing file checks does not approve faces, rendered counts or geography.
 
 ## How to use this guide
 
@@ -665,7 +665,7 @@ Offscreen cast (NEVER show a face): none.
 Location: SHOE_FITTING; use uploaded SHOE_FITTING.png reference.
 Camera: Wide entrance-to-bench tracking shot.
 Action to represent in ONE frozen moment: The six return along the same stationary walkway and gather at the fitting bench; Dan folds map and pockets it right-side.
-Physical starting state: Return walk completed; no stock moved while away; Max wears old shoes.
+Physical starting state: The return route is clear from the elevator bay to the fitting bench. Max wears his old shoes; no one carries stock.
 Physical end state: Max seated again; map in Dan's right pocket; measuring device beside bench.
 Continuity constraints: Receipt stored once at063, moved to household folder075; $8 stays in wallet. No seventh recurring family member or new wardrobe. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -777,7 +777,7 @@ Offscreen cast (NEVER show a face): none.
 Location: SHOE_FITTING; use uploaded SHOE_FITTING.png reference.
 Camera: Close cream box with exact label overlay.
 Action to represent in ONE frozen moment: Dan reaches for the nearest cream teal-band box; Leo checks its label before Dan opens it beside Max.
-Physical starting state: Model selected; measured starting size2; no shoes tried; one shelf box in Dan's hands.
+Physical starting state: Model selected; measured starting size2; no shoes tried. The cream teal-band box is still on its shelf.
 Physical end state: Box identified as size1 trial; Dan asks whether to compare rather than claiming it fits.
 Continuity constraints: Rose is Maya sister, visible only shots025–030 (90seconds), a provisional supporting design; she offers orientation clue while family completes task. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 

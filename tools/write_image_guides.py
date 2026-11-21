@@ -39,7 +39,7 @@ def write_guide(episode):
     lines = [f'# Episode {n:02} — portable image-generation guide', '',
              f'**{c["title"]}.** These copy-ready prompts are for any image tool that accepts text and reference images. They do not depend on this cloud computer or a particular provider API.', '',
              f'Current saved sheets: **{len(existing)}/20**. Missing: ' + (', '.join(f'BOARD_{i:02}' for i in missing) if missing else 'none; documented visual corrections still require attention') + '.', '',
-             'Complete missing sheets and apply documented corrections using the original references. Read [CHECKPOINT.md](CHECKPOINT.md), '
+             'Verify any proposed correction against the current sheet, screenplay and original references. Read [CHECKPOINT.md](CHECKPOINT.md), '
              '[storyboard notes](assets/storyboards/GENERATION_NOTES.md), [continuity](CONTINUITY.md) and '
              '[scene plan](SCENE_REFERENCE_PLAN.md). Passing file checks does not approve faces, rendered counts or geography.', '',
              '## How to use this guide', '',

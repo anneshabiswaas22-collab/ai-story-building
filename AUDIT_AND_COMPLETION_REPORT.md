@@ -1,4 +1,4 @@
-# Non-image engineering audit and completion report — 2026-11-15
+# Historical Non-image engineering audit and completion report — 2026-11-15
 
 > **Historical checkpoint, NOT the current board count.** This report preserves an earlier validation snapshot. As of 2026-11-16, Codex has completed and merged **200/200** genuine storyboard sheets, and all 10 episodes pass full structural checks. The current source suite passed **104 tests**. Visual/creator approval, original PNG masters, individual motion frames, audio and video remain pending. See [current production status](CURRENT_PRODUCTION_STATUS.md) and `python tools/list_missing_storyboards.py` for live status.
 

@@ -27,6 +27,8 @@ jobs:
         run: python tools/production_handoff.py --output-dir "$RUNNER_TEMP/production-handoff"
       - name: Check living root documentation and repository navigation
         run: python tools/check_root_docs.py
+      - name: Check panel-review evidence against current sources and images
+        run: python tools/check_audit_qa.py
       - name: Check Episode 01 sequential written handoff
         run: python Episode_01/sync.py --check
       - name: Run all source and audit regression tests

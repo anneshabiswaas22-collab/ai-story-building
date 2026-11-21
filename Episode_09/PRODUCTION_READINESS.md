@@ -1,6 +1,6 @@
 # Episode 09 — 22-section production guide and readiness
 
-**Current scope:** full80-shot/20:00 story and still-image preproduction package in the Episode02/03 structure. Twenty sheets are planned; sixteen selected files currently illustrate64representative concepts, four sheets are missing and documented corrections remain. All80written briefs exist; fourteen unchanged cast previews, five clean locations, new provisional Ben reference and editable graphics support the handoff. Creator acceptance, eighty individual motion first frames, performed voices, animatic and finished movie remain pending.
+**Current scope:** full80-shot/20:00 story and still-image preproduction package in the Episode02/03 structure. Twenty saved storyboard sheets illustrate the 80 shot concepts. Visual corrections remain pending. All80written briefs exist; fourteen unchanged cast previews, five clean locations, new provisional Ben reference and editable graphics support the handoff. Creator acceptance, eighty individual motion first frames, performed voices, animatic and finished movie remain pending.
 
 These are the same twenty-two guide sections mapped in [Episode01](../Episode_01/PRODUCTION_READINESS.md), not a claim that every production phase has run. Review [story](STORY.md), [continuity](CONTINUITY.md), [scene plan](SCENE_REFERENCE_PLAN.md), [gallery](STORYBOARD_GALLERY.md) and actual [image provenance](assets/storyboards/GENERATION_NOTES.md).
 

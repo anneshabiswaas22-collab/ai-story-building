@@ -1,6 +1,6 @@
 # Episode 09 — clean garden views and populated-scene review plan
 
-Five clean environment files and fourteen unchanged cast previews ground twenty planned four-panel storyboard sheets. Sixteen selected sheets currently exist; four and documented continuity corrections remain blocked by image-service quota. See [checkpoint](CHECKPOINT.md). A clean location, a cast-populated composition and an accepted single-shot motion first frame are different deliverables. New environment and supporting-character images are draft designs, not recovered original masters or creator-approved production inputs.
+Five clean environment files and fourteen unchanged cast previews ground twenty saved storyboard sheets. Visual corrections remain pending. See [checkpoint](CHECKPOINT.md). A clean location, a cast-populated composition and an accepted single-shot motion first frame are different deliverables. New environment and supporting-character images are draft designs, not recovered original masters or creator-approved production inputs.
 
 Read [STORY](STORY.md), [continuity](CONTINUITY.md), [shot index](STORYBOARD_INDEX.md), [storyboard gallery](STORYBOARD_GALLERY.md) and actual [environment](assets/environments/GENERATION_NOTES.md)/[storyboard](assets/storyboards/GENERATION_NOTES.md) generation records before staging. Actual source identities stay authoritative; descriptions cannot certify exact likeness.
 

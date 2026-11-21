@@ -1,6 +1,6 @@
 # Episode 08 —22-section production plan and readiness
 
-**Story and visual preproduction draft:**80 × 15 seconds=20:00, 15 saved four-panel storyboard sheets out of 20 planned, five clean home references,14 unchanged cast JPGs, provisional Ruth reference and editable SVGs. Creator acceptance, individual motion first frames, performed voices, animatic and movie remain pending. The structure follows [Episode 01 guide mapping](../Episode_01/PRODUCTION_READINESS.md) and Episodes 02/03, without claiming a completed production factory.
+**Story and visual preproduction draft:**80 × 15 seconds=20:00, 20 saved storyboard sheets, five clean home references,14 unchanged cast JPGs, provisional Ruth reference and editable SVGs. Creator acceptance, individual motion first frames, performed voices, animatic and movie remain pending. The structure follows [Episode 01 guide mapping](../Episode_01/PRODUCTION_READINESS.md) and Episodes 02/03, without claiming a completed production factory.
 
 | No. | Guide section | Evidence and remaining work |
 |---|---|---|
@@ -13,7 +13,7 @@
 |07|**FLOW SETUP**|No production account/project, actor rig, voice library or automated motion job established.|
 |08|**WORLD DESIGN**|Entry/guest/laundry views preserve established home materials; kitchen/table retain exact originals.|
 |09|**FILM CONTINUITY**|Six pairs/twelve socks, six gray cubes, six name tabs, one blue case, closed lavender pouch and fixed two-row cubby ledger.|
-|10|**PLANNING THE EDIT**|Twenty planned four-panel sheets map all 80 story slots;15 are saved and5 remain blocked by the daily image quota; animatic and 80 approved individual first frames remain future work.|
+|10|**PLANNING THE EDIT**|Twenty saved storyboard sheets map all 80 story slots; animatic and 80 approved individual first frames remain future work.|
 |11|**GENERATION METHOD**|Per-shot prompts mirror action/state/dialogue;15-second editorial slots do not guarantee provider shot duration.|
 |12|**PROMPT RECIPES**|Shot cast/camera/action/start/end/continuity/picture fields stay aligned; exact editorial SVGs supply names and storage text.|
 |13|**WORKED SCENE**|Proposed pilot 001–008 covers original adults/children plus Ruth reference, suitcase/gift transfer and 120-second cameo exit; no pilot movie rendered.|

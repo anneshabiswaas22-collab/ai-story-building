@@ -1,4 +1,6 @@
-# Episode 04 checkpoint — written complete; visual corrections pending
+# Historical Episode 04 generation checkpoint
+
+These inspection notes describe the initially selected files. Consult the [master audit](../docs/AUDIT_EP01_EP10.md) for current shot findings and repairs.
 
 The package contains 80 continuous 15-second shots (20:00), 218 matching dialogue/subtitle cues, continuity notes, a scene plan and the 22-section production plan. Assets include 20 genuine generated storyboard PNGs, 14 unchanged Episode 01 cast JPGs, five clean environment references, one provisional Aunt Rose reference, seven overlay SVGs and one mall diagram. Every selected sheet has been visually inspected.
 

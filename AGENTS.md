@@ -2,6 +2,8 @@
 
 **Current milestone (2026-11-16):** All 200 planned four-panel storyboard PNG files are saved and merged (PR #15). CI's strict structural art gates pass and the 104-test source suite passed on `main`. These images are **not creator-approved**; documented likeness, quantity, prop and staging corrections, approved individual motion first frames, voice and movie production remain separate. See `CURRENT_PRODUCTION_STATUS.md` and run `python tools/list_missing_storyboards.py` for the live inventory. Do not regenerate completed sheets merely because an older guide says they were missing.
 
+**Active request (2026-11-20):** Correct the storyboard PNGs themselves using the audited shot findings, current screenplay/continuity and original references. The creator has withdrawn the video-prompt workaround and still-polish deferrals. Verify each selected correction visually, preserve recovery/provenance and update its QA evidence; written prompts alone do not resolve an image defect. Video/voice rendering and creator visual acceptance remain separate work.
+
 Read the root README and `Episode_01/{README,STORY,CONTINUITY,STORYBOARD_INDEX}.md` before changes.
 For Episode 02 work, also read `Episode_02/{README,STORY,CONTINUITY,STORYBOARD_INDEX}.md`; its fruit inventory and picnic geography are distinct from Episode 01.
 For Episode 03 work, read `Episode_03/{README,STORY,CONTINUITY,STORYBOARD_INDEX}.md`; preserve its one-batch recipe, blue/yellow bowls, six cooking pairs, adult stove zone and fixed dining seats.
@@ -30,7 +32,7 @@ For an authorized story edit, update STORY.md then run that episode’s sync.py 
 
 The ten episodes have complete written 80-shot packages. The original 2026-11-15 checkpoint had 170/200 images, but that number is historical: new images have since been merged. Always run `python tools/list_missing_storyboards.py` in the currently checked-out branch for live missing filenames; run `python tools/audit_series.py` and `python tools/check_series.py` for actual structural validation. Never interpret a written-only green run as proof of completed artwork. See `CODEX_IMAGE_TASKS.md` for the original issue inventory and repair requirements, **not** an authoritative live backlog.
 
-**Image and video generation are outside this non-image engineering pass.** Codex or another authorized image-capable environment should create/correct image assets later using original references, exact shot text and reviewed notes. Do not write dummy boards, duplicate existing PNGs to meet a count or silently relabel historical artwork. Human visual approval, approved first frames, voice, animation and final rendered movies remain pending.
+**Historical scope:** Image and video generation were outside the earlier non-image engineering pass. Storyboard image correction is now authorized by the active request above; use original references, exact shot text and reviewed notes. Do not write dummy boards, duplicate existing PNGs to meet a count or silently relabel historical artwork. Human visual approval, approved first frames, voice, animation and final rendered movies remain pending.
 
 ### Non-image technical handoff
 

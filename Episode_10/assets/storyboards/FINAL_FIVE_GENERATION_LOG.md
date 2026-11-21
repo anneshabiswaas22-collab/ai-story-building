@@ -1,4 +1,4 @@
-# Episode 10 final five — image generation and push record
+# Historical batch record — Episode 10 final five — image generation and push record
 
 Branch `codex/complete-episode-10` starts at `cfa6c706245d439ba7307f345466bf66ea7774c6`, preserving the previous twelve-image batch. No pre-existing artwork is overwritten.
 

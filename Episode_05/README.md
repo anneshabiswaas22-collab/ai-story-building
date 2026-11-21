@@ -1,6 +1,6 @@
 # Episode 05 — The Picnic Is on the WRONG Bench! | Park English | Family Adventure
 
-**Complete written draft: 80 × 15-second story shots = 20:00. Visual package incomplete: 18/20 sheets, 72/80 illustrated concepts; missing BOARD_18/19 and corrections.** See [checkpoint](CHECKPOINT.md). On a later weekend the Brooks family takes a public-park picnic. Dan follows an upside-down sketch to the wrong matching green bench. The stone squirrel, fountain and oak help the family turn a small detour into a better way to give directions. Everyone stays with an adult; both groups remain in sight across short park paths.
+**Complete written draft: 80 × 15-second story shots = 20:00. The 20 saved storyboard sheets cover all 80 shot concepts and await visual review.** See [checkpoint](CHECKPOINT.md). On a later weekend the Brooks family takes a public-park picnic. Dan follows an upside-down sketch to the wrong matching green bench. The stone squirrel, fountain and oak help the family turn a small detour into a better way to give directions. Everyone stays with an adult; both groups remain in sight across short park paths.
 
 This is the same warm stylized-3D family comedy and natural American-English story format as Episodes02/03. Optional creator-authored practice belongs after the movie. No audience drills, narrator recap, quiz or countdown appears inside20:00.
 
@@ -10,7 +10,7 @@ This is the same warm stylized-3D family comedy and natural American-English sto
 2. [VIDEO_PROMPTS.md](VIDEO_PROMPTS.md): matching eighty written shot prompts with exact dialogue and W01 locks; no video generated.
 3. [SUBTITLES.srt](SUBTITLES.srt): dialogue-only provisional timing; conform against actual performances later.
 4. [CONTINUITY.md](CONTINUITY.md): cast, park geography, map orientation, safe adult-led groups and picnic ledger.
-5. [STORYBOARD_INDEX.md](STORYBOARD_INDEX.md), [storyboard gallery](STORYBOARD_GALLERY.md), [HTML gallery](assets/storyboards/index.html): eighteen existing episode-specific four-panel PNG sheets; index plans twenty for eighty shots. BOARD_18/19 remain missing.
+5. [STORYBOARD_INDEX.md](STORYBOARD_INDEX.md), [storyboard gallery](STORYBOARD_GALLERY.md), [HTML gallery](assets/storyboards/index.html): twenty episode-specific PNG sheets map the eighty shots in order.
 6. [SCENE_REFERENCE_PLAN.md](SCENE_REFERENCE_PLAN.md): five clean environment references and populated/single-frame targets.
 7. [PRODUCTION_READINESS.md](PRODUCTION_READINESS.md): all twenty-two guide sections and remaining production gates.
 

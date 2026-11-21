@@ -1,0 +1,35 @@
+{
+  "episode": 6,
+  "board": 4,
+  "path": "Episode_06/assets/storyboards/BOARD_04.png",
+  "parent_commit": "0618aa8703705eec8c99f7adf62a16d26dcbd355",
+  "parent_sha256": "97d35dcfd52c782f649a9efeb91bb83a0d339c7dbc37de936d4aae417c03aada",
+  "selected_sha256": "3bcee834924fc11a93530876efd1d471b277f5ae7b96ba3eee282ffea2ee43d5",
+  "parent_size": [
+    1672,
+    941
+  ],
+  "selected_size": [
+    1671,
+    941
+  ],
+  "generated_source": "production_work/generated_images/exec-b37a805f-dede-414c-bf9b-854aa1bf0505.png",
+  "method": "ImageGen referenced edit of full selected sheet; copied returned PNG directly without postprocessing. No pixel-identical preservation claim.",
+  "request": "Remove early water from SHOT_014; remove two surplus foreground glasses in SHOT_016 and leave exactly six coaster glasses, one per empty plate, with anonymous server forearm empty-handed. Preserve cast, table geography, menus and four shot labels.",
+  "visual_verification": "Visually inspected all four returned panels:013/014/015 have no drinking glasses or food.016 has exactly six clear water glasses on six coasters,three on each long side beside six empty plates; surplus near-edge glasses are gone and server hand is empty. Maya,Nina,Max and other intended actors retain source seating and wardrobe. All four shot labels and panel layout preserved.",
+  "qa_updates": {
+    "SHOT_014": {
+      "observed": "Max opens blank cream menu with Nina pointing and Leo across table; no water glass anywhere in frame. Six empty plates remain before ordering.",
+      "severity": "review",
+      "correction": "Premature water removed; creator likeness, fine anatomy and final frame acceptance pending.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_016": {
+      "observed": "Exactly six transparent still-water glasses on six coasters,three on each long side of table beside six empty plates. Two surplus foreground glasses removed; server's anonymous hand is empty.",
+      "severity": "review",
+      "correction": "Six-water inventory corrected; creator likeness, fine anatomy and final frame acceptance pending.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    }
+  },
+  "remaining_issues": []
+}

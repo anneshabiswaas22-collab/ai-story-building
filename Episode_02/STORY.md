@@ -396,7 +396,8 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX  
 **Location:** FRUIT_COUNTER  
 **Camera:** Wide six-person counter shot; sample nook remains at left edge.  
-**Action:** After a brief clean-up cut, all used sample plates and forks are in the waste station and the trays are covered. Dan turns toward the main display and invites the family’s advice. Leo opens the card to start the price total.  
+**Action:** After a brief clean-up cut, all used sample plates and forks are in the waste station and the trays are covered. Dan turns toward the main display and invites the family’s advice. Dan hands Leo the single card; Leo opens it to start the price total.
+
 **Opening state:** Sampling finished; all paid-fruit inventory empty; basket and cooler still beside dry counter.  
 **End state:** Leo holds the single card; Dan’s hands empty; group ready to select fruit together.  
 **Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.  
@@ -412,8 +413,10 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Visible cast:** MAYA, ELLA, DAN  
 **Location:** FRUIT_COUNTER  
 **Camera:** Medium over the apple display; no crushing close-up.  
-**Action:** Maya supports one sound apple in her palm. Ella looks at its clean intact skin, then compares it with another medium apple. Dan points playfully toward a much larger display apple but waits for their decision.  
-**Opening state:** No selected fruit; both apples still held above their display crate.  
+**Action:** Maya lifts one sound apple from its crate. Ella checks its intact skin and points to a second medium apple, which Maya picks up with her free hand. Dan points playfully toward a much larger display apple but waits for their decision.
+
+**Opening state:** No selected fruit; both apples remain in the display crate and the basket is empty.
+
 **End state:** Maya holds two chosen sound apples ready for the basket; large apple stays in stock.  
 **Picture:** [BOARD_07.png](assets/storyboards/BOARD_07.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Inspect gently; no hard squeezing, biting shop stock or presenting size as proof of sweetness.
@@ -525,7 +528,8 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Location:** FRUIT_COUNTER  
 **Camera:** Scale insert; clean paper-lined grape tray on tared scale.  
 **Action:** Maya places grapes in a clean paper-lined tray on the shop scale. Its empty container weight has been tared. Leo watches the reading settle at one pound, and Dan leaves the grapes intact rather than sampling a whole one.  
-**Opening state:** Basket’s five selected fruit lines total $6.50; grapes remain separate on scale.  
+**Opening state:** Basket’s five selected fruit lines total $6.50; the empty lined tray is tared on the scale and the grapes remain on the display.
+
 **End state:** Exactly 1 lb of grapes measured in their tray; not yet in basket.  
 **Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Editorial scale reading must be 1.00 lb net. No whole grapes are eaten; all will be quartered lengthwise by an adult at home.
@@ -588,7 +592,8 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Visible cast:** MAYA, ELLA, DAN  
 **Location:** FRUIT_COUNTER  
 **Camera:** Medium peach display; palm support and gentle inspection visible.  
-**Action:** Maya supports a peach gently in her palm and lets Ella notice its ripe aroma and slight give without pressing hard. Dan compares it with a firmer peach still on the display and asks before choosing.  
+**Action:** Maya supports a peach gently in her palm and lets Ella notice its ripe aroma and slight give without pressing hard. Dan compares it with a firmer peach still on the display and asks before choosing. Maya lifts a second ripe peach, leaving the firmer one in place.
+
 **Opening state:** Basket unchanged at $12.50; peaches unselected.  
 **End state:** Maya has identified two sound peaches ready to eat today; they remain above their crate.  
 **Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.  
@@ -763,7 +768,8 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Visible cast:** MAYA, NINA, DAN, ELLA  
 **Location:** FRUIT_COUNTER  
 **Camera:** Medium four-shot over basket and closed cooler.  
-**Action:** Maya points out a plan for returning home: adults cut fruit, children lay out clean picnic supplies, everyone helps with safe washing. Ella proudly checks the YELLOW half, already packed before they left.  
+**Action:** Maya points out a plan for returning home: adults cut fruit, children lay out clean picnic supplies, everyone helps with safe washing. Dan holds out the card. Ella checks the YELLOW supplies half against the packed cooler and returns the card to him.
+
 **Opening state:** Fruit selected but unpaid; household supplies still in cooler lid pocket; blanket under strap.  
 **End state:** Jobs agreed; no additional shopping items needed; both halves of the single card accounted for.  
 **Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.  

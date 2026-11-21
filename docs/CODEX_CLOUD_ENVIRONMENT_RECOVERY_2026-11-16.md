@@ -1,4 +1,4 @@
-# Codex Cloud workspace recovery — 2026-11-16
+# Historical Codex Cloud workspace recovery — 2026-11-16
 
 ## Purpose and verified state
 

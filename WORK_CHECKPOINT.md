@@ -2,7 +2,7 @@
 >
 > **Live repository warning (2026-11-16):** This is a historical recovery checkpoint. Do not use its fixed board counts to assign new Codex image jobs. Fetch latest main or the active Codex branch and run `python tools/list_missing_storyboards.py --limit 12` to discover genuinely missing PNGs. Image existence is not visual approval.
 
-# Current repository recovery checkpoint — non-image audit
+# Historical repository recovery checkpoint — non-image audit
 
 As of 2026-11-15, PR [#8](https://github.com/anneshabiswaas22-collab/ai-story-building/pull/8) and PR [#9](https://github.com/anneshabiswaas22-collab/ai-story-building/pull/9) are both **merged** into `main` and the differing sources are preserved in [MERGE_ARCHIVE](MERGE_ARCHIVE/). The former `codex/episodes-04-10-checkpoint` is historical, not an unmerged blocker. The merged baseline SHA is `7319e523ab3ae7d174b66ebbd44348929d7db5a6`. Re-read GitHub's latest `main` before each continuation.
 

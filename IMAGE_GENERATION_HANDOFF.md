@@ -1,9 +1,9 @@
-# Episodes 04–10 — finish the still-image packages
+# Episodes 04–10 — review and correct the storyboard sheets
 
 > **Storyboard completion update (2026-11-16):** All 200 required storyboard PNG files now exist and were merged into `main` via [PR #15](https://github.com/anneshabiswaas22-collab/ai-story-building/pull/15). The guide below was written when artwork was missing; use it now for **targeted verified visual corrections**, not automatic regeneration. Consult [current production status](CURRENT_PRODUCTION_STATUS.md) and the live inventory command.
 
 
-Use the episode guides below to generate the missing artwork and correct existing drafts in your preferred image tool. Each guide contains copy-ready prompts for all twenty storyboard sheets. The screenplay and continuity ledger remain the authority when a generated image disagrees with them. Existing images are composition drafts awaiting creator acceptance.
+Use the episode guides below to review the current sheets and correct verified defects in your preferred image tool. Each guide contains copy-ready prompts for all twenty storyboard sheets. The screenplay and continuity ledger remain the authority when a generated image disagrees with them. Existing images are composition drafts awaiting creator acceptance.
 
 | Episode | Copy-ready image guide |
 |---|---|
@@ -37,8 +37,8 @@ Use the episode's editable `assets/overlays/*.svg` files for exact signs, prices
 Prioritize work in this order:
 
 1. Correct documented identity, wardrobe, geography, safety and inventory errors in existing sheets before using those sheets as references for later images. The episode's checkpoint and sheet-review notes identify known issues.
-2. Complete missing clean views and any required provisional supporting-character reference.
-3. Generate the missing board files, inspecting each result against the actual references and continuity ledger. Check faces, hands, full-length clothing, character counts, container ownership, transfers, seating and exact story state. Regenerate or make a targeted image edit when a major error appears.
+2. Check the scene against its clean environment and any required supporting-character reference.
+3. Inspect each corrected panel alongside the original sheet, references and continuity ledger. Check faces, hands, full-length clothing, character counts, container ownership, transfers, seating and exact story state. Regenerate or make a targeted image edit when a major error appears.
 4. Recheck transitions between neighboring panels and sheets. Do not claim creator acceptance or replace the written canon to accommodate an image error.
 
 These twenty multi-panel sheets are **not** the eighty individually staged and approved motion first frames needed for later animation. This handoff is for completing story and still-image preproduction; recorded voices, video and final-film production remain separate work.

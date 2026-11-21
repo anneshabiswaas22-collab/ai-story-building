@@ -1,6 +1,6 @@
 # Series review — Episodes 01–03 and the continuation standard
 
-> **Archive-aware review note (2026-11-15):** This file includes analysis from a **pre-merge historical checkout**, not a new complete visual audit of the rebuilt Episode 01. Older claims describing 12 Episode 01 boards/48 illustrated beats, or Episode 04–10 as empty folders, were superseded by merged PRs #8/#9. The **active** Episode 01 has 20 regenerated boards (80 shot concepts) and Episodes 04–10 have authored content. Consult `VALIDATION_REPORT.md` and `CODEX_IMAGE_TASKS.md` for current status. Keep the historical observations below as provenance, not instructions to overwrite new art.
+> **Archive-aware review note (2026-11-15):** This file includes analysis from a **pre-merge historical checkout**, not a new complete visual audit of the rebuilt Episode 01. Older claims describing 12 Episode 01 boards/48 illustrated beats, or Episode 04–10 as empty folders, were superseded by merged PRs #8/#9. The **active** Episode 01 has 20 regenerated boards (80 shot concepts) and Episodes 04–10 have authored content. Consult [current production status](CURRENT_PRODUCTION_STATUS.md) for the active inventory. Keep the historical observations below as provenance, not instructions to overwrite new art.
 
 
 

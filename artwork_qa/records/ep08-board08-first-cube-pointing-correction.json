@@ -1,0 +1,29 @@
+{
+  "episode": 8,
+  "board": 8,
+  "path": "Episode_08/assets/storyboards/BOARD_08.png",
+  "parent_commit": "72b014be141df71dfb0b7af7d30016d2e270973c",
+  "parent_sha256": "f245f9c27825ba16c523b50fff38052585d9a8e1c83bb18b04b958ce403804f3",
+  "selected_sha256": "842bb1a8892f24899771701981a1e70cf6931f83cc54ccc7995233c3608b187d",
+  "parent_size": [
+    1672,
+    941
+  ],
+  "selected_size": [
+    1672,
+    941
+  ],
+  "generated_source": "production_work/generated_images/exec-baedb851-315f-4cde-ba05-25c708410ced.png",
+  "method": "ImageGen referenced edit of full selected sheet; copied returned PNG directly without postprocessing. No pixel-identical preservation claim.",
+  "request": "Reblock029Max beside the first cube at viewerleft so fingertip unmistakably points to that first lid; retain Dan/Ella,6closed cubes and original laundry setting. Preserve030/031/032 and corrected socks/tabs.",
+  "visual_verification": "All4panels visually rechecked2026-11-20.029Max now at viewerleft points directly to first cube; six cubes countable.030case,031first-cube pointing and6flat punched tabs,032two soft green-heeled socks with6cubes remain present.",
+  "qa_updates": {
+    "SHOT_029": {
+      "observed": "Max now stands beside viewerleft first cube and points directly to its lid; exactly6closed gray fabric zippered cubes, Dan/Ella beside counter and empty basket at side.",
+      "severity": "none observed",
+      "correction": "First-cube pointing corrected; creator likeness/anatomy and final frame acceptance remain pending.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    }
+  },
+  "remaining_issues": []
+}

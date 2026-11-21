@@ -708,7 +708,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **Camera:** Medium two-shot with phone held between adults, screen away.
 
-**Action:** Dan connects the call and places it on speaker at chest height. Nina greets her father; his voice is held until the next shot so the cameo lasts exactly four slots.
+**Action:** Dan connects the call and places it on speaker at chest height. Nina greets her father; his voice is held through the connection pause in SHOT_028 and first heard in SHOT_029 so the cameo lasts exactly four slots.
 
 **Opening state:** No active call; Dan with phone, Nina beside him.
 
@@ -1080,7 +1080,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Route and direction verified at correct stop; three minutes before departure.
 
-**Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 1. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Blue shelter beside tree, bakery/red shelter opposite; preserve orientation.
 
@@ -1106,7 +1106,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** 09:50 library departure confirmed on Saturday row.
 
-**Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 2. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Fictional timetable for this screenplay only; no real transit schedule claimed.
 
@@ -1132,7 +1132,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Family waiting comfortably; boarding zone clear.
 
-**Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 3. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** No child sits on curb or rail; no invented crowd faces needed.
 
@@ -1158,7 +1158,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Dan holds one fan of six unused tickets; Leo holds envelope.
 
-**Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 4. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Do not throw, scatter or turn tickets into money; readable class marks use SVG.
 
@@ -1184,7 +1184,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Fare understanding confirmed; same six tickets still unused.
 
-**Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 1. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Adults $6 plus children $3 equals $9; no change or refund due on this prepaid ride.
 
@@ -1210,7 +1210,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Bus destination verified; family remains waiting.
 
-**Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 2. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Blue bus is northbound; red-shelter southbound service not boarded; no road entry.
 
@@ -1236,7 +1236,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Bus stationary with front doors open; first boarding space clear.
 
-**Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 3. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** No boarding or touching bus while moving; driver is unseen/hands-only and silent.
 
@@ -1262,7 +1262,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Alighting path clear; family now ready for their own orderly boarding.
 
-**Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 4. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Any passenger remains an indistinct cropped silhouette, no new speaking supporting role or face.
 
@@ -1288,7 +1288,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Dan at reader, Maya one pace behind; no ticket validated before scan.
 
-**Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 1. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** No speaking seventh family member; driver can remain silent and unseen.
 
@@ -1312,7 +1312,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Exactly six tickets validated once; all six tickets still in Dan’s hand.
 
-**Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 2. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Validation does not buy new tickets or create a cash receipt; no duplicate scans.
 
@@ -1336,7 +1336,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Max, Ella and Leo aboard beside adults; no child left outside.
 
-**Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 3. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Short boarding ellipsis covers all six; bag/umbrella do not block doorway.
 
@@ -1362,7 +1362,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** All six validated tickets in right-pocket envelope; group ready to sit.
 
-**Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 4. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** No ticket disappears; remain aboard at stop until seating is complete.
 
@@ -1388,7 +1388,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** All six seated, clear aisle; no one standing or reserving empty seats.
 
-**Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 1. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Keep seat plan fixed; never move a child between adults for a close-up.
 
@@ -1414,7 +1414,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Bag secure at Leo’s feet, folder on Nina’s lap; aisle clear.
 
-**Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 2. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** No loose umbrella tip extends into aisle; bus stationary until next shot.
 
@@ -1440,7 +1440,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Doors closed, northbound bus moving; family seated.
 
-**Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 3. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** No standing wave through window, no open door in motion; sign read before boarding.
 
@@ -1466,7 +1466,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Max observing calmly; no one changes seat or opens window.
 
-**Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 4. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** No reaching outside, shouting to driver or playful interference with bus controls.
 
@@ -1492,7 +1492,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Pine Street landmark identified; leaflet stays with Leo.
 
-**Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 1. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Do not invent live tracking or a new device; this is the same paper leaflet.
 
@@ -1518,7 +1518,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Later in the ride, after Pine Street; approximately 10:03 story time.
 
-**Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 2. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Explicit elapsed-time transition; all tickets already used, no second bus or transfer.
 
@@ -1544,7 +1544,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Family agrees to request next stop; Max reassured.
 
-**Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 3. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** No loud chorus or direct-to-viewer lesson; driver remains unseen and undistracted.
 
@@ -1570,7 +1570,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Stop request registered once; all six remain seated.
 
-**Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 4. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** No repeated button pressing, standing reach or invented alarm response.
 
@@ -1596,7 +1596,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Family mentally ready; no one standing or reaching for door.
 
-**Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 1. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** No stumble gag, moving-bus dismount or emergency stop.
 
@@ -1622,7 +1622,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Library visually identified; no child rises yet.
 
-**Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 2. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Library architecture matches LIBRARY_FOYER windows/canopy; no wrong-building second twist.
 
@@ -1648,7 +1648,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Bus stationary, doors open; all six standing in orderly exit group.
 
-**Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 3. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Library arrival is 15 minutes after departure; no claim that film runtime equals travel clock.
 
@@ -1674,7 +1674,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** All six on library-side sidewalk; bag/folder with owners; no bus reboarding.
 
-**Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 4. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** No one crosses in front of bus; library entrance is on the same sidewalk as arrival.
 
@@ -1698,7 +1698,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Family inside foyer; no borrowed books yet.
 
-**Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 1. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Five-view location LIBRARY_FOYER includes threshold, returns, low display and reading nook; no new relative.
 
@@ -1724,7 +1724,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Three returns on counter, bag empty of books; umbrella still attached.
 
-**Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 2. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Do not show new chosen books or duplicate return copies in bag.
 
@@ -1750,7 +1750,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Red and blue returned; only yellow remains in Maya’s hand.
 
-**Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 3. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Two physical transfers, no throwing; Max stays supervised next to counter, not reaching into slot.
 
@@ -1776,7 +1776,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** All three old books returned; navy bookbag empty; blue folder opened.
 
-**Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 4. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Returned books never reappear in browsing or final bag.
 
@@ -1802,7 +1802,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Three candidate titles identified on display, none checked out.
 
-**Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 1. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Shelf stock remains library property until checkout; no unseen shopping or money exchange.
 
@@ -1828,7 +1828,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Leo holding one selected atlas, not yet borrowed.
 
-**Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 2. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** New atlas distinct from old blue return book; no extra books added.
 
@@ -1854,7 +1854,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Ella holds one plant book; two new selections total.
 
-**Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 3. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Only a book is a garden hint; no Episode09 planting or seed props begin here.
 
@@ -1880,7 +1880,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Max holding third selected new book; exact three selections complete.
 
-**Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 4. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** No giant fruit, physical dinosaur or new library book appears for the joke.
 
@@ -1906,7 +1906,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Cards and books ready at self-checkout; old returns absent.
 
-**Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 1. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Fictional library permits supervised child-card self-checkout; no PIN or personal number shown.
 
@@ -1932,7 +1932,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Atlas, plant book and dinosaur book checked out, one each; single loan receipt printed.
 
-**Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 2. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** No cash charge or ticket reuse; checkout receipt records three loans, not three purchases.
 
@@ -1958,7 +1958,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Three new books in bag, cards/receipt in zipped folder, umbrella still closed outside.
 
-**Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 3. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** No returned red/blue/yellow books reappear; six used bus tickets stay with Dan.
 
@@ -1984,7 +1984,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Three new books looked at and repacked; all remain the same loans, not new copies.
 
-**Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 4. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** One short reading-time ellipsis; books can leave and return to bag once without duplicate inventory.
 
@@ -2010,7 +2010,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Dan relaxed, mistake resolved; no parent blamed or mocked.
 
-**Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 1. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Reading nook bench arrangement is episode-specific, not canonical home table seats.
 
@@ -2036,7 +2036,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Adults share credit equally; children remain nearby.
 
-**Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 2. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Maya and Nina equally respected partners; no jealousy, competition or servant role.
 
@@ -2062,7 +2062,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Family chooses a story to share later; phone remains pocketed.
 
-**Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 3. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Do not extend Ed’s cameo or add performed voices beyond screenplay; no direct audience lesson.
 
@@ -2088,7 +2088,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Hold family tableau through00:20:00; no return journey or new errand begins.
 
-**Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 4. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Six one-way tickets used; return tickets will be arranged separately later. Optional creator practice is outside movie.
 

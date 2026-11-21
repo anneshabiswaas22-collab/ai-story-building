@@ -1,7 +1,7 @@
 # Episode 05 — The Picnic Is on the WRONG Bench! | Park English | Family Adventure
 
 > **Format:** 80 continuous story shots × 15 seconds = **20:00 story runtime**.
-> **Status:** complete written preproduction draft; 18 of 20 storyboard sheets exist (72 of 80 concepts). BOARD_18/19 and factual visual corrections remain blocked by image-generation quota. Creator approval, individual motion first frames, performed voices and movie remain pending.
+> **Status:** All 20 storyboard sheets accompany the 80-shot screenplay. Creator sign-off, approved individual motion first frames, recorded voices and a finished film remain pending.
 > **Story-only:** natural American-English family comedy; optional creator-authored practice belongs after the movie. No audience drills, quiz, narrator recap or countdown.
 
 On a later weekend, the Brooks family takes a new picnic to the public park. Maya, Nina and Ella carry the cold lunch and blanket toward the agreed oak bench. Dan, Leo and Max follow with dry supplies, but Dan holds their sketch upside down and chooses the matching bench beside a stone squirrel. The groups remain on short mutually visible paths with adults; nobody is lost or unsafe. Checking the gate, fountain, statue and oak turns a small detour into a shared laugh and a picnic everyone helped to find.
@@ -188,11 +188,11 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **Camera:** Wide toward exit, all six spaced naturally.
 
-**Action:** Maya checks the children are ready. Nina lifts the cooler; Dan waits with basket while all three children join the adults. They leave at a walking pace.
+**Action:** Maya checks the children are ready. Nina lifts the cooler; Dan waits with basket while all three children join the adults. They walk together toward the home exit.
 
 **Opening state:** Kitchen unchanged; cooler sealed; Maya rolled blanket, Dan basket and pocketed map.
 
-**End state:** All six depart together with one basket, one cooler, one blanket.
+**End state:** All six reach the home exit together with one basket, one cooler and one blanket.
 
 **Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
 
@@ -944,7 +944,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **Action:** Dan folds and pockets map, then steps onto the RIGHT branch with both boys beside him. Leo gestures toward the big oak; Max checks the statue is now behind them to the left.
 
-**Opening state:** Map north-up held; trio oriented north at fountain.
+**Opening state:** Dan holds the map north-up. The trio faces the east branch they identified on their right while facing north.
 
 **End state:** All three follow correct east branch at walking pace.
 

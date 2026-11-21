@@ -1,4 +1,6 @@
-# Episode08 — resume the blocked visual package
+# Historical Episode 08 correction requests and reference briefs
+
+Boards 16–20 are now present. The briefs below preserve the original instructions for those files. Consult the [episode checkpoint](../../CHECKPOINT.md) and [generation log](TASK3_GENERATION_LOG.md) before using a correction prompt.
 
 Daily image-generation quota blocked completion. Preserve all selected outputs and source records. Read [screenplay](../../STORY.md), [continuity](../../CONTINUITY.md), [generation record](GENERATION_NOTES.md) and [scene plan](../../SCENE_REFERENCE_PLAN.md) before continuing. Use the image-generation tool for new images and edits; do not crop, relabel another episode's panels, replace artwork with diagrams or invent a completed sheet. New requests must use actual local character/home references. Inspect each result, correct major errors, record its source, then sync/validate.
 

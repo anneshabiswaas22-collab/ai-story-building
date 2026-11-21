@@ -2,7 +2,9 @@
 
 **Current saved inventory: 20/20 Episode 10 sheets; 200/200 across the series.** BOARD_16–20 were generated and individually pushed on `codex/complete-episode-10` from the preserved `cfa6c706245d439ba7307f345466bf66ea7774c6` checkpoint. [The final-five generation/push log](FINAL_FIVE_GENERATION_LOG.md) records sources, hashes, verified image commits and targeted pre-commit dining-room corrections. Gallery/index sync and its check passed. Earlier missing-sheet statements below describe historical checkpoints. Complete saved-file coverage does not approve visual continuity: creator review, older documented corrections and all individual motion first frames remain pending. No previous PNG, screenplay, audio or video was changed.
 
-**Task 3 current inventory: 15/20 sheets are saved.** BOARD_11, BOARD_12, BOARD_13 and BOARD_15 were generated and individually pushed on `codex/next-12-storyboards`; [the per-image generation/push log](TASK3_GENERATION_LOG.md) records actual sources, references, hashes, verified image commits and the pre-commit box-label correction. Only BOARD_16–20 remain missing, reserved for the following task. Gallery/index sync and its check passed. Earlier missing-sheet lists below describe historical checkpoints. All sheets remain composition drafts pending creator approval; no older art, screenplay, audio or video was changed by this batch.
+## Historical Task 3 and initial generation records
+
+**At the end of Task 3, 15/20 sheets had been saved.** BOARD_11, BOARD_12, BOARD_13 and BOARD_15 were generated and individually pushed on `codex/next-12-storyboards`; [the per-image generation/push log](TASK3_GENERATION_LOG.md) records actual sources, references, hashes, verified image commits and the pre-commit box-label correction. Only BOARD_16–20 remain missing, reserved for the following task. Gallery/index sync and its check passed. Earlier missing-sheet lists below describe historical checkpoints. All sheets remain composition drafts pending creator approval; no older art, screenplay, audio or video was changed by this batch.
 
 **11/20 sheets are saved.** Missing: BOARD_11, BOARD_12, BOARD_13, BOARD_15, BOARD_16, BOARD_17, BOARD_18, BOARD_19, BOARD_20. These are composition drafts, not creator-approved motion first frames.
 
@@ -26,7 +28,7 @@ Read [the portable full prompt guide](../../IMAGE_GENERATION_GUIDE.md), [checkpo
 
 All selected sheets listed above were visually inspected either by root or the named batch reviewer. The source descriptions are factual review findings, not claims that exact faces, hands, counts, geometry or creator acceptance have been certified. Existing major errors were queued for actual image edits, but shared daily quota was reached before those edits could complete.
 
-## External image-service blocker
+### External image-service blocker
 
 Image service returned HTTP429 usage_limit_reached for the Plus daily1440-minute window; reported reset1794764682 (15November2026,23:14:42IST). Do not loop unchanged requests. The creator asked for portable text guides so another tool can generate missing sheets and make corrections; those prompts are now stored in IMAGE_GENERATION_GUIDE.md.
 

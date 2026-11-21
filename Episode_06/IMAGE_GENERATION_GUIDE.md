@@ -4,7 +4,7 @@
 
 Current saved sheets: **20/20**. Missing: none; documented visual corrections still require attention.
 
-Complete missing sheets and apply documented corrections using the original references. Read [CHECKPOINT.md](CHECKPOINT.md), [storyboard notes](assets/storyboards/GENERATION_NOTES.md), [continuity](CONTINUITY.md) and [scene plan](SCENE_REFERENCE_PLAN.md). Passing file checks does not approve faces, rendered counts or geography.
+Verify any proposed correction against the current sheet, screenplay and original references. Read [CHECKPOINT.md](CHECKPOINT.md), [storyboard notes](assets/storyboards/GENERATION_NOTES.md), [continuity](CONTINUITY.md) and [scene plan](SCENE_REFERENCE_PLAN.md). Passing file checks does not approve faces, rendered counts or geography.
 
 ## How to use this guide
 
@@ -1475,7 +1475,7 @@ Offscreen cast (NEVER show a face): none.
 Location: RESTAURANT_ENTRANCE; use uploaded RESTAURANT_ENTRANCE.png reference.
 Camera: Wide at original rear-left door, all six grouped off aisle.
 Action to represent in ONE frozen moment: Dan rejoins the table through a short return dissolve; all six stand and walk together to the original entrance. Nina carries the single closed takeout box level.
-Physical starting state: Payment settled; five waiting diners and Dan reunited; box with Nina.
+Physical starting state: Payment settled; Dan turns from the counter toward the five waiting diners. Nina holds the box.
 Physical end state: All six at entrance together; no belongings left at table.
 Continuity constraints: W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. No extra transaction: $80 - $63.80 = $16.20 change; less $10 tip leaves $6.20.
 

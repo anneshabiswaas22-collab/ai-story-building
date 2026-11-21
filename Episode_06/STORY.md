@@ -2049,7 +2049,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **Action:** Dan rejoins the table through a short return dissolve; all six stand and walk together to the original entrance. Nina carries the single closed takeout box level.
 
-**Opening state:** Payment settled; five waiting diners and Dan reunited; box with Nina.
+**Opening state:** Payment settled; Dan turns from the counter toward the five waiting diners. Nina holds the box.
 
 **End state:** All six at entrance together; no belongings left at table.
 

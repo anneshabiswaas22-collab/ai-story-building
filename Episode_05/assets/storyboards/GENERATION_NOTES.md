@@ -1,6 +1,10 @@
 # Episode 05 — storyboard generation provenance and unresolved review
 
-**Current inventory: 18 of 20 actual four-panel PNG sheets, covering 72 of 80 shot concepts. BOARD_18 and BOARD_19 (SHOT_069–SHOT_076) are missing.** This is an incomplete still-image draft, not a completed or approved visual package. No earlier episode art was relabeled, no placeholder image substituted, and no video/voice generated.
+All 20 storyboard sheets are saved. The [episode checkpoint](../../CHECKPOINT.md) identifies the completion batch and targeted repairs.
+
+## Historical initial generation record
+
+**Initial inventory: 18 of 20 actual four-panel PNG sheets, covering 72 of 80 shot concepts. BOARD_18 and BOARD_19 (SHOT_069–SHOT_076) are missing.** This is an incomplete still-image draft, not a completed or approved visual package. No earlier episode art was relabeled, no placeholder image substituted, and no video/voice generated.
 
 ## Actual inputs and generation
 

@@ -415,7 +415,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **Characters:** DAN, NINA. **Location:** WRONG_STOP. **Wardrobe:** W01 only.
 **Composition:** Medium two-shot with phone held between adults, screen away.
-**Action:** Dan connects the call and places it on speaker at chest height. Nina greets her father; his voice is held until the next shot so the cameo lasts exactly four slots.
+**Action:** Dan connects the call and places it on speaker at chest height. Nina greets her father; his voice is held through the connection pause in SHOT_028 and first heard in SHOT_029 so the cameo lasts exactly four slots.
 **Starting continuity:** No active call; Dan with phone, Nina beside him.
 **Ending continuity:** Call connected on speaker; Ed remains unheard until SHOT_029.
 **Picture:** [BOARD_07.png](assets/storyboards/BOARD_07.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
@@ -629,7 +629,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** At 09:47 the family gathers behind the blue shelter’s curb line. Maya reads NORTHBOUND — LIBRARY from the exact overlay while Dan checks route 7 above it.
 **Starting continuity:** All six arrive blue shelter; no bus present; tickets unused.
 **Ending continuity:** Route and direction verified at correct stop; three minutes before departure.
-**Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 1. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Blue shelter beside tree, bakery/red shelter opposite; preserve orientation.
 
 **Dialogue:**
@@ -644,7 +644,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Leo finds the northbound Saturday row; Ella follows across from the library destination to 09:50. Dan watches both fingers stop on the same line.
 **Starting continuity:** Correct shelter timetable; no ticket validation begun.
 **Ending continuity:** 09:50 library departure confirmed on Saturday row.
-**Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 2. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Fictional timetable for this screenplay only; no real transit schedule claimed.
 
 **Dialogue:**
@@ -659,7 +659,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Nina and Max sit while Maya stands beside Ella outside the doorway. The group leaves the boarding path and sidewalk clear for any unseen passengers.
 **Starting continuity:** Three minutes of waiting; bag still with Leo, folder with Nina.
 **Ending continuity:** Family waiting comfortably; boarding zone clear.
-**Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 3. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No child sits on curb or rail; no invented crowd faces needed.
 
 **Dialogue:**
@@ -674,7 +674,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Dan takes out the six prepaid tickets and fans them once while Nina checks three adult marks and three child marks. Leo holds the empty envelope for him.
 **Starting continuity:** Six unused tickets pocketed in cream envelope.
 **Ending continuity:** Dan holds one fan of six unused tickets; Leo holds envelope.
-**Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 4. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Do not throw, scatter or turn tickets into money; readable class marks use SVG.
 
 **Dialogue:**
@@ -689,7 +689,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Maya checks the existing fare summary with Ella while Dan keeps the tickets secure. Nobody opens a wallet or pays a second time.
 **Starting continuity:** Tickets already purchased before episode; fare total $9.
 **Ending continuity:** Fare understanding confirmed; same six tickets still unused.
-**Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 1. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Adults $6 plus children $3 equals $9; no change or refund due on this prepaid ride.
 
 **Dialogue:**
@@ -704,7 +704,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** A blue-and-cream Route 7 approaches from the south in the far-side northbound lane. Dan reads its LIBRARY destination display before taking a step.
 **Starting continuity:** 09:50; bus approaching, not stopped; family behind curb.
 **Ending continuity:** Bus destination verified; family remains waiting.
-**Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 2. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Blue bus is northbound; red-shelter southbound service not boarded; no road entry.
 
 **Dialogue:**
@@ -719,7 +719,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** The bus comes to a complete stop, parking brake engaged, then opens its front doors. Max stays with Nina until Dan has the tickets ready and the step area is clear.
 **Starting continuity:** Bus arriving; no one boarding yet.
 **Ending continuity:** Bus stationary with front doors open; first boarding space clear.
-**Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 3. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No boarding or touching bus while moving; driver is unseen/hands-only and silent.
 
 **Dialogue:**
@@ -734,7 +734,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** The family waits to one side of the open doors so any arriving passengers can leave first. Maya guides Ella beside her; Nina makes sure the younger children do not stand directly in the doorway.
 **Starting continuity:** Bus fully stopped and open; family on sidewalk with tickets ready.
 **Ending continuity:** Alighting path clear; family now ready for their own orderly boarding.
-**Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 4. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Any passenger remains an indistinct cropped silhouette, no new speaking supporting role or face.
 
 **Dialogue:**
@@ -749,7 +749,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Dan greets the unseen driver and holds the six prepaid tickets at the validation reader. Maya stands just behind him, ready to guide the children after he clears the doorway.
 **Starting continuity:** Stationary bus, doors open; six unused tickets in Dan’s hand.
 **Ending continuity:** Dan at reader, Maya one pace behind; no ticket validated before scan.
-**Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 1. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No speaking seventh family member; driver can remain silent and unseen.
 
 **Dialogue:**
@@ -763,7 +763,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Across an explicit short boarding ellipsis, Dan validates each of the six tickets once. Nina stands inside the bus beyond the reader, keeping the aisle free for the children.
 **Starting continuity:** Six unused tickets; no group validation completed.
 **Ending continuity:** Exactly six tickets validated once; all six tickets still in Dan’s hand.
-**Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 2. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Validation does not buy new tickets or create a cash receipt; no duplicate scans.
 
 **Dialogue:**
@@ -777,7 +777,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Nina offers Max her hand as he steps onto the stationary bus using its handrail. Maya follows Ella; Leo follows carrying the securely closed bag.
 **Starting continuity:** Dan already through validation; family boarding sequentially.
 **Ending continuity:** Max, Ella and Leo aboard beside adults; no child left outside.
-**Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 3. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Short boarding ellipsis covers all six; bag/umbrella do not block doorway.
 
 **Dialogue:**
@@ -792,7 +792,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Leo returns the cream envelope to Dan. Dan slides the six validated tickets inside and pockets it on RIGHT while Ella waits behind him rather than walking down an active aisle alone.
 **Starting continuity:** Six used tickets in Dan’s hand; envelope with Leo.
 **Ending continuity:** All six validated tickets in right-pocket envelope; group ready to sit.
-**Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 4. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No ticket disappears; remain aboard at stop until seating is complete.
 
 **Dialogue:**
@@ -807,7 +807,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** The six occupy three adjacent pairs across the same two forward rows: Dan with Max front-left, Maya with Ella front-right, Nina with Leo immediately behind on right.
 **Starting continuity:** Bus still stopped; all aboard; tickets secured.
 **Ending continuity:** All six seated, clear aisle; no one standing or reserving empty seats.
-**Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 1. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Keep seat plan fixed; never move a child between adults for a close-up.
 
 **Dialogue:**
@@ -822,7 +822,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Leo places the navy bookbag upright between his feet, not in the aisle or on a spare seat. Nina keeps the zipped blue folder in her lap; Ella looks back from Maya’s row.
 **Starting continuity:** All six seated; three returns packed; umbrella strapped closed.
 **Ending continuity:** Bag secure at Leo’s feet, folder on Nina’s lap; aisle clear.
-**Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 2. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No loose umbrella tip extends into aisle; bus stationary until next shot.
 
 **Dialogue:**
@@ -837,7 +837,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** After everyone is seated, the doors close and the bus pulls away smoothly. Dan rests his hands rather than consulting the phone; Maya watches Ella settle comfortably.
 **Starting continuity:** 09:50, all six seated, door open at stop.
 **Ending continuity:** Doors closed, northbound bus moving; family seated.
-**Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 3. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No standing wave through window, no open door in motion; sign read before boarding.
 
 **Dialogue:**
@@ -852,7 +852,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Max watches buildings slide past the closed window and places his hands in his lap after pointing. Dan answers quietly, keeping his own body inside the seat.
 **Starting continuity:** Bus moving north; Max seated beside Dan, away from aisle edge.
 **Ending continuity:** Max observing calmly; no one changes seat or opens window.
-**Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 4. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No reaching outside, shouting to driver or playful interference with bus controls.
 
 **Dialogue:**
@@ -867,7 +867,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Leo opens the folded leaflet in his lap and finds the route’s next landmark, Pine Street. Nina compares it with the roadside view while Maya listens from the row ahead.
 **Starting continuity:** Bus moving; leaflet folded with Leo since crossing plan.
 **Ending continuity:** Pine Street landmark identified; leaflet stays with Leo.
-**Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 1. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Do not invent live tracking or a new device; this is the same paper leaflet.
 
 **Dialogue:**
@@ -882,7 +882,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** A clear travel dissolve compresses the northbound ride while everyone remains in the same seats. Window landmarks change from shops to the library district; no continuous fifteen-second city-length journey is claimed.
 **Starting continuity:** Departure completed at 09:50; fixed seats and packed returns.
 **Ending continuity:** Later in the ride, after Pine Street; approximately 10:03 story time.
-**Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 2. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Explicit elapsed-time transition; all tickets already used, no second bus or transfer.
 
 **Dialogue:**
@@ -897,7 +897,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Max asks Dan quietly about the stop rather than calling across the bus. Leo shows the leaflet’s library mark from his own seat, keeping his arm out of the aisle.
 **Starting continuity:** Bus approaching Oak Street, not yet stopped; all seated.
 **Ending continuity:** Family agrees to request next stop; Max reassured.
-**Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 3. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No loud chorus or direct-to-viewer lesson; driver remains unseen and undistracted.
 
 **Dialogue:**
@@ -912,7 +912,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Nina presses the reachable stop-request button once while seated. Maya sees the stop-request light and prepares Ella verbally, leaving bags where they are.
 **Starting continuity:** Next stop library; no stop request made by family.
 **Ending continuity:** Stop request registered once; all six remain seated.
-**Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 4. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No repeated button pressing, standing reach or invented alarm response.
 
 **Dialogue:**
@@ -927,7 +927,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Dan checks Max’s feet are clear of the aisle and reminds him to leave the seat only when the bus is fully stopped. Ella keeps her hands on her lap beside Maya.
 **Starting continuity:** Request registered; bus still moving toward library stop.
 **Ending continuity:** Family mentally ready; no one standing or reaching for door.
-**Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 1. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No stumble gag, moving-bus dismount or emergency stop.
 
 **Dialogue:**
@@ -942,7 +942,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Ella spots the cream-brick library and blue entrance canopy beyond the closed window. Maya confirms the destination while Nina keeps the card folder secure.
 **Starting continuity:** Bus decelerating normally, library stop ahead.
 **Ending continuity:** Library visually identified; no child rises yet.
-**Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 2. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Library architecture matches LIBRARY_FOYER windows/canopy; no wrong-building second twist.
 
 **Dialogue:**
@@ -957,7 +957,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** At 10:05 the bus comes to a complete stop at the library curb. Only after the doors open do the adults stand, Leo lift the bag and the younger children join them.
 **Starting continuity:** Bus slowing; six seated; bag at Leo’s feet.
 **Ending continuity:** Bus stationary, doors open; all six standing in orderly exit group.
-**Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 3. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Library arrival is 15 minutes after departure; no claim that film runtime equals travel clock.
 
 **Dialogue:**
@@ -972,7 +972,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Through a short alighting-time ellipsis, the adults help the children use the rail and step onto the curb beside the library. The final view sees all six together on the sidewalk through the open doorway.
 **Starting continuity:** Bus stationary at library; family at exit; no one on road.
 **Ending continuity:** All six on library-side sidewalk; bag/folder with owners; no bus reboarding.
-**Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 4. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No one crosses in front of bus; library entrance is on the same sidewalk as arrival.
 
 **Dialogue:**
@@ -986,7 +986,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** After a short sidewalk-to-door walking cut, all six enter the cream-brick library foyer quietly. The return slot is left, self-checkout center-right, reading nook by the right window.
 **Starting continuity:** 10:05 arrival complete; three old books packed; tickets used and pocketed.
 **Ending continuity:** Family inside foyer; no borrowed books yet.
-**Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 1. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Five-view location LIBRARY_FOYER includes threshold, returns, low display and reading nook; no new relative.
 
 **Dialogue:**
@@ -1001,7 +1001,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Leo sets the bag on the low counter and removes the old red, blue and yellow books. Ella keeps the yellow umbrella secured to the bag while Maya checks the covers.
 **Starting continuity:** Bag contains exactly three old return books.
 **Ending continuity:** Three returns on counter, bag empty of books; umbrella still attached.
-**Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 2. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Do not show new chosen books or duplicate return copies in bag.
 
 **Dialogue:**
@@ -1016,7 +1016,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Leo slides the red book and then the blue book into the designated return slot, pausing to let each clear. Maya holds the remaining yellow book above the counter.
 **Starting continuity:** Three old books on return counter; bag empty.
 **Ending continuity:** Red and blue returned; only yellow remains in Maya’s hand.
-**Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 3. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Two physical transfers, no throwing; Max stays supervised next to counter, not reaching into slot.
 
 **Dialogue:**
@@ -1031,7 +1031,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Maya gives Ella the yellow book; Ella slides it gently into the slot under her supervision. Nina opens the blue folder only after the return is complete.
 **Starting continuity:** Two books returned; yellow old book remains; three cards zipped.
 **Ending continuity:** All three old books returned; navy bookbag empty; blue folder opened.
-**Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 4. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Returned books never reappear in browsing or final bag.
 
 **Dialogue:**
@@ -1046,7 +1046,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** The family moves together to the small children’s display inside the foyer. Leo spots maps, Ella plants, Max a dinosaur cover; the adults let each child choose rather than grabbing for them.
 **Starting continuity:** Returns complete, empty bag with Leo, three library cards in open folder.
 **Ending continuity:** Three candidate titles identified on display, none checked out.
-**Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 1. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Shelf stock remains library property until checkout; no unseen shopping or money exchange.
 
 **Dialogue:**
@@ -1061,7 +1061,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Leo takes one atlas with a teal compass cover from the display and opens it at a world map. Dan notices Leo checks the map’s north arrow without being asked.
 **Starting continuity:** No new book selected; returns finished.
 **Ending continuity:** Leo holding one selected atlas, not yet borrowed.
-**Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 2. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** New atlas distinct from old blue return book; no extra books added.
 
 **Dialogue:**
@@ -1076,7 +1076,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Ella chooses one book about growing plants, opening to a seedling picture. Maya helps her support the cover; Leo holds his atlas closed at his side.
 **Starting continuity:** Atlas selected with Leo; no other new books selected.
 **Ending continuity:** Ella holds one plant book; two new selections total.
-**Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 3. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Only a book is a garden hint; no Episode09 planting or seed props begin here.
 
 **Dialogue:**
@@ -1091,7 +1091,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Max chooses one orange dinosaur book that fits his hands. Nina checks its cover with him; Dan gives the imagined dinosaur a tiny polite nod without introducing a toy.
 **Starting continuity:** Leo atlas and Ella plant book selected; Max empty-handed.
 **Ending continuity:** Max holding third selected new book; exact three selections complete.
-**Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 4. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No giant fruit, physical dinosaur or new library book appears for the joke.
 
 **Dialogue:**
@@ -1106,7 +1106,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Nina places the three children’s cards beside the reader; the children place the three new books in one stack. Dan and Max wait beside Maya at the same counter.
 **Starting continuity:** Three selected books, three cards; nothing borrowed yet.
 **Ending continuity:** Cards and books ready at self-checkout; old returns absent.
-**Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 1. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Fictional library permits supervised child-card self-checkout; no PIN or personal number shown.
 
 **Dialogue:**
@@ -1121,7 +1121,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Through a clear short checkout ellipsis, Nina scans each child’s card with the matching selected book once. Dan helps Max place the dinosaur book; receipt prints after all three records.
 **Starting continuity:** Three books awaiting checkout; cards on counter.
 **Ending continuity:** Atlas, plant book and dinosaur book checked out, one each; single loan receipt printed.
-**Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 2. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No cash charge or ticket reuse; checkout receipt records three loans, not three purchases.
 
 **Dialogue:**
@@ -1136,7 +1136,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Leo packs the three new books into the navy bag; Nina returns all three cards and loan receipt to the blue folder and zips it shut. Maya checks the yellow umbrella strap.
 **Starting continuity:** Exactly three new loans on counter; old books returned; cards and receipt loose.
 **Ending continuity:** Three new books in bag, cards/receipt in zipped folder, umbrella still closed outside.
-**Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 3. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No returned red/blue/yellow books reappear; six used bus tickets stay with Dan.
 
 **Dialogue:**
@@ -1151,7 +1151,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Before packing finishes for the quiet nook, Leo briefly opens his atlas, Ella her plant book and Max his dinosaur book; Maya gives them a comfortable moment to look, then each closes the book and returns it to the same bag.
 **Starting continuity:** Three new loans in bag, cards and receipt zipped; six used tickets pocketed.
 **Ending continuity:** Three new books looked at and repacked; all remain the same loans, not new copies.
-**Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 4. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** One short reading-time ellipsis; books can leave and return to bag once without duplicate inventory.
 
 **Dialogue:**
@@ -1166,7 +1166,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** The family settles in the foyer reading nook together. Dan tells Leo he confused confidence with checking; Maya credits both his preparation and his willingness to change the plan.
 **Starting continuity:** Borrowing complete; all six inside library nook, belongings secured.
 **Ending continuity:** Dan relaxed, mistake resolved; no parent blamed or mocked.
-**Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 1. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Reading nook bench arrangement is episode-specific, not canonical home table seats.
 
 **Dialogue:**
@@ -1181,7 +1181,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Maya thanks Nina for making the useful call; Nina thanks Maya for checking the crossing and destination. Dan gives each a warm nod without ranking their contributions.
 **Starting continuity:** All six settled at reading nook; no food or phones in use.
 **Ending continuity:** Adults share credit equally; children remain nearby.
-**Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 2. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Maya and Nina equally respected partners; no jealousy, competition or servant role.
 
 **Dialogue:**
@@ -1196,7 +1196,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Max remembers Ed’s request for a story. Nina suggests telling him about the fixed bus stop later; Dan quietly accepts being part of the joke. No new call starts.
 **Starting continuity:** Grandpa Ed off-screen and disconnected since shot032; library outing resolved.
 **Ending continuity:** Family chooses a story to share later; phone remains pocketed.
-**Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 3. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Do not extend Ed’s cameo or add performed voices beyond screenplay; no direct audience lesson.
 
 **Dialogue:**
@@ -1211,7 +1211,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** All six share a relaxed quiet smile beside the library window. The navy bag holds three new books; Nina holds the closed folder. Add modest ending overlay inside final two seconds only.
 **Starting continuity:** Outward journey complete; three old books returned, three new loans packed; all six together.
 **Ending continuity:** Hold family tableau through00:20:00; no return journey or new errand begins.
-**Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 4. Illustration pending: planned PNG not generated after image-service daily usage limit; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Six one-way tickets used; return tickets will be arranged separately later. Optional creator practice is outside movie.
 
 **Dialogue:**

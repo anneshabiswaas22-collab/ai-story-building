@@ -1,6 +1,6 @@
 # Episode 07 — Right Bus, Wrong Stop! | Travel English | Slow Family Comedy
 
-**80 × 15-second story shots = 20:00.** The written preproduction package follows Episodes 02 and 03: screenplay, exact matching prompts, provisional dialogue subtitles, a 20-sheet storyboard plan, the 14 unchanged original cast previews, five clean location references and editable graphics. **Ten four-panel PNG sheets currently illustrate SHOT_001–040; BOARD_11–20 (SHOT_041–080) remain ungenerated because the image service reached its daily usage limit.** Known visual corrections are also pending; read [CHECKPOINT.md](CHECKPOINT.md). Creator visual acceptance, individual motion first frames, voices and animation remain pending.
+**80 × 15-second story shots = 20:00.** The written preproduction package follows Episodes 02 and 03: screenplay, exact matching prompts, provisional dialogue subtitles, a 20-sheet storyboard plan, the 14 unchanged original cast previews, five clean location references and editable graphics. The twenty saved PNG sheets illustrate SHOT_001–080. Known visual corrections are also pending; read [CHECKPOINT.md](CHECKPOINT.md). Creator visual acceptance, individual motion first frames, voices and animation remain pending.
 
 On a later Saturday after the restaurant outing, Dan brings everyone early to the bakery-side Route 7 stop. The number and time are correct; the direction is not. Maya checks the destination, Nina makes a useful call to her father Ed, and the children help compare landmarks. The family crosses together at the signal, verifies the actual bus, and reaches the library to exchange three books. The comedy stays affectionate: the stop never moved, but Dad can change his mind.
 
@@ -10,7 +10,7 @@ On a later Saturday after the restaurant outing, Dan brings everyone early to th
 2. [VIDEO_PROMPTS.md](VIDEO_PROMPTS.md) — the same action and dialogue in single-shot motion instructions; no clips rendered.
 3. [SUBTITLES.srt](SUBTITLES.srt) — dialogue-only draft cues inside each shot; conform to accepted performances later.
 4. [CONTINUITY.md](CONTINUITY.md) — six identities, stop geography, fictional times/fares, ticket/book/container state and safe travel ledger.
-5. [STORYBOARD_INDEX.md](STORYBOARD_INDEX.md) and [STORYBOARD_GALLERY.md](STORYBOARD_GALLERY.md) — 20 sheet slots, ten actual illustrated sheets and all 80 shot briefs; [HTML gallery](assets/storyboards/index.html).
+5. [STORYBOARD_INDEX.md](STORYBOARD_INDEX.md) and [STORYBOARD_GALLERY.md](STORYBOARD_GALLERY.md) — 20 saved storyboard sheets and all 80 shot briefs; [HTML gallery](assets/storyboards/index.html).
 6. [SCENE_REFERENCE_PLAN.md](SCENE_REFERENCE_PLAN.md) — five clean views, composition targets and identity/first-frame prerequisites.
 7. [PRODUCTION_READINESS.md](PRODUCTION_READINESS.md) — the same 22-section handoff and remaining motion/audio gates used by the earlier episodes.
 

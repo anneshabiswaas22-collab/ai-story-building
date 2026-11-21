@@ -1,4 +1,6 @@
-# Image generation and visual QA report
+# Historical image-generation and visual QA report
+
+These observations describe an earlier generation batch. The [master audit](docs/AUDIT_EP01_EP10.md) records the review of currently selected sheets.
 
 ## First recoverable checkpoint
 

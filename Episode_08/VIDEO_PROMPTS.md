@@ -34,7 +34,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Characters:** RUTH, DAN, ELLA. **Location:** HOME_ENTRY. **Wardrobe:** W01 only.
 **Composition:** Medium three-quarter coverage with hands and active object visible.
 **Action:** Ruth opens the suitcase on the bench, takes out six folded empty gray packing cubes and six blank card tabs, and hands the gift stack to Ella. A closed lavender personal pouch stays inside the suitcase.
-**Starting continuity:** One blue case is open on the bench; Ruth controls her personal contents.
+**Starting continuity:** Ruth stands beside her closed blue case. The entry bench is clear for her to open it.
 **Ending continuity:** Ella holds six empty gray cubes and six blank tabs; Ruth closes the case; lavender pouch remains inside.
 **Picture:** [BOARD_01.png](assets/storyboards/BOARD_01.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth is Maya's mother; permanent cast designs remain unchanged; six family sock pairs are still at the laundry counter.
@@ -79,7 +79,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Characters:** RUTH, MAYA, DAN. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
 **Composition:** Warm eye-level medium coverage, maintaining established room axis.
 **Action:** Ruth opens her case, lifts a folded checklist from its exterior pocket and lays it on the stand beside the case. She points to the closed lavender pouch without opening it.
-**Starting continuity:** One case open on stand; lavender pouch on right; six gifted cubes still at entry bench.
+**Starting continuity:** The case is closed on the stand with the lavender pouch inside. Six gifted cubes remain at the entry bench.
 **Ending continuity:** Checklist flat beside the open case; lavender pouch remains closed and untouched.
 **Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth is Maya's mother; permanent cast designs remain unchanged; six family sock pairs are still at the laundry counter.
@@ -906,7 +906,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Maya lifts the empty clean basket onto the open counter end, away from the doorway. Dan checks the dry clear floor.
 **Starting continuity:** All socks stored; clean basket empty on sorting counter.
 **Ending continuity:** Empty basket at counter end; six cubbies filled; walking route clear and appliances unused.
-**Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 1. Planned illustration; PNG generation blocked by daily image quota. Creator approval and individual motion first frame pending.
+**Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Dialogue:**
@@ -920,7 +920,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Max points to his labeled bottom-right cube and Ella points to hers in the middle. Leo points to his bottom-left cube; nobody takes a pair out.
 **Starting continuity:** Six labeled cubes in fixed cubbies; children at reachable floor level.
 **Ending continuity:** All six cubes remain stored; three children can identify their own locations.
-**Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 2. Planned illustration; PNG generation blocked by daily image quota. Creator approval and individual motion first frame pending.
+**Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Dialogue:**
@@ -935,7 +935,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** After an explicit hallway transition, Maya brings one folded clean guest towel from the hall linen cupboard; Nina stands beside the closed dresser.
 **Starting continuity:** Case zipped on stand with Ruth's lavender pouch; bed made; top drawer empty.
 **Ending continuity:** Maya holds one clean towel; Nina has not opened Ruth's pouch or suitcase.
-**Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 3. Planned illustration; PNG generation blocked by daily image quota. Creator approval and individual motion first frame pending.
+**Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Dialogue:**
@@ -950,7 +950,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Dan arrives without sock cubes and points to the top dresser drawer. Maya confirms its agreed guest use before Nina opens it.
 **Starting continuity:** One clean towel in Maya's hands; top drawer closed and empty.
 **Ending continuity:** Nina has opened only the empty top drawer; case untouched on stand.
-**Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 4. Planned illustration; PNG generation blocked by daily image quota. Creator approval and individual motion first frame pending.
+**Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Dialogue:**
@@ -965,7 +965,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Nina places the folded towel into the empty top drawer, then closes it gently. Maya keeps the clear floor route unobstructed.
 **Starting continuity:** Top drawer open empty; Maya holds towel; suitcase remains zipped.
 **Ending continuity:** One towel inside closed top drawer; no socks or cubes in guest room.
-**Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 1. Planned illustration; PNG generation blocked by daily image quota. Creator approval and individual motion first frame pending.
+**Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Dialogue:**
@@ -980,7 +980,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Ella smooths the sage throw already on the bed without lifting the quilt or moving the pillow. Dan resists reorganizing the room further.
 **Starting continuity:** Bed has original pillow, cream quilt and sage throw; towel in closed drawer; case closed.
 **Ending continuity:** Sage throw smooth on bed; all bedding remains in original places.
-**Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 2. Planned illustration; PNG generation blocked by daily image quota. Creator approval and individual motion first frame pending.
+**Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Dialogue:**
@@ -995,7 +995,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Nina points to the empty hanger on the outside wardrobe hook and explains it is ready for Ruth's later use. No one opens the wardrobe.
 **Starting continuity:** Wardrobe closed; one empty household hanger on outer hook; no guest clothes exposed.
 **Ending continuity:** Hanger stays empty on hook; wardrobe, drawer and case closed.
-**Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 3. Planned illustration; PNG generation blocked by daily image quota. Creator approval and individual motion first frame pending.
+**Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Dialogue:**
@@ -1010,7 +1010,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Leo brings the borrowed checklist to the guest-room doorway after reviewing the completed sorting sheet. Maya chooses to leave their family record in the kitchen; Ruth's original checklist is returned beside her case.
 **Starting continuity:** Leo holds borrowed Ruth checklist and family record; case closed on stand.
 **Ending continuity:** Ruth checklist back beside case; Dan holds only new family sorting sheet for the kitchen.
-**Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 4. Planned illustration; PNG generation blocked by daily image quota. Creator approval and individual motion first frame pending.
+**Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Dialogue:**
@@ -1025,7 +1025,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** After the hall transition, Nina and Maya supervise handwashing and drying at the original sink, shown with a short time ellipsis. Dan leaves the family record on the dry island.
 **Starting continuity:** Sorting finished; no food preparation; original kitchen stove OFF and island clear except family record.
 **Ending continuity:** All six have washed and dried hands off and on camera; no socks or cubes enter kitchen.
-**Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 1. Planned illustration; PNG generation blocked by daily image quota. Creator approval and individual motion first frame pending.
+**Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Dialogue:**
@@ -1040,7 +1040,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Maya thanks Nina for the owner-by-owner method. Nina credits Maya's clear shelf plan. Dan listens between them at the island.
 **Starting continuity:** Six labeled cubes remain in laundry nook; guest room tidy; family record dry on island.
 **Ending continuity:** Both women share credit; no objects transferred or new household task begun.
-**Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 2. Planned illustration; PNG generation blocked by daily image quota. Creator approval and individual motion first frame pending.
+**Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Dialogue:**
@@ -1055,7 +1055,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Dan admits he wanted the room to look ready before Ruth noticed any work. The children reassure him without mocking his mistake.
 **Starting continuity:** Family record on island; Dan's hands empty; no clothing in kitchen.
 **Ending continuity:** Dan accepts asking first as part of helping; Leo lifts family record for dining room.
-**Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 3. Planned illustration; PNG generation blocked by daily image quota. Creator approval and individual motion first frame pending.
+**Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Dialogue:**
@@ -1070,7 +1070,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Max points down the hall toward the laundry nook while Dan holds his palms apart to show the socks' short accidental journey. Leo carries family record toward the table.
 **Starting continuity:** Socks stored in laundry nook; closed guest suitcase contains no family cubes.
 **Ending continuity:** Max heads toward dining doorway beside Nina; kitchen remains clear and stove OFF.
-**Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 4. Planned illustration; PNG generation blocked by daily image quota. Creator approval and individual motion first frame pending.
+**Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Dialogue:**
@@ -1085,7 +1085,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** All six settle at the established table for a quiet conversation, not a new meal. Leo puts the family sorting record near the near-left edge for Dan.
 **Starting continuity:** Table cleared of meal dishes; no food served; canonical six chairs ready.
 **Ending continuity:** Dan near-left, Leo left-end, Ella far-left, Maya far-right, Nina right-end, Max near-right; record by Dan.
-**Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 1. Planned illustration; PNG generation blocked by daily image quota. Creator approval and individual motion first frame pending.
+**Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Dialogue:**
@@ -1100,7 +1100,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** In seated coverage, Leo asks about Ruth's old necktie story; Dan explains that asking for help solved that mistake too. No flashback or Ruth voice is added.
 **Starting continuity:** All six remain in fixed seats; family record on table; no socks on table.
 **Ending continuity:** Dan and children smile; old anecdote ends without introducing a new object.
-**Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 2. Planned illustration; PNG generation blocked by daily image quota. Creator approval and individual motion first frame pending.
+**Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Dialogue:**
@@ -1115,7 +1115,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Ella explains why she asked each owner instead of trusting colors alone. Both women affirm her practical respect for personal belongings.
 **Starting continuity:** Fixed seating; record by Dan; all sock cubes stored offscreen.
 **Ending continuity:** Ella understands names follow confirmed ownership; nothing is borrowed without asking.
-**Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 3. Planned illustration; PNG generation blocked by daily image quota. Creator approval and individual motion first frame pending.
+**Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Dialogue:**
@@ -1130,7 +1130,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Leo describes the two-row shelf from the shared doorway viewpoint. Max checks his bottom-right position aloud without leaving his seat.
 **Starting continuity:** Canonical seats unchanged; shelf remains offscreen with six cubes.
 **Ending continuity:** Family can describe location clearly; no repeated physical sorting or cube removal.
-**Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 4. Planned illustration; PNG generation blocked by daily image quota. Creator approval and individual motion first frame pending.
+**Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Dialogue:**
@@ -1145,7 +1145,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Nina mentions a later garden afternoon; Maya agrees it can wait until after Ruth's rest. Max imagines labels for pots without starting the next episode.
 **Starting continuity:** Quiet conversation only; no gardening tools or plants newly introduced.
 **Ending continuity:** Future garden idea remains only a spoken plan; present sock story resolved.
-**Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 1. Planned illustration; PNG generation blocked by daily image quota. Creator approval and individual motion first frame pending.
+**Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Dialogue:**
@@ -1160,7 +1160,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Max jokes about whether Ruth needs a name tab. Maya smiles and reminds him people introduce themselves; Dan keeps the record on the table.
 **Starting continuity:** Ruth remains offscreen; no blank tabs or stickers at table.
 **Ending continuity:** Family laughs gently; nobody labels a person or invents a second Ruth.
-**Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 2. Planned illustration; PNG generation blocked by daily image quota. Creator approval and individual motion first frame pending.
+**Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Dialogue:**
@@ -1175,7 +1175,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Dan folds the completed family sorting record and places it beside the table's near-left edge for later filing, ending the job rather than packing again.
 **Starting continuity:** Family record flat by Dan; all six seated in fixed places.
 **Ending continuity:** Record folded on table; all family socks stored at home; Ruth's belongings untouched.
-**Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 3. Planned illustration; PNG generation blocked by daily image quota. Creator approval and individual motion first frame pending.
+**Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Dialogue:**
@@ -1190,7 +1190,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Hold the warm six-person tableau. Dan sets both empty hands on the table; everyone smiles toward the family, not an audience lesson. Add closing artwork within the existing slot.
 **Starting continuity:** All six in fixed seats; folded family record near Dan; no food or laundry on table.
 **Ending continuity:** Story ends at20:00 with sorting resolved, guest resting offscreen and no new action begun.
-**Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 4. Planned illustration; PNG generation blocked by daily image quota. Creator approval and individual motion first frame pending.
+**Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Dialogue:**

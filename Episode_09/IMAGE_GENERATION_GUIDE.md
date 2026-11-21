@@ -2,9 +2,9 @@
 
 **Can Dad Grow Money? | Garden English | Funny Learning Story.** These copy-ready prompts are for any image tool that accepts text and reference images. They do not depend on this cloud computer or a particular provider API.
 
-Current saved sheets: **16/20**. Missing: BOARD_12, BOARD_16, BOARD_19, BOARD_20.
+Current saved sheets: **20/20**. Missing: none; documented visual corrections still require attention.
 
-Complete missing sheets and apply documented corrections using the original references. Read [CHECKPOINT.md](CHECKPOINT.md), [storyboard notes](assets/storyboards/GENERATION_NOTES.md), [continuity](CONTINUITY.md) and [scene plan](SCENE_REFERENCE_PLAN.md). Passing file checks does not approve faces, rendered counts or geography.
+Verify any proposed correction against the current sheet, screenplay and original references. Read [CHECKPOINT.md](CHECKPOINT.md), [storyboard notes](assets/storyboards/GENERATION_NOTES.md), [continuity](CONTINUITY.md) and [scene plan](SCENE_REFERENCE_PLAN.md). Passing file checks does not approve faces, rendered counts or geography.
 
 ## How to use this guide
 
@@ -931,7 +931,7 @@ FINAL CHECK: exactly four panels in 2×2 order; exact visible subsets, no redesi
 
 ### BOARD_12.png — shots 045–048
 
-**Status:** Missing; generate this sheet.
+**Status:** Existing draft; inspect and apply documented corrections.
 
 **Reference uploads:** adult/child lineups above, plus:
 - [POTTING_BENCH](assets/environments/POTTING_BENCH.png)
@@ -1225,7 +1225,7 @@ FINAL CHECK: exactly four panels in 2×2 order; exact visible subsets, no redesi
 
 ### BOARD_16.png — shots 061–064
 
-**Status:** Missing; generate this sheet.
+**Status:** Existing draft; inspect and apply documented corrections.
 
 **Reference uploads:** adult/child lineups above, plus:
 - [GARDEN_POTS](assets/environments/GARDEN_POTS.png)
@@ -1449,7 +1449,7 @@ FINAL CHECK: exactly four panels in 2×2 order; exact visible subsets, no redesi
 
 ### BOARD_19.png — shots 073–076
 
-**Status:** Missing; generate this sheet.
+**Status:** Existing draft; inspect and apply documented corrections.
 
 **Reference uploads:** adult/child lineups above, plus:
 - [GARDEN_POTS](assets/environments/GARDEN_POTS.png)
@@ -1523,7 +1523,7 @@ FINAL CHECK: exactly four panels in 2×2 order; exact visible subsets, no redesi
 
 ### BOARD_20.png — shots 077–080
 
-**Status:** Missing; generate this sheet.
+**Status:** Existing draft; inspect and apply documented corrections.
 
 **Reference uploads:** adult/child lineups above, plus:
 - [GARDEN_POTS](assets/environments/GARDEN_POTS.png)

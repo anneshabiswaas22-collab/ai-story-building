@@ -33,7 +33,7 @@ The image tool returned HTTP429 `usage_limit_reached` during requests for sheets
 Major pending fixes are explicit, not claimed approved: BOARD05/017 invented suitcase in laundry; BOARD06/023 missing lavenderpouch from case; BOARD07 depicts rigidboxes instead of zipped fabriccubes; BOARD08/032 shoes instead of green-heeled socks and an extra cube; BOARD09/036 duplicates coralpair; BOARD11/041 and044 mismatches activecube/name-tab positions; BOARD13/049 and052 exposes extra/reappearing socks; BOARD15/057–058 changes cubby geography/state. [PENDING_ART.md](PENDING_ART.md) supplies exact resume targets. Earlier successful02/03 targeted corrections are recorded above. At the earlier checkpoint all15 saved sheets were visually inspected; passing PNG checks only establishes file integrity, not visual continuity acceptance.
 
 
-## Task 2 batch — 2026-11-16
+## Historical Task 2 batch — 2026-11-16
 
 Fresh branch `codex/next-10-storyboards` started at main `0804694d972df82e19b03eb4408b18f7284c3b0b` (173/200 active sheets). Every requested path was checked missing against freshly fetched main before its generation. Each image was separately committed, pushed, fetched back, and its remote commit/blob verified before requesting the next image. This batch adds exactly ten sheets overall, bringing the repository to 183/200; no earlier PNG was changed.
 

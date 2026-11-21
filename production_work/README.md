@@ -2,7 +2,7 @@
 
 This directory preserves every saved generated PNG from this work, including superseded/rejected attempts. Selected assets remain in each episode; do not treat all source attempts as approved artwork. The current scripts and metadata are authoritative. Archived helper scripts may contain earlier draft assumptions or absolute cloud paths; review/adapt before running. No secret values or credentials are included.
 
-Use [the top-level handoff](../IMAGE_GENERATION_HANDOFF.md), [current checkpoint](../WORK_CHECKPOINT.md) and [validation report](../VALIDATION_REPORT.md). This task is isolated; no Git worktree is needed unless requested. Original identity/home masters remain owner-controlled; voices/video are separate work.
+Use [the top-level handoff](../IMAGE_GENERATION_HANDOFF.md), [current production status](../CURRENT_PRODUCTION_STATUS.md) and [historical validation report](../VALIDATION_REPORT.md). This task is isolated; no Git worktree is needed unless requested. Original identity/home masters remain owner-controlled; voices/video are separate work.
 
 |Selected asset|Preserved source filename(s)|SHA256|
 |---|---|---|

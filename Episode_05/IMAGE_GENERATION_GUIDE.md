@@ -2,9 +2,9 @@
 
 **The Picnic Is on the WRONG Bench! | Park English | Family Adventure.** These copy-ready prompts are for any image tool that accepts text and reference images. They do not depend on this cloud computer or a particular provider API.
 
-Current saved sheets: **18/20**. Missing: BOARD_18, BOARD_19.
+Current saved sheets: **20/20**. Missing: none; documented visual corrections still require attention.
 
-Complete missing sheets and apply documented corrections using the original references. Read [CHECKPOINT.md](CHECKPOINT.md), [storyboard notes](assets/storyboards/GENERATION_NOTES.md), [continuity](CONTINUITY.md) and [scene plan](SCENE_REFERENCE_PLAN.md). Passing file checks does not approve faces, rendered counts or geography.
+Verify any proposed correction against the current sheet, screenplay and original references. Read [CHECKPOINT.md](CHECKPOINT.md), [storyboard notes](assets/storyboards/GENERATION_NOTES.md), [continuity](CONTINUITY.md) and [scene plan](SCENE_REFERENCE_PLAN.md). Passing file checks does not approve faces, rendered counts or geography.
 
 ## How to use this guide
 
@@ -223,9 +223,9 @@ Visible actors ONLY: DAN, MAYA, NINA, LEO, ELLA, MAX.
 Offscreen cast (NEVER show a face): none.
 Location: HOME_KITCHEN; use uploaded HOME_KITCHEN.jpg reference.
 Camera: Wide toward exit, all six spaced naturally.
-Action to represent in ONE frozen moment: Maya checks the children are ready. Nina lifts the cooler; Dan waits with basket while all three children join the adults. They leave at a walking pace.
+Action to represent in ONE frozen moment: Maya checks the children are ready. Nina lifts the cooler; Dan waits with basket while all three children join the adults. They walk together toward the home exit.
 Physical starting state: Kitchen unchanged; cooler sealed; Maya rolled blanket, Dan basket and pocketed map.
-Physical end state: All six depart together with one basket, one cooler, one blanket.
+Physical end state: All six reach the home exit together with one basket, one cooler and one blanket.
 Continuity constraints: Travel cut follows; no child sent ahead alone and no extra relatives.
 
 PANEL 4 — BOTTOM RIGHT — label SHOT_008
@@ -705,7 +705,7 @@ Offscreen cast (NEVER show a face): none.
 Location: PARK_FOUNTAIN; use uploaded PARK_FOUNTAIN.png reference.
 Camera: Low wide of three taking east branch; oak visible ahead.
 Action to represent in ONE frozen moment: Dan folds and pockets map, then steps onto the RIGHT branch with both boys beside him. Leo gestures toward the big oak; Max checks the statue is now behind them to the left.
-Physical starting state: Map north-up held; trio oriented north at fountain.
+Physical starting state: Dan holds the map north-up. The trio faces the east branch they identified on their right while facing north.
 Physical end state: All three follow correct east branch at walking pace.
 Continuity constraints: One clear right turn, not repeated left/right reversal across edits.
 
@@ -1250,7 +1250,7 @@ FINAL CHECK: exactly four panels in 2×2 order; exact visible subsets, no redesi
 
 ### BOARD_18.png — shots 069–072
 
-**Status:** Missing; generate this sheet.
+**Status:** Existing draft; inspect and apply documented corrections.
 
 **Reference uploads:** adult/child lineups above, plus:
 - [PARK_OAK_PICNIC](assets/environments/PARK_OAK_PICNIC.png)
@@ -1318,7 +1318,7 @@ FINAL CHECK: exactly four panels in 2×2 order; exact visible subsets, no redesi
 
 ### BOARD_19.png — shots 073–076
 
-**Status:** Missing; generate this sheet.
+**Status:** Existing draft; inspect and apply documented corrections.
 
 **Reference uploads:** adult/child lineups above, plus:
 - [PARK_FOUNTAIN](assets/environments/PARK_FOUNTAIN.png)

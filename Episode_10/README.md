@@ -4,9 +4,9 @@
 
 The package follows Episodes 02/03: [screenplay](STORY.md), [matching video prompts](VIDEO_PROMPTS.md), [dialogue-only provisional subtitles](SUBTITLES.srt), [continuity](CONTINUITY.md), [80-shot/20-sheet index](STORYBOARD_INDEX.md), [Markdown gallery](STORYBOARD_GALLERY.md), [HTML gallery](assets/storyboards/index.html), [scene plan](SCENE_REFERENCE_PLAN.md) and [22-section readiness](PRODUCTION_READINESS.md).
 
-**Image handoff:** [Copy-ready prompts for any image tool](IMAGE_GENERATION_GUIDE.md). Currently 11/20 sheets are saved; nine remain missing and known corrections are in [CHECKPOINT.md](CHECKPOINT.md).
+**Image handoff:** [Copy-ready prompts for any image tool](IMAGE_GENERATION_GUIDE.md). All 20 sheets are saved. See the correction history in [CHECKPOINT.md](CHECKPOINT.md).
 
-Assets comprise 14 unchanged original cast previews, five clean locations, 11 actual four-panel PNGs toward the 20-sheet target, the same provisional Rose reference as Episode 04, six editable [SVG overlays](assets/overlays/) and the unchanged [table diagram](assets/HOME_TABLE_seating.svg). Read the [environment provenance](assets/environments/GENERATION_NOTES.md) and [storyboard provenance](assets/storyboards/GENERATION_NOTES.md).
+Assets comprise 14 unchanged original cast previews, five clean locations, 20 storyboard PNGs, the same provisional Rose reference as Episode 04, six editable [SVG overlays](assets/overlays/) and the unchanged [table diagram](assets/HOME_TABLE_seating.svg). Read the [environment provenance](assets/environments/GENERATION_NOTES.md) and [storyboard provenance](assets/storyboards/GENERATION_NOTES.md).
 
 Rose appears only 004–007 for 60 seconds and leaves. Ed, Nina's father, is an unseen audio caller 073–074 for 30 seconds. The neighbor is offscreen/hands-only 053–056. No seventh permanent family member or new main-cast face is introduced. Rose's new design remains provisional, pending creator acceptance.
 

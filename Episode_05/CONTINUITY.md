@@ -71,4 +71,4 @@ Use [position diagram](assets/PICNIC_positions.svg): Dan near-left, Leo left-end
 
 ## Closing and production state
 
-At20:00 all six are at home, lunch eaten, bottles/plates/waste accounted for, clean equipment stowed and map stored dry north-up. Brief restaurant hint does not begin Episode06. The package is written/illustrated preproduction, with eighteen of twenty four-panel studies (BOARD_18/19 missing); creator acceptance, precise per-panel fixes, eighty individual motion first frames, voices and animation remain pending. Restore original masters and obtain separate Task5 authorization before motion/audio work.
+At20:00 all six are at home, lunch eaten, bottles/plates/waste accounted for, clean equipment stowed and map stored dry north-up. Brief restaurant hint does not begin Episode06. The package is written/illustrated preproduction, with twenty storyboard studies; creator acceptance, precise per-panel fixes, eighty individual motion first frames, voices and animation remain pending. Restore original masters and obtain separate Task5 authorization before motion/audio work.

@@ -4,9 +4,9 @@
 
 [Complete screenplay](STORY.md) · [Matching video prompts](VIDEO_PROMPTS.md) · [Dialogue SRT](SUBTITLES.srt) · [Continuity](CONTINUITY.md) · [Shot index](STORYBOARD_INDEX.md) · [Storyboard gallery](STORYBOARD_GALLERY.md) · [HTML gallery](assets/storyboards/index.html)
 
-**Visual completion is blocked:** sheets 16–20 are missing and several saved draft panels need the corrections recorded in [CHECKPOINT.md](CHECKPOINT.md). The image tool returned its daily usage limit; no missing art has been fabricated or relabeled.
+All 20 storyboard sheets are saved. See the [checkpoint](CHECKPOINT.md) for the visual correction history.
 
-Read [SCENE_REFERENCE_PLAN.md](SCENE_REFERENCE_PLAN.md) and [22-section production readiness](PRODUCTION_READINESS.md). The local assets include [14 unchanged permanent-cast JPGs](assets/characters/), [five clean location references](assets/environments/), [Ruth's provisional cameo reference](assets/supporting/RUTH_reference.png), [15 saved four-panel sheets out of 20 planned](assets/storyboards/) and [editable graphics](assets/overlays/). New still art uses actual supplied cast/home references; provenance and per-sheet review limits are in [storyboard notes](assets/storyboards/GENERATION_NOTES.md) and [environment notes](assets/environments/GENERATION_NOTES.md).
+Read [SCENE_REFERENCE_PLAN.md](SCENE_REFERENCE_PLAN.md) and [22-section production readiness](PRODUCTION_READINESS.md). The local assets include [14 unchanged permanent-cast JPGs](assets/characters/), [five clean location references](assets/environments/), [Ruth's provisional cameo reference](assets/supporting/RUTH_reference.png), [20 saved storyboard sheets](assets/storyboards/) and [editable graphics](assets/overlays/). New still art uses actual supplied cast/home references; provenance and per-sheet review limits are in [storyboard notes](assets/storyboards/GENERATION_NOTES.md) and [environment notes](assets/environments/GENERATION_NOTES.md).
 
 The full movie is story-only, with affectionate family comedy and natural General American dialogue. Optional creator-designed practice belongs after 20:00; no narrator drills, quizzes or viewer-repeat pauses are inserted. Ruth appears in shots 001–008 only, then rests offscreen. Both Maya and Nina contribute equally; children help rather than ridicule Dan.
 

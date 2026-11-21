@@ -1179,7 +1179,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Characters:** DAN, MAYA, NINA, LEO, ELLA, MAX. **Location:** RESTAURANT_ENTRANCE. **Wardrobe:** W01 only.
 **Composition:** Wide at original rear-left door, all six grouped off aisle.
 **Action:** Dan rejoins the table through a short return dissolve; all six stand and walk together to the original entrance. Nina carries the single closed takeout box level.
-**Starting continuity:** Payment settled; five waiting diners and Dan reunited; box with Nina.
+**Starting continuity:** Payment settled; Dan turns from the counter toward the five waiting diners. Nina holds the box.
 **Ending continuity:** All six at entrance together; no belongings left at table.
 **Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. No extra transaction: $80 - $63.80 = $16.20 change; less $10 tip leaves $6.20.

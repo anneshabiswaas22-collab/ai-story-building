@@ -2,9 +2,9 @@
 
 **Grandma's Suitcase Has Everyone's Socks! | Home English | Family Story.** These copy-ready prompts are for any image tool that accepts text and reference images. They do not depend on this cloud computer or a particular provider API.
 
-Current saved sheets: **15/20**. Missing: BOARD_16, BOARD_17, BOARD_18, BOARD_19, BOARD_20.
+Current saved sheets: **20/20**. Missing: none; documented visual corrections still require attention.
 
-Complete missing sheets and apply documented corrections using the original references. Read [CHECKPOINT.md](CHECKPOINT.md), [storyboard notes](assets/storyboards/GENERATION_NOTES.md), [continuity](CONTINUITY.md) and [scene plan](SCENE_REFERENCE_PLAN.md). Passing file checks does not approve faces, rendered counts or geography.
+Verify any proposed correction against the current sheet, screenplay and original references. Read [CHECKPOINT.md](CHECKPOINT.md), [storyboard notes](assets/storyboards/GENERATION_NOTES.md), [continuity](CONTINUITY.md) and [scene plan](SCENE_REFERENCE_PLAN.md). Passing file checks does not approve faces, rendered counts or geography.
 
 ## How to use this guide
 
@@ -137,7 +137,7 @@ Offscreen cast (NEVER show a face): none.
 Location: HOME_ENTRY; use uploaded HOME_ENTRY.png reference.
 Camera: Medium three-quarter coverage with hands and active object visible.
 Action to represent in ONE frozen moment: Ruth opens the suitcase on the bench, takes out six folded empty gray packing cubes and six blank card tabs, and hands the gift stack to Ella. A closed lavender personal pouch stays inside the suitcase.
-Physical starting state: One blue case is open on the bench; Ruth controls her personal contents.
+Physical starting state: Ruth stands beside her closed blue case. The entry bench is clear for her to open it.
 Physical end state: Ella holds six empty gray cubes and six blank tabs; Ruth closes the case; lavender pouch remains inside.
 Continuity constraints: Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth is Maya's mother; permanent cast designs remain unchanged; six family sock pairs are still at the laundry counter.
 
@@ -197,7 +197,7 @@ Offscreen cast (NEVER show a face): none.
 Location: GUEST_ROOM; use uploaded GUEST_ROOM.png reference.
 Camera: Warm eye-level medium coverage, maintaining established room axis.
 Action to represent in ONE frozen moment: Ruth opens her case, lifts a folded checklist from its exterior pocket and lays it on the stand beside the case. She points to the closed lavender pouch without opening it.
-Physical starting state: One case open on stand; lavender pouch on right; six gifted cubes still at entry bench.
+Physical starting state: The case is closed on the stand with the lavender pouch inside. Six gifted cubes remain at the entry bench.
 Physical end state: Checklist flat beside the open case; lavender pouch remains closed and untouched.
 Continuity constraints: Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth is Maya's mother; permanent cast designs remain unchanged; six family sock pairs are still at the laundry counter.
 
@@ -1123,7 +1123,7 @@ FINAL CHECK: exactly four panels in 2×2 order; exact visible subsets, no redesi
 
 ### BOARD_16.png — shots 061–064
 
-**Status:** Missing; generate this sheet.
+**Status:** Existing draft; inspect and apply documented corrections.
 
 **Reference uploads:** adult/child lineups above, plus:
 - [LAUNDRY_NOOK](assets/environments/LAUNDRY_NOOK.png)
@@ -1192,7 +1192,7 @@ FINAL CHECK: exactly four panels in 2×2 order; exact visible subsets, no redesi
 
 ### BOARD_17.png — shots 065–068
 
-**Status:** Missing; generate this sheet.
+**Status:** Existing draft; inspect and apply documented corrections.
 
 **Reference uploads:** adult/child lineups above, plus:
 - [GUEST_ROOM](assets/environments/GUEST_ROOM.png)
@@ -1260,7 +1260,7 @@ FINAL CHECK: exactly four panels in 2×2 order; exact visible subsets, no redesi
 
 ### BOARD_18.png — shots 069–072
 
-**Status:** Missing; generate this sheet.
+**Status:** Existing draft; inspect and apply documented corrections.
 
 **Reference uploads:** adult/child lineups above, plus:
 - [HOME_KITCHEN](assets/environments/HOME_KITCHEN.jpg)
@@ -1328,7 +1328,7 @@ FINAL CHECK: exactly four panels in 2×2 order; exact visible subsets, no redesi
 
 ### BOARD_19.png — shots 073–076
 
-**Status:** Missing; generate this sheet.
+**Status:** Existing draft; inspect and apply documented corrections.
 
 **Reference uploads:** adult/child lineups above, plus:
 - [HOME_TABLE](assets/environments/HOME_TABLE.jpg)
@@ -1396,7 +1396,7 @@ FINAL CHECK: exactly four panels in 2×2 order; exact visible subsets, no redesi
 
 ### BOARD_20.png — shots 077–080
 
-**Status:** Missing; generate this sheet.
+**Status:** Existing draft; inspect and apply documented corrections.
 
 **Reference uploads:** adult/child lineups above, plus:
 - [HOME_TABLE](assets/environments/HOME_TABLE.jpg)

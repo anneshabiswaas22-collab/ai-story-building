@@ -1,6 +1,6 @@
 # Episode 05 — twenty-two-section production plan and readiness
 
-**Current stage:** written preproduction draft:80×15seconds=20:00, eighteen of twenty four-panel storyboard sheets, fourteen unchanged cast JPGs, five clean environment previews, exact SVG artwork, matching prompts/subtitles and passing written-source validation. Full asset validation is blocked by missing BOARD_18/19; factual visual corrections also remain. See [checkpoint](CHECKPOINT.md). Creator editorial/visual acceptance, eighty individual motion first frames, voices, animatic and video remain pending.
+**Current stage:** written preproduction draft:80×15seconds=20:00, twenty storyboard sheets, fourteen unchanged cast JPGs, five clean environment previews, exact SVG artwork, matching prompts/subtitles and passing written-source validation. Visual corrections remain pending. See [checkpoint](CHECKPOINT.md). Creator editorial/visual acceptance, eighty individual motion first frames, voices, animatic and video remain pending.
 
 Section names follow the [original guide retained in Episode01](../Episode_01/PRODUCTION_READINESS.md). They are not the creator's Tasks1–6. See [story](STORY.md), [continuity](CONTINUITY.md), [shot index](STORYBOARD_INDEX.md), [gallery](STORYBOARD_GALLERY.md), [scene plan](SCENE_REFERENCE_PLAN.md), [environment notes](assets/environments/GENERATION_NOTES.md) and [storyboard notes](assets/storyboards/GENERATION_NOTES.md).
 
@@ -15,7 +15,7 @@ Section names follow the [original guide retained in Episode01](../Episode_01/PR
 | 07 | **FLOW SETUP** | No production account, reusable voice, signed-in service or automated motion job established. No capability or cost invented. |
 | 08 | **WORLD DESIGN** | Scene-reference plan locks south gate, fountain, west squirrel bench, east oak bench and railed pond; camera changes never rotate geography. |
 | 09 | **FILM CONTINUITY** | Continuity locks two adult-led visible groups, map inversion013–023/north-up024 onward, one basket/cooler/blanket and six-person inventory. |
-| 10 | **PLANNING THE EDIT** | Eighteen actual four-panel PNG studies map001–068 and077–080;069–076 missing; timed animatic and individual camera-specific motion first frames remain pending. |
+| 10 | **PLANNING THE EDIT** | Twenty storyboard sheets cover SHOT_001–080; timed animatic and individual camera-specific motion first frames remain pending. |
 | 11 | **GENERATION METHOD** | Eighty video prompts mirror screenplay action, start/end states and exact dialogue. Fifteen-second editorial slot does not guarantee single-generation duration. |
 | 12 | **PROMPT RECIPES** | Source schema and shared synchronizer retain cast, location, camera, action, opening/end, picture, continuity and dialogue; exact SVG text separate. |
 | 13 | **WORKED SCENE** | Proposed pilot013–016 tests inverted map, wrong branch and safe adult/boys group. Separate correction/reunion pilot023–024/036–039 tests landmarks and full cast; no pilot rendered. |

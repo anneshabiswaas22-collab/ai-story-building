@@ -13,7 +13,7 @@ W01,original faces,brown eyes,skin tones and distinct age/body ratios remain tar
 Exact numerals and text come from separate SVG overlays. Generated lettering in a study is provisional; replace it editorially before production. Inspect each panel against [continuity](../../CONTINUITY.md) for red/east versus blue/west stop placement,correct traffic phases,stationary boarding,closed doors in motion,six fixed seats,ticket/book counts and container ownership. Partly occluded props and cropped actors may not establish exact counts or anatomy. A four-panel study is not an accepted single-shot motion first frame,performed voice,animatic or finished film. Creator visual approval remains pending.
 
 
-## Task 2 batch — 2026-11-16
+## Historical Task 2 batch — 2026-11-16
 
 Fresh branch `codex/next-10-storyboards` started at main `0804694d972df82e19b03eb4408b18f7284c3b0b` (173/200 active sheets). Every requested path was checked missing against freshly fetched main before its generation. Each image was separately committed, pushed, fetched back, and its remote commit/blob verified before requesting the next image. This batch adds exactly ten sheets overall, bringing the repository to 183/200; no earlier PNG was changed.
 

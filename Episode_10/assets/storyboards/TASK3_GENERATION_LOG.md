@@ -1,4 +1,4 @@
-# Task 3 — image generation and push record
+# Historical batch record — Task 3 — image generation and push record
 
 Branch `codex/next-12-storyboards` starts at `07ea5833a3d3ee5bb54a93b67d14c3477105f595`, preserving the previous ten-image batch. No pre-existing artwork is overwritten.
 

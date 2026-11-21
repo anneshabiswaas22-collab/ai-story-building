@@ -2,9 +2,9 @@
 
 **The Party Cake Went to the Wrong House!.** These copy-ready prompts are for any image tool that accepts text and reference images. They do not depend on this cloud computer or a particular provider API.
 
-Current saved sheets: **11/20**. Missing: BOARD_11, BOARD_12, BOARD_13, BOARD_15, BOARD_16, BOARD_17, BOARD_18, BOARD_19, BOARD_20.
+Current saved sheets: **20/20**. Missing: none; documented visual corrections still require attention.
 
-Complete missing sheets and apply documented corrections using the original references. Read [CHECKPOINT.md](CHECKPOINT.md), [storyboard notes](assets/storyboards/GENERATION_NOTES.md), [continuity](CONTINUITY.md) and [scene plan](SCENE_REFERENCE_PLAN.md). Passing file checks does not approve faces, rendered counts or geography.
+Verify any proposed correction against the current sheet, screenplay and original references. Read [CHECKPOINT.md](CHECKPOINT.md), [storyboard notes](assets/storyboards/GENERATION_NOTES.md), [continuity](CONTINUITY.md) and [scene plan](SCENE_REFERENCE_PLAN.md). Passing file checks does not approve faces, rendered counts or geography.
 
 ## How to use this guide
 
@@ -153,7 +153,7 @@ Visible actors ONLY: LEO, ELLA, MAX.
 Offscreen cast (NEVER show a face): none.
 Location: HOME_TABLE; use uploaded HOME_TABLE.jpg reference.
 Camera: Over-shoulder medium with the active prop visible and other actors distinct.
-Action to represent in ONE frozen moment: Leo counts six empty plates at their fixed places. Ella lays six forks. Max tests the comfortable space beside Nina’s chair without moving it.
+Action to represent in ONE frozen moment: Leo sets six empty plates at their fixed places and counts them. Ella lays six forks. Max tests the comfortable space beside Nina’s chair without moving it.
 Physical starting state: Bare canonical six-chair table; clean plates and forks in Leo and Ella’s hands.
 Physical end state: Six empty plates and six forks in fixed seats; no cake or food.
 Continuity constraints: Fixed seats:Dan near-left,Leo left-end,Ella far-left,Maya far-right,Nina right-end,Max near-right. No plate or food refill. W01, LEFT watch, RIGHT pocket.
@@ -811,7 +811,7 @@ FINAL CHECK: exactly four panels in 2×2 order; exact visible subsets, no redesi
 
 ### BOARD_11.png — shots 041–044
 
-**Status:** Missing; generate this sheet.
+**Status:** Existing draft; inspect and apply documented corrections.
 
 **Reference uploads:** adult/child lineups above, plus:
 - [NEIGHBOR_PORCH](assets/environments/NEIGHBOR_PORCH.png)
@@ -880,7 +880,7 @@ FINAL CHECK: exactly four panels in 2×2 order; exact visible subsets, no redesi
 
 ### BOARD_12.png — shots 045–048
 
-**Status:** Missing; generate this sheet.
+**Status:** Existing draft; inspect and apply documented corrections.
 
 **Reference uploads:** adult/child lineups above, plus:
 - [NEIGHBOR_PORCH](assets/environments/NEIGHBOR_PORCH.png)
@@ -949,7 +949,7 @@ FINAL CHECK: exactly four panels in 2×2 order; exact visible subsets, no redesi
 
 ### BOARD_13.png — shots 049–052
 
-**Status:** Missing; generate this sheet.
+**Status:** Existing draft; inspect and apply documented corrections.
 
 **Reference uploads:** adult/child lineups above, plus:
 - [NEIGHBOR_PORCH](assets/environments/NEIGHBOR_PORCH.png)
@@ -988,7 +988,7 @@ Visible actors ONLY: NINA, ELLA, MAX.
 Offscreen cast (NEVER show a face): none.
 Location: NEIGHBOR_PORCH; use uploaded NEIGHBOR_PORCH.png reference.
 Camera: Over-shoulder medium with the active prop visible and other actors distinct.
-Action to represent in ONE frozen moment: The door opens wider without showing the resident’s face. At the edge of frame a pair of adult hands lifts a white box toward the doorway; it stays inside until the next shot.
+Action to represent in ONE frozen moment: The door opens wider without showing the resident’s face. A sealed white box comes into view just inside the doorway. Frame its label with the three family reactions, keeping the resident and their hands beyond the crop.
 Physical starting state: Cake box unseen before; resident preparing to show it.
 Physical end state: White sealed box now visible just inside doorway, not yet transferred.
 Continuity constraints: Neighbor18:green door,leaf knocker,bell right,low hedge. Family stays outside; resident never shows a face. W01, LEFT watch, RIGHT pocket.
@@ -998,7 +998,7 @@ Visible actors ONLY: DAN, MAYA, NINA.
 Offscreen cast (NEVER show a face): none.
 Location: NEIGHBOR_PORCH; use uploaded NEIGHBOR_PORCH.png reference.
 Camera: Child-height medium reaction with the adult beside the children, not above their eyeline.
-Action to represent in ONE frozen moment: Maya holds the phone confirmation beside the box without touching the seal. Dan reads the matching order reference; Nina keeps the children back from the threshold.
+Action to represent in ONE frozen moment: Nina hands Maya the one phone. Maya holds its confirmation beside the box without touching the seal. Dan reads the matching order reference; Nina keeps the children back from the threshold.
 Physical starting state: One sealed white box at doorway in unseen neighbor’s hands; order reference visible by overlay.
 Physical end state: Matching order reference verified; address label remains partly smudged.
 Continuity constraints: Neighbor18:green door,leaf knocker,bell right,low hedge. Family stays outside; resident never shows a face. W01, LEFT watch, RIGHT pocket.
@@ -1008,7 +1008,7 @@ Visible actors ONLY: MAYA, NINA, LEO.
 Offscreen cast (NEVER show a face): none.
 Location: NEIGHBOR_PORCH; use uploaded NEIGHBOR_PORCH.png reference.
 Camera: Medium three-quarter view; leave physical space for the scripted action.
-Action to represent in ONE frozen moment: Maya reads the full order reference from the confirmation while Nina compares the matching bakery sticker on the closed box. Leo checks the simple plain-cake description, not merely the white packaging.
+Action to represent in ONE frozen moment: Maya reads the full order reference from the confirmation while Nina compares the matching bakery sticker on the closed box. Maya then returns the same phone to Nina. Leo checks the simple plain-cake description, not merely the white packaging.
 Physical starting state: One closed box held inside doorway; family has read but not yet cross-checked all order details aloud.
 Physical end state: Order reference and plain-cake description matched; box remains with unseen resident and seal untouched.
 Continuity constraints: Neighbor18:green door,leaf knocker,bell right,low hedge. Family stays outside; resident never shows a face. W01, LEFT watch, RIGHT pocket.
@@ -1087,7 +1087,7 @@ FINAL CHECK: exactly four panels in 2×2 order; exact visible subsets, no redesi
 
 ### BOARD_15.png — shots 057–060
 
-**Status:** Missing; generate this sheet.
+**Status:** Existing draft; inspect and apply documented corrections.
 
 **Reference uploads:** adult/child lineups above, plus:
 - [NEIGHBOR_PORCH](assets/environments/NEIGHBOR_PORCH.png)
@@ -1159,7 +1159,7 @@ FINAL CHECK: exactly four panels in 2×2 order; exact visible subsets, no redesi
 
 ### BOARD_16.png — shots 061–064
 
-**Status:** Missing; generate this sheet.
+**Status:** Existing draft; inspect and apply documented corrections.
 
 **Reference uploads:** adult/child lineups above, plus:
 - [HOME_KITCHEN](assets/environments/HOME_KITCHEN.jpg)
@@ -1189,7 +1189,7 @@ Offscreen cast (NEVER show a face): none.
 Location: HOME_KITCHEN; use uploaded HOME_KITCHEN.jpg reference.
 Camera: Medium eye-level group coverage; camera stays on the established room/porch side.
 Action to represent in ONE frozen moment: Nina sends one reply to bakery support confirming recovery at18 and the smudged label. Leo checks she gives the correct14 home address; Ella adds a polite thanks.
-Physical starting state: Support case awaiting response; cake recovered/chilled; no refund or new charge.
+Physical starting state: Support has supplied the driver’s delivery address; the family still owes the recovery update. Cake refrigerated; no refund or new charge.
 Physical end state: Support informed of safe recovery and label error; no second order or refund requested.
 Continuity constraints: Fridge rear-left, sink rear-window, stove rear-right OFF, oak island. No unexplained cake or duplicate packaging. W01, LEFT watch, RIGHT pocket.
 
@@ -1228,7 +1228,7 @@ FINAL CHECK: exactly four panels in 2×2 order; exact visible subsets, no redesi
 
 ### BOARD_17.png — shots 065–068
 
-**Status:** Missing; generate this sheet.
+**Status:** Existing draft; inspect and apply documented corrections.
 
 **Reference uploads:** adult/child lineups above, plus:
 - [HOME_KITCHEN](assets/environments/HOME_KITCHEN.jpg)
@@ -1298,7 +1298,7 @@ FINAL CHECK: exactly four panels in 2×2 order; exact visible subsets, no redesi
 
 ### BOARD_18.png — shots 069–072
 
-**Status:** Missing; generate this sheet.
+**Status:** Existing draft; inspect and apply documented corrections.
 
 **Reference uploads:** adult/child lineups above, plus:
 - [HOME_TABLE](assets/environments/HOME_TABLE.jpg)
@@ -1368,7 +1368,7 @@ FINAL CHECK: exactly four panels in 2×2 order; exact visible subsets, no redesi
 
 ### BOARD_19.png — shots 073–076
 
-**Status:** Missing; generate this sheet.
+**Status:** Existing draft; inspect and apply documented corrections.
 
 **Reference uploads:** adult/child lineups above, plus:
 - [HOME_TABLE](assets/environments/HOME_TABLE.jpg)
@@ -1437,7 +1437,7 @@ FINAL CHECK: exactly four panels in 2×2 order; exact visible subsets, no redesi
 
 ### BOARD_20.png — shots 077–080
 
-**Status:** Missing; generate this sheet.
+**Status:** Existing draft; inspect and apply documented corrections.
 
 **Reference uploads:** adult/child lineups above, plus:
 - [HOME_TABLE](assets/environments/HOME_TABLE.jpg)

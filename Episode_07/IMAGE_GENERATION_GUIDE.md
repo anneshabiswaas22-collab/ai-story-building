@@ -2,9 +2,9 @@
 
 **Right Bus, Wrong Stop! | Travel English | Slow Family Comedy.** These copy-ready prompts are for any image tool that accepts text and reference images. They do not depend on this cloud computer or a particular provider API.
 
-Current saved sheets: **10/20**. Missing: BOARD_11, BOARD_12, BOARD_13, BOARD_14, BOARD_15, BOARD_16, BOARD_17, BOARD_18, BOARD_19, BOARD_20.
+Current saved sheets: **20/20**. Missing: none; documented visual corrections still require attention.
 
-Complete missing sheets and apply documented corrections using the original references. Read [CHECKPOINT.md](CHECKPOINT.md), [storyboard notes](assets/storyboards/GENERATION_NOTES.md), [continuity](CONTINUITY.md) and [scene plan](SCENE_REFERENCE_PLAN.md). Passing file checks does not approve faces, rendered counts or geography.
+Verify any proposed correction against the current sheet, screenplay and original references. Read [CHECKPOINT.md](CHECKPOINT.md), [storyboard notes](assets/storyboards/GENERATION_NOTES.md), [continuity](CONTINUITY.md) and [scene plan](SCENE_REFERENCE_PLAN.md). Passing file checks does not approve faces, rendered counts or geography.
 
 ## How to use this guide
 
@@ -626,7 +626,7 @@ Visible actors ONLY: DAN, NINA.
 Offscreen cast (NEVER show a face): none.
 Location: WRONG_STOP; use uploaded WRONG_STOP.png reference.
 Camera: Medium two-shot with phone held between adults, screen away.
-Action to represent in ONE frozen moment: Dan connects the call and places it on speaker at chest height. Nina greets her father; his voice is held until the next shot so the cameo lasts exactly four slots.
+Action to represent in ONE frozen moment: Dan connects the call and places it on speaker at chest height. Nina greets her father; his voice is held through the connection pause in SHOT_028 and first heard in SHOT_029 so the cameo lasts exactly four slots.
 Physical starting state: No active call; Dan with phone, Nina beside him.
 Physical end state: Call connected on speaker; Ed remains unheard until SHOT_029.
 Continuity constraints: No close-up phone UI or invented portrait of Ed; speaker volume modest.
@@ -871,7 +871,7 @@ FINAL CHECK: exactly four panels in 2×2 order; exact visible subsets, no redesi
 
 ### BOARD_11.png — shots 041–044
 
-**Status:** Missing; generate this sheet.
+**Status:** Existing draft; inspect and apply documented corrections.
 
 **Reference uploads:** adult/child lineups above, plus:
 - [CORRECT_STOP](assets/environments/CORRECT_STOP.png)
@@ -946,7 +946,7 @@ FINAL CHECK: exactly four panels in 2×2 order; exact visible subsets, no redesi
 
 ### BOARD_12.png — shots 045–048
 
-**Status:** Missing; generate this sheet.
+**Status:** Existing draft; inspect and apply documented corrections.
 
 **Reference uploads:** adult/child lineups above, plus:
 - [CORRECT_STOP](assets/environments/CORRECT_STOP.png)
@@ -1021,7 +1021,7 @@ FINAL CHECK: exactly four panels in 2×2 order; exact visible subsets, no redesi
 
 ### BOARD_13.png — shots 049–052
 
-**Status:** Missing; generate this sheet.
+**Status:** Existing draft; inspect and apply documented corrections.
 
 **Reference uploads:** adult/child lineups above, plus:
 - [CORRECT_STOP](assets/environments/CORRECT_STOP.png)
@@ -1096,7 +1096,7 @@ FINAL CHECK: exactly four panels in 2×2 order; exact visible subsets, no redesi
 
 ### BOARD_14.png — shots 053–056
 
-**Status:** Missing; generate this sheet.
+**Status:** Existing draft; inspect and apply documented corrections.
 
 **Reference uploads:** adult/child lineups above, plus:
 - [BUS_INTERIOR](assets/environments/BUS_INTERIOR.png)
@@ -1171,7 +1171,7 @@ FINAL CHECK: exactly four panels in 2×2 order; exact visible subsets, no redesi
 
 ### BOARD_15.png — shots 057–060
 
-**Status:** Missing; generate this sheet.
+**Status:** Existing draft; inspect and apply documented corrections.
 
 **Reference uploads:** adult/child lineups above, plus:
 - [BUS_INTERIOR](assets/environments/BUS_INTERIOR.png)
@@ -1246,7 +1246,7 @@ FINAL CHECK: exactly four panels in 2×2 order; exact visible subsets, no redesi
 
 ### BOARD_16.png — shots 061–064
 
-**Status:** Missing; generate this sheet.
+**Status:** Existing draft; inspect and apply documented corrections.
 
 **Reference uploads:** adult/child lineups above, plus:
 - [BUS_INTERIOR](assets/environments/BUS_INTERIOR.png)
@@ -1321,7 +1321,7 @@ FINAL CHECK: exactly four panels in 2×2 order; exact visible subsets, no redesi
 
 ### BOARD_17.png — shots 065–068
 
-**Status:** Missing; generate this sheet.
+**Status:** Existing draft; inspect and apply documented corrections.
 
 **Reference uploads:** adult/child lineups above, plus:
 - [LIBRARY_FOYER](assets/environments/LIBRARY_FOYER.png)
@@ -1396,7 +1396,7 @@ FINAL CHECK: exactly four panels in 2×2 order; exact visible subsets, no redesi
 
 ### BOARD_18.png — shots 069–072
 
-**Status:** Missing; generate this sheet.
+**Status:** Existing draft; inspect and apply documented corrections.
 
 **Reference uploads:** adult/child lineups above, plus:
 - [LIBRARY_FOYER](assets/environments/LIBRARY_FOYER.png)
@@ -1471,7 +1471,7 @@ FINAL CHECK: exactly four panels in 2×2 order; exact visible subsets, no redesi
 
 ### BOARD_19.png — shots 073–076
 
-**Status:** Missing; generate this sheet.
+**Status:** Existing draft; inspect and apply documented corrections.
 
 **Reference uploads:** adult/child lineups above, plus:
 - [LIBRARY_FOYER](assets/environments/LIBRARY_FOYER.png)
@@ -1546,7 +1546,7 @@ FINAL CHECK: exactly four panels in 2×2 order; exact visible subsets, no redesi
 
 ### BOARD_20.png — shots 077–080
 
-**Status:** Missing; generate this sheet.
+**Status:** Existing draft; inspect and apply documented corrections.
 
 **Reference uploads:** adult/child lineups above, plus:
 - [LIBRARY_FOYER](assets/environments/LIBRARY_FOYER.png)

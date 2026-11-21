@@ -1,0 +1,47 @@
+{
+  "episode": 4,
+  "board": 20,
+  "path": "Episode_04/assets/storyboards/BOARD_20.png",
+  "parent_commit": "91b6c7776b23bbc7109115fe21aeb3d733232750",
+  "parent_sha256": "bb26e13e970870f60ec6018e42f40aa174a50e7da41d12c16656e584ef6a2f9e",
+  "selected_sha256": "d0ab565d381764d7a8cefc1199a484a35eea4e9465b1509a504a8cc04cf64d26",
+  "parent_size": [
+    1672,
+    941
+  ],
+  "selected_size": [
+    1672,
+    941
+  ],
+  "generated_source": "production_work/generated_images/exec-e177d71c-0c9f-4e2e-b6be-f981688d9d53.png",
+  "method": "ImageGen referenced edit of full selected sheet; copied returned PNG directly without postprocessing. No pixel-identical preservation claim.",
+  "request": "Replace four strip layout with correctly numbered2x2 panels077\u2013080; retain original family/kitchen. Keep single closed shoebox INSIDE cream/teal shopping bag on doorway bench, never on island.077 Dan checks own worn brown shoes with Leo/Ella;078 only Maya/Nina/Max plan future picnic;079 allsix at clear island;080 Max stands on floor besideNina and wiggles originalgreen shoes.",
+  "visual_verification": "All four returned panels visually inspected2026-11-20: correct2x2 positions and077\u2013080badges;077 contains onlyDan/Leo/Ella with Dan's brown shoes on;078onlyMaya/Nina/Max;079and080exactlysix. Cream/teal bag with closed box remains doorwaybench; island has no footwear.080Max stands onfloor and toe-wiggles originalgreen sneakers. Exact likeness/anatomy and final acceptance still require creator review.",
+  "qa_updates": {
+    "SHOT_077": {
+      "observed": "Top-left077 showsDan comparing his own worn brown shoes withLeo/Ella; one cream/teal shopping bag containing closed shoebox sits on doorwaybench, no loose footwear.",
+      "severity": "review",
+      "correction": "Layout, cast and bagged purchase corrected; final likeness/anatomy and creator frame acceptance pending.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_078": {
+      "observed": "Top-right078 showsonlyMaya/Nina/Max at clear kitchenisland with planningcard; singlebagged box remains doorwaybench.",
+      "severity": "review",
+      "correction": "Correct2x2panel and requiredthreecast restored; creator likeness/anatomy review pending.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_079": {
+      "observed": "Bottom-left079 showsall six originals sharing smiles aroundclearisland; onebaggedbox remains doorwaybench outside foodarea.",
+      "severity": "review",
+      "correction": "Layout, sixperson cast and boxlocation corrected; creator likeness/anatomy review pending.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_080": {
+      "observed": "Bottom-right080 showsall six withMax standing onfloor besideNina, both originalgreen sneakers visible and onetoe lifted; baggedbox stays doorwaybench.",
+      "severity": "review",
+      "correction": "Max's floorblocking, greenshoes, baggedbox and2x2layout corrected; creator likeness/anatomy review pending.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    }
+  },
+  "remaining_issues": []
+}

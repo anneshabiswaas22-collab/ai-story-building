@@ -68,6 +68,24 @@ class ProductionHandoffTests(unittest.TestCase):
         self.assertTrue(rose["references"]["supporting_cast_refs"])
         self.assertFalse(self.records[0]["offscreen_cast"])
 
+    def test_all_scripted_family_cameos_stay_within_their_exact_shots(self):
+        windows = [
+            ("ROSE", "04", "visible_cast", 25, 30),
+            ("ROSE", "10", "visible_cast", 4, 7),
+            ("RUTH", "08", "visible_cast", 1, 8),
+            ("BEN", "09", "visible_cast", 9, 12),
+            ("ED", "07", "offscreen_cast", 29, 32),
+            ("ED", "10", "offscreen_cast", 73, 74),
+        ]
+        expected = {(actor, episode, kind, f"SHOT_{n:03}")
+                    for actor, episode, kind, first, last in windows
+                    for n in range(first, last + 1)}
+        relatives = {window[0] for window in windows}
+        actual = {(actor, row["episode"], kind, row["shot_id"])
+                  for row in self.records for kind in ("visible_cast", "offscreen_cast")
+                  for actor in row[kind] if actor in relatives}
+        self.assertEqual(actual, expected)
+
     def test_every_reference_status_is_honest_about_production(self):
         self.assertTrue(all(row["individual_first_frame"] == "not_approved"
                             and row["production_approval"] == "pending"

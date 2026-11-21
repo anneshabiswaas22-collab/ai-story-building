@@ -1,0 +1,55 @@
+{
+  "episode": 7,
+  "board": 5,
+  "shots": [
+    18,
+    20
+  ],
+  "path": "Episode_07/assets/storyboards/BOARD_05.png",
+  "parent_commit": "09063a73430ed9dbe0a7a5cf46074cb4e3fb16c2",
+  "parent_sha256": "d074fa6696d5d51b7d7b58df0ce9ddbd55df773335bb49efeed7708b3856b772",
+  "selected_sha256": "b0512ee5d4e014a61000585ecbd46401b8e7be350df2026ca5208724f7dca06b",
+  "imagegen_candidate": "exec-0ac2d021-1164-4875-ac22-7afca7a8cd4b.png",
+  "candidate_sha256": "14649d946f1d437e93d90d4db64b1428fff01cf2dbf65b082cb7afef16263725",
+  "changed_regions_xy": [
+    [
+      [
+        1074,
+        217
+      ],
+      [
+        1204,
+        213
+      ],
+      [
+        1222,
+        422
+      ],
+      [
+        1095,
+        439
+      ]
+    ],
+    [
+      [
+        1396,
+        725
+      ],
+      [
+        1501,
+        719
+      ],
+      [
+        1554,
+        895
+      ],
+      [
+        1445,
+        893
+      ]
+    ]
+  ],
+  "method": "Composite only the two leaflet-face polygons of the referenced ImageGen edit onto the parent PNG at original size. Verified identical RGB pixels outside both polygons and throughout both left panels. Original recoverable via parent_commit and path.",
+  "brief": "Correct both handheld 36/RIVER leaflets to the 7/NORTHBOUND/LIBRARY route; retain original hands, stop signage, cast, other panels and labels.",
+  "pixel_review": "Both leaflets now visibly read 7, LIBRARY and NORTHBOUND, with a classical library building. Wrong-stop sign stays independent; original people and shot labels preserved. Creator approval remains pending."
+}

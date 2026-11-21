@@ -1,4 +1,4 @@
-# PR #8 + PR #9 merge report
+# Historical PR #8 + PR #9 merge report
 
 Two feature forks were reconciled with a three-parent integration commit (previous main, PR #9 and PR #8).
 

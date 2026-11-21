@@ -1,6 +1,6 @@
 # Maple House English — original 10-episode story ideas
 
-**Each episode gets a 20-minute story first.** The creator may attach separate, custom learning/practice segments later, making the uploaded runtime 20, 25, 30+ minutes. All Episodes 01–10 have written 80-shot screenplays and derived prompts/subtitles. Episodes 01–04 and 06 each currently have 20 illustrated four-panel storyboard sheets; Episodes 05 and 07–10 have incomplete art packages. Creator visual approval, motion first frames, performed voices and video remain pending. Episodes04–10 are now commissioned and have their own80-shot story/visual packages. See their local galleries and checkers for actual current illustrated coverage.
+**Each episode gets a 20-minute story first.** The creator may attach separate, custom learning/practice segments later, making the uploaded runtime 20, 25, 30+ minutes. All Episodes 01–10 have written 80-shot screenplays and derived prompts/subtitles. Each episode has 20 storyboard sheets. Creator visual approval, motion first frames, performed voices and video remain pending. Episodes04–10 are now commissioned and have their own80-shot story/visual packages. See their local galleries and checkers for actual current illustrated coverage.
 
 Learning through natural dialogue and character decisions is part of the story. No forced audience pronunciation repetition, vocabulary documentary, quiz, timed learner pause or recap is planned in the first 20 minutes.
 

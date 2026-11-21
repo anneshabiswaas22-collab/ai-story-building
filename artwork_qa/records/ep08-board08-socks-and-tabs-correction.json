@@ -1,0 +1,43 @@
+{
+  "episode": 8,
+  "board": 8,
+  "path": "Episode_08/assets/storyboards/BOARD_08.png",
+  "parent_commit": "20d8ebad277b2acb4f530ed52602d42fb72d7d26",
+  "parent_sha256": "bb31cbb38cbbf2dc4d96c07a2d991867bd3b3254dc93f237b4460d1401fcd9f6",
+  "selected_sha256": "f245f9c27825ba16c523b50fff38052585d9a8e1c83bb18b04b958ce403804f3",
+  "parent_size": [
+    1672,
+    941
+  ],
+  "selected_size": [
+    1672,
+    941
+  ],
+  "generated_source": "production_work/generated_images/exec-d53c3d22-2ba8-4758-9b31-7956988d9878.png",
+  "method": "ImageGen referenced edit of full selected sheet; copied returned PNG directly without postprocessing. No pixel-identical preservation claim.",
+  "request": "Replace SHOT_032 high-heeled shoes with one pair of fabric socks with green heel patches; retain six zippered cubes, one open empty and five closed. Replace folded place cards with six flat blank punched name tabs in031/032; point at first cube in029/031. Preserve original cast, case, scenes and printed badges.",
+  "visual_verification": "Selected sheet visually checked2026-11-20:032 now has two fabric socks with green heel patches and six cubes;031/032 have six flat punched tabs;031 points to first cube;030 retained.029 pointing still targets a middle cube and remains recorded for repair.",
+  "qa_updates": {
+    "SHOT_029": {
+      "observed": "Six closed gray zippered cubes, empty basket at side; Max's pointing fingertip remains above a middle cube rather than the first cube by Dan.",
+      "severity": "minor",
+      "correction": "Move Max beside the first cube or reblock his arm so his fingertip unmistakably indicates cube1 at viewer-left.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_031": {
+      "observed": "Six closed gray zippered cubes and six flat blank tabs with punched holes; Nina now points to first cube. Maya holds borrowed checklist, Dan beside them.",
+      "severity": "none observed",
+      "correction": "Flat punched tabs and first-cube pointing corrected; creator likeness and final frame approval pending.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_032": {
+      "observed": "Max now holds two small knitted socks with green heel patches; Nina holds first cube open and empty, five other cubes remain closed. Six flat blank punched tabs remain separate.",
+      "severity": "none observed",
+      "correction": "Shoe-versus-sock defect corrected in selected PNG; verify final likeness/anatomy and creator acceptance.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    }
+  },
+  "remaining_issues": [
+    "SHOT_029: Max still points toward a middle cube rather than the first cube."
+  ]
+}

@@ -17,6 +17,7 @@ import re
 
 ROOT = Path(__file__).resolve().parents[1]
 BOARD_NAME = re.compile(r"^BOARD_(\d{2})\.png$")
+BOARD_NOTES = {f"BOARD_{first:02}_{first + 4:02}_NOTES.md" for first in (1, 6, 11, 16)}
 EXPECTED = set(range(1, 21))
 
 
@@ -29,7 +30,7 @@ def inventory(root: Path = ROOT) -> dict:
             raise ValueError(f"{name}: missing storyboard directory {folder}")
         found, unexpected = set(), []
         for file in folder.iterdir():
-            if file.is_dir() or not file.name.startswith("BOARD_"):
+            if file.is_dir() or file.name in BOARD_NOTES or not file.name.startswith("BOARD_"):
                 continue
             match = BOARD_NAME.fullmatch(file.name)
             if not match or int(match.group(1)) not in EXPECTED:

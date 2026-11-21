@@ -1,12 +1,14 @@
-# Episode 09 — storyboard sources, inspection and incomplete-art checkpoint
+# Episode 09 — storyboard generation sources and inspection history
 
 **Task 3 current inventory: 20/20 sheets are saved.** BOARD_12, BOARD_16, BOARD_19 and BOARD_20 were generated and individually pushed on `codex/next-12-storyboards`. [The generation/push log](TASK3_GENERATION_LOG.md) records source identities, references, final hashes, verified image commits and visual review. The full episode checker and sync check passed. Missing-sheet and quota statements below describe earlier checkpoints; the historical correction backlog remains unapproved and was not repaired in this task. All new sheets remain composition drafts pending creator approval.
+
+## Historical pre-completion source and quota record
 
 **16 actual four-panel PNG sheets are present (64 representative shot panels); 4 planned sheets are missing.** All eighty written shot briefs, matching prompts and provisional SRT cues exist. The package is not visually complete. Identified continuity corrections remain blocked by the image service daily usage limit. Creator acceptance and individual motion first frames remain pending.
 
 All new images were generated with the image-generation tool using actual original adult/child lineup previews and the relevant selected clean environment images; BOARD03 also used the new provisional Ben reference. Existing sheets were targets for localized edits. No prior episode board was relabeled, no synthetic placeholder raster was substituted, and no video/voice render occurred.
 
-## Selected files and actual generated sources
+### Selected files and actual generated sources
 
 |Sheet|Shots|Selected source under `/workspace/generated_images`|Inspection / outstanding issues|
 |---|---|---|---|
@@ -31,18 +33,18 @@ All new images were generated with the image-generation tool using actual origin
 |BOARD_19.png|073–076|**MISSING — no selected image**|Image generation did not complete; create genuine four-panel art from the exact source shots after quota availability changes.|
 |BOARD_20.png|077–080|**MISSING — no selected image**|Image generation did not complete; create genuine four-panel art from the exact source shots after quota availability changes.|
 
-## Inputs and reviewed corrections
+### Inputs and reviewed corrections
 
 Original family lineups and home/garden references were visually inspected before generation. HOME_KITCHEN is shared unchanged with01; HOME_GARDEN shared unchanged with02; the three new clean views and their corrected bench geometry have [separate source records](../environments/GENERATION_NOTES.md). Ben is a provisional minor supporting design, not an approved new permanent actor.
 
 Completed, visually inspected localized edits: BOARD01 removed invented title; BOARD02 removed duplicate notebook/tray and expanded the glove inventory; BOARD05 removed extra saucers; BOARD06 removed extra trowel/fourth pot. All original generated outputs remain in `/workspace/generated_images`, including superseded attempts. Uncorrected03/04/07 and the other issues above remain visibly present and must not be represented as fixed.
 
-## External blocker and resumption
+### External blocker and resumption
 
 The image service returned HTTP429 `usage_limit_reached`, daily1440-minute window, reset epoch1794764682 (15 November 2026, 11:14:42 PM IST). A zero-body rejection on some concurrent calls does not establish a different cause. No unchanged retry was made after the explicit daily quota diagnosis. Earlier in-flight cells became stale across reconnection; selected-source identity was recovered by matching actual PNG SHA256 hashes against retained generated originals.
 
 Missing: BOARD_12.png, BOARD_16.png, BOARD_19.png, BOARD_20.png. Continue with [saved resume instructions](RESUME_PROMPTS.md), preserving existing images and source notes. Recheck service availability after a meaningful quota/plan change, then generate the four missing sheets and fix the documented panels.
 
-## Limits
+### Limits
 
 The current images are unapproved composition drafts with explicit unresolved physical/cast/prop states. PNG validation establishes file integrity, not likeness, seed/pot count, hand anatomy, wardrobe, camera axis, growth, glove handling or creator acceptance. Exact story and editable SVGs remain authoritative. No sheet is an approved single-shot motion first frame.

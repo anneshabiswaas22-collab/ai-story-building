@@ -8,14 +8,15 @@ performed voices, creator approval or rendered film quality.
 
 from pathlib import Path
 import re
-import struct
 import sys
 from urllib.parse import unquote, urlsplit
 from xml.etree import ElementTree
-import zlib
 
 
 REPO = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(REPO))
+from tools.episode_package import validate_png
+
 CAST = frozenset({'DAN', 'MAYA', 'NINA', 'LEO', 'ELLA', 'MAX'})
 LOCATIONS = frozenset({
     'HOME_KITCHEN', 'FRUIT_SHOP_WIDE', 'FRUIT_COUNTER',
@@ -151,39 +152,6 @@ def validate_picture_mapping(text, shot_number, label):
             f'{label} SHOT_{shot_number}: needs actual {board} image link')
     require(re.findall(r'\bpanel\s+(\d+)\b', text, re.I) == [str(panel)],
             f'{label} SHOT_{shot_number}: incorrect board panel; expected panel {panel}')
-
-
-def validate_png(file):
-    """Check PNG structure, chunk checksums and a usable illustration size."""
-    data = file.read_bytes()
-    require(data.startswith(b'\x89PNG\r\n\x1a\n'), f'{file.name}: invalid PNG signature')
-    offset = 8
-    chunks = []
-    dimensions = None
-    while offset < len(data):
-        require(offset + 12 <= len(data), f'{file.name}: truncated PNG chunk')
-        length = struct.unpack('>I', data[offset:offset + 4])[0]
-        end = offset + length + 12
-        require(end <= len(data), f'{file.name}: truncated PNG chunk data')
-        kind = data[offset + 4:offset + 8]
-        content = data[offset + 8:offset + 8 + length]
-        checksum = struct.unpack('>I', data[offset + 8 + length:end])[0]
-        require(zlib.crc32(kind + content) == checksum,
-                f'{file.name}: invalid PNG chunk checksum')
-        chunks.append(kind)
-        if kind == b'IHDR':
-            require(length == 13 and dimensions is None,
-                    f'{file.name}: invalid/duplicate PNG IHDR')
-            dimensions = struct.unpack('>II', content[:8])
-        if kind == b'IEND':
-            require(length == 0 and end == len(data), f'{file.name}: invalid PNG ending')
-            offset = end
-            break
-        offset = end
-    require(bool(chunks) and chunks[0] == b'IHDR' and chunks[-1] == b'IEND'
-            and b'IDAT' in chunks, f'{file.name}: incomplete PNG image')
-    require(dimensions is not None and dimensions[0] >= 1000 and dimensions[1] >= 500,
-            f'{file.name}: illustration needs at least 1000 x 500 pixels')
 
 
 def validate_images(root, episode):

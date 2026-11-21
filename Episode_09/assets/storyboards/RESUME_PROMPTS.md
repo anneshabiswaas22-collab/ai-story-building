@@ -1,4 +1,6 @@
-# Episode09 — saved art resumption instructions
+# Historical Episode 09 correction requests and reference briefs
+
+The four sheets requested below are now present. The [generation log](TASK3_GENERATION_LOG.md) records their sources. Use the [episode checkpoint](../../CHECKPOINT.md) for the active handoff.
 
 The image service daily limit prevented completion. Do not repeat a rejected request before quota/plan availability has meaningfully changed. Preserve16selected existing images and generated-source notes. Missing art remains missing; do not substitute renamed earlier boards, diagrams, duplicate panels or hand-painted PNGs. All new/edited artwork must use image generation and actual inspected references.
 

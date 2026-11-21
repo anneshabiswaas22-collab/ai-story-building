@@ -1,6 +1,6 @@
 # Episode 07 — 22-section production plan and readiness gates
 
-**Current handoff:** 80 × 15-second story shots, exactly 20:00, with matching written prompts, provisional dialogue SRT, a 20-sheet plan with ten generated four-panel storyboard sheets, five clean environment references, 14 unchanged cast previews and editable SVGs. **BOARD_11–20 and known image corrections remain blocked by the image service daily usage limit; the visual package is incomplete.** These are preproduction drafts. Creator approval, individual motion first frames, performed voices, animatic, animation and finished film remain pending.
+**Current handoff:** 80 × 15-second story shots, exactly 20:00, with matching written prompts, provisional dialogue SRT, 20 saved storyboard sheets, five clean environment references, 14 unchanged cast previews and editable SVGs. These are preproduction drafts. Creator approval, individual motion first frames, performed voices, animatic, animation and finished film remain pending.
 
 This follows the [22-section guide mapping in Episode 01](../Episode_01/PRODUCTION_READINESS.md), as Episodes 02 and 03 do. Guide sections are distinct from creator Tasks 1–6. The new user commission authorizes this story/still-image package, not automated Task 5 video/voice generation.
 

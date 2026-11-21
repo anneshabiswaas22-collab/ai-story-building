@@ -283,7 +283,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Characters:** LEO, DAN, MAYA. **Location:** PREP_ISLAND. **Wardrobe:** W01 only.
 **Composition:** Over-shoulder recipe yield insert, then family reaction.
 **Action:** Leo points to the twelve-small-pancake plan. Maya sets six plain white plates on the safe supplies counter. Dan counts the six family places with his fingers before any batter is made.
-**Starting continuity:** Recipe ingredients unmeasured; six clean plates newly on supplies counter; no cooked food.
+**Starting continuity:** Recipe ingredients unmeasured; six clean plates ready for Maya to set on the supplies counter; no cooked food.
 **Ending continuity:** Yield plan agreed: 12 small pancakes, 2 for each of 6 people.
 **Picture:** [BOARD_05.png](assets/storyboards/BOARD_05.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No recipe doubling, giant pancake contest or extra seventh serving. Plates will move to HOME_TABLE later.

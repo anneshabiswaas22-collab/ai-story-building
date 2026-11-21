@@ -1,4 +1,6 @@
-# Episode 06 checkpoint — written package and twenty illustrated sheets saved
+# Historical Episode 06 generation checkpoint
+
+The [master audit](../docs/AUDIT_EP01_EP10.md) reviews the currently selected sheets. This record preserves the original file selection and production notes.
 
 Completed locally: 80 fully authored 15-second story shots (20:00), matching 80 prompts and 236 dialogue-only provisional SRT cues, full continuity/reference/README documents and 22-section production plan, literal package config plus shared-tool check/sync wrappers, all 20 actual four-panel PNG board sheets, 14 unchanged original family JPGs, one unchanged home kitchen JPG plus four new clean restaurant PNGs, five exact editable overlay SVGs and one restaurant seating SVG, Markdown/HTML galleries and actual image provenance.
 

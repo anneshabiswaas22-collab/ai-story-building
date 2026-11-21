@@ -31,11 +31,13 @@ class BoardInventoryTests(unittest.TestCase):
             board.write_bytes(b"a test fixture, not a real PNG")
             (board.parent / "BOARD_21.png").write_bytes(b"")
             (board.parent / "BOARD_invalid.png").write_bytes(b"")
+            (board.parent / "BOARD_01_05_NOTES.md").write_text("Panel notes")
             result = inventory(root)
             self.assertEqual(result["present"], 1)
             self.assertEqual(result["missing_count"], 199)
             ep5 = result["episodes"][4]
             self.assertEqual(ep5["present"], 1)
+            self.assertNotIn("BOARD_01_05_NOTES.md", ep5["unexpected_board_names"])
             self.assertIn("BOARD_21.png", ep5["unexpected_board_names"])
             self.assertIn("BOARD_invalid.png", ep5["unexpected_board_names"])
             self.assertNotIn("Episode_05/assets/storyboards/BOARD_04.png", result["missing"])

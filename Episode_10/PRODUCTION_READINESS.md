@@ -1,6 +1,6 @@
 # Episode 10 — 22-section production plan and readiness
 
-**Scope:** complete written package and incomplete11/20-sheet still-image draft in the Episode 02/03 structure. Creator visual approval, individual motion first frames, performed voices, animatic and finished film remain pending. See the [README](README.md), [gallery](STORYBOARD_GALLERY.md), [continuity](CONTINUITY.md), [scene plan](SCENE_REFERENCE_PLAN.md) and actual [generation notes](assets/storyboards/GENERATION_NOTES.md).
+**Scope:** complete written package and 20 saved storyboard sheets in the Episode 02/03 structure. Creator visual approval, individual motion first frames, performed voices, animatic and finished film remain pending. See the [README](README.md), [gallery](STORYBOARD_GALLERY.md), [continuity](CONTINUITY.md), [scene plan](SCENE_REFERENCE_PLAN.md) and actual [generation notes](assets/storyboards/GENERATION_NOTES.md).
 
 These guide sections follow [Episode 01's mapping](../Episode_01/PRODUCTION_READINESS.md), not a declaration that the creator's Tasks 5/6 are complete.
 

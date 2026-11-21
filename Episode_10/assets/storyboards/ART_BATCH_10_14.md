@@ -1,4 +1,4 @@
-# Episode 10 — board 10–14 batch checkpoint
+# Historical batch record — Episode 10 — board 10–14 batch checkpoint
 
 Actual image-generation calls used the authored four-panel prompts for boards 10–14 in /workspace/scratch/ep10_image_jobs.json, with the unchanged Episode 10 adult/child lineup JPGs and actual LANE_WALKWAY/NEIGHBOR_PORCH PNG reference inputs as specified. Both clean locations and the actual original cast lineups were visually inspected before these calls. No new family face or neighbor face was commissioned.
 

@@ -43,7 +43,7 @@ Every selected sheet was visually inspected for original character subsets, W01 
 - Board12: replaced inconsistent straps with canonical WHITE LACES, retaining navy uppers, white soles and green tabs in all four panels. Source/docs agree; correction visually re-inspected.
 - Board13: regenerated missing source, then changed four-strip layout to two-by-two and removed third navy shoe from Dan price-check hand at051. Selected correction is re-inspected; both navy shoes remain on Max and Dan gestures to tag on emptybox.
 
-## Still required after quota reset
+## Historical corrections requested in the original generation batch
 
 - Board14:053 currently shows two navy shoes held by Nina AND two duplicates in Ella box (four total); Ella box must be empty while Nina holds the onlypair.055 shows one openbox with pair beingchecked and a second closedbox held by Dan; replace Dan object with only the flatmatchinglid. Keep white lace model throughout. The attempted correction failed when the image-reference read reported exec-server transport closed; no corrected output is claimed.
 - Board17:065 shows Maya handling Dan wallet/receipt even though the source has wallet already pocketed since063; remove the unscripted wallet handoff/receipt reveal.066 shows Nina with Maya personal creamtote; restore ownership or leave personal tote off-frame. No source transfer was authored.

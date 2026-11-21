@@ -107,9 +107,9 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **Characters:** DAN, MAYA, NINA, LEO, ELLA, MAX. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Wide toward exit, all six spaced naturally.
-**Action:** Maya checks the children are ready. Nina lifts the cooler; Dan waits with basket while all three children join the adults. They leave at a walking pace.
+**Action:** Maya checks the children are ready. Nina lifts the cooler; Dan waits with basket while all three children join the adults. They walk together toward the home exit.
 **Starting continuity:** Kitchen unchanged; cooler sealed; Maya rolled blanket, Dan basket and pocketed map.
-**Ending continuity:** All six depart together with one basket, one cooler, one blanket.
+**Ending continuity:** All six reach the home exit together with one basket, one cooler and one blanket.
 **Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Travel cut follows; no child sent ahead alone and no extra relatives.
 
@@ -543,7 +543,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Characters:** DAN, LEO, MAX. **Location:** PARK_FOUNTAIN. **Wardrobe:** W01 only.
 **Composition:** Low wide of three taking east branch; oak visible ahead.
 **Action:** Dan folds and pockets map, then steps onto the RIGHT branch with both boys beside him. Leo gestures toward the big oak; Max checks the statue is now behind them to the left.
-**Starting continuity:** Map north-up held; trio oriented north at fountain.
+**Starting continuity:** Dan holds the map north-up. The trio faces the east branch they identified on their right while facing north.
 **Ending continuity:** All three follow correct east branch at walking pace.
 **Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** One clear right turn, not repeated left/right reversal across edits.

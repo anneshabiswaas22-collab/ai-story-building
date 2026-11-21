@@ -478,7 +478,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Characters:** DAN, MAYA, NINA, LEO, ELLA, MAX. **Location:** SHOE_FITTING. **Wardrobe:** W01 only.
 **Composition:** Wide entrance-to-bench tracking shot.
 **Action:** The six return along the same stationary walkway and gather at the fitting bench; Dan folds map and pockets it right-side.
-**Starting continuity:** Return walk completed; no stock moved while away; Max wears old shoes.
+**Starting continuity:** The return route is clear from the elevator bay to the fitting bench. Max wears his old shoes; no one carries stock.
 **Ending continuity:** Max seated again; map in Dan's right pocket; measuring device beside bench.
 **Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Receipt stored once at063, moved to household folder075; $8 stays in wallet. No seventh recurring family member or new wardrobe. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
@@ -553,7 +553,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Characters:** DAN, LEO, MAX. **Location:** SHOE_FITTING. **Wardrobe:** W01 only.
 **Composition:** Close cream box with exact label overlay.
 **Action:** Dan reaches for the nearest cream teal-band box; Leo checks its label before Dan opens it beside Max.
-**Starting continuity:** Model selected; measured starting size2; no shoes tried; one shelf box in Dan's hands.
+**Starting continuity:** Model selected; measured starting size2; no shoes tried. The cream teal-band box is still on its shelf.
 **Ending continuity:** Box identified as size1 trial; Dan asks whether to compare rather than claiming it fits.
 **Picture:** [BOARD_10.png](assets/storyboards/BOARD_10.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Rose is Maya sister, visible only shots025–030 (90seconds), a provisional supporting design; she offers orientation clue while family completes task. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.

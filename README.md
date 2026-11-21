@@ -61,9 +61,9 @@ python -m unittest discover -s tests -v
 
 Episodes04–10 share source tooling in tools/episode_package.py, with literal local package.py metadata and explicit Off-screen cast support. Edit each STORY.md first, run its sync.py, inspect derived changes, then run full checks. Full-resolution original identity masters, performed voices, animation, animatic and final film release remain separate production work.
 
-## Generate remaining artwork in your preferred tool
+## Inspect and correct existing artwork
 
-Start with [IMAGE_GENERATION_HANDOFF.md](IMAGE_GENERATION_HANDOFF.md). It links all seven copy-ready episode guides, covering 140 storyboard-sheet prompts, 560 panel briefs and 35 environment prompts, with actual reference images, missing-sheet lists and correction records. The written packages are complete; the current saved art is 110 of 140 sheets and still needs visual corrections.
+The [image handoff](IMAGE_GENERATION_HANDOFF.md) links the seven episode guides for Episodes 04–10. They include 140 sheet prompts, 560 panel briefs and 35 environment prompts for checking or correcting the saved artwork. Use the [episode-by-episode audit](docs/AUDIT_EP01_EP10.md) to find the evidence for individual shots.
 
 
 ## Contributor merge

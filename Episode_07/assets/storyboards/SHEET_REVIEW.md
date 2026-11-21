@@ -1,4 +1,6 @@
-# Episode 07 — actual sheet sources and inspection record
+# Historical review of the first ten Episode 07 sheets
+
+This record identifies the original source files and observations for boards 01–10. The [episode checkpoint](../../CHECKPOINT.md) and [generation notes](GENERATION_NOTES.md) cover the completed 20-sheet set.
 
 **10/20 sheets exist: SHOT_001–040.** BOARD_11–20 for SHOT_041–080 have not been generated. Image requests hit `429 usage_limit_reached` in a 1,440-minute window; the tool reported about 65,625 seconds until reset at the failure. No further requests were made after the confirmed quota failure. Some prior requests also returned `exec-server transport closed`; only positively identified completed outputs were copied. No missing sheet is represented by a reused board or synthetic placeholder image.
 

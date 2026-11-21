@@ -1,0 +1,15 @@
+{
+  "episode": 1,
+  "board": 4,
+  "shots_corrected": [
+    13
+  ],
+  "path": "Episode_01/assets/storyboards/BOARD_04.png",
+  "parent_commit": "9d454ec294afe92a0bb4271d75d8548e81de1c04",
+  "parent_sha256": "9ce48cee0f3ffe11c7d246dac7f257b381ae003e0f02afecf45d0d18fd0bf547",
+  "selected_sha256": "b1cd3907a5e5b67d6d751c936e38cb3073c1a942ac0f9dc671099f92c4f83d05",
+  "generated_source": "production_work/generated_images/exec-5d73c09e-149d-4061-8a9d-f121accbc47d.png",
+  "method": "ImageGen referenced edit of full selected sheet; copied returned PNG directly without postprocessing. Returned canvas 1670x941 versus parent1671x941; no pixel-identical preservation claim.",
+  "request": "Correct only Ella counting hand in SHOT_013 to four extended fingers, thumb folded; preserve all four scenes, cast, labels, four carrots and three tomatoes.",
+  "visual_verification": "Four extended fingers and four carrots confirmed; SHOT_014/015/016 retain the carrot and three-tomato tray progression, actors and labels. Creator approval pending."
+}

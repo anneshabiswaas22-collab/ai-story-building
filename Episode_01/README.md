@@ -46,7 +46,7 @@ Read [storyboard generation notes](assets/storyboards/GENERATION_NOTES.md) for a
 
 The [printed shot-label audit](assets/storyboards/SHOT_LABEL_AUDIT.md) checks the numbers actually visible inside each PNG, with a saved image hash for every sheet. This prevents a correctly named file from hiding a mismatched panel label.
 
-No animation, performed voices, lip-sync, timed animatic or finished movie is claimed. Task 5 still requires original-master access, checked service capabilities/costs and separate explicit creator authorization. Optional creator-designed English practice belongs **after** the 20-minute story; there are no audience drills, recap narrators, quizzes or countdowns in this movie. The ending leads naturally to Episode 02's one-list/two-colors family fruit trip. Episodes 04–10 remain placeholders until requested.
+No animation, performed voices, lip-sync, timed animatic or finished movie is claimed. Task 5 still requires original-master access, checked service capabilities/costs and separate explicit creator authorization. Optional creator-designed English practice belongs **after** the 20-minute story; there are no audience drills, recap narrators, quizzes or countdowns in this movie. The ending leads naturally to Episode 02's one-list/two-colors family fruit trip. Episodes 04–10 have commissioned 80-shot story packages and complete storyboard-sheet inventories; their visual corrections and creator approval remain pending.
 
 ## Check and refresh
 

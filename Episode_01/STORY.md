@@ -405,7 +405,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Location:** MARKET_STALL  
 **Camera:** Counted counter insert on six potatoes and one paper sack.  
 **Action:** Leo counts six potatoes into a paper sack. Dan briefly lifts the protected tomato tray, settles the sack low in the basket, and returns that same tray above it.  
-**Opening state:** One potato held above its bin; five more selected for a total of six. Basket: 4 carrots, 3 protected tomatoes, 1 cucumber.  
+**Opening state:** Dan holds one potato above its bin. Five more must be counted into the sack with it. Basket: 4 carrots, 3 protected tomatoes, 1 cucumber.
 **End state:** Six potatoes in one sack at bottom; tomato tray level above; notes folded into right pocket. Basket: 4 carrots, 3 protected tomatoes, 1 cucumber, 6 potatoes in one paper sack.  
 **Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** The potato already held is included in six, not a seventh. Heavy food goes below tomatoes. Both colored totes remain empty.
@@ -862,7 +862,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Location:** MARKET_STALL  
 **Camera:** Counter-level view of two empty tote openings, BLUE left and YELLOW right.  
 **Action:** Ella takes both empty totes from their hook and opens BLUE on the left, YELLOW on the right. Dan steadies the full basket nearby while Max keeps the clear work area free of extra containers.  
-**Opening state:** All ten purchased lines in basket; both totes empty on hook; notes flat.  
+**Opening state:** All ten selected lines in basket, still unpaid; both totes empty on hook; notes flat.
 **End state:** Both totes empty and open on counter; blue beside blue note, yellow beside yellow note.  
 **Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Only two tote bags and one basket. No vegetables appear in the bags before the explicit transfers.

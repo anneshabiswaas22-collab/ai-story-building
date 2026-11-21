@@ -1,7 +1,7 @@
 # Episode10 — The Party Cake Went to the Wrong House!
 
 > **Format:**80 continuous story shots ×15seconds = **20:00 story runtime**.
-> **Status:**complete authored story; incomplete still-image draft with11/20saved sheets. No performed voices or generated video; creator visual approval and individual motion first frames pending.
+> **Status:** All 20 storyboard sheets accompany the 80-shot screenplay. Creator sign-off, approved individual motion first frames, recorded voices and a finished film remain pending.
 > **Story-only:**natural General American family conversation; no viewer drills, quiz, recap narrator or timed practice. Optional creator-authored practice belongs after the story.
 
 Following the garden episode, the family celebrates a weekend of helping each other. A prepaid cake is marked delivered, but the photo shows a green door. Dan’s confidence gives way to uncertainty; everyone contributes observations, asks politely, and checks the actual order before recovering one safely chilled cake. The warm finale recalls earlier adventures without turning into a lesson recap.
@@ -44,7 +44,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 **Visible cast:** LEO, ELLA, MAX
 **Location:** HOME_TABLE
 **Camera:** Over-shoulder medium with the active prop visible and other actors distinct.
-**Action:** Leo counts six empty plates at their fixed places. Ella lays six forks. Max tests the comfortable space beside Nina’s chair without moving it.
+**Action:** Leo sets six empty plates at their fixed places and counts them. Ella lays six forks. Max tests the comfortable space beside Nina’s chair without moving it.
 **Opening state:** Bare canonical six-chair table; clean plates and forks in Leo and Ella’s hands.
 **End state:** Six empty plates and six forks in fixed seats; no cake or food.
 **Picture:** [BOARD_01.png](assets/storyboards/BOARD_01.png), panel 2. Illustrated composition draft; creator approval and individual motion first frame pending.
@@ -671,7 +671,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 **Action:** Dan takes the folded checklist from his right pocket as possible note paper. Maya suggests they return home if there is no answer rather than search the property.
 **Opening state:** No answer yet; checklist folded; no pen used or note left.
 **End state:** Checklist remains in Dan’s hand; plan to leave calmly established.
-**Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 1. Illustration missing; planned composition only; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 1. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Neighbor18:green door,leaf knocker,bell right,low hedge. Family stays outside; resident never shows a face. W01, LEFT watch, RIGHT pocket.
 
 **Dialogue:**
@@ -687,7 +687,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 **Action:** The door latch sounds. Dan returns his checklist to his right pocket and steps back so the doorway stays clear. The door opens only a little; no new face is shown.
 **Opening state:** Six waiting; door closed; no neighbor voice yet.
 **End state:** Green door partly open; family gives space; resident remains offscreen.
-**Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 2. Illustration missing; planned composition only; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 2. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Neighbor18:green door,leaf knocker,bell right,low hedge. Family stays outside; resident never shows a face. W01, LEFT watch, RIGHT pocket.
 
 **Dialogue:**
@@ -703,7 +703,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 **Action:** Dan points toward his own blue door down the walk, keeping his hands empty. Maya introduces the family as neighbors from14. Max stays beside her.
 **Opening state:** Door partly open; neighbor unseen; no cake shown.
 **End state:** Family’s home address and polite purpose stated; no demand made.
-**Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 3. Illustration missing; planned composition only; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 3. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Neighbor18:green door,leaf knocker,bell right,low hedge. Family stays outside; resident never shows a face. W01, LEFT watch, RIGHT pocket.
 
 **Dialogue:**
@@ -719,7 +719,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 **Action:** Nina shows the delivery photograph toward the unseen resident without crossing the threshold. Leo describes the sealed white bakery box and red tamper seal.
 **Opening state:** One paid order; photo shows white box with intact red seal; no physical box visible yet.
 **End state:** Specific package description given; family remains outside.
-**Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 4. Illustration missing; planned composition only; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 4. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Neighbor18:green door,leaf knocker,bell right,low hedge. Family stays outside; resident never shows a face. W01, LEFT watch, RIGHT pocket.
 
 **Dialogue:**
@@ -735,7 +735,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 **Action:** Dan asks the agreed question and waits; Maya keeps the phone confirmation facing herself until requested. No resident face, hands or voice appears in this shot.
 **Opening state:** Description given; box not yet confirmed by neighbor.
 **End state:** Question asked; family listening instead of guessing.
-**Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 1. Illustration missing; planned composition only; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 1. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Neighbor18:green door,leaf knocker,bell right,low hedge. Family stays outside; resident never shows a face. W01, LEFT watch, RIGHT pocket.
 
 **Dialogue:**
@@ -751,7 +751,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 **Action:** A quiet offscreen fridge-door sound comes from inside the neighbor’s home. Dan and the children continue waiting outside; the sound does not prove the cake’s identity yet.
 **Opening state:** Door open a little; resident unseen; family outside.
 **End state:** Offscreen storage check underway; no cake handed over.
-**Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 2. Illustration missing; planned composition only; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 2. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Neighbor18:green door,leaf knocker,bell right,low hedge. Family stays outside; resident never shows a face. W01, LEFT watch, RIGHT pocket.
 
 **Dialogue:**
@@ -767,7 +767,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 **Action:** Maya compares order confirmation and delivery photo one last time while Nina holds the phone. Leo points to the matching order reference, not the unclear address digit.
 **Opening state:** Same order reference on confirmation and photo; physical box unseen.
 **End state:** Order evidence ready; no second cake or new payment.
-**Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 3. Illustration missing; planned composition only; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 3. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Neighbor18:green door,leaf knocker,bell right,low hedge. Family stays outside; resident never shows a face. W01, LEFT watch, RIGHT pocket.
 
 **Dialogue:**
@@ -783,7 +783,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 **Action:** A wider reaction holds the six family members together behind the doorstep. Maya keeps Max beside her; Dan leaves both hands free to receive a box only after identification.
 **Opening state:** All six waiting at18; resident checking inside; no cake transfer.
 **End state:** Group together and doorway clear; no one enters the home.
-**Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 4. Illustration missing; planned composition only; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 4. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Neighbor18:green door,leaf knocker,bell right,low hedge. Family stays outside; resident never shows a face. W01, LEFT watch, RIGHT pocket.
 
 **Dialogue:**
@@ -799,7 +799,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 **Action:** Dan smiles at his earlier confidence and lowers his shoulders. Maya and Leo answer with reassurance rather than a punch line at his expense.
 **Opening state:** Order details checked; neighbor still inside for a brief moment.
 **End state:** Dan accepts uncertainty; no physical inventory change.
-**Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 1. Illustration missing; planned composition only; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 1. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Neighbor18:green door,leaf knocker,bell right,low hedge. Family stays outside; resident never shows a face. W01, LEFT watch, RIGHT pocket.
 
 **Dialogue:**
@@ -812,10 +812,10 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 **Visible cast:** NINA, ELLA, MAX
 **Location:** NEIGHBOR_PORCH
 **Camera:** Over-shoulder medium with the active prop visible and other actors distinct.
-**Action:** The door opens wider without showing the resident’s face. At the edge of frame a pair of adult hands lifts a white box toward the doorway; it stays inside until the next shot.
+**Action:** The door opens wider without showing the resident’s face. A sealed white box comes into view just inside the doorway. Frame its label with the three family reactions, keeping the resident and their hands beyond the crop.
 **Opening state:** Cake box unseen before; resident preparing to show it.
 **End state:** White sealed box now visible just inside doorway, not yet transferred.
-**Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 2. Illustration missing; planned composition only; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 2. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Neighbor18:green door,leaf knocker,bell right,low hedge. Family stays outside; resident never shows a face. W01, LEFT watch, RIGHT pocket.
 
 **Dialogue:**
@@ -828,10 +828,10 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 **Visible cast:** DAN, MAYA, NINA
 **Location:** NEIGHBOR_PORCH
 **Camera:** Child-height medium reaction with the adult beside the children, not above their eyeline.
-**Action:** Maya holds the phone confirmation beside the box without touching the seal. Dan reads the matching order reference; Nina keeps the children back from the threshold.
+**Action:** Nina hands Maya the one phone. Maya holds its confirmation beside the box without touching the seal. Dan reads the matching order reference; Nina keeps the children back from the threshold.
 **Opening state:** One sealed white box at doorway in unseen neighbor’s hands; order reference visible by overlay.
 **End state:** Matching order reference verified; address label remains partly smudged.
-**Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 3. Illustration missing; planned composition only; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 3. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Neighbor18:green door,leaf knocker,bell right,low hedge. Family stays outside; resident never shows a face. W01, LEFT watch, RIGHT pocket.
 
 **Dialogue:**
@@ -844,10 +844,10 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 **Visible cast:** MAYA, NINA, LEO
 **Location:** NEIGHBOR_PORCH
 **Camera:** Medium three-quarter view; leave physical space for the scripted action.
-**Action:** Maya reads the full order reference from the confirmation while Nina compares the matching bakery sticker on the closed box. Leo checks the simple plain-cake description, not merely the white packaging.
+**Action:** Maya reads the full order reference from the confirmation while Nina compares the matching bakery sticker on the closed box. Maya then returns the same phone to Nina. Leo checks the simple plain-cake description, not merely the white packaging.
 **Opening state:** One closed box held inside doorway; family has read but not yet cross-checked all order details aloud.
 **End state:** Order reference and plain-cake description matched; box remains with unseen resident and seal untouched.
-**Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 4. Illustration missing; planned composition only; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 4. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Neighbor18:green door,leaf knocker,bell right,low hedge. Family stays outside; resident never shows a face. W01, LEFT watch, RIGHT pocket.
 
 **Dialogue:**
@@ -931,7 +931,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 **Action:** Dan keeps the box level while Maya and Nina wave goodbye. The neighbor remains silent and outside frame; the family steps back toward the front walk.
 **Opening state:** One sealed box with Dan; no money exchanged; door18 partly open.
 **End state:** All six turning toward sidewalk; box level and still closed.
-**Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 1. Illustration missing; planned composition only; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 1. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Neighbor18:green door,leaf knocker,bell right,low hedge. Family stays outside; resident never shows a face. W01, LEFT watch, RIGHT pocket.
 
 **Dialogue:**
@@ -947,7 +947,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 **Action:** Dan carries the closed box level on the sidewalk toward the blue door. Leo walks beside him, Max beside Nina just outside crop; the other adults stay with the group.
 **Opening state:** Six leaving18 together; one box with Dan; no street crossing.
 **End state:** Group near14; cake unopened; no hands above the lid.
-**Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 2. Illustration missing; planned composition only; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 2. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Same-side continuous sidewalk between14 and18. Six travel together with adults; no road crossing or driveway shortcut. W01, LEFT watch, RIGHT pocket.
 
 **Dialogue:**
@@ -963,7 +963,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 **Action:** Maya unlocks and opens the blue door. Ella holds it while Dan carries the box directly inside, without setting it on the porch.
 **Opening state:** Group at14; blue bow and banner intact; box in Dan’s two hands.
 **End state:** Cake carried through doorway; porch stays clear; all children follow adults inside.
-**Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 3. Illustration missing; planned composition only; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 3. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Home14:blue door,bow after008,banner after009,bell right,number plaque left. Clear front walk and low steps. W01, LEFT watch, RIGHT pocket.
 
 **Dialogue:**
@@ -979,7 +979,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 **Action:** Nina opens the prepared fridge shelf while Dan slides the closed box onto it. Maya checks it sits level, then closes the door.
 **Opening state:** One unopened box carried inside; cake shelf empty; strawberry still on separate shelf.
 **End state:** One recovered cake boxed and refrigerated; no cake on table or serving board.
-**Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 4. Illustration missing; planned composition only; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 4. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Fridge rear-left, sink rear-window, stove rear-right OFF, oak island. No unexplained cake or duplicate packaging. W01, LEFT watch, RIGHT pocket.
 
 **Dialogue:**
@@ -993,9 +993,9 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 **Location:** HOME_KITCHEN
 **Camera:** Medium eye-level group coverage; camera stays on the established room/porch side.
 **Action:** Nina sends one reply to bakery support confirming recovery at18 and the smudged label. Leo checks she gives the correct14 home address; Ella adds a polite thanks.
-**Opening state:** Support case awaiting response; cake recovered/chilled; no refund or new charge.
+**Opening state:** Support has supplied the driver’s delivery address; the family still owes the recovery update. Cake refrigerated; no refund or new charge.
 **End state:** Support informed of safe recovery and label error; no second order or refund requested.
-**Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 1. Illustration missing; planned composition only; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 1. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Fridge rear-left, sink rear-window, stove rear-right OFF, oak island. No unexplained cake or duplicate packaging. W01, LEFT watch, RIGHT pocket.
 
 **Dialogue:**
@@ -1011,7 +1011,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 **Action:** Use an explicit washing-time dissolve as all six wash and dry hands in turns at the rear sink. The boxed cake stays refrigerated throughout.
 **Opening state:** Cake cold and boxed; hands not yet washed for serving.
 **End state:** All six hands clean and dry; one cake remains chilled; no food handled.
-**Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 2. Illustration missing; planned composition only; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 2. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Fridge rear-left, sink rear-window, stove rear-right OFF, oak island. No unexplained cake or duplicate packaging. W01, LEFT watch, RIGHT pocket.
 
 **Dialogue:**
@@ -1027,7 +1027,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 **Action:** Nina takes the one washed strawberry dish from the fridge and sets it on the clean island. Max asks to keep it with his own slice; Ella confirms there is only one.
 **Opening state:** One washed strawberry chilled separately; cake box still in fridge.
 **End state:** One strawberry on covered dish at island; assigned to Max, not six imaginary garnishes.
-**Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 3. Illustration missing; planned composition only; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 3. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Fridge rear-left, sink rear-window, stove rear-right OFF, oak island. No unexplained cake or duplicate packaging. W01, LEFT watch, RIGHT pocket.
 
 **Dialogue:**
@@ -1043,7 +1043,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 **Action:** Dan lifts the one cake box from the fridge onto the clean island. Maya breaks the intact red seal and opens the lid, revealing one small plain round cake on its board.
 **Opening state:** Cake boxed/chilled; serving board clean; strawberry covered nearby.
 **End state:** One opened box reveals one whole cake; seal broken only by Maya at home.
-**Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 4. Illustration missing; planned composition only; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 4. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Fridge rear-left, sink rear-window, stove rear-right OFF, oak island. No unexplained cake or duplicate packaging. W01, LEFT watch, RIGHT pocket.
 
 **Dialogue:**
@@ -1059,7 +1059,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 **Action:** Maya lifts the cake’s food-safe board onto the clear serving area. Ella folds the now-empty outer box; Nina sets it apart from clean food utensils.
 **Opening state:** One whole cake on its board inside open box; no slices cut.
 **End state:** Cake on island board; empty outer box set aside; no duplicate cake inside.
-**Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 1. Illustration missing; planned composition only; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 1. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Fridge rear-left, sink rear-window, stove rear-right OFF, oak island. No unexplained cake or duplicate packaging. W01, LEFT watch, RIGHT pocket.
 
 **Dialogue:**
@@ -1075,7 +1075,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 **Action:** Maya cuts the small cake into six equal wedges with an adult-handled knife. Use an explicit short serving-time ellipsis. Dan steadies the board, not the blade; Leo counts divisions from a safe distance.
 **Opening state:** One whole small round cake on board; six table plates empty.
 **End state:** Cake divided into six wedges; none removed yet; knife under Maya’s control.
-**Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 2. Illustration missing; planned composition only; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 2. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Fridge rear-left, sink rear-window, stove rear-right OFF, oak island. No unexplained cake or duplicate packaging. W01, LEFT watch, RIGHT pocket.
 
 **Dialogue:**
@@ -1091,7 +1091,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 **Action:** Nina transfers two wedges onto Dan’s and Leo’s empty plates using a clean server. Dan stays seated; Leo moves his fork clear. The board is held by Nina, not duplicated on table.
 **Opening state:** Six wedges on board; all six plates empty; knife left safely in kitchen.
 **End state:** Two wedges served: Dan and Leo; four wedges remain on Nina’s board.
-**Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 3. Illustration missing; planned composition only; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 3. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Fixed seats:Dan near-left,Leo left-end,Ella far-left,Maya far-right,Nina right-end,Max near-right. No plate or food refill. W01, LEFT watch, RIGHT pocket.
 
 **Dialogue:**
@@ -1107,7 +1107,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 **Action:** Nina serves one wedge each to Ella and Maya in their fixed places, keeping the board level. Maya thanks her; Ella checks the remaining pair without touching it.
 **Opening state:** Dan and Leo each have one; four wedges on board; other four plates empty.
 **End state:** Four served total; two wedges remain for Nina and Max.
-**Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 4. Illustration missing; planned composition only; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 4. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Fixed seats:Dan near-left,Leo left-end,Ella far-left,Maya far-right,Nina right-end,Max near-right. No plate or food refill. W01, LEFT watch, RIGHT pocket.
 
 **Dialogue:**
@@ -1123,7 +1123,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 **Action:** Nina serves the final two wedges onto her own plate and Max’s. Ella sets the single strawberry beside Max’s slice with clean tongs brought from kitchen.
 **Opening state:** Four people served; two wedges on board; strawberry on clean dish beside Ella.
 **End state:** Six plates with one wedge each; board empty; one strawberry on Max’s plate only.
-**Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 1. Illustration missing; planned composition only; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 1. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Fixed seats:Dan near-left,Leo left-end,Ella far-left,Maya far-right,Nina right-end,Max near-right. No plate or food refill. W01, LEFT watch, RIGHT pocket.
 
 **Dialogue:**
@@ -1139,7 +1139,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 **Action:** Maya returns the server and empty cake board to the island, away from the dining table. Dan puts the adult-used knife safely in the designated washing area, blade facing away.
 **Opening state:** Six slices served; kitchen knife parked safely at island; empty board/server arriving back.
 **End state:** No sharp knife or box at children’s table; island holds empty board and used serving tools.
-**Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 2. Illustration missing; planned composition only; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 2. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Fridge rear-left, sink rear-window, stove rear-right OFF, oak island. No unexplained cake or duplicate packaging. W01, LEFT watch, RIGHT pocket.
 
 **Dialogue:**
@@ -1154,7 +1154,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 **Action:** Dan adds the cake receipt checkmark only now, then writes a small new line: ask and check. Maya and Nina read it beside him; phone remains with Nina.
 **Opening state:** Cake served safely; checklist still has blank delivery task; no new decorations.
 **End state:** Cake task checked; ask-and-check reminder added; checklist folded in right pocket.
-**Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 3. Illustration missing; planned composition only; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 3. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Fridge rear-left, sink rear-window, stove rear-right OFF, oak island. No unexplained cake or duplicate packaging. W01, LEFT watch, RIGHT pocket.
 
 **Dialogue:**
@@ -1170,7 +1170,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 **Action:** All six settle into their original fixed seats. Hold the six servings before anyone takes a bite. No extra guest, seventh chair, candles or cake on the center board appears.
 **Opening state:** One wedge per plate; strawberry only with Max; empty board already in kitchen.
 **End state:** Six seated in canon positions; desserts untouched; calm celebration ready.
-**Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 4. Illustration missing; planned composition only; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 4. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Fixed seats:Dan near-left,Leo left-end,Ella far-left,Maya far-right,Nina right-end,Max near-right. No plate or food refill. W01, LEFT watch, RIGHT pocket.
 
 **Dialogue:**
@@ -1187,7 +1187,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 **Action:** Nina answers a brief incoming audio call from her father Ed on her phone, holding it in her right hand without speaker video. Everyone remains at the table; no new face appears.
 **Opening state:** Six seated; desserts untouched; Nina’s phone receives one call.
 **End state:** Audio call active; Ed voice-only; phone held by Nina, not Dan.
-**Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 1. Illustration missing; planned composition only; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 1. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Fixed seats:Dan near-left,Leo left-end,Ella far-left,Maya far-right,Nina right-end,Max near-right. No plate or food refill. W01, LEFT watch, RIGHT pocket.
 
 **Dialogue:**
@@ -1204,7 +1204,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 **Action:** Ed’s audio voice answers while Nina smiles. Dan and Leo share a warm look. Nina ends the call after saying goodbye; no continuing offscreen voice follows.
 **Opening state:** Ed audio call active; six desserts still untouched.
 **End state:** Call ended; phone placed screen-down beside Nina’s setting, away from food.
-**Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 2. Illustration missing; planned composition only; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 2. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Fixed seats:Dan near-left,Leo left-end,Ella far-left,Maya far-right,Nina right-end,Max near-right. No plate or food refill. W01, LEFT watch, RIGHT pocket.
 
 **Dialogue:**
@@ -1220,7 +1220,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 **Action:** Each takes a small first bite from their own slice. Use relaxed reaction coverage and a brief eating-time ellipsis; cake does not return whole between angles.
 **Opening state:** Six complete wedges at fixed seats; call ended; only Max has strawberry.
 **End state:** Each slice has a small bite missing; no serving remains in kitchen.
-**Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 3. Illustration missing; planned composition only; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 3. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Fixed seats:Dan near-left,Leo left-end,Ella far-left,Maya far-right,Nina right-end,Max near-right. No plate or food refill. W01, LEFT watch, RIGHT pocket.
 
 **Dialogue:**
@@ -1236,7 +1236,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 **Action:** Dan looks around the table rather than at the door decorations. Maya and Nina answer together in separate turns, with the same respect and warmth they have shown throughout.
 **Opening state:** Everyone eating from existing servings; plates never refill.
 **End state:** Dan’s shoulders relaxed; family’s shared effort acknowledged.
-**Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 4. Illustration missing; planned composition only; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 4. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Fixed seats:Dan near-left,Leo left-end,Ella far-left,Maya far-right,Nina right-end,Max near-right. No plate or food refill. W01, LEFT watch, RIGHT pocket.
 
 **Dialogue:**
@@ -1252,7 +1252,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 **Action:** Leo gestures lightly with his empty hand, fork resting on plate. Ella smiles at the family’s varied earlier mix-ups; Dan accepts the affectionate callback.
 **Opening state:** Six original seats; slices partly eaten; no extra food.
 **End state:** Warm agreement without a new errand or humiliation.
-**Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 1. Illustration missing; planned composition only; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 1. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Fixed seats:Dan near-left,Leo left-end,Ella far-left,Maya far-right,Nina right-end,Max near-right. No plate or food refill. W01, LEFT watch, RIGHT pocket.
 
 **Dialogue:**
@@ -1268,7 +1268,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 **Action:** Max eats his one strawberry with his fork after Nina checks the small bite. The empty berry space remains on his plate; no second strawberry appears.
 **Opening state:** One washed strawberry on Max’s plate; slice partly eaten.
 **End state:** Max’s single strawberry eaten; all other plates unchanged apart from normal eating.
-**Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 2. Illustration missing; planned composition only; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 2. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Fixed seats:Dan near-left,Leo left-end,Ella far-left,Maya far-right,Nina right-end,Max near-right. No plate or food refill. W01, LEFT watch, RIGHT pocket.
 
 **Dialogue:**
@@ -1284,7 +1284,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 **Action:** Dan glances at the empty center of the table, then asks rather than announcing a new plan. All six share an easy laugh; nobody gets up or starts another story.
 **Opening state:** Cake servings partly eaten; box and board remain in kitchen; fixed seats.
 **End state:** Family continues celebration with no unresolved delivery or new production task.
-**Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 3. Illustration missing; planned composition only; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 3. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Fixed seats:Dan near-left,Leo left-end,Ella far-left,Maya far-right,Nina right-end,Max near-right. No plate or food refill. W01, LEFT watch, RIGHT pocket.
 
 **Dialogue:**
@@ -1300,7 +1300,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 **Action:** Warm wide hold of the six original family members at the canonical table. Fade the editable end-card into the final two seconds inside this shot, keeping the current food states.
 **Opening state:** Six at table with partly eaten single servings; Max’s strawberry gone; no phone call active.
 **End state:** Story closes exactly20:00; family together; no whole cake, seventh guest or practice segment.
-**Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 4. Illustration missing; planned composition only; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 4. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Fixed seats:Dan near-left,Leo left-end,Ella far-left,Maya far-right,Nina right-end,Max near-right. No plate or food refill. W01, LEFT watch, RIGHT pocket.
 
 **Dialogue:**

@@ -1,6 +1,6 @@
 # Episode 04 — Dad Tried On the Wrong Shoes! | Shopping Mall English
 
-**80 × 15-second story shots = 20:00.** Twenty generated sheets are saved, but visual corrections remain blocked by the image-service quota. See [the precise checkpoint](CHECKPOINT.md); the package is not yet visually complete. A warm family comedy about choosing school shoes for Max: a harmless box mix-up, an upside-down map, a brief visit from Aunt Rose and a better fit found by listening. The same six Brooks actors and W01 wardrobes continue from Episodes 01–03. Maya and Nina are equally respected; Max describes his own comfort.
+**80 × 15-second story shots = 20:00.** Twenty generated storyboard sheets are saved and await visual corrections. See [the precise checkpoint](CHECKPOINT.md); the package is not yet visually complete. A warm family comedy about choosing school shoes for Max: a harmless box mix-up, an upside-down map, a brief visit from Aunt Rose and a better fit found by listening. The same six Brooks actors and W01 wardrobes continue from Episodes 01–03. Maya and Nina are equally respected; Max describes his own comfort.
 
 ## Written and visual handoff
 

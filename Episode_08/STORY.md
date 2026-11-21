@@ -1,7 +1,7 @@
 # Episode 08 — Grandma's Suitcase Has Everyone's Socks! | Home English | Family Story
 
 > **Format:** 80 continuous story shots ×15 seconds = **20:00 story runtime**.
-> **Status:** complete written preproduction draft; 15 of 20 planned storyboard sheets are saved (shots001–060). Sheets16–20 and listed visual corrections are blocked by the image-generation daily usage limit. Performed voices, individual motion first frames and finished film remain pending.
+> **Status:** All 20 storyboard sheets accompany the 80-shot screenplay. Creator sign-off, approved individual motion first frames, recorded voices and a finished film remain pending.
 > **Story-only:** natural General American family conversation. No drills, quizzes, narrator recaps or viewer countdowns; optional creator practice belongs after the movie.
 
 On a later afternoon, Maya's mother Ruth arrives with six identical packing cubes as family gifts. Dan fills them with the family's clean socks but puts the cubes back in Ruth's suitcase before asking where they belong. A gentle remembered story, a clear admission and six owner-confirmed labels turn a small mistake into an afternoon of cooperation. Ruth's visible cameo is SHOT_001–SHOT_008 only (120 seconds); she rests offscreen afterward.
@@ -57,7 +57,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **Action:** Ruth opens the suitcase on the bench, takes out six folded empty gray packing cubes and six blank card tabs, and hands the gift stack to Ella. A closed lavender personal pouch stays inside the suitcase.
 
-**Opening state:** One blue case is open on the bench; Ruth controls her personal contents.
+**Opening state:** Ruth stands beside her closed blue case. The entry bench is clear for her to open it.
 
 **End state:** Ella holds six empty gray cubes and six blank tabs; Ruth closes the case; lavender pouch remains inside.
 
@@ -135,7 +135,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **Action:** Ruth opens her case, lifts a folded checklist from its exterior pocket and lays it on the stand beside the case. She points to the closed lavender pouch without opening it.
 
-**Opening state:** One case open on stand; lavender pouch on right; six gifted cubes still at entry bench.
+**Opening state:** The case is closed on the stand with the lavender pouch inside. Six gifted cubes remain at the entry bench.
 
 **End state:** Checklist flat beside the open case; lavender pouch remains closed and untouched.
 
@@ -1565,7 +1565,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **End state:** Empty basket at counter end; six cubbies filled; walking route clear and appliances unused.
 
-**Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 1. Planned illustration; PNG generation blocked by daily image quota. Creator approval and individual motion first frame pending.
+**Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
@@ -1589,7 +1589,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **End state:** All six cubes remain stored; three children can identify their own locations.
 
-**Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 2. Planned illustration; PNG generation blocked by daily image quota. Creator approval and individual motion first frame pending.
+**Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
@@ -1615,7 +1615,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **End state:** Maya holds one clean towel; Nina has not opened Ruth's pouch or suitcase.
 
-**Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 3. Planned illustration; PNG generation blocked by daily image quota. Creator approval and individual motion first frame pending.
+**Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
@@ -1641,7 +1641,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **End state:** Nina has opened only the empty top drawer; case untouched on stand.
 
-**Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 4. Planned illustration; PNG generation blocked by daily image quota. Creator approval and individual motion first frame pending.
+**Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
@@ -1667,7 +1667,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **End state:** One towel inside closed top drawer; no socks or cubes in guest room.
 
-**Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 1. Planned illustration; PNG generation blocked by daily image quota. Creator approval and individual motion first frame pending.
+**Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
@@ -1693,7 +1693,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **End state:** Sage throw smooth on bed; all bedding remains in original places.
 
-**Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 2. Planned illustration; PNG generation blocked by daily image quota. Creator approval and individual motion first frame pending.
+**Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
@@ -1719,7 +1719,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **End state:** Hanger stays empty on hook; wardrobe, drawer and case closed.
 
-**Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 3. Planned illustration; PNG generation blocked by daily image quota. Creator approval and individual motion first frame pending.
+**Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
@@ -1745,7 +1745,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **End state:** Ruth checklist back beside case; Dan holds only new family sorting sheet for the kitchen.
 
-**Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 4. Planned illustration; PNG generation blocked by daily image quota. Creator approval and individual motion first frame pending.
+**Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
@@ -1771,7 +1771,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **End state:** All six have washed and dried hands off and on camera; no socks or cubes enter kitchen.
 
-**Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 1. Planned illustration; PNG generation blocked by daily image quota. Creator approval and individual motion first frame pending.
+**Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
@@ -1797,7 +1797,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **End state:** Both women share credit; no objects transferred or new household task begun.
 
-**Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 2. Planned illustration; PNG generation blocked by daily image quota. Creator approval and individual motion first frame pending.
+**Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
@@ -1823,7 +1823,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **End state:** Dan accepts asking first as part of helping; Leo lifts family record for dining room.
 
-**Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 3. Planned illustration; PNG generation blocked by daily image quota. Creator approval and individual motion first frame pending.
+**Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
@@ -1849,7 +1849,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **End state:** Max heads toward dining doorway beside Nina; kitchen remains clear and stove OFF.
 
-**Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 4. Planned illustration; PNG generation blocked by daily image quota. Creator approval and individual motion first frame pending.
+**Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
@@ -1875,7 +1875,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **End state:** Dan near-left, Leo left-end, Ella far-left, Maya far-right, Nina right-end, Max near-right; record by Dan.
 
-**Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 1. Planned illustration; PNG generation blocked by daily image quota. Creator approval and individual motion first frame pending.
+**Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
@@ -1901,7 +1901,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **End state:** Dan and children smile; old anecdote ends without introducing a new object.
 
-**Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 2. Planned illustration; PNG generation blocked by daily image quota. Creator approval and individual motion first frame pending.
+**Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
@@ -1927,7 +1927,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **End state:** Ella understands names follow confirmed ownership; nothing is borrowed without asking.
 
-**Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 3. Planned illustration; PNG generation blocked by daily image quota. Creator approval and individual motion first frame pending.
+**Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
@@ -1953,7 +1953,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **End state:** Family can describe location clearly; no repeated physical sorting or cube removal.
 
-**Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 4. Planned illustration; PNG generation blocked by daily image quota. Creator approval and individual motion first frame pending.
+**Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
@@ -1979,7 +1979,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **End state:** Future garden idea remains only a spoken plan; present sock story resolved.
 
-**Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 1. Planned illustration; PNG generation blocked by daily image quota. Creator approval and individual motion first frame pending.
+**Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
@@ -2005,7 +2005,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **End state:** Family laughs gently; nobody labels a person or invents a second Ruth.
 
-**Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 2. Planned illustration; PNG generation blocked by daily image quota. Creator approval and individual motion first frame pending.
+**Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
@@ -2031,7 +2031,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **End state:** Record folded on table; all family socks stored at home; Ruth's belongings untouched.
 
-**Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 3. Planned illustration; PNG generation blocked by daily image quota. Creator approval and individual motion first frame pending.
+**Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
@@ -2057,7 +2057,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **End state:** Story ends at20:00 with sorting resolved, guest resting offscreen and no new action begun.
 
-**Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 4. Planned illustration; PNG generation blocked by daily image quota. Creator approval and individual motion first frame pending.
+**Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 

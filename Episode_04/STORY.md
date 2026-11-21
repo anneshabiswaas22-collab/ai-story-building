@@ -822,7 +822,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **Action:** The six return along the same stationary walkway and gather at the fitting bench; Dan folds map and pockets it right-side.
 
-**Opening state:** Return walk completed; no stock moved while away; Max wears old shoes.
+**Opening state:** The return route is clear from the elevator bay to the fitting bench. Max wears his old shoes; no one carries stock.
 
 **End state:** Max seated again; map in Dan's right pocket; measuring device beside bench.
 
@@ -952,7 +952,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **Action:** Dan reaches for the nearest cream teal-band box; Leo checks its label before Dan opens it beside Max.
 
-**Opening state:** Model selected; measured starting size2; no shoes tried; one shelf box in Dan's hands.
+**Opening state:** Model selected; measured starting size2; no shoes tried. The cream teal-band box is still on its shelf.
 
 **End state:** Box identified as size1 trial; Dan asks whether to compare rather than claiming it fits.
 

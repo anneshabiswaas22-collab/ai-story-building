@@ -1,6 +1,16 @@
-# Current production status — 2026-11-16
+# Current production status
 
-## Saved and verified
+The [master audit](docs/AUDIT_EP01_EP10.md) records the current panel findings and validation results.
+
+## Active storyboard repairs — 2026-11-20
+
+The creator has requested fixes to the actual storyboard images and withdrawn the video-prompt workaround. The [image repair log](docs/STORYBOARD_REPAIR_LOG.md) records selected PNG changes and remaining defects. Selected corrections and any remaining panel issues are recorded in the repair log; creator approval remains pending. Current QA records list 312 major visual discrepancies and 488 shots awaiting human review.
+
+## Audit branch validation — 2026-11-19
+
+On `audit/episode-01-10`, all 800 shot-review records now match current screenplay actions, panel mappings and full selected-image hashes. They record **325 major visual failures and 475 rows awaiting human review**; creator approval remains pending. Local strict structural checks, all ten sync checks, production handoff generation and 113 regression tests pass. These audit-branch results extend the historical merge checkpoint below; the [master audit](docs/AUDIT_EP01_EP10.md) gives recovery evidence and reproduction commands.
+
+## File coverage and structural checks at the 2026-11-16 merge
 
 - **10/10 written episodes**; 80 timed 15-second screenplay shots per episode, for **800/800** written shot concepts (20 minutes of story per episode).
 - **200/200 unique four-panel storyboard PNGs**, exactly 20 sheets per episode, covering all 800 concepts. All were checked by the merged repository's structural checkers. This is *file and source completeness*, **not** visual or creator acceptance.
@@ -49,6 +59,7 @@ python tools/check_series.py --strict-art
 python tools/audit_series.py --strict-art
 python tools/production_handoff.py --output-dir /tmp/maple-production-handoff
 python tools/check_root_docs.py
+python tools/check_audit_qa.py
 python -m unittest discover -s tests -v
 ```
 
