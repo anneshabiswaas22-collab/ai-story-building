@@ -1,966 +1,1369 @@
 1
-00:00:00,500 --> 00:00:04,620
+00:00:00,500 --> 00:00:04,198
 The library has a quiet reading corner for us.
 
 2
-00:00:04,870 --> 00:00:08,560
+00:00:04,448 --> 00:00:07,760
 And three books that need to go back.
 
 3
-00:00:08,810 --> 00:00:11,640
+00:00:08,010 --> 00:00:10,550
 A fine journey for a Saturday.
 
 4
-00:00:15,500 --> 00:00:19,190
-Red, blue, yellow. All three returns are here.
+00:00:10,800 --> 00:00:14,498
+Three books coming home sounds like a fair
+trade.
 
 5
-00:00:19,440 --> 00:00:21,410
-Nothing under the island.
+00:00:15,500 --> 00:00:19,129
+Red, blue, yellow. All three returns are here.
 
 6
-00:00:21,660 --> 00:00:24,490
-Good. Even the floor is ready.
+00:00:19,379 --> 00:00:21,316
+Nothing under the island.
 
 7
-00:00:30,500 --> 00:00:35,480
+00:00:21,566 --> 00:00:24,349
+Good. Even the floor is ready.
+
+8
+00:00:24,599 --> 00:00:29,497
+Good. None of the return books are hiding
+under our feet.
+
+9
+00:00:30,500 --> 00:00:34,724
 Three adult tickets and three child tickets.
 Nine dollars, already paid.
 
-8
-00:00:35,730 --> 00:00:38,990
+10
+00:00:34,974 --> 00:00:37,739
 Then my wallet gets a quiet trip.
 
-9
-00:00:39,240 --> 00:00:42,500
+11
+00:00:37,989 --> 00:00:40,754
 Until we come home. These are one-way.
 
-10
+12
+00:00:41,004 --> 00:00:44,498
+We'll plan that trip when it's time to leave.
+
+13
 00:00:45,500 --> 00:00:49,190
 Route seven, nine fifty. I have the time.
 
-11
+14
 00:00:49,440 --> 00:00:52,270
 And the destination is the library.
 
-12
+15
 00:00:52,520 --> 00:00:54,490
 We need both parts.
 
-13
+16
+00:00:54,740 --> 00:00:59,290
+Library first, then the time. I'll try saying
+it together.
+
+17
 00:01:00,500 --> 00:01:03,330
 It might rain on our books.
 
-14
+18
 00:01:03,580 --> 00:01:06,840
 We can be ready without opening it.
 
-15
+19
 00:01:07,090 --> 00:01:09,490
 My hair appreciates that policy.
 
-16
-00:01:15,500 --> 00:01:19,190
-Cards stay with me. Books stay with Leo.
-
-17
-00:01:19,440 --> 00:01:21,840
-And tickets stay with Dan.
-
-18
-00:01:22,090 --> 00:01:24,920
-Three jobs. No guessing which pocket.
-
-19
-00:01:30,500 --> 00:01:33,330
-I want a book of maps.
-
 20
-00:01:33,580 --> 00:01:36,840
-I want to see how seeds grow.
+00:01:09,740 --> 00:01:14,290
+What about the dinosaur? I hope its book stays
+dry.
 
 21
-00:01:37,090 --> 00:01:40,350
-Mine should have a very large dinosaur.
+00:01:15,500 --> 00:01:19,129
+Cards stay with me. Books stay with Leo.
 
 22
-00:01:45,500 --> 00:01:48,760
-Early, organized, and all six of us.
+00:01:19,379 --> 00:01:21,739
+And tickets stay with Dan.
 
 23
-00:01:49,010 --> 00:01:52,700
-Let us keep that last part all day.
+00:01:21,989 --> 00:01:24,772
+Three jobs. No guessing which pocket.
 
 24
-00:01:52,950 --> 00:01:55,780
-The dinosaur can wait for us.
+00:01:25,022 --> 00:01:29,497
+I'll keep the backpack close. Books are my
+department today.
 
 25
-00:02:00,500 --> 00:02:03,330
-Here we are. Ten minutes early.
+00:01:30,500 --> 00:01:33,283
+I want a book of maps.
 
 26
-00:02:03,580 --> 00:02:06,840
-There is another stop across the street.
+00:01:33,533 --> 00:01:36,739
+I want to see how seeds grow.
 
 27
-00:02:07,090 --> 00:02:10,350
-A neighborhood can be very well supplied.
+00:01:36,989 --> 00:01:40,195
+Mine should have a very large dinosaur.
 
 28
-00:02:15,500 --> 00:02:18,330
-I may have mastered arriving early.
+00:01:40,445 --> 00:01:44,497
+Three very different readers. That sounds like
+our family.
 
 29
-00:02:18,580 --> 00:02:21,840
-My wrist says we are extremely early.
+00:01:45,500 --> 00:01:48,426
+Early, organized, and all six of us.
 
 30
-00:02:22,090 --> 00:02:25,780
-Now let us check where we are going.
+00:01:48,676 --> 00:01:51,988
+Let us keep that last part all day.
 
 31
-00:02:30,500 --> 00:02:32,300
-It says seven.
+00:01:52,238 --> 00:01:54,778
+The dinosaur can wait for us.
 
 32
-00:02:32,550 --> 00:02:35,810
-And there is another line under it.
+00:01:55,028 --> 00:01:59,498
+I don't think any of my seeds will run away
+either.
 
 33
-00:02:36,060 --> 00:02:39,750
-My excellent plan appears to have small print.
+00:02:00,500 --> 00:02:03,283
+Here we are. Ten minutes early.
 
 34
-00:02:45,500 --> 00:02:49,190
-Does the other bench get a different bus?
+00:02:03,533 --> 00:02:06,739
+There is another stop across the street.
 
 35
-00:02:49,440 --> 00:02:52,700
-It gets buses going the other way.
+00:02:06,989 --> 00:02:10,195
+A neighborhood can be very well supplied.
 
 36
-00:02:52,950 --> 00:02:55,780
-That sounds like an important difference.
+00:02:10,445 --> 00:02:14,497
+Maybe they're only well supplied in the other
+direction.
 
 37
-00:03:00,500 --> 00:03:03,760
-Nine fifty here too. That is reassuring.
+00:02:15,500 --> 00:02:18,040
+I may have mastered arriving early.
 
 38
-00:03:04,010 --> 00:03:06,840
-Check the heading above the time.
+00:02:18,290 --> 00:02:21,216
+My wrist says we are extremely early.
 
 39
-00:03:07,090 --> 00:03:10,780
-Two buses can leave at the same minute.
+00:02:21,466 --> 00:02:24,778
+Now let us check where we are going.
 
 40
-00:03:15,500 --> 00:03:17,470
-Our sign says River.
+00:02:25,028 --> 00:02:29,498
+Fair point. A watch can't tell us which stop
+to use.
 
 41
-00:03:17,720 --> 00:03:21,410
-The library does have a book about rivers.
+00:02:30,500 --> 00:02:32,293
+It says seven.
 
 42
-00:03:21,660 --> 00:03:25,780
-But we would like the building with the books.
+00:02:32,543 --> 00:02:35,790
+And there is another line under it.
 
 43
-00:03:30,500 --> 00:03:33,330
-Could the library come here instead?
+00:02:36,040 --> 00:02:39,716
+My excellent plan appears to have small print.
 
 44
-00:03:33,580 --> 00:03:36,410
-It would need an enormous ticket.
+00:02:39,966 --> 00:02:44,498
+Let's read that smaller line before we pick
+this bench.
 
 45
-00:03:36,660 --> 00:03:39,490
-We can make the smaller journey.
+00:02:45,500 --> 00:02:49,017
+Does the other bench get a different bus?
 
 46
-00:03:45,500 --> 00:03:47,900
-Bakery behind us, crossing ahead.
+00:02:49,267 --> 00:02:52,374
+It gets buses going the other way.
 
 47
-00:03:48,150 --> 00:03:50,980
-The library is north of here.
+00:02:52,624 --> 00:02:55,321
+That sounds like an important difference.
 
 48
-00:03:51,230 --> 00:03:55,350
-My time was right. My side may not be.
+00:02:55,571 --> 00:02:59,498
+So the benches look alike, but the rides
+don't?
 
 49
-00:04:00,500 --> 00:04:04,190
-Did the stop move while we were walking?
+00:03:00,500 --> 00:03:03,607
+Nine fifty here too. That is reassuring.
 
 50
-00:04:04,440 --> 00:04:08,130
-No. I brought us to the wrong side.
+00:03:03,857 --> 00:03:06,554
+Check the heading above the time.
 
 51
-00:04:08,380 --> 00:04:11,210
-Then we can change sides carefully.
+00:03:06,804 --> 00:03:10,321
+Two buses can leave at the same minute.
 
 52
-00:04:15,500 --> 00:04:20,480
+00:03:10,571 --> 00:03:14,498
+And my watch wouldn't know which one I meant.
+
+53
+00:03:15,500 --> 00:03:17,377
+Our sign says River.
+
+54
+00:03:17,627 --> 00:03:21,144
+The library does have a book about rivers.
+
+55
+00:03:21,394 --> 00:03:25,321
+But we would like the building with the books.
+
+56
+00:03:25,571 --> 00:03:29,498
+I'd rather read that river book inside the
+library.
+
+57
+00:03:30,500 --> 00:03:33,197
+Could the library come here instead?
+
+58
+00:03:33,447 --> 00:03:36,144
+It would need an enormous ticket.
+
+59
+00:03:36,394 --> 00:03:39,091
+We can make the smaller journey.
+
+60
+00:03:39,341 --> 00:03:44,498
+Good. I don't think a whole building fits
+through the bus door.
+
+61
+00:03:45,500 --> 00:03:47,787
+Bakery behind us, crossing ahead.
+
+62
+00:03:48,037 --> 00:03:50,734
+The library is north of here.
+
+63
+00:03:50,984 --> 00:03:54,911
+My time was right. My side may not be.
+
+64
+00:03:55,161 --> 00:03:59,498
+The bakery's a better clue than your watch
+this time.
+
+65
+00:04:00,500 --> 00:04:03,812
+Did the stop move while we were walking?
+
+66
+00:04:04,062 --> 00:04:07,374
+No. I brought us to the wrong side.
+
+67
+00:04:07,624 --> 00:04:10,164
+Then we can change sides carefully.
+
+68
+00:04:10,414 --> 00:04:14,498
+Good. It would be hard to carry the whole
+stop.
+
+69
+00:04:15,500 --> 00:04:20,247
 The right bus number can still take us the
 wrong way.
 
-53
-00:04:20,730 --> 00:04:22,700
+70
+00:04:20,497 --> 00:04:22,374
 Right number, wrong direction.
 
-54
-00:04:22,950 --> 00:04:25,780
+71
+00:04:22,624 --> 00:04:25,321
 We caught it before getting on.
 
-55
-00:04:30,500 --> 00:04:33,330
+72
+00:04:25,571 --> 00:04:29,498
+I'd rather look a little silly on this
+sidewalk.
+
+73
+00:04:30,500 --> 00:04:33,040
 We still have time to check.
 
-56
-00:04:33,580 --> 00:04:36,410
+74
+00:04:33,290 --> 00:04:35,830
 The crossing is at the intersection.
 
-57
-00:04:36,660 --> 00:04:41,210
+75
+00:04:36,080 --> 00:04:40,164
 And if we miss this bus, we wait. No racing.
 
-58
+76
+00:04:40,414 --> 00:04:44,498
+Good. The library books can wait an extra few
+minutes.
+
+77
 00:04:45,500 --> 00:04:47,900
 We are beside the bakery.
 
-59
+78
 00:04:48,150 --> 00:04:51,410
 We want the library near Oak Street.
 
-60
+79
 00:04:51,660 --> 00:04:54,920
 Those are useful things to tell someone.
 
-61
-00:05:00,500 --> 00:05:05,480
+80
+00:04:55,170 --> 00:04:59,290
+Grandpa would know which side we mean from
+that.
+
+81
+00:05:00,500 --> 00:05:04,843
 My dad knows this street. We can describe
 where we are.
 
-62
-00:05:05,730 --> 00:05:08,560
+82
+00:05:05,093 --> 00:05:07,561
 Grandpa Ed can check our thinking.
 
-63
-00:05:08,810 --> 00:05:12,070
+83
+00:05:07,811 --> 00:05:10,654
 Tell him the stop has not moved.
 
-64
-00:05:15,500 --> 00:05:19,190
+84
+00:05:10,904 --> 00:05:14,497
+I think he'll want to hear the destination
+first.
+
+85
+00:05:15,500 --> 00:05:18,630
 Route seven, bakery side. We want the library.
 
-65
-00:05:19,440 --> 00:05:23,130
+86
+00:05:18,880 --> 00:05:22,010
 That gives Dad something clear to work with.
 
-66
-00:05:23,380 --> 00:05:27,500
+87
+00:05:22,260 --> 00:05:25,754
 Better than saying we are beside a bus stop.
 
-67
-00:05:30,500 --> 00:05:32,900
+88
+00:05:26,004 --> 00:05:29,498
+Good. I'll say where we want to go, too.
+
+89
+00:05:30,500 --> 00:05:32,719
 Are the cards still here?
 
-68
-00:05:33,150 --> 00:05:35,980
+90
+00:05:32,969 --> 00:05:35,585
 Yes. Zipped in the same place.
 
-69
-00:05:36,230 --> 00:05:40,780
+91
+00:05:35,835 --> 00:05:40,042
 Good. We are fixing one small mistake, not
 starting three.
 
-70
-00:05:45,500 --> 00:05:48,760
+92
+00:05:40,292 --> 00:05:44,499
+One mistake is plenty to keep us busy this
+morning.
+
+93
+00:05:45,500 --> 00:05:48,550
 I can see Library across the street.
 
-71
-00:05:49,010 --> 00:05:50,810
+94
+00:05:48,800 --> 00:05:50,484
 That is encouraging.
 
-72
-00:05:51,060 --> 00:05:56,040
+95
+00:05:50,734 --> 00:05:55,393
 We will read the whole sign when we reach that
 side.
 
-73
-00:06:00,500 --> 00:06:03,760
+96
+00:05:55,643 --> 00:05:59,498
+This time let's read the big and little words.
+
+97
+00:06:00,500 --> 00:06:03,607
 These two dots are the two stops.
 
-74
-00:06:04,010 --> 00:06:07,270
+98
+00:06:03,857 --> 00:06:06,964
 And this marked crossing connects the
 sidewalks.
 
-75
-00:06:07,520 --> 00:06:10,780
+99
+00:06:07,214 --> 00:06:10,321
 A very useful line between two dots.
 
-76
-00:06:15,500 --> 00:06:18,330
+100
+00:06:10,571 --> 00:06:14,498
+We'll use that crossing when we're ready, all
+together.
+
+101
+00:06:15,500 --> 00:06:17,968
 Did we spoil our library day?
 
-77
-00:06:18,580 --> 00:06:22,700
+102
+00:06:18,218 --> 00:06:21,811
 Not at all. We found a small problem early.
 
-78
-00:06:22,950 --> 00:06:27,070
+103
+00:06:22,061 --> 00:06:25,654
 And we have a careful way to fix it.
 
-79
-00:06:30,500 --> 00:06:35,050
+104
+00:06:25,904 --> 00:06:29,497
+Good. I was worried my dinosaur might miss me.
+
+105
+00:06:30,500 --> 00:06:34,359
 Hi, Dad. Have you a minute for a direction
 check?
 
-80
-00:06:35,300 --> 00:06:39,420
+106
+00:06:34,609 --> 00:06:38,103
 We found the right number and an interesting
 problem.
 
-81
-00:06:45,500 --> 00:06:50,050
+107
+00:06:38,353 --> 00:06:41,118
+I'll tell him which side we're on.
+
+108
+00:06:41,368 --> 00:06:44,498
+Start with the bakery. That's easy to spot.
+
+109
+00:06:45,500 --> 00:06:49,359
 I wanted this to be the outing with no
 mistakes.
 
-82
-00:06:50,300 --> 00:06:53,990
+110
+00:06:49,609 --> 00:06:52,739
 You brought us early enough to notice one.
 
-83
-00:06:54,240 --> 00:06:56,640
+111
+00:06:52,989 --> 00:06:55,024
 And we are still together.
 
-84
-00:07:00,500 --> 00:07:05,480
+112
+00:06:55,274 --> 00:06:59,498
+I do like that part. We can work it out
+together.
+
+113
+00:07:00,500 --> 00:07:04,724
 We are at the bakery stop. The panel says
 southbound, River.
 
-85
-00:07:05,730 --> 00:07:09,850
+114
+00:07:04,974 --> 00:07:08,468
 Hello, travelers. And where do you want to
 arrive?
 
-86
-00:07:10,100 --> 00:07:12,500
+115
+00:07:08,718 --> 00:07:10,753
 The library on Oak Street.
 
-87
-00:07:15,500 --> 00:07:20,480
+116
+00:07:11,003 --> 00:07:14,497
+That's the part we want to get right, Dad.
+
+117
+00:07:15,500 --> 00:07:20,159
 Check the destination on your leaflet. What
 direction does it name?
 
-88
-00:07:20,730 --> 00:07:22,530
+118
+00:07:20,409 --> 00:07:22,093
 Northbound, Library.
 
-89
-00:07:22,780 --> 00:07:25,610
+119
+00:07:22,343 --> 00:07:24,991
 That matches the map’s north arrow.
 
-90
-00:07:30,500 --> 00:07:33,330
+120
+00:07:25,241 --> 00:07:29,498
+Good. The leaflet and the map tell the same
+story.
+
+121
+00:07:30,500 --> 00:07:33,116
 Do we need bus eight instead?
 
-91
-00:07:33,580 --> 00:07:38,990
+122
+00:07:33,366 --> 00:07:38,368
 Seven goes both ways here. Check the
 destination on the bus too.
 
-92
-00:07:39,240 --> 00:07:41,210
+123
+00:07:38,618 --> 00:07:40,439
 We will. Thanks, Dad.
 
-93
-00:07:45,500 --> 00:07:49,190
+124
+00:07:40,689 --> 00:07:44,498
+Same number, different place. I can look for
+Library.
+
+125
+00:07:45,500 --> 00:07:48,630
 We will check the sign ourselves before
 boarding.
 
-94
-00:07:49,440 --> 00:07:53,560
+126
+00:07:48,880 --> 00:07:52,374
 Enjoy the library. Save a good story for me.
 
-95
-00:07:53,810 --> 00:07:57,070
+127
+00:07:52,624 --> 00:07:55,389
 First, let us reach that crossing together.
 
-96
-00:08:00,500 --> 00:08:03,760
+128
+00:07:55,639 --> 00:07:59,498
+Bye, Dad. We'll save you the story of both
+stops.
+
+129
+00:08:00,500 --> 00:08:03,343
 Could you check the direction with me?
 
-97
-00:08:04,010 --> 00:08:07,700
+130
+00:08:03,593 --> 00:08:06,811
 Yes. We can look at the same thing.
 
-98
-00:08:07,950 --> 00:08:12,070
+131
+00:08:07,061 --> 00:08:10,654
 Then we will all know why it is right.
 
-99
-00:08:15,500 --> 00:08:19,190
+132
+00:08:10,904 --> 00:08:14,497
+Good. I like hearing how you figured it out.
+
+133
+00:08:15,500 --> 00:08:18,718
 We are going away from the bus stop.
 
-100
-00:08:19,440 --> 00:08:24,420
+134
+00:08:18,968 --> 00:08:23,311
 For a short walk that takes us to the right
 one.
 
-101
-00:08:30,500 --> 00:08:32,300
+135
+00:08:23,561 --> 00:08:25,654
+Why the long way around?
+
+136
+00:08:25,904 --> 00:08:29,497
+That's where we can cross together at the
+signal.
+
+137
+00:08:30,500 --> 00:08:32,184
 I pressed it.
 
-102
-00:08:32,550 --> 00:08:35,810
+138
+00:08:32,434 --> 00:08:35,484
 Now we wait for the walking signal.
 
-103
-00:08:36,060 --> 00:08:40,610
+139
+00:08:35,734 --> 00:08:39,991
 The button asks. It does not stop every car
 itself.
 
-104
-00:08:45,500 --> 00:08:49,190
+140
+00:08:40,241 --> 00:08:44,498
+Got it. My finger asked and my feet can wait.
+
+141
+00:08:45,500 --> 00:08:48,718
 Will the library be angry if we wait?
 
-105
-00:08:49,440 --> 00:08:52,270
+142
+00:08:48,968 --> 00:08:51,436
 Libraries are very good at waiting.
 
-106
-00:08:52,520 --> 00:08:56,640
+143
+00:08:51,686 --> 00:08:55,279
 And we have another bus if we need one.
 
-107
+144
+00:08:55,529 --> 00:08:59,497
+Good. I wouldn't want to run with all those
+books.
+
+145
 00:09:00,500 --> 00:09:04,190
 Walking signal. Check that the cars have
 stopped.
 
-108
+146
 00:09:04,440 --> 00:09:06,240
 Clear this way.
 
-109
+147
 00:09:06,490 --> 00:09:08,890
 And clear here. Together now.
 
-110
+148
+00:09:09,140 --> 00:09:13,690
+With you, Mom. The books are coming across
+with us.
+
+149
 00:09:15,500 --> 00:09:17,900
 This stop is getting closer.
 
-111
+150
 00:09:18,150 --> 00:09:21,410
 We are the part that is moving.
 
-112
-00:09:30,500 --> 00:09:34,190
+151
+00:09:21,660 --> 00:09:23,630
+Is everybody still together?
+
+152
+00:09:23,880 --> 00:09:27,570
+Yes, keep walking till we're on the sidewalk.
+
+153
+00:09:30,500 --> 00:09:33,911
 The blue shelter is a little way back.
 
-113
-00:09:34,440 --> 00:09:36,410
+154
+00:09:34,161 --> 00:09:35,982
 Along the sidewalk now.
 
-114
-00:09:36,660 --> 00:09:40,350
+155
+00:09:36,232 --> 00:09:39,643
 A longer safe path was a good path.
 
-115
-00:09:45,500 --> 00:09:48,330
+156
+00:09:39,893 --> 00:09:44,497
+And we can see the shelter without stepping
+off the curb.
+
+157
+00:09:45,500 --> 00:09:48,116
 Our old bench is still there.
 
-116
-00:09:48,580 --> 00:09:50,980
+158
+00:09:48,366 --> 00:09:50,585
 Exactly where we left it.
 
-117
-00:09:51,230 --> 00:09:55,780
+159
+00:09:50,835 --> 00:09:55,042
 Now we will check the sign before choosing the
 bench.
 
-118
+160
+00:09:55,292 --> 00:09:59,499
+It'd be nice if this bench came with
+directions too.
+
+161
 00:10:00,500 --> 00:10:02,300
 Seven. Northbound. Library.
 
-119
+162
 00:10:02,550 --> 00:10:05,380
 Three parts of one useful sign.
 
-120
+163
 00:10:05,630 --> 00:10:08,890
 And the right side of the street.
 
-121
+164
+00:10:09,140 --> 00:10:13,690
+All three match the library trip we wanted
+this morning.
+
+165
 00:10:15,500 --> 00:10:17,470
 Saturday, northbound, nine fifty.
 
-122
+166
 00:10:17,720 --> 00:10:20,120
 All on the same line.
 
-123
+167
 00:10:20,370 --> 00:10:24,060
 My original number finally has the right
 company.
 
-124
-00:10:30,500 --> 00:10:33,330
+168
+00:10:24,310 --> 00:10:29,290
+We didn't change the time. Just where we wait
+for it.
+
+169
+00:10:30,500 --> 00:10:33,197
 This bench feels just as comfortable.
 
-125
-00:10:33,580 --> 00:10:37,700
+170
+00:10:33,447 --> 00:10:37,374
 Comfortable is good. Going the right way helps
 too.
 
-126
-00:10:37,950 --> 00:10:39,920
+171
+00:10:37,624 --> 00:10:39,501
 We have both now.
 
-127
+172
+00:10:39,751 --> 00:10:44,498
+My knees like it here as much as the other
+side.
+
+173
 00:10:45,500 --> 00:10:47,470
 Six tickets, still here.
 
-128
+174
 00:10:47,720 --> 00:10:49,690
 Three adult, three child.
 
-129
+175
 00:10:49,940 --> 00:10:54,060
 And one envelope to keep the used ones
 together.
 
-130
-00:11:00,500 --> 00:11:03,760
+176
+00:10:54,310 --> 00:10:58,430
+Good. Nobody has to look for small change
+today.
+
+177
+00:11:00,500 --> 00:11:03,550
 Six dollars for adults, three for us.
 
-131
-00:11:04,010 --> 00:11:05,810
+178
+00:11:03,800 --> 00:11:05,484
 Nine altogether.
 
-132
-00:11:06,060 --> 00:11:10,180
+179
+00:11:05,734 --> 00:11:09,589
 A clear total. I enjoy those more every day.
 
-133
-00:11:15,500 --> 00:11:19,190
+180
+00:11:09,839 --> 00:11:14,498
+And none of us has to buy a second ticket
+today.
+
+181
+00:11:15,500 --> 00:11:18,718
 Seven, Library. The bus agrees with the stop.
 
-134
-00:11:19,440 --> 00:11:22,700
+182
+00:11:18,968 --> 00:11:21,811
 That is the last sign to check.
 
-135
-00:11:22,950 --> 00:11:26,640
+183
+00:11:22,061 --> 00:11:25,279
 Then we wait for the door to open.
 
-136
-00:11:30,500 --> 00:11:32,470
+184
+00:11:25,529 --> 00:11:29,497
+Doors first, then feet. We can see it from
+here.
+
+185
+00:11:30,500 --> 00:11:32,437
 The door is open.
 
-137
-00:11:32,720 --> 00:11:35,550
+186
+00:11:32,687 --> 00:11:35,470
 And the bus is fully stopped.
 
-138
-00:11:35,800 --> 00:11:39,490
+187
+00:11:35,720 --> 00:11:39,349
 Now we can go one at a time.
 
-139
+188
+00:11:39,599 --> 00:11:44,497
+Good. It looks much bigger up close than on
+the leaflet.
+
+189
 00:11:45,500 --> 00:11:47,900
 Are we going on now?
 
-140
+190
 00:11:48,150 --> 00:11:50,980
 After anyone coming off has room.
 
-141
+191
 00:11:51,230 --> 00:11:53,630
 A little space helps everyone.
 
-142
+192
+00:11:53,880 --> 00:11:58,000
+I'll wait right here with you until it's
+clear.
+
+193
 00:12:00,500 --> 00:12:04,620
 Good morning. Six prepaid tickets for the
 library, please.
 
-143
+194
 00:12:04,870 --> 00:12:06,840
 We are all together.
 
-144
+195
+00:12:07,090 --> 00:12:09,920
+Would you count with me, Maya?
+
+196
+00:12:10,170 --> 00:12:13,430
+Of course. Three adults and three children.
+
+197
 00:12:15,500 --> 00:12:17,470
 One for each person.
 
-145
+198
 00:12:17,720 --> 00:12:21,840
 Six checked. No extra passengers hiding in my
 envelope.
 
-146
-00:12:30,500 --> 00:12:32,470
+199
+00:12:22,090 --> 00:12:24,490
+Does that leave anyone behind?
+
+200
+00:12:24,740 --> 00:12:28,430
+Nobody. All six tickets belong to someone
+here.
+
+201
+00:12:30,500 --> 00:12:32,437
 Take the handrail, Max.
 
-147
-00:12:32,720 --> 00:12:35,980
+202
+00:12:32,687 --> 00:12:35,893
 A moving staircase that waits for us.
 
-148
-00:12:36,230 --> 00:12:39,920
+203
+00:12:36,143 --> 00:12:39,772
 This one stays still until everyone is aboard.
 
-149
+204
+00:12:40,022 --> 00:12:44,497
+Hang on until both your feet are on the bus.
+
+205
 00:12:45,500 --> 00:12:47,470
 Here is their home.
 
-150
+206
 00:12:47,720 --> 00:12:50,980
 Six used tickets, back in one envelope.
 
-151
+207
 00:12:51,230 --> 00:12:53,630
 Now we need six seats.
 
-152
+208
+00:12:53,880 --> 00:12:58,000
+Let's keep this aisle clear while we find
+them.
+
+209
 00:13:00,500 --> 00:13:02,300
 Ella, beside me.
 
-153
+210
 00:13:02,550 --> 00:13:04,950
 Leo, this pair is ours.
 
-154
+211
 00:13:05,200 --> 00:13:08,890
 Dad, our seats face the correct direction too.
 
-155
+212
+00:13:09,140 --> 00:13:13,690
+Lucky us. I already tried traveling the other
+way today.
+
+213
 00:13:15,500 --> 00:13:17,470
 Books below, cards above.
 
-156
+214
 00:13:17,720 --> 00:13:20,120
 And nothing in the aisle.
 
-157
+215
 00:13:20,370 --> 00:13:23,630
 The books have a very tidy journey.
 
-158
-00:13:30,500 --> 00:13:33,760
+216
+00:13:23,880 --> 00:13:28,430
+Good. Nobody sharing our ride has to step
+around them.
+
+217
+00:13:30,500 --> 00:13:33,607
 Departure. From the right stop this time.
 
-159
-00:13:34,010 --> 00:13:38,130
+218
+00:13:33,857 --> 00:13:37,784
 Does the wrong stop know we changed our minds?
 
-160
-00:13:38,380 --> 00:13:40,780
+219
+00:13:38,034 --> 00:13:40,321
 It will manage without us.
 
-161
-00:13:45,500 --> 00:13:48,760
+220
+00:13:40,571 --> 00:13:44,498
+I think it's happy to have its bench back.
+
+221
+00:13:45,500 --> 00:13:48,426
 The bus is doing all the walking.
 
-162
-00:13:49,010 --> 00:13:51,840
+222
+00:13:48,676 --> 00:13:51,216
 And we are doing the sitting.
 
-163
-00:13:52,090 --> 00:13:56,210
+223
+00:13:51,466 --> 00:13:55,164
 I am very good at this part of traveling.
 
-164
-00:14:00,500 --> 00:14:03,330
+224
+00:13:55,414 --> 00:13:59,498
+For once, your feet don't have to lead the
+way.
+
+225
+00:14:00,500 --> 00:14:03,283
 Pine Street comes before Oak Street.
 
-165
-00:14:03,580 --> 00:14:05,980
+226
+00:14:03,533 --> 00:14:05,893
 We can watch for it.
 
-166
-00:14:06,230 --> 00:14:09,920
+227
+00:14:06,143 --> 00:14:09,772
 And keep our bags ready without standing yet.
 
-167
+228
+00:14:10,022 --> 00:14:14,497
+I'll watch for the names while the books stay
+put.
+
+229
 00:14:15,500 --> 00:14:19,190
 We passed the bakery a long time ago.
 
-168
+230
 00:14:19,440 --> 00:14:21,240
 A promising development.
 
-169
+231
 00:14:21,490 --> 00:14:23,460
 Oak Street is next.
 
-170
-00:14:30,500 --> 00:14:35,050
+232
+00:14:23,710 --> 00:14:27,830
+Good. I'll keep my ears open for our stop.
+
+233
+00:14:30,500 --> 00:14:34,468
 How will the bus know we want to get off?
 
-171
-00:14:35,300 --> 00:14:37,270
+234
+00:14:34,718 --> 00:14:36,436
 We request the stop.
 
-172
-00:14:37,520 --> 00:14:41,640
+235
+00:14:36,686 --> 00:14:40,279
 The library is the next one on our route.
 
-173
+236
+00:14:40,529 --> 00:14:44,497
+Then how do we ask without shouting at the
+driver?
+
+237
 00:14:45,500 --> 00:14:47,300
 Requested.
 
-174
+238
 00:14:47,550 --> 00:14:50,380
 We wait until the bus stops.
 
-175
+239
 00:14:50,630 --> 00:14:53,890
 The bag can wait down here too.
 
-176
+240
+00:14:54,140 --> 00:14:58,690
+Right. The bus knows where we want to get off.
+
+241
 00:15:00,500 --> 00:15:02,300
 I am ready.
 
-177
+242
 00:15:02,550 --> 00:15:06,240
 Excellent. Ready can sit down for another
 moment.
 
-178
+243
 00:15:06,490 --> 00:15:09,750
 That is the comfortable kind of ready.
 
-179
+244
+00:15:10,000 --> 00:15:14,120
+My knees are happy to wait for the doors.
+
+245
 00:15:15,500 --> 00:15:17,470
 Blue canopy, library sign.
 
-180
+246
 00:15:17,720 --> 00:15:19,690
 That is the place.
 
-181
+247
 00:15:19,940 --> 00:15:23,200
 And the books are ready to return.
 
-182
+248
+00:15:23,450 --> 00:15:27,570
+Good. We'll take the whole family through that
+door.
+
+249
 00:15:30,500 --> 00:15:32,900
 Arrival. Now we can stand.
 
-183
+250
 00:15:33,150 --> 00:15:34,950
 Folder with me.
 
-184
+251
 00:15:35,200 --> 00:15:38,460
 Three books and one umbrella with me.
 
-185
-00:15:45,500 --> 00:15:48,330
+252
+00:15:38,710 --> 00:15:42,830
+All six of us can get off together now.
+
+253
+00:15:45,500 --> 00:15:48,116
 Thank you. Have a good morning.
 
-186
-00:15:48,580 --> 00:15:52,270
+254
+00:15:48,366 --> 00:15:51,777
 That bus knew exactly where it was going.
 
-187
-00:16:00,500 --> 00:16:04,190
+255
+00:15:52,027 --> 00:15:55,836
+And we knew where we wanted to get off.
+
+256
+00:15:56,086 --> 00:15:59,497
+That was the part I needed help with.
+
+257
+00:16:00,500 --> 00:16:04,060
 Here we are. Quiet voices from this door.
 
-188
-00:16:04,440 --> 00:16:08,130
+258
+00:16:04,310 --> 00:16:07,870
 My grand arrival speech can be very small.
 
-189
-00:16:08,380 --> 00:16:10,180
+259
+00:16:08,120 --> 00:16:09,857
 Hello, books.
 
-190
+260
+00:16:10,107 --> 00:16:14,497
+You can say hello quietly. They have very good
+pages.
+
+261
 00:16:15,500 --> 00:16:17,470
 Our three return books.
 
-191
+262
 00:16:17,720 --> 00:16:20,550
 They have had a busy week.
 
-192
+263
 00:16:20,800 --> 00:16:23,630
 Now someone else can enjoy them.
 
-193
+264
+00:16:23,880 --> 00:16:28,430
+I wonder who'll get to take the red one next.
+
+265
 00:16:30,500 --> 00:16:32,470
 Red returned. Blue returned.
 
-194
+266
 00:16:32,720 --> 00:16:35,550
 Do the books get another ticket?
 
-195
+267
 00:16:35,800 --> 00:16:39,060
 Just another reader when they are ready.
 
-196
+268
+00:16:39,310 --> 00:16:43,860
+I hope they give the red one a good home.
+
+269
 00:16:45,500 --> 00:16:47,300
 Yellow returned too.
 
-197
+270
 00:16:47,550 --> 00:16:50,810
 That leaves room for three new choices.
 
-198
+271
 00:16:51,060 --> 00:16:53,890
 And time to choose them carefully.
 
-199
+272
+00:16:54,140 --> 00:16:59,120
+Good. I want to look at the pictures before I
+choose.
+
+273
 00:17:00,500 --> 00:17:02,470
 There are maps here.
 
-200
+274
 00:17:02,720 --> 00:17:04,520
 And seeds.
 
-201
+275
 00:17:04,770 --> 00:17:08,460
 My very large dinosaur has found a shelf.
 
-202
-00:17:15,500 --> 00:17:18,330
+276
+00:17:08,710 --> 00:17:13,690
+I like being able to see what each of you
+picked.
+
+277
+00:17:15,500 --> 00:17:18,040
 You found the north arrow first.
 
-203
-00:17:18,580 --> 00:17:23,130
+278
+00:17:18,290 --> 00:17:22,374
 Maps work better when I know which way they
 face.
 
-204
-00:17:23,380 --> 00:17:25,350
+279
+00:17:22,624 --> 00:17:24,392
 That book suits today.
 
-205
-00:17:30,500 --> 00:17:33,760
+280
+00:17:24,642 --> 00:17:29,498
+You can teach me how to read the next map we
+take.
+
+281
+00:17:30,500 --> 00:17:33,265
 These little seeds become all of this?
 
-206
-00:17:34,010 --> 00:17:38,130
+282
+00:17:33,515 --> 00:17:37,009
 That sounds like a good question for your
 book.
 
-207
-00:17:38,380 --> 00:17:42,070
+283
+00:17:37,259 --> 00:17:40,389
 My maps can show where the plants grow.
 
-208
+284
+00:17:40,639 --> 00:17:44,498
+Maybe one day I can grow what I'm reading
+about.
+
+285
 00:17:45,500 --> 00:17:49,190
 The dinosaur is enormous, but the book fits.
 
-209
+286
 00:17:49,440 --> 00:17:51,410
 A very considerate dinosaur.
 
-210
+287
 00:17:51,660 --> 00:17:53,630
 Shall we borrow it?
 
-211
+288
+00:17:53,880 --> 00:17:58,430
+Yes, please. I think my backpack can handle
+that dinosaur.
+
+289
 00:18:00,500 --> 00:18:03,760
 One book on each of your cards.
 
-212
+290
 00:18:04,010 --> 00:18:05,810
 Atlas on mine.
 
-213
+291
 00:18:06,060 --> 00:18:08,890
 The plant book on mine, please.
 
-214
+292
+00:18:09,140 --> 00:18:13,690
+The seeds are mine. I'll remember which card I
+used.
+
+293
 00:18:15,500 --> 00:18:18,330
 Do we pay another nine dollars?
 
-215
+294
 00:18:18,580 --> 00:18:20,980
 No. These are library loans.
 
-216
+295
 00:18:21,230 --> 00:18:24,920
 Different kind of ticket. Different kind of
 journey.
 
-217
+296
+00:18:25,170 --> 00:18:29,290
+Good. We only have to bring the dinosaur back.
+
+297
 00:18:30,500 --> 00:18:32,900
 Three new books, same bag.
 
-218
+298
 00:18:33,150 --> 00:18:34,950
 Umbrella still secure.
 
-219
+299
 00:18:35,200 --> 00:18:38,460
 Cards and receipt in their own place.
 
-220
-00:18:45,500 --> 00:18:48,760
+300
+00:18:38,710 --> 00:18:43,260
+I like knowing which bag gets the books this
+time.
+
+301
+00:18:45,500 --> 00:18:48,607
 There is a whole world in here.
 
-221
-00:18:49,010 --> 00:18:52,270
+302
+00:18:48,857 --> 00:18:51,964
 And a very small beginning in mine.
 
-222
-00:18:52,520 --> 00:18:55,350
+303
+00:18:52,214 --> 00:18:54,911
 Mine begins with very large feet.
 
-223
-00:19:00,500 --> 00:19:04,620
+304
+00:18:55,161 --> 00:18:59,498
+We'll have three very different stories to
+tell at home.
+
+305
+00:19:00,500 --> 00:19:04,309
 I liked sounding certain more than checking
 the sign.
 
-224
-00:19:04,870 --> 00:19:08,130
+306
+00:19:04,559 --> 00:19:07,573
 You changed your mind when we checked.
 
-225
-00:19:08,380 --> 00:19:10,780
+307
+00:19:07,823 --> 00:19:10,042
 That helped the whole trip.
 
-226
-00:19:15,500 --> 00:19:19,190
+308
+00:19:10,292 --> 00:19:14,499
+I'd rather be the dad who asks while there's
+time.
+
+309
+00:19:15,500 --> 00:19:18,466
 Your call helped us ask a clearer question.
 
-227
-00:19:19,440 --> 00:19:23,560
+310
+00:19:18,716 --> 00:19:22,028
 And your careful crossing plan got us there
 safely.
 
-228
-00:19:23,810 --> 00:19:27,930
+311
+00:19:22,278 --> 00:19:25,590
 Very good company for a man with two
 directions.
 
-229
-00:19:30,500 --> 00:19:35,910
+312
+00:19:25,840 --> 00:19:29,498
+Let's tell Dad how the blue shelter matched
+the sign.
+
+313
+00:19:30,500 --> 00:19:35,089
 Grandpa wanted a story. We have the stop that
 did not move.
 
-230
-00:19:36,160 --> 00:19:38,560
+314
+00:19:35,339 --> 00:19:37,374
 He will enjoy that one.
 
-231
-00:19:38,810 --> 00:19:41,640
+315
+00:19:37,624 --> 00:19:40,024
 Please mention that I eventually did.
 
-232
+316
+00:19:40,274 --> 00:19:44,498
+I'll make you the one who finally read the
+little line.
+
+317
 00:19:45,500 --> 00:19:48,760
 Right bus. Right direction. Very good arrival.
 
-233
+318
 00:19:49,010 --> 00:19:51,410
 And all six of us.
 
-234
+319
 00:19:51,660 --> 00:19:53,630
 The dinosaur approves. Quietly.
+
+320
+00:19:53,880 --> 00:19:58,000
+Shh. The biggest reader has the quietest
+dinosaur today.

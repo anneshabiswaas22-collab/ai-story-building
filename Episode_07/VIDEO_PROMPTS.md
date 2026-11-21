@@ -35,6 +35,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **MAYA:** The library has a quiet reading corner for us.  
 **NINA:** And three books that need to go back.  
 **DAN:** A fine journey for a Saturday.  
+**DAN:** Three books coming home sounds like a fair trade.  
 
 ## SHOT_002 | 00:00:15–00:00:30 | Three books going back
 
@@ -50,6 +51,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **LEO:** Red, blue, yellow. All three returns are here.  
 **MAX:** Nothing under the island.  
 **ELLA:** Good. Even the floor is ready.  
+**LEO:** Good. None of the return books are hiding under our feet.  
 
 ## SHOT_003 | 00:00:30–00:00:45 | The fare is already paid
 
@@ -65,6 +67,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **NINA:** Three adult tickets and three child tickets. Nine dollars, already paid.  
 **DAN:** Then my wallet gets a quiet trip.  
 **LEO:** Until we come home. These are one-way.  
+**NINA:** We'll plan that trip when it's time to leave.  
 
 ## SHOT_004 | 00:00:45–00:01:00 | A time with a destination
 
@@ -80,6 +83,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **DAN:** Route seven, nine fifty. I have the time.  
 **MAYA:** And the destination is the library.  
 **ELLA:** We need both parts.  
+**DAN:** Library first, then the time. I'll try saying it together.  
 
 ## SHOT_005 | 00:01:00–00:01:15 | Umbrella without a storm
 
@@ -95,6 +99,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **MAX:** It might rain on our books.  
 **NINA:** We can be ready without opening it.  
 **DAN:** My hair appreciates that policy.  
+**MAX:** What about the dinosaur? I hope its book stays dry.  
 
 ## SHOT_006 | 00:01:15–00:01:30 | Cards in their own place
 
@@ -110,6 +115,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **NINA:** Cards stay with me. Books stay with Leo.  
 **MAYA:** And tickets stay with Dan.  
 **DAN:** Three jobs. No guessing which pocket.  
+**LEO:** I'll keep the backpack close. Books are my department today.  
 
 ## SHOT_007 | 00:01:30–00:01:45 | Everyone gets a voice
 
@@ -125,6 +131,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **LEO:** I want a book of maps.  
 **ELLA:** I want to see how seeds grow.  
 **MAX:** Mine should have a very large dinosaur.  
+**MAYA:** Three very different readers. That sounds like our family.  
 
 ## SHOT_008 | 00:01:45–00:02:00 | Ready before the clock
 
@@ -140,6 +147,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **DAN:** Early, organized, and all six of us.  
 **MAYA:** Let us keep that last part all day.  
 **MAX:** The dinosaur can wait for us.  
+**ELLA:** I don't think any of my seeds will run away either.  
 
 ## SHOT_009 | 00:02:00–00:02:15 | A stop that looks familiar
 
@@ -155,6 +163,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **DAN:** Here we are. Ten minutes early.  
 **LEO:** There is another stop across the street.  
 **DAN:** A neighborhood can be very well supplied.  
+**LEO:** Maybe they're only well supplied in the other direction.  
 
 ## SHOT_010 | 00:02:15–00:02:30 | The pleased-with-himself pose
 
@@ -170,6 +179,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **DAN:** I may have mastered arriving early.  
 **MAX:** My wrist says we are extremely early.  
 **MAYA:** Now let us check where we are going.  
+**DAN:** Fair point. A watch can't tell us which stop to use.  
 
 ## SHOT_011 | 00:02:30–00:02:45 | A pole with two kinds of information
 
@@ -185,6 +195,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **LEO:** It says seven.  
 **ELLA:** And there is another line under it.  
 **DAN:** My excellent plan appears to have small print.  
+**ELLA:** Let's read that smaller line before we pick this bench.  
 
 ## SHOT_012 | 00:02:45–00:03:00 | A comfortable place to wonder
 
@@ -200,6 +211,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **MAX:** Does the other bench get a different bus?  
 **NINA:** It gets buses going the other way.  
 **ELLA:** That sounds like an important difference.  
+**MAX:** So the benches look alike, but the rides don't?  
 
 ## SHOT_013 | 00:03:00–00:03:15 | The timetable seems to agree
 
@@ -215,6 +227,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **DAN:** Nine fifty here too. That is reassuring.  
 **MAYA:** Check the heading above the time.  
 **LEO:** Two buses can leave at the same minute.  
+**DAN:** And my watch wouldn't know which one I meant.  
 
 ## SHOT_014 | 00:03:15–00:03:30 | A river in the wrong plan
 
@@ -230,6 +243,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **ELLA:** Our sign says River.  
 **DAN:** The library does have a book about rivers.  
 **MAYA:** But we would like the building with the books.  
+**ELLA:** I'd rather read that river book inside the library.  
 
 ## SHOT_015 | 00:03:30–00:03:45 | The building is not the book
 
@@ -245,6 +259,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **MAX:** Could the library come here instead?  
 **LEO:** It would need an enormous ticket.  
 **NINA:** We can make the smaller journey.  
+**MAX:** Good. I don't think a whole building fits through the bus door.  
 
 ## SHOT_016 | 00:03:45–00:04:00 | First look at the street map
 
@@ -260,6 +275,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **MAYA:** Bakery behind us, crossing ahead.  
 **LEO:** The library is north of here.  
 **DAN:** My time was right. My side may not be.  
+**MAYA:** The bakery's a better clue than your watch this time.  
 
 ## SHOT_017 | 00:04:00–00:04:15 | A stop with no legs
 
@@ -275,6 +291,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **MAX:** Did the stop move while we were walking?  
 **DAN:** No. I brought us to the wrong side.  
 **NINA:** Then we can change sides carefully.  
+**MAX:** Good. It would be hard to carry the whole stop.  
 
 ## SHOT_018 | 00:04:15–00:04:30 | Right number, wrong direction
 
@@ -290,6 +307,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **DAN:** The right bus number can still take us the wrong way.  
 **LEO:** Right number, wrong direction.  
 **ELLA:** We caught it before getting on.  
+**DAN:** I'd rather look a little silly on this sidewalk.  
 
 ## SHOT_019 | 00:04:30–00:04:45 | No need to race
 
@@ -305,6 +323,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **NINA:** We still have time to check.  
 **MAYA:** The crossing is at the intersection.  
 **DAN:** And if we miss this bus, we wait. No racing.  
+**NINA:** Good. The library books can wait an extra few minutes.  
 
 ## SHOT_020 | 00:04:45–00:05:00 | What we know for certain
 
@@ -320,6 +339,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **LEO:** We are beside the bakery.  
 **ELLA:** We want the library near Oak Street.  
 **MAYA:** Those are useful things to tell someone.  
+**ELLA:** Grandpa would know which side we mean from that.  
 
 ## SHOT_021 | 00:05:00–00:05:15 | A useful call, not a rescue
 
@@ -335,6 +355,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **NINA:** My dad knows this street. We can describe where we are.  
 **DAN:** Grandpa Ed can check our thinking.  
 **MAX:** Tell him the stop has not moved.  
+**NINA:** I think he'll want to hear the destination first.  
 
 ## SHOT_022 | 00:05:15–00:05:30 | Say the place before the problem
 
@@ -350,6 +371,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **DAN:** Route seven, bakery side. We want the library.  
 **NINA:** That gives Dad something clear to work with.  
 **LEO:** Better than saying we are beside a bus stop.  
+**DAN:** Good. I'll say where we want to go, too.  
 
 ## SHOT_023 | 00:05:30–00:05:45 | One folder stays zipped
 
@@ -365,6 +387,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **ELLA:** Are the cards still here?  
 **NINA:** Yes. Zipped in the same place.  
 **MAYA:** Good. We are fixing one small mistake, not starting three.  
+**ELLA:** One mistake is plenty to keep us busy this morning.  
 
 ## SHOT_024 | 00:05:45–00:06:00 | The opposite roof
 
@@ -380,6 +403,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **LEO:** I can see Library across the street.  
 **DAN:** That is encouraging.  
 **MAYA:** We will read the whole sign when we reach that side.  
+**LEO:** This time let's read the big and little words.  
 
 ## SHOT_025 | 00:06:00–00:06:15 | A map is not the whole street
 
@@ -395,6 +419,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **LEO:** These two dots are the two stops.  
 **MAYA:** And this marked crossing connects the sidewalks.  
 **DAN:** A very useful line between two dots.  
+**MAYA:** We'll use that crossing when we're ready, all together.  
 
 ## SHOT_026 | 00:06:15–00:06:30 | A mistake that stays small
 
@@ -410,6 +435,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **MAX:** Did we spoil our library day?  
 **NINA:** Not at all. We found a small problem early.  
 **DAN:** And we have a careful way to fix it.  
+**MAX:** Good. I was worried my dinosaur might miss me.  
 
 ## SHOT_027 | 00:06:30–00:06:45 | The call begins
 
@@ -424,6 +450,8 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Dialogue:**
 **NINA:** Hi, Dad. Have you a minute for a direction check?  
 **DAN:** We found the right number and an interesting problem.  
+**NINA:** I'll tell him which side we're on.  
+**DAN:** Start with the bakery. That's easy to spot.  
 
 ## SHOT_028 | 00:06:45–00:07:00 | The small embarrassment
 
@@ -439,6 +467,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **DAN:** I wanted this to be the outing with no mistakes.  
 **MAYA:** You brought us early enough to notice one.  
 **LEO:** And we are still together.  
+**DAN:** I do like that part. We can work it out together.  
 
 ## SHOT_029 | 00:07:00–00:07:15 | Tell Ed where we are
 
@@ -455,6 +484,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **NINA:** We are at the bakery stop. The panel says southbound, River.  
 **ED:** Hello, travelers. And where do you want to arrive?  
 **DAN:** The library on Oak Street.  
+**NINA:** That's the part we want to get right, Dad.  
 
 ## SHOT_030 | 00:07:15–00:07:30 | Give the destination a direction
 
@@ -471,6 +501,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **ED:** Check the destination on your leaflet. What direction does it name?  
 **DAN:** Northbound, Library.  
 **LEO:** That matches the map’s north arrow.  
+**NINA:** Good. The leaflet and the map tell the same story.  
 
 ## SHOT_031 | 00:07:30–00:07:45 | A reassuring grandfather
 
@@ -487,6 +518,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **MAX:** Do we need bus eight instead?  
 **ED:** Seven goes both ways here. Check the destination on the bus too.  
 **NINA:** We will. Thanks, Dad.  
+**MAX:** Same number, different place. I can look for Library.  
 
 ## SHOT_032 | 00:07:45–00:08:00 | A call that leaves room to act
 
@@ -503,6 +535,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **DAN:** We will check the sign ourselves before boarding.  
 **ED:** Enjoy the library. Save a good story for me.  
 **MAYA:** First, let us reach that crossing together.  
+**NINA:** Bye, Dad. We'll save you the story of both stops.  
 
 ## SHOT_033 | 00:08:00–00:08:15 | The better question
 
@@ -518,6 +551,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **DAN:** Could you check the direction with me?  
 **ELLA:** Yes. We can look at the same thing.  
 **LEO:** Then we will all know why it is right.  
+**DAN:** Good. I like hearing how you figured it out.  
 
 ## SHOT_034 | 00:08:15–00:08:30 | Walking to the signal
 
@@ -532,6 +566,8 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Dialogue:**
 **MAX:** We are going away from the bus stop.  
 **NINA:** For a short walk that takes us to the right one.  
+**DAN:** Why the long way around?  
+**LEO:** That's where we can cross together at the signal.  
 
 ## SHOT_035 | 00:08:30–00:08:45 | A button is not a green light
 
@@ -547,6 +583,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **ELLA:** I pressed it.  
 **MAYA:** Now we wait for the walking signal.  
 **DAN:** The button asks. It does not stop every car itself.  
+**ELLA:** Got it. My finger asked and my feet can wait.  
 
 ## SHOT_036 | 00:08:45–00:09:00 | Waiting has a purpose
 
@@ -562,6 +599,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **MAX:** Will the library be angry if we wait?  
 **DAN:** Libraries are very good at waiting.  
 **NINA:** And we have another bus if we need one.  
+**MAX:** Good. I wouldn't want to run with all those books.  
 
 ## SHOT_037 | 00:09:00–00:09:15 | Look before the first step
 
@@ -577,6 +615,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **MAYA:** Walking signal. Check that the cars have stopped.  
 **DAN:** Clear this way.  
 **NINA:** And clear here. Together now.  
+**LEO:** With you, Mom. The books are coming across with us.  
 
 ## SHOT_038 | 00:09:15–00:09:30 | Across in one group
 
@@ -591,6 +630,8 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Dialogue:**
 **MAX:** This stop is getting closer.  
 **DAN:** We are the part that is moving.  
+**ELLA:** Is everybody still together?  
+**MAYA:** Yes, keep walking till we're on the sidewalk.  
 
 ## SHOT_039 | 00:09:30–00:09:45 | Back on the sidewalk
 
@@ -606,6 +647,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **LEO:** The blue shelter is a little way back.  
 **MAYA:** Along the sidewalk now.  
 **ELLA:** A longer safe path was a good path.  
+**NINA:** And we can see the shelter without stepping off the curb.  
 
 ## SHOT_040 | 00:09:45–00:10:00 | The same street from a new side
 
@@ -621,6 +663,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **MAX:** Our old bench is still there.  
 **DAN:** Exactly where we left it.  
 **LEO:** Now we will check the sign before choosing the bench.  
+**MAX:** It'd be nice if this bench came with directions too.  
 
 ## SHOT_041 | 00:10:00–00:10:15 | Northbound at last
 
@@ -636,6 +679,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **MAYA:** Seven. Northbound. Library.  
 **DAN:** Three parts of one useful sign.  
 **NINA:** And the right side of the street.  
+**LEO:** All three match the library trip we wanted this morning.  
 
 ## SHOT_042 | 00:10:15–00:10:30 | Check a whole line
 
@@ -651,6 +695,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **LEO:** Saturday, northbound, nine fifty.  
 **ELLA:** All on the same line.  
 **DAN:** My original number finally has the right company.  
+**ELLA:** We didn't change the time. Just where we wait for it.  
 
 ## SHOT_043 | 00:10:30–00:10:45 | Sit before it arrives
 
@@ -666,6 +711,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **MAX:** This bench feels just as comfortable.  
 **NINA:** Comfortable is good. Going the right way helps too.  
 **MAYA:** We have both now.  
+**MAX:** My knees like it here as much as the other side.  
 
 ## SHOT_044 | 00:10:45–00:11:00 | Tickets without confetti
 
@@ -681,6 +727,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **DAN:** Six tickets, still here.  
 **NINA:** Three adult, three child.  
 **LEO:** And one envelope to keep the used ones together.  
+**DAN:** Good. Nobody has to look for small change today.  
 
 ## SHOT_045 | 00:11:00–00:11:15 | The fare has no surprise
 
@@ -696,6 +743,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **ELLA:** Six dollars for adults, three for us.  
 **MAYA:** Nine altogether.  
 **DAN:** A clear total. I enjoy those more every day.  
+**ELLA:** And none of us has to buy a second ticket today.  
 
 ## SHOT_046 | 00:11:15–00:11:30 | The destination on the moving bus
 
@@ -711,6 +759,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **DAN:** Seven, Library. The bus agrees with the stop.  
 **LEO:** That is the last sign to check.  
 **MAYA:** Then we wait for the door to open.  
+**DAN:** Doors first, then feet. We can see it from here.  
 
 ## SHOT_047 | 00:11:30–00:11:45 | Doors after wheels
 
@@ -726,6 +775,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **MAX:** The door is open.  
 **NINA:** And the bus is fully stopped.  
 **DAN:** Now we can go one at a time.  
+**MAX:** Good. It looks much bigger up close than on the leaflet.  
 
 ## SHOT_048 | 00:11:45–00:12:00 | Space for people getting off
 
@@ -741,6 +791,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **ELLA:** Are we going on now?  
 **MAYA:** After anyone coming off has room.  
 **NINA:** A little space helps everyone.  
+**ELLA:** I'll wait right here with you until it's clear.  
 
 ## SHOT_049 | 00:12:00–00:12:15 | A quiet hello to the driver
 
@@ -755,6 +806,8 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Dialogue:**
 **DAN:** Good morning. Six prepaid tickets for the library, please.  
 **MAYA:** We are all together.  
+**DAN:** Would you count with me, Maya?  
+**MAYA:** Of course. Three adults and three children.  
 
 ## SHOT_050 | 00:12:15–00:12:30 | Six tickets, one careful pass
 
@@ -769,6 +822,8 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Dialogue:**
 **NINA:** One for each person.  
 **DAN:** Six checked. No extra passengers hiding in my envelope.  
+**NINA:** Does that leave anyone behind?  
+**DAN:** Nobody. All six tickets belong to someone here.  
 
 ## SHOT_051 | 00:12:30–00:12:45 | A steady step for Max
 
@@ -784,6 +839,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **NINA:** Take the handrail, Max.  
 **MAX:** A moving staircase that waits for us.  
 **MAYA:** This one stays still until everyone is aboard.  
+**NINA:** Hang on until both your feet are on the bus.  
 
 ## SHOT_052 | 00:12:45–00:13:00 | Keep the evidence together
 
@@ -799,6 +855,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **LEO:** Here is their home.  
 **DAN:** Six used tickets, back in one envelope.  
 **ELLA:** Now we need six seats.  
+**DAN:** Let's keep this aisle clear while we find them.  
 
 ## SHOT_053 | 00:13:00–00:13:15 | Three pairs of seats
 
@@ -814,6 +871,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **MAYA:** Ella, beside me.  
 **NINA:** Leo, this pair is ours.  
 **MAX:** Dad, our seats face the correct direction too.  
+**DAN:** Lucky us. I already tried traveling the other way today.  
 
 ## SHOT_054 | 00:13:15–00:13:30 | A bag below the window
 
@@ -829,6 +887,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **LEO:** Books below, cards above.  
 **NINA:** And nothing in the aisle.  
 **ELLA:** The books have a very tidy journey.  
+**NINA:** Good. Nobody sharing our ride has to step around them.  
 
 ## SHOT_055 | 00:13:30–00:13:45 | At last, a departure
 
@@ -844,6 +903,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **DAN:** Departure. From the right stop this time.  
 **MAX:** Does the wrong stop know we changed our minds?  
 **MAYA:** It will manage without us.  
+**DAN:** I think it's happy to have its bench back.  
 
 ## SHOT_056 | 00:13:45–00:14:00 | A window, not a steering wheel
 
@@ -859,6 +919,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **MAX:** The bus is doing all the walking.  
 **DAN:** And we are doing the sitting.  
 **MAX:** I am very good at this part of traveling.  
+**DAN:** For once, your feet don't have to lead the way.  
 
 ## SHOT_057 | 00:14:00–00:14:15 | The route on the leaflet
 
@@ -874,6 +935,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **LEO:** Pine Street comes before Oak Street.  
 **NINA:** We can watch for it.  
 **MAYA:** And keep our bags ready without standing yet.  
+**LEO:** I'll watch for the names while the books stay put.  
 
 ## SHOT_058 | 00:14:15–00:14:30 | A little travel time
 
@@ -889,6 +951,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **ELLA:** We passed the bakery a long time ago.  
 **DAN:** A promising development.  
 **NINA:** Oak Street is next.  
+**DAN:** Good. I'll keep my ears open for our stop.  
 
 ## SHOT_059 | 00:14:30–00:14:45 | A smaller voice is enough
 
@@ -904,6 +967,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **MAX:** How will the bus know we want to get off?  
 **DAN:** We request the stop.  
 **LEO:** The library is the next one on our route.  
+**MAX:** Then how do we ask without shouting at the driver?  
 
 ## SHOT_060 | 00:14:45–00:15:00 | One request, once
 
@@ -919,6 +983,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **NINA:** Requested.  
 **MAYA:** We wait until the bus stops.  
 **LEO:** The bag can wait down here too.  
+**NINA:** Right. The bus knows where we want to get off.  
 
 ## SHOT_061 | 00:15:00–00:15:15 | Ready does not mean standing
 
@@ -934,6 +999,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **MAX:** I am ready.  
 **DAN:** Excellent. Ready can sit down for another moment.  
 **ELLA:** That is the comfortable kind of ready.  
+**MAX:** My knees are happy to wait for the doors.  
 
 ## SHOT_062 | 00:15:15–00:15:30 | The library through the glass
 
@@ -949,6 +1015,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **ELLA:** Blue canopy, library sign.  
 **MAYA:** That is the place.  
 **NINA:** And the books are ready to return.  
+**MAYA:** Good. We'll take the whole family through that door.  
 
 ## SHOT_063 | 00:15:30–00:15:45 | Arrival before the aisle
 
@@ -964,6 +1031,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **DAN:** Arrival. Now we can stand.  
 **NINA:** Folder with me.  
 **LEO:** Three books and one umbrella with me.  
+**ELLA:** All six of us can get off together now.  
 
 ## SHOT_064 | 00:15:45–00:16:00 | Six people off safely
 
@@ -978,6 +1046,8 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Dialogue:**
 **DAN:** Thank you. Have a good morning.  
 **MAX:** That bus knew exactly where it was going.  
+**LEO:** And we knew where we wanted to get off.  
+**DAN:** That was the part I needed help with.  
 
 ## SHOT_065 | 00:16:00–00:16:15 | Through the right door
 
@@ -993,6 +1063,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **MAYA:** Here we are. Quiet voices from this door.  
 **DAN:** My grand arrival speech can be very small.  
 **MAX:** Hello, books.  
+**ELLA:** You can say hello quietly. They have very good pages.  
 
 ## SHOT_066 | 00:16:15–00:16:30 | Three old friends come out
 
@@ -1008,6 +1079,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **LEO:** Our three return books.  
 **ELLA:** They have had a busy week.  
 **MAYA:** Now someone else can enjoy them.  
+**LEO:** I wonder who'll get to take the red one next.  
 
 ## SHOT_067 | 00:16:30–00:16:45 | Return the red and blue
 
@@ -1023,6 +1095,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **LEO:** Red returned. Blue returned.  
 **MAX:** Do the books get another ticket?  
 **MAYA:** Just another reader when they are ready.  
+**MAX:** I hope they give the red one a good home.  
 
 ## SHOT_068 | 00:16:45–00:17:00 | The last return makes room
 
@@ -1038,6 +1111,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **ELLA:** Yellow returned too.  
 **NINA:** That leaves room for three new choices.  
 **MAYA:** And time to choose them carefully.  
+**ELLA:** Good. I want to look at the pictures before I choose.  
 
 ## SHOT_069 | 00:17:00–00:17:15 | A display with possibilities
 
@@ -1053,6 +1127,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **LEO:** There are maps here.  
 **ELLA:** And seeds.  
 **MAX:** My very large dinosaur has found a shelf.  
+**NINA:** I like being able to see what each of you picked.  
 
 ## SHOT_070 | 00:17:15–00:17:30 | Leo chooses a wider world
 
@@ -1068,6 +1143,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **DAN:** You found the north arrow first.  
 **LEO:** Maps work better when I know which way they face.  
 **NINA:** That book suits today.  
+**DAN:** You can teach me how to read the next map we take.  
 
 ## SHOT_071 | 00:17:30–00:17:45 | Ella finds the next small thing
 
@@ -1083,6 +1159,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **ELLA:** These little seeds become all of this?  
 **MAYA:** That sounds like a good question for your book.  
 **LEO:** My maps can show where the plants grow.  
+**ELLA:** Maybe one day I can grow what I'm reading about.  
 
 ## SHOT_072 | 00:17:45–00:18:00 | A dinosaur that fits
 
@@ -1098,6 +1175,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **MAX:** The dinosaur is enormous, but the book fits.  
 **DAN:** A very considerate dinosaur.  
 **NINA:** Shall we borrow it?  
+**MAX:** Yes, please. I think my backpack can handle that dinosaur.  
 
 ## SHOT_073 | 00:18:00–00:18:15 | Borrowing has a record
 
@@ -1113,6 +1191,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **NINA:** One book on each of your cards.  
 **LEO:** Atlas on mine.  
 **ELLA:** The plant book on mine, please.  
+**ELLA:** The seeds are mine. I'll remember which card I used.  
 
 ## SHOT_074 | 00:18:15–00:18:30 | Three books checked, no new fare
 
@@ -1128,6 +1207,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **MAX:** Do we pay another nine dollars?  
 **NINA:** No. These are library loans.  
 **DAN:** Different kind of ticket. Different kind of journey.  
+**MAX:** Good. We only have to bring the dinosaur back.  
 
 ## SHOT_075 | 00:18:30–00:18:45 | Back into the right places
 
@@ -1143,6 +1223,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **LEO:** Three new books, same bag.  
 **MAYA:** Umbrella still secure.  
 **NINA:** Cards and receipt in their own place.  
+**MAYA:** I like knowing which bag gets the books this time.  
 
 ## SHOT_076 | 00:18:45–00:19:00 | Open one new page
 
@@ -1158,6 +1239,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **LEO:** There is a whole world in here.  
 **ELLA:** And a very small beginning in mine.  
 **MAX:** Mine begins with very large feet.  
+**ELLA:** We'll have three very different stories to tell at home.  
 
 ## SHOT_077 | 00:19:00–00:19:15 | A quiet place to be honest
 
@@ -1173,6 +1255,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **DAN:** I liked sounding certain more than checking the sign.  
 **LEO:** You changed your mind when we checked.  
 **MAYA:** That helped the whole trip.  
+**DAN:** I'd rather be the dad who asks while there's time.  
 
 ## SHOT_078 | 00:19:15–00:19:30 | Both parts of the team
 
@@ -1188,6 +1271,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **MAYA:** Your call helped us ask a clearer question.  
 **NINA:** And your careful crossing plan got us there safely.  
 **DAN:** Very good company for a man with two directions.  
+**NINA:** Let's tell Dad how the blue shelter matched the sign.  
 
 ## SHOT_079 | 00:19:30–00:19:45 | A story for Grandpa later
 
@@ -1203,6 +1287,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **MAX:** Grandpa wanted a story. We have the stop that did not move.  
 **NINA:** He will enjoy that one.  
 **DAN:** Please mention that I eventually did.  
+**MAX:** I'll make you the one who finally read the little line.  
 
 ## SHOT_080 | 00:19:45–00:20:00 | The right arrival
 
@@ -1218,3 +1303,4 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **DAN:** Right bus. Right direction. Very good arrival.  
 **MAYA:** And all six of us.  
 **MAX:** The dinosaur approves. Quietly.  
+**ELLA:** Shh. The biggest reader has the quietest dinosaur today.  
