@@ -1,0 +1,45 @@
+{
+  "episode": 7,
+  "board": 10,
+  "path": "Episode_07/assets/storyboards/BOARD_10.png",
+  "parent_commit": "8df325c2115bca53f84e81c006c2f33388d181fc",
+  "parent_sha256": "48ec8986044208e14adadf38836782e10cb0c14c3138fc48d8c659378458f597",
+  "selected_sha256": "19d49bfbcb62e017c83efbeaf992374d0ac3cb3c1f95f8513d2a621d4bd90f29",
+  "parent_size": [
+    1672,
+    941
+  ],
+  "selected_size": [
+    1672,
+    941
+  ],
+  "generated_source": "Episode_07/assets/storyboards/BOARD_10.png",
+  "method": "Referenced ImageGen edit. The selected PNG is the original returned file.",
+  "request": "Edit the first reference: full four-panel storyboard, landscape 16:9 finished sheet, 2×2 panels with four equal rectangles. Keep black numbered labels top left, text SHOT_037 to SHOT_040 in reading order. The second image locks the family's original appearance and outfits: Dan blue polo and left-wrist watch, Maya plum and cream, Nina teal and tan, Leo orange, Ella red with long denim overalls and braids, small Max green. The third is a scene or adjacent continuity reference, not a panel to copy. Preserve composition, cast, actions, light and art from the first input except as specified. The navy backpack is LEO'S alone. In EACH panel he is the taller brown-haired child in an ORANGE T-shirt and navy shorts. Give HIM the one closed navy backpack with a folded YELLOW umbrella strapped externally, even in profile; neither Maya, Nina, Ella, Max nor Dan wears or carries any bag. Dan keeps the single ticket envelope as specified by his handhold. Panel 037 at the RED-roof BAKERY stop sidewalk, facing the signal: all six paused, Dan holding smallest Max's hand, Maya with Ella, Nina and Leo together. Visible safe pedestrian WALK indication, cars stopped. 038 all SIX cross within stripes at walk signal: Dan holding Max, Maya by Ella, Nina beside backpacked Leo. 039 show ONLY Maya, Nina, Leo, Ella on the far sidewalk; Nina checks Leo's strapped umbrella clears pole; blue-roof shelter visible downstream. 040 only Dan, Leo and Max on sidewalk; Leo still wears same navy pack, Max looks back toward red shelter across street. Consistent body scale, same clothes, no substitutions or duplicates. Individual panel beats: 37 visible DAN, MAYA, NINA, LEO, ELLA, MAX; WALK illuminates; the adults check that vehicles have stopped in all relevant directions and that the marked crossing is clear. The family pauses for that check before stepping. 38 visible DAN, MAYA, NINA, LEO, ELLA, MAX; The family walks steadily within the marked crossing during the full walk phase. Dan holds Max’s hand; Maya keeps Ella beside her; Nina and Leo follow abreast. 39 visible MAYA, NINA, LEO, ELLA; Maya waits until Max and Dan are fully up on the far sidewalk, then turns the family south toward the blue shelter. Nina checks that Leo’s bag has not caught on the pole. 40 visible DAN, LEO, MAX; Max looks back at the red shelter while Dan and Leo walk beside him. Dan acknowledges how similar the roofs looked from a distance without blaming Max’s observation.",
+  "qa_updates": {
+    "SHOT_037": {
+      "observed": "Six wait at the red bakery shelter. Leo wears the backpack and Dan holds the envelope. Max and Dan stand apart.",
+      "severity": "major",
+      "correction": "Restore Dan and Max’s established handhold at the curb before stepping off.",
+      "status": "FAIL"
+    },
+    "SHOT_038": {
+      "observed": "All six cross in the markings. Dan holds Max’s hand, Maya holds Ella’s and Leo wears the backpack with the yellow umbrella.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_039": {
+      "observed": "At the blue shelter, Nina checks the umbrella on Leo’s pack beside Maya and Ella.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_040": {
+      "observed": "Dan, Leo and Max walk with the red shelter across the street. Leo still wears the same pack.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    }
+  }
+}
