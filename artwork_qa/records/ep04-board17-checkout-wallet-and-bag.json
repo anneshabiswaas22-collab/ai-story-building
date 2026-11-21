@@ -1,0 +1,90 @@
+{
+  "episode": 4,
+  "board": 17,
+  "path": "Episode_04/assets/storyboards/BOARD_17.png",
+  "parent_commit": "43926f6bdabec26e00e5927f6cbb0b558e908107",
+  "parent_sha256": "3cd11039a5d093b98f1942c76582b297afa18c182f6b574e0a8117fd3130e57b",
+  "selected_sha256": "a810c242502340c63c2d5c14ae8f774dd1ddc308ac5c3035d15c4db6ce1d229d",
+  "parent_size": [
+    1672,
+    941
+  ],
+  "selected_size": [
+    1672,
+    941
+  ],
+  "generated_source": "Episode_04/assets/storyboards/BOARD_17.png",
+  "method": "Selected panels from a referenced ImageGen edit were assembled into the previous sheet. The other panel rectangles match the parent pixels exactly.",
+  "request": "Edit the first input image, the selected storyboard. Preserve the existing four landscape panel positions in a 2×2 grid, exact original numbered SHOT_ badges, original palette/compositions and actor likeness. The second input is original family visual reference. Dan blue / left watch, Maya plum with ponytail, Nina teal auburn waves, Leo orange, braided Ella in denim overalls, small Max green. A third reference supplies setting or continuity. In every panel actors and props must follow its specified shot precisely. Keep good panels intact. Apply the following specific changes in the artwork. Only two local artwork changes. TOP LEFT: remove wallet and receipt and any loose money or paper from Maya's hands. Maya talks with empty hands to Max; keep Dan standing with the one closed shoebox on counter, his wallet pocketed. TOP RIGHT: remove the cream personal tote bag completely from Nina's side; keep Nina's empty hands and an unobstructed clear area of counter. Dan alone accepts ONE cream store bag with a horizontal teal stripe and the closed box inside by both handles from an anonymous cashier. Keep bottom two panels as original including all faces, positions and bags; keep all exact shot badges. No shelf lettering or new customers.\nSHOT_065 shows only MAX, MAYA, DAN in SHOE_CHECKOUT. Max asks about the word refund; Maya explains it in the transaction's context while Dan leaves the box closed. End: Max understands refund would follow an eligible return; no extra money appears. Existing artwork error: Maya holds open wallet and receipt after Dan pocketed them in 063. Fix: Remove both from Maya's hands; leave only closed box during refund conversation.\nSHOT_066 shows only DAN, NINA, ELLA in SHOE_CHECKOUT. Cashier slides the closed box into one cream paper store bag with teal stripe; Dan accepts it by both handles. End: Dan holds one store bag containing one boxed pair; checkout counter clear. Existing artwork error: Maya's personal cream tote appears in front of Nina; Dan accepts separate striped store bag. Fix: Keep personal tote off-frame with Maya and only store bag in this shot.\nSHOT_067 shows only DAN, MAYA, NINA, LEO, ELLA, MAX in SHOE_CHECKOUT. Nina counts family members with a glance; Maya keeps Max beside her while Dan lifts the single bag clear of the counter. End: All six leaving checkout together; receipt/change pocketed; one paid bag. Preserve this shot as it stands.\nSHOT_068 shows only DAN, MAX, NINA in MALL_CORRIDOR. Dan lets Max look into the open top of the paper bag without removing the closed box; Nina keeps them stopped at the store doorway. End: Box remains closed inside bag; handles secure; group ready to check the exit route. Preserve this shot as it stands.",
+  "qa_updates": {
+    "SHOT_065": {
+      "observed": "Maya explains with both palms empty. Max and Dan stay by the single closed shoebox on the counter.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_066": {
+      "observed": "Dan takes the handles of one cream bag with a teal stripe from the cashier. Nina and Ella stand beside him without a second bag.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_067": {
+      "observed": "Six together; Dan lifts striped store bag, Maya guides Max and Nina looks back; personal tote out of view.",
+      "severity": "unrated",
+      "correction": "Check fine likeness, occlusion and exact details against identity masters before motion.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_068": {
+      "observed": "Max peers into striped bag holding one closed box, no hand enters it.",
+      "severity": "unrated",
+      "correction": "Check fine likeness, occlusion and exact details against identity masters before motion.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    }
+  },
+  "generated_source_sha256": "891253dbc0514d17bd112be318240faf103cbafc9cfc6fb2d1e6cee0c5b4c68b",
+  "generated_source_size": [
+    1672,
+    941
+  ],
+  "selected_panels": [
+    1,
+    2
+  ],
+  "preserved_panels": [
+    3,
+    4
+  ],
+  "selected_rectangles_xyxy": [
+    [
+      0,
+      0,
+      836,
+      470
+    ],
+    [
+      836,
+      0,
+      1672,
+      470
+    ]
+  ],
+  "image_inputs": {
+    "selected_sheet": {
+      "path": "Episode_04/assets/storyboards/BOARD_17.png",
+      "sha256": "3cd11039a5d093b98f1942c76582b297afa18c182f6b574e0a8117fd3130e57b"
+    },
+    "cast_contact_sheet": {
+      "sha256": "ee132e6bb6535a21dc45a3bed61516cfd1e2c5ff9eeb35c596d1324c1079193f",
+      "original_previews": "Episode_04/assets/characters"
+    },
+    "additional_reference": {
+      "sha256": "ff726e379186c5e0afbb91284c1b0900dc848f7c2d4bdaa643ba1e367df6eac3",
+      "sources": [
+        "Episode_04/assets/environments/SHOE_CHECKOUT.png",
+        "Episode_04/assets/environments/MALL_CORRIDOR.png",
+        "Episode_04/assets/storyboards/BOARD_17.png"
+      ]
+    }
+  }
+}
