@@ -1047,13 +1047,13 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **Dialogue:**
 
-**SERVER:** Six mains, with the soup mild and warm. I will send this now.
+**SERVER:** Six mains, including the mild, warm soup. Sending it now.
 
 **DAN:** Thank you. That was easier than my speech.
 
 **NINA:** Did the kitchen get the corrected note?
 
-**SERVER:** Yes. Mild and warm, just as you asked.
+**SERVER:** Yes, exactly as you asked.
 
 ### SHOT_037 | 00:09:00–00:09:15 | A wait with an ending
 
@@ -1909,6 +1909,8 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **DAN:** Please do. Start by counting the dinners we ordered.
 
+**LEO:** I'll start at the top of the check.
+
 ### SHOT_067 | 00:16:30–00:16:45 | Six lines mean six meals
 
 **Visible cast:** LEO, DAN, MAYA
@@ -2138,6 +2140,8 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 **DAN:** Thank you.
 
 **SERVER:** You can count it here before you put the rest away.
+
+**DAN:** Good. I'll keep the tip separate.
 
 ### SHOT_075 | 00:18:30–00:18:45 | Ten dollars for the service
 

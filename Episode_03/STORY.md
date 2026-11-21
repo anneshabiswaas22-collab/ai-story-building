@@ -309,6 +309,8 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **DAN:** It won't have to wash up after breakfast, either.
 
+**MAX:** And I don't have to find it a fork.
+
 ### SHOT_011 | 00:02:30–00:02:45 | A bowl with room to work
 
 **Visible cast:** MAYA, ELLA, MAX

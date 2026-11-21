@@ -59,7 +59,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **ELLA:** Aunt Rose is stopping by, but she cannot stay.
 
-**MAX:** Her chair gets a vacation.
+**MAX:** Can we still show her the party?
 
 **LEO:** Then the six places are for us. We can still say hello.
 
@@ -743,6 +743,8 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **DAN:** We should still ask whose box it really is.
 
+**MAYA:** Right. We'll let the neighbor tell us.
+
 ### SHOT_037 | 00:09:00–00:09:15 | A private path is not a shortcut
 
 **Visible cast:** DAN, ELLA, MAX
@@ -803,6 +805,8 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **DAN:** Good. Apparently that pan was preparing me for doorbells.
 
+**ELLA:** At least the doorbell doesn't need flipping.
+
 ### SHOT_040 | 00:09:45–00:10:00 | The quiet waiting beat
 
 **Visible cast:** MAYA, NINA, MAX
@@ -841,7 +845,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **LEO:** We have already found useful clues.
 
-**DAN:** Yes. Knowing where the photo was taken gives us a start.
+**DAN:** Right. We can tell them where the photo was taken.
 
 ### SHOT_042 | 00:10:15–00:10:30 | The latch moves
 
@@ -862,6 +866,8 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 **NINA:** Thank you for answering.
 
 **ELLA:** We only need a moment to ask about the delivery.
+
+**DAN:** We have our order number right here.
 
 ### SHOT_043 | 00:10:30–00:10:45 | An introduction, not an accusation
 
@@ -1082,7 +1088,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **DAN:** We appreciate that.
 
-**MAYA:** Dinner's a lot easier to sort out when somebody remembers the delivery.
+**MAYA:** I'm glad you heard the delivery. Our bell never rang.
 
 ### SHOT_054 | 00:13:15–00:13:30 | Four became an uncertain mark
 
@@ -1528,6 +1534,8 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 **MAYA:** Just a very welcome cake.
 
 **LEO:** This one definitely got the right kind of flour.
+
+**DAN:** And I'm glad it found this table.
 
 ### SHOT_076 | 00:18:45–00:19:00 | More than the decoration
 

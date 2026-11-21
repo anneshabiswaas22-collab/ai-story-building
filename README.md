@@ -2,7 +2,9 @@
 
 **One complete planned story at a time.** An original 3D animated American-English family comedy with six recurring family characters: Dan, Maya, Nina, Leo, Ella and Max.
 
-**Storyboard milestone (2026-11-16): 200/200 unique PNG storyboard sheets saved on `main`, covering 800 authored shot concepts.** Strict full-art structural checks and all 104 automated tests passed. These are still **unapproved visual drafts**, not approved motion first frames or completed animated movies. See [current production status](CURRENT_PRODUCTION_STATUS.md); always run `python tools/list_missing_storyboards.py` for a live count.
+**Generating a 15-second clip.** Open the episode’s `VIDEO_PROMPTS.md` and copy one numbered shot. Its delivery line gives clip-local speaker windows. Let the physical action continue while the characters speak, with the last reaction carrying into the cut. The same words and times appear in the episode’s full-length `SUBTITLES.srt`. The board and panel number point to the matching composition. Upload a reviewed single frame for the shot. Keep the storyboard grid and shot badge out of the movie.
+
+All ten stories run 20 minutes each. The [panel repair log](docs/STORYBOARD_REPAIR_LOG.md) and [shot-by-shot findings](docs/qa/) identify pictures that still need attention.
 
 ## Episode folders
 
@@ -101,17 +103,3 @@ python -m unittest discover -s tests -v
 The production handoff includes **800 shot-level JSONL specifications**, an 800-row status index, **790 adjacent-shot continuity-review pairs**, a voice-dialogue workload table, and episode-level subtitle/pacing statistics. All reference candidates, action/open/end states and script dialogue are extracted from current episode sources and validated against prompts/SRT. No motion first frame, voice performance, generated image or finished film is claimed. GitHub Actions uploads these files in its `episode-audit-and-shot-manifest` artifact.
 
 Since the 200/200 storyboard merge, both `python tools/check_series.py --strict-art` and `python tools/audit_series.py --strict-art` pass on the completed `main` inventory and now run in CI. Both must fail if required artwork is later missing or invalid. Historical missing-image descriptions in `CODEX_IMAGE_TASKS.md` should not be treated as a live generation queue; existing visual-correction targets still require verification and review.
-
-## Live storyboard inventory (for Codex cloud checkpoints)
-
-Always fetch the newest approved Git branch and run:
-
-```bash
-python tools/list_missing_storyboards.py
-python tools/list_missing_storyboards.py --limit 12
-python tools/list_missing_storyboards.py --json
-```
-
-This is a **filename-presence** counter only. It never changes artwork and never certifies image quality, character likeness, or creator approval. Run `python tools/audit_series.py` and the episode checker for structural image validation; review all generated pixels against the original cast and continuity references.
-
-Do **not** use the historical missing-board list in `CODEX_IMAGE_TASKS.md` to regenerate boards already pushed. After each new board: image generation → inspect → commit → push → verify remote SHA → regenerate the next live inventory. Branches awaiting merge must be checked separately from `main` to avoid losing Codex work.

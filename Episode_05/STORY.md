@@ -74,7 +74,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **ELLA:** Six plates. Six napkins.
 
-**LEO:** And a bag for our rubbish.
+**LEO:** And a bag for our wrappers.
 
 **MAX:** The blanket gets to travel too.
 
@@ -415,6 +415,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 **LEO:** What about the tree?
 
 **DAN:** Fair question. Nobody promised us the only green bench.
+
+**MAX:** Shouldn't our tree be bigger, too?
 
 ### SHOT_015 | 00:03:30–00:03:45 | A tree is nearly everywhere
 
@@ -1198,7 +1200,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **MAX:** The bench was not the only thing needing a partner.
 
-**DAN:** Next time let's point at it together before anyone starts off.
+**DAN:** Next time let's point it out together.
 
 ### SHOT_043 | 00:10:30–00:10:45 | Map gets a clear home
 
@@ -2096,6 +2098,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **LEO:** Especially him. We want his version of the story later.
 
+**DAN:** Somebody should give the squirrel a speaking part.
+
 ### SHOT_075 | 00:18:30–00:18:45 | The correct kind of shortcut
 
 **Visible cast:** LEO, DAN, MAX
@@ -2123,6 +2127,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 **LEO:** Very clear directions.
 
 **MAX:** Good. Home is a landmark my feet already know.
+
+**DAN:** Good. Let's give those feet the last word.
 
 ### SHOT_076 | 00:18:45–00:19:00 | Home with a small story
 
@@ -2179,6 +2185,8 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 **MAX:** People to somewhere comfortable?
 
 **ELLA:** After the basket's empty, your knees can clock out too.
+
+**MAX:** Good. They've had quite a day.
 
 ### SHOT_078 | 00:19:15–00:19:30 | One map, the right way up
 

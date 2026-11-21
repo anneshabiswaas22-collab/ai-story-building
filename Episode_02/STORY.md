@@ -102,7 +102,9 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **NINA:** Yes. Lunch needs somewhere comfortable to sit.
 
-**ELLA:** My knees vote for a blanket between them and the grass.
+**ELLA:** Let's take the blanket, then.
+
+**MAX:** Good. Grass makes my knees itch.
 
 ### SHOT_005 | 00:01:00–00:01:15 | The size champion
 
@@ -338,7 +340,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Dialogue:**
 **DAN:** Back you go. I should have asked your name.
 
-**ELLA:** The card has lemons and oranges. We can choose both for different reasons.
+**ELLA:** The card has both. We can use them for different things.
 
 **DAN:** So which one should taste sweeter?
 
@@ -1568,7 +1570,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **DAN:** One list, two colors, six people who actually listened.
 
-**DAN:** And nobody had to carry a picnic table home.
+**ELLA:** And nobody had to carry a picnic table home.
 
 ### SHOT_078 | 00:19:15–00:19:30 | Tomorrow can wait
 

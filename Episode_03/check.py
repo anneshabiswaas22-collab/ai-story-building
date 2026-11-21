@@ -284,7 +284,7 @@ def validate(repo_root=None):
         require(values['Location'] in LOCATIONS, f'SHOT_{number}: unknown location')
         used_cast.update(cast)
         used_locations.add(values['Location'])
-        require(1 <= len(shot['dialogue']) <= 6, f'SHOT_{number}: expected 1–6 dialogue turns')
+        require(4 <= len(shot['dialogue']) <= 6, f'SHOT_{number}: expected 4–6 spoken beats')
         require(all(name in cast for name, _ in shot['dialogue']),
                 f'SHOT_{number}: dialogue speaker absent from visible cast')
         words = sum(len(line.split()) for _, line in shot['dialogue'])

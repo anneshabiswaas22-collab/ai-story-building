@@ -11,7 +11,10 @@ from html import escape
 from pathlib import Path
 import re
 import textwrap
+import sys
 
+sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
+from tools.dialogue_timing import cue_windows, performance_note
 from check import shots
 
 
@@ -68,6 +71,8 @@ def build(source):
     cue_number = 0
     for shot, title in zip(story, titles):
         f = shot['fields']
+        windows = cue_windows(shot['dialogue'])
+        delivery = performance_note(shot['dialogue'], windows)
         interval = f'{timestamp(shot["begin"])}–{timestamp(shot["end"])}'
         prompts.extend([
             f'## SHOT_{shot["id"]} | {interval} | {title}',
@@ -80,20 +85,16 @@ def build(source):
             f'**Picture:** {f["Picture"]}',
             f'**Continuity:** {f["Continuity"]}',
             '',
+            delivery,
+            '',
             '**Dialogue:**',
-            *[f'**{name}:** {line}  ' for name, line in shot['dialogue']],
+            '\n\n'.join(f'**{name}:** {line}' for name, line in shot['dialogue']),
             '',
         ])
-        # Give dialogue its own natural speaking time and leave the remaining
-        # shot for action/reactions. These are planning estimates, not a take.
-        durations = [max(1800, len(line.split()) * 430 + 250)
-                     for _, line in shot['dialogue']]
-        available = 14000 - 250 * (len(durations) - 1)
-        scale = min(1, available / sum(durations))
-        cursor = shot['begin'] + 500
-        for (_, line), duration in zip(shot['dialogue'], durations):
+        for (_, line), (begin, finish) in zip(shot['dialogue'], windows):
             cue_number += 1
-            end = cursor + int(duration * scale)
+            cursor = shot['begin'] + begin
+            end = shot['begin'] + finish
             subtitles.extend([
                 str(cue_number),
                 f'{timestamp(cursor, True)} --> {timestamp(end, True)}',
@@ -101,7 +102,6 @@ def build(source):
                                break_on_hyphens=False),
                 '',
             ])
-            cursor = end + 250
 
     index = [
         '# Episode 03 — illustrated storyboard index for all 80 shots',

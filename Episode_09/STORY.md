@@ -187,7 +187,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **LEO:** That is a good first step.
 
-**MAYA:** Keep your eyes on the path till we reach the bench.
+**MAYA:** Look ahead. There's our bench.
 
 ### SHOT_009 | 00:02:00–00:02:15 | Uncle Ben brings empty homes
 
@@ -418,7 +418,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **DAN:** The plants are not the only things getting good care.
 
-**LEO:** Good. We can keep the dirt on the bench where it belongs.
+**LEO:** Good. Let's keep the dirt out here.
 
 ### SHOT_020 | 00:04:45–00:05:00 | Open gently
 
@@ -712,7 +712,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **ELLA:** Good. Our garden names are staying put.
 
-**MAX:** So the one on the left is mint. I can remember that.
+**MAX:** Mint on the left. Got it.
 
 ### SHOT_034 | 00:08:15–00:08:30 | A quiet seed bed
 
@@ -859,7 +859,9 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **ELLA:** Then our first picture can be a quiet pot.
 
-**MAX:** Okay. We can look without asking them to hurry up.
+**MAX:** Okay. I can wait.
+
+**NINA:** Save room for that first shoot.
 
 ### SHOT_041 | 00:10:00–00:10:15 | Write before you stick
 
@@ -1069,7 +1071,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **NINA:** And the basil gets a careful drink.
 
-**DAN:** Good. The cup's easier to control than the whole can.
+**DAN:** That little cup's easier to control.
 
 ### SHOT_051 | 00:12:30–00:12:45 | Basil’s turn
 
@@ -1319,9 +1321,9 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **LEO:** The seed positions go in the diagram.
 
-**NINA:** A record can show what we know and what we can see.
+**NINA:** Draw what we can see today.
 
-**ELLA:** Then let's draw the soil just the way it looks.
+**ELLA:** Then I'll leave off the imaginary leaves.
 
 ### SHOT_063 | 00:15:30–00:15:45 | The bench has finished its part
 
@@ -1342,7 +1344,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **DAN:** Our tools get a home as well.
 
-**MAX:** Good. We won't mix up the paper seeds and the planted ones.
+**MAX:** Good. Spare seeds stay dry up there.
 
 ### SHOT_064 | 00:15:45–00:16:00 | The unused water is still water
 

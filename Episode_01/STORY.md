@@ -784,6 +784,8 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **MAX:** They haven't interrupted a single joke all morning.
 
+**DAN:** Then I think they deserve the nice seat.
+
 ### SHOT_037 | 00:09:00–00:09:15 | The round green guess
 
 **Visible cast:** DAN, ELLA  

@@ -50,7 +50,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **DAN:** A fine journey for a Saturday.
 
-**DAN:** Three books coming home sounds like a fair trade.
+**MAYA:** Three books coming home sounds like a fair trade.
 
 ### SHOT_002 | 00:00:15–00:00:30 | Three books going back
 
@@ -694,7 +694,9 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **MAYA:** We will read the whole sign when we reach that side.
 
-**LEO:** This time let's read the big and little words.
+**DAN:** Which word should I look for?
+
+**LEO:** Library, Dad. That's our destination.
 
 ### SHOT_025 | 00:06:00–00:06:15 | A map is not the whole street
 
@@ -772,7 +774,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **Dialogue:**
 
-**NINA:** Hi, Dad. Have you a minute for a direction check?
+**NINA:** Hi, Dad. Can you check our directions?
 
 **DAN:** We found the right number and an interesting problem.
 
@@ -2074,7 +2076,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **ELLA:** The plant book on mine, please.
 
-**ELLA:** The seeds are mine. I'll remember which card I used.
+**NINA:** Three cards. Let's remember which book goes with each.
 
 ### SHOT_074 | 00:18:15–00:18:30 | Three books checked, no new fare
 
@@ -2212,9 +2214,9 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **NINA:** And your careful crossing plan got us there safely.
 
-**DAN:** Very good company for a man with two directions.
+**DAN:** Good company for a confused traveler.
 
-**NINA:** Let's tell Dad how the blue shelter matched the sign.
+**NINA:** Let's tell Dad about the blue shelter.
 
 ### SHOT_079 | 00:19:30–00:19:45 | A story for Grandpa later
 

@@ -1,1367 +1,1406 @@
 1
-00:00:00,500 --> 00:00:02,184
+00:00:00,250 --> 00:00:01,650
 Mom! Come in.
 
 2
-00:00:02,434 --> 00:00:05,484
+00:00:01,800 --> 00:00:04,960
 Welcome, Ruth. We kept the afternoon free.
 
 3
-00:00:05,734 --> 00:00:09,991
+00:00:05,110 --> 00:00:09,590
 Then I have brought good company and a small
 surprise.
 
 4
-00:00:10,241 --> 00:00:14,498
+00:00:09,740 --> 00:00:14,220
 Come sit by us. The surprise can wait a
 minute.
 
 5
-00:00:15,500 --> 00:00:19,129
+00:00:15,250 --> 00:00:18,850
 Six packing cubes, one for each of you.
 
 6
-00:00:19,379 --> 00:00:22,585
+00:00:19,000 --> 00:00:22,160
 My socks are receiving their own apartments.
 
 7
-00:00:22,835 --> 00:00:24,772
+00:00:22,310 --> 00:00:24,150
 They need addresses first.
 
 8
-00:00:25,022 --> 00:00:29,497
+00:00:24,300 --> 00:00:28,780
 Then you children can help the apartments find
 their owners.
 
 9
-00:00:30,500 --> 00:00:34,707
+00:00:30,250 --> 00:00:34,614
 Once, Dan packed a tiny sock instead of his
 necktie.
 
 10
-00:00:34,957 --> 00:00:37,176
+00:00:34,764 --> 00:00:36,986
 A very compact fashion choice.
 
 11
-00:00:37,426 --> 00:00:39,645
+00:00:37,136 --> 00:00:39,357
 Did it match your shirt?
 
 12
-00:00:39,895 --> 00:00:44,499
+00:00:39,507 --> 00:00:44,300
 I never got far enough to try it under my
 collar.
 
 13
-00:00:45,500 --> 00:00:48,607
+00:00:45,250 --> 00:00:48,410
 Your suitcase can go on this stand.
 
 14
-00:00:48,857 --> 00:00:51,964
+00:00:48,560 --> 00:00:51,720
 The top drawer is empty for you.
 
 15
-00:00:52,214 --> 00:00:54,501
+00:00:51,870 --> 00:00:54,150
 You have thought of everything.
 
 16
-00:00:54,751 --> 00:00:59,498
+00:00:54,300 --> 00:00:59,220
 Good. There's room for you to unpack at your
 own pace.
 
 17
-00:01:00,500 --> 00:01:03,343
+00:01:00,250 --> 00:01:03,146
 This checklist keeps my own things together.
 
 18
-00:01:03,593 --> 00:01:05,311
+00:01:03,296 --> 00:01:04,982
 An excellent traveling companion.
 
 19
-00:01:05,561 --> 00:01:09,529
+00:01:05,132 --> 00:01:09,238
 We will leave your lavender pouch just as it
 is.
 
 20
-00:01:09,779 --> 00:01:14,498
+00:01:09,388 --> 00:01:14,300
 Thank you. I like finding that one just where
 I put it.
 
 21
-00:01:15,500 --> 00:01:19,359
+00:01:15,250 --> 00:01:19,237
 We noticed before he left. He borrowed a
 proper tie.
 
 22
-00:01:19,609 --> 00:01:22,739
+00:01:19,387 --> 00:01:22,592
 So the sock did not attend the meeting?
 
 23
-00:01:22,989 --> 00:01:24,660
+00:01:22,742 --> 00:01:24,379
 It had other appointments.
 
 24
-00:01:24,910 --> 00:01:29,499
+00:01:24,529 --> 00:01:29,300
 I hope it found a shoe with a less formal
 dress code.
 
 25
-00:01:30,500 --> 00:01:35,651
+00:01:30,250 --> 00:01:35,728
 Use the cubes and borrow my checklist idea. I
 will rest next door.
 
 26
-00:01:35,901 --> 00:01:37,488
+00:01:35,878 --> 00:01:37,200
 Of course, Mom.
 
 27
-00:01:37,738 --> 00:01:40,234
+00:01:37,350 --> 00:01:39,919
 We will keep your room peaceful.
 
 28
-00:01:40,484 --> 00:01:44,497
+00:01:40,069 --> 00:01:44,300
 Thanks, girls. I'll look forward to hearing
 how it went.
 
 29
-00:01:45,500 --> 00:01:48,116
+00:01:45,250 --> 00:01:47,900
 Thank you for the cubes, Grandma.
 
 30
-00:01:48,366 --> 00:01:52,573
+00:01:48,050 --> 00:01:52,414
 You are welcome. Tell me how the new
 apartments work.
 
 31
-00:01:52,823 --> 00:01:55,042
+00:01:52,564 --> 00:01:54,786
 We will, after your rest.
 
 32
-00:01:55,292 --> 00:01:59,499
+00:01:54,936 --> 00:01:59,300
 I already have a pair of tenants in mind,
 Grandma.
 
 33
-00:02:00,500 --> 00:02:03,283
+00:02:00,250 --> 00:02:02,970
 These socks are clean and dry.
 
 34
-00:02:03,533 --> 00:02:06,739
+00:02:03,120 --> 00:02:06,280
 And these cubes still have no names.
 
 35
-00:02:06,989 --> 00:02:09,772
+00:02:06,430 --> 00:02:09,150
 Let us sort before we store.
 
 36
-00:02:10,022 --> 00:02:14,497
+00:02:09,300 --> 00:02:13,780
 Good. A gray cube doesn't tell you much by
 itself.
 
 37
-00:02:15,500 --> 00:02:18,197
+00:02:15,250 --> 00:02:17,970
 I can see my green heels.
 
 38
-00:02:18,447 --> 00:02:20,734
+00:02:18,120 --> 00:02:20,400
 A whole family of socks.
 
 39
-00:02:20,984 --> 00:02:24,501
+00:02:20,550 --> 00:02:24,150
 Six pairs. We will check the owners together.
 
 40
-00:02:24,751 --> 00:02:29,498
+00:02:24,300 --> 00:02:29,220
 I'll know those green bits even with my eyes
 half shut.
 
 41
-00:02:30,500 --> 00:02:34,198
+00:02:30,250 --> 00:02:34,290
 Six pairs and six places. I can manage that.
 
 42
-00:02:34,448 --> 00:02:38,918
-One pair in each. Surely I cannot mix up
-identical boxes.
+00:02:34,440 --> 00:02:38,480
+One pair in each cube. What could go wrong?
 
 43
-00:02:39,168 --> 00:02:41,322
+00:02:38,630 --> 00:02:40,910
 Green heels in this one.
 
 44
-00:02:41,572 --> 00:02:44,498
+00:02:41,060 --> 00:02:44,220
 There. Its neighbor gets the next pair.
 
 45
-00:02:45,500 --> 00:02:48,514
+00:02:45,250 --> 00:02:48,329
 That zipper went all the way around.
 
 46
-00:02:48,764 --> 00:02:52,573
+00:02:48,479 --> 00:02:52,414
 They are packed. The names can catch up later.
 
 47
-00:02:52,823 --> 00:02:55,439
+00:02:52,564 --> 00:02:55,214
 Which one had the green heels?
 
 48
-00:02:55,689 --> 00:02:59,498
+00:02:55,364 --> 00:02:59,300
 Ah, they're all snug. I'll sort out names
 later.
 
 49
-00:03:00,500 --> 00:03:02,900
+00:03:00,250 --> 00:03:02,530
 Now where should these go?
 
 50
-00:03:03,150 --> 00:03:07,270
+00:03:02,680 --> 00:03:06,720
 Packing cubes, suitcase. That seems a very
 strong connection.
 
 51
-00:03:07,520 --> 00:03:09,920
+00:03:06,870 --> 00:03:09,150
 Well, look who brought them.
 
 52
-00:03:10,170 --> 00:03:14,290
+00:03:09,300 --> 00:03:13,340
 Grandma's case has exactly the right sort of
 space.
 
 53
-00:03:15,500 --> 00:03:17,900
+00:03:15,250 --> 00:03:17,805
 There's room on this side.
 
 54
-00:03:18,150 --> 00:03:20,980
+00:03:17,955 --> 00:03:21,003
 Six small apartments, one large building.
 
 55
-00:03:21,230 --> 00:03:23,200
+00:03:21,153 --> 00:03:23,216
 That's all six together.
 
 56
-00:03:23,450 --> 00:03:27,140
+00:03:23,366 --> 00:03:27,400
 The lavender pouch can have its own side.
 
 57
-00:03:30,500 --> 00:03:32,900
+00:03:30,250 --> 00:03:32,530
 There. The case closes nicely.
 
 58
-00:03:33,150 --> 00:03:36,410
+00:03:32,680 --> 00:03:35,840
 Everything put away. A remarkably tidy
 afternoon.
 
 59
-00:03:36,660 --> 00:03:39,490
+00:03:35,990 --> 00:03:38,710
 Funny how quiet the counter looks.
 
 60
-00:03:39,740 --> 00:03:43,430
+00:03:38,860 --> 00:03:42,460
 Wait till everybody sees how quickly I
 finished.
 
 61
-00:03:45,500 --> 00:03:47,470
+00:03:45,250 --> 00:03:47,189
 Where are the socks?
 
 62
-00:03:47,720 --> 00:03:49,520
+00:03:47,339 --> 00:03:48,351
 Safely packed.
 
 63
-00:03:49,770 --> 00:03:51,570
+00:03:48,501 --> 00:03:49,976
 For which destination?
 
 64
-00:03:51,820 --> 00:03:55,940
+00:03:50,126 --> 00:03:54,384
 Well, that depends on whose suitcase we're
 talking about.
 
 65
-00:04:00,500 --> 00:04:04,190
-My socks are not in their new apartment.
+00:03:54,534 --> 00:03:57,400
+Dan, whose suitcase did you use?
 
 66
-00:04:04,440 --> 00:04:06,410
-Perhaps the building moved.
+00:04:00,250 --> 00:04:03,850
+My socks are not in their new apartment.
 
 67
-00:04:06,660 --> 00:04:09,060
-I may have arranged transportation.
+00:04:04,000 --> 00:04:05,840
+Perhaps the building moved.
 
 68
-00:04:09,310 --> 00:04:14,290
+00:04:05,990 --> 00:04:08,270
+I may have arranged transportation.
+
+69
+00:04:08,420 --> 00:04:13,340
 Did you tell my feet? They didn't pack for a
 trip.
 
-69
-00:04:15,500 --> 00:04:17,900
+70
+00:04:15,250 --> 00:04:17,530
 The labels never went anywhere.
 
-70
-00:04:18,150 --> 00:04:21,840
+71
+00:04:17,680 --> 00:04:21,280
 Then let us ask the person who packed.
 
-71
-00:04:22,090 --> 00:04:24,060
+72
+00:04:21,430 --> 00:04:23,270
 That would be me.
 
-72
-00:04:24,310 --> 00:04:28,860
+73
+00:04:23,420 --> 00:04:27,900
 Which way did you go after you closed the
 zippers?
 
-73
-00:04:30,500 --> 00:04:35,594
+74
+00:04:30,250 --> 00:04:35,565
 I put our six cubes in Ruth's suitcase. I
 assumed they were hers.
 
-74
-00:04:35,844 --> 00:04:37,937
+75
+00:04:35,715 --> 00:04:37,805
 Thank you for telling us.
 
-75
-00:04:38,187 --> 00:04:40,655
+76
+00:04:37,955 --> 00:04:40,448
 Then we know where to look.
 
-76
-00:04:40,905 --> 00:04:44,498
+77
+00:04:40,598 --> 00:04:44,300
 Good thing she hasn't taken that suitcase
 anywhere yet.
 
-77
-00:04:45,500 --> 00:04:49,837
+78
+00:04:45,250 --> 00:04:49,730
 We can retrieve our gifts and leave Grandma's
 pouch alone.
 
-78
-00:04:50,087 --> 00:04:52,784
+79
+00:04:49,880 --> 00:04:52,600
 Then describe, ask, label, and store.
 
-79
-00:04:53,034 --> 00:04:55,321
+80
+00:04:52,750 --> 00:04:55,030
 Four steps. No moving buildings.
 
-80
-00:04:55,571 --> 00:04:59,498
+81
+00:04:55,180 --> 00:04:59,220
 That's right. We'll only move what belongs to
 us.
 
-81
-00:05:00,500 --> 00:05:03,760
+82
+00:05:00,250 --> 00:05:03,410
 This is exactly where I left them.
 
-82
-00:05:04,010 --> 00:05:06,410
+83
+00:05:03,560 --> 00:05:05,840
 Open the main compartment gently.
 
-83
-00:05:06,660 --> 00:05:09,060
+84
+00:05:05,990 --> 00:05:08,270
 The lavender pouch stays closed.
 
-84
-00:05:09,310 --> 00:05:13,430
+85
+00:05:08,420 --> 00:05:12,460
 Got it. I can see the two areas now.
 
-85
-00:05:15,500 --> 00:05:19,707
+86
+00:05:15,250 --> 00:05:19,614
 Gray cubes on the left. Lavender pouch on the
 right.
 
-86
-00:05:19,957 --> 00:05:22,971
+87
+00:05:19,764 --> 00:05:22,843
 An address I should have checked earlier.
 
-87
-00:05:23,221 --> 00:05:25,837
+88
+00:05:22,993 --> 00:05:25,643
 Which side are we reaching into?
 
-88
-00:05:26,087 --> 00:05:29,498
+89
+00:05:25,793 --> 00:05:29,300
 Just the gray side. Her pouch stays put.
 
-89
-00:05:30,500 --> 00:05:33,330
+90
+00:05:30,250 --> 00:05:33,061
 One, two, three, four, five, six.
 
-90
-00:05:33,580 --> 00:05:35,380
+91
+00:05:33,211 --> 00:05:34,658
 Six gifts recovered.
 
-91
-00:05:35,630 --> 00:05:38,460
+92
+00:05:34,808 --> 00:05:37,620
 And nobody needed a boarding pass.
 
-92
-00:05:38,710 --> 00:05:43,260
+93
+00:05:37,770 --> 00:05:42,400
 And all six came back on the very same trip.
 
-93
-00:05:45,500 --> 00:05:48,330
+94
+00:05:45,250 --> 00:05:48,175
 My new travel-size socks. Very economical.
 
-94
-00:05:48,580 --> 00:05:50,550
+95
+00:05:48,325 --> 00:05:50,304
 Those are mine, Dad.
 
-95
-00:05:50,800 --> 00:05:53,630
+96
+00:05:50,454 --> 00:05:53,379
 Let us check, rather than guess.
 
-96
-00:05:53,880 --> 00:05:57,570
+97
+00:05:53,529 --> 00:05:57,400
 Okay, Max. What gives this particular pair
 away?
 
-97
-00:06:00,500 --> 00:06:04,309
+98
+00:06:00,250 --> 00:06:04,186
 Mine have green heels, and both socks fit me.
 
-98
-00:06:04,559 --> 00:06:07,175
+99
+00:06:04,336 --> 00:06:06,986
 Excellent. My feet were being ambitious.
 
-99
-00:06:07,425 --> 00:06:10,041
+100
+00:06:07,136 --> 00:06:09,786
 Back to the clean sorting counter.
 
-100
-00:06:10,291 --> 00:06:14,498
+101
+00:06:09,936 --> 00:06:14,300
 Good. I'd rather my socks stayed the size they
 are.
 
-101
-00:06:15,500 --> 00:06:18,718
+102
+00:06:15,250 --> 00:06:18,549
 Do we need to sort Grandma's pouch too?
 
-102
-00:06:18,968 --> 00:06:21,436
+103
+00:06:18,699 --> 00:06:21,192
 No. Those are her private things.
 
-103
-00:06:21,686 --> 00:06:24,904
+104
+00:06:21,342 --> 00:06:24,641
 We have only our own cubes to fix.
 
-104
-00:06:25,154 --> 00:06:29,497
+105
+00:06:24,791 --> 00:06:29,300
 So we can help her best by leaving that one
 closed.
 
-105
-00:06:30,500 --> 00:06:35,050
+106
+00:06:30,250 --> 00:06:34,730
 Describe the pair, ask its owner, then add a
 name.
 
-106
-00:06:35,300 --> 00:06:37,700
+107
+00:06:34,880 --> 00:06:37,160
 Before I invent a destination.
 
-107
-00:06:37,950 --> 00:06:39,920
+108
+00:06:37,310 --> 00:06:39,150
 That order sounds promising.
 
-108
-00:06:40,170 --> 00:06:44,290
+109
+00:06:39,300 --> 00:06:43,340
 Exactly. No cube goes anywhere till its owner
 agrees.
 
-109
-00:06:45,500 --> 00:06:49,975
+110
+00:06:45,250 --> 00:06:49,730
 We can borrow the method without copying
 Grandma's personal list.
 
-110
-00:06:50,225 --> 00:06:52,162
+111
+00:06:49,880 --> 00:06:51,720
 Six names, six pairs.
 
-111
-00:06:52,412 --> 00:06:54,772
+112
+00:06:51,870 --> 00:06:54,150
 And we check each one.
 
-112
-00:06:55,022 --> 00:06:59,497
+113
+00:06:54,300 --> 00:06:58,780
 Good. We'll write down what belongs to our own
 family.
 
-113
-00:07:00,500 --> 00:07:02,470
+114
+00:07:00,250 --> 00:07:02,090
 No suitcase this time.
 
-114
-00:07:02,720 --> 00:07:05,550
+115
+00:07:02,240 --> 00:07:04,960
 Good. My socks prefer staying home.
 
-115
-00:07:05,800 --> 00:07:08,630
+116
+00:07:05,110 --> 00:07:07,830
 Let us start at this end.
 
-116
-00:07:08,880 --> 00:07:13,430
+117
+00:07:07,980 --> 00:07:12,460
 I'll look at the heels before we guess about
 sizes.
 
-117
-00:07:15,500 --> 00:07:19,017
+118
+00:07:15,250 --> 00:07:18,850
 There, that's the last thing back in place.
 
-118
-00:07:19,267 --> 00:07:23,604
+119
+00:07:19,000 --> 00:07:23,480
 Your own things are right where you left them,
 Mom.
 
-119
-00:07:23,854 --> 00:07:26,141
+120
+00:07:23,630 --> 00:07:25,910
 I'll leave the pouch closed.
 
-120
-00:07:26,391 --> 00:07:29,498
+121
+00:07:26,060 --> 00:07:29,220
 Sleep well. The sorting can wait outside.
 
-121
-00:07:30,500 --> 00:07:32,900
+122
+00:07:30,250 --> 00:07:32,530
 The room is tidy again.
 
-122
-00:07:33,150 --> 00:07:35,980
+123
+00:07:32,680 --> 00:07:35,400
 Now we finish our own sorting.
 
-123
-00:07:36,230 --> 00:07:38,630
+124
+00:07:35,550 --> 00:07:37,830
 One owner at a time.
 
-124
-00:07:38,880 --> 00:07:43,430
+125
+00:07:37,980 --> 00:07:42,460
 Good. I want to know whose pair we're holding
 first.
 
-125
-00:07:45,500 --> 00:07:47,900
+126
+00:07:45,250 --> 00:07:47,805
 What makes this pair yours?
 
-126
-00:07:48,150 --> 00:07:50,550
+127
+00:07:47,955 --> 00:07:50,510
 Green heels and my size.
 
-127
-00:07:50,800 --> 00:07:52,600
+128
+00:07:50,660 --> 00:07:52,229
 Evidence beats enthusiasm.
 
-128
-00:07:52,850 --> 00:07:57,400
+129
+00:07:52,379 --> 00:07:57,400
 Look, both heels are green. I checked the
 other one.
 
-129
-00:08:00,500 --> 00:08:02,300
+130
+00:08:00,250 --> 00:08:01,650
 Two matching socks.
 
-130
-00:08:02,550 --> 00:08:04,350
+131
+00:08:01,800 --> 00:08:02,760
 Both mine.
 
-131
-00:08:04,600 --> 00:08:07,000
+132
+00:08:02,910 --> 00:08:05,190
 Then the owner is settled.
 
-132
-00:08:07,250 --> 00:08:11,800
+133
+00:08:05,340 --> 00:08:09,820
 Good. The pair has a name before the cube
 does.
 
-133
-00:08:15,500 --> 00:08:18,911
-Name on the cube, not on the sock.
-
 134
-00:08:19,161 --> 00:08:20,982
-My toes appreciate that.
+00:08:09,970 --> 00:08:14,010
+Good. I don't want to open six every morning.
 
 135
-00:08:21,232 --> 00:08:24,643
-And it can be read without opening it.
+00:08:15,250 --> 00:08:18,757
+Name on the cube, not on the sock.
 
 136
-00:08:24,893 --> 00:08:29,497
+00:08:18,907 --> 00:08:20,700
+My toes appreciate that.
+
+137
+00:08:20,850 --> 00:08:24,357
+And it can be read without opening it.
+
+138
+00:08:24,507 --> 00:08:29,300
 Then I can find it even before school in the
 morning.
 
-137
-00:08:30,500 --> 00:08:32,300
+139
+00:08:30,250 --> 00:08:31,819
 Mine, checked, closed.
 
-138
-00:08:32,550 --> 00:08:35,380
+140
+00:08:31,969 --> 00:08:35,017
 The first apartment has an owner.
 
-139
-00:08:35,630 --> 00:08:38,890
+141
+00:08:35,167 --> 00:08:38,709
 Can you read my name from there?
 
-140
-00:08:39,140 --> 00:08:42,400
+142
+00:08:38,859 --> 00:08:42,400
 Sure can. No need to unzip anything.
 
-141
-00:08:45,500 --> 00:08:47,470
+143
+00:08:45,250 --> 00:08:47,090
 These have coral stars.
 
-142
-00:08:47,720 --> 00:08:50,120
+144
+00:08:47,240 --> 00:08:49,520
 A famous constellation of toes.
 
-143
-00:08:50,370 --> 00:08:52,170
+145
+00:08:49,670 --> 00:08:51,070
 Who recognizes them?
 
-144
-00:08:52,420 --> 00:08:56,540
+146
+00:08:51,220 --> 00:08:55,260
 I do. I picked that pattern for a reason.
 
-145
-00:09:00,500 --> 00:09:03,760
-They are mine. I chose the stars.
-
-146
-00:09:04,010 --> 00:09:05,980
-Yes, and both match.
-
 147
-00:09:06,230 --> 00:09:09,060
-My green ones are already home.
+00:08:55,410 --> 00:08:59,010
+Then I'd better put your name on them.
 
 148
-00:09:09,310 --> 00:09:13,860
+00:09:00,250 --> 00:09:03,410
+They are mine. I chose the stars.
+
+149
+00:09:03,560 --> 00:09:05,400
+Yes, and both match.
+
+150
+00:09:05,550 --> 00:09:08,270
+My green ones are already home.
+
+151
+00:09:08,420 --> 00:09:12,900
 And my stars can have their own place next
 door.
 
-149
-00:09:15,500 --> 00:09:17,470
+152
+00:09:15,250 --> 00:09:17,090
 Ella, on the handle.
 
-150
-00:09:17,720 --> 00:09:19,520
+153
+00:09:17,240 --> 00:09:18,640
 Not Grandma's suitcase.
 
-151
-00:09:19,770 --> 00:09:21,570
+154
+00:09:18,790 --> 00:09:20,190
 Correct destination, too.
 
-152
-00:09:21,820 --> 00:09:26,370
+155
+00:09:20,340 --> 00:09:24,820
 Good. I want to find them without taking a
 trip.
 
-153
-00:09:30,500 --> 00:09:32,900
+156
+00:09:24,970 --> 00:09:28,130
+We can leave the suitcase to Grandma.
+
+157
+00:09:30,250 --> 00:09:32,702
 Orange heels, longer than Max's.
 
-154
-00:09:33,150 --> 00:09:34,950
+158
+00:09:32,852 --> 00:09:34,357
 Those are mine.
 
-155
-00:09:35,200 --> 00:09:38,030
+159
+00:09:34,507 --> 00:09:37,432
 Your feet have been busy growing.
 
-156
-00:09:38,280 --> 00:09:42,830
+160
+00:09:37,582 --> 00:09:42,400
 That's how I can spot them beside his little
 pair.
 
-157
-00:09:45,500 --> 00:09:48,330
+161
+00:09:45,250 --> 00:09:47,970
 May I label this cube Leo?
 
-158
-00:09:48,580 --> 00:09:50,980
+162
+00:09:48,120 --> 00:09:50,400
 Yes. That is my pair.
 
-159
-00:09:51,230 --> 00:09:54,490
+163
+00:09:50,550 --> 00:09:53,710
 A short question saves a long search.
 
-160
-00:09:54,740 --> 00:09:58,860
+164
+00:09:53,860 --> 00:09:57,900
 Good. Now I can find them without opening
 Max's.
 
-161
-00:10:00,500 --> 00:10:02,300
+165
+00:10:00,250 --> 00:10:01,650
 Checked and zipped.
 
-162
-00:10:02,550 --> 00:10:04,350
+166
+00:10:01,800 --> 00:10:03,200
 Three owners found.
 
-163
-00:10:04,600 --> 00:10:06,570
+167
+00:10:03,350 --> 00:10:05,190
 And no departures scheduled.
 
-164
-00:10:06,820 --> 00:10:11,370
+168
+00:10:05,340 --> 00:10:09,820
 Three more at home, then. We're halfway down
 the row.
 
-165
-00:10:15,500 --> 00:10:17,900
-Plum dots. These are mine.
-
-166
-00:10:18,150 --> 00:10:20,120
-I nearly said Nina.
-
-167
-00:10:20,370 --> 00:10:23,630
-Nearly is a good time to ask.
-
-168
-00:10:23,880 --> 00:10:28,000
-Maya, are the plum dots the ones you picked?
-
 169
-00:10:30,500 --> 00:10:32,470
-I chose the dots.
+00:10:09,970 --> 00:10:13,130
+I can see my name from here.
 
 170
-00:10:32,720 --> 00:10:34,690
-Mine are plain teal.
+00:10:15,250 --> 00:10:17,607
+Plum dots. These are mine.
 
 171
-00:10:34,940 --> 00:10:38,630
+00:10:17,757 --> 00:10:19,658
+I nearly said Nina.
+
+172
+00:10:19,808 --> 00:10:23,074
+Nearly is a good time to ask.
+
+173
+00:10:23,224 --> 00:10:27,400
+Maya, are the plum dots the ones you picked?
+
+174
+00:10:30,250 --> 00:10:32,090
+I chose the dots.
+
+175
+00:10:32,240 --> 00:10:34,080
+Mine are plain teal.
+
+176
+00:10:34,230 --> 00:10:37,830
 Thank you. Two people, two answers worth
 hearing.
 
-172
-00:10:38,880 --> 00:10:44,290
+177
+00:10:37,980 --> 00:10:43,340
 We can see why guessing would've put them in
 the wrong cube.
 
-173
-00:10:45,500 --> 00:10:47,470
+178
+00:10:45,250 --> 00:10:47,070
 Maya. Plum dots. Confirmed.
 
-174
-00:10:47,720 --> 00:10:49,690
+179
+00:10:47,220 --> 00:10:49,039
 And safely stored together.
 
-175
-00:10:49,940 --> 00:10:52,340
+180
+00:10:49,189 --> 00:10:51,444
 And whose name faces out?
 
-176
-00:10:52,590 --> 00:10:56,280
+181
+00:10:51,594 --> 00:10:55,155
 Mine. I can read it from right here.
 
-177
-00:11:00,500 --> 00:11:03,330
+182
+00:10:55,305 --> 00:10:59,300
+Good. That's one search I won't have to make.
+
+183
+00:11:00,250 --> 00:11:02,970
 These are the plain teal ones.
 
-178
-00:11:03,580 --> 00:11:05,980
+184
+00:11:03,120 --> 00:11:05,400
 Yes, that is my pair.
 
-179
-00:11:06,230 --> 00:11:09,060
+185
+00:11:05,550 --> 00:11:08,270
 The description arrived before the guess.
 
-180
-00:11:09,310 --> 00:11:13,430
+186
+00:11:08,420 --> 00:11:12,460
 Good. That saves somebody opening the wrong
 cube tomorrow.
 
-181
-00:11:15,500 --> 00:11:18,330
+187
+00:11:15,250 --> 00:11:17,970
 Would six identical pairs be easier?
 
-182
-00:11:18,580 --> 00:11:21,410
+188
+00:11:18,120 --> 00:11:20,840
 Not for telling whose is whose.
 
-183
-00:11:21,660 --> 00:11:23,630
+189
+00:11:20,990 --> 00:11:22,830
 Different can be useful.
 
-184
-00:11:23,880 --> 00:11:28,430
+190
+00:11:22,980 --> 00:11:27,460
 Good thing my heels are green. They're quicker
 to spot.
 
-185
-00:11:30,500 --> 00:11:32,300
+191
+00:11:30,250 --> 00:11:31,210
 Nina, checked.
 
-186
-00:11:32,550 --> 00:11:34,350
+192
+00:11:31,360 --> 00:11:32,320
 Thank you.
 
-187
-00:11:34,600 --> 00:11:37,860
+193
+00:11:32,470 --> 00:11:35,630
 Five pairs, five names. One to go.
 
-188
-00:11:38,110 --> 00:11:42,660
+194
+00:11:35,780 --> 00:11:40,260
 Good. I think the last one's pretty easy to
 recognize.
 
-189
-00:11:45,500 --> 00:11:47,470
+195
+00:11:40,410 --> 00:11:43,570
+Let's still ask the person they fit.
+
+196
+00:11:45,250 --> 00:11:47,090
 Navy stripes. Largest size.
 
-190
-00:11:47,720 --> 00:11:49,690
+197
+00:11:47,240 --> 00:11:49,080
 Those are definitely mine.
 
-191
-00:11:49,940 --> 00:11:51,740
+198
+00:11:49,230 --> 00:11:50,630
 Much less travel-sized.
 
-192
-00:11:51,990 --> 00:11:56,540
+199
+00:11:50,780 --> 00:11:55,260
 Thank goodness. I couldn't get a toe into
 Max's pair.
 
-193
-00:12:00,500 --> 00:12:03,330
+200
+00:11:55,410 --> 00:11:58,570
+That would've been quite a squeeze, Dad.
+
+201
+00:12:00,250 --> 00:12:02,970
 Suitable for feet. Unsuitable for meetings.
 
-194
-00:12:03,580 --> 00:12:05,980
+202
+00:12:03,120 --> 00:12:05,400
 We will tell your collar.
 
-195
-00:12:06,230 --> 00:12:08,200
+203
+00:12:05,550 --> 00:12:07,390
 No sock tie today.
 
-196
-00:12:08,450 --> 00:12:13,430
+204
+00:12:07,540 --> 00:12:12,460
 Good. My neck and my feet each get the right
 outfit.
 
-197
-00:12:15,500 --> 00:12:18,330
+205
+00:12:15,250 --> 00:12:17,970
 Dan. Navy stripes. Staying at home.
 
-198
-00:12:18,580 --> 00:12:20,980
+206
+00:12:18,120 --> 00:12:20,400
 That is a complete address.
 
-199
-00:12:21,230 --> 00:12:23,200
+207
+00:12:20,550 --> 00:12:22,390
 Six out of six.
 
-200
-00:12:23,450 --> 00:12:28,430
+208
+00:12:22,540 --> 00:12:27,460
 Great. Now let's give all six an address we
 can find.
 
-201
-00:12:30,500 --> 00:12:32,900
+209
+00:12:30,250 --> 00:12:32,530
 Six names, with no duplicates.
 
-202
-00:12:33,150 --> 00:12:35,550
+210
+00:12:32,680 --> 00:12:34,960
 Now choose the storage places.
 
-203
-00:12:35,800 --> 00:12:38,630
+211
+00:12:35,110 --> 00:12:37,830
 Then we can find them again.
 
-204
-00:12:38,880 --> 00:12:43,430
+212
+00:12:37,980 --> 00:12:42,460
 Somewhere that makes sense when we're looking
 in a hurry.
 
-205
-00:12:45,500 --> 00:12:47,900
+213
+00:12:45,250 --> 00:12:47,805
 Six pairs means twelve socks.
 
-206
-00:12:48,150 --> 00:12:49,950
+214
+00:12:47,955 --> 00:12:49,031
 Twelve feet?
 
-207
-00:12:50,200 --> 00:12:53,030
+215
+00:12:49,181 --> 00:12:52,229
 Six people, two feet each. Fortunately.
 
-208
-00:12:53,280 --> 00:12:57,830
+216
+00:12:52,379 --> 00:12:57,400
 Good. None of those twelve has to travel by
 itself.
 
-209
-00:13:00,500 --> 00:13:02,900
+217
+00:13:00,250 --> 00:13:02,530
 No lonely socks left here.
 
-210
-00:13:03,150 --> 00:13:05,120
+218
+00:13:02,680 --> 00:13:04,520
 All twelve accounted for.
 
-211
-00:13:05,370 --> 00:13:08,200
+219
+00:13:04,670 --> 00:13:07,390
 Then the repair really is finished.
 
-212
-00:13:08,450 --> 00:13:13,860
+220
+00:13:07,540 --> 00:13:12,900
 Good. The basket bottom was the last place I
 wanted to check.
 
-213
-00:13:15,500 --> 00:13:18,197
+221
+00:13:15,250 --> 00:13:17,970
 Should we count one more time?
 
-214
-00:13:18,447 --> 00:13:20,734
+222
+00:13:18,120 --> 00:13:20,400
 We checked each pair already.
 
-215
-00:13:20,984 --> 00:13:24,911
+223
+00:13:20,550 --> 00:13:24,590
 Now we keep the record and move them once.
 
-216
-00:13:25,161 --> 00:13:29,498
+224
+00:13:24,740 --> 00:13:29,220
 Okay. I'd rather find mine than count them all
 again.
 
-217
-00:13:30,500 --> 00:13:33,283
+225
+00:13:30,250 --> 00:13:32,970
 Adults across the top, children below.
 
-218
-00:13:33,533 --> 00:13:35,893
+226
+00:13:33,120 --> 00:13:35,400
 Everyone can reach without climbing.
 
-219
-00:13:36,143 --> 00:13:39,349
+227
+00:13:35,550 --> 00:13:38,710
 A building with an excellent floor plan.
 
-220
-00:13:39,599 --> 00:13:44,497
+228
+00:13:38,860 --> 00:13:43,780
 Then keep the names facing this way as they go
 in.
 
-221
-00:13:45,500 --> 00:13:48,760
+229
+00:13:45,250 --> 00:13:48,410
 From where we stand: Dan, Maya, Nina.
 
-222
-00:13:49,010 --> 00:13:51,410
+230
+00:13:48,560 --> 00:13:50,840
 And Leo, Ella, Max underneath.
 
-223
-00:13:51,660 --> 00:13:53,630
+231
+00:13:50,990 --> 00:13:52,830
 Same viewpoint. Clear directions.
 
-224
-00:13:53,880 --> 00:13:58,860
+232
+00:13:52,980 --> 00:13:57,900
 Good. It matters which way you're standing
 when you say left.
 
-225
-00:14:00,500 --> 00:14:02,900
+233
+00:14:00,250 --> 00:14:02,530
 Mine is in the middle.
 
-226
-00:14:03,150 --> 00:14:05,550
+234
+00:14:02,680 --> 00:14:04,960
 Mine is on the right.
 
-227
-00:14:05,800 --> 00:14:09,060
+235
+00:14:05,110 --> 00:14:08,270
 And I finally know where mine lives.
 
-228
-00:14:09,310 --> 00:14:13,860
+236
+00:14:08,420 --> 00:14:12,900
 And all three labels face the person doing the
 looking.
 
-229
-00:14:15,500 --> 00:14:17,300
+237
+00:14:15,250 --> 00:14:16,100
 Left.
 
-230
-00:14:17,550 --> 00:14:19,350
+238
+00:14:16,250 --> 00:14:17,100
 Middle.
 
-231
-00:14:19,600 --> 00:14:22,000
+239
+00:14:17,250 --> 00:14:19,530
 Right. My apartment is downstairs.
 
-232
-00:14:22,250 --> 00:14:27,230
+240
+00:14:19,680 --> 00:14:24,600
 Good. Face the shelf and you can point to your
 own.
 
-233
-00:14:30,500 --> 00:14:33,607
+241
+00:14:24,750 --> 00:14:28,350
+I can reach the handle all by myself.
+
+242
+00:14:30,250 --> 00:14:33,410
 We can read them before opening anything.
 
-234
-00:14:33,857 --> 00:14:36,144
+243
+00:14:33,560 --> 00:14:35,840
 That will help tomorrow too.
 
-235
-00:14:36,394 --> 00:14:39,501
+244
+00:14:35,990 --> 00:14:39,150
 A useful label explains, then stays put.
 
-236
-00:14:39,751 --> 00:14:44,498
+245
+00:14:39,300 --> 00:14:44,220
 Tomorrow I'll only have to open the one with
 my name.
 
-237
-00:14:45,500 --> 00:14:48,330
+246
+00:14:45,250 --> 00:14:48,298
 Even the marker has a place.
 
-238
-00:14:48,580 --> 00:14:50,980
+247
+00:14:48,448 --> 00:14:51,003
 Does it need a suitcase?
 
-239
-00:14:51,230 --> 00:14:53,030
+248
+00:14:51,153 --> 00:14:52,722
 Only its cap.
 
-240
-00:14:53,280 --> 00:14:57,400
+249
+00:14:52,872 --> 00:14:57,400
 Good. It wouldn't have much to wear on
 vacation.
 
-241
-00:15:00,500 --> 00:15:04,129
+250
+00:15:00,250 --> 00:15:03,850
 This can wait for the next clean load.
 
-242
-00:15:04,379 --> 00:15:07,162
+251
+00:15:04,000 --> 00:15:06,720
 Empty, correctly located, and not traveling.
 
-243
-00:15:07,412 --> 00:15:11,041
+252
+00:15:06,870 --> 00:15:10,470
 Shall we leave it here by the washer?
 
-244
-00:15:11,291 --> 00:15:14,497
+253
+00:15:10,620 --> 00:15:13,780
 Yes. That'll make the next load easier.
 
-245
-00:15:15,500 --> 00:15:17,300
+254
+00:15:15,250 --> 00:15:16,650
 Mine is bottom-right.
 
-246
-00:15:17,550 --> 00:15:19,520
+255
+00:15:16,800 --> 00:15:18,640
 Mine is beside yours.
 
-247
-00:15:19,770 --> 00:15:23,890
+256
+00:15:18,790 --> 00:15:22,830
 And mine is on the left. No search needed.
 
-248
-00:15:24,140 --> 00:15:28,690
+257
+00:15:22,980 --> 00:15:27,460
 I like directions I can use before I'm fully
 awake.
 
-249
-00:15:30,500 --> 00:15:32,654
+258
+00:15:30,250 --> 00:15:32,403
 A clean towel for Mom.
 
-250
-00:15:32,904 --> 00:15:35,830
+259
+00:15:32,553 --> 00:15:35,538
 She said the top drawer was free.
 
-251
-00:15:36,080 --> 00:15:39,778
+260
+00:15:35,688 --> 00:15:39,503
 Let us keep the rest just as it is.
 
-252
-00:15:40,028 --> 00:15:44,498
+261
+00:15:39,653 --> 00:15:44,300
 Right. She gets to choose what goes in her own
 things.
 
-253
-00:15:45,500 --> 00:15:48,330
+262
+00:15:45,250 --> 00:15:47,970
 The towel goes in this drawer?
 
-254
-00:15:48,580 --> 00:15:51,410
+263
+00:15:48,120 --> 00:15:50,840
 Yes. That is the guest drawer.
 
-255
-00:15:51,660 --> 00:15:54,060
+264
+00:15:50,990 --> 00:15:53,270
 You checked the destination first.
 
-256
-00:15:54,310 --> 00:15:58,860
+265
+00:15:53,420 --> 00:15:57,900
 I like asking before I have to carry it back.
 
-257
-00:16:00,500 --> 00:16:02,470
+266
+00:16:00,250 --> 00:16:02,013
 One towel, top drawer.
 
-258
-00:16:02,720 --> 00:16:04,690
+267
+00:16:02,163 --> 00:16:03,925
 A very uneventful delivery.
 
-259
-00:16:04,940 --> 00:16:06,910
+268
+00:16:04,075 --> 00:16:05,838
 Sometimes that is perfect.
 
-260
-00:16:07,160 --> 00:16:11,710
+269
+00:16:05,988 --> 00:16:10,280
 Especially if you're trying to give somebody a
 quiet afternoon.
 
-261
-00:16:15,500 --> 00:16:18,760
+270
+00:16:10,430 --> 00:16:14,300
+Let's leave the rest just how Mom likes it.
+
+271
+00:16:15,250 --> 00:16:18,410
 The blanket was already where it belongs.
 
-262
-00:16:19,010 --> 00:16:22,270
+272
+00:16:18,560 --> 00:16:21,720
 I can admire that without packing it.
 
-263
-00:16:22,520 --> 00:16:24,320
+273
+00:16:21,870 --> 00:16:22,830
 Excellent restraint.
 
-264
-00:16:24,570 --> 00:16:29,120
+274
+00:16:22,980 --> 00:16:27,460
 Thanks. A folded blanket doesn't really need a
 new address.
 
-265
-00:16:30,500 --> 00:16:34,017
+275
+00:16:30,250 --> 00:16:33,850
 We did not find any pajamas to hang.
 
-266
-00:16:34,267 --> 00:16:36,554
+276
+00:16:34,000 --> 00:16:36,280
 They are Grandma's to unpack.
 
-267
-00:16:36,804 --> 00:16:39,501
+277
+00:16:36,430 --> 00:16:39,150
 Helping includes leaving her a choice.
 
-268
-00:16:39,751 --> 00:16:44,498
+278
+00:16:39,300 --> 00:16:44,220
 So she can hang them herself if she feels like
 it.
 
-269
-00:16:45,500 --> 00:16:47,900
+279
+00:16:45,250 --> 00:16:47,530
 Grandma's list goes back here.
 
-270
-00:16:48,150 --> 00:16:50,980
+280
+00:16:47,680 --> 00:16:50,400
 Our own record comes with us.
 
-271
-00:16:51,230 --> 00:16:53,630
+281
+00:16:50,550 --> 00:16:52,830
 Two lists, two clear owners.
 
-272
-00:16:53,880 --> 00:16:58,430
+282
+00:16:52,980 --> 00:16:57,460
 Good. Grandma won't have to hunt for her own
 list.
 
-273
-00:17:00,500 --> 00:17:02,470
+283
+00:17:00,250 --> 00:17:02,090
 Hands washed after sorting.
 
-274
-00:17:02,720 --> 00:17:05,550
+284
+00:17:02,240 --> 00:17:04,960
 Even though the socks were clean?
 
-275
-00:17:05,800 --> 00:17:09,490
+285
+00:17:05,110 --> 00:17:08,710
 Yes. We are finished with the laundry now.
 
-276
-00:17:09,740 --> 00:17:13,860
+286
+00:17:08,860 --> 00:17:12,900
 Good. My hands can retire from sock duty now.
 
-277
-00:17:15,500 --> 00:17:18,283
+287
+00:17:15,250 --> 00:17:17,970
 Your questions made the sorting easy.
 
-278
-00:17:18,533 --> 00:17:21,739
+288
+00:17:18,120 --> 00:17:21,280
 And your shelf plan made it useful.
 
-279
-00:17:21,989 --> 00:17:24,349
+289
+00:17:21,430 --> 00:17:23,710
 I benefited from both departments.
 
-280
-00:17:24,599 --> 00:17:29,497
+290
+00:17:23,860 --> 00:17:28,780
 So tomorrow morning nobody has to ask where
 their socks went.
 
-281
-00:17:30,500 --> 00:17:35,104
+291
+00:17:30,250 --> 00:17:35,043
 I wanted to make the visit easy. I moved too
 fast.
 
-282
-00:17:35,354 --> 00:17:37,573
+292
+00:17:35,193 --> 00:17:37,414
 You fixed it with us.
 
-283
-00:17:37,823 --> 00:17:40,439
+293
+00:17:37,564 --> 00:17:40,214
 Next time, ask before the suitcase.
 
-284
-00:17:40,689 --> 00:17:44,498
+294
+00:17:40,364 --> 00:17:44,300
 Agreed. Even a quick question would've saved
 two trips.
 
-285
-00:17:45,500 --> 00:17:48,330
+295
+00:17:45,250 --> 00:17:47,970
 Our socks almost went on vacation.
 
-286
-00:17:48,580 --> 00:17:51,410
+296
+00:17:48,120 --> 00:17:50,840
 A journey of approximately one hallway.
 
-287
-00:17:51,660 --> 00:17:54,920
+297
+00:17:50,990 --> 00:17:54,150
 And a return ticket paid in questions.
 
-288
-00:17:55,170 --> 00:17:59,290
+298
+00:17:54,300 --> 00:17:58,340
 Next time they're staying here without buying
 a ticket.
 
-289
-00:18:00,500 --> 00:18:02,900
+299
+00:18:00,250 --> 00:18:02,530
 A peaceful table at last.
 
-290
-00:18:03,150 --> 00:18:05,550
+300
+00:18:02,680 --> 00:18:04,960
 With everyone's feet properly represented.
 
-291
-00:18:05,800 --> 00:18:08,630
+301
+00:18:05,110 --> 00:18:07,830
 Mine are still under my chair.
 
-292
-00:18:08,880 --> 00:18:13,860
+302
+00:18:07,980 --> 00:18:12,900
 My stars are off duty. They know where to go
 tomorrow.
 
-293
-00:18:15,500 --> 00:18:19,309
+303
+00:18:15,250 --> 00:18:19,186
 Did Grandma tease you about that tie for
 years?
 
-294
-00:18:19,559 --> 00:18:22,573
+304
+00:18:19,336 --> 00:18:22,414
 Kindly. Then she helped me find one.
 
-295
-00:18:22,823 --> 00:18:25,439
+305
+00:18:22,564 --> 00:18:25,214
 A family tradition: notice, then help.
 
-296
-00:18:25,689 --> 00:18:29,498
+306
+00:18:25,364 --> 00:18:29,300
 I'm glad the family remembers the helping part
 too.
 
-297
-00:18:30,500 --> 00:18:33,646
+307
+00:18:30,250 --> 00:18:33,410
 The label worked because we asked first.
 
-298
-00:18:33,896 --> 00:18:35,633
+308
+00:18:33,560 --> 00:18:34,410
 Exactly.
 
-299
-00:18:35,883 --> 00:18:39,443
+309
+00:18:34,560 --> 00:18:38,160
 A name cannot make the wrong pair yours.
 
-300
-00:18:39,693 --> 00:18:44,498
+310
+00:18:38,310 --> 00:18:43,230
 Good. My stars won't turn into dots behind a
 different name.
 
-301
-00:18:45,500 --> 00:18:48,812
+311
+00:18:45,250 --> 00:18:48,650
 Top row for adults. Bottom row for us.
 
-302
-00:18:49,062 --> 00:18:51,988
+312
+00:18:48,800 --> 00:18:51,784
 Mine is bottom-right when I face it.
 
-303
-00:18:52,238 --> 00:18:55,164
+313
+00:18:51,934 --> 00:18:54,919
 Directions with a starting point. Very
 helpful.
 
-304
-00:18:55,414 --> 00:18:59,498
+314
+00:18:55,069 --> 00:18:59,300
 Exactly. Turn toward the shelf first and the
 directions work.
 
-305
-00:19:00,500 --> 00:19:04,129
+315
+00:19:00,250 --> 00:19:03,850
 Another day, we can organize the garden pots.
 
-306
-00:19:04,379 --> 00:19:07,162
+316
+00:19:04,000 --> 00:19:06,720
 Do plants need name labels too?
 
-307
-00:19:07,412 --> 00:19:09,772
+317
+00:19:06,870 --> 00:19:09,150
 A question for another afternoon.
 
-308
-00:19:10,022 --> 00:19:14,497
+318
+00:19:09,300 --> 00:19:13,780
 I wonder whether Dad will give the pots
 apartments too.
 
-309
-00:19:15,500 --> 00:19:19,129
+319
+00:19:15,250 --> 00:19:18,850
 Grandma does not need a label, does she?
 
-310
-00:19:19,379 --> 00:19:21,739
+320
+00:19:19,000 --> 00:19:21,280
 She introduced herself years ago.
 
-311
-00:19:21,989 --> 00:19:24,772
+321
+00:19:21,430 --> 00:19:24,150
 And remembers my packing history perfectly.
 
-312
-00:19:25,022 --> 00:19:29,497
+322
+00:19:24,300 --> 00:19:28,780
 Good. That story was worth bringing along in
 her suitcase.
 
-313
-00:19:30,500 --> 00:19:34,129
+323
+00:19:30,250 --> 00:19:33,850
 Six pairs at home. One suitcase correctly
 packed.
 
-314
-00:19:34,379 --> 00:19:37,162
+324
+00:19:34,000 --> 00:19:36,720
 And one generous guest resting peacefully.
 
-315
-00:19:37,412 --> 00:19:39,772
+325
+00:19:36,870 --> 00:19:39,150
 That is a good afternoon.
 
-316
-00:19:40,022 --> 00:19:44,497
+326
+00:19:39,300 --> 00:19:43,780
 And she'll wake up to a room that's still
 hers.
 
-317
-00:19:45,500 --> 00:19:49,757
+327
+00:19:45,250 --> 00:19:49,730
 Next time I help, I will ask where things
 belong.
 
-318
-00:19:50,007 --> 00:19:52,655
+328
+00:19:49,880 --> 00:19:52,600
 That sounds like a wonderful welcome.
 
-319
-00:19:52,905 --> 00:19:54,589
+329
+00:19:52,750 --> 00:19:54,150
 Especially for socks.
 
-320
-00:19:54,839 --> 00:19:59,498
+330
+00:19:54,300 --> 00:19:59,220
 Even better if you ask before you close the
 zipper, Dad.

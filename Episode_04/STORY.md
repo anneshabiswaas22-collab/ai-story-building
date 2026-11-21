@@ -1428,7 +1428,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **MAX:** My heel stays with me now.
 
-**NINA:** Good. How it feels matters more than the label.
+**NINA:** Good. Trust your feet first.
 
 ### SHOT_051 | 00:12:30–00:12:45 | Ask the price plainly
 
@@ -1630,6 +1630,8 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **LEO:** That's the size we checked on both shoes.
 
+**MAX:** And it's the one my heel liked.
+
 ### SHOT_058 | 00:14:15–00:14:30 | One final look
 
 **Visible cast:** NINA, MAX, DAN
@@ -1657,6 +1659,8 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 **DAN:** Excellent references.
 
 **MAX:** You can ask my heels. They finally stayed put.
+
+**NINA:** Then we can put this pair through checkout.
 
 ### SHOT_059 | 00:14:30–00:14:45 | Forty is enough
 
