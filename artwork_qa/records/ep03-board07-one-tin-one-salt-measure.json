@@ -1,0 +1,90 @@
+{
+  "episode": 3,
+  "board": 7,
+  "path": "Episode_03/assets/storyboards/BOARD_07.png",
+  "parent_commit": "31b59b5e27cb29fae7edd84f422e0be5ebee33b3",
+  "parent_sha256": "4aae64764009c9757a03fdc7732135d2fe336b6326c90d0ad8d904ef65e24669",
+  "selected_sha256": "08f23024d24bc51dcb4e0f65451d480d7ae64af228c3f8093e226f6afcbcdb6e",
+  "parent_size": [
+    1671,
+    941
+  ],
+  "selected_size": [
+    1671,
+    941
+  ],
+  "generated_source": "Episode_03/assets/storyboards/BOARD_07.png",
+  "method": "Selected panels from a referenced ImageGen edit were assembled into the previous sheet. The other panel rectangles match the parent pixels exactly.",
+  "request": "Edit the first input image, the selected storyboard. Preserve the existing four landscape panel positions in a 2×2 grid, exact original numbered SHOT_ badges, original palette/compositions and actor likeness. The second input is original family visual reference. Dan blue / left watch, Maya plum with ponytail, Nina teal auburn waves, Leo orange, braided Ella in denim overalls, small Max green. A third reference supplies setting or continuity. In every panel actors and props must follow its specified shot precisely. Keep good panels intact. Apply the following specific changes in the artwork. 025 and 027 are successful panels, leave exactly alone. Change two localized actions only. 026 Leo holds one closed cylindrical baking-powder tin with its RED lid unquestionably fitted on top while glancing toward the recipe Nina points to; clear the second red disk/lid from the tabletop. Maya holds one empty tablespoon ready. No powder is added. 028 one and only one tiny half-teaspoon measuring spoon, IN MAYA'S HAND positioned over the blue mixing bowl. Max tips a little salt from the mouth of the salt jar into her spoon; both Max's hands are on the jar, no free or second scoop, white salt only. Ella steadies the lid ready to close the jar. Existing clean waist-level island, blue dry bowl, yellow unused bowl and established cast. Maintain original cropped coverage and shot badges.\nSHOT_025 shows only MAYA, ELLA, DAN in PREP_ISLAND. Ella fills a clean tablespoon with sugar and Maya levels it. With Maya beside her, Ella adds two level tablespoons in sequence to BLUE. Dan closes the sugar container afterward. End: BLUE holds 2 cups flour plus exactly 2 tablespoons sugar; sugar container closed. Preserve this shot as it stands.\nSHOT_026 shows only NINA, LEO, MAYA in PREP_ISLAND. Nina points to the baking-powder name on the recipe. Leo matches it to the correct closed tin while Maya holds the tablespoon ready. They leave other cupboard stock away from the mixing area. End: Correct baking-powder tin identified and opened; measured amount still zero. Existing artwork error: Red lid sits on counter beside Leo's tin despite specified closed tin. Fix: Keep lid fitted until powder measured in 027.\nSHOT_027 shows only MAYA, LEO, DAN in PREP_ISLAND. Maya measures one level tablespoon of baking powder and tips it into BLUE. Leo points to the recipe equivalent, three teaspoons, without measuring or adding a second amount. Dan puts the tin lid back on. End: BLUE adds exactly 1 tablespoon baking powder; tin closed; no additional teaspoon portions added. Preserve this shot as it stands.\nSHOT_028 shows only MAYA, MAX, ELLA in PREP_ISLAND. Maya holds the half-teaspoon measure while Max carefully fills it from the salt jar. She levels it and tips it into BLUE. Ella closes the jar and sets all four dry containers back on their storage tray. End: BLUE dry mixture contains 2 cups flour, 2 tablespoons sugar, 1 tablespoon baking powder and 1/2 teaspoon salt. Existing artwork error: Maya and Max both have heaped spoons, implying two salt measures. Fix: Stage Max filling only Maya's half teaspoon; remove second heaped portion.",
+  "qa_updates": {
+    "SHOT_025": {
+      "observed": "Ella holds spoon over blue; Maya levels, Dan closes sugar.",
+      "severity": "unrated",
+      "correction": "Check fine likeness, occlusion and exact details against identity masters before motion.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_026": {
+      "observed": "Nina points at the recipe while Leo holds the tin with its red lid fitted. Maya waits beside the empty tablespoon; the counter has no loose red lid.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_027": {
+      "observed": "Maya tips measure into blue; Dan closes tin, Leo points to card.",
+      "severity": "unrated",
+      "correction": "Check fine likeness, occlusion and exact details against identity masters before motion.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_028": {
+      "observed": "Maya holds the single small measure while Max tips the salt jar with both hands. Ella holds its lid ready, and the blue bowl is beneath the measure.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    }
+  },
+  "generated_source_sha256": "9452c4583e230cb031418580037dcf018713089a55260406c98fe9e04710dd8f",
+  "generated_source_size": [
+    1671,
+    941
+  ],
+  "selected_panels": [
+    2,
+    4
+  ],
+  "preserved_panels": [
+    1,
+    3
+  ],
+  "selected_rectangles_xyxy": [
+    [
+      835,
+      0,
+      1671,
+      470
+    ],
+    [
+      835,
+      470,
+      1671,
+      941
+    ]
+  ],
+  "image_inputs": {
+    "selected_sheet": {
+      "path": "Episode_03/assets/storyboards/BOARD_07.png",
+      "sha256": "4aae64764009c9757a03fdc7732135d2fe336b6326c90d0ad8d904ef65e24669"
+    },
+    "cast_contact_sheet": {
+      "sha256": "ee132e6bb6535a21dc45a3bed61516cfd1e2c5ff9eeb35c596d1324c1079193f",
+      "original_previews": "Episode_03/assets/characters"
+    },
+    "additional_reference": {
+      "sha256": "f73e93732c342e605f830cd031f588fc2d1e5d431595bd2a28fc242c84e4fe36",
+      "sources": [
+        "Episode_03/assets/environments/PREP_ISLAND.png",
+        "Episode_03/assets/overlays/PANCAKE_RECIPE.svg",
+        "Episode_03/assets/storyboards/BOARD_07.png"
+      ]
+    }
+  }
+}
