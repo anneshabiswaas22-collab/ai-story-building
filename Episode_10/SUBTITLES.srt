@@ -1,972 +1,1366 @@
 1
-00:00:00,500 --> 00:00:03,330
+00:00:00,500 --> 00:00:03,283
 A little party for our team.
 
 2
-00:00:03,580 --> 00:00:08,130
+00:00:03,533 --> 00:00:08,008
 Decorations, cake, six happy people. I have a
 perfect plan.
 
 3
-00:00:08,380 --> 00:00:10,350
+00:00:08,258 --> 00:00:10,195
 Leave room for surprises.
 
 4
-00:00:15,500 --> 00:00:18,760
-Six plates. One for each of us.
+00:00:10,445 --> 00:00:14,497
+Could the surprises come after dessert this
+time, please?
 
 5
-00:00:19,010 --> 00:00:23,130
-Aunt Rose is stopping by, but she cannot stay.
+00:00:15,500 --> 00:00:18,343
+Six plates. One for each of us.
 
 6
-00:00:23,380 --> 00:00:25,780
-Her chair gets a vacation.
+00:00:18,593 --> 00:00:22,186
+Aunt Rose is stopping by, but she cannot stay.
 
 7
-00:00:30,500 --> 00:00:33,760
-We have one strawberry. Just in case.
+00:00:22,436 --> 00:00:24,529
+Her chair gets a vacation.
 
 8
-00:00:34,010 --> 00:00:36,410
-A very small emergency cake.
+00:00:24,779 --> 00:00:29,498
+Then the six places are for us. We can still
+say hello.
 
 9
-00:00:36,660 --> 00:00:39,920
-Let us wait for the real one.
+00:00:30,500 --> 00:00:33,706
+We have one strawberry. Just in case.
 
 10
-00:00:45,500 --> 00:00:48,760
-A little ribbon for your family party.
+00:00:33,956 --> 00:00:36,316
+A very small emergency cake.
 
 11
-00:00:49,010 --> 00:00:52,700
-Thank you, Rose. Can you stay a moment?
+00:00:36,566 --> 00:00:39,772
+Let us wait for the real one.
 
 12
-00:00:52,950 --> 00:00:54,920
-Just a moment, sister.
+00:00:40,022 --> 00:00:44,497
+Couldn't hurt to keep the little one on
+standby, though.
 
 13
+00:00:45,500 --> 00:00:48,607
+A little ribbon for your family party.
+
+14
+00:00:48,857 --> 00:00:52,374
+Thank you, Rose. Can you stay a moment?
+
+15
+00:00:52,624 --> 00:00:54,501
+Just a moment, sister.
+
+16
+00:00:54,751 --> 00:00:59,498
+Good. You can see what the ribbon's for before
+you go.
+
+17
 00:01:00,500 --> 00:01:02,900
 Mine keeps becoming a knot.
 
-14
+18
 00:01:03,150 --> 00:01:05,980
 Give the loops a little room.
 
-15
+19
 00:01:06,230 --> 00:01:08,200
 People need that too.
 
-16
-00:01:15,500 --> 00:01:18,330
+20
+00:01:08,450 --> 00:01:13,430
+There. It looks more like a bow when I loosen
+it.
+
+21
+00:01:15,500 --> 00:01:17,968
 Today I have checked absolutely everything.
 
-17
-00:01:18,580 --> 00:01:23,130
+22
+00:01:18,218 --> 00:01:22,186
 Then you will know where to start if something
 changes.
 
-18
-00:01:23,380 --> 00:01:26,210
+23
+00:01:22,436 --> 00:01:24,904
 That sounds like a useful plan.
 
-19
+24
+00:01:25,154 --> 00:01:29,497
+I think I'll keep the checklist where I can
+find it.
+
+25
 00:01:30,500 --> 00:01:34,620
 We will save you a story about the party.
 
-20
+26
 00:01:34,870 --> 00:01:37,700
 That travels better than cake. Goodbye!
 
-21
+27
 00:01:37,950 --> 00:01:39,920
 See you soon, Rose.
 
-22
-00:01:45,500 --> 00:01:48,330
+28
+00:01:40,170 --> 00:01:44,290
+I'll remember the funny parts to tell you
+later.
+
+29
+00:01:45,500 --> 00:01:48,116
 A bow at the right address.
 
-23
-00:01:48,580 --> 00:01:51,840
+30
+00:01:48,366 --> 00:01:51,380
 That is an excellent place for it.
 
-24
-00:01:52,090 --> 00:01:55,780
+31
+00:01:51,630 --> 00:01:55,041
 And the bell can still do its job.
 
-25
+32
+00:01:55,291 --> 00:01:59,498
+Good. We want to hear it when the cake comes.
+
+33
 00:02:00,500 --> 00:02:02,900
 The entrance is still clear.
 
-26
+34
 00:02:03,150 --> 00:02:05,550
 The party can get in.
 
-27
+35
 00:02:05,800 --> 00:02:07,770
 So can the people.
 
-28
+36
+00:02:08,020 --> 00:02:12,140
+Good. No one has to step over our decorations.
+
+37
 00:02:15,500 --> 00:02:17,900
 No ribbon under anyone’s feet.
 
-29
+38
 00:02:18,150 --> 00:02:20,980
 No mystery leftovers on the counter.
 
-30
+39
 00:02:21,230 --> 00:02:24,060
 Now we can enjoy the room.
 
-31
-00:02:30,500 --> 00:02:33,330
+40
+00:02:24,310 --> 00:02:28,430
+I can still see the bow from the doorway.
+
+41
+00:02:30,500 --> 00:02:33,283
 Our address is fourteen Maple Lane.
 
-32
-00:02:33,580 --> 00:02:35,550
+42
+00:02:33,533 --> 00:02:35,470
 Blue door, number fourteen.
 
-33
-00:02:35,800 --> 00:02:39,920
+43
+00:02:35,720 --> 00:02:39,772
 Even I cannot confuse the door with the cake.
 
-34
-00:02:45,500 --> 00:02:48,330
+44
+00:02:40,022 --> 00:02:44,497
+I'd like to see the cake try wearing our bow.
+
+45
+00:02:45,500 --> 00:02:48,197
 Fourteen Maple Lane. Delivery around two.
 
-35
-00:02:48,580 --> 00:02:50,550
+46
+00:02:48,447 --> 00:02:50,324
 Correct address, correct cake.
 
-36
-00:02:50,800 --> 00:02:55,350
+47
+00:02:50,574 --> 00:02:54,911
 The confirmation is correct. We will check the
 delivery too.
 
-37
+48
+00:02:55,161 --> 00:02:59,498
+Fair. An order number can't ring our bell by
+itself.
+
+49
 00:03:00,500 --> 00:03:02,900
 A space for the box.
 
-38
+50
 00:03:03,150 --> 00:03:06,840
 The strawberry has a very large neighbor
 coming.
 
-39
+51
 00:03:07,090 --> 00:03:09,490
 They will both stay cool.
 
-40
-00:03:15,500 --> 00:03:20,050
+52
+00:03:09,740 --> 00:03:14,290
+Good. Let's keep that space open till the
+doorbell rings.
+
+53
+00:03:15,500 --> 00:03:19,468
 I will not check the cake until I see it.
 
-41
-00:03:20,300 --> 00:03:23,990
+54
+00:03:19,718 --> 00:03:22,936
 There is room for that on the list.
 
-42
-00:03:24,240 --> 00:03:26,640
+55
+00:03:23,186 --> 00:03:25,279
 And room in the fridge.
 
-43
-00:03:30,500 --> 00:03:33,330
+56
+00:03:25,529 --> 00:03:29,497
+Then the checkmark waits until the box is
+actually here.
+
+57
+00:03:30,500 --> 00:03:33,283
 Dear cake, welcome to our table.
 
-44
-00:03:33,580 --> 00:03:35,980
+58
+00:03:33,533 --> 00:03:35,893
 It may need directions first.
 
-45
-00:03:36,230 --> 00:03:39,490
+59
+00:03:36,143 --> 00:03:39,349
 We will welcome it when it arrives.
 
-46
+60
+00:03:39,599 --> 00:03:44,497
+Okay. I'll save my welcome speech until it can
+hear me.
+
+61
 00:03:45,500 --> 00:03:47,470
 A very punctual napkin.
 
-47
+62
 00:03:47,720 --> 00:03:50,120
 There is a delivery message.
 
-48
+63
 00:03:50,370 --> 00:03:53,200
 Let us see what it says.
 
-49
-00:04:00,500 --> 00:04:02,900
+64
+00:03:53,450 --> 00:03:57,570
+A message before a doorbell? That's worth a
+look.
+
+65
+00:04:00,500 --> 00:04:02,860
 It says delivered at two-oh-six.
 
-50
-00:04:03,150 --> 00:04:06,410
+66
+00:04:03,110 --> 00:04:06,316
 Then why is the cake not here?
 
-51
-00:04:06,660 --> 00:04:09,490
+67
+00:04:06,566 --> 00:04:09,349
 Let us check before we guess.
 
-52
+68
+00:04:09,599 --> 00:04:14,497
+The time tells us when. We still need to know
+where.
+
+69
 00:04:15,500 --> 00:04:17,900
 No box on the step.
 
-53
+70
 00:04:18,150 --> 00:04:20,980
 Not even a very small one.
 
-54
+71
 00:04:21,230 --> 00:04:24,060
 Good. That is one place checked.
 
-55
-00:04:30,500 --> 00:04:32,900
+72
+00:04:24,310 --> 00:04:29,290
+Well, at least we're sure it isn't behind our
+own door.
+
+73
+00:04:30,500 --> 00:04:32,654
 No cake in the fridge.
 
-56
-00:04:33,150 --> 00:04:35,550
+74
+00:04:32,904 --> 00:04:35,058
 No cake beside the board.
 
-57
-00:04:35,800 --> 00:04:40,780
+75
+00:04:35,308 --> 00:04:39,778
 Then we are looking for a delivery, not a
 hidden dessert.
 
-58
-00:04:45,500 --> 00:04:48,760
+76
+00:04:40,028 --> 00:04:44,498
+Good. The whole box wouldn't fit inside that
+little dish anyway.
+
+77
+00:04:45,500 --> 00:04:48,514
 I wanted one afternoon without a mix-up.
 
-59
-00:04:49,010 --> 00:04:52,270
+78
+00:04:48,764 --> 00:04:51,778
 We can still have a good afternoon.
 
-60
-00:04:52,520 --> 00:04:55,780
+79
+00:04:52,028 --> 00:04:55,042
 First, let us find out what happened.
 
-61
+80
+00:04:55,292 --> 00:04:59,499
+All right. I'll start by listening to what we
+know.
+
+81
 00:05:00,500 --> 00:05:02,470
 The order numbers match.
 
-62
+82
 00:05:02,720 --> 00:05:05,980
 So the message is about our cake.
 
-63
+83
 00:05:06,230 --> 00:05:09,490
 A clue. Much better than a complaint.
 
-64
-00:05:15,500 --> 00:05:17,900
+84
+00:05:09,740 --> 00:05:14,290
+Good. We know which order to ask the bakery
+about.
+
+85
+00:05:15,500 --> 00:05:17,654
 Did somebody steal our party?
 
-65
-00:05:18,150 --> 00:05:23,560
+86
+00:05:17,904 --> 00:05:22,760
 We do not know that. A delivery could go to
 another door.
 
-66
-00:05:23,810 --> 00:05:25,780
+87
+00:05:23,010 --> 00:05:24,778
 There is a photo.
 
-67
+88
+00:05:25,028 --> 00:05:29,498
+Let's look. Maybe the step will tell us where
+it went.
+
+89
 00:05:30,500 --> 00:05:32,470
 That door is green.
 
-68
+90
 00:05:32,720 --> 00:05:34,520
 Ours is blue.
 
-69
+91
 00:05:34,770 --> 00:05:38,030
 Then the box was photographed somewhere else.
 
-70
-00:05:45,500 --> 00:05:48,330
+92
+00:05:38,280 --> 00:05:43,260
+That's the first clue we can see without
+reading any numbers.
+
+93
+00:05:45,500 --> 00:05:48,283
 No bow in the photo either.
 
-71
-00:05:48,580 --> 00:05:50,980
+94
+00:05:48,533 --> 00:05:50,893
 Our cake missed the decorations.
 
-72
-00:05:51,230 --> 00:05:55,350
+95
+00:05:51,143 --> 00:05:55,195
 The picture can help us ask a clear question.
 
-73
+96
+00:05:55,445 --> 00:05:59,497
+Good. We can describe what's actually in the
+picture.
+
+97
 00:06:00,500 --> 00:06:02,470
 Should I order another?
 
-74
+98
 00:06:02,720 --> 00:06:05,550
 First check where this one went.
 
-75
+99
 00:06:05,800 --> 00:06:09,060
 One missing cake is enough to investigate.
 
-76
-00:06:15,500 --> 00:06:20,480
+100
+00:06:09,310 --> 00:06:14,290
+Fair. Six people don't need two cakes turning
+up at once.
+
+101
+00:06:15,500 --> 00:06:20,022
 Our order is marked delivered, but the photo
 shows another door.
 
-77
-00:06:20,730 --> 00:06:22,530
+102
+00:06:20,272 --> 00:06:21,906
 Clear and polite.
 
-78
-00:06:22,780 --> 00:06:26,040
+103
+00:06:22,156 --> 00:06:25,116
 With actual facts. I like this version.
 
-79
-00:06:30,500 --> 00:06:32,900
+104
+00:06:25,366 --> 00:06:29,498
+Good. That gives support something they can
+check for us.
+
+105
+00:06:30,500 --> 00:06:32,654
 The emergency strawberry is ready.
 
-80
-00:06:33,150 --> 00:06:36,410
+106
+00:06:32,904 --> 00:06:35,830
 It is one strawberry for six people.
 
-81
-00:06:36,660 --> 00:06:40,350
+107
+00:06:36,080 --> 00:06:39,392
 Let us give the cake a chance first.
 
-82
-00:06:45,500 --> 00:06:48,330
+108
+00:06:39,642 --> 00:06:44,498
+Good. Cutting one berry six ways sounds like a
+very small party.
+
+109
+00:06:45,500 --> 00:06:48,197
 There must be several green doors.
 
-83
-00:06:48,580 --> 00:06:51,410
+110
+00:06:48,447 --> 00:06:51,144
 We need the right green door.
 
-84
-00:06:51,660 --> 00:06:55,350
+111
+00:06:51,394 --> 00:06:54,911
 And we can ask before entering anyone’s space.
 
-85
+112
+00:06:55,161 --> 00:06:59,498
+Right. A green door is a clue, not an
+invitation.
+
+113
 00:07:00,500 --> 00:07:02,300
 A leaf-shaped knocker.
 
-86
+114
 00:07:02,550 --> 00:07:06,240
 And that little hedge. I know that hedge.
 
-87
+115
 00:07:06,490 --> 00:07:09,320
 Let us check the number too.
 
-88
-00:07:15,500 --> 00:07:18,330
+116
+00:07:09,570 --> 00:07:13,690
+Good. Lots of leaves look alike from this
+distance.
+
+117
+00:07:15,500 --> 00:07:18,116
 I cannot read that last digit.
 
-89
-00:07:18,580 --> 00:07:20,980
+118
+00:07:18,366 --> 00:07:20,585
 Then do not guess it.
 
-90
-00:07:21,230 --> 00:07:25,350
+119
+00:07:20,835 --> 00:07:24,644
 We can compare the actual number at the door.
 
-91
+120
+00:07:24,894 --> 00:07:29,498
+Fair. One blurry digit isn't enough to knock
+on someone's door.
+
+121
 00:07:30,500 --> 00:07:32,900
 The driver recorded number eighteen.
 
-92
+122
 00:07:33,150 --> 00:07:35,120
 Our confirmation says fourteen.
 
-93
+123
 00:07:35,370 --> 00:07:38,630
 Now we have two numbers to compare.
 
-94
-00:07:45,500 --> 00:07:50,480
+124
+00:07:38,880 --> 00:07:43,430
+Good. Eighteen is something we can actually go
+and check.
+
+125
+00:07:45,500 --> 00:07:50,022
 We can ask, did a cake for number fourteen
 arrive here?
 
-95
-00:07:50,730 --> 00:07:53,990
+126
+00:07:50,272 --> 00:07:53,232
 Better than, where is our entire party?
 
-96
-00:07:54,240 --> 00:07:56,040
+127
+00:07:53,482 --> 00:07:55,116
 Much better.
 
-97
+128
+00:07:55,366 --> 00:07:59,498
+And it sounds friendlier if you're on the
+other side.
+
+129
 00:08:00,500 --> 00:08:02,900
 We will all go together.
 
-98
+130
 00:08:03,150 --> 00:08:06,410
 Just along this sidewalk. No road crossing.
 
-99
+131
 00:08:06,660 --> 00:08:09,490
 And straight back if nobody answers.
 
-100
+132
+00:08:09,740 --> 00:08:13,860
+Good. I'll keep my eyes on the house numbers.
+
+133
 00:08:15,500 --> 00:08:18,760
 Blue door behind us, green door ahead.
 
-101
+134
 00:08:19,010 --> 00:08:21,840
 We are checking the actual signs.
 
-102
+135
 00:08:22,090 --> 00:08:24,920
 The sidewalk is doing excellent work.
 
-103
+136
+00:08:25,170 --> 00:08:29,290
+It can't read the numbers for us, though, Dad.
+
+137
 00:08:30,500 --> 00:08:32,470
 The same low hedge.
 
-104
+138
 00:08:32,720 --> 00:08:35,980
 I recognized it without asking a statue.
 
-105
+139
 00:08:36,230 --> 00:08:39,060
 A useful improvement over the park.
 
-106
+140
+00:08:39,310 --> 00:08:43,860
+I much prefer hedges. They don't pretend to
+know directions.
+
+141
 00:08:45,500 --> 00:08:47,300
 Number eighteen.
 
-107
+142
 00:08:47,550 --> 00:08:49,520
 Different number, different door.
 
-108
+143
 00:08:49,770 --> 00:08:52,600
 The delivery photo matches this place.
 
-109
+144
+00:08:52,850 --> 00:08:56,970
+We should still ask whose box it really is.
+
+145
 00:09:00,500 --> 00:09:03,330
 Can we peek through the hedge?
 
-110
+146
 00:09:03,580 --> 00:09:06,410
 We can ring the bell instead.
 
-111
+147
 00:09:06,660 --> 00:09:08,460
 Much less scratchy.
 
-112
+148
+00:09:08,710 --> 00:09:12,830
+Good. I'll keep my nose out of that hedge.
+
+149
 00:09:15,500 --> 00:09:18,760
 This is the door in the photograph.
 
-113
+150
 00:09:19,010 --> 00:09:20,980
 One question, calmly asked.
 
-114
+151
 00:09:21,230 --> 00:09:23,200
 We are all here.
 
-115
+152
+00:09:23,450 --> 00:09:28,860
+And the box in that photo hasn't told us whose
+it is.
+
+153
 00:09:30,500 --> 00:09:32,300
 Now we wait.
 
-116
+154
 00:09:32,550 --> 00:09:34,520
 I can do that.
 
-117
+155
 00:09:34,770 --> 00:09:37,170
 You have had pancake practice.
 
-118
-00:09:45,500 --> 00:09:48,330
+156
+00:09:37,420 --> 00:09:41,540
+Good. Apparently that pan was preparing me for
+doorbells.
+
+157
+00:09:45,500 --> 00:09:48,197
 Maybe the cake answered the door.
 
-119
-00:09:48,580 --> 00:09:51,410
+158
+00:09:48,447 --> 00:09:51,144
 Cakes are very poor at doorbells.
 
-120
-00:09:51,660 --> 00:09:54,920
+159
+00:09:51,394 --> 00:09:54,501
 Let us give our neighbor a moment.
 
-121
-00:10:00,500 --> 00:10:05,050
+160
+00:09:54,751 --> 00:09:59,498
+Fine. I'll keep the welcome speech till we
+have an answer.
+
+161
+00:10:00,500 --> 00:10:04,256
 If nobody is home, we will ask the bakery
 again.
 
-122
-00:10:05,300 --> 00:10:08,990
+162
+00:10:04,506 --> 00:10:07,552
 Yes. We do not need to look around.
 
-123
-00:10:09,240 --> 00:10:12,070
+163
+00:10:07,802 --> 00:10:10,138
 We have already found useful clues.
 
-124
+164
+00:10:10,388 --> 00:10:14,499
+Yes. Knowing where the photo was taken gives
+us a start.
+
+165
 00:10:15,500 --> 00:10:17,300
 Someone is coming.
 
-125
+166
 00:10:17,550 --> 00:10:19,350
 Good afternoon.
 
-126
+167
 00:10:19,600 --> 00:10:21,570
 Thank you for answering.
 
-127
-00:10:30,500 --> 00:10:33,330
+168
+00:10:21,820 --> 00:10:26,370
+We only need a moment to ask about the
+delivery.
+
+169
+00:10:30,500 --> 00:10:33,148
 Hello. We are from number fourteen.
 
-128
-00:10:33,580 --> 00:10:38,990
+170
+00:10:33,398 --> 00:10:38,460
 We are checking a delivery that may have
 reached the wrong door.
 
-129
-00:10:39,240 --> 00:10:41,040
+171
+00:10:38,710 --> 00:10:40,394
 A cake delivery.
 
-130
-00:10:45,500 --> 00:10:49,190
+172
+00:10:40,644 --> 00:10:44,499
+The photo looks like the step outside your
+door.
+
+173
+00:10:45,500 --> 00:10:49,129
 A white bakery box with a red seal.
 
-131
-00:10:49,440 --> 00:10:52,700
+174
+00:10:49,379 --> 00:10:52,585
 The photo shows it beside this door.
 
-132
-00:10:52,950 --> 00:10:55,350
+175
+00:10:52,835 --> 00:10:55,195
 We have the order confirmation.
 
-133
-00:11:00,500 --> 00:11:04,190
+176
+00:10:55,445 --> 00:10:59,497
+We can show the matching number if that helps.
+
+177
+00:11:00,500 --> 00:11:03,952
 Did a cake for number fourteen arrive here?
 
-134
-00:11:04,440 --> 00:11:08,560
+178
+00:11:04,202 --> 00:11:08,057
 We think there may have been a number mix-up.
 
-135
-00:11:08,810 --> 00:11:10,610
+179
+00:11:08,307 --> 00:11:09,991
 No hurry.
 
-136
+180
+00:11:10,241 --> 00:11:14,498
+We brought our confirmation if you'd like to
+compare it.
+
+181
 00:11:15,500 --> 00:11:17,900
 That sounds like a fridge.
 
-137
+182
 00:11:18,150 --> 00:11:21,410
 Let us hear what our neighbor says.
 
-138
+183
 00:11:21,660 --> 00:11:24,490
 Yes. We still need to check.
 
-139
+184
+00:11:24,740 --> 00:11:28,860
+Good. A fridge sound can't tell us what's
+inside.
+
+185
 00:11:30,500 --> 00:11:33,330
 Same order number, same white box.
 
-140
+186
 00:11:33,580 --> 00:11:35,980
 That will help identify it.
 
-141
+187
 00:11:36,230 --> 00:11:38,630
 And explain the mistake clearly.
 
-142
+188
+00:11:38,880 --> 00:11:43,860
+That'll tell us more than just the color of
+the door.
+
+189
 00:11:45,500 --> 00:11:49,190
 Thank you for helping us sort this out.
 
-143
+190
 00:11:49,440 --> 00:11:52,270
 Our plates are waiting very patiently.
 
-144
+191
 00:11:52,520 --> 00:11:54,320
 So are we.
 
-145
-00:12:00,500 --> 00:12:04,620
+192
+00:11:54,570 --> 00:11:59,120
+My plate's got a bit more patience than my
+stomach.
+
+193
+00:12:00,500 --> 00:12:03,994
 My perfect plan did not include asking for
 help.
 
-146
-00:12:04,870 --> 00:12:08,130
+194
+00:12:04,244 --> 00:12:07,009
 There is still time to add that.
 
-147
-00:12:08,380 --> 00:12:12,070
+195
+00:12:07,259 --> 00:12:10,389
 It is a useful line on any list.
 
-148
+196
+00:12:10,639 --> 00:12:14,498
+I'm adding that one to the plan in my head.
+
+197
 00:12:15,500 --> 00:12:17,300
 A white box.
 
-149
+198
 00:12:17,550 --> 00:12:19,520
 With a red seal.
 
-150
+199
 00:12:19,770 --> 00:12:23,890
 Let us check it before we carry it home.
 
-151
+200
+00:12:24,140 --> 00:12:28,690
+Good. A white box alone could hold somebody
+else's dessert.
+
+201
 00:12:30,500 --> 00:12:32,900
 That is our order number.
 
-152
+202
 00:12:33,150 --> 00:12:35,120
 And our cake description.
 
-153
+203
 00:12:35,370 --> 00:12:38,630
 Now we can ask about the label.
 
-154
-00:12:45,500 --> 00:12:47,900
+204
+00:12:38,880 --> 00:12:43,000
+Good. The handwriting and our address still
+need comparing.
+
+205
+00:12:45,500 --> 00:12:47,787
 The order ends in ten-C.
 
-155
-00:12:48,150 --> 00:12:50,120
+206
+00:12:48,037 --> 00:12:49,914
 So does the sticker.
 
-156
-00:12:50,370 --> 00:12:55,780
+207
+00:12:50,164 --> 00:12:55,321
 The plain round cake. We have checked more
 than the box color.
 
-157
-00:13:00,500 --> 00:13:05,480
+208
+00:12:55,571 --> 00:12:59,498
+Good. Now let's hear what happened when it
+arrived.
+
+209
+00:13:00,500 --> 00:13:04,893
 This came to eighteen. I put it straight in
 the fridge.
 
-158
-00:13:05,730 --> 00:13:08,560
+210
+00:13:05,143 --> 00:13:07,639
 Thank you for keeping it cool.
 
-159
-00:13:08,810 --> 00:13:10,610
+211
+00:13:07,889 --> 00:13:09,476
 We appreciate that.
 
-160
-00:13:15,500 --> 00:13:19,190
+212
+00:13:09,726 --> 00:13:14,498
+Dinner's a lot easier to sort out when
+somebody remembers the delivery.
+
+213
+00:13:15,500 --> 00:13:18,630
 The label looked like eighteen to the driver.
 
-161
-00:13:19,440 --> 00:13:21,410
+214
+00:13:18,880 --> 00:13:20,551
 Our confirmation says fourteen.
 
-162
-00:13:21,660 --> 00:13:26,210
+215
+00:13:20,801 --> 00:13:24,660
 A small mark sent a large cake on a visit.
 
-163
-00:13:30,500 --> 00:13:32,900
+216
+00:13:24,910 --> 00:13:29,499
+Good. We can give the bakery the number that
+caused the mix-up.
+
+217
+00:13:30,500 --> 00:13:32,860
 I have not opened it.
 
-164
-00:13:33,150 --> 00:13:35,120
+218
+00:13:33,110 --> 00:13:35,047
 The seal is intact.
 
-165
-00:13:35,370 --> 00:13:39,060
+219
+00:13:35,297 --> 00:13:38,926
 Thank you. We will take it straight home.
 
-166
-00:13:45,500 --> 00:13:48,330
+220
+00:13:39,176 --> 00:13:44,497
+Good. That red seal looks just like the one in
+the photo.
+
+221
+00:13:45,500 --> 00:13:48,116
 Here you are. Enjoy your party.
 
-167
-00:13:48,580 --> 00:13:52,270
+222
+00:13:48,366 --> 00:13:51,777
 Thank you for being a very good neighbor.
 
-168
-00:13:52,520 --> 00:13:55,780
+223
+00:13:52,027 --> 00:13:55,041
 Our cake has had quite a trip.
 
-169
-00:14:00,500 --> 00:14:02,300
+224
+00:13:55,291 --> 00:13:59,498
+And a very kind person looked after it. Thank
+you.
+
+225
+00:14:00,500 --> 00:14:02,134
 Thank you again.
 
-170
-00:14:02,550 --> 00:14:06,670
+226
+00:14:02,384 --> 00:14:06,125
 We will tell the bakery it is safely
 recovered.
 
-171
-00:14:06,920 --> 00:14:10,610
+227
+00:14:06,375 --> 00:14:09,726
 And we will check every digit next time.
 
-172
+228
+00:14:09,976 --> 00:14:14,498
+Good. I want the bakery to know which address
+caused it.
+
+229
 00:14:15,500 --> 00:14:18,330
 Does it need a ticket home?
 
-173
+230
 00:14:18,580 --> 00:14:21,410
 Just a steady pair of hands.
 
-174
+231
 00:14:21,660 --> 00:14:24,490
 I have checked both of mine.
 
-175
+232
+00:14:24,740 --> 00:14:28,860
+Good. My job can be keeping the sidewalk
+clear.
+
+233
 00:14:30,500 --> 00:14:32,470
 Blue door, number fourteen.
 
-176
+234
 00:14:32,720 --> 00:14:35,120
 At last, the correct entrance.
 
-177
+235
 00:14:35,370 --> 00:14:37,770
 Straight to the fridge first.
 
-178
-00:14:45,500 --> 00:14:48,760
+236
+00:14:38,020 --> 00:14:43,000
+Understood. This stop is only for dropping off
+our cold passenger.
+
+237
+00:14:45,500 --> 00:14:48,607
 A safe place while we get ready.
 
-179
-00:14:49,010 --> 00:14:52,270
+238
+00:14:48,857 --> 00:14:51,964
 The party can wait two more minutes.
 
-180
-00:14:52,520 --> 00:14:55,350
+239
+00:14:52,214 --> 00:14:54,911
 We have found something worth celebrating.
 
-181
-00:15:00,500 --> 00:15:04,620
+240
+00:14:55,161 --> 00:14:59,498
+And the little strawberry's got its neighbor
+back at last.
+
+241
+00:15:00,500 --> 00:15:04,309
 Recovered safely from number eighteen. Please
 check the label.
 
-182
-00:15:04,870 --> 00:15:07,270
+242
+00:15:04,559 --> 00:15:06,778
 Fourteen is still our address.
 
-183
-00:15:07,520 --> 00:15:10,350
+243
+00:15:07,028 --> 00:15:09,644
 And thank you for the help.
 
-184
+244
+00:15:09,894 --> 00:15:14,498
+Good. They'll know they can close the search
+for our cake.
+
+245
 00:15:15,500 --> 00:15:17,900
 Clean hands before we serve.
 
-185
+246
 00:15:18,150 --> 00:15:21,410
 The cake traveled farther than we did.
 
-186
+247
 00:15:21,660 --> 00:15:24,060
 Its box did the traveling.
 
-187
-00:15:30,500 --> 00:15:34,620
+248
+00:15:24,310 --> 00:15:29,290
+And everybody who handled that box can wash up
+for dessert.
+
+249
+00:15:30,500 --> 00:15:34,093
 May I have the emergency strawberry with my
 slice?
 
-188
-00:15:34,870 --> 00:15:38,130
+250
+00:15:34,343 --> 00:15:37,186
 Yes. It can retire from emergency duty.
 
-189
-00:15:38,380 --> 00:15:41,210
+251
+00:15:37,436 --> 00:15:39,904
 One berry, one very important job.
 
-190
+252
+00:15:40,154 --> 00:15:44,497
+I think it deserves a very good seat on my
+plate.
+
+253
 00:15:45,500 --> 00:15:48,330
 Here is our guest of honor.
 
-191
+254
 00:15:48,580 --> 00:15:50,550
 Same order, right house.
 
-192
+255
 00:15:50,800 --> 00:15:54,490
 And still cool. We can serve it now.
 
-193
+256
+00:15:54,740 --> 00:15:59,290
+I'll save my welcome till we actually have our
+slices.
+
+257
 00:16:00,500 --> 00:16:02,900
 The box is finally empty.
 
-194
+258
 00:16:03,150 --> 00:16:06,840
 The cake has a much better view now.
 
-195
+259
 00:16:07,090 --> 00:16:09,490
 And space for six servings.
 
-196
+260
+00:16:09,740 --> 00:16:13,860
+Good. Every plate has a person waiting for it.
+
+261
 00:16:15,500 --> 00:16:17,300
 Six equal slices.
 
-197
+262
 00:16:17,550 --> 00:16:19,520
 No four-or-forty problem today.
 
-198
+263
 00:16:19,770 --> 00:16:22,600
 Just six people sharing one cake.
 
-199
+264
+00:16:22,850 --> 00:16:27,400
+I like this math. Everybody gets the very same
+share.
+
+265
 00:16:30,500 --> 00:16:33,330
 One for Dan, one for Leo.
 
-200
+266
 00:16:33,580 --> 00:16:35,550
 A very successful delivery.
 
-201
+267
 00:16:35,800 --> 00:16:38,630
 This time we saw it arrive.
 
-202
+268
+00:16:38,880 --> 00:16:43,860
+Good. I can confirm this slice is at the right
+address.
+
+269
 00:16:45,500 --> 00:16:47,900
 Two left on the board.
 
-203
+270
 00:16:48,150 --> 00:16:50,980
 One for Nina, one for Max.
 
-204
+271
 00:16:51,230 --> 00:16:54,060
 Exactly. No one has to guess.
 
-205
+272
+00:16:54,310 --> 00:16:58,430
+Good. I can count them from my own place.
+
+273
 00:17:00,500 --> 00:17:02,900
 My slice has an assistant.
 
-206
+274
 00:17:03,150 --> 00:17:04,950
 The emergency strawberry.
 
-207
+275
 00:17:05,200 --> 00:17:07,600
 Six slices. Everyone has one.
 
-208
-00:17:15,500 --> 00:17:20,480
+276
+00:17:07,850 --> 00:17:13,260
+Good. It was a long trip for this little bit
+of cake.
+
+277
+00:17:15,500 --> 00:17:19,970
 The cake is with the family. The sharp tools
 stay here.
 
-209
-00:17:20,730 --> 00:17:23,560
+278
+00:17:20,220 --> 00:17:22,760
 That is a good final check.
 
-210
+279
+00:17:23,010 --> 00:17:25,936
+Can I call the job done now?
+
+280
+00:17:26,186 --> 00:17:29,498
+Yes. Come sit down and enjoy your slice.
+
+281
 00:17:30,500 --> 00:17:32,900
 I wanted a perfect party.
 
-211
+282
 00:17:33,150 --> 00:17:36,410
 You made room for a real one.
 
-212
+283
 00:17:36,660 --> 00:17:39,060
 We found the cake together.
 
-213
+284
+00:17:39,310 --> 00:17:44,290
+That's the part I want to remember when we
+tell it.
+
+285
 00:17:45,500 --> 00:17:47,900
 To this very helpful team.
 
-214
+286
 00:17:48,150 --> 00:17:50,120
 And our kind neighbor.
 
-215
+287
 00:17:50,370 --> 00:17:52,770
 And checking the whole address.
 
-216
-00:18:00,500 --> 00:18:03,330
+288
+00:17:53,020 --> 00:17:58,000
+And the person who noticed the green door in
+the picture.
+
+289
+00:18:00,500 --> 00:18:03,116
 Did the family party start yet?
 
-217
-00:18:03,580 --> 00:18:07,270
+290
+00:18:03,366 --> 00:18:06,777
 Almost, Dad. Our cake visited the neighbor
 first.
 
-218
-00:18:07,520 --> 00:18:10,350
+291
+00:18:07,027 --> 00:18:09,643
 It came back with a story.
 
-219
-00:18:15,500 --> 00:18:19,620
+292
+00:18:09,893 --> 00:18:14,497
+We'll tell you the whole thing once we taste
+it, Ed.
+
+293
+00:18:15,500 --> 00:18:19,427
 A clear address is better than a lucky guess.
 
-220
-00:18:19,870 --> 00:18:23,130
+294
+00:18:19,677 --> 00:18:22,784
 We have been collecting evidence for that.
 
-221
-00:18:23,380 --> 00:18:25,350
+295
+00:18:23,034 --> 00:18:24,911
 Thanks, Dad. Talk soon.
 
-222
+296
+00:18:25,161 --> 00:18:29,498
+Bye, Grandpa. We even read the little print
+this time.
+
+297
 00:18:30,500 --> 00:18:32,300
 Sweet. Not sour.
 
-223
+298
 00:18:32,550 --> 00:18:34,950
 And no flowers in it.
 
-224
+299
 00:18:35,200 --> 00:18:37,600
 Just a very welcome cake.
 
-225
-00:18:45,500 --> 00:18:48,760
+300
+00:18:37,850 --> 00:18:41,970
+This one definitely got the right kind of
+flour.
+
+301
+00:18:45,500 --> 00:18:48,550
 The ribbons were not the best part.
 
-226
-00:18:49,010 --> 00:18:50,810
+302
+00:18:48,800 --> 00:18:50,484
 What was?
 
-227
-00:18:51,060 --> 00:18:54,750
+303
+00:18:50,734 --> 00:18:54,186
 Everyone staying with the problem. And with
 me.
 
-228
+304
+00:18:54,436 --> 00:18:59,498
+I'd stay with you even if the strawberry were
+all we had.
+
+305
 00:19:00,500 --> 00:19:03,760
 You do not have to guess alone.
 
-229
+306
 00:19:04,010 --> 00:19:06,840
 Even when your checklist looks impressive.
 
-230
+307
 00:19:07,090 --> 00:19:08,890
 Especially then.
 
-231
+308
+00:19:09,140 --> 00:19:13,690
+A second pair of eyes doesn't take up much
+room.
+
+309
 00:19:15,500 --> 00:19:18,760
 Emergency strawberry, thank you for your
 service.
 
-232
+310
 00:19:19,010 --> 00:19:20,980
 A very small hero.
 
-233
+311
 00:19:21,230 --> 00:19:23,030
 With excellent timing.
 
-234
+312
+00:19:23,280 --> 00:19:28,260
+Good. Nobody else had to share one tiny berry
+six ways.
+
+313
 00:19:30,500 --> 00:19:35,050
 Would anyone like to stay right here for a
 while?
 
-235
+314
 00:19:35,300 --> 00:19:37,100
 Yes.
 
-236
+315
 00:19:37,350 --> 00:19:39,150
 No directions required.
 
-237
-00:19:45,500 --> 00:19:48,330
+316
+00:19:39,400 --> 00:19:43,950
+Fine by me. I know exactly where my plate is.
+
+317
+00:19:45,500 --> 00:19:48,283
 The party found the right house.
 
-238
-00:19:48,580 --> 00:19:51,840
+318
+00:19:48,533 --> 00:19:51,739
 It had the right people all along.
+
+319
+00:19:51,989 --> 00:19:56,041
+Everybody has a slice. Who's going to tell
+Rose?
+
+320
+00:19:56,291 --> 00:19:59,497
+Me. I'll start with the little strawberry.
