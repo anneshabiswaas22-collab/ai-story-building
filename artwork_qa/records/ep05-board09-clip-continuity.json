@@ -1,0 +1,45 @@
+{
+  "episode": 5,
+  "board": 9,
+  "path": "Episode_05/assets/storyboards/BOARD_09.png",
+  "parent_commit": "f0f8700782755308c4d9731b7c4539a59a930da5",
+  "parent_sha256": "76c4658725792039d1b65a4d807ac01891611a96500731f372bb2f0d9948b2bc",
+  "selected_sha256": "e3b2f227cf3360c90b35f77964cecc06946b966b21e5483b75c5e525e2f95e21",
+  "parent_size": [
+    1672,
+    941
+  ],
+  "selected_size": [
+    1672,
+    941
+  ],
+  "generated_source": "Episode_05/assets/storyboards/BOARD_09.png",
+  "method": "Referenced ImageGen edit. The selected PNG is the original returned file.",
+  "request": "Edit the first reference: full four-panel storyboard, landscape 16:9 finished sheet, 2×2 panels with four equal rectangles. Keep black numbered labels top left, text SHOT_033 to SHOT_036 in reading order. The second image locks the family's original appearance and outfits: Dan blue polo and left-wrist watch, Maya plum and cream, Nina teal and tan, Leo orange, Ella red with long denim overalls and braids, small Max green. The third is a scene or adjacent continuity reference, not a panel to copy. Preserve composition, cast, actions, light and art from the first input except as specified. Maintain the travel props and real anatomy across these four frames. Dan ALWAYS carries the same single blue-handled wicker picnic basket with fitted, CLOSED woven/wooden lid; keep the six dirty dishes/plates covered inside, no exposed plates. In 033 closed lidded basket in Dad's hand, Max walking between Dad and Leo. 034 Dad holds a simple N-up map showing fountain center, oak bench right/east, squirrel bench left/west and south gate at bottom; his OTHER arm points behind toward the SOUTH GATE, firmly attached to his shoulder. 035 remove the floating hand visible next to Max. Show Dan's continuous complete arm from blue sleeve and elbow to open pointing hand with an anatomically plausible pose. Dad still has closed basket by its blue handle. 036 Dad carries the blue-handled closed basket as he follows right path; paper map is in his pocket, not in hands, Leo gestures, Max in green. Keep all three characters through all four shots, oak right and squirrel west. No new characters. Individual panel beats: 33 visible DAN, LEO, MAX; Trio walks back along the same dry path toward the fountain approach, with Max between Dan and Leo. Dan stops before the fork rather than cutting behind the water basin. 34 visible DAN, LEO, MAX; Dan takes sketch out, points behind him to the south gate, then aligns map north with the path ahead. Leo checks the oak is on their right from this exact viewpoint. 35 visible DAN, MAX, LEO; Max notices the fountain sounds louder here than at the west bench. Dan gives him time to enjoy it, then points with an empty hand along the right path. 36 visible DAN, LEO, MAX; Dan folds and pockets map, then steps onto the RIGHT branch with both boys beside him. Leo gestures toward the big oak; Max checks the statue is now behind them to the left.",
+  "qa_updates": {
+    "SHOT_033": {
+      "observed": "Dan carries the closed blue-handled basket; Max walks between him and Leo near the fountain.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_034": {
+      "observed": "Dan’s pointing arm joins his shoulder and he holds the map, but the printed art is approximate and the south gate is not established.",
+      "severity": "major",
+      "correction": "Match the exact PARK_MAP.svg and show the south gate behind the group rather than the squirrel statue in the pointing direction.",
+      "status": "FAIL"
+    },
+    "SHOT_035": {
+      "observed": "Dan’s open pointing hand is connected to his arm; he holds the covered basket with his other hand while Max listens.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_036": {
+      "observed": "Dan carries the same blue-handled covered basket with the folded map in his pocket; Leo gestures on the path to the right.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    }
+  }
+}
