@@ -1,0 +1,102 @@
+{
+  "episode": 4,
+  "board": 11,
+  "path": "Episode_04/assets/storyboards/BOARD_11.png",
+  "parent_commit": "af6d7f08ed90b87450c5368022742b90b6a52905",
+  "parent_sha256": "2b9fb402ce43b52b4a2470e8153b2ee8f471751d800c2f41701e4b89db52b33d",
+  "selected_sha256": "94e472368a93056f9d2196d7f5b4fe3e6f5310ecfa31297f9b775fa5fcfb1f28",
+  "parent_size": [
+    1672,
+    941
+  ],
+  "selected_size": [
+    1672,
+    941
+  ],
+  "generated_source": "Episode_04/assets/storyboards/BOARD_11.png",
+  "method": "Selected panels from a referenced ImageGen edit were assembled into the previous sheet. The other panel rectangles match the parent pixels exactly.",
+  "request": "Edit the first input image, the selected storyboard. Preserve the existing four landscape panel positions in a 2×2 grid, exact original numbered SHOT_ badges, original palette/compositions and actor likeness. The second input is original family visual reference. Dan blue / left watch, Maya plum with ponytail, Nina teal auburn waves, Leo orange, braided Ella in denim overalls, small Max green. A third reference supplies setting or continuity. In every panel actors and props must follow its specified shot precisely. Keep good panels intact. Apply the following specific changes in the artwork. Retain original fitting bench, shoe inventory, costumes and acting. 041 Nina, Max, Ella: show only ONE size-3 navy trainer on Max's raised anatomical RIGHT foot. Its laces are distinctly WHITE; Nina loosens the white laces at the heel gap. Max's left foot wears only a sock. 042 Nina, Dan, Max: Max now wears only clean socks. Show the two navy size-3 shoes, both with white laces, INSIDE their own shoebox before Dan lowers the lid. Nina's EMPTY hands remain visually apart from the shoes and she holds no third shoe. The green originals stay paired beneath the bench. 043 Dan, Leo, Max: one open SIZE 2 shoebox with BOTH navy shoes side by side showing their bright WHITE laces from first reveal. No second trial box. Correct the previous dark laces. 044 preserve the existing successful panel. Exact 041,042,043,044 badges. Keep shoe colors navy uppers/white laces and size sequence continuous.\nSHOT_041 shows only NINA, MAX, ELLA in SHOE_FITTING. Nina loosens size3 right shoe; Max tries it while seated and lifts his heel slightly without walking. End: Right size3 briefly on with visible heel gap; left socked; Max notices looseness. Existing artwork error: Nina loosens navy right shoe, which has dark laces rather than white. Fix: Keep white laces on size 3, with right foot lifted and left socked.\nSHOT_042 shows only NINA, DAN, MAX in SHOE_FITTING. Nina removes size3 shoe; Dan closes its matching box and returns it to the assistant's tray. End: Max both socked; size3 pair returned; no trial boxes remain on bench. Existing artwork error: Dan closes size 3 box while Nina still holds one of the two shoes. Fix: Show both shoes inside before Dan closes the lid.\nSHOT_043 shows only LEO, DAN, MAX in SHOE_FITTING. The assistant hands over the chosen model in size2; Leo reads the label before Dan opens it. End: Only one size2 box open on bench; matching navy pair inside. Existing artwork error: Dan and Leo inspect size 2 box; dark laces become white in the very next shot. Fix: Use white laces on size 2 pair from reveal onward.\nSHOT_044 shows only NINA, MAX, MAYA in SHOE_FITTING. Nina loosens both shoes before Max puts them on one at a time, using the bench for support. End: Both size2 navy trial shoes on Max; box empty on far bench end. Preserve this shot as it stands.",
+  "qa_updates": {
+    "SHOT_041": {
+      "observed": "Max’s raised right foot wears one white-laced navy size-three shoe. His left foot is socked and the matching unworn shoe is visible inside the size-three box as Nina loosens the laces.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_042": {
+      "observed": "Max has both socks on, Nina’s hands are empty and both white-laced shoes are inside the size-three box as Dan lowers the lid at the return tray.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_043": {
+      "observed": "Leo points to the size-two label as Dan opens the single box for Max. The two navy trainers inside already have white laces.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_044": {
+      "observed": "Nina adjusts Max's white-laced navy pair. Green originals together beneath bench.",
+      "severity": "unrated",
+      "correction": "Check fine likeness, occlusion and exact details against identity masters before motion.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    }
+  },
+  "generated_source_sha256": "f15c9abfb6e38253c2715e0865cbf8a90a9d0d50c9a3ee8a5b072b63f5153da2",
+  "generated_source_size": [
+    1672,
+    941
+  ],
+  "selected_panels": [
+    1,
+    2,
+    3
+  ],
+  "preserved_panels": [
+    4
+  ],
+  "selected_rectangles_xyxy": [
+    [
+      0,
+      0,
+      836,
+      470
+    ],
+    [
+      836,
+      0,
+      1672,
+      470
+    ],
+    [
+      0,
+      470,
+      836,
+      941
+    ]
+  ],
+  "image_inputs": {
+    "selected_sheet": {
+      "path": "Episode_04/assets/storyboards/BOARD_11.png",
+      "sha256": "2b9fb402ce43b52b4a2470e8153b2ee8f471751d800c2f41701e4b89db52b33d"
+    },
+    "cast_contact_sheet": {
+      "sha256": "ee132e6bb6535a21dc45a3bed61516cfd1e2c5ff9eeb35c596d1324c1079193f",
+      "original_previews": "Episode_04/assets/characters"
+    },
+    "additional_reference": {
+      "sha256": "5f604414ee4b20e44a48343dc5bd7d05e74550e81c517cb4cb3ae84f6c3fbd41",
+      "path": "Episode_04/assets/environments/SHOE_FITTING.png"
+    }
+  },
+  "detail_edit": {
+    "generated_full_sheet_sha256": "f8743efd282d5841677b8b6c8bbfeee538cebfec82f06e042665d89ffdd0ae33",
+    "generated_detail_sha256": "187ba5a8fc734cec6b9849d0081c4c4544d7bd7facecb3f1d0c5dffb8f2f91c5",
+    "detail_request": "Edit the first reference, a close-up of an OPEN cream shoebox with a legible 'Size 3' front label and tissue in a stylized 3D family shoe store. Place exactly ONE left-foot navy blue children's sneaker with WHITE laces, a white rubber sole and small green heel tab INSIDE this box, nestled in the tissue. The second reference is the exact shoe model from this same scene. The other shoe from the pair is being tried on outside this crop. Show the one shoe horizontally, heel at the right and toe at the left, clearly a single shoe. Position it fully inside the open cavity behind its unbroken front wall, with just the navy upper, bright white laces and small green heel tab rising above the rim, no second shoe. Preserve exact lighting, tissue, the cream box, lid, label and its floor position, Nina's teal flat at right, and all background edges. Framing remains exactly the same as reference one. No new hands, characters or text.",
+    "detail_source_crop_width_height_x_y": "276x184+3+280",
+    "detail_resize_to": "276x184",
+    "detail_selection_region": "153x63+49+80",
+    "detail_destination": "+52+360",
+    "assembly": "Localized generated mate selected inside the existing box in 041. The other fitting-room action remains visible."
+  }
+}
