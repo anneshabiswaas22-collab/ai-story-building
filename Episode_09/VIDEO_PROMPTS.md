@@ -33,6 +33,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **MAYA:** A small garden today. Mint, basil, and a few radishes.  
 **DAN:** Small garden. Ambitious gardener.  
 **NINA:** Then let us give the gardener a plan.  
+**DAN:** How small are we talking? Can my plan fit on the bench?  
 
 ## SHOT_002 | 00:00:15–00:00:30 | A word with two jobs
 
@@ -48,6 +49,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **MAX:** Mint? Are we growing money?  
 **DAN:** That would be a very useful garden.  
 **ELLA:** Our shopping list might get smaller.  
+**MAX:** Would we have to water the coins to make change?  
 
 ## SHOT_003 | 00:00:30–00:00:45 | Leaves instead of change
 
@@ -63,6 +65,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **MAYA:** This mint is an herb. The other mint makes coins.  
 **MAX:** Two jobs, one word.  
 **DAN:** And only one belongs in our garden.  
+**MAX:** Good. I'd rather smell an herb than smell my pocket.  
 
 ## SHOT_004 | 00:00:45–00:01:00 | Three homes for plants
 
@@ -78,6 +81,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **NINA:** Mint left, basil in the middle, radishes on the right.  
 **LEO:** Three pots. Three saucers.  
 **ELLA:** And three labels that tell the truth.  
+**NINA:** Good. We'll be able to tell the seed pot from the rest.  
 
 ## SHOT_005 | 00:01:00–00:01:15 | A delivery we can count
 
@@ -93,6 +97,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **DAN:** My brother Ben is bringing the pots.  
 **LEO:** Empty ones?  
 **MAYA:** Yes. We are supplying the plants, not ordering a forest.  
+**DAN:** Three is plenty. I haven't even met the mint yet.  
 
 ## SHOT_006 | 00:01:15–00:01:30 | Tools have places too
 
@@ -108,6 +113,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **ELLA:** Labels and gloves are ready.  
 **MAX:** Do the seeds need tiny gloves?  
 **NINA:** No. Just our careful hands.  
+**MAX:** Mine are bigger than a seed. I can lend a hand.  
 
 ## SHOT_007 | 00:01:30–00:01:45 | A drink with a different job
 
@@ -123,6 +129,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **DAN:** I will bring their drink.  
 **MAYA:** Bring the can first. We will check the soil outside.  
 **MAX:** No straws for the basil, then.  
+**DAN:** Good. I'll wait to see what the soil actually needs.  
 
 ## SHOT_008 | 00:01:45–00:02:00 | Outside together
 
@@ -138,6 +145,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **NINA:** Stay on the clear path with your hands free of soil.  
 **DAN:** Even my grand plan is walking carefully.  
 **LEO:** That is a good first step.  
+**MAYA:** Keep your eyes on the path till we reach the bench.  
 
 ## SHOT_009 | 00:02:00–00:02:15 | Uncle Ben brings empty homes
 
@@ -153,6 +161,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **BEN:** Three empty homes, as promised.  
 **DAN:** Excellent. Their new residents are already waiting.  
 **MAYA:** Hello, Ben. Thank you for bringing them.  
+**BEN:** You're welcome. I was careful to bring their saucers too.  
 
 ## SHOT_010 | 00:02:15–00:02:30 | No hidden forest
 
@@ -168,6 +177,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **LEO:** Three pots and three saucers. Nothing growing yet.  
 **BEN:** Not even a surprise tree.  
 **NINA:** That keeps our small plan small.  
+**LEO:** I think we can give these three all the attention they need.  
 
 ## SHOT_011 | 00:02:30–00:02:45 | The family resemblance
 
@@ -183,6 +193,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **MAX:** We nearly ordered a money plant.  
 **BEN:** Dan once labeled an empty box “treasure.”  
 **DAN:** It contained very valuable possibilities.  
+**MAX:** I bet that box didn't give you much change, Dad.  
 
 ## SHOT_012 | 00:02:45–00:03:00 | A short visit, a real thank-you
 
@@ -198,6 +209,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **BEN:** Enjoy your garden. Label first, guess later.  
 **DAN:** A useful family motto. Thanks, Ben.  
 **MAYA:** We will show you the journal next time.  
+**MAX:** I'll save you the part about what kind of mint it is.  
 
 ## SHOT_013 | 00:03:00–00:03:15 | Look under the pot
 
@@ -213,6 +225,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **ELLA:** There is a hole in the bottom.  
 **MAYA:** Extra water needs a way out.  
 **DAN:** A pot with an exit. Sensible architecture.  
+**ELLA:** So the saucer belongs under it before we add anything.  
 
 ## SHOT_014 | 00:03:15–00:03:30 | The water has a starting line
 
@@ -228,6 +241,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **LEO:** Five hundred milliliters in the can.  
 **DAN:** That sounds satisfyingly official.  
 **NINA:** It is a record, not an instruction to use it all.  
+**DAN:** Good. I was picturing one very thirsty pot.  
 
 ## SHOT_015 | 00:03:30–00:03:45 | Seedlings are already plants
 
@@ -243,6 +257,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **MAX:** Those two already have leaves.  
 **MAYA:** They are young plants. The radishes start as seeds.  
 **NINA:** Different beginnings, the same careful attention.  
+**MAX:** I can see the difference even before the labels go in.  
 
 ## SHOT_016 | 00:03:45–00:04:00 | A workbench, not a playground
 
@@ -258,6 +273,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **DAN:** Tools here. Clear path there.  
 **ELLA:** And nobody swings the shovel.  
 **LEO:** Especially our ambitious gardener.  
+**DAN:** Understood. Even ambitious gardeners carry their tools down low.  
 
 ## SHOT_017 | 00:04:00–00:04:15 | Saucers under empty pots
 
@@ -273,6 +289,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **ELLA:** Left for mint, middle for basil, right for radishes.  
 **NINA:** Each pot gets its own saucer.  
 **MAYA:** Now the bench has a clear plan.  
+**ELLA:** Good. I can find the middle without turning anything around.  
 
 ## SHOT_018 | 00:04:15–00:04:30 | The pretend coin gets a job
 
@@ -288,6 +305,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **MAX:** Can my coin help?  
 **LEO:** It can remind us which mint we mean.  
 **DAN:** A very profitable piece of paper.  
+**MAX:** This coin gets to stay dry in the notebook, right?  
 
 ## SHOT_019 | 00:04:30–00:04:45 | Six gardeners, one safe plan
 
@@ -303,6 +321,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **NINA:** Gloves on, hands away from mouths.  
 **MAYA:** We will wash properly when we finish.  
 **DAN:** The plants are not the only things getting good care.  
+**LEO:** Good. We can keep the dirt on the bench where it belongs.  
 
 ## SHOT_020 | 00:04:45–00:05:00 | Open gently
 
@@ -318,6 +337,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **LEO:** It is already a little damp.  
 **NINA:** Yes. We will check before adding water.  
 **MAYA:** Slowly keeps the soil where it belongs.  
+**NINA:** Let's keep a little space at the rim as we go.  
 
 ## SHOT_021 | 00:05:00–00:05:15 | Room for roots
 
@@ -333,6 +353,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **ELLA:** Leave room at the top?  
 **MAYA:** Yes. Room for water without spilling soil.  
 **DAN:** Even a pot appreciates a little breathing space.  
+**ELLA:** So the soil stays inside when the water arrives.  
 
 ## SHOT_022 | 00:05:15–00:05:30 | Check before the pour
 
@@ -348,6 +369,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **DAN:** One generous drink for everyone?  
 **NINA:** Check first. Damp soil does not need a flood.  
 **MAX:** Let us not give the roots a swimming pool.  
+**DAN:** All right. I'll put the big splash on hold.  
 
 ## SHOT_023 | 00:05:30–00:05:45 | Look, do not taste
 
@@ -363,6 +385,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **MAX:** It looks much greener than money.  
 **MAYA:** Today we are planting, not tasting.  
 **ELLA:** Its leaves are the better clue anyway.  
+**MAX:** I'll use my eyes, then. Those leaves have a pretty shape.  
 
 ## SHOT_024 | 00:05:45–00:06:00 | Find the mint label
 
@@ -378,6 +401,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **LEO:** The tag says mint. Left pot.  
 **DAN:** I checked the label before guessing.  
 **MAYA:** A strong start for our ambitious gardener.  
+**DAN:** And a better start than planting a coin in that pot.  
 
 ## SHOT_025 | 00:06:00–00:06:15 | A small root ball
 
@@ -393,6 +417,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **ELLA:** You are holding the roots, not tugging the leaves.  
 **MAYA:** Exactly. Gentle hands underneath.  
 **DAN:** No plant gets pulled by its hairstyle.  
+**ELLA:** The little leaves hardly moved when the roots came out.  
 
 ## SHOT_026 | 00:06:15–00:06:30 | Mint finds its home
 
@@ -408,6 +433,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **MAX:** It has moved house.  
 **NINA:** Without changing its name.  
 **MAYA:** Now we support the roots with soil.  
+**MAX:** Good. It can get comfortable before we give it a drink.  
 
 ## SHOT_027 | 00:06:30–00:06:45 | Firm, not squashed
 
@@ -423,6 +449,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **ELLA:** Like tucking in a blanket?  
 **MAYA:** Gently. The roots still need air.  
 **LEO:** Comfortable, not squashed.  
+**ELLA:** I can leave a little space around the stem.  
 
 ## SHOT_028 | 00:06:45–00:07:00 | An empty nursery container
 
@@ -438,6 +465,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **DAN:** One empty nursery pot, ready to use another day.  
 **MAX:** So the plant has not left a twin behind.  
 **NINA:** Only its old address.  
+**MAX:** A house with nobody in it is much easier to stack.  
 
 ## SHOT_029 | 00:07:00–00:07:15 | A different leaf
 
@@ -453,6 +481,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **ELLA:** The leaves look different.  
 **NINA:** This is basil. Its tag agrees.  
 **LEO:** Middle pot, just as we planned.  
+**ELLA:** Two plants and two different shapes. I see it now.  
 
 ## SHOT_030 | 00:07:15–00:07:30 | Support the basil
 
@@ -468,6 +497,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **MAX:** Another moving day.  
 **NINA:** And the same gentle lift.  
 **DAN:** Our garden has excellent movers.  
+**MAX:** Good. That stem still looks the same after the move.  
 
 ## SHOT_031 | 00:07:30–00:07:45 | Basil in the middle
 
@@ -483,6 +513,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **NINA:** Basil in the middle.  
 **MAYA:** Soil around the roots, below the rim.  
 **ELLA:** I have its label ready for later.  
+**MAYA:** Keep it with us. We'll do the names together in a bit.  
 
 ## SHOT_032 | 00:07:45–00:08:00 | Leave the leaves room
 
@@ -498,6 +529,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **LEO:** Not too tight around the stem.  
 **NINA:** That is right. Support it without squeezing.  
 **DAN:** A comfortable fit, even without shoe sizes.  
+**LEO:** I think that stem would vote for a little elbow room.  
 
 ## SHOT_033 | 00:08:00–00:08:15 | Two plants, two names
 
@@ -513,6 +545,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **MAYA:** Which plant is in the middle?  
 **MAX:** Basil. The mint is not making change on the left.  
 **ELLA:** Good. Our garden names are staying put.  
+**MAX:** So the one on the left is mint. I can remember that.  
 
 ## SHOT_034 | 00:08:15–00:08:30 | A quiet seed bed
 
@@ -528,6 +561,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **DAN:** This pot looks rather empty.  
 **MAYA:** It is ready, not forgotten.  
 **LEO:** Its residents are much smaller.  
+**DAN:** How small? I can hardly see them from this side.  
 
 ## SHOT_035 | 00:08:30–00:08:45 | Only three for this pot
 
@@ -543,6 +577,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **ELLA:** Three seeds for this pot.  
 **MAYA:** The rest stay dry in their packet.  
 **LEO:** A tiny beginning does not need a crowded home.  
+**ELLA:** Good. I'll watch all three spaces on top before we cover them.  
 
 ## SHOT_036 | 00:08:45–00:09:00 | Room below and beside
 
@@ -558,6 +593,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **LEO:** Space between them, and not too deep.  
 **NINA:** This packet tells us what these seeds need.  
 **DAN:** No basement apartments, then.  
+**LEO:** I'll use what the packet says for these particular seeds.  
 
 ## SHOT_037 | 00:09:00–00:09:15 | The first seed
 
@@ -573,6 +609,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **LEO:** One in the back.  
 **MAX:** Two still waiting.  
 **MAYA:** They will all have their own space.  
+**MAX:** Can I keep count while the other two are waiting?  
 
 ## SHOT_038 | 00:09:15–00:09:30 | The second seed
 
@@ -588,6 +625,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **ELLA:** One for this space.  
 **DAN:** A very orderly neighborhood.  
 **NINA:** And one neighbor still to come.  
+**ELLA:** Good. The last little neighbor has a spot of its own.  
 
 ## SHOT_039 | 00:09:30–00:09:45 | The third seed
 
@@ -603,6 +641,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **MAX:** The last neighbor has arrived.  
 **LEO:** And the dish is empty.  
 **MAYA:** Now we can cover all three gently.  
+**LEO:** Three in their places. Now we can leave them in peace.  
 
 ## SHOT_040 | 00:09:45–00:10:00 | Covered, not instantly grown
 
@@ -618,6 +657,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **MAX:** Where are the radishes?  
 **NINA:** Below the soil. They need time.  
 **ELLA:** Then our first picture can be a quiet pot.  
+**MAX:** Okay. We can look without asking them to hurry up.  
 
 ## SHOT_041 | 00:10:00–00:10:15 | Write before you stick
 
@@ -633,6 +673,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **DAN:** Label first, guess later. Ben had a point.  
 **ELLA:** Three names, three stakes.  
 **LEO:** Let the handwriting agree with the plants.  
+**DAN:** I'll read the names with you before they go in.  
 
 ## SHOT_042 | 00:10:15–00:10:30 | Mint has a nameplate
 
@@ -648,6 +689,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **MAX:** Mint. The leafy kind.  
 **MAYA:** That label will help us remember.  
 **DAN:** My wallet can stop expecting a harvest.  
+**MAX:** Good. It would be a long wait for pocket money.  
 
 ## SHOT_043 | 00:10:30–00:10:45 | Basil belongs here
 
@@ -663,6 +705,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **ELLA:** Basil in the middle.  
 **NINA:** Name and place match.  
 **LEO:** And the original tag agrees with both.  
+**ELLA:** Good. I'd like to recognize the leaves as well as the name.  
 
 ## SHOT_044 | 00:10:45–00:11:00 | A name for an invisible beginning
 
@@ -678,6 +721,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **MAX:** The name is taller than the plant.  
 **LEO:** For today.  
 **MAYA:** It will remind us what is growing underneath.  
+**MAX:** Then I won't think the bare soil means we forgot one.  
 
 ## SHOT_045 | 00:11:00–00:11:15 | Day one means day one
 
@@ -693,6 +737,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **LEO:** Day one: planted. No radish shoots yet.  
 **DAN:** An honest report from a quiet pot.  
 **NINA:** That is how a useful journal begins.  
+**DAN:** I'll leave a little room for whatever happens next.  
 
 ## SHOT_046 | 00:11:15–00:11:30 | The generous gardener pauses
 
@@ -708,6 +753,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **DAN:** Perhaps the mint wants the whole can.  
 **MAYA:** Let us ask the soil before making that offer.  
 **MAX:** It has already declined the swimming pool.  
+**DAN:** Good thing we checked. My first offer was rather large.  
 
 ## SHOT_047 | 00:11:30–00:11:45 | A smaller way to check
 
@@ -723,6 +769,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **NINA:** Start with one small measured amount, then observe.  
 **DAN:** One hundred, not everything.  
 **ELLA:** Now the can has four hundred left.  
+**DAN:** I'll watch the soil while the rest stays in the can.  
 
 ## SHOT_048 | 00:11:45–00:12:00 | A measured drink for mint
 
@@ -738,6 +785,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **DAN:** A small drink, around the roots.  
 **MAX:** No swimming lessons.  
 **NINA:** Now we watch what the water does.  
+**MAX:** I can wait. The water doesn't need my help to sink in.  
 
 ## SHOT_049 | 00:12:00–00:12:15 | Wait for the water
 
@@ -753,6 +801,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **ELLA:** A little came through the bottom.  
 **MAYA:** The soil has settled. That is enough for now.  
 **DAN:** Stopping is part of watering too.  
+**MAYA:** Yes. Let's leave that plant in peace and check the next.  
 
 ## SHOT_050 | 00:12:15–00:12:30 | Measure the next drink
 
@@ -768,6 +817,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **LEO:** Three hundred in the can, one hundred in the cup.  
 **DAN:** Our water is getting a very careful accountant.  
 **NINA:** And the basil gets a careful drink.  
+**DAN:** Good. The cup's easier to control than the whole can.  
 
 ## SHOT_051 | 00:12:30–00:12:45 | Basil’s turn
 
@@ -783,6 +833,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **ELLA:** Same small measure, different plant.  
 **NINA:** We still check its own soil.  
 **MAYA:** The amount is our record, not a rule for every day.  
+**ELLA:** So we write what happened today and check tomorrow for ourselves.  
 
 ## SHOT_052 | 00:12:45–00:13:00 | The second saucer tells a story
 
@@ -798,6 +849,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **MAX:** Do all pots want the same drink forever?  
 **MAYA:** No. Weather, roots, soil and pot size change that.  
 **LEO:** We will check again another day.  
+**MAX:** Okay. The pots can have different answers next time.  
 
 ## SHOT_053 | 00:13:00–00:13:15 | Water for the hidden seeds
 
@@ -813,6 +865,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **DAN:** One hundred for the seed pot, gently.  
 **MAYA:** A slow pour will keep the soil in place.  
 **MAX:** The tiny neighbors dislike waterfalls.  
+**DAN:** Point taken. I'll keep the pour gentle and close.  
 
 ## SHOT_054 | 00:13:15–00:13:30 | A gentle final pour
 
@@ -828,6 +881,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **MAX:** Nothing green yet.  
 **MAYA:** That is normal. We planted seeds, not a shortcut.  
 **ELLA:** Our journal can wait for real changes.  
+**MAX:** Good. I want to see the very first bit of green myself.  
 
 ## SHOT_055 | 00:13:30–00:13:45 | Enough for this morning
 
@@ -843,6 +897,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **DAN:** Two hundred left. I do not have to spend it.  
 **NINA:** Exactly. Use what the plants need.  
 **LEO:** Three small drinks, not one grand flood.  
+**DAN:** Good. Leaving water in the can feels like helping now.  
 
 ## SHOT_056 | 00:13:45–00:14:00 | The numbers stay with the work
 
@@ -858,6 +913,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **LEO:** Three hundred used. Two hundred left.  
 **ELLA:** Together, five hundred.  
 **NINA:** And tomorrow we check the soil before choosing any amount.  
+**ELLA:** I'll write the amount we used, so we remember today.  
 
 ## SHOT_057 | 00:14:00–00:14:15 | Drainage is not a bath
 
@@ -873,6 +929,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **MAX:** No pools under the houses.  
 **MAYA:** Roots need drainage, not a permanent bath.  
 **DAN:** The swimming club is officially closed.  
+**MAX:** Good. These little houses won't need lifeboats after all.  
 
 ## SHOT_058 | 00:14:15–00:14:30 | Sunlight has a place
 
@@ -888,6 +945,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **ELLA:** The tree makes shade over there.  
 **NINA:** These tags ask for good light.  
 **MAYA:** This sunny strip gives us room to check the pots safely.  
+**ELLA:** We can see all the labels from the path there.  
 
 ## SHOT_059 | 00:14:30–00:14:45 | One pot at a time
 
@@ -903,6 +961,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **DAN:** Left pot, left place.  
 **LEO:** The label faces the path.  
 **MAYA:** And the walking space stays clear.  
+**DAN:** Good. We'll be able to read it without stepping off the path.  
 
 ## SHOT_060 | 00:14:45–00:15:00 | The middle neighbor
 
@@ -918,6 +977,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **ELLA:** Basil in the middle again.  
 **MAX:** It has kept its address.  
 **NINA:** And both of you have kept the path clear.  
+**ELLA:** Good. We'll still know which one is basil from over here.  
 
 ## SHOT_061 | 00:15:00–00:15:15 | A place for quiet beginnings
 
@@ -933,6 +993,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **LEO:** Radishes on the right.  
 **DAN:** A quiet home, with a clear name.  
 **MAYA:** Now we can watch without digging up the answer.  
+**DAN:** I can wait. The label's got today's answer on it.  
 
 ## SHOT_062 | 00:15:15–00:15:30 | A picture that tells the truth
 
@@ -948,6 +1009,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **ELLA:** Two leafy plants and one pot of waiting.  
 **LEO:** The seed positions go in the diagram.  
 **NINA:** A record can show what we know and what we can see.  
+**ELLA:** Then let's draw the soil just the way it looks.  
 
 ## SHOT_063 | 00:15:30–00:15:45 | The bench has finished its part
 
@@ -963,6 +1025,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **MAX:** Can the seeds stay out of the rain?  
 **MAYA:** The spare packet goes on the dry shelf.  
 **DAN:** Our tools get a home as well.  
+**MAX:** Good. We won't mix up the paper seeds and the planted ones.  
 
 ## SHOT_064 | 00:15:45–00:16:00 | The unused water is still water
 
@@ -978,6 +1041,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **LEO:** Two hundred saved, not secretly added.  
 **DAN:** My grand gesture can wait.  
 **NINA:** Today your careful stopping was the useful part.  
+**DAN:** Good. Tomorrow the soil can tell us what to do next.  
 
 ## SHOT_065 | 00:16:00–00:16:15 | Gloves off the right way
 
@@ -993,6 +1057,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **ELLA:** Gloves stay out here.  
 **MAYA:** Yes. We still wash our hands.  
 **NINA:** No soil goes on the door handle if we can help it.  
+**ELLA:** I'll leave my gloves here and go with you to wash.  
 
 ## SHOT_066 | 00:16:15–00:16:30 | Clean hands before anything else
 
@@ -1008,6 +1073,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **DAN:** Before a snack, a proper wash.  
 **MAX:** Even the gardener’s accountant?  
 **NINA:** Especially anyone with soil on their hands.  
+**LEO:** Especially me. I handled the pots as well as the numbers.  
 
 ## SHOT_067 | 00:16:30–00:16:45 | A dry record comes indoors
 
@@ -1023,6 +1089,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **LEO:** Day one is complete.  
 **ELLA:** And the paper coin is still above ground.  
 **MAYA:** Exactly where a pretend coin belongs.  
+**ELLA:** Good. My pencil doesn't have to grow a radish today.  
 
 ## SHOT_068 | 00:16:45–00:17:00 | The part that takes longer
 
@@ -1038,6 +1105,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **MAX:** Will the radishes be ready after lunch?  
 **NINA:** No. We will watch over the coming days.  
 **DAN:** Then patience belongs on the supply list.  
+**MAX:** Can we still look if there's nothing new to see?  
 
 ## SHOT_069 | 00:17:00–00:17:15 | A promise without a timer
 
@@ -1053,6 +1121,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **ELLA:** I will leave room for what changes.  
 **LEO:** We cannot write the answer yet.  
 **MAYA:** That is a good reason to come back and look.  
+**ELLA:** I'll leave a blank spot for the first green bit.  
 
 ## SHOT_070 | 00:17:15–00:17:30 | What the coin can grow
 
@@ -1068,6 +1137,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **DAN:** Your paper coin grew into a very good joke.  
 **MAX:** And a reminder.  
 **MAYA:** Both are worth keeping.  
+**DAN:** And the only thing we had to spend was a little time.  
 
 ## SHOT_071 | 00:17:30–00:17:45 | Back to look, not to interfere
 
@@ -1083,6 +1153,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **NINA:** A last look from the path.  
 **DAN:** No extra drink, no extra seed.  
 **LEO:** Just the garden we actually planted.  
+**MAX:** I'll wave from here. The seeds don't need digging up.  
 
 ## SHOT_072 | 00:17:45–00:18:00 | Room to care
 
@@ -1098,6 +1169,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **DAN:** I nearly wanted a forest.  
 **MAYA:** Three pots give us room to notice things.  
 **NINA:** And time to care for them together.  
+**DAN:** And I already know all three of these neighbors by name.  
 
 ## SHOT_073 | 00:18:00–00:18:15 | The quiet pot has company
 
@@ -1113,6 +1185,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **MAX:** We will visit again, tiny neighbors.  
 **ELLA:** Quiet neighbors are easy to hear.  
 **LEO:** Especially when Dad is not giving a gardening speech.  
+**ELLA:** They can have a quiet afternoon. We did enough today.  
 
 ## SHOT_074 | 00:18:15–00:18:30 | One question helped more
 
@@ -1128,6 +1201,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **DAN:** I wanted to be helpful. Checking helped more than pouring.  
 **NINA:** You listened and changed the plan.  
 **MAX:** The roots probably appreciate that.  
+**DAN:** Good. It's the first time I've felt proud of leftover water.  
 
 ## SHOT_075 | 00:18:30–00:18:45 | Everyone left a useful mark
 
@@ -1143,6 +1217,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **MAYA:** Labels, a drawing, a water record. Everyone helped.  
 **ELLA:** Even a quiet pot has a story now.  
 **LEO:** A very short first chapter.  
+**MAYA:** Day one is enough. The rest hasn't happened yet.  
 
 ## SHOT_076 | 00:18:45–00:19:00 | What grows next is a surprise
 
@@ -1158,6 +1233,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **DAN:** We can tell everyone about our garden at the gathering.  
 **MAYA:** A true story. No money harvest.  
 **NINA:** And no promise that the radishes will hurry.  
+**DAN:** I'll tell them who helped instead of promising a harvest.  
 
 ## SHOT_077 | 00:19:00–00:19:15 | A very small ambition
 
@@ -1173,6 +1249,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **MAX:** Our garden is not bigger than the house.  
 **DAN:** A wise limit.  
 **ELLA:** It still has enough names to keep you busy.  
+**MAX:** Good. The only thing that got taller was Dad's plan.  
 
 ## SHOT_078 | 00:19:15–00:19:30 | One last honest entry
 
@@ -1188,6 +1265,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **LEO:** Herbs upright. Radish soil bare. Saucers empty.  
 **DAN:** A surprisingly satisfying report.  
 **NINA:** Because it says what really happened.  
+**LEO:** Good. I'll leave the page about tomorrow blank for now.  
 
 ## SHOT_079 | 00:19:30–00:19:45 | A garden does not need applause
 
@@ -1203,6 +1281,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **DAN:** Three pots, six helpers, one better plan.  
 **MAYA:** And a morning well spent.  
 **MAX:** The mint is still not making change.  
+**ELLA:** But the leaves smell better than the inside of a wallet.  
 
 ## SHOT_080 | 00:19:45–00:20:00 | The next visit can wait
 
@@ -1218,3 +1297,4 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **NINA:** We will come back and see what changes.  
 **DAN:** Together.  
 **MAX:** I can wait. Mostly.  
+**MAYA:** We'll see it together when it happens. That part's worth waiting for.  
