@@ -4,7 +4,7 @@
 
 The 800 clips have 3,228 dialogue turns across ten 20-minute episodes. Each clip has four or five turns. The provisional speaker windows start at 0.25 seconds and allow the final action or reaction to carry into the cut. Each episode’s screenplay, video prompts and subtitles use the same dialogue. The [episode index](README.md#episodes) links directly to the prompts and each episode’s shot findings.
 
-The [image repair log](docs/STORYBOARD_REPAIR_LOG.md) identifies the selected replacement sheets. Current QA records list 232 major visual discrepancies and 568 shots awaiting human review. [Individual findings](docs/qa/) name the correction and the image hash for each panel. Use the [November 19 audit](docs/AUDIT_EP01_EP10.md) for the earlier review.
+The [image repair log](docs/STORYBOARD_REPAIR_LOG.md) identifies the selected replacement sheets. Current QA records list 228 major visual discrepancies and 572 shots awaiting human review. [Individual findings](docs/qa/) name the correction and the image hash for each panel. Use the [November 19 audit](docs/AUDIT_EP01_EP10.md) for the earlier review.
 
 ## Audit branch validation — 2026-11-19
 
