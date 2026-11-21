@@ -1,0 +1,2 @@
+Temporary verification file created to confirm direct write access to the main branch.
+It will be deleted immediately after verification.
