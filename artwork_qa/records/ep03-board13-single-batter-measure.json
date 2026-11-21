@@ -1,0 +1,66 @@
+{
+  "episode": 3,
+  "board": 13,
+  "path": "Episode_03/assets/storyboards/BOARD_13.png",
+  "parent_commit": "4bcd842ed06e10f73969bddcde98114d6f79de0b",
+  "parent_sha256": "8c22acc4b4b4f457df269e33d18f654d1123812680d4e05c48413f886476e7d4",
+  "selected_sha256": "1d95b9642b5e5ddcc8377a5f768c8f3293bbcdcc6750c22dc6b90bd4a3b564bb",
+  "parent_size": [
+    1672,
+    941
+  ],
+  "selected_size": [
+    1672,
+    941
+  ],
+  "generated_source": "Episode_03/assets/storyboards/BOARD_13.png",
+  "method": "Selected panels from a referenced ImageGen edit were assembled into the previous sheet. The other panel rectangles match the parent pixels exactly.",
+  "request": "Edit the first input image, the selected storyboard. Preserve the existing four landscape panel positions in a 2×2 grid, exact original numbered SHOT_ badges, original palette/compositions and actor likeness. The second input is original family visual reference. Dan blue / left watch, Maya plum with ponytail, Nina teal auburn waves, Leo orange, braided Ella in denim overalls, small Max green. A third reference supplies setting or continuity. In every panel actors and props must follow its specified shot precisely. Keep good panels intact. Apply the following specific changes in the artwork. Surgical correction in upper LEFT SHOT_049 only. Keep both adults, Nina teal and Dan blue, standing at the wall-mounted stove beneath its vent hood as in source. Dan holds the single raw batter measure above the skillet to make two small pancakes, one round and one slightly crooked. Keep his working hand and its measure. Show clear empty counter above the BLUE bowl and an EMPTY preparation rest. Remove the extra metal measure or scoop that duplicates the one in his hand. No spare measure in or above blue batter bowl. Keep the three other panels and all badges exactly.\nSHOT_049 shows only DAN, NINA in STOVE_STATION. Dan pours two small portions into the skillet with Nina beside him. His first pour makes one slightly crooked outline; the second is rounder. He sets the raw measure back on its preparation rest above BLUE. End: Exactly 2 pancakes cooking on first sides; first crooked, second rounder; batter reduced by two portions. Existing artwork error: Dan pours two portions at the wall range. A second steel measure is visible on the rest while he still holds the first. Fix: Remove the spare measure on the rest during the pour; the same measure should return there afterward.\nSHOT_050 shows only NINA, DAN in STOVE_STATION. A clear cooking-time dissolve allows the first sides to set. Nina points out bubbles and firmer edges; Dan keeps the spatula beside the pan until she signals it is time to turn. End: Both first sides ready to turn after sufficient cooking time; still no finished pancake on tray. Preserve this shot as it stands.\nSHOT_051 shows only NINA, DAN in STOVE_STATION. Nina slides the dark slate spatula under the crooked pancake and turns it close to the pan. Dan turns the rounder pancake with her guidance, keeping his movement equally low and controlled. End: Both pancakes now cooking on second sides; the crooked first pancake stays intact and in the pan. Preserve this shot as it stands.\nSHOT_052 shows only NINA, DAN in STOVE_STATION. A second-side cooking ellipsis completes the first pair. Nina transfers both to the clean cooked tray, then uses a clean knife to open the first crooked pancake and check its firm cooked center. She keeps its two halves together beside the other whole pancake. End: Cooked count 2: first crooked pancake in 2 halves, plus 1 whole pancake; no raw center; skillet empty. Preserve this shot as it stands.",
+  "qa_updates": {
+    "SHOT_049": {
+      "observed": "At the wall range, Dan pours two portions with one metal measure while Nina watches. The white preparation rest beside the blue bowl is empty.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_050": {
+      "observed": "Nina signals beside the skillet on the wall range. Both portions remain in the pan.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_051": {
+      "observed": "Nina turns the slightly irregular pancake low in the skillet under the hood while Dan watches.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_052": {
+      "observed": "The empty skillet is on the wall range. Nina checks the divided pancake beside the whole one on a separate clean tray.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    }
+  },
+  "generated_source_sha256": "34fd68ae4fb2228b35b5dbc242ccecc8025d208ff8b65982b023f8525f1f82ed",
+  "generated_source_size": [
+    1672,
+    941
+  ],
+  "selected_panels": [
+    1
+  ],
+  "preserved_panels": [
+    2,
+    3,
+    4
+  ],
+  "selected_rectangles_xyxy": [
+    [
+      0,
+      0,
+      836,
+      470
+    ]
+  ]
+}
