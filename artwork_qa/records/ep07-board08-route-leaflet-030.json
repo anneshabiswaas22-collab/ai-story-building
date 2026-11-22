@@ -1,0 +1,104 @@
+{
+  "episode": 7,
+  "board": 8,
+  "path": "Episode_07/assets/storyboards/BOARD_08.png",
+  "parent_commit": "c13351bd98b18c5404fae477efac60dfffbabf02",
+  "parent_sha256": "744cd7ececabef198233931d59fc8721543404dc035b0701d8ea19226dccee90",
+  "selected_sha256": "9579e86845543f358abcd8911efb3d61672a0c6624bb0ce6c60d85adaf43f524",
+  "parent_size": [
+    1672,
+    941
+  ],
+  "selected_size": [
+    1672,
+    941
+  ],
+  "generated_source": "Episode_07/assets/storyboards/BOARD_08.png",
+  "method": "Selected panels from a referenced ImageGen edit were assembled into the previous sheet. The other panel rectangles match the parent pixels exactly.",
+  "request": "Repair the real selected four-panel storyboard in reference one. The second reference is the original classic 3D family cast, the remaining images are the actual locations, continuity and prior visual material. Keep exact shot number badges, relative heights, original skin tone, hair, clothes and premium feature-animation style. Never move a face or swap costumes between speakers. Dan sky-blue polo, dark MUSTACHE and left-wrist watch; adult Maya plum with ponytail; adult Nina teal with wavy auburn bob; older boy Leo orange; braided Ella in coral and full denim overalls; youngest small Max green. Use exactly the four numbered frames in a 2x2 landscape grid at source aspect, with panel shots in order, and preserve successful frames. Keep 029 and 032 as in the original for later exact selection. At 030 Dan is the adult with the mustache, black phone visibly in his anatomical RIGHT hand on speaker at chest height, his LEFT hand free, looking at a single paper leaflet that orange-shirt boy Leo physically holds open, and Leo indicates the northbound library entry with his other index finger. Do not create a second printed map in the foreground. Wall route board can stay. 031 is a close conversation framing Max, Nina and Dan; ONLY Dan holds the black phone, on his right. The schoolbag is zipped and carried by Leo who is off-camera. Frame their laps as plain clothing, completely clear of any yellow-trim bag, books or backpack straps. Warm red shelter and existing stop signage unchanged. Ed is a voice only.\nSHOT_029 visible cast NINA, DAN; location WRONG_STOP. Beat: Nina tells her father the exact landmark and direction panel while Dan listens. Ed’s first line is heard only through the phone. End: Ed knows bakery-side stop and desired library destination.. Previous finding: Nina speaks toward phone in Dan's hand by red shelter.; correction: Creator to verify likeness, hands and final staging before first-frame approval..\nSHOT_030 visible cast DAN, NINA, LEO; location WRONG_STOP. Beat: Leo points to the library north on the map while Ed asks them to compare their heading. Dan reads his leaflet carefully rather than receiving a complete rescue instruction. End: Dan independently reads NORTHBOUND — LIBRARY from leaflet.. Previous finding: Dan uses both hands for leaflet; speakerphone disappears from active call.; correction: Keep speakerphone in Dan's right hand, Leo holding leaflet..\nSHOT_031 visible cast NINA, MAX, DAN; location WRONG_STOP. Beat: Max asks whether they need a different route number. Ed reassures him that a route runs in two directions, then leaves the family to verify the actual bus sign. End: Max understands both stops can belong to same route; phone not passed to child.. Previous finding: Open bag on Dan's lap reveals books while phone remains in Dan's hand.; correction: Keep bag with Leo outside crop and closed..\nSHOT_032 visible cast DAN, NINA, MAYA; location WRONG_STOP. Beat: Dan thanks Ed for checking their question. Ed ends warmly; Dan ends the call and pockets the phone on RIGHT while Maya points toward the safe crossing ahead. End: Call ended, phone right-pocketed; family ready to walk to crossing.. Previous finding: Dan pockets phone on right; Maya points at crossing, Nina holds folder.; correction: Creator to verify likeness, hands and final staging before first-frame approval..",
+  "qa_updates": {
+    "SHOT_029": {
+      "observed": "Nina speaks toward phone in Dan's hand by red shelter.",
+      "severity": "none observed",
+      "correction": "Creator to verify likeness, hands and final staging before first-frame approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_030": {
+      "observed": "Dan holds the phone in his right hand while Leo holds the Route 7 leaflet and points to the northbound library. Nina holds the blue folder.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_031": {
+      "observed": "Max speaks to Dan on the bench as Nina holds her folder. The phone stays in Dan's hand and the books and backpack are outside the frame.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_032": {
+      "observed": "Dan pockets phone on right; Maya points at crossing, Nina holds folder.",
+      "severity": "none observed",
+      "correction": "Creator to verify likeness, hands and final staging before first-frame approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    }
+  },
+  "generated_source_sha256": "5902a5b2716a68ffa50f8c158b5180eb2f17b6e5eebc28da7356df03edc66775",
+  "generated_source_size": [
+    1672,
+    941
+  ],
+  "selected_panels": [
+    2,
+    3
+  ],
+  "preserved_panels": [
+    1,
+    4
+  ],
+  "selected_rectangles_xyxy": [
+    [
+      836,
+      0,
+      1672,
+      470
+    ],
+    [
+      0,
+      470,
+      836,
+      941
+    ]
+  ],
+  "image_inputs": {
+    "selected_sheet": {
+      "path": "Episode_07/assets/storyboards/BOARD_08.png",
+      "sha256": "744cd7ececabef198233931d59fc8721543404dc035b0701d8ea19226dccee90"
+    },
+    "cast_contact_sheet": {
+      "sha256": "ee132e6bb6535a21dc45a3bed61516cfd1e2c5ff9eeb35c596d1324c1079193f",
+      "original_previews": "Episode_07/assets/characters"
+    },
+    "additional_reference": {
+      "sha256": "21d21be1b9b0a55e60c7a9e2b330517cd34d5667ac2d351a1ef64c413b59b87f",
+      "sources": [
+        "Episode_07/assets/environments/WRONG_STOP.png",
+        "Episode_07/assets/overlays/ROUTE_MAP.svg",
+        "Episode_07/assets/storyboards/BOARD_07.png",
+        "Episode_07/assets/storyboards/BOARD_09.png"
+      ]
+    }
+  },
+  "detail_edit": {
+    "localized_pickup": {
+      "crop": "836x470+836+0",
+      "prompt": "ONE wide SHOT_030 at red bakery-side bus shelter. Re-stage the three characters from left to right as DAN, LEO, NINA so there is no ambiguity over who owns which hand. In left third Dan (blue polo, black mustache, watch on left) holds the one black smartphone at his chest in his anatomical RIGHT hand and leans to read the brochure. In center Leo, the 12-year-old orange-shirt boy, holds an OPEN paper leaflet in his LEFT hand at his own orange chest, then points with his right index finger to the northbound library on its little map. The leaflet must make anatomical contact with the hand visibly emerging from Leo's orange sleeve. Heading reads 'Route 7' and 'NORTHBOUND — LIBRARY'. In right third adult Nina, teal, auburn wavy bob, is further back, showing both hands closed around her OWN blue folder at her belly; she cannot be holding the leaflet or phone. The wall shelter map can be out of focus. Same faces, real environment and exact SHOT_030 badge. No other person or hand.",
+      "sha256": "071308006adfd7059597ecee0ddd739c94b24e0ff7687cb18aad27e8522774b7"
+    },
+    "generation_reference_hashes": [
+      {
+        "purpose": "Scene and continuity reference",
+        "sha256": "21d21be1b9b0a55e60c7a9e2b330517cd34d5667ac2d351a1ef64c413b59b87f"
+      }
+    ]
+  }
+}
