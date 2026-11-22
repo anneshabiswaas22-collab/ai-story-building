@@ -28,7 +28,7 @@ Shots058 and076/079–080 use wide geography for selecting light and warm ending
 
 Most work013–057 and063 happens here. First separate three empty pots, add three saucers, fill with slightly damp mix, transplant mint then basil, sow exactly three seeds, label, make three100mL pours and drain saucers. Soil stock, empty nursery containers, planted garden pots and seed stock are separate inventories. Any occluded object retains its last scripted state. No simultaneous duplicate plant in a nursery pot and terracotta pot.
 
-Review targets: adults handle heavy terracotta, soil bag and controlled pouring; all six gloves from019 until065. No dust clouds, plant/seed/soil tasting, kitchen cups or tools on mouths. Hold fixed bench geometry across close views; no extra bench moved against the house. The notebook/paper drawing stay dry; no seedling emerges from the radish bed. Exact text and arithmetic use editable [SVG overlays](assets/overlays/).
+Review targets: adults handle heavy terracotta, soil bag and controlled pouring; Nina sets out six pairs of gloves in shot 006. Each gardener puts on one pair in 019 and removes it outdoors in 065. No dust clouds, plant/seed/soil tasting, kitchen cups or tools on mouths. Hold fixed bench geometry across close views; no extra bench moved against the house. The notebook/paper drawing stay dry; no seedling emerges from the radish bed. Exact text and arithmetic use editable [SVG overlays](assets/overlays/).
 
 ## 4. GARDEN_POTS — fixed final row
 
