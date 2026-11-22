@@ -2,13 +2,17 @@
 
 ## Creator review — 2026-11-22
 
-The creator confirmed review and acceptance of all 619 shots listed as `NEEDS_HUMAN_REVIEW` in the [ten shot ledgers at the reviewed revision](https://github.com/pujahalder34675-creator/ai-story-building/tree/80644c168bdc14105e38708a4fd9c1068bacc387/docs/qa). This approval covers the storyboard pixels identified by those ledger hashes. The other 181 shots across 103 sheets still have open visual defects. Replacement pixels require their own review.
+The creator confirmed review and acceptance of all 619 shots listed as `NEEDS_HUMAN_REVIEW` in the [ten shot ledgers at the reviewed revision](https://github.com/pujahalder34675-creator/ai-story-building/tree/80644c168bdc14105e38708a4fd9c1068bacc387/docs/qa). This approval covers the storyboard pixels identified by those ledger hashes. At that reviewed revision, the other 181 shots across 103 sheets had open visual defects. Replacement pixels require their own review.
+
+## Branch repair checkpoint — 2026-11-22
+
+The live queue now has **179 FAIL shots across 103 sheets**. Episode 06 BOARD_05 shots **017 and 020** have repaired pixels awaiting new creator approval. Shots 018 and 019 retain their parent pixels and remain FAIL. The original 619 approved shots are unchanged. All 621 historical/current NEEDS_HUMAN_REVIEW ledger rows must be interpreted with this approval scope; they are not 621 unapproved images. See the [recovery record](artwork_qa/records/ep06-board05-aisle-framing-and-seat-order.json).
 
 ## 15-second clips and storyboard repairs — 2026-11-21
 
 The 800 clips have 3,228 dialogue turns across ten 20-minute episodes. Each clip has four or five turns. The provisional speaker windows start at 0.25 seconds and allow the final action or reaction to carry into the cut. Each episode’s screenplay, video prompts and subtitles use the same dialogue. The [episode index](README.md#episodes) links directly to the prompts and each episode’s shot findings.
 
-The [image repair log](docs/STORYBOARD_REPAIR_LOG.md) identifies the selected replacement sheets. Current QA records list 181 major visual discrepancies and 619 shots awaiting human review. [Individual findings](docs/qa/) name the correction and the image hash for each panel. Use the [November 19 audit](docs/AUDIT_EP01_EP10.md) for the earlier review.
+The [image repair log](docs/STORYBOARD_REPAIR_LOG.md) identifies the selected replacement sheets. Current QA records list 179 major visual discrepancies and 621 review-status rows; the approval scope above distinguishes 619 accepted shots from 2 new replacements. [Individual findings](docs/qa/) name the correction and the image hash for each panel. Use the [November 19 audit](docs/AUDIT_EP01_EP10.md) for the earlier review.
 
 ## Audit branch validation — 2026-11-19
 
