@@ -1,11 +1,8 @@
 #!/usr/bin/env python3
-"""Check audit evidence against current sources and images, without granting approval.
-
-A successful check means the QA records are complete and current. Their FAIL
-and NEEDS_HUMAN_REVIEW statuses remain outstanding visual production work.
-"""
+"""Check shot evidence against the screenplay, prompts, subtitles and selected images."""
 from __future__ import annotations
 
+import argparse
 from collections import Counter
 import csv
 import hashlib
@@ -15,7 +12,8 @@ import sys
 
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT))
-from tools.episode_package import normalized, shots
+from tools.episode_package import normalized, shots, validate_picture_mapping, validate_subtitles
+from tools.production_handoff import prompt_alignment
 
 COLUMNS = (
     "episode", "board", "shot", "expected", "observed", "severity",
@@ -27,13 +25,15 @@ SEVERITIES = {
 }
 
 
-def episode_issues(root: Path, episode: str, rows: list[dict], story: list[dict]) -> list[str]:
+def episode_issues(root: Path, episode: str, rows: list[dict], story: list[dict],
+                   *, source_only: bool = False) -> list[str]:
     errors = []
     expected_ids = [f"SHOT_{n:03}" for n in range(1, 81)]
     if [row.get("shot") for row in rows] != expected_ids:
         errors.append(f"{episode}: expected exactly 80 unique, ordered SHOT_001–SHOT_080 rows")
     source = {f'SHOT_{shot["id"]}': shot["fields"] for shot in story}
     hashes = {}
+    recorded = {}
     for line, row in enumerate(rows, 2):
         label = f"{episode}.tsv:{line}"
         if set(row) != set(COLUMNS) or any(not isinstance(row.get(key), str)
@@ -54,12 +54,19 @@ def episode_issues(root: Path, episode: str, rows: list[dict], story: list[dict]
         path = f"{episode}/assets/storyboards/{board}.png"
         if not re.search(re.escape(path) + rf" panel {panel}(?:;|$)", row["evidence"]):
             errors.append(f"{label}: evidence must reference {path} panel {panel}")
-        if path not in hashes:
-            image = root / path
-            hashes[path] = hashlib.sha256(image.read_bytes()).hexdigest() if image.is_file() else None
-        digest = re.findall(r"\bsha256\s*[: ]\s*([0-9a-f]+)(?=;|$)", row["evidence"], re.I)
-        if hashes[path] is None or digest != [hashes[path]]:
+        digests = re.findall(r"\bsha256\s*[: ]\s*([^;]*)", row["evidence"], re.I)
+        if len(digests) != 1 or not re.fullmatch(r"[0-9a-fA-F]{64}", digests[0].strip()):
             errors.append(f"{label}: evidence needs the full current image SHA-256")
+        else:
+            digest = digests[0].strip().lower()
+            if recorded.setdefault(path, digest) != digest:
+                errors.append(f"{label}: panel records disagree on the SHA-256 for {board}")
+            if not source_only:
+                if path not in hashes:
+                    image = root / path
+                    hashes[path] = hashlib.sha256(image.read_bytes()).hexdigest() if image.is_file() else None
+                if hashes[path] != digest:
+                    errors.append(f"{label}: evidence needs the full current image SHA-256")
         fields = source[shot_id]
         action, cast, location = (fields[key] for key in ("Action", "Visible cast", "Location"))
         expected = {action, f"{cast} — {action}", f"{cast}. {action}",
@@ -67,11 +74,11 @@ def episode_issues(root: Path, episode: str, rows: list[dict], story: list[dict]
         if normalized(row["expected"]) not in {normalized(value) for value in expected}:
             errors.append(f"{label}: expected action differs from current STORY.md")
         if row["severity"] not in SEVERITIES.get(row["status"], set()):
-            errors.append(f"{label}: unsupported status/severity; creator approval remains pending")
+            errors.append(f"{label}: unsupported status/severity pair")
     return errors
 
 
-def audit_issues(root: Path = ROOT) -> tuple[list[str], Counter]:
+def audit_issues(root: Path = ROOT, *, source_only: bool = False) -> tuple[list[str], Counter]:
     errors, statuses = [], Counter()
     for number in range(1, 11):
         episode = f"Episode_{number:02}"
@@ -83,22 +90,34 @@ def audit_issues(root: Path = ROOT) -> tuple[list[str], Counter]:
                 rows = list(reader)
             story = shots((root / episode / "STORY.md").read_text(encoding="utf-8"),
                           "###", episode)
-            errors.extend(episode_issues(root, episode, rows, story))
+            errors.extend(episode_issues(root, episode, rows, story, source_only=source_only))
             statuses.update(row.get("status", "invalid") for row in rows)
-        except (OSError, ValueError, UnicodeError, csv.Error) as error:
+            for shot in story:
+                validate_picture_mapping(shot["fields"]["Picture"], shot["id"], episode)
+            prompts = shots((root / episode / "VIDEO_PROMPTS.md").read_text(encoding="utf-8"),
+                            "##", f"{episode} prompts")
+            prompt_alignment(story, prompts, number)
+            validate_subtitles((root / episode / "SUBTITLES.srt").read_text(encoding="utf-8"), story)
+        except (OSError, KeyError, ValueError, csv.Error) as error:
             errors.append(f"{episode}: {error}")
     return errors, statuses
 
 
 def main() -> int:
-    errors, statuses = audit_issues()
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--source-only", action="store_true",
+                        help="Check text and recorded digest consistency without reading PNG bytes")
+    args = parser.parse_args()
+    errors, statuses = audit_issues(source_only=args.source_only)
     for error in errors:
         print("FAIL:", error)
     if errors:
         return 1
-    print(f"PASS: 800 QA records match current story actions, panels and full image hashes; "
-          f"visual findings: {statuses['FAIL']} FAIL, "
-          f"{statuses['NEEDS_HUMAN_REVIEW']} NEEDS_HUMAN_REVIEW. Creator approval pending.")
+    print(f"PASS: {sum(statuses.values())} QA records checked against screenplays, prompts and subtitles.")
+    print("PNG bytes and current image hashes were not checked." if args.source_only else
+          "Verified the recorded SHA-256 values against the selected PNG bytes.")
+    print(f"Ledger rows: {statuses['FAIL']} FAIL, {statuses['NEEDS_HUMAN_REVIEW']} NEEDS_HUMAN_REVIEW. "
+          "See CURRENT_PRODUCTION_STATUS.md for the creator's dated approvals.")
     return 0
 
 
