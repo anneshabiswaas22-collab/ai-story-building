@@ -1,0 +1,89 @@
+{
+  "episode": 6,
+  "board": 11,
+  "path": "Episode_06/assets/storyboards/BOARD_11.png",
+  "parent_commit": "e341ca94df077d87bc8633586a4bd6ee70d99549",
+  "parent_sha256": "1e2e52352cc57ceb4e3c7dcfc073fe0b7e370a05c3cba3b1bf53c05d42208754",
+  "selected_sha256": "b16738ef7015f41f6f468f9744add0c47fb9b9e5c244ea518df949cabeb7ac93",
+  "parent_size": [
+    1672,
+    941
+  ],
+  "selected_size": [
+    1672,
+    941
+  ],
+  "generated_source": "Episode_06/assets/storyboards/BOARD_11.png",
+  "method": "The referenced ImageGen sheet and a localized generated detail were assembled. The detail-edit record identifies their hashes and placement.",
+  "request": "Repair the real selected four-panel storyboard in reference one. The second reference is the original classic 3D family cast, the remaining images are the actual locations, continuity and prior visual material. Keep exact shot number badges, relative heights, original skin tone, hair, clothes and premium feature-animation style. Never move a face or swap costumes between speakers. Dan sky-blue polo, dark MUSTACHE and left-wrist watch; adult Maya plum with ponytail; adult Nina teal with wavy auburn bob; older boy Leo orange; braided Ella in coral and full denim overalls; youngest small Max green. Use exactly the four numbered frames in a 2x2 landscape grid at source aspect, with panel shots in order, and preserve successful frames. Use the third and fourth reference as the fixed physical stage for every angle: the six diners stay seated in the pictured 012 configuration. By 041 they each have one plain water on a coaster. Keep six occupied seats and six settings in the actual room; hide the non-featured diners with camera framing and foreground shoulders; NEVER show a row of mysteriously empty chairs/complete unmanned place settings. Assign camera per frame, not one frontal view for the four. 041 Over Leo's orange shoulder from MID AISLE looking across the table. Nina in teal at mid-window directly opposite Leo, lingers behind small Max (green) at near-window, Max clearly in right foreground and larger in perspective than Nina. Three visible faces/waters, white empty plates, nothing edible. Host stand with one closed brown menu stays distant. 042 from near-end close two opposing edges: near-left Dan holds/checks his own 80%-full water on its single cork coaster; Nina right middle, Maya plum directly behind Nina at far-window. Keep empty placeholder plates in frame and window on right. 043 REVERSE high camera at FAR, vacant short end, looking toward the near end, with restaurant WINDOWS NOW ON CAMERA LEFT. Maya plum at closest window seat on CAMERA LEFT, braided Ella in overalls at closest aisle seat on CAMERA RIGHT, facing MAYA across the table. Max in GREEN is farther back along the same window side as Maya, at the opposite distant NEAR end; Nina's cropped teal sleeve can occlude middle, no nonfeatured faces needed. Never put these three faces in a row. They clear space near their own still-empty white plates beside original waters. 044 close diagonal across from near aisle Dan/blue at left foreground, darker distant Maya already has vegetable pasta on her own far window setting; Nina in teal CLOSER to lens than Maya and facing aisle receives one ADULT chicken and rice plate FROM ANONYMOUS SERVER HANDS. Server's hands on chicken, NOT pasta. The four remaining settings have empty placeholders. Lighting and facial likeness as 012, nothing is eaten, no restaurant head chair.\nSHOT_041 visible cast LEO, MAX, NINA; location RESTAURANT_TABLE. Beat: Max notices a distant closed menu at the host stand and asks about appetizers. Nina explains they chose six mains and water; no starter is ordered merely because the word was mentioned. End: Appetizer discussion complete with no change in food count or bill.. Previous finding: Max sits farther back than Nina, with Leo opposite. No new food appears.; correction: Swap Nina and Max back to their seats..\nSHOT_042 visible cast DAN, MAYA, NINA; location RESTAURANT_TABLE. Beat: Dan decides he would like a little more water but notices his own glass is still mostly full. He postpones asking for a refill. Maya smiles at his practical observation. End: No seventh water or replacement glass; Dan keeps his own glass.. Previous finding: Dan looks down; near-left place lacks own coaster glass while multiple glasses sit to right.; correction: Give each occupied place one mostly full water on coaster..\nSHOT_043 visible cast MAYA, ELLA, MAX; location RESTAURANT_TABLE. Beat: The server signals that meals will arrive shortly. Maya helps Ella and Max clear space at their own settings. A brief preparation-time dissolve establishes that cooking has actually elapsed. End: Six settings clear for service; empty placeholder plates ready to be removed.. Previous finding: Maya sits on aisle side, Ella sits window side beside Max. Table empty of food.; correction: Fix positions while retaining service-clearance action..\nSHOT_044 visible cast MAYA, NINA, DAN; location RESTAURANT_TABLE. Beat: The server removes Maya's empty placeholder plate and sets vegetable pasta there, then replaces Nina's with her adult chicken-and-rice plate. Adults acknowledge their own dishes; no one eats yet. End: Maya pasta and Nina adult chicken/rice served; four empty plates remain.. Previous finding: Maya has a plate of pasta; Nina receives chicken and rice from anonymous hands. Maya is in center/end rather than far-window seat.; correction: Restore Maya to far window; preserve first two served dishes..",
+  "qa_updates": {
+    "SHOT_041": {
+      "observed": "Leo looks across from the aisle toward Nina. Max occupies the nearer window seat and the three visible diners have one water each. A closed menu stays at the distant host stand.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_042": {
+      "observed": "Dan holds his own mostly-full water over its coaster. Maya and Nina each have one glass, no refill is present, and the tight frame crops the other places.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_043": {
+      "observed": "Maya and Ella face across the table with their empty plates, and Max is farther down Maya's window side. A teal shoulder intrudes in front of Maya.",
+      "severity": "major",
+      "correction": "Keep Nina between Maya and Max on the window side. Remove the teal foreground shoulder from the far-end reverse angle.",
+      "status": "FAIL"
+    },
+    "SHOT_044": {
+      "observed": "The server's hands finish serving Nina's adult chicken and rice; Maya's vegetable pasta is present. Maya faces the camera from the head of the table.",
+      "severity": "major",
+      "correction": "Return Maya and her pasta to the far window-side place. Keep the short end vacant and Nina's incoming chicken at the window-middle place.",
+      "status": "FAIL"
+    }
+  },
+  "image_inputs": {
+    "selected_sheet": {
+      "path": "Episode_06/assets/storyboards/BOARD_11.png",
+      "sha256": "1e2e52352cc57ceb4e3c7dcfc073fe0b7e370a05c3cba3b1bf53c05d42208754"
+    },
+    "cast_contact_sheet": {
+      "sha256": "ee132e6bb6535a21dc45a3bed61516cfd1e2c5ff9eeb35c596d1324c1079193f",
+      "original_previews": "Episode_06/assets/characters"
+    },
+    "additional_reference": {
+      "sha256": "ce17dab8a8f57ba778467073c44b0d840c6b86fe858c878a2277afc8ae31b07d",
+      "sources": [
+        "Episode_06/assets/storyboards/BOARD_03.png",
+        "Episode_06/assets/RESTAURANT_seating.svg",
+        "Episode_06/assets/environments/RESTAURANT_TABLE.png"
+      ]
+    }
+  },
+  "detail_edit": {
+    "generated_full_sheet_sha256": "17b4d06b45525f02cc19fcbe60a52b887948e64715321d97512d16149ec8706d",
+    "previous_generated_sheet_sha256": "8c0628b2f440e20cd414e192c360d9bb016c28069ace7378aa6d009f7c233582",
+    "restored_shot": "SHOT_042",
+    "source_and_target_xywh": [
+      836,
+      0,
+      836,
+      470
+    ],
+    "assembly": "Used the earlier verified 042 camera angle to retain exactly one water in front of each visible diner. The other three shots come from the latest fixed-seating reference edit.",
+    "generation_reference_hashes": [
+      {
+        "purpose": "Scene and continuity reference",
+        "sha256": "ce17dab8a8f57ba778467073c44b0d840c6b86fe858c878a2277afc8ae31b07d"
+      },
+      {
+        "purpose": "Scene and continuity reference",
+        "sha256": "f992e929c866513a84bb5f98f7f31bcedb889e35d70fe81a39a8aba3ba265502"
+      },
+      {
+        "purpose": "Scene and continuity reference",
+        "sha256": "1c33bb5aafe0600fa723981f626d3172b966c7dad8ffaeecac5d64ffc5fd71da"
+      }
+    ]
+  }
+}
