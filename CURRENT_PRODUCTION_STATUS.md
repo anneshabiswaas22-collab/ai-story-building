@@ -10,7 +10,7 @@ The creator approved Episode 06 BOARD_05 **SHOT_017 (panel 1)** and **SHOT_020 (
 
 The ten ledgers contain **179 flagged shots across 103 sheets**. The 619 earlier approvals and these two replacements account for all **621 approved shots**. At this revision, all 621 rows labeled `NEEDS_HUMAN_REVIEW` have recorded creator approval. A later edit to an approved panel requires review of its new pixels.
 
-Resume with Episode 06 BOARD_05 shot 018, then shot 019. Both have open seating findings. Pause after each ten minutes of active repair work, recheck the live queue on `main`, and continue with the next open shot.
+The [blocked image repair list](docs/qa/BLOCKED_IMAGE_REPAIRS.md) identifies each affected sheet, its size in Git and its open shots. Resume visual work with Episode 06 BOARD_05 shot 018, then shot 019. Both have open seating findings. While a sheet is unreadable, continue independent source QA and continuity work. After every ten minutes of active work, recheck the queue on `main` and continue.
 
 ## 15-second clips and storyboard repairs — 2026-11-21
 

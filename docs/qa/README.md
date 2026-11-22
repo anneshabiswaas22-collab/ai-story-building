@@ -2,6 +2,8 @@
 
 `Episode_01.tsv` through `Episode_10.tsv` each contain 80 ordered, unique shot rows. Read them with the [master audit](../AUDIT_EP01_EP10.md), the selected episode's `STORY.md` and `CONTINUITY.md`, and the actual referenced PNG. The baseline cleanup ledger and archive checksums describe commit `09063a7`; they are historical records, not current-image manifests.
 
+The [creator approval record](../../CURRENT_PRODUCTION_STATUS.md) identifies the 621 accepted shots at the November 22 checkpoint. The [blocked image repair list](BLOCKED_IMAGE_REPAIRS.md) links directly to all 179 outstanding shot findings. A later change to reviewed pixels requires fresh review.
+
 Each episode TSV uses these tab-separated columns:
 
 | Column | Meaning |
@@ -12,7 +14,7 @@ Each episode TSV uses these tab-separated columns:
 | `severity` | `major` for a recorded failure; `minor` for a noted concern awaiting review. `review`, `unrated` and `none observed` retain the original review vocabulary and confer no approval. |
 | `correction` | Requested repair or remaining review work. |
 | `evidence` | Repository-relative selected-image path, panel number and full current SHA-256; some rows also name screenplay/continuity sources. |
-| `status` | `FAIL` for a documented major discrepancy, or `NEEDS_HUMAN_REVIEW` for unresolved acceptance and fine-detail review. |
+| `status` | `FAIL` for a documented major discrepancy, or the historical `NEEDS_HUMAN_REVIEW` label. Read the latter with the dated creator approval record for the specific pixels. |
 | `verification` | Scope of inspection and any pending creator acceptance. |
 
 Run from the repository root:
