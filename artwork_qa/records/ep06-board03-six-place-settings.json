@@ -1,0 +1,96 @@
+{
+  "episode": 6,
+  "board": 3,
+  "path": "Episode_06/assets/storyboards/BOARD_03.png",
+  "parent_commit": "2038dc4873fe318ee96927a49ce1d02e0710f89c",
+  "parent_sha256": "e44215c1b9319d5105d6d397bc493ade206fa42c3c8e1590930c41410bd36bac",
+  "selected_sha256": "d8a66d77908daf3178b37dc8ce27135ce85f9237e8c97de8aa10e6397f8bf1da",
+  "parent_size": [
+    1672,
+    941
+  ],
+  "selected_size": [
+    1672,
+    941
+  ],
+  "generated_source": "Episode_06/assets/storyboards/BOARD_03.png",
+  "method": "Selected panels from a referenced ImageGen edit were assembled into the previous sheet. The other panel rectangles match the parent pixels exactly.",
+  "request": "Repair the real selected four-panel storyboard in reference one. The second reference is the original classic 3D family cast, the remaining images are the actual locations, continuity and prior visual material. Keep exact shot number badges, relative heights, original skin tone, hair, clothes and premium feature-animation style. Never move a face or swap costumes between speakers. Dan sky-blue polo, dark MUSTACHE and left-wrist watch; adult Maya plum with ponytail; adult Nina teal with wavy auburn bob; older boy Leo orange; braided Ella in coral and full denim overalls; youngest small Max green. Use exactly the four numbered frames in a 2x2 landscape grid at source aspect, with panel shots in order, and preserve successful frames. Target the bottom right image SHOT_012 of this actual selected sheet. The people already have exactly the right seats: PRESERVE those six faces and their positions and the actual table, both short ends empty. Change the empty wooden tabletop only by laying exactly SIX empty white circular plates, a fork and knife at each separate place, one place IN FRONT of each seated family member. THREE places down the left Dan near / Leo middle / Ella far. THREE places down the right Max near / Nina middle / Maya far. With the camera at near empty short end, show all six facing along the two sides. Full unobstructed clear composition of the table with each person's own place under their hands. This is BEFORE menus and before any water service: zero glasses, coasters with glasses, food, menus, bread, bills or orders. Keep the left aisle, right window, rear-left doorway and pendant lights. No change to successful shots 009–011, any documented faults in these upper or lower-left panels should be addressed per their listed notes. Preserve exact shot badges.\nSHOT_009 visible cast DAN, MAYA, NINA, LEO, ELLA, MAX; location RESTAURANT_ENTRANCE. Beat: After a clear walking-time dissolve, the family stops together beside the oak host stand. Dan holds the door for the others without blocking the service aisle. End: All six safely inside beside host stand; no one seated or ordering yet.. Previous finding: Six stand together beside stand and Dan holds door; sightline and W01 wardrobe broadly match.; correction: Review likeness, fine props and blocking against original references before acceptance..\nSHOT_010 visible cast DAN, MAYA, NINA; location RESTAURANT_ENTRANCE. Beat: Dan asks the off-screen server for a table for six. The server confirms a table beside the window and gestures into the dining room with one sleeve-covered forearm. End: Six-seat window table assigned to this family.. Previous finding: Dan requests table beside both partners. Anonymous sleeve and forearm enter at left without a face.; correction: Review likeness, fine props and blocking against original references before acceptance..\nSHOT_011 visible cast MAYA, LEO, ELLA, MAX; location RESTAURANT_WIDE. Beat: Maya leads the three children toward their seats while keeping them away from the service counter. Leo pulls only his own chair; Ella and Max wait before moving theirs. End: Children reach assigned chairs without crowding the service route.. Previous finding: Maya walks three children to table; Leo handles a single chair.; correction: Review likeness, fine props and blocking against original references before acceptance..\nSHOT_012 visible cast DAN, MAYA, NINA, LEO, ELLA, MAX; location RESTAURANT_WIDE. Beat: The family settles at the same six places used throughout dinner: left aisle side near-to-far Dan, Leo, Ella; right window side near-to-far Max, Nina, Maya. End: All seated at fixed restaurant places; no head chair or seventh place.. Previous finding: Correct seating near-to-far on both sides, but table completely bare compared with reference's six empty place settings.; correction: Set empty plates and cutlery before service..",
+  "qa_updates": {
+    "SHOT_009": {
+      "observed": "Six stand together beside stand and Dan holds door; sightline and W01 wardrobe broadly match.",
+      "severity": "review",
+      "correction": "Review likeness, fine props and blocking against original references before acceptance.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_010": {
+      "observed": "Dan requests table beside both partners. Anonymous sleeve and forearm enter at left without a face.",
+      "severity": "review",
+      "correction": "Review likeness, fine props and blocking against original references before acceptance.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_011": {
+      "observed": "Maya walks three children to table; Leo handles a single chair.",
+      "severity": "review",
+      "correction": "Review likeness, fine props and blocking against original references before acceptance.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_012": {
+      "observed": "Dan, Leo and Ella sit on the aisle side and Max, Nina and Maya on the window side, in their assigned near-to-far order. Each has an empty plate and cutlery. The short ends are vacant and no drinks, menus or food have arrived.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    }
+  },
+  "generated_source_sha256": "c28bf5d0317d1c193fe871641f14f03c3f35dc6df97eaffcc4eed768da37de41",
+  "generated_source_size": [
+    1672,
+    941
+  ],
+  "selected_panels": [
+    4
+  ],
+  "preserved_panels": [
+    1,
+    2,
+    3
+  ],
+  "selected_rectangles_xyxy": [
+    [
+      836,
+      470,
+      1672,
+      941
+    ]
+  ],
+  "image_inputs": {
+    "selected_sheet": {
+      "path": "Episode_06/assets/storyboards/BOARD_03.png",
+      "sha256": "e44215c1b9319d5105d6d397bc493ade206fa42c3c8e1590930c41410bd36bac"
+    },
+    "cast_contact_sheet": {
+      "sha256": "ee132e6bb6535a21dc45a3bed61516cfd1e2c5ff9eeb35c596d1324c1079193f",
+      "original_previews": "Episode_06/assets/characters"
+    },
+    "additional_reference": {
+      "sha256": "fa4403fab8563e8f19e860abcc16eb93a2ab72661ff8715f76b0dedf6bf77c77",
+      "sources": [
+        "Episode_06/assets/storyboards/BOARD_03.png",
+        "Episode_06/assets/RESTAURANT_seating.svg",
+        "Episode_06/assets/environments/RESTAURANT_TABLE.png"
+      ]
+    }
+  },
+  "detail_edit": {
+    "generation_reference_hashes": [
+      {
+        "purpose": "Original 012 seating, floor diagram and dining-room master",
+        "sha256": "fa4403fab8563e8f19e860abcc16eb93a2ab72661ff8715f76b0dedf6bf77c77"
+      },
+      {
+        "purpose": "Original host-stand setting",
+        "sha256": "89c33deba69d3a9d0a623addf7c5629792c9c936dc5bb12442c0c33f95329841"
+      }
+    ]
+  }
+}
