@@ -126,7 +126,7 @@ Representative boards do preserve the recognizable cast, broad styling and story
 Each episode should have:
 
 1. README with premise, 20:00 story-only scope, package links, assets actually present, canon locks, refresh/check commands, accurate draft/approval status.
-2. STORY: 80 explicit SHOT_001–080, contiguous 15-second timing, title; per shot Visible cast, Location, Camera, Action, Opening state, End state, Picture link + panel, Continuity, Dialogue. 1–3 visible-speaker dialogue turns, ≤40 words per slot (prefer lower to leave acting time). Off-screen voice cameos in later planned episodes need an explicit speaker/voice model rather than pretending the actor is visible.
+2. STORY: 80 explicit SHOT_001–080, contiguous 15-second timing, title; per shot Visible cast, Location, Camera, Action, Opening state, End state, Picture link + panel, Continuity, Dialogue. 4–6 short, sequential dialogue beats, ≤40 words per slot (prefer lower to leave acting time). Off-screen voice cameos in later planned episodes need an explicit speaker/voice model rather than pretending the actor is visible.
 3. CONTINUITY with permanent cast, five coherent location IDs, prop ledger with shot-specific changes, inventory/money/ownership rules, safety, geography, screen axes, final state and honest production status.
 4. VIDEO_PROMPTS mirroring every field and exact dialogue, W01 lock, global negatives, source references.
 5. Dialogue-only provisional SUBTITLES.srt, each cue inside its own shot; timing estimates must later be conformed to real performance.
@@ -171,7 +171,7 @@ The next morning after Episode 02's fruit picnic, promised pancakes motivate a c
 
 Six acts: 001–010 misunderstanding/context; 011–020 ingredients/tools; 021–040 one measured batch; 041–048 rest/table/stove setup; 049–068 six cooking pairs and safe finish; 069–080 serving/meal/payoffs. Keep analogous causal structure in later episodes, but do not duplicate the same mechanical gag or moral speech. Narrative language arises from actual decisions and polite requests, not vocabulary lists, quizzes, chants, countdowns or audience repeats. Optional creator-authored practice remains outside the twenty-minute film.
 
-Each shot is exactly a 15-second editorial slot; longer washing, cooling, rest, cooking and eating are explicitly elapsed through dissolves. Three short dialogue turns are typical. The validator permits 1–3 turns and at most 40 dialogue words per shot; staging still needs room for reactions and action. Subtitle timings are provisional reading estimates, not performances.
+Each shot is exactly a 15-second editorial slot; longer washing, cooling, rest, cooking and eating are explicitly elapsed through dissolves. Four or five short spoken beats are typical in the November 21 edit. The validator permits 4–6 beats and at most 40 dialogue words per shot; staging still needs room for reactions and action. Subtitle timings are provisional reading estimates, not performances.
 
 ## Inventory, geography and state locks
 

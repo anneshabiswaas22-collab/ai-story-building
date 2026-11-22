@@ -1,0 +1,76 @@
+{
+  "episode": 5,
+  "board": 17,
+  "path": "Episode_05/assets/storyboards/BOARD_17.png",
+  "parent_commit": "4a1953eec9f87b08ca265c7eeacc7c89337988cf",
+  "parent_sha256": "68507fd4670682581fe9d6b353586030eedf7b0693da67684ed6ce63e07f0677",
+  "selected_sha256": "d6d7ef6a50145aef0c6f636599ccf6095183b0a72ca624a157a70a31f6439313",
+  "parent_size": [
+    1672,
+    941
+  ],
+  "selected_size": [
+    1672,
+    941
+  ],
+  "generated_source": "Episode_05/assets/storyboards/BOARD_17.png",
+  "method": "The referenced ImageGen sheet and a localized generated detail were assembled. The detail-edit record identifies their hashes and placement.",
+  "request": "Edit the first input image, the selected storyboard. Preserve the existing four landscape panel positions in a 2×2 grid, exact original numbered SHOT_ badges, original palette/compositions and actor likeness. The second input is original family visual reference. Dan blue / left watch, Maya plum with ponytail, Nina teal auburn waves, Leo orange, braided Ella in denim overalls, small Max green. A third reference supplies setting or continuity. In every panel actors and props must follow its specified shot precisely. Keep good panels intact. Apply the following specific changes in the artwork. Third guide is the real park and the just-preceding approved-for-continuity draft: match the original small CLEAR PLASTIC WATER BOTTLES with ribbed BLUE SCREW CAPS in every shot, all identical apart from owner/remaining water. Eliminate colored metal flasks, tumblers or tall thermoses. 065 exactly Dan, Max and Ella continue with their existing partly eaten one sandwich and one owned clear bottle each; no second servings. 066 show all SIX original family members together on the blue/white checked blanket during the final bites, SIX and only SIX clear BLUE-CAP bottles positioned by their respective diners. Crumbs on six used plates, no fresh sandwich. 067 exactly Ella, Leo and Dan put the stack of six used white plates in the blue-handled wicker basket and the used napkins into the existing small washable soft DRAWSTRING waste pouch, visible gathered fabric at the mouth and cord, absolutely no rectangular zippered case. 068 exactly Maya, Nina and Max at cooler; all SIX capped clear plastic bottles go upright INSIDE ONE open cooler (two rows of three blue caps visible), with existing ice packs at the sides. Max only points to HIS cap in the cooler; no separate seventh bottle in his hand and no solid metal flasks. His eyes can check the grass without wandering. Show exact four labels and keep sunny park, picnic blanket and original wardrobe.\nSHOT_065 shows only DAN, MAX, ELLA in PARK_OAK_PICNIC. A gentle pause lets fountain sounds fill the park. Max hears it from shade and notes it did not change places during their detour. Ella grins at Dan. End: Peaceful reaction moment before closing meal beats. Existing artwork error: Dan, Max and Ella hold partly eaten sandwiches; colored metal flasks replace clear waters. Fix: Restore clear plastic blue-cap waters.\nSHOT_066 shows only DAN, MAYA, NINA, LEO, ELLA, MAX in PARK_OAK_PICNIC. A clearly signaled mealtime ellipsis shows everyone finish their one sandwich and drink as desired. Small remaining crumbs stay on plates. No additional sandwich appears in basket or cooler. End: All six sandwiches eaten; six used plates/napkins and owned water bottles remain. Existing artwork error: Six hold last bites. Six differently colored flasks replace identical clear waters. Fix: Use original bottles and lock six positions.\nSHOT_067 shows only ELLA, LEO, DAN in PARK_OAK_PICNIC. Ella and Leo stack six used plates into the basket, with Dan holding it steady. They put used napkins into the washable waste pouch, not the cooler. Bottle caps stay with bottles. End: Basket holds six used plates and closed waste pouch; blanket clearing. Existing artwork error: Children return used dishes; zipper bag replaces earlier drawstring waste pouch. Fix: Keep original waste-pouch design.\nSHOT_068 shows only MAYA, NINA, MAX in PARK_OAK_PICNIC. Maya checks around blanket edges while Nina collects six water bottles into cooler upright. Max spots his own cap secured on bottle, then checks grass for a loose wrapper without wandering. End: Six capped bottles in cooler with ice; no litter around blanket. Existing artwork error: Five metal flasks in cooler plus the sixth in Max's hand; six in total. Wrong vessel type. Fix: Replace five plus one with matching original waters and ice packs.",
+  "qa_updates": {
+    "SHOT_065": {
+      "observed": "Dan and Max sit along the near edge and Ella faces them from the far-left position. The three clear blue-capped bottles remain at their places while Max points toward the fountain.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_066": {
+      "observed": "All six sit around the empty blanket center in their assigned positions. Six plates hold crumbs and six blue-capped bottles remain with their owners; the cooler is at Nina’s side.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_067": {
+      "observed": "Ella and Leo lower one stack of used white plates into the basket held by Dan. The closed soft drawstring pouch is alongside the stack and there is no second set of dishes.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_068": {
+      "observed": "Maya checks the blanket while Nina and Max look into the cooler. Six matching blue-capped bottles stand upright with the ice packs; Max points to a cap without holding another bottle.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    }
+  },
+  "image_inputs": {
+    "selected_sheet": {
+      "path": "Episode_05/assets/storyboards/BOARD_17.png",
+      "sha256": "68507fd4670682581fe9d6b353586030eedf7b0693da67684ed6ce63e07f0677"
+    },
+    "cast_contact_sheet": {
+      "sha256": "ee132e6bb6535a21dc45a3bed61516cfd1e2c5ff9eeb35c596d1324c1079193f",
+      "original_previews": "Episode_05/assets/characters"
+    },
+    "additional_reference": {
+      "sha256": "395c6ea4f5963992bf400d5378b8d11eef9927892cda3990cc01b305fa072677",
+      "sources": [
+        "Episode_05/assets/environments/PARK_OAK_PICNIC.png",
+        "Episode_05/assets/storyboards/BOARD_16.png"
+      ]
+    }
+  },
+  "detail_edit": {
+    "initial_sheet_sha256": "366332a4c3fce234248f02922802698be31398cc80d3cad58edb9d5cc3411bbd",
+    "seating_revision_sha256": "0a1e682befbf3184b3a71eae716160c3098ae83b0f6be4c49a24a684b855829e",
+    "seating_revision_request": "Correct the previous four-panel storyboard for the actual established picnic seating. The second input is the exact official seating diagram: a long BLANKET seen from the near long edge, six people around its FOUR edges, sitting cross-legged, no tables/chairs. Their fixed positions are Dan near-left, Max near-right (backs toward camera); Ella far-left and Maya far-right (facing camera); Leo alone at left SHORT end facing right; Nina alone at right SHORT end facing left. The cooler is at Nina's outside right, the blue-handled basket behind Dan. Keep the clear plastic bottles and blue caps. TOP LEFT SHOT_065 shows Dan and Max near-side with their backs or 3/4 backs visible. Ella faces them from FAR LEFT, with the basket behind Dan. Frame three people ONLY by shooting an oblique close angle as Ella smiles across to Dan and Max gestures toward the distant fountain. Their three plastic bottles with blue caps remain at their own places. TOP RIGHT SHOT_066 is a high oblique wide shot. SHOW THE EMPTY CENTRAL SPACE ON THE BLUE-WHITE PICNIC BLANKET and all SIX family members sitting AROUND it: TWO near backs Dan/Max, TWO far faces Ella/Maya, ONE at left end Leo and ONE at right end Nina. Exactly SIX clear blue-capped water bottles and SIX separate white plates, one at each person's knees, with crumbs. Nobody sits in a horizontal line or eats out of a second serving. BOTTOM LEFT SHOT_067 three actors: Ella and Leo slide ONE stack of EXACTLY SIX thin used white plates into the blue-handled basket Dan holds. NO OTHER PLATES anywhere in the basket or on the blanket. Overall only this one single six-plate stack. The used napkins go into the existing small soft gathered DRAWSTRING pouch. Keep blue wrapped basket handle, no extra pile or extra plates. BOTTOM RIGHT SHOT_068 currently shows the six matching bottles in cooler and ice packs, preserve. Exact original four labels, bright park light and original faces. Output one four-panel sheet, using the good bottle/hand/food art from first image.",
+    "position_reference": "Episode_05/assets/PICNIC_positions.svg",
+    "generated_full_sheet_sha256": "0a1e682befbf3184b3a71eae716160c3098ae83b0f6be4c49a24a684b855829e",
+    "generated_detail_sha256": "3170ae129dbfcda2cf5b6f85656df0942b306868df5daf7c368a61f2ed395a98",
+    "detail_request": "Edit this one SHOT_066 wide shot, with all six people seated in exactly the existing places around the blue-and-white picnic blanket. ONLY correct the identities of the two grown women. Reference 2 marks specific bodies. Pink box back row to the RIGHT OF ELLA, facing camera = MAYA. There give the grown woman Maya's PLUM/PURPLE blouse, cream trousers, DARK BROWN low ponytail and Maya's face from the middle adult in reference 3. Turquoise box at the extreme RIGHT SHORT END immediately beside the closed cooler, facing LEFT in profile = NINA. There give the grown woman Nina's TEAL blouse, tan trousers, short WAVY AUBURN bob and Nina's face from the right adult in reference 3. These two established family members exchange which position they occupy without moving chairs, hands, dishes or the four other characters. Far row MUST visibly be braided Ella in coral then Maya PURPLE with ponytail; extreme right MUST be Nina TEAL, auburn bob. Retain Dan near-left, Max near-right, Leo at left end. Keep SIX separate plates with crumbs and SIX small clear ribbed BLUE-capped plastic water bottles one per setting. The blanket center is empty. Preserve the blue-handled basket behind Dan, cooler at Nina's right, light, framing and SHOT_066 badge. No colored boxes, names, extra people, extra drinks or tables in the result. One full landscape panel.",
+    "detail_source_crop_width_height_x_y": "830x456+839+4",
+    "detail_resize_to": "830x456",
+    "detail_selection_region": "830x456+0+0",
+    "detail_destination": "+839+4",
+    "assembly": "Placed the full 066 identity-corrected frame at the top right of the seating revision."
+  }
+}

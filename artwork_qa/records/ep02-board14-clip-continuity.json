@@ -1,0 +1,45 @@
+{
+  "episode": 2,
+  "board": 14,
+  "path": "Episode_02/assets/storyboards/BOARD_14.png",
+  "parent_commit": "b28916d564d0870b121617e71ee10541499592c7",
+  "parent_sha256": "5475ae6fe90d4ecc491c11400c1c0bbc2285252848cfcf1b06ef80fef86d1e17",
+  "selected_sha256": "cebddfb10d42389fc49df7c6ad71fb57837fb6b1a82acc68c2e2dd529030bc1e",
+  "parent_size": [
+    1672,
+    941
+  ],
+  "selected_size": [
+    1672,
+    941
+  ],
+  "generated_source": "Episode_02/assets/storyboards/BOARD_14.png",
+  "method": "Referenced ImageGen edit. The selected PNG is the original returned file.",
+  "request": "Precise prop-color continuity correction. Reference 1 is the FULL four-panel storyboard to edit. All shots 053, 054, 055, 056 show a rolled picnic blanket strapped horizontally to the blue cooler. In each panel replace ONLY the brown/orange tartan fabric pattern on that roll with clear BLUE-AND-WHITE GINGHAM CHECK, the canonical blanket as in reference 2 (style/prop reference only). Keep cooler navy blue, its dark vertical straps, all characters in their original poses, fruit, background, story framing, black labels and white 2×2 gutters exactly. In 055 small but clear blue-white checked roll still fastened to cooler; in 056 the open blue cooler still has the blue-and-white rolled blanket strapped on front. No red, yellow or brown threads in the blanket. No new objects. Deliver the full same wide 16:9 four-panel sheet.",
+  "qa_updates": {
+    "SHOT_053": {
+      "observed": "The open cooler carries a blue-and-white checked roll while Ella reaches to close the lid.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_054": {
+      "observed": "Max checks the blue-and-white blanket secured by the two straps as Dan puts away the receipt.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_055": {
+      "observed": "All six leave the shop with the same checked blanket across the cooler; the watermelon stays behind.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_056": {
+      "observed": "The open cooler at the kitchen island has the same blue-and-white roll. Fruit is laid out in front of the family.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    }
+  }
+}

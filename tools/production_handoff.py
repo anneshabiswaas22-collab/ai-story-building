@@ -20,6 +20,7 @@ import sys
 
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT))
+from tools.dialogue_timing import cue_windows
 from tools.episode_package import (
     FAMILY, load_config, shots, validate_subtitles,
     PROMPT_FIELDS, cast_names, seconds,
@@ -163,6 +164,9 @@ def build_records(root: Path = ROOT) -> list[dict]:
                 ],
             }
             words = sum(len(line.split()) for _, line in shot["dialogue"])
+            windows = cue_windows(shot["dialogue"])
+            voiced_ms = sum(end - begin for begin, end in windows)
+            planned_wpm = round(words * 60000 / voiced_ms)
             records.append({
                 "episode": f"{episode:02}", "shot_id": f"SHOT_{sid}",
                 "global_shot": (episode - 1) * 80 + number,
@@ -176,7 +180,8 @@ def build_records(root: Path = ROOT) -> list[dict]:
                 "board_panel": panel, "references": refs, "dialogue": [
                     {"speaker": actor, "text": line} for actor, line in shot["dialogue"]
                 ], "subtitle_cues": cues[sid], "dialogue_words": words,
-                "editorial_timing_review": "recommended" if words > 24 else "pending_real_voice",
+                "planned_speaking_wpm": planned_wpm,
+                "editorial_timing_review": "recommended" if planned_wpm > 160 else "pending_real_voice",
                 "board_visual_status": "unapproved_illustrated_draft" if refs["board_exists"] else "missing",
                 "individual_first_frame": "not_approved",
                 "performed_audio": "not_documented",
@@ -271,6 +276,7 @@ def export(records: list[dict], output_dir: Path) -> None:
             "episode": f"{number:02}", "shot_count": len(filtered),
             "spoken_words": sum(row["dialogue_words"] for row in filtered),
             "subtitle_cues": sum(len(row["subtitle_cues"]) for row in filtered),
+            "shots_over_160_planned_wpm": sum(row["planned_speaking_wpm"] > 160 for row in filtered),
             "pacing_review_shots_over_24_words": sum(row["dialogue_words"] > 24
                                                       for row in filtered),
             "total_editorial_seconds": 80 * 15,
@@ -278,13 +284,13 @@ def export(records: list[dict], output_dir: Path) -> None:
         })
     write_tsv(output_dir / "episode-dialogue-qa.tsv", episode_rows, [
         "episode", "shot_count", "spoken_words", "subtitle_cues",
-        "pacing_review_shots_over_24_words", "total_editorial_seconds",
+        "pacing_review_shots_over_24_words", "shots_over_160_planned_wpm", "total_editorial_seconds",
         "performed_timing",
     ])
     missing = [f"{r['episode']}/{r['board_name']}" for r in records
                if r["board_panel"] == 1 and not r["references"]["board_exists"]]
-    crowded = [f"{r['episode']}/{r['shot_id']} ({r['dialogue_words']} words)"
-               for r in records if r["dialogue_words"] > 24]
+    crowded = [f"{r['episode']}/{r['shot_id']} ({r['planned_speaking_wpm']} planned words/min)"
+               for r in records if r["editorial_timing_review"] == "recommended"]
     report = [
         "# Source-derived production handoff (NOT a production approval)",
         "",
@@ -292,7 +298,7 @@ def export(records: list[dict], output_dir: Path) -> None:
         f"- Existing four-panel storyboard sheets: {200 - len(missing)}/200.",
         f"- Missing genuine storyboard sheets: {len(missing)}.",
         f"- Adjacent-shot state transitions queued for human/agent review: {len(queue)}.",
-        f"- Dialogue pacing candidates (>24 words / 15 editorial seconds): {len(crowded)}.",
+        f"- Dialogue pacing candidates (estimated speaking rate above 160 words/min): {len(crowded)}.",
         "- Voice timing, actor likeness, completed motion takes and approval remain unverified.",
         "",
         "## Missing storyboard files",

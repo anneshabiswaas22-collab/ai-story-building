@@ -1,0 +1,72 @@
+{
+  "episode": 3,
+  "board": 19,
+  "path": "Episode_03/assets/storyboards/BOARD_19.png",
+  "parent_commit": "3298ed2170667b517aef04e7a1f1a388be99152f",
+  "parent_sha256": "4114a3a07b42041d6e2f870be9f2db672f9b3f85e1ccc3bbc511e8ad2f0988b0",
+  "selected_sha256": "d85885c21a1b907094207afbed0e274dcc562ef5759eb7151797164fb41a76cd",
+  "parent_size": [
+    1672,
+    941
+  ],
+  "selected_size": [
+    1671,
+    941
+  ],
+  "generated_source": "Episode_03/assets/storyboards/BOARD_19.png",
+  "method": "The referenced ImageGen sheet and a localized generated detail were assembled. The detail-edit record identifies their hashes and placement.",
+  "request": "Edit the first input image, the selected storyboard. Preserve the existing four landscape panel positions in a 2×2 grid, exact original numbered SHOT_ badges, original palette/compositions and actor likeness. The second input is original family visual reference. Dan blue / left watch, Maya plum with ponytail, Nina teal auburn waves, Leo orange, braided Ella in denim overalls, small Max green. A third reference supplies setting or continuity. In every panel actors and props must follow its specified shot precisely. Keep good panels intact. Apply the following specific changes in the artwork. Use the original dining room and exact top-view seating diagram in reference 3. A SINGLE six-chair wood table. Seen across from the foreground, Leo is on the LEFT SHORT end facing right; Nina on RIGHT SHORT end facing left; far long edge (window side, from left to right) Ella then Maya; near long edge (backs to camera, from left to right) Dan then small Max. Even if another actor is out of frame his or her physical seat is occupied. Use tight true reverse angles and backs of heads rather than three front faces along a single flat edge. PANELS: 073 Dan near-left three-quarter back turns from his own plate with two cooked pancakes (one crooked); Leo left-end profile next to him, Maya diagonally ACROSS the table at far-right. 074 Ella and Maya side-by-side on the rear/window long edge, with Nina at the perpendicular RIGHT SHORT END in profile facing left. 075 Dan and Max at the near long edge, beside each other, facing away toward the table, and Nina seated perpendicular to them at the RIGHT short end. Max talks about the joke. No vase on the dining furniture or breakfast table; the empty vase stays in the distant kitchen. 076 Dan at near-left, Maya across at far-right, Nina facing left on the right SHORT END, three adults on three different table edges. Strictly THREE specified faces per panel, warm home breakfast atmosphere, proper relative ages/heights and original outfits. Plates retain two original plain pancakes each with bite progress only; no syrup, fruit or fresh piles. Preserve readable SHOT_073–076 labels.\nSHOT_073 shows only DAN, LEO, MAYA in HOME_TABLE. Dan takes a small bite of his properly cooked first pancake, chews and swallows before setting his fork down to speak. Leo watches for his reaction; Maya smiles without prompting anyone to finish their plate. End: Dan has tasted his serving comfortably; other food remains on its original plates. Existing artwork error: Dan, Leo and Maya sit shoulder-to-shoulder on same edge facing camera despite fixed positions. Fix: Restore seats and film across table for Dan's reaction.\nSHOT_074 shows only ELLA, MAYA, NINA in HOME_TABLE. Ella studies her own pancake after a small bite, then rests her fork while remembering the milk measure. Maya acknowledges her careful work; Nina points gently toward the shared family rather than the recipe card. End: Ella sees that her measured contribution helped the real meal; everyone remains comfortably seated. Existing artwork error: Ella, Maya and Nina sit along one edge, losing Nina's right-end seat. Fix: Restore right-end seat and fixed far-side positions.\nSHOT_075 shows only MAX, DAN, NINA in HOME_TABLE. Max glances toward the distant decoration shelf and smiles. Dan answers with his fork safely resting on his own plate. Nina enjoys the joke while the empty vase stays exactly where it was returned, away from all food. End: The opening misunderstanding gets a gentle payoff; vase untouched and still empty. Existing artwork error: Vase now on dining sideboard, while Max, Dan and Nina face camera in a row. Fix: Keep empty vase on distant kitchen decoration shelf and use fixed seats.\nSHOT_076 shows only DAN, MAYA, NINA in HOME_TABLE. Dan sets his fork down and thanks Maya for checking the word and Nina for showing him the patient cooking rhythm. Both women accept the thanks warmly; he credits the children's measuring and table jobs without ranking anyone. End: Dan's wish to help resolves into shared effort and listening, with both partners equally included. Existing artwork error: Three adults sit along one side facing camera. Fix: Frame the thanks across fixed seats.",
+  "qa_updates": {
+    "SHOT_073": {
+      "observed": "Dan tastes his pancake in the foreground near-left seat, Leo watches from the left end, and Maya faces them across the table from far right.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_074": {
+      "observed": "Ella and Maya are on the far long edge. Nina is in profile at the right short end, perpendicular to them.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_075": {
+      "observed": "In the reverse view Dan and Max sit alongside each other, with Nina in profile at their perpendicular end. The single-plate breakfast portions remain and no vase has moved into the dining room.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_076": {
+      "observed": "Dan thanks Maya and Nina across three different table edges, with Maya at far right and Nina in profile at the short end. Only the partially eaten plain pancakes are on their plates.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    }
+  },
+  "image_inputs": {
+    "selected_sheet": {
+      "path": "Episode_03/assets/storyboards/BOARD_19.png",
+      "sha256": "4114a3a07b42041d6e2f870be9f2db672f9b3f85e1ccc3bbc511e8ad2f0988b0"
+    },
+    "cast_contact_sheet": {
+      "sha256": "ee132e6bb6535a21dc45a3bed61516cfd1e2c5ff9eeb35c596d1324c1079193f",
+      "original_previews": "Episode_03/assets/characters"
+    },
+    "additional_reference": {
+      "sha256": "62aaf57ab80c91980e6087b129580c21d17c928b306ac03448f5ed446024518e",
+      "sources": [
+        "Episode_03/assets/environments/HOME_TABLE.jpg",
+        "Episode_03/assets/HOME_TABLE_seating.svg"
+      ]
+    }
+  },
+  "detail_edit": {
+    "generated_full_sheet_sha256": "33559657e3069a8d0e27d1ec90abaa1df6c73a4d121aa898dd76d4aee1659582",
+    "generated_detail_sha256": "b07c6dda99ff6f51795fbbb5ae50f6f37f397defe566863e36960e35c18b6e4a",
+    "detail_request": "Revise this SINGLE storyboard panel SHOT_075. Preserve only its three named people, their positions around this one home table and their original faces. Reverse the viewing angle: the camera is now just above the FAR LONG EDGE at seated eye height, facing back across the table toward the near side. It is close enough to exclude all other diners and all unoccupied seats. Small Max in green and Dan in blue are on the SAME near-side LONG EDGE, side by side, surprised and amused by their pancake joke. On the RIGHT SHORT END of the physical table sits Nina, auburn waves and teal blouse, PERPENDICULAR to them in profile. With the camera on the far edge, Nina can now appear on the SCREEN LEFT, then Max, then Dan to the right. Keep this physical relative seating; no one moves and the three do not line up along one long edge. Close three-quarter composition. Background is the plain opposite dining wall / distant kitchen doorway, not a matching reverse window. Do not show ANY vase or decorative vessel in the dining room or by their plates. The one original empty vase stays off-camera in the kitchen. Each visible diner has their single plate with the remains of TWO plain pancakes, simple fork and water; no syrup or flowers. Max glances toward Dan as he jokes and Nina laughs. Do not show the three other chairs empty, crop them out. Keep the existing black SHOT_075 badge at upper left. One full wide 16:9 panel.",
+    "detail_source_crop_width_height_x_y": "830x456+4+475",
+    "detail_resize_to": "830x456",
+    "detail_selection_region": "830x456+0+0",
+    "detail_destination": "+4+475",
+    "assembly": "The reverse angle for 075 keeps Dan beside Max and Nina at the short end. It excludes the dining wall, extra vase and false empty chairs."
+  }
+}

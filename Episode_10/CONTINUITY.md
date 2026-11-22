@@ -28,7 +28,7 @@ New front views expand the original home rather than redesign its interior. Exac
 
 ## Evidence and story time
 
-Correct digital confirmation: **14 Maple Lane**, prepaid fictional order **MHE-10-C**, delivery around **14:00**. At 016 an explicit time dissolve reaches **14:10**; notice says delivered **14:06**. These are fictional story-clock props.
+Correct digital confirmation: **14 Maple Lane**, prepaid fictional order **MHE-10-C**, delivery around **14:00**. At 016 an explicit time dissolve reaches **14:10**; notice says delivered **14:06**. These are fictional story-clock props. There is one phone, Nina’s. In 021 and 031 the second piece of evidence is the printed confirmation. Nina passes the phone to Dan across the 035–036 cut. He returns it in 038. Maya briefly borrows and returns it in 045 and again in 051–052.
 
 017–021: no cake at home; doorstep/fridge checks do not move anything. Confirmation/notice reference match. 023–024: photo shows GREEN door without the BLUE bow. 029: leaf knocker/hedge identified. 030: blurry digits are inconclusive. 031: support says driver recorded **18**, while confirmation stays **14**. No second order, new payment, refund, accusation of theft or altered original address.
 

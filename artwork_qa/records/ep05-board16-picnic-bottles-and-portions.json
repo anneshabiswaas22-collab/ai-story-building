@@ -1,0 +1,45 @@
+{
+  "episode": 5,
+  "board": 16,
+  "path": "Episode_05/assets/storyboards/BOARD_16.png",
+  "parent_commit": "10315cc3d7f0fa1422853fe52a67d3940095dafe",
+  "parent_sha256": "6a8f5f0277c5e48765c8135b7bbe03c7f6168af5f90bee7af39e7a0b600b2811",
+  "selected_sha256": "c8ecd1b7b32f2c2bd1f6f2c5b3999200f6184b60d164e39bc5078370215dbd11",
+  "parent_size": [
+    1672,
+    941
+  ],
+  "selected_size": [
+    1672,
+    941
+  ],
+  "generated_source": "Episode_05/assets/storyboards/BOARD_16.png",
+  "method": "Referenced ImageGen edit. The selected PNG is the original returned file.",
+  "request": "Edit the first input image, the selected storyboard. Preserve the existing four landscape panel positions in a 2×2 grid, exact original numbered SHOT_ badges, original palette/compositions and actor likeness. The second input is original family visual reference. Dan blue / left watch, Maya plum with ponytail, Nina teal auburn waves, Leo orange, braided Ella in denim overalls, small Max green. A third reference supplies setting or continuity. In every panel actors and props must follow its specified shot precisely. Keep good panels intact. Apply the following specific changes in the artwork. In every frame preserve the owned water bottle per person: reusable small clear cylindrical PLASTIC bottles with BLUE SCREW CAPS, no tumblers or drinking glasses anywhere. The family has exactly six wrapped cheese sandwiches at start; at this later point one eaten-down portion per diner. If Dan or Nina has a sandwich in hand their own plate is EMPTY except for the wrapper and crumbs. Never split the remaining serving onto duplicate plates or into pairs of slices. Each diner has only ONE plate, set on blue-and-white checked picnic blanket; no plate in lap, no second serving. Use the existing cartoon cast and outdoor lunch geography. Show progressive bite marks. Keep the label numbers readable. Source panel cast: 061 three adults Dan Maya Nina. 062 Dan and boys Max Leo. 063 Ella Dan Maya. 064 Maya Nina Max.\nSHOT_061 shows only DAN, MAYA, NINA in PARK_OAK_PICNIC. Dan admits he wanted to be useful by handling the route alone. Maya and Nina both explain that bringing the group together mattered more than proving direction expertise. End: Dan relaxes, accepts shared planning without losing adult agency. Existing artwork error: Plastic waters change into tumblers. Dan and Nina each hold food with another sandwich on their plates. Fix: Replace tumblers with original bottles; show single remaining portion per diner.\nSHOT_062 shows only DAN, MAX, LEO in PARK_OAK_PICNIC. Dan thanks Leo for spotting the arrow and Max for comparing the squirrel with the tree. Both boys accept without boasting. Dan keeps his plate balanced on blanket. End: Each child contribution named specifically; cooperation affirmed. Existing artwork error: Dan holds food, has a lap plate with a sandwich and another plated serving below. Tumblers persist. Fix: Use one plate and remaining serving per person; restore water bottles.\nSHOT_063 shows only ELLA, DAN, MAYA in PARK_OAK_PICNIC. Ella returns to Dan claim that the map tree looked small. Dan looks up at the real canopy and makes a modest little measuring gesture with empty hands. End: Early drawing-size joke pays off without changing geography. Existing artwork error: Dan measures canopy height with hands; clear tumblers remain before each person. Fix: Restore original blue-cap bottles and preserve eaten portions.\nSHOT_064 shows only MAYA, NINA, MAX in PARK_OAK_PICNIC. Maya and Nina invite Max to describe their location if they ever need to find this spot again. He thinks a beat, then gives a natural answer to his family. End: Max gives destination using two distinctive landmarks. Existing artwork error: Max addresses Maya and Nina; tumblers and squared sandwich portions remain. Fix: Restore owned water bottles and carry forward bites.",
+  "qa_updates": {
+    "SHOT_061": {
+      "observed": "Three adults sit on the checked blanket, each with a single plate, remaining sandwich portion and blue-capped bottle. They have empty hands for the conversation.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_062": {
+      "observed": "Leo and Max listen as Dan gestures. Each has one plate on the blanket and a single blue-capped bottle. Dan has no plate on his lap.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_063": {
+      "observed": "Ella and Maya watch Dan measure the canopy with his empty hands. The partially eaten portions stay on the blanket beside their blue-capped bottles.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_064": {
+      "observed": "Max describes the place to Maya and Nina. Three small sandwich portions with crumbs and three bottles remain in front of their owners.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    }
+  }
+}

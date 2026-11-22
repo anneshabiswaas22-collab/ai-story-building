@@ -1,994 +1,1371 @@
 1
-00:00:00,500 --> 00:00:02,470
+00:00:00,250 --> 00:00:02,090
 Pancakes, just as promised.
 
 2
-00:00:02,720 --> 00:00:07,270
+00:00:02,240 --> 00:00:06,720
 I am ready to help. Sensible quantities, no
 size records.
 
 3
-00:00:07,520 --> 00:00:10,350
+00:00:06,870 --> 00:00:09,590
 Then breakfast has an excellent start.
 
 4
-00:00:15,500 --> 00:00:18,330
-Dan, could you get the flour?
+00:00:09,740 --> 00:00:13,780
+Start with the recipe, then. The bowl can
+wait.
 
 5
-00:00:18,580 --> 00:00:21,840
-Of course. I know just the thing.
+00:00:15,250 --> 00:00:17,970
+Dan, could you get the flour?
 
 6
-00:00:22,090 --> 00:00:24,920
-Why are you looking over there?
+00:00:18,120 --> 00:00:21,280
+Of course. I know just the thing.
 
 7
-00:00:30,500 --> 00:00:33,760
-How large a bouquet do pancakes need?
+00:00:21,430 --> 00:00:24,150
+Why are you looking over there?
 
 8
-00:00:34,010 --> 00:00:35,810
-A bouquet?
+00:00:24,300 --> 00:00:27,900
+I'm picturing something with a nice long stem.
 
 9
-00:00:36,060 --> 00:00:38,890
-Would breakfast need a flowerpot too?
+00:00:30,250 --> 00:00:33,648
+How large a bouquet do pancakes need?
 
 10
-00:00:45,500 --> 00:00:50,050
+00:00:33,798 --> 00:00:34,831
+A bouquet?
+
+11
+00:00:34,981 --> 00:00:37,906
+Would breakfast need a flowerpot too?
+
+12
+00:00:38,056 --> 00:00:42,400
+Dad, what would a bouquet taste like with
+syrup?
+
+13
+00:00:45,250 --> 00:00:49,481
 Flour for baking, Dan. Not a flower from the
 garden.
 
-11
-00:00:50,300 --> 00:00:53,990
+14
+00:00:49,631 --> 00:00:53,031
 Ah. The pancakes are not requesting a
 centerpiece.
 
-12
-00:00:54,240 --> 00:00:56,040
+15
+00:00:53,181 --> 00:00:54,503
 Good catch, Mom.
 
-13
-00:01:00,500 --> 00:01:03,330
+16
+00:00:54,653 --> 00:00:59,300
+I did wonder how we'd get petals out of our
+teeth.
+
+17
+00:01:00,250 --> 00:01:02,970
 So the garden keeps its flowers?
 
-14
-00:01:03,580 --> 00:01:07,270
+18
+00:01:03,120 --> 00:01:06,720
 Every one. Our breakfast needs a baking
 ingredient.
 
-15
-00:01:07,520 --> 00:01:10,780
+19
+00:01:06,870 --> 00:01:10,030
 The vase has been excused from cooking.
 
-16
-00:01:15,500 --> 00:01:20,050
+20
+00:01:10,180 --> 00:01:14,220
+It looks awfully pleased to be off the menu.
+
+21
+00:01:15,250 --> 00:01:19,481
 The recipe says two cups. That is a useful
 clue.
 
-17
-00:01:20,300 --> 00:01:23,560
+22
+00:01:19,631 --> 00:01:22,616
 And it belongs in the mixing bowl.
 
-18
-00:01:23,810 --> 00:01:26,640
+23
+00:01:22,766 --> 00:01:25,334
 I should read the whole invitation.
 
-19
-00:01:30,500 --> 00:01:34,190
-I heard one word and guessed the rest.
-
-20
-00:01:34,440 --> 00:01:37,270
-You can ask what we mean.
-
-21
-00:01:37,520 --> 00:01:40,350
-We have time to check together.
-
-22
-00:01:45,500 --> 00:01:49,190
-Let us find what the recipe actually needs.
-
-23
-00:01:49,440 --> 00:01:51,840
-I can read the list.
-
 24
-00:01:52,090 --> 00:01:56,210
-I will measure. Max can help find the tools.
+00:01:25,484 --> 00:01:29,300
+Two cups of the stuff in the pantry, please.
 
 25
-00:02:00,500 --> 00:02:02,900
-This flour is for pancakes.
+00:01:30,250 --> 00:01:33,850
+I heard one word and guessed the rest.
 
 26
-00:02:03,150 --> 00:02:05,550
-Yes. Same sound, different meaning.
+00:01:34,000 --> 00:01:36,720
+You can ask what we mean.
 
 27
-00:02:05,800 --> 00:02:08,630
-The recipe and the label agree.
+00:01:36,870 --> 00:01:39,590
+We have time to check together.
 
 28
-00:02:15,500 --> 00:02:17,470
-Is the vase disappointed?
+00:01:39,740 --> 00:01:43,780
+Okay. Where would you look for the baking
+kind?
 
 29
-00:02:17,720 --> 00:02:21,840
-It prefers a quiet shelf to a hot stove.
+00:01:45,250 --> 00:01:48,650
+Let us find what the recipe actually needs.
 
 30
-00:02:22,090 --> 00:02:24,060
-A very sensible vase.
+00:01:48,800 --> 00:01:50,953
+I can read the list.
 
 31
-00:02:30,500 --> 00:02:33,760
-A big bowl and a smaller bowl.
+00:01:51,103 --> 00:01:54,919
+I will measure. Max can help find the tools.
 
 32
-00:02:34,010 --> 00:02:36,840
-Dry ingredients here. Wet ingredients there.
+00:01:55,069 --> 00:01:59,300
+Can I find something that looks like a pancake
+tool?
 
 33
-00:02:37,090 --> 00:02:39,920
-They have different jobs, like us.
+00:02:00,250 --> 00:02:02,530
+This flour is for pancakes.
 
 34
-00:02:45,500 --> 00:02:48,760
-That spoon has a lot of holes.
+00:02:02,680 --> 00:02:04,960
+Yes. Same sound, different meaning.
 
 35
-00:02:49,010 --> 00:02:53,130
-It is a whisk. For mixing, not carrying soup.
+00:02:05,110 --> 00:02:07,830
+The recipe and the label agree.
 
 36
-00:02:53,380 --> 00:02:56,210
-Good. We found our first helper.
+00:02:07,980 --> 00:02:12,460
+Well, I've never seen a flower come in a bag.
 
 37
-00:03:00,500 --> 00:03:04,190
+00:02:15,250 --> 00:02:16,816
+Is the vase disappointed?
+
+38
+00:02:16,966 --> 00:02:20,405
+It prefers a quiet shelf to a hot stove.
+
+39
+00:02:20,555 --> 00:02:22,122
+A very sensible vase.
+
+40
+00:02:22,272 --> 00:02:25,711
+It won't have to wash up after breakfast,
+either.
+
+41
+00:02:25,861 --> 00:02:29,300
+And I don't have to find it a fork.
+
+42
+00:02:30,250 --> 00:02:33,410
+A big bowl and a smaller bowl.
+
+43
+00:02:33,560 --> 00:02:36,280
+Dry ingredients here. Wet ingredients there.
+
+44
+00:02:36,430 --> 00:02:39,150
+They have different jobs, like us.
+
+45
+00:02:39,300 --> 00:02:43,340
+The yellow one's easier for me to see into.
+
+46
+00:02:45,250 --> 00:02:48,329
+That spoon has a lot of holes.
+
+47
+00:02:48,479 --> 00:02:52,414
+It is a whisk. For mixing, not carrying soup.
+
+48
+00:02:52,564 --> 00:02:55,214
+Good. We found our first helper.
+
+49
+00:02:55,364 --> 00:02:59,300
+I thought our soup would just fall right
+through.
+
+50
+00:03:00,250 --> 00:03:03,850
 A tablespoon and a half teaspoon. Different
 measures.
 
-38
-00:03:04,440 --> 00:03:06,840
+51
+00:03:04,000 --> 00:03:06,280
 So not just any spoon?
 
-39
-00:03:07,090 --> 00:03:10,780
+52
+00:03:06,430 --> 00:03:10,030
 Exactly. These help us use the right amount.
 
-40
-00:03:15,500 --> 00:03:19,190
+53
+00:03:10,180 --> 00:03:14,220
+Read the handle. That's where the size is
+marked.
+
+54
+00:03:15,250 --> 00:03:18,454
 The marks are easier to read down here.
 
-41
-00:03:19,440 --> 00:03:23,560
+55
+00:03:18,604 --> 00:03:22,200
 Keep the measuring cup flat, then check the
 line.
 
-42
-00:03:23,810 --> 00:03:27,500
+56
+00:03:22,350 --> 00:03:25,554
 My eyes can do some of the work.
 
-43
-00:03:30,500 --> 00:03:33,760
+57
+00:03:25,704 --> 00:03:29,300
+And the milk won't slope away from the mark.
+
+58
+00:03:30,250 --> 00:03:33,410
 That is the spatula for turning pancakes.
 
-44
-00:03:34,010 --> 00:03:35,810
+59
+00:03:33,560 --> 00:03:34,960
 Not the whisk?
 
-45
-00:03:36,060 --> 00:03:39,750
+60
+00:03:35,110 --> 00:03:38,710
 Correct. The pancakes would prefer a flat
 ride.
 
-46
-00:03:45,500 --> 00:03:48,760
+61
+00:03:38,860 --> 00:03:42,900
+Right. A whisk would leave funny stripes on
+breakfast.
+
+62
+00:03:45,250 --> 00:03:48,146
 The pan and stove are adult jobs.
 
-47
-00:03:49,010 --> 00:03:52,700
+63
+00:03:48,296 --> 00:03:51,595
 The children have their space at the island.
 
-48
-00:03:52,950 --> 00:03:56,640
+64
+00:03:51,745 --> 00:03:55,044
 And we have a clear path between them.
 
-49
-00:04:00,500 --> 00:04:02,470
+65
+00:03:55,194 --> 00:03:59,300
+Let's keep that space open once the pan gets
+warm.
+
+66
+00:04:00,250 --> 00:04:02,043
 Sugar, baking powder, salt.
 
-50
-00:04:02,720 --> 00:04:05,120
+67
+00:04:02,193 --> 00:04:04,414
 No decorations on that list.
 
-51
-00:04:05,370 --> 00:04:10,350
+68
+00:04:04,564 --> 00:04:09,357
 Only ingredients. Let us check each label
 before we open it.
 
-52
-00:04:15,500 --> 00:04:18,760
+69
+00:04:09,507 --> 00:04:14,300
+These names look similar when you grab them in
+a hurry.
+
+70
+00:04:15,250 --> 00:04:18,410
 Milk, eggs and butter. Everything from home.
 
-53
-00:04:19,010 --> 00:04:22,700
+71
+00:04:18,560 --> 00:04:22,160
 So breakfast does not need another shopping
 trip.
 
-54
-00:04:22,950 --> 00:04:25,350
+72
+00:04:22,310 --> 00:04:24,590
 Just a little careful preparation.
 
-55
-00:04:30,500 --> 00:04:33,760
+73
+00:04:24,740 --> 00:04:28,780
+Good. I'm hungry enough to stay in this
+kitchen.
+
+74
+00:04:30,250 --> 00:04:33,410
 Twelve pancakes. Two each for six people.
 
-56
-00:04:34,010 --> 00:04:36,840
+75
+00:04:33,560 --> 00:04:36,280
 A breakfast with a clear plan.
 
-57
-00:04:37,090 --> 00:04:39,920
+76
+00:04:36,430 --> 00:04:39,150
 We can make every pancake count.
 
-58
-00:04:45,500 --> 00:04:49,190
+77
+00:04:39,300 --> 00:04:43,340
+Two each sounds much better than one enormous
+one.
+
+78
+00:04:45,250 --> 00:04:48,850
 Before I reach for anything, what comes first?
 
-59
-00:04:49,440 --> 00:04:51,840
+79
+00:04:49,000 --> 00:04:51,280
 Clean hands. Then we measure.
 
-60
-00:04:52,090 --> 00:04:55,350
+80
+00:04:51,430 --> 00:04:54,590
 That is a much better opening question.
 
-61
-00:05:00,500 --> 00:05:03,760
+81
+00:04:54,740 --> 00:04:58,780
+Then my very first ingredient is a little
+patience.
+
+82
+00:05:00,250 --> 00:05:03,410
 Even the helpers who only carry napkins?
 
-62
-00:05:04,010 --> 00:05:06,410
+83
+00:05:03,560 --> 00:05:05,840
 Everyone starts with clean hands.
 
-63
-00:05:06,660 --> 00:05:10,350
+84
+00:05:05,990 --> 00:05:09,590
 My hands have passed their first breakfast
 test.
 
-64
-00:05:15,500 --> 00:05:18,760
-Blue for dry ingredients. Yellow for wet.
-
-65
-00:05:19,010 --> 00:05:20,980
-One batch, two jobs.
-
-66
-00:05:21,230 --> 00:05:24,490
-And the right measure beside each bowl.
-
-67
-00:05:30,500 --> 00:05:33,760
-A level cup, not a little mountain.
-
-68
-00:05:34,010 --> 00:05:35,980
-My mountains are retiring.
-
-69
-00:05:36,230 --> 00:05:39,490
-Good. This recipe needs an even top.
-
-70
-00:05:45,500 --> 00:05:47,900
-One cup, then another. Two.
-
-71
-00:05:48,150 --> 00:05:50,120
-Exactly what we need.
-
-72
-00:05:50,370 --> 00:05:54,060
-Now the bag can rest. No third mountain.
-
-73
-00:06:00,500 --> 00:06:02,470
-Two tablespoons of sugar.
-
-74
-00:06:02,720 --> 00:06:05,980
-Not two cups. I read that carefully.
-
-75
-00:06:06,230 --> 00:06:09,060
-A very helpful kind of careful.
-
-76
-00:06:15,500 --> 00:06:17,900
-Baking powder. The names matter.
-
-77
-00:06:18,150 --> 00:06:20,550
-And the amount matters too.
-
-78
-00:06:20,800 --> 00:06:24,490
-One tablespoon. Let us measure before we pour.
-
-79
-00:06:30,500 --> 00:06:32,900
-One tablespoon is three teaspoons.
-
-80
-00:06:33,150 --> 00:06:35,980
-The same amount in different measures.
-
-81
-00:06:36,230 --> 00:06:39,490
-Exactly. We add it once, not twice.
-
-82
-00:06:45,500 --> 00:06:49,190
-Half a teaspoon. This is the tiny helper.
-
-83
-00:06:49,440 --> 00:06:52,270
-Small amounts can do important jobs.
-
-84
-00:06:52,520 --> 00:06:55,350
-All four dry ingredients are here.
-
 85
-00:07:00,500 --> 00:07:03,760
-Three for batter. One for the pan.
+00:05:09,740 --> 00:05:13,780
+Mine smell like soap. They're ready for napkin
+duty.
 
 86
-00:07:04,010 --> 00:07:05,810
-Four tablespoons altogether.
+00:05:15,250 --> 00:05:18,410
+Blue for dry ingredients. Yellow for wet.
 
 87
-00:07:06,060 --> 00:07:10,610
-We divide it now so it cannot get lost later.
+00:05:18,560 --> 00:05:20,400
+One batch, two jobs.
 
 88
-00:07:15,500 --> 00:07:18,760
-A small pan for a small job.
+00:05:20,550 --> 00:05:23,710
+And the right measure beside each bowl.
 
 89
-00:07:19,010 --> 00:07:22,270
-Low heat, then we let it cool.
+00:05:23,860 --> 00:05:27,900
+Leo, can you read the first amount for us?
 
 90
-00:07:22,520 --> 00:07:25,350
-The butter gets a quiet morning.
+00:05:30,250 --> 00:05:33,410
+A level cup, not a little mountain.
 
 91
-00:07:30,500 --> 00:07:34,620
-We can mix the dry ingredients while it cools.
+00:05:33,560 --> 00:05:35,400
+My mountains are retiring.
 
 92
-00:07:34,870 --> 00:07:38,990
+00:05:35,550 --> 00:05:38,710
+Good. This recipe needs an even top.
+
+93
+00:05:38,860 --> 00:05:42,900
+Flat across, then. No snowy peaks on this
+breakfast.
+
+94
+00:05:45,250 --> 00:05:47,530
+One cup, then another. Two.
+
+95
+00:05:47,680 --> 00:05:49,520
+Exactly what we need.
+
+96
+00:05:49,670 --> 00:05:53,270
+Now the bag can rest. No third mountain.
+
+97
+00:05:53,420 --> 00:05:57,460
+I liked counting the mountains better than
+carrying them.
+
+98
+00:06:00,250 --> 00:06:02,090
+Two tablespoons of sugar.
+
+99
+00:06:02,240 --> 00:06:05,400
+Not two cups. I read that carefully.
+
+100
+00:06:05,550 --> 00:06:08,270
+A very helpful kind of careful.
+
+101
+00:06:08,420 --> 00:06:12,460
+Two cups of sugar would make an interesting
+morning.
+
+102
+00:06:15,250 --> 00:06:17,530
+Baking powder. The names matter.
+
+103
+00:06:17,680 --> 00:06:19,960
+And the amount matters too.
+
+104
+00:06:20,110 --> 00:06:23,710
+One tablespoon. Let us measure before we pour.
+
+105
+00:06:23,860 --> 00:06:28,340
+I'll keep my finger on that line while you do.
+
+106
+00:06:30,250 --> 00:06:32,530
+One tablespoon is three teaspoons.
+
+107
+00:06:32,680 --> 00:06:35,400
+The same amount in different measures.
+
+108
+00:06:35,550 --> 00:06:38,710
+Exactly. We add it once, not twice.
+
+109
+00:06:38,860 --> 00:06:42,900
+Good. I'd rather count the spoons than start
+over.
+
+110
+00:06:45,250 --> 00:06:48,850
+Half a teaspoon. This is the tiny helper.
+
+111
+00:06:49,000 --> 00:06:51,720
+Small amounts can do important jobs.
+
+112
+00:06:51,870 --> 00:06:54,590
+All four dry ingredients are here.
+
+113
+00:06:54,740 --> 00:06:59,220
+Was that tiny scoop really all the salt it
+needed?
+
+114
+00:07:00,250 --> 00:07:03,410
+Three for batter. One for the pan.
+
+115
+00:07:03,560 --> 00:07:04,960
+Four tablespoons altogether.
+
+116
+00:07:05,110 --> 00:07:09,590
+We divide it now so it cannot get lost later.
+
+117
+00:07:09,740 --> 00:07:13,780
+I'll remember. Three go in, one stays back
+here.
+
+118
+00:07:15,250 --> 00:07:18,410
+A small pan for a small job.
+
+119
+00:07:18,560 --> 00:07:21,720
+Low heat, then we let it cool.
+
+120
+00:07:21,870 --> 00:07:24,590
+The butter gets a quiet morning.
+
+121
+00:07:24,740 --> 00:07:28,780
+And back from the stove till the butter cools.
+
+122
+00:07:30,250 --> 00:07:34,066
+We can mix the dry ingredients while it cools.
+
+123
+00:07:34,216 --> 00:07:38,031
 So waiting still gives us something useful to
 do.
 
-93
-00:07:39,240 --> 00:07:41,210
+124
+00:07:38,181 --> 00:07:39,919
 Exactly. Carefully, not quickly.
 
-94
-00:07:45,500 --> 00:07:49,190
+125
+00:07:40,069 --> 00:07:44,300
+The blue bowl can have our attention in the
+meantime.
+
+126
+00:07:45,250 --> 00:07:48,650
 Two eggs. No shell seats in the bowl.
 
-95
-00:07:49,440 --> 00:07:51,840
+127
+00:07:48,800 --> 00:07:50,953
 Correct. The shells go here.
 
-96
-00:07:52,090 --> 00:07:56,210
+128
+00:07:51,103 --> 00:07:54,919
 And the dry bowl stays over on its mat.
 
-97
-00:08:00,500 --> 00:08:03,760
+129
+00:07:55,069 --> 00:07:59,300
+Good. Nobody wants a crunchy bit of shell at
+breakfast.
+
+130
+00:08:00,250 --> 00:08:03,410
 The shells are away. What is next?
 
-98
-00:08:04,010 --> 00:08:06,840
+131
+00:08:03,560 --> 00:08:06,280
 Clean hands again, then the milk.
 
-99
-00:08:07,090 --> 00:08:10,780
+132
+00:08:06,430 --> 00:08:10,030
 A useful step worth keeping in the plan.
 
-100
-00:08:15,500 --> 00:08:19,620
+133
+00:08:10,180 --> 00:08:14,220
+Yes. I'll meet you back here with clean hands.
+
+134
+00:08:15,250 --> 00:08:18,846
 One and a half cups, right to the line.
 
-101
-00:08:19,870 --> 00:08:22,700
+135
+00:08:18,996 --> 00:08:21,417
 Check it here at eye level.
 
-102
-00:08:22,950 --> 00:08:27,070
+136
+00:08:21,567 --> 00:08:25,163
 Perfect. I will pour it into the wet bowl.
 
-103
-00:08:30,500 --> 00:08:35,050
+137
+00:08:25,313 --> 00:08:29,300
+From up high I thought it needed a little
+more.
+
+138
+00:08:30,250 --> 00:08:34,237
 The rest of the milk goes back in the fridge.
 
-104
-00:08:35,300 --> 00:08:38,560
+139
+00:08:34,387 --> 00:08:37,200
 Yes. We only measured what we needed.
 
-105
-00:08:38,810 --> 00:08:42,070
+140
+00:08:37,350 --> 00:08:40,163
 And the jug has finished its job.
 
-106
-00:08:45,500 --> 00:08:48,330
+141
+00:08:40,313 --> 00:08:44,300
+Good thing our fridge is closer than the fruit
+shop.
+
+142
+00:08:45,250 --> 00:08:47,970
 Eggs, milk, and the cooled butter.
 
-107
-00:08:48,580 --> 00:08:52,700
+143
+00:08:48,120 --> 00:08:52,160
 Three tablespoons. The pan still has its own
 one.
 
-108
-00:08:52,950 --> 00:08:55,350
+144
+00:08:52,310 --> 00:08:54,590
 Our wet ingredients are ready.
 
-109
-00:09:00,500 --> 00:09:03,330
+145
+00:08:54,740 --> 00:08:58,780
+I like knowing exactly where the fourth
+spoonful is.
+
+146
+00:09:00,250 --> 00:09:02,900
 Wet ingredients into the dry bowl.
 
-110
-00:09:03,580 --> 00:09:06,410
+147
+00:09:03,050 --> 00:09:05,700
 One bowl becomes our batter bowl.
 
-111
-00:09:06,660 --> 00:09:10,350
+148
+00:09:05,850 --> 00:09:09,357
 And we keep it steady while we pour.
 
-112
-00:09:15,500 --> 00:09:18,330
+149
+00:09:09,507 --> 00:09:14,300
+A steady bowl is all the help I need right
+now.
+
+150
+00:09:15,250 --> 00:09:17,819
 The yellow bowl is empty now.
 
-113
-00:09:18,580 --> 00:09:21,840
+151
+00:09:17,969 --> 00:09:20,953
 Its work moved into the blue bowl.
 
-114
-00:09:22,090 --> 00:09:25,780
+152
+00:09:21,103 --> 00:09:24,503
 One batch, all together. Now we fold gently.
 
-115
-00:09:30,500 --> 00:09:33,760
+153
+00:09:24,653 --> 00:09:29,300
+I can see the yellow bowl right down to the
+bottom.
+
+154
+00:09:30,250 --> 00:09:33,146
 A gentle fold. Not a breakfast race.
 
-116
-00:09:34,010 --> 00:09:36,410
+155
+00:09:33,296 --> 00:09:35,385
 There are still little lumps.
 
-117
-00:09:36,660 --> 00:09:41,640
+156
+00:09:35,535 --> 00:09:40,044
 That is fine. We do not need to chase every
 one.
 
-118
-00:09:45,500 --> 00:09:47,470
+157
+00:09:40,194 --> 00:09:44,300
+You're sure? That last little lump is looking
+at me.
+
+158
+00:09:45,250 --> 00:09:47,090
 That is enough mixing.
 
-119
-00:09:47,720 --> 00:09:49,690
+159
+00:09:47,240 --> 00:09:49,080
 I helped by stopping?
 
-120
-00:09:49,940 --> 00:09:54,060
+160
+00:09:49,230 --> 00:09:53,270
 Yes. Knowing when to stop is part of helping.
 
-121
-00:10:00,500 --> 00:10:02,900
+161
+00:09:53,420 --> 00:09:57,460
+See how the batter holds together on its own?
+
+162
+00:10:00,250 --> 00:10:02,530
 Does breakfast need a nap?
 
-122
-00:10:03,150 --> 00:10:05,980
+163
+00:10:02,680 --> 00:10:05,400
 Five quiet minutes for the batter.
 
-123
-00:10:06,230 --> 00:10:10,350
+164
+00:10:05,550 --> 00:10:09,590
 Then I will help it by leaving it alone.
 
-124
-00:10:15,500 --> 00:10:17,900
+165
+00:10:09,740 --> 00:10:14,220
+I can be quiet. Do I have to nap too?
+
+166
+00:10:15,250 --> 00:10:17,607
 One plate at every place.
 
-125
-00:10:18,150 --> 00:10:20,120
+167
+00:10:17,757 --> 00:10:19,658
 Six places, six plates.
 
-126
-00:10:20,370 --> 00:10:23,630
+168
+00:10:19,808 --> 00:10:23,074
 No plate needed for the flower vase.
 
-127
-00:10:30,500 --> 00:10:34,190
+169
+00:10:23,224 --> 00:10:27,400
+It can watch from the shelf while we eat.
+
+170
+00:10:30,250 --> 00:10:33,650
 I found a job with no hot pan.
 
-128
-00:10:34,440 --> 00:10:37,270
+171
+00:10:33,800 --> 00:10:36,369
 And I found all six forks.
 
-129
-00:10:37,520 --> 00:10:40,780
+172
+00:10:36,519 --> 00:10:39,503
 You are making breakfast easier for everyone.
 
-130
-00:10:45,500 --> 00:10:49,620
+173
+00:10:39,653 --> 00:10:44,300
+Napkins don't need flipping, do they? That's
+my kind of job.
+
+174
+00:10:45,250 --> 00:10:49,066
 I am resisting a very small urge to stir.
 
-131
-00:10:49,870 --> 00:10:52,270
+175
+00:10:49,216 --> 00:10:51,369
 That looks like excellent work.
 
-132
-00:10:52,520 --> 00:10:56,210
+176
+00:10:51,519 --> 00:10:54,919
 It is. Some jobs are quieter than others.
 
-133
-00:11:00,500 --> 00:11:03,760
+177
+00:10:55,069 --> 00:10:59,300
+My hands didn't know they could be useful like
+this.
+
+178
+00:11:00,250 --> 00:11:03,410
 Five minutes later, our batter is ready.
 
-134
-00:11:04,010 --> 00:11:06,410
+179
+00:11:03,560 --> 00:11:05,840
 And so is the table.
 
-135
-00:11:06,660 --> 00:11:10,780
+180
+00:11:05,990 --> 00:11:10,030
 Waiting helped breakfast move forward. I like
 this system.
 
-136
-00:11:15,500 --> 00:11:18,330
+181
+00:11:10,180 --> 00:11:14,220
+Just think how many extra stirs we saved you.
+
+182
+00:11:15,250 --> 00:11:17,970
 Handle inward. Clear space beside us.
 
-137
-00:11:18,580 --> 00:11:21,410
+183
+00:11:18,120 --> 00:11:20,840
 And only adults at the stove.
 
-138
-00:11:21,660 --> 00:11:25,350
+184
+00:11:20,990 --> 00:11:24,590
 I can follow a very sensible cooking plan.
 
-139
-00:11:30,500 --> 00:11:34,190
+185
+00:11:24,740 --> 00:11:29,220
+Good. Stay beside me where you can see the
+edges.
+
+186
+00:11:30,250 --> 00:11:33,850
 This one tablespoon is for all the batches.
 
-140
-00:11:34,440 --> 00:11:36,840
+187
+00:11:34,000 --> 00:11:36,280
 A little at a time.
 
-141
-00:11:37,090 --> 00:11:40,780
+188
+00:11:36,430 --> 00:11:40,030
 Exactly. A light coat, not a butter pond.
 
-142
-00:11:45,500 --> 00:11:48,760
+189
+00:11:40,180 --> 00:11:43,780
+Our pancakes can swim some other morning,
+then.
+
+190
+00:11:45,250 --> 00:11:48,410
 Two pancakes at a time, six batches.
 
-143
-00:11:49,010 --> 00:11:52,270
+191
+00:11:48,560 --> 00:11:51,720
 Small, even portions from this one bowl.
 
-144
-00:11:52,520 --> 00:11:54,920
+192
+00:11:51,870 --> 00:11:54,150
 And no surprise thirteenth pancake.
 
-145
-00:12:00,500 --> 00:12:04,190
+193
+00:11:54,300 --> 00:11:57,900
+That tray has exactly enough room for
+breakfast.
+
+194
+00:12:00,250 --> 00:12:03,757
 One round pancake. One with an adventurous
 edge.
 
-146
-00:12:04,440 --> 00:12:07,700
+195
+00:12:03,907 --> 00:12:06,986
 Both can still make a good breakfast.
 
-147
-00:12:07,950 --> 00:12:11,210
+196
+00:12:07,136 --> 00:12:10,214
 Then the adventurous one can be mine.
 
-148
-00:12:15,500 --> 00:12:17,300
+197
+00:12:10,364 --> 00:12:14,300
+I'll remember. That edge will be easy to
+recognize.
+
+198
+00:12:15,250 --> 00:12:16,100
 Now?
 
-149
-00:12:17,550 --> 00:12:21,670
+199
+00:12:16,250 --> 00:12:20,290
 Watch the edges. Let the pan do its work.
 
-150
-00:12:21,920 --> 00:12:26,040
+200
+00:12:20,440 --> 00:12:24,480
 Another quiet job. I am getting better at
 those.
 
-151
-00:12:30,500 --> 00:12:34,190
+201
+00:12:24,630 --> 00:12:28,670
+Look there, Dan. The edge is starting to hold.
+
+202
+00:12:30,250 --> 00:12:33,757
 Slide underneath, then turn close to the pan.
 
-152
-00:12:34,440 --> 00:12:36,240
+203
+00:12:33,907 --> 00:12:35,271
 No flying breakfast.
 
-153
-00:12:36,490 --> 00:12:40,610
+204
+00:12:35,421 --> 00:12:39,357
 Exactly. The table is our destination, not the
 ceiling.
 
-154
-00:12:45,500 --> 00:12:49,620
+205
+00:12:39,507 --> 00:12:44,300
+The ceiling already has plenty to do holding
+up the lights.
+
+206
+00:12:45,250 --> 00:12:49,066
 It is cooked through, even with the unusual
 edge.
 
-155
-00:12:49,870 --> 00:12:52,700
+207
+00:12:49,216 --> 00:12:51,784
 Yes. Crooked does not mean wasted.
 
-156
-00:12:52,950 --> 00:12:56,640
+208
+00:12:51,934 --> 00:12:55,334
 I am glad we checked instead of guessing.
 
-157
-00:13:00,500 --> 00:13:03,760
+209
+00:12:55,484 --> 00:12:59,300
+And you know which one is yours at breakfast.
+
+210
+00:13:00,250 --> 00:13:03,410
 I thought helping meant doing something
 impressive.
 
-158
-00:13:04,010 --> 00:13:06,410
+211
+00:13:03,560 --> 00:13:05,840
 Doing it carefully is useful.
 
-159
-00:13:06,660 --> 00:13:09,490
+212
+00:13:05,990 --> 00:13:08,710
 Then I will try useful again.
 
-160
-00:13:15,500 --> 00:13:18,330
+213
+00:13:08,860 --> 00:13:13,340
+Good. Watch how that first pair lies on the
+tray.
+
+214
+00:13:15,250 --> 00:13:17,970
 Two more. Smaller movements this time.
 
-161
-00:13:18,580 --> 00:13:20,980
+215
+00:13:18,120 --> 00:13:20,400
 They have room to cook.
 
-162
-00:13:21,230 --> 00:13:24,920
+216
+00:13:20,550 --> 00:13:24,150
 The pan and I are learning to cooperate.
 
-163
-00:13:30,500 --> 00:13:33,330
+217
+00:13:24,300 --> 00:13:28,340
+I can tell. Neither pancake is touching its
+neighbor.
+
+218
+00:13:30,250 --> 00:13:32,671
 Slide, flip, and keep it low.
 
-164
-00:13:33,580 --> 00:13:37,270
+219
+00:13:32,821 --> 00:13:36,025
 Good. Now the second sides need their time.
 
-165
-00:13:37,520 --> 00:13:42,070
+220
+00:13:36,175 --> 00:13:40,163
 I will not rush the other half of the job.
 
-166
-00:13:45,500 --> 00:13:47,300
+221
+00:13:40,313 --> 00:13:44,300
+Good. They'll be ready together if we leave
+them be.
+
+222
+00:13:45,250 --> 00:13:46,650
 Four pancakes ready.
 
-167
-00:13:47,550 --> 00:13:50,380
+223
+00:13:46,800 --> 00:13:49,520
 And every one is cooked through.
 
-168
-00:13:50,630 --> 00:13:54,750
+224
+00:13:49,670 --> 00:13:53,710
 Our breakfast is growing at a very sensible
 size.
 
-169
-00:14:00,500 --> 00:14:03,330
+225
+00:13:53,860 --> 00:13:57,900
+And Dan can still spot the one he's claimed.
+
+226
+00:14:00,250 --> 00:14:02,970
 Same small portions. Same patient turn.
 
-170
-00:14:03,580 --> 00:14:07,270
+227
+00:14:03,120 --> 00:14:06,720
 That is how a plan becomes a habit.
 
-171
-00:14:07,520 --> 00:14:10,350
+228
+00:14:06,870 --> 00:14:09,590
 A habit that smells rather good.
 
-172
-00:14:15,500 --> 00:14:17,470
+229
+00:14:09,740 --> 00:14:13,780
+The next pair gets the same amount of space.
+
+230
+00:14:15,250 --> 00:14:17,090
 Six. Are we finished?
 
-173
-00:14:17,720 --> 00:14:20,120
+231
+00:14:17,240 --> 00:14:19,520
 Halfway. Six more to cook.
 
-174
-00:14:20,370 --> 00:14:24,490
+232
+00:14:19,670 --> 00:14:23,710
 We will share breakfast when everyone has
 their two.
 
-175
-00:14:30,500 --> 00:14:32,900
+233
+00:14:23,860 --> 00:14:28,340
+So the people waiting get the same breakfast I
+get.
+
+234
+00:14:30,250 --> 00:14:32,530
 The bowl is getting lower.
 
-176
-00:14:33,150 --> 00:14:35,120
+235
+00:14:32,680 --> 00:14:34,520
 Exactly as it should.
 
-177
-00:14:35,370 --> 00:14:39,490
+236
+00:14:34,670 --> 00:14:38,710
 No mystery refill. Just breakfast moving to
 the tray.
 
-178
-00:14:45,500 --> 00:14:48,330
+237
+00:14:38,860 --> 00:14:42,900
+And the crooked one is still easy to find.
+
+238
+00:14:45,250 --> 00:14:47,819
 Eight ready. Four still to come.
 
-179
-00:14:48,580 --> 00:14:51,840
+239
+00:14:47,969 --> 00:14:50,953
 The last pairs deserve the same care.
 
-180
-00:14:52,090 --> 00:14:56,210
+240
+00:14:51,103 --> 00:14:54,919
 And the first crooked one still has its place.
 
-181
-00:15:00,500 --> 00:15:05,050
+241
+00:14:55,069 --> 00:14:59,300
+Dan may be the only one rooting for that edge.
+
+242
+00:15:00,250 --> 00:15:04,481
 I do not feel the need to show off now.
 
-182
-00:15:05,300 --> 00:15:08,130
+243
+00:15:04,631 --> 00:15:07,200
 You look comfortable with the work.
 
-183
-00:15:08,380 --> 00:15:11,210
+244
+00:15:07,350 --> 00:15:09,919
 That is a much nicer feeling.
 
-184
-00:15:15,500 --> 00:15:19,620
+245
+00:15:10,069 --> 00:15:14,300
+Keep that easy grip. The pancakes seem to like
+it.
+
+246
+00:15:15,250 --> 00:15:19,066
 The table is ready whenever the last two are.
 
-185
-00:15:19,870 --> 00:15:22,700
+247
+00:15:19,216 --> 00:15:21,784
 One pair left, not another batch.
 
-186
-00:15:22,950 --> 00:15:25,780
+248
+00:15:21,934 --> 00:15:24,503
 Then we can all begin together.
 
-187
-00:15:30,500 --> 00:15:34,190
+249
+00:15:24,653 --> 00:15:29,300
+I can hear the pan from my place at the table.
+
+250
+00:15:30,250 --> 00:15:33,650
 The last two portions, from our one bowl.
 
-188
-00:15:34,440 --> 00:15:37,700
+251
+00:15:33,800 --> 00:15:36,784
 Small and even. Use what we made.
 
-189
-00:15:37,950 --> 00:15:41,640
+252
+00:15:36,934 --> 00:15:40,334
 No refill needed. The plan reaches the end.
 
-190
-00:15:45,500 --> 00:15:48,330
+253
+00:15:40,484 --> 00:15:44,300
+Tilt it a little. There's your second little
+scoop.
+
+254
+00:15:45,250 --> 00:15:47,970
 Twelve small pancakes, ready to share.
 
-191
-00:15:48,580 --> 00:15:50,980
+255
+00:15:48,120 --> 00:15:50,400
 Including our first adventurous one.
 
-192
-00:15:51,230 --> 00:15:54,920
+256
+00:15:50,550 --> 00:15:54,150
 Every pancake has reached the cooked tray
 safely.
 
-193
-00:16:00,500 --> 00:16:03,330
+257
+00:15:54,300 --> 00:15:58,780
+I know exactly which one I'm looking for on
+there.
+
+258
+00:16:00,250 --> 00:16:02,970
 Breakfast is cooked. One more job.
 
-194
-00:16:03,580 --> 00:16:06,410
+259
+00:16:03,120 --> 00:16:05,840
 Stove off. Hot pan stays here.
 
-195
-00:16:06,660 --> 00:16:09,920
+260
+00:16:05,990 --> 00:16:09,150
 A good ending for the cooking part.
 
-196
-00:16:15,500 --> 00:16:19,190
+261
+00:16:09,300 --> 00:16:13,780
+Yes. We'll leave the handle turned in while it
+cools.
+
+262
+00:16:15,250 --> 00:16:18,850
 Raw preparation tools here. Clean serving
 tools there.
 
-197
-00:16:19,440 --> 00:16:21,410
+263
+00:16:19,000 --> 00:16:20,840
 Two jobs kept separate.
 
-198
-00:16:21,660 --> 00:16:25,780
+264
+00:16:20,990 --> 00:16:25,030
 And no batter left waiting for a secret
 pancake.
 
-199
-00:16:30,500 --> 00:16:33,330
+265
+00:16:25,180 --> 00:16:28,780
+Good. I'll take the clean ones for serving.
+
+266
+00:16:30,250 --> 00:16:32,819
 Two halves still make one pancake.
 
-200
-00:16:33,580 --> 00:16:36,410
+267
+00:16:32,969 --> 00:16:35,538
 That one is mine, as promised.
 
-201
-00:16:36,660 --> 00:16:41,210
+268
+00:16:35,688 --> 00:16:39,919
 With one whole pancake. The same two each for
 everyone.
 
-202
-00:16:45,500 --> 00:16:50,480
+269
+00:16:40,069 --> 00:16:44,300
+I wouldn't trade the crooked edge for a round
+one.
+
+270
+00:16:45,250 --> 00:16:50,081
 The food goes to the table. The hot pan stays
 behind.
 
-203
-00:16:50,730 --> 00:16:52,530
+271
+00:16:50,231 --> 00:16:51,066
 Exactly.
 
-204
-00:16:52,780 --> 00:16:56,900
+272
+00:16:51,216 --> 00:16:55,183
 Six places are waiting for what we made
 together.
 
-205
-00:17:00,500 --> 00:17:03,760
+273
+00:16:55,333 --> 00:16:59,300
+Let's carry the cooked pancakes while they're
+still warm.
+
+274
+00:17:00,250 --> 00:17:03,410
 My unusual pancake made it to breakfast.
 
-206
-00:17:04,010 --> 00:17:06,410
+275
+00:17:03,560 --> 00:17:05,840
 Cooked, checked, and not wasted.
 
-207
-00:17:06,660 --> 00:17:09,490
+276
+00:17:05,990 --> 00:17:08,710
 It has a very satisfying story.
 
-208
-00:17:15,500 --> 00:17:17,300
+277
+00:17:08,860 --> 00:17:12,900
+And a little edge of its own to recognize.
+
+278
+00:17:15,250 --> 00:17:16,210
 Two here.
 
-209
-00:17:17,550 --> 00:17:21,670
+279
+00:17:16,360 --> 00:17:20,400
 And two here. We helped those ingredients
 become breakfast.
 
-210
-00:17:21,920 --> 00:17:25,180
+280
+00:17:20,550 --> 00:17:23,710
 You did. Now we finish sharing it.
 
-211
-00:17:30,500 --> 00:17:34,190
+281
+00:17:23,860 --> 00:17:27,900
+I can see the crooked one from my place.
+
+282
+00:17:30,250 --> 00:17:33,850
 Two for me. Two for each of you.
 
-212
-00:17:34,440 --> 00:17:36,410
+283
+00:17:34,000 --> 00:17:35,840
 Everyone has their share.
 
-213
-00:17:36,660 --> 00:17:39,920
+284
+00:17:35,990 --> 00:17:39,150
 And the tray has finished its job.
 
-214
-00:17:45,500 --> 00:17:48,760
+285
+00:17:39,300 --> 00:17:43,340
+Even the adults got two. We counted them
+right.
+
+286
+00:17:45,250 --> 00:17:48,410
 Six people. Twelve pancakes. Breakfast is
 here.
 
-215
-00:17:49,010 --> 00:17:51,840
+287
+00:17:48,560 --> 00:17:51,280
 And no vase needed a plate.
 
-216
-00:17:52,090 --> 00:17:55,350
+288
+00:17:51,430 --> 00:17:54,590
 That is a relief for the vase.
 
-217
-00:18:00,500 --> 00:18:02,900
+289
+00:17:54,740 --> 00:17:58,780
+Can we find out what they taste like now?
+
+290
+00:18:00,250 --> 00:18:02,471
 How is the adventurous one?
 
-218
-00:18:03,150 --> 00:18:07,700
+291
+00:18:02,621 --> 00:18:06,986
 Very good. It tastes like a pancake, not a
 mistake.
 
-219
-00:18:07,950 --> 00:18:10,780
+292
+00:18:07,136 --> 00:18:09,786
 That was worth a little patience.
 
-220
-00:18:15,500 --> 00:18:17,470
+293
+00:18:09,936 --> 00:18:14,300
+I'm glad we kept it. I'd have missed this
+bite.
+
+294
+00:18:15,250 --> 00:18:17,090
 I helped make these.
 
-221
-00:18:17,720 --> 00:18:19,690
+295
+00:18:17,240 --> 00:18:19,080
 Your careful measuring helped.
 
-222
-00:18:19,940 --> 00:18:24,490
+296
+00:18:19,230 --> 00:18:23,710
 And all those small jobs made something we
 could share.
 
-223
-00:18:30,500 --> 00:18:33,330
+297
+00:18:23,860 --> 00:18:28,340
+Next time I'll know which spoon to pick up
+first.
+
+298
+00:18:30,250 --> 00:18:32,900
 The vase did not help much.
 
-224
-00:18:33,580 --> 00:18:36,840
+299
+00:18:33,050 --> 00:18:36,128
 It helped me ask a better question.
 
-225
-00:18:37,090 --> 00:18:41,210
+300
+00:18:36,278 --> 00:18:40,214
 And it had a very peaceful morning after that.
 
-226
-00:18:45,500 --> 00:18:49,190
+301
+00:18:40,364 --> 00:18:44,300
+Maybe it could teach the batter how to nap.
+
+302
+00:18:45,250 --> 00:18:48,650
 I thought asking would make me less helpful.
 
-227
-00:18:49,440 --> 00:18:52,270
+303
+00:18:48,800 --> 00:18:51,369
 It helped us understand each other.
 
-228
-00:18:52,520 --> 00:18:55,780
+304
+00:18:51,519 --> 00:18:54,503
 And it gave everyone room to help.
 
-229
-00:19:00,500 --> 00:19:03,330
+305
+00:18:54,653 --> 00:18:59,300
+That's a job I can start before I touch a
+spoon.
+
+306
+00:19:00,250 --> 00:19:02,970
 Dad's breakfast came in extra pieces.
 
-230
-00:19:03,580 --> 00:19:07,270
+307
+00:19:03,120 --> 00:19:06,720
 The same two pancakes, with a different shape.
 
-231
-00:19:07,520 --> 00:19:10,350
+308
+00:19:06,870 --> 00:19:09,590
 A very individual breakfast. I approve.
 
-232
-00:19:15,500 --> 00:19:17,900
+309
+00:19:09,740 --> 00:19:13,780
+I think your pancake looks happier that way,
+Dad.
+
+310
+00:19:15,250 --> 00:19:17,403
 My school shoes feel tight.
 
-233
-00:19:18,150 --> 00:19:21,410
+311
+00:19:17,553 --> 00:19:20,538
 We can check the fit after breakfast.
 
-234
-00:19:21,660 --> 00:19:26,210
+312
+00:19:20,688 --> 00:19:24,919
 I will start by reading the labels. That seems
 useful.
 
-235
-00:19:30,500 --> 00:19:35,480
+313
+00:19:25,069 --> 00:19:29,300
+Can I pick a pair with room for my toes?
+
+314
+00:19:30,250 --> 00:19:34,897
 We found the tools, made breakfast, and even
 cleared the plates.
 
-236
-00:19:35,730 --> 00:19:37,700
+315
+00:19:35,047 --> 00:19:36,784
 A very successful morning.
 
-237
-00:19:37,950 --> 00:19:41,640
+316
+00:19:36,934 --> 00:19:40,334
 And we all had a part in it.
 
-238
-00:19:45,500 --> 00:19:48,330
+317
+00:19:40,484 --> 00:19:44,300
+Especially the people who knew where the flour
+was.
+
+318
+00:19:45,250 --> 00:19:47,970
 No bouquet. A very good breakfast.
 
-239
-00:19:48,580 --> 00:19:50,550
+319
+00:19:48,120 --> 00:19:49,960
 Exactly what we needed.
 
-240
-00:19:50,800 --> 00:19:54,920
+320
+00:19:50,110 --> 00:19:54,150
 And the pancakes never had to learn to grow.
+
+321
+00:19:54,300 --> 00:19:57,900
+Good thing. We'd still be waiting for
+breakfast!

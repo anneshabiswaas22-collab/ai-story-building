@@ -2,22 +2,24 @@
 
 **One complete planned story at a time.** An original 3D animated American-English family comedy with six recurring family characters: Dan, Maya, Nina, Leo, Ella and Max.
 
-**Storyboard milestone (2026-11-16): 200/200 unique PNG storyboard sheets saved on `main`, covering 800 authored shot concepts.** Strict full-art structural checks and all 104 automated tests passed. These are still **unapproved visual drafts**, not approved motion first frames or completed animated movies. See [current production status](CURRENT_PRODUCTION_STATUS.md); always run `python tools/list_missing_storyboards.py` for a live count.
+**Generating a 15-second clip.** Open the episode’s `VIDEO_PROMPTS.md` and copy one numbered shot. Its delivery line gives clip-local speaker windows. Let the physical action continue while the characters speak, with the last reaction carrying into the cut. The same words and times appear in the episode’s full-length `SUBTITLES.srt`. The board and panel number point to the matching composition. Upload a reviewed single frame for the shot. Keep the storyboard grid and shot badge out of the movie.
 
-## Episode folders
+All ten stories run 20 minutes each. The [panel repair log](docs/STORYBOARD_REPAIR_LOG.md) and [shot-by-shot findings](docs/qa/) identify pictures that still need attention.
 
-| Folder | Status |
-|---|---|
-| [Episode_01](Episode_01/) | **Rebuilt 80-shot preproduction:** 20-minute script, 20 regenerated storyboard sheets illustrating SHOT_001–SHOT_080, aligned prompts and subtitles, original cast references |
-| [Episode_02](Episode_02/) | **Story and visual preproduction draft:** fruit-shop/picnic screenplay, 80 prompts and matching subtitles, 20 four-panel storyboard PNGs illustrating all 80 concepts, 14 shared cast previews, five environment references and editable overlays; creator approval, motion first frames, voices and video pending |
-| [Episode_03](Episode_03/) | **Story and visual preproduction draft:** pancake breakfast comedy, 80 shots and matching prompts/subtitles, 20 illustrated storyboard sheets, shared cast, five home-reference views and editable recipe graphics |
-| [Episode_04](Episode_04/) | 80-shot written package; **20/20** storyboard sheets; documented shoe, prop and panel-layout corrections pending |
-| [Episode_05](Episode_05/) | 80-shot written package; 20-board set saved in Git; visual corrections and creator acceptance pending |
-| [Episode_06](Episode_06/) | 80-shot written package; **20/20** boards; known restaurant visual corrections pending |
-| [Episode_07](Episode_07/) | 80-shot written package; 20-board set saved in Git; visual corrections and creator acceptance pending |
-| [Episode_08](Episode_08/) | 80-shot written package; check the live image inventory below; visual corrections and creator acceptance pending |
-| [Episode_09](Episode_09/) | 80-shot written package; check the live image inventory below; visual corrections and creator acceptance pending |
-| [Episode_10](Episode_10/) | 80-shot written package; check the live image inventory below; visual corrections and creator acceptance pending |
+## Episodes
+
+| Episode | Story | 15-second clips | Storyboard findings |
+|---|---|---|---|
+| 01 | [Two Lists, One Dad](Episode_01/STORY.md) | [80 prompts](Episode_01/VIDEO_PROMPTS.md) | [Review by shot](docs/qa/Episode_01.tsv) |
+| 02 | [Dad Bought the Sourest Fruit!](Episode_02/STORY.md) | [80 prompts](Episode_02/VIDEO_PROMPTS.md) | [Review by shot](docs/qa/Episode_02.tsv) |
+| 03 | [Flowers in the Pancakes?!](Episode_03/STORY.md) | [80 prompts](Episode_03/VIDEO_PROMPTS.md) | [Review by shot](docs/qa/Episode_03.tsv) |
+| 04 | [Dad Tried On the Wrong Shoes!](Episode_04/STORY.md) | [80 prompts](Episode_04/VIDEO_PROMPTS.md) | [Review by shot](docs/qa/Episode_04.tsv) |
+| 05 | [The Picnic Is on the Wrong Bench!](Episode_05/STORY.md) | [80 prompts](Episode_05/VIDEO_PROMPTS.md) | [Review by shot](docs/qa/Episode_05.tsv) |
+| 06 | [Dad Said Hot, but Meant Warm!](Episode_06/STORY.md) | [80 prompts](Episode_06/VIDEO_PROMPTS.md) | [Review by shot](docs/qa/Episode_06.tsv) |
+| 07 | [Right Bus, Wrong Stop!](Episode_07/STORY.md) | [80 prompts](Episode_07/VIDEO_PROMPTS.md) | [Review by shot](docs/qa/Episode_07.tsv) |
+| 08 | [Grandma’s Suitcase Has Everyone’s Socks!](Episode_08/STORY.md) | [80 prompts](Episode_08/VIDEO_PROMPTS.md) | [Review by shot](docs/qa/Episode_08.tsv) |
+| 09 | [Can Dad Grow Money?](Episode_09/STORY.md) | [80 prompts](Episode_09/VIDEO_PROMPTS.md) | [Review by shot](docs/qa/Episode_09.tsv) |
+| 10 | [The Party Cake Went to the Wrong House!](Episode_10/STORY.md) | [80 prompts](Episode_10/VIDEO_PROMPTS.md) | [Review by shot](docs/qa/Episode_10.tsv) |
 
 Read [EPISODE_IDEAS.md](EPISODE_IDEAS.md) for the planned first ten stories. Episodes 01–10 have authored story packages; the continuation packages follow the Episode 02/03 handoff structure. Read [SERIES_REVIEW.md](SERIES_REVIEW.md) for the completed Episode 01–03 analysis and [WORK_CHECKPOINT.md](WORK_CHECKPOINT.md) for remote backup/recovery status. Illustrated packages are visual drafts pending creator approval, not completed animation or performed voices.
 
@@ -101,17 +103,3 @@ python -m unittest discover -s tests -v
 The production handoff includes **800 shot-level JSONL specifications**, an 800-row status index, **790 adjacent-shot continuity-review pairs**, a voice-dialogue workload table, and episode-level subtitle/pacing statistics. All reference candidates, action/open/end states and script dialogue are extracted from current episode sources and validated against prompts/SRT. No motion first frame, voice performance, generated image or finished film is claimed. GitHub Actions uploads these files in its `episode-audit-and-shot-manifest` artifact.
 
 Since the 200/200 storyboard merge, both `python tools/check_series.py --strict-art` and `python tools/audit_series.py --strict-art` pass on the completed `main` inventory and now run in CI. Both must fail if required artwork is later missing or invalid. Historical missing-image descriptions in `CODEX_IMAGE_TASKS.md` should not be treated as a live generation queue; existing visual-correction targets still require verification and review.
-
-## Live storyboard inventory (for Codex cloud checkpoints)
-
-Always fetch the newest approved Git branch and run:
-
-```bash
-python tools/list_missing_storyboards.py
-python tools/list_missing_storyboards.py --limit 12
-python tools/list_missing_storyboards.py --json
-```
-
-This is a **filename-presence** counter only. It never changes artwork and never certifies image quality, character likeness, or creator approval. Run `python tools/audit_series.py` and the episode checker for structural image validation; review all generated pixels against the original cast and continuity references.
-
-Do **not** use the historical missing-board list in `CODEX_IMAGE_TASKS.md` to regenerate boards already pushed. After each new board: image generation → inspect → commit → push → verify remote SHA → regenerate the next live inventory. Branches awaiting merge must be checked separately from `main` to avoid losing Codex work.

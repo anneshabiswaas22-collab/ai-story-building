@@ -36,9 +36,13 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** This is one card, not the two old vegetable notes. Home fridge rear-left, sink rear, stove rear-right remain fixed.
 
 **Dialogue:**
-**MAYA:** One list, two colors. Just as promised.  
-**DAN:** Excellent. Yesterday my shopping needed a referee.  
-**NINA:** Today we are all coming with you.  
+**MAYA:** One list, two colors. Just as promised.
+
+**DAN:** Excellent. Yesterday my shopping needed a referee.
+
+**NINA:** Today we are all coming with you.
+
+**MAYA:** Good. I want to hear how you explain those colors, Dan.
 
 ### SHOT_002 | 00:00:15–00:00:30 | A picnic close to home
 
@@ -52,9 +56,13 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** All six will shop together. The picnic is in HOME_GARDEN, not the later park episode.
 
 **Dialogue:**
-**ELLA:** Can we have our picnic under our tree?  
-**MAYA:** Yes. We can make fruit salad first.  
-**MAX:** Then our lunch will have a very short journey.  
+**ELLA:** Can we have our picnic under our tree?
+
+**MAYA:** Yes. We can make fruit salad first.
+
+**MAX:** Then our lunch will have a very short journey.
+
+**ELLA:** The shade under that tree is just the right size.
 
 ### SHOT_003 | 00:00:30–00:00:45 | A real limit
 
@@ -68,9 +76,13 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** The spending limit is $16 even though the payment bill is $20. Prices later include any tax.
 
 **Dialogue:**
-**LEO:** Sixteen dollars for fruit. That is our limit.  
-**DAN:** But I have twenty.  
-**NINA:** Four dollars already have another job. Let us keep them.  
+**LEO:** Sixteen dollars for fruit. That is our limit.
+
+**DAN:** But I have twenty.
+
+**NINA:** Four dollars already have another job. Let us keep them.
+
+**DAN:** Four stays out. Sixteen is what we can spend.
 
 ### SHOT_004 | 00:00:45–00:01:00 | What we already own
 
@@ -84,9 +96,15 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** One cooler and one woven basket only. Household picnic supplies do not use the $16 fruit budget.
 
 **Dialogue:**
-**ELLA:** Plates, forks, napkins, water. We have these already.  
-**MAX:** Is the blanket on the list?  
-**NINA:** Yes. Lunch needs somewhere comfortable to sit.  
+**ELLA:** Plates, forks, napkins, water. We have these already.
+
+**MAX:** Is the blanket on the list?
+
+**NINA:** Yes. Lunch needs somewhere comfortable to sit.
+
+**ELLA:** Let's take the blanket, then.
+
+**MAX:** Good. Grass makes my knees itch.
 
 ### SHOT_005 | 00:01:00–00:01:15 | The size champion
 
@@ -100,9 +118,13 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** Dan’s dark watch stays on anatomical LEFT wrist. No fruit appears in the basket during the gesture.
 
 **Dialogue:**
-**DAN:** I will choose the biggest fruit in the shop.  
-**MAYA:** Choose fruit we will enjoy.  
-**LEO:** And fruit we can actually carry.  
+**DAN:** I will choose the biggest fruit in the shop.
+
+**MAYA:** Choose fruit we will enjoy.
+
+**LEO:** And fruit we can actually carry.
+
+**DAN:** You're taking all the fun out of showing off.
 
 ### SHOT_006 | 00:01:15–00:01:30 | The basket has an opinion
 
@@ -116,9 +138,13 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** The basket has a fixed size throughout; it will never stretch to accommodate the rejected watermelon.
 
 **Dialogue:**
-**MAX:** What if the biggest fruit is bigger than our basket?  
-**DAN:** Then the basket will need confidence.  
-**MAX:** I think it needs a bigger door.  
+**MAX:** What if the biggest fruit is bigger than our basket?
+
+**DAN:** Then the basket will need confidence.
+
+**MAX:** I think it needs a bigger door.
+
+**DAN:** Let's look at the basket before we choose a winner.
 
 ### SHOT_007 | 00:01:30–00:01:45 | Everyone has a job
 
@@ -132,9 +158,13 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** Maya and Nina share decisions as equals. No shopping role sends a child away from the group.
 
 **Dialogue:**
-**MAYA:** Ella and I will check the fruit.  
-**NINA:** Max and I can compare tastes.  
-**LEO:** I will watch the prices. Dad can listen.  
+**MAYA:** Ella and I will check the fruit.
+
+**NINA:** Max and I can compare tastes.
+
+**LEO:** I will watch the prices. Dad can listen.
+
+**DAN:** Listening. That's a shopping job I haven't tried.
 
 ### SHOT_008 | 00:01:45–00:02:00 | Out together
 
@@ -148,9 +178,13 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** Cut after departure to compress the uneventful walk. Do not imply the picnic has already happened.
 
 **Dialogue:**
-**DAN:** Six family members. One list. One modest basket.  
-**MAX:** And one very confident fruit expert.  
-**DAN:** I appreciate the promotion.  
+**DAN:** Six family members. One list. One modest basket.
+
+**MAX:** And one very confident fruit expert.
+
+**DAN:** I appreciate the promotion.
+
+**LEO:** It's a trial position. Let's see what you choose.
 
 ### SHOT_009 | 00:02:00–00:02:15 | The fruit shop
 
@@ -164,9 +198,13 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** New fruit-shop visual draft is available in assets/environments/; creator approval is pending. Do not reuse a vegetable stall image as if approved for this shop.
 
 **Dialogue:**
-**ELLA:** Apples, peaches, strawberries. It smells wonderful.  
-**DAN:** And there is the champion!  
-**MAYA:** Let us meet the fruit before we award prizes.  
+**ELLA:** Apples, peaches, strawberries. It smells wonderful.
+
+**DAN:** And there is the champion!
+
+**MAYA:** Let us meet the fruit before we award prizes.
+
+**NINA:** Are we handing out medals before we've seen the prices?
 
 ### SHOT_010 | 00:02:15–00:02:30 | A champion in a cradle
 
@@ -180,9 +218,13 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** The $8 melon is never selected, weighed, cut, purchased or eaten. No child lifts it.
 
 **Dialogue:**
-**DAN:** That watermelon could feed a whole picnic.  
-**LEO:** It costs eight dollars.  
-**MAX:** It could also be the picnic table.  
+**DAN:** That watermelon could feed a whole picnic.
+
+**LEO:** It costs eight dollars.
+
+**MAX:** It could also be the picnic table.
+
+**DAN:** Half our money on one fruit? That's quite a table.
 
 ### SHOT_011 | 00:02:30–00:02:45 | No room at the rim
 
@@ -196,9 +238,13 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** One supported size comparison only. Keep counter clear and children’s fingers away from the cradle edge.
 
 **Dialogue:**
-**MAYA:** It will not fit.  
-**DAN:** Perhaps diagonally?  
-**MAX:** Dad, it is already round in every direction.  
+**MAYA:** It will not fit.
+
+**DAN:** Perhaps diagonally?
+
+**MAX:** Dad, it is already round in every direction.
+
+**DAN:** It does seem to be winning against the basket.
 
 ### SHOT_012 | 00:02:45–00:03:00 | The little yellow orange
 
@@ -212,9 +258,13 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** Whole display lemon will be returned before sampling. Its identity is a lemon even while Dan guesses incorrectly.
 
 **Dialogue:**
-**DAN:** A tiny yellow orange. Finally, something basket-sized.  
-**ELLA:** It has pointy ends.  
-**NINA:** Let us check what it is before we choose.  
+**DAN:** A tiny yellow orange. Finally, something basket-sized.
+
+**ELLA:** It has pointy ends.
+
+**NINA:** Let us check what it is before we choose.
+
+**ELLA:** A real orange doesn't usually have that little nose.
 
 ### SHOT_013 | 00:03:00–00:03:15 | More than one clue
 
@@ -228,9 +278,13 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** Use exact editorial labels for fruit names. Shape, label and intended use matter; size alone does not establish taste.
 
 **Dialogue:**
-**ELLA:** The oranges are rounder. This one looks different.  
-**MAYA:** The label says lemon.  
-**DAN:** Then my orange is using a different name.  
+**ELLA:** The oranges are rounder. This one looks different.
+
+**MAYA:** The label says lemon.
+
+**DAN:** Then my orange is using a different name.
+
+**MAYA:** That name might explain why it smells so different.
 
 ### SHOT_014 | 00:03:15–00:03:30 | An invitation to compare
 
@@ -244,9 +298,13 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** Samples belong to a separate free tasting supply, not the nine purchase lines. No visible or voiced vendor is introduced.
 
 **Dialogue:**
-**NINA:** We can compare a lemon sample with an orange sample.  
-**MAX:** A tiny taste?  
-**NINA:** If you want one. First, clean hands.  
+**NINA:** We can compare a lemon sample with an orange sample.
+
+**MAX:** A tiny taste?
+
+**NINA:** If you want one. First, clean hands.
+
+**MAX:** Okay. I want to see Dad's face first, though.
 
 ### SHOT_015 | 00:03:30–00:03:45 | A little hesitation
 
@@ -260,9 +318,13 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** The misunderstanding is small and repairable. No ridicule, argument or pressure to taste.
 
 **Dialogue:**
-**DAN:** I was rather sure about my tiny orange.  
-**LEO:** You can change your mind.  
-**MAYA:** We came to choose together, remember?  
+**DAN:** I was rather sure about my tiny orange.
+
+**LEO:** You can change your mind.
+
+**MAYA:** We came to choose together, remember?
+
+**DAN:** Right. You can all help me pick a better name.
 
 ### SHOT_016 | 00:03:45–00:04:00 | Putting a guess down
 
@@ -276,8 +338,13 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** The later purchased lemon is selected at SHOT_031. Sampling never removes or cuts this display lemon.
 
 **Dialogue:**
-**DAN:** Back you go. I should have asked your name.  
-**ELLA:** The card has lemons and oranges. We can choose both for different reasons.  
+**DAN:** Back you go. I should have asked your name.
+
+**ELLA:** The card has both. We can use them for different things.
+
+**DAN:** So which one should taste sweeter?
+
+**ELLA:** Let's find out before you guess again.
 
 ### SHOT_017 | 00:04:00–00:04:15 | A proper washing pause
 
@@ -291,9 +358,13 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** The handwashing takes longer in story time than this 15-second slot. Sink is a designated customer handwashing sink, not a fruit display.
 
 **Dialogue:**
-**MAX:** Do lemons need us to wash our hands?  
-**NINA:** The food does. We will all take a turn.  
-**DAN:** Even the fruit expert.  
+**MAX:** Do lemons need us to wash our hands?
+
+**NINA:** The food does. We will all take a turn.
+
+**DAN:** Even the fruit expert.
+
+**ELLA:** Even experts touch baskets and door handles.
 
 ### SHOT_018 | 00:04:15–00:04:30 | Two separate sample plates
 
@@ -307,9 +378,13 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** No shared bites or double dipping. Samples have no peel, seeds or dangerous large pieces; no cutting tools enter the frame.
 
 **Dialogue:**
-**NINA:** These are fresh lemon samples. A small taste is enough.  
-**MAX:** You first, Dad.  
-**DAN:** A fair request from my assistant.  
+**NINA:** These are fresh lemon samples. A small taste is enough.
+
+**MAX:** You first, Dad.
+
+**DAN:** A fair request from my assistant.
+
+**MAX:** I'm watching your eyebrows. They always give you away.
 
 ### SHOT_019 | 00:04:30–00:04:45 | The sour surprise
 
@@ -323,9 +398,13 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** Play the pucker gently, without choking, spitting food, throwing fruit or suggesting injury.
 
 **Dialogue:**
-**DAN:** Oh! That is definitely not a tiny orange.  
-**MAX:** Your face folded up!  
-**DAN:** It discovered a very powerful lemon.  
+**DAN:** Oh! That is definitely not a tiny orange.
+
+**MAX:** Your face folded up!
+
+**DAN:** It discovered a very powerful lemon.
+
+**NINA:** Those eyebrows just told us exactly how strong it is.
 
 ### SHOT_020 | 00:04:45–00:05:00 | Is sour the same as bad?
 
@@ -339,9 +418,13 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** This is a question about normal lemon flavor, never an instruction to taste suspect or spoiled food.
 
 **Dialogue:**
-**MAX:** If it is sour, is it spoiled?  
-**NINA:** No. Fresh lemons are naturally sour.  
-**DAN:** My surprise was bigger than the sample.  
+**MAX:** If it is sour, is it spoiled?
+
+**NINA:** No. Fresh lemons are naturally sour.
+
+**DAN:** My surprise was bigger than the sample.
+
+**NINA:** Your nose certainly had something to say about it.
 
 ### SHOT_021 | 00:05:00–00:05:15 | A reassuring difference
 
@@ -355,9 +438,13 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** Suspect food is rejected without tasting. A normally sour fresh lemon is not a spoiled orange.
 
 **Dialogue:**
-**NINA:** Sour describes this lemon’s taste. Spoiled food is different.  
-**MAYA:** We never taste food to check whether it is spoiled.  
-**MAX:** I will skip mine today.  
+**NINA:** Sour describes this lemon’s taste. Spoiled food is different.
+
+**MAYA:** We never taste food to check whether it is spoiled.
+
+**MAX:** I will skip mine today.
+
+**NINA:** That's fine, Max. You can smell the orange instead.
 
 ### SHOT_022 | 00:05:15–00:05:30 | An orange on its own terms
 
@@ -371,9 +458,13 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** No fork crosses between trays. These are small prepared free samples, not whole purchased oranges.
 
 **Dialogue:**
-**DAN:** This orange is sweet and juicy.  
-**MAYA:** And the lemon was sour. Both were fresh.  
-**MAX:** So their names were not the only difference.  
+**DAN:** This orange is sweet and juicy.
+
+**MAYA:** And the lemon was sour. Both were fresh.
+
+**MAX:** So their names were not the only difference.
+
+**DAN:** My eyebrows prefer this one. Did you see them relax?
 
 ### SHOT_023 | 00:05:30–00:05:45 | A choice without a dare
 
@@ -387,9 +478,13 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** All sample utensils and rejected portions go to designated waste afterward. No unused sample is returned from a customer plate to a communal tray.
 
 **Dialogue:**
-**MAX:** Sweet. And a little tangy.  
-**ELLA:** That is a useful description.  
-**MAX:** Better than saying it tastes like a yellow circle.  
+**MAX:** Sweet. And a little tangy.
+
+**ELLA:** That is a useful description.
+
+**MAX:** Better than saying it tastes like a yellow circle.
+
+**NINA:** I'd know exactly which sample you meant from that.
 
 ### SHOT_024 | 00:05:45–00:06:00 | The expert changes the rule
 
@@ -404,9 +499,13 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** Samples do not change purchase quantities or budget. The family stays on the buyer side of the counter.
 
 **Dialogue:**
-**DAN:** New rule. We choose by what we need, not what looks impressive.  
-**MAYA:** That sounds promising.  
-**LEO:** Let us start with two apples.  
+**DAN:** New rule. We choose by what we need, not what looks impressive.
+
+**MAYA:** That sounds promising.
+
+**LEO:** Let us start with two apples.
+
+**ELLA:** I'll help you find a pair that looks good.
 
 ### SHOT_025 | 00:06:00–00:06:15 | An apple is not a trophy
 
@@ -422,9 +521,13 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** Inspect gently; no hard squeezing, biting shop stock or presenting size as proof of sweetness.
 
 **Dialogue:**
-**ELLA:** These apples are firm, with no damaged spots.  
-**DAN:** Even though they are not the biggest?  
-**MAYA:** They are exactly the size we need.  
+**ELLA:** These apples are firm, with no damaged spots.
+
+**DAN:** Even though they are not the biggest?
+
+**MAYA:** They are exactly the size we need.
+
+**DAN:** Then those two get the first seats in the basket.
 
 ### SHOT_026 | 00:06:15–00:06:30 | Two apples, two dollars
 
@@ -438,9 +541,13 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** Apples cost $1 each. Remaining display apples are unselected shop stock; cooler still holds only household supplies.
 
 **Dialogue:**
-**LEO:** Two apples, one dollar each. Two dollars so far.  
-**DAN:** A small start.  
-**MAYA:** A good start. There is a difference.  
+**LEO:** Two apples, one dollar each. Two dollars so far.
+
+**DAN:** A small start.
+
+**MAYA:** A good start. There is a difference.
+
+**LEO:** And fourteen dollars still gives us choices, Dad.
 
 ### SHOT_027 | 00:06:30–00:06:45 | A bunch is one purchase
 
@@ -454,9 +561,13 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** Price is $2 for this entire four-banana bunch, not $2 per banana. No loose fifth banana appears.
 
 **Dialogue:**
-**MAX:** One, two, three, four. Four bananas in one bunch.  
-**DAN:** A very well-organized family.  
-**NINA:** And ripe enough for our salad today.  
+**MAX:** One, two, three, four. Four bananas in one bunch.
+
+**DAN:** A very well-organized family.
+
+**NINA:** And ripe enough for our salad today.
+
+**MAX:** Did they have to hold hands all the way here?
 
 ### SHOT_028 | 00:06:45–00:07:00 | No banana passengers
 
@@ -470,9 +581,13 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** Paper cushion is packing material, not a new purchase line. All bananas remain connected until home preparation.
 
 **Dialogue:**
-**LEO:** The whole bunch is two dollars. Four dollars altogether.  
-**DAN:** No extra passengers.  
-**NINA:** Good. We have more fruit to invite.  
+**LEO:** The whole bunch is two dollars. Four dollars altogether.
+
+**DAN:** No extra passengers.
+
+**NINA:** Good. We have more fruit to invite.
+
+**DAN:** Who gets the next invitation? Something round, I hope.
 
 ### SHOT_029 | 00:07:00–00:07:15 | Oranges with their own name
 
@@ -486,9 +601,13 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** Oranges cost $0.75 each. Free sample portions have already been discarded or eaten and are not counted here.
 
 **Dialogue:**
-**DAN:** Two oranges. I checked the name this time.  
-**ELLA:** Seventy-five cents each.  
-**LEO:** One fifty for both. Our total is five fifty.  
+**DAN:** Two oranges. I checked the name this time.
+
+**ELLA:** Seventy-five cents each.
+
+**LEO:** One fifty for both. Our total is five fifty.
+
+**DAN:** Two oranges, one price each. I'm following the total.
 
 ### SHOT_030 | 00:07:15–00:07:30 | A reason for a lemon
 
@@ -502,9 +621,13 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** The dressing uses half of each purchased citrus fruit later. No sugar, salt or extra ingredient is introduced.
 
 **Dialogue:**
-**DAN:** Why buy a lemon after that surprise?  
-**NINA:** A little juice can brighten the sweet fruit.  
-**MAX:** A little sounds better than a mouthful.  
+**DAN:** Why buy a lemon after that surprise?
+
+**NINA:** A little juice can brighten the sweet fruit.
+
+**MAX:** A little sounds better than a mouthful.
+
+**NINA:** Just enough for the juice to reach all the fruit.
 
 ### SHOT_031 | 00:07:30–00:07:45 | Two different citrus fruits
 
@@ -518,9 +641,13 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** Only one purchased lemon and one purchased lime. Dan deliberately buys a lemon now; the title’s purchase is real, not an accidental spoiled-fruit sale.
 
 **Dialogue:**
-**DAN:** One lemon. One lime. Different names, different jobs.  
-**LEO:** Fifty cents each. Six fifty now.  
-**NINA:** And this time we know what we are choosing.  
+**DAN:** One lemon. One lime. Different names, different jobs.
+
+**LEO:** Fifty cents each. Six fifty now.
+
+**NINA:** And this time we know what we are choosing.
+
+**DAN:** Good. My mouth remembers which one it met first.
 
 ### SHOT_032 | 00:07:45–00:08:00 | A pound is a weight
 
@@ -535,9 +662,13 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** Editorial scale reading must be 1.00 lb net. No whole grapes are eaten; all will be quartered lengthwise by an adult at home.
 
 **Dialogue:**
-**DAN:** How many grapes make a pound?  
-**LEO:** It depends on their size. The scale measures the weight.  
-**MAYA:** One pound is enough for us.  
+**DAN:** How many grapes make a pound?
+
+**LEO:** It depends on their size. The scale measures the weight.
+
+**MAYA:** One pound is enough for us.
+
+**DAN:** I'm glad you said weight. I'd be here counting all day.
 
 ### SHOT_033 | 00:08:00–00:08:15 | Weight, then price
 
@@ -551,9 +682,13 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** Grapes cost $3 per pound. Keep their tray distinguishable from shop stock and the later strawberry punnet.
 
 **Dialogue:**
-**LEO:** One pound at three dollars a pound. Nine fifty altogether.  
-**DAN:** The scale is a useful shopping partner.  
-**MAYA:** It gives very precise advice.  
+**LEO:** One pound at three dollars a pound. Nine fifty altogether.
+
+**DAN:** The scale is a useful shopping partner.
+
+**MAYA:** It gives very precise advice.
+
+**LEO:** And it doesn't care how impressive a grape looks.
 
 ### SHOT_034 | 00:08:15–00:08:30 | Strawberries under a lid
 
@@ -567,9 +702,13 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** No opening, tasting or squeezing purchased berries in the shop. One pound net in the punnet; no second punnet selected.
 
 **Dialogue:**
-**ELLA:** These strawberries look good, and the lid protects them.  
-**MAYA:** One pound, three dollars.  
-**LEO:** Twelve fifty now. We still have room in the budget.  
+**ELLA:** These strawberries look good, and the lid protects them.
+
+**MAYA:** One pound, three dollars.
+
+**LEO:** Twelve fifty now. We still have room in the budget.
+
+**ELLA:** Can we keep the lid clear when we pack?
 
 ### SHOT_035 | 00:08:30–00:08:45 | A safe place for soft fruit
 
@@ -583,9 +722,13 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** Apples/citrus below, soft fruit protected above. This is a packing correction, not a new selection or replacement purchase.
 
 **Dialogue:**
-**DAN:** The biggest fruit should go on top.  
-**NINA:** The soft fruit should stay protected.  
-**DAN:** Right. My old rule nearly squashed our new plan.  
+**DAN:** The biggest fruit should go on top.
+
+**NINA:** The soft fruit should stay protected.
+
+**DAN:** Right. My old rule nearly squashed our new plan.
+
+**ELLA:** The berries would like to thank you for changing it.
 
 ### SHOT_036 | 00:08:45–00:09:00 | Ready today
 
@@ -600,9 +743,13 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** Ripeness depends on the fruit and when it will be eaten. Do not crush peaches or treat a bruise as a desirable ripeness sign.
 
 **Dialogue:**
-**DAN:** Should we take the firmest peaches?  
-**MAYA:** These are ripe for today. Gentle hands.  
-**ELLA:** They smell lovely. Let us choose these two.  
+**DAN:** Should we take the firmest peaches?
+
+**MAYA:** These are ripe for today. Gentle hands.
+
+**ELLA:** They smell lovely. Let us choose these two.
+
+**DAN:** I can hold the basket steady while you choose.
 
 ### SHOT_037 | 00:09:00–00:09:15 | Peaches need protection
 
@@ -616,9 +763,13 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** Tray is packing material. Peach pits are intact until adult preparation at home; no biting or pit exposure in the shop.
 
 **Dialogue:**
-**LEO:** Two peaches at seventy-five cents. Fourteen dollars.  
-**ELLA:** They get the gentle seats.  
-**MAYA:** Good thinking. Soft fruit travels better with a little care.  
+**LEO:** Two peaches at seventy-five cents. Fourteen dollars.
+
+**ELLA:** They get the gentle seats.
+
+**MAYA:** Good thinking. Soft fruit travels better with a little care.
+
+**ELLA:** I'll leave their spot clear while you finish counting.
 
 ### SHOT_038 | 00:09:15–00:09:30 | The pear comparison
 
@@ -632,9 +783,13 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** Pears will be cored and cut by adults. No child bites a whole unwashed pear to test ripeness.
 
 **Dialogue:**
-**MAX:** These two fit our hands.  
-**DAN:** And the biggest one?  
-**NINA:** We need two ripe pears, not a pear contest. These two are a good team.  
+**MAX:** These two fit our hands.
+
+**DAN:** And the biggest one?
+
+**NINA:** We need two ripe pears, not a pear contest. These two are a good team.
+
+**MAX:** My hands vote for the little team, too.
 
 ### SHOT_039 | 00:09:30–00:09:45 | The last fruit line
 
@@ -648,9 +803,13 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** Pears cost $0.75 each. No watermelon in basket, on the card’s purchase lines or in the cooler.
 
 **Dialogue:**
-**LEO:** Two pears, one fifty. Fifteen fifty altogether.  
-**DAN:** Under sixteen?  
-**NINA:** Yes. And every fruit has a reason to be here.  
+**LEO:** Two pears, one fifty. Fifteen fifty altogether.
+
+**DAN:** Under sixteen?
+
+**NINA:** Yes. And every fruit has a reason to be here.
+
+**DAN:** Just under. That's close enough to check it twice.
 
 ### SHOT_040 | 00:09:45–00:10:00 | Enough is a useful amount
 
@@ -664,9 +823,13 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** Nothing is added during this check. Full selected total $15.50; checkout has not begun.
 
 **Dialogue:**
-**MAYA:** We have everything for the salad, and it fits.  
-**MAX:** The basket did not even need confidence.  
-**NINA:** Just a sensible plan.  
+**MAYA:** We have everything for the salad, and it fits.
+
+**MAX:** The basket did not even need confidence.
+
+**NINA:** Just a sensible plan.
+
+**LEO:** The melon can stay on its very own shelf.
 
 ### SHOT_041 | 00:10:00–00:10:15 | Reading the total
 
@@ -680,8 +843,13 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** Tax is included in this fictional shop’s marked prices. Do not add an unseen fee or round $15.50 to $16.
 
 **Dialogue:**
-**LEO:** Two, two, one fifty, fifty cents, fifty cents, three, three, one fifty, one fifty.  
-**DAN:** Fifteen fifty. That is our actual total.  
+**LEO:** Two, two, one fifty, fifty cents, fifty cents, three, three, one fifty, one fifty.
+
+**DAN:** Fifteen fifty. That is our actual total.
+
+**ELLA:** Under our limit, then?
+
+**LEO:** By fifty cents.
 
 ### SHOT_042 | 00:10:15–00:10:30 | A little breathing room
 
@@ -695,9 +863,13 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** Budget headroom is not change from the $20 bill. That separate calculation happens at checkout.
 
 **Dialogue:**
-**DAN:** So we have fifty cents left to spend.  
-**LEO:** Yes. Not four fifty. That will be the change from twenty.  
-**NINA:** Different starting amounts.  
+**DAN:** So we have fifty cents left to spend.
+
+**LEO:** Yes. Not four fifty. That will be the change from twenty.
+
+**NINA:** Different starting amounts.
+
+**DAN:** Ah, the change starts with the bill in my hand.
 
 ### SHOT_043 | 00:10:30–00:10:45 | The champion asks too much
 
@@ -711,9 +883,13 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** The $23.50 is a rejected what-if, never a checkout total or extra transaction.
 
 **Dialogue:**
-**DAN:** What if we added the watermelon?  
-**LEO:** Twenty-three fifty. Seven fifty over our limit.  
-**MAX:** And one whole basket over our basket.  
+**DAN:** What if we added the watermelon?
+
+**LEO:** Twenty-three fifty. Seven fifty over our limit.
+
+**MAX:** And one whole basket over our basket.
+
+**DAN:** I don't think my elbows can afford that either.
 
 ### SHOT_044 | 00:10:45–00:11:00 | Leaving it for another picnic
 
@@ -727,9 +903,13 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** No discarded paid fruit and no refund. The melon is healthy shop stock for another customer, not a bad or unwanted-food prop.
 
 **Dialogue:**
-**DAN:** No watermelon today. Bigger would leave us with less of everything else.  
-**MAYA:** That is a thoughtful choice.  
-**DAN:** I am trying a new specialty.  
+**DAN:** No watermelon today. Bigger would leave us with less of everything else.
+
+**MAYA:** That is a thoughtful choice.
+
+**DAN:** I am trying a new specialty.
+
+**LEO:** Choosing on purpose? You might get good at that.
 
 ### SHOT_045 | 00:11:00–00:11:15 | One remaining worry
 
@@ -743,9 +923,13 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** This worry motivates the later small-dressing choice. Do not force a child to taste straight lemon or promise he must like it.
 
 **Dialogue:**
-**MAX:** Will the whole salad make that face happen?  
-**DAN:** I was wondering that too.  
-**NINA:** We will use just a little juice.  
+**MAX:** Will the whole salad make that face happen?
+
+**DAN:** I was wondering that too.
+
+**NINA:** We will use just a little juice.
+
+**MAX:** I'll watch the spoon. My cheeks are counting on you.
 
 ### SHOT_046 | 00:11:15–00:11:30 | A small job for a strong flavor
 
@@ -759,9 +943,13 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** No syrup, extra fruit or hidden sweetener. Prepared fruit will be tasted only after proper washing and adult cutting at home.
 
 **Dialogue:**
-**NINA:** Half a lemon and half a lime for the whole bowl.  
-**MAX:** Not a bowl full of lemons?  
-**DAN:** I will help keep track.  
+**NINA:** Half a lemon and half a lime for the whole bowl.
+
+**MAX:** Not a bowl full of lemons?
+
+**DAN:** I will help keep track.
+
+**NINA:** Just wait until you smell the orange in there, too.
 
 ### SHOT_047 | 00:11:30–00:11:45 | Sharing the important jobs
 
@@ -776,9 +964,13 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** Only adults use knives or remove pits. Household water/plates/forks/napkins/blanket remain separate from fruit purchase arithmetic.
 
 **Dialogue:**
-**MAYA:** I will cut the apples, pears and peaches.  
-**NINA:** I will prepare the grapes and dressing.  
-**ELLA:** We can set out the picnic things.  
+**MAYA:** I will cut the apples, pears and peaches.
+
+**NINA:** I will prepare the grapes and dressing.
+
+**ELLA:** We can set out the picnic things.
+
+**DAN:** Sounds like the picnic crew is already on duty.
 
 ### SHOT_048 | 00:11:45–00:12:00 | A plan worth carrying
 
@@ -792,9 +984,13 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** Keep fruit trays level. The family moves screen-right on the established buyer-side axis, never behind the counter.
 
 **Dialogue:**
-**DAN:** We have fruit for everyone, and a plan for every fruit.  
-**LEO:** That sounds more useful than a champion.  
-**MAX:** And easier to carry.  
+**DAN:** We have fruit for everyone, and a plan for every fruit.
+
+**LEO:** That sounds more useful than a champion.
+
+**MAX:** And easier to carry.
+
+**ELLA:** Easier to share, too. Everybody helped pick something.
 
 ### SHOT_049 | 00:12:00–00:12:15 | The real checkout
 
@@ -808,9 +1004,13 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** Only the six family voices exist in this episode. No visible face, named vendor or extra voice at checkout; tax already included.
 
 **Dialogue:**
-**LEO:** Fifteen fifty. It matches our card.  
-**DAN:** Good. We checked before guessing.  
-**MAYA:** And before paying.  
+**LEO:** Fifteen fifty. It matches our card.
+
+**DAN:** Good. We checked before guessing.
+
+**MAYA:** And before paying.
+
+**DAN:** That makes me feel better about handing over twenty.
 
 ### SHOT_050 | 00:12:15–00:12:30 | One twenty-dollar bill
 
@@ -824,9 +1024,13 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** One payment only. Do not leave another twenty-dollar bill on the counter after the clerk accepts it.
 
 **Dialogue:**
-**DAN:** Here you go. Twenty dollars.  
-**LEO:** We should get four dollars and fifty cents back.  
-**DAN:** I will check that too.  
+**DAN:** Here you go. Twenty dollars.
+
+**LEO:** We should get four dollars and fifty cents back.
+
+**DAN:** I will check that too.
+
+**LEO:** Four fifty back. I'll watch while you count it.
 
 ### SHOT_051 | 00:12:30–00:12:45 | Four dollars and two quarters
 
@@ -840,9 +1044,13 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** Do not substitute Episode 01’s $1.50 change. Change is returned payment money, not extra shopping budget. Leo retains the card just off-frame.
 
 **Dialogue:**
-**DAN:** Four dollars, and two quarters. Four fifty.  
-**MAX:** That is more than our fifty cents.  
-**NINA:** Yes. Let us check why.  
+**DAN:** Four dollars, and two quarters. Four fifty.
+
+**MAX:** That is more than our fifty cents.
+
+**NINA:** Yes. Let us check why.
+
+**DAN:** Let's start with the bill I actually handed over.
 
 ### SHOT_052 | 00:12:45–00:13:00 | Two different remainders
 
@@ -856,9 +1064,13 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** $20.00 − $15.50 = $4.50 change; $16.00 − $15.50 = $0.50 budget remaining. Both calculations stay visible only as editorial graphics.
 
 **Dialogue:**
-**LEO:** Twenty paid gives four fifty back. Sixteen budgeted leaves fifty cents.  
-**MAX:** So four dollars were never picnic money.  
-**DAN:** Exactly. Every dollar keeps its job.  
+**LEO:** Twenty paid gives four fifty back. Sixteen budgeted leaves fifty cents.
+
+**MAX:** So four dollars were never picnic money.
+
+**DAN:** Exactly. Every dollar keeps its job.
+
+**MAX:** Even the ones that never wanted to go shopping.
 
 ### SHOT_053 | 00:13:00–00:13:15 | Gentle seats for the journey
 
@@ -872,9 +1084,13 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** The transfer removes exactly those three fragile lines from basket. No duplicate trays remain on counter or in basket; no extra bags appear.
 
 **Dialogue:**
-**NINA:** The soft fruit can travel in the cooler.  
-**ELLA:** Nothing gets squashed.  
-**DAN:** A much better journey than riding under a watermelon.  
+**NINA:** The soft fruit can travel in the cooler.
+
+**ELLA:** Nothing gets squashed.
+
+**DAN:** A much better journey than riding under a watermelon.
+
+**ELLA:** I can give the soft ones a little elbow room.
 
 ### SHOT_054 | 00:13:15–00:13:30 | Everything accounted for
 
@@ -888,9 +1104,13 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** No second change handoff or extra payment. The receipt stays in the wallet for the rest of the story.
 
 **Dialogue:**
-**LEO:** Fruit, receipt, change. All checked.  
-**MAX:** And the blanket.  
-**DAN:** I would hate to tell lunch it had to stand up.  
+**LEO:** Fruit, receipt, change. All checked.
+
+**MAX:** And the blanket.
+
+**DAN:** I would hate to tell lunch it had to stand up.
+
+**MAX:** And lunch has six people who would like to sit.
 
 ### SHOT_055 | 00:13:30–00:13:45 | A smaller victory
 
@@ -904,9 +1124,13 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** Exit direction reversal is shown, not an unexplained camera-axis flip. Keep every child between the adults.
 
 **Dialogue:**
-**MAYA:** Happy with our choices?  
-**DAN:** Very. We bought a picnic, not a size record.  
-**MAX:** And we left the giant table behind.  
+**MAYA:** Happy with our choices?
+
+**DAN:** Very. We bought a picnic, not a size record.
+
+**MAX:** And we left the giant table behind.
+
+**LEO:** That giant table still had an eight-dollar price tag.
 
 ### SHOT_056 | 00:13:45–00:14:00 | Home, with the right fruit
 
@@ -920,9 +1144,13 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** Transferred peach tray moves from cooler to Maya’s station. No leftover fruit stays hidden in basket; receipt/change remain in wallet.
 
 **Dialogue:**
-**DAN:** All fruit delivered. No champion required.  
-**MAYA:** Now we prepare it.  
-**MAX:** Can we make the lemon less surprising?  
+**DAN:** All fruit delivered. No champion required.
+
+**MAYA:** Now we prepare it.
+
+**MAX:** Can we make the lemon less surprising?
+
+**NINA:** Wait until it's mixed in. Then tell me what you taste.
 
 ### SHOT_057 | 00:14:00–00:14:15 | Clean hands again
 
@@ -936,9 +1164,13 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** Handwashing is not compressed into a false fifteen-second real-time demonstration. Never wash food with hand soap.
 
 **Dialogue:**
-**MAYA:** Hands first, after our trip.  
-**ELLA:** Then the fruit?  
-**NINA:** Yes. Clean hands, clean fruit, clean plates. We all have a job.  
+**MAYA:** Hands first, after our trip.
+
+**ELLA:** Then the fruit?
+
+**NINA:** Yes. Clean hands, clean fruit, clean plates. We all have a job.
+
+**LEO:** Good. I'll keep the plates clear while we're washing.
 
 ### SHOT_058 | 00:14:15–00:14:30 | Rinse before preparing
 
@@ -952,9 +1184,13 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** Running water only for produce, no soap. Grapes remain whole but uneaten until adult quartering; berries retain exact purchased quantity.
 
 **Dialogue:**
-**ELLA:** Even the lemon peel gets washed?  
-**NINA:** Yes, before we cut it.  
-**MAYA:** Rinse, drain, then prepare. We have time.  
+**ELLA:** Even the lemon peel gets washed?
+
+**NINA:** Yes, before we cut it.
+
+**MAYA:** Rinse, drain, then prepare. We have time.
+
+**ELLA:** I can wait. I like the way that peel smells.
 
 ### SHOT_059 | 00:14:30–00:14:45 | Adults take the cutting jobs
 
@@ -968,9 +1204,13 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** Adults only handle knives. No whole duplicate apples, pears or peaches remain after their flesh enters the bowl; skins may stay on where suitable.
 
 **Dialogue:**
-**LEO:** We can put out the plates while you cut.  
-**MAYA:** Thank you. I will handle the knife.  
-**DAN:** And I will escort these pits away.  
+**LEO:** We can put out the plates while you cut.
+
+**MAYA:** Thank you. I will handle the knife.
+
+**DAN:** And I will escort these pits away.
+
+**MAYA:** Thank you. A clear counter gives me room to work.
 
 ### SHOT_060 | 00:14:45–00:15:00 | Grapes take the long cut
 
@@ -984,9 +1224,13 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** Never show Max or another child eating a whole grape. Keep knife with Nina and waste stems separate from edible pieces.
 
 **Dialogue:**
-**MAX:** Four little pieces from one grape?  
-**NINA:** Yes, cut lengthwise. Small pieces for our salad.  
-**DAN:** These grapes are traveling in a group too.  
+**MAX:** Four little pieces from one grape?
+
+**NINA:** Yes, cut lengthwise. Small pieces for our salad.
+
+**DAN:** These grapes are traveling in a group too.
+
+**MAX:** Little boats. I can see all four of them.
 
 ### SHOT_061 | 00:15:00–00:15:15 | Strawberries join the colors
 
@@ -1000,9 +1244,13 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** No extra berry punnet or whole strawberry stock appears. Do not place waste, money or used sample utensils on the clean preparation surface.
 
 **Dialogue:**
-**ELLA:** The red strawberries make it look like a picnic already.  
-**MAYA:** And every color came from our own choices.  
-**NINA:** One bowl, plenty to share.  
+**ELLA:** The red strawberries make it look like a picnic already.
+
+**MAYA:** And every color came from our own choices.
+
+**NINA:** One bowl, plenty to share.
+
+**MAYA:** We can spot the red ones from across the island.
 
 ### SHOT_062 | 00:15:15–00:15:30 | Two oranges, no surprises
 
@@ -1016,9 +1264,13 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** Children do not chew skins or handle cutting tools. Lemon and lime remain separate and identifiable.
 
 **Dialogue:**
-**DAN:** Two oranges. Round, sweet, and correctly introduced.  
-**MAX:** No folded-up face this time.  
-**MAYA:** Please save the face until after the peeling.  
+**DAN:** Two oranges. Round, sweet, and correctly introduced.
+
+**MAX:** No folded-up face this time.
+
+**MAYA:** Please save the face until after the peeling.
+
+**DAN:** My face will wait. My hands are busy anyway.
 
 ### SHOT_063 | 00:15:30–00:15:45 | The bunch becomes four
 
@@ -1032,9 +1284,13 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** Prepare bananas near the end, then dress promptly. No hidden fifth banana or new fruit appears.
 
 **Dialogue:**
-**LEO:** Four bananas. One empty bunch.  
-**DAN:** Their family meeting moved into the bowl.  
-**NINA:** Now for a little lemon and lime juice.  
+**LEO:** Four bananas. One empty bunch.
+
+**DAN:** Their family meeting moved into the bowl.
+
+**NINA:** Now for a little lemon and lime juice.
+
+**DAN:** Remember my lemon face? Let's give it a smaller job.
 
 ### SHOT_064 | 00:15:45–00:16:00 | Half of each
 
@@ -1048,9 +1304,13 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** Adults handle knife and strainer. Do not juice both halves or add extra citrus. Reserved halves are food, not waste.
 
 **Dialogue:**
-**DAN:** Half a lemon. Half a lime. I am checking.  
-**MAX:** The little job for the strong flavor.  
-**NINA:** Exactly. No guessing this time.  
+**DAN:** Half a lemon. Half a lime. I am checking.
+
+**MAX:** The little job for the strong flavor.
+
+**NINA:** Exactly. No guessing this time.
+
+**MAX:** Good. My tongue would like a little warning today.
 
 ### SHOT_065 | 00:16:00–00:16:15 | Saving the other halves
 
@@ -1064,9 +1324,13 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** These are the only uneaten citrus portions saved. Never place the squeezed waste halves or pits back in the refrigerator.
 
 **Dialogue:**
-**ELLA:** We are saving those?  
-**MAYA:** Yes. Wrapped, covered and in the fridge.  
-**NINA:** A little today, a little another day.  
+**ELLA:** We are saving those?
+
+**MAYA:** Yes. Wrapped, covered and in the fridge.
+
+**NINA:** A little today, a little another day.
+
+**ELLA:** I like that we didn't need a whole one.
 
 ### SHOT_066 | 00:16:15–00:16:30 | A small amount, a shared bowl
 
@@ -1080,9 +1344,13 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** No added sugar, syrup or surprise ingredient. The only whole fruit remaining is unselected shop stock, not food at home.
 
 **Dialogue:**
-**DAN:** A little sour with all this sweet.  
-**NINA:** That is the balance we planned.  
-**MAX:** I can decide what I think when we sit down.  
+**DAN:** A little sour with all this sweet.
+
+**NINA:** That is the balance we planned.
+
+**MAX:** I can decide what I think when we sit down.
+
+**NINA:** Deal. Tell me which flavor you notice first.
 
 ### SHOT_067 | 00:16:30–00:16:45 | Cool until lunch
 
@@ -1096,9 +1364,13 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** Keep prepared fruit cold until shaded service. No claim of an exact chilling temperature or elapsed refrigeration time.
 
 **Dialogue:**
-**MAYA:** Lid on. Into the cooler until we eat.  
-**ELLA:** Forks in the basket.  
-**NINA:** Now our short journey can begin.  
+**MAYA:** Lid on. Into the cooler until we eat.
+
+**ELLA:** Forks in the basket.
+
+**NINA:** Now our short journey can begin.
+
+**MAYA:** Luckily the shade is only a few steps away.
 
 ### SHOT_068 | 00:16:45–00:17:00 | Only a few steps away
 
@@ -1112,9 +1384,13 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** Setup ellipsis explicitly unrolls blanket; utensils already transferred into basket in the kitchen. House door rear-left, shade tree rear-right; no park journey or extra guest.
 
 **Dialogue:**
-**MAX:** Lunch has reached its destination.  
-**DAN:** No bus ticket required.  
-**MAYA:** And the tree has kept our seats in the shade.  
+**MAX:** Lunch has reached its destination.
+
+**DAN:** No bus ticket required.
+
+**MAYA:** And the tree has kept our seats in the shade.
+
+**LEO:** Best trip yet. Nobody had to check the price of shade.
 
 ### SHOT_069 | 00:17:00–00:17:15 | Six places in the shade
 
@@ -1128,9 +1404,13 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** Relative family order echoes HOME_TABLE but these are blanket places, not new dining chairs. No seventh plate or person.
 
 **Dialogue:**
-**LEO:** Six places. Everyone here.  
-**ELLA:** And nobody has to sit on the watermelon.  
-**DAN:** A relief for the watermelon as well.  
+**LEO:** Six places. Everyone here.
+
+**ELLA:** And nobody has to sit on the watermelon.
+
+**DAN:** A relief for the watermelon as well.
+
+**MAX:** I think that melon would have rolled right out from under me.
 
 ### SHOT_070 | 00:17:15–00:17:30 | The bowl finally opens
 
@@ -1144,9 +1424,13 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** Serve promptly in shade. Max’s portion contains only small fruit pieces and lengthwise-quartered grapes; no whole grapes.
 
 **Dialogue:**
-**NINA:** Fruit salad, ready at last.  
-**MAX:** It smells like oranges and strawberries.  
-**DAN:** A much friendlier introduction than my lemon sample.  
+**NINA:** Fruit salad, ready at last.
+
+**MAX:** It smells like oranges and strawberries.
+
+**DAN:** A much friendlier introduction than my lemon sample.
+
+**NINA:** Give it a sniff before you pick your first bite.
 
 ### SHOT_071 | 00:17:30–00:17:45 | Max makes his own choice
 
@@ -1160,9 +1444,13 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** No dare, countdown or demand to finish. No talking while chewing or whole-grape eating.
 
 **Dialogue:**
-**MAX:** Sweet first. Then a little tangy.  
-**NINA:** Do you like it?  
-**MAX:** I do. The lemon has learned to share.  
+**MAX:** Sweet first. Then a little tangy.
+
+**NINA:** Do you like it?
+
+**MAX:** I do. The lemon has learned to share.
+
+**DAN:** I wish it'd learned that before I met the sample.
 
 ### SHOT_072 | 00:17:45–00:18:00 | What Dad wanted
 
@@ -1176,9 +1464,13 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** Keep emotion proportionate to a small shopping mistake. Nobody calls Dan foolish or undermines either parent.
 
 **Dialogue:**
-**DAN:** I wanted the biggest fruit because I wanted this picnic to feel special.  
-**LEO:** It does.  
-**MAYA:** You did not need to impress us.  
+**DAN:** I wanted the biggest fruit because I wanted this picnic to feel special.
+
+**LEO:** It does.
+
+**MAYA:** You did not need to impress us.
+
+**DAN:** Oh. I could've asked what felt special to you.
 
 ### SHOT_073 | 00:18:00–00:18:15 | Already special
 
@@ -1192,9 +1484,13 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** One person speaks at a time. Preserve all six original faces and relationships in reactions.
 
 **Dialogue:**
-**MAX:** We all came. That was the special part.  
-**DAN:** Even before the fruit?  
-**NINA:** Especially before the fruit.  
+**MAX:** We all came. That was the special part.
+
+**DAN:** Even before the fruit?
+
+**NINA:** Especially before the fruit.
+
+**MAX:** I'd still come sit under the tree with you.
 
 ### SHOT_074 | 00:18:15–00:18:30 | A better kind of champion
 
@@ -1208,9 +1504,13 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** Keep this an exchange between characters about their picnic, not a direct-to-viewer lesson or vocabulary recap.
 
 **Dialogue:**
-**ELLA:** No fruit won the size contest.  
-**MAYA:** They made a good team instead.  
-**DAN:** I am happy to join the team.  
+**ELLA:** No fruit won the size contest.
+
+**MAYA:** They made a good team instead.
+
+**DAN:** I am happy to join the team.
+
+**ELLA:** Good. There's room under this tree for all six of us.
 
 ### SHOT_075 | 00:18:30–00:18:45 | Both mothers, one good plan
 
@@ -1224,9 +1524,13 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** No wife rivalry, ranking or servant framing. Keep the same voice identity and wardrobe for both women.
 
 **Dialogue:**
-**MAYA:** The samples helped us understand the difference.  
-**NINA:** And your careful choosing helped us bring good fruit home.  
-**DAN:** I had excellent company.  
+**MAYA:** The samples helped us understand the difference.
+
+**NINA:** And your careful choosing helped us bring good fruit home.
+
+**DAN:** I had excellent company.
+
+**MAYA:** You made picking two little pears feel important.
 
 ### SHOT_076 | 00:18:45–00:19:00 | The face stays unfolded
 
@@ -1240,9 +1544,13 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** No exaggerated distress, food spitting or repeated sour tasting. Used personal forks never enter the serving bowl.
 
 **Dialogue:**
-**MAX:** Dad, your face is staying unfolded.  
-**ELLA:** A successful picnic result.  
-**DAN:** Yes. All my corners are comfortable.  
+**MAX:** Dad, your face is staying unfolded.
+
+**ELLA:** A successful picnic result.
+
+**DAN:** Yes. All my corners are comfortable.
+
+**MAX:** Then I guess we gave the lemon just enough work.
 
 ### SHOT_077 | 00:19:00–00:19:15 | A card worth keeping
 
@@ -1256,9 +1564,13 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** This is the same single card introduced in SHOT_001. No new shopping list, extra receipt or changed budget.
 
 **Dialogue:**
-**LEO:** We stayed under sixteen.  
-**ELLA:** And brought everything we needed.  
-**DAN:** One list, two colors, six people who actually listened.  
+**LEO:** We stayed under sixteen.
+
+**ELLA:** And brought everything we needed.
+
+**DAN:** One list, two colors, six people who actually listened.
+
+**ELLA:** And nobody had to carry a picnic table home.
 
 ### SHOT_078 | 00:19:15–00:19:30 | Tomorrow can wait
 
@@ -1272,9 +1584,13 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** Do not introduce flour/flower mix-up, Episode 03 script, new props or a new task here.
 
 **Dialogue:**
-**MAYA:** Maybe pancakes for breakfast tomorrow.  
-**DAN:** I would like to help. After lunch, of course.  
-**NINA:** Good. We will make a plan together.  
+**MAYA:** Maybe pancakes for breakfast tomorrow.
+
+**DAN:** I would like to help. After lunch, of course.
+
+**NINA:** Good. We will make a plan together.
+
+**MAX:** If it's breakfast, I vote for something we can flip.
 
 ### SHOT_079 | 00:19:30–00:19:45 | Keeping what we made
 
@@ -1288,9 +1604,13 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** No used personal fork enters leftover food. The cooler protects the prepared fruit; waste and dirty dishes stay separate.
 
 **Dialogue:**
-**ELLA:** The basket carried fruit out and dishes back.  
-**LEO:** A useful second job.  
-**NINA:** And the rest stays cool for later.  
+**ELLA:** The basket carried fruit out and dishes back.
+
+**LEO:** A useful second job.
+
+**NINA:** And the rest stays cool for later.
+
+**MAYA:** Let's carry the dishes level on the way inside.
 
 ### SHOT_080 | 00:19:45–00:20:00 | Enough for a happy ending
 
@@ -1304,7 +1624,11 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Continuity:** No chorus or recap narrator. Any creator-designed practice belongs after the finished 20-minute movie, outside this story.
 
 **Dialogue:**
-**DAN:** Not the biggest fruit. A very happy picnic.  
-**MAYA:** Exactly the picnic we needed.  
-**MAX:** And the basket can keep its small door.  
+**DAN:** Not the biggest fruit. A very happy picnic.
+
+**MAYA:** Exactly the picnic we needed.
+
+**MAX:** And the basket can keep its small door.
+
+**ELLA:** Tomorrow's breakfast can stay home. My feet vote for that.
 

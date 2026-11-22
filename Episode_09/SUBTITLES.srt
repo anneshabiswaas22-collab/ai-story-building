@@ -1,993 +1,1384 @@
 1
-00:00:00,500 --> 00:00:05,050
+00:00:00,250 --> 00:00:04,237
 A small garden today. Mint, basil, and a few
 radishes.
 
 2
-00:00:05,300 --> 00:00:07,270
+00:00:04,387 --> 00:00:06,025
 Small garden. Ambitious gardener.
 
 3
-00:00:07,520 --> 00:00:11,210
+00:00:06,175 --> 00:00:09,379
 Then let us give the gardener a plan.
 
 4
-00:00:15,500 --> 00:00:17,900
-Mint? Are we growing money?
+00:00:09,529 --> 00:00:14,300
+How small are we talking? Can my plan fit on
+the bench?
 
 5
-00:00:18,150 --> 00:00:21,410
-That would be a very useful garden.
+00:00:15,250 --> 00:00:17,530
+Mint? Are we growing money?
 
 6
-00:00:21,660 --> 00:00:24,490
-Our shopping list might get smaller.
+00:00:17,680 --> 00:00:20,840
+That would be a very useful garden.
 
 7
-00:00:30,500 --> 00:00:35,050
+00:00:20,990 --> 00:00:23,710
+Our shopping list might get smaller.
+
+8
+00:00:23,860 --> 00:00:28,340
+Would we have to water the coins to make
+change?
+
+9
+00:00:30,250 --> 00:00:34,614
 This mint is an herb. The other mint makes
 coins.
 
-8
-00:00:35,300 --> 00:00:37,270
+10
+00:00:34,764 --> 00:00:36,557
 Two jobs, one word.
 
-9
-00:00:37,520 --> 00:00:40,780
+11
+00:00:36,707 --> 00:00:39,786
 And only one belongs in our garden.
 
-10
-00:00:45,500 --> 00:00:50,050
+12
+00:00:39,936 --> 00:00:44,300
+Good. I'd rather smell an herb than smell my
+pocket.
+
+13
+00:00:45,250 --> 00:00:49,356
 Mint left, basil in the middle, radishes on
 the right.
 
-11
-00:00:50,300 --> 00:00:52,270
+14
+00:00:49,506 --> 00:00:51,192
 Three pots. Three saucers.
 
-12
-00:00:52,520 --> 00:00:55,780
+15
+00:00:51,342 --> 00:00:54,238
 And three labels that tell the truth.
 
-13
-00:01:00,500 --> 00:01:03,760
+16
+00:00:54,388 --> 00:00:59,300
+Good. We'll be able to tell the seed pot from
+the rest.
+
+17
+00:01:00,250 --> 00:01:03,410
 My brother Ben is bringing the pots.
 
-14
-00:01:04,010 --> 00:01:05,810
+18
+00:01:03,560 --> 00:01:04,520
 Empty ones?
 
-15
-00:01:06,060 --> 00:01:10,610
+19
+00:01:04,670 --> 00:01:09,150
 Yes. We are supplying the plants, not ordering
 a forest.
 
-16
-00:01:15,500 --> 00:01:17,900
+20
+00:01:09,300 --> 00:01:13,780
+Three is plenty. I haven't even met the mint
+yet.
+
+21
+00:01:15,250 --> 00:01:17,530
 Labels and gloves are ready.
 
-17
-00:01:18,150 --> 00:01:20,980
+22
+00:01:17,680 --> 00:01:20,400
 Do the seeds need tiny gloves?
 
-18
-00:01:21,230 --> 00:01:23,630
+23
+00:01:20,550 --> 00:01:22,830
 No. Just our careful hands.
 
-19
-00:01:30,500 --> 00:01:32,900
+24
+00:01:22,980 --> 00:01:27,900
+Mine are bigger than a seed. I can lend a
+hand.
+
+25
+00:01:30,250 --> 00:01:32,471
 I will bring their drink.
 
-20
-00:01:33,150 --> 00:01:37,700
+26
+00:01:32,621 --> 00:01:36,986
 Bring the can first. We will check the soil
 outside.
 
-21
-00:01:37,950 --> 00:01:40,780
+27
+00:01:37,136 --> 00:01:39,786
 No straws for the basil, then.
 
-22
-00:01:45,500 --> 00:01:50,480
+28
+00:01:39,936 --> 00:01:44,300
+Good. I'll wait to see what the soil actually
+needs.
+
+29
+00:01:45,250 --> 00:01:50,170
 Stay on the clear path with your hands free of
 soil.
 
-23
-00:01:50,730 --> 00:01:53,990
+30
+00:01:50,320 --> 00:01:53,480
 Even my grand plan is walking carefully.
 
-24
-00:01:54,240 --> 00:01:57,070
+31
+00:01:53,630 --> 00:01:56,350
 That is a good first step.
 
-25
-00:02:00,500 --> 00:02:02,900
+32
+00:01:56,500 --> 00:01:58,780
+Look ahead. There's our bench.
+
+33
+00:02:00,250 --> 00:02:02,530
 Three empty homes, as promised.
 
-26
-00:02:03,150 --> 00:02:06,410
+34
+00:02:02,680 --> 00:02:05,840
 Excellent. Their new residents are already
 waiting.
 
-27
-00:02:06,660 --> 00:02:09,920
+35
+00:02:05,990 --> 00:02:09,150
 Hello, Ben. Thank you for bringing them.
 
-28
-00:02:15,500 --> 00:02:19,190
+36
+00:02:09,300 --> 00:02:13,780
+You're welcome. I was careful to bring their
+saucers too.
+
+37
+00:02:15,250 --> 00:02:18,757
 Three pots and three saucers. Nothing growing
 yet.
 
-29
-00:02:19,440 --> 00:02:21,840
+38
+00:02:18,907 --> 00:02:21,128
 Not even a surprise tree.
 
-30
-00:02:22,090 --> 00:02:24,920
+39
+00:02:21,278 --> 00:02:23,928
 That keeps our small plan small.
 
-31
-00:02:30,500 --> 00:02:33,330
-We nearly ordered a money plant.
-
-32
-00:02:33,580 --> 00:02:36,840
-Dan once labeled an empty box “treasure.”
-
-33
-00:02:37,090 --> 00:02:39,490
-It contained very valuable possibilities.
-
-34
-00:02:45,500 --> 00:02:48,760
-Enjoy your garden. Label first, guess later.
-
-35
-00:02:49,010 --> 00:02:51,840
-A useful family motto. Thanks, Ben.
-
-36
-00:02:52,090 --> 00:02:55,780
-We will show you the journal next time.
-
-37
-00:03:00,500 --> 00:03:03,760
-There is a hole in the bottom.
-
-38
-00:03:04,010 --> 00:03:06,840
-Extra water needs a way out.
-
-39
-00:03:07,090 --> 00:03:10,350
-A pot with an exit. Sensible architecture.
-
 40
-00:03:15,500 --> 00:03:18,330
-Five hundred milliliters in the can.
+00:02:24,078 --> 00:02:29,300
+I think we can give these three all the
+attention they need.
 
 41
-00:03:18,580 --> 00:03:20,550
-That sounds satisfyingly official.
+00:02:30,250 --> 00:02:32,970
+We nearly ordered a money plant.
 
 42
-00:03:20,800 --> 00:03:25,780
+00:02:33,120 --> 00:02:36,280
+Dan once labeled an empty box “treasure.”
+
+43
+00:02:36,430 --> 00:02:38,710
+It contained very valuable possibilities.
+
+44
+00:02:38,860 --> 00:02:43,340
+I bet that box didn't give you much change,
+Dad.
+
+45
+00:02:45,250 --> 00:02:48,146
+Enjoy your garden. Label first, guess later.
+
+46
+00:02:48,296 --> 00:02:50,789
+A useful family motto. Thanks, Ben.
+
+47
+00:02:50,939 --> 00:02:54,238
+We will show you the journal next time.
+
+48
+00:02:54,388 --> 00:02:59,300
+I'll save you the part about what kind of mint
+it is.
+
+49
+00:03:00,250 --> 00:03:03,410
+There is a hole in the bottom.
+
+50
+00:03:03,560 --> 00:03:06,280
+Extra water needs a way out.
+
+51
+00:03:06,430 --> 00:03:09,590
+A pot with an exit. Sensible architecture.
+
+52
+00:03:09,740 --> 00:03:14,220
+So the saucer belongs under it before we add
+anything.
+
+53
+00:03:15,250 --> 00:03:17,970
+Five hundred milliliters in the can.
+
+54
+00:03:18,120 --> 00:03:19,960
+That sounds satisfyingly official.
+
+55
+00:03:20,110 --> 00:03:25,030
 It is a record, not an instruction to use it
 all.
 
-43
-00:03:30,500 --> 00:03:32,900
+56
+00:03:25,180 --> 00:03:28,780
+Good. I was picturing one very thirsty pot.
+
+57
+00:03:30,250 --> 00:03:32,471
 Those two already have leaves.
 
-44
-00:03:33,150 --> 00:03:37,270
+58
+00:03:32,621 --> 00:03:36,557
 They are young plants. The radishes start as
 seeds.
 
-45
-00:03:37,520 --> 00:03:40,350
+59
+00:03:36,707 --> 00:03:39,357
 Different beginnings, the same careful
 attention.
 
-46
-00:03:45,500 --> 00:03:47,900
+60
+00:03:39,507 --> 00:03:44,300
+I can see the difference even before the
+labels go in.
+
+61
+00:03:45,250 --> 00:03:47,805
 Tools here. Clear path there.
 
-47
-00:03:48,150 --> 00:03:50,550
+62
+00:03:47,955 --> 00:03:50,510
 And nobody swings the shovel.
 
-48
-00:03:50,800 --> 00:03:52,770
+63
+00:03:50,660 --> 00:03:52,722
 Especially our ambitious gardener.
 
-49
-00:04:00,500 --> 00:04:04,620
+64
+00:03:52,872 --> 00:03:57,400
+Understood. Even ambitious gardeners carry
+their tools down low.
+
+65
+00:04:00,250 --> 00:04:04,066
 Left for mint, middle for basil, right for
 radishes.
 
-50
-00:04:04,870 --> 00:04:07,700
+66
+00:04:04,216 --> 00:04:06,784
 Each pot gets its own saucer.
 
-51
-00:04:07,950 --> 00:04:11,210
+67
+00:04:06,934 --> 00:04:09,919
 Now the bench has a clear plan.
 
-52
-00:04:15,500 --> 00:04:17,470
+68
+00:04:10,069 --> 00:04:14,300
+Good. I can find the middle without turning
+anything around.
+
+69
+00:04:15,250 --> 00:04:17,090
 Can my coin help?
 
-53
-00:04:17,720 --> 00:04:21,410
+70
+00:04:17,240 --> 00:04:20,840
 It can remind us which mint we mean.
 
-54
-00:04:21,660 --> 00:04:24,490
+71
+00:04:20,990 --> 00:04:23,710
 A very profitable piece of paper.
 
-55
-00:04:30,500 --> 00:04:33,330
+72
+00:04:23,860 --> 00:04:28,340
+This coin gets to stay dry in the notebook,
+right?
+
+73
+00:04:30,250 --> 00:04:32,970
 Gloves on, hands away from mouths.
 
-56
-00:04:33,580 --> 00:04:36,840
+74
+00:04:33,120 --> 00:04:36,280
 We will wash properly when we finish.
 
-57
-00:04:37,090 --> 00:04:41,640
+75
+00:04:36,430 --> 00:04:40,910
 The plants are not the only things getting
 good care.
 
-58
-00:04:45,500 --> 00:04:48,330
+76
+00:04:41,060 --> 00:04:44,220
+Good. Let's keep the dirt out here.
+
+77
+00:04:45,250 --> 00:04:47,900
 It is already a little damp.
 
-59
-00:04:48,580 --> 00:04:51,840
+78
+00:04:48,050 --> 00:04:51,128
 Yes. We will check before adding water.
 
-60
-00:04:52,090 --> 00:04:55,350
+79
+00:04:51,278 --> 00:04:54,357
 Slowly keeps the soil where it belongs.
 
-61
-00:05:00,500 --> 00:05:02,900
+80
+00:04:54,507 --> 00:04:59,300
+Let's keep a little space at the rim as we go.
+
+81
+00:05:00,250 --> 00:05:02,530
 Leave room at the top?
 
-62
-00:05:03,150 --> 00:05:06,410
+82
+00:05:02,680 --> 00:05:05,840
 Yes. Room for water without spilling soil.
 
-63
-00:05:06,660 --> 00:05:10,350
+83
+00:05:05,990 --> 00:05:09,590
 Even a pot appreciates a little breathing
 space.
 
-64
-00:05:15,500 --> 00:05:17,900
+84
+00:05:09,740 --> 00:05:13,780
+So the soil stays inside when the water
+arrives.
+
+85
+00:05:15,250 --> 00:05:17,403
 One generous drink for everyone?
 
-65
-00:05:18,150 --> 00:05:22,270
+86
+00:05:17,553 --> 00:05:21,369
 Check first. Damp soil does not need a flood.
 
-66
-00:05:22,520 --> 00:05:26,640
+87
+00:05:21,519 --> 00:05:25,334
 Let us not give the roots a swimming pool.
 
-67
-00:05:30,500 --> 00:05:33,330
+88
+00:05:25,484 --> 00:05:29,300
+All right. I'll put the big splash on hold.
+
+89
+00:05:30,250 --> 00:05:32,970
 It looks much greener than money.
 
-68
-00:05:33,580 --> 00:05:36,410
+90
+00:05:33,120 --> 00:05:35,840
 Today we are planting, not tasting.
 
-69
-00:05:36,660 --> 00:05:39,920
+91
+00:05:35,990 --> 00:05:39,150
 Its leaves are the better clue anyway.
 
-70
-00:05:45,500 --> 00:05:48,330
+92
+00:05:39,300 --> 00:05:44,220
+I'll use my eyes, then. Those leaves have a
+pretty shape.
+
+93
+00:05:45,250 --> 00:05:47,970
 The tag says mint. Left pot.
 
-71
-00:05:48,580 --> 00:05:51,410
+94
+00:05:48,120 --> 00:05:50,840
 I checked the label before guessing.
 
-72
-00:05:51,660 --> 00:05:54,920
+95
+00:05:50,990 --> 00:05:54,150
 A strong start for our ambitious gardener.
 
-73
-00:06:00,500 --> 00:06:04,620
+96
+00:05:54,300 --> 00:05:59,220
+And a better start than planting a coin in
+that pot.
+
+97
+00:06:00,250 --> 00:06:04,290
 You are holding the roots, not tugging the
 leaves.
 
-74
-00:06:04,870 --> 00:06:06,840
+98
+00:06:04,440 --> 00:06:06,280
 Exactly. Gentle hands underneath.
 
-75
-00:06:07,090 --> 00:06:10,350
+99
+00:06:06,430 --> 00:06:09,590
 No plant gets pulled by its hairstyle.
 
-76
-00:06:15,500 --> 00:06:17,470
+100
+00:06:09,740 --> 00:06:14,220
+The little leaves hardly moved when the roots
+came out.
+
+101
+00:06:15,250 --> 00:06:17,090
 It has moved house.
 
-77
-00:06:17,720 --> 00:06:19,690
+102
+00:06:17,240 --> 00:06:19,080
 Without changing its name.
 
-78
-00:06:19,940 --> 00:06:23,200
+103
+00:06:19,230 --> 00:06:22,390
 Now we support the roots with soil.
 
-79
-00:06:30,500 --> 00:06:32,900
+104
+00:06:22,540 --> 00:06:27,460
+Good. It can get comfortable before we give it
+a drink.
+
+105
+00:06:30,250 --> 00:06:32,805
 Like tucking in a blanket?
 
-80
-00:06:33,150 --> 00:06:35,980
+106
+00:06:32,955 --> 00:06:36,003
 Gently. The roots still need air.
 
-81
-00:06:36,230 --> 00:06:38,030
+107
+00:06:36,153 --> 00:06:37,722
 Comfortable, not squashed.
 
-82
-00:06:45,500 --> 00:06:49,620
+108
+00:06:37,872 --> 00:06:42,400
+I can leave a little space around the stem.
+
+109
+00:06:45,250 --> 00:06:48,952
 One empty nursery pot, ready to use another
 day.
 
-83
-00:06:49,870 --> 00:06:53,990
+110
+00:06:49,102 --> 00:06:52,805
 So the plant has not left a twin behind.
 
-84
-00:06:54,240 --> 00:06:56,210
+111
+00:06:52,955 --> 00:06:54,641
 Only its old address.
 
-85
-00:07:00,500 --> 00:07:02,470
+112
+00:06:54,791 --> 00:06:59,300
+A house with nobody in it is much easier to
+stack.
+
+113
+00:07:00,250 --> 00:07:02,090
 The leaves look different.
 
-86
-00:07:02,720 --> 00:07:05,550
+114
+00:07:02,240 --> 00:07:04,960
 This is basil. Its tag agrees.
 
-87
-00:07:05,800 --> 00:07:08,630
+115
+00:07:05,110 --> 00:07:07,830
 Middle pot, just as we planned.
 
-88
-00:07:15,500 --> 00:07:17,300
+116
+00:07:07,980 --> 00:07:12,460
+Two plants and two different shapes. I see it
+now.
+
+117
+00:07:15,250 --> 00:07:16,819
 Another moving day.
 
-89
-00:07:17,550 --> 00:07:19,950
+118
+00:07:16,969 --> 00:07:19,524
 And the same gentle lift.
 
-90
-00:07:20,200 --> 00:07:22,600
+119
+00:07:19,674 --> 00:07:22,229
 Our garden has excellent movers.
 
-91
-00:07:30,500 --> 00:07:32,470
+120
+00:07:22,379 --> 00:07:27,400
+Good. That stem still looks the same after the
+move.
+
+121
+00:07:30,250 --> 00:07:32,090
 Basil in the middle.
 
-92
-00:07:32,720 --> 00:07:35,980
+122
+00:07:32,240 --> 00:07:35,400
 Soil around the roots, below the rim.
 
-93
-00:07:36,230 --> 00:07:39,490
+123
+00:07:35,550 --> 00:07:38,710
 I have its label ready for later.
 
-94
-00:07:45,500 --> 00:07:48,330
+124
+00:07:38,860 --> 00:07:44,220
+Keep it with us. We'll do the names together
+in a bit.
+
+125
+00:07:45,250 --> 00:07:47,900
 Not too tight around the stem.
 
-95
-00:07:48,580 --> 00:07:51,840
+126
+00:07:48,050 --> 00:07:51,128
 That is right. Support it without squeezing.
 
-96
-00:07:52,090 --> 00:07:55,350
+127
+00:07:51,278 --> 00:07:54,357
 A comfortable fit, even without shoe sizes.
 
-97
-00:08:00,500 --> 00:08:03,330
+128
+00:07:54,507 --> 00:07:59,300
+I think that stem would vote for a little
+elbow room.
+
+129
+00:08:00,250 --> 00:08:02,970
 Which plant is in the middle?
 
-98
-00:08:03,580 --> 00:08:08,130
+130
+00:08:03,120 --> 00:08:07,600
 Basil. The mint is not making change on the
 left.
 
-99
-00:08:08,380 --> 00:08:11,640
+131
+00:08:07,750 --> 00:08:10,910
 Good. Our garden names are staying put.
 
-100
-00:08:15,500 --> 00:08:17,900
-This pot looks rather empty.
-
-101
-00:08:18,150 --> 00:08:20,550
-It is ready, not forgotten.
-
-102
-00:08:20,800 --> 00:08:23,200
-Its residents are much smaller.
-
-103
-00:08:30,500 --> 00:08:32,900
-Three seeds for this pot.
-
-104
-00:08:33,150 --> 00:08:36,410
-The rest stay dry in their packet.
-
-105
-00:08:36,660 --> 00:08:40,780
-A tiny beginning does not need a crowded home.
-
-106
-00:08:45,500 --> 00:08:48,760
-Space between them, and not too deep.
-
-107
-00:08:49,010 --> 00:08:52,700
-This packet tells us what these seeds need.
-
-108
-00:08:52,950 --> 00:08:54,920
-No basement apartments, then.
-
-109
-00:09:00,500 --> 00:09:02,470
-One in the back.
-
-110
-00:09:02,720 --> 00:09:04,520
-Two still waiting.
-
-111
-00:09:04,770 --> 00:09:08,030
-They will all have their own space.
-
-112
-00:09:15,500 --> 00:09:17,470
-One for this space.
-
-113
-00:09:17,720 --> 00:09:19,690
-A very orderly neighborhood.
-
-114
-00:09:19,940 --> 00:09:22,770
-And one neighbor still to come.
-
-115
-00:09:30,500 --> 00:09:32,900
-The last neighbor has arrived.
-
-116
-00:09:33,150 --> 00:09:35,550
-And the dish is empty.
-
-117
-00:09:35,800 --> 00:09:39,060
-Now we can cover all three gently.
-
-118
-00:09:45,500 --> 00:09:47,470
-Where are the radishes?
-
-119
-00:09:47,720 --> 00:09:50,550
-Below the soil. They need time.
-
-120
-00:09:50,800 --> 00:09:54,920
-Then our first picture can be a quiet pot.
-
-121
-00:10:00,500 --> 00:10:04,190
-Label first, guess later. Ben had a point.
-
-122
-00:10:04,440 --> 00:10:06,410
-Three names, three stakes.
-
-123
-00:10:06,660 --> 00:10:09,920
-Let the handwriting agree with the plants.
-
-124
-00:10:15,500 --> 00:10:17,470
-Mint. The leafy kind.
-
-125
-00:10:17,720 --> 00:10:20,550
-That label will help us remember.
-
-126
-00:10:20,800 --> 00:10:24,060
-My wallet can stop expecting a harvest.
-
-127
-00:10:30,500 --> 00:10:32,470
-Basil in the middle.
-
-128
-00:10:32,720 --> 00:10:34,690
-Name and place match.
-
-129
-00:10:34,940 --> 00:10:38,200
-And the original tag agrees with both.
-
-130
-00:10:45,500 --> 00:10:48,760
-The name is taller than the plant.
-
-131
-00:10:49,010 --> 00:10:50,810
-For today.
-
 132
-00:10:51,060 --> 00:10:54,750
-It will remind us what is growing underneath.
+00:08:11,060 --> 00:08:13,780
+Mint on the left. Got it.
 
 133
-00:11:00,500 --> 00:11:03,760
-Day one: planted. No radish shoots yet.
+00:08:15,250 --> 00:08:17,607
+This pot looks rather empty.
 
 134
-00:11:04,010 --> 00:11:07,270
-An honest report from a quiet pot.
+00:08:17,757 --> 00:08:20,113
+It is ready, not forgotten.
 
 135
-00:11:07,520 --> 00:11:10,780
-That is how a useful journal begins.
+00:08:20,263 --> 00:08:22,620
+Its residents are much smaller.
 
 136
-00:11:15,500 --> 00:11:18,760
-Perhaps the mint wants the whole can.
+00:08:22,770 --> 00:08:27,400
+How small? I can hardly see them from this
+side.
 
 137
-00:11:19,010 --> 00:11:23,130
-Let us ask the soil before making that offer.
+00:08:30,250 --> 00:08:32,339
+Three seeds for this pot.
 
 138
-00:11:23,380 --> 00:11:26,640
-It has already declined the swimming pool.
+00:08:32,489 --> 00:08:35,385
+The rest stay dry in their packet.
 
 139
-00:11:30,500 --> 00:11:34,190
+00:08:35,535 --> 00:08:39,238
+A tiny beginning does not need a crowded home.
+
+140
+00:08:39,388 --> 00:08:44,300
+Good. I'll watch all three spaces on top
+before we cover them.
+
+141
+00:08:45,250 --> 00:08:48,410
+Space between them, and not too deep.
+
+142
+00:08:48,560 --> 00:08:52,160
+This packet tells us what these seeds need.
+
+143
+00:08:52,310 --> 00:08:54,150
+No basement apartments, then.
+
+144
+00:08:54,300 --> 00:08:58,780
+I'll use what the packet says for these
+particular seeds.
+
+145
+00:09:00,250 --> 00:09:02,229
+One in the back.
+
+146
+00:09:02,379 --> 00:09:03,884
+Two still waiting.
+
+147
+00:09:04,034 --> 00:09:07,432
+They will all have their own space.
+
+148
+00:09:07,582 --> 00:09:12,400
+Can I keep count while the other two are
+waiting?
+
+149
+00:09:15,250 --> 00:09:17,152
+One for this space.
+
+150
+00:09:17,302 --> 00:09:19,204
+A very orderly neighborhood.
+
+151
+00:09:19,354 --> 00:09:22,165
+And one neighbor still to come.
+
+152
+00:09:22,315 --> 00:09:27,400
+Good. The last little neighbor has a spot of
+its own.
+
+153
+00:09:30,250 --> 00:09:32,530
+The last neighbor has arrived.
+
+154
+00:09:32,680 --> 00:09:34,960
+And the dish is empty.
+
+155
+00:09:35,110 --> 00:09:38,270
+Now we can cover all three gently.
+
+156
+00:09:38,420 --> 00:09:43,340
+Three in their places. Now we can leave them
+in peace.
+
+157
+00:09:45,250 --> 00:09:47,090
+Where are the radishes?
+
+158
+00:09:47,240 --> 00:09:49,960
+Below the soil. They need time.
+
+159
+00:09:50,110 --> 00:09:54,150
+Then our first picture can be a quiet pot.
+
+160
+00:09:54,300 --> 00:09:56,140
+Okay. I can wait.
+
+161
+00:09:56,290 --> 00:09:59,010
+Save room for that first shoot.
+
+162
+00:10:00,250 --> 00:10:03,850
+Label first, guess later. Ben had a point.
+
+163
+00:10:04,000 --> 00:10:05,840
+Three names, three stakes.
+
+164
+00:10:05,990 --> 00:10:09,150
+Let the handwriting agree with the plants.
+
+165
+00:10:09,300 --> 00:10:13,780
+I'll read the names with you before they go
+in.
+
+166
+00:10:15,250 --> 00:10:17,090
+Mint. The leafy kind.
+
+167
+00:10:17,240 --> 00:10:19,960
+That label will help us remember.
+
+168
+00:10:20,110 --> 00:10:23,270
+My wallet can stop expecting a harvest.
+
+169
+00:10:23,420 --> 00:10:27,900
+Good. It would be a long wait for pocket
+money.
+
+170
+00:10:30,250 --> 00:10:32,090
+Basil in the middle.
+
+171
+00:10:32,240 --> 00:10:34,080
+Name and place match.
+
+172
+00:10:34,230 --> 00:10:37,390
+And the original tag agrees with both.
+
+173
+00:10:37,540 --> 00:10:42,900
+Good. I'd like to recognize the leaves as well
+as the name.
+
+174
+00:10:45,250 --> 00:10:48,410
+The name is taller than the plant.
+
+175
+00:10:48,560 --> 00:10:49,520
+For today.
+
+176
+00:10:49,670 --> 00:10:53,270
+It will remind us what is growing underneath.
+
+177
+00:10:53,420 --> 00:10:58,340
+Then I won't think the bare soil means we
+forgot one.
+
+178
+00:11:00,250 --> 00:11:03,410
+Day one: planted. No radish shoots yet.
+
+179
+00:11:03,560 --> 00:11:06,720
+An honest report from a quiet pot.
+
+180
+00:11:06,870 --> 00:11:10,030
+That is how a useful journal begins.
+
+181
+00:11:10,180 --> 00:11:14,220
+I'll leave a little room for whatever happens
+next.
+
+182
+00:11:15,250 --> 00:11:18,146
+Perhaps the mint wants the whole can.
+
+183
+00:11:18,296 --> 00:11:21,998
+Let us ask the soil before making that offer.
+
+184
+00:11:22,148 --> 00:11:25,044
+It has already declined the swimming pool.
+
+185
+00:11:25,194 --> 00:11:29,300
+Good thing we checked. My first offer was
+rather large.
+
+186
+00:11:30,250 --> 00:11:33,850
 Start with one small measured amount, then
 observe.
 
-140
-00:11:34,440 --> 00:11:36,410
+187
+00:11:34,000 --> 00:11:35,840
 One hundred, not everything.
 
-141
-00:11:36,660 --> 00:11:39,920
+188
+00:11:35,990 --> 00:11:39,150
 Now the can has four hundred left.
 
-142
-00:11:45,500 --> 00:11:48,330
+189
+00:11:39,300 --> 00:11:44,220
+I'll watch the soil while the rest stays in
+the can.
+
+190
+00:11:45,250 --> 00:11:47,970
 A small drink, around the roots.
 
-143
-00:11:48,580 --> 00:11:50,380
+191
+00:11:48,120 --> 00:11:49,520
 No swimming lessons.
 
-144
-00:11:50,630 --> 00:11:53,890
+192
+00:11:49,670 --> 00:11:52,830
 Now we watch what the water does.
 
-145
-00:12:00,500 --> 00:12:03,330
+193
+00:11:52,980 --> 00:11:58,340
+I can wait. The water doesn't need my help to
+sink in.
+
+194
+00:12:00,250 --> 00:12:02,819
 A little came through the bottom.
 
-146
-00:12:03,580 --> 00:12:07,700
+195
+00:12:02,969 --> 00:12:06,784
 The soil has settled. That is enough for now.
 
-147
-00:12:07,950 --> 00:12:10,780
+196
+00:12:06,934 --> 00:12:09,503
 Stopping is part of watering too.
 
-148
-00:12:15,500 --> 00:12:20,050
+197
+00:12:09,653 --> 00:12:14,300
+Yes. Let's leave that plant in peace and check
+the next.
+
+198
+00:12:15,250 --> 00:12:19,614
 Three hundred in the can, one hundred in the
 cup.
 
-149
-00:12:20,300 --> 00:12:23,990
+199
+00:12:19,764 --> 00:12:23,272
 Our water is getting a very careful
 accountant.
 
-150
-00:12:24,240 --> 00:12:27,500
+200
+00:12:23,422 --> 00:12:26,500
 And the basil gets a careful drink.
 
-151
-00:12:30,500 --> 00:12:32,900
+201
+00:12:26,650 --> 00:12:29,300
+That little cup's easier to control.
+
+202
+00:12:30,250 --> 00:12:32,339
 Same small measure, different plant.
 
-152
-00:12:33,150 --> 00:12:35,980
+203
+00:12:32,489 --> 00:12:34,982
 We still check its own soil.
 
-153
-00:12:36,230 --> 00:12:41,210
+204
+00:12:35,132 --> 00:12:39,641
 The amount is our record, not a rule for every
 day.
 
-154
-00:12:45,500 --> 00:12:49,190
+205
+00:12:39,791 --> 00:12:44,300
+So we write what happened today and check
+tomorrow for ourselves.
+
+206
+00:12:45,250 --> 00:12:48,650
 Do all pots want the same drink forever?
 
-155
-00:12:49,440 --> 00:12:53,560
+207
+00:12:48,800 --> 00:12:52,616
 No. Weather, roots, soil and pot size change
 that.
 
-156
-00:12:53,810 --> 00:12:56,640
+208
+00:12:52,766 --> 00:12:55,334
 We will check again another day.
 
-157
-00:13:00,500 --> 00:13:03,760
+209
+00:12:55,484 --> 00:12:59,300
+Okay. The pots can have different answers next
+time.
+
+210
+00:13:00,250 --> 00:13:03,410
 One hundred for the seed pot, gently.
 
-158
-00:13:04,010 --> 00:13:08,130
+211
+00:13:03,560 --> 00:13:07,600
 A slow pour will keep the soil in place.
 
-159
-00:13:08,380 --> 00:13:10,780
+212
+00:13:07,750 --> 00:13:10,030
 The tiny neighbors dislike waterfalls.
 
-160
-00:13:15,500 --> 00:13:17,300
+213
+00:13:10,180 --> 00:13:14,220
+Point taken. I'll keep the pour gentle and
+close.
+
+214
+00:13:15,250 --> 00:13:16,614
 Nothing green yet.
 
-161
-00:13:17,550 --> 00:13:21,670
+215
+00:13:16,764 --> 00:13:20,700
 That is normal. We planted seeds, not a
 shortcut.
 
-162
-00:13:21,920 --> 00:13:25,180
+216
+00:13:20,850 --> 00:13:23,928
 Our journal can wait for real changes.
 
-163
-00:13:30,500 --> 00:13:35,050
+217
+00:13:24,078 --> 00:13:29,300
+Good. I want to see the very first bit of
+green myself.
+
+218
+00:13:30,250 --> 00:13:34,356
 Two hundred left. I do not have to spend it.
 
-164
-00:13:35,300 --> 00:13:38,130
+219
+00:13:34,506 --> 00:13:36,998
 Exactly. Use what the plants need.
 
-165
-00:13:38,380 --> 00:13:41,640
+220
+00:13:37,148 --> 00:13:40,044
 Three small drinks, not one grand flood.
 
-166
-00:13:45,500 --> 00:13:48,330
+221
+00:13:40,194 --> 00:13:44,300
+Good. Leaving water in the can feels like
+helping now.
+
+222
+00:13:45,250 --> 00:13:47,970
 Three hundred used. Two hundred left.
 
-167
-00:13:48,580 --> 00:13:50,380
+223
+00:13:48,120 --> 00:13:49,520
 Together, five hundred.
 
-168
-00:13:50,630 --> 00:13:55,180
+224
+00:13:49,670 --> 00:13:54,150
 And tomorrow we check the soil before choosing
 any amount.
 
-169
-00:14:00,500 --> 00:14:02,900
+225
+00:13:54,300 --> 00:13:58,780
+I'll write the amount we used, so we remember
+today.
+
+226
+00:14:00,250 --> 00:14:02,530
 No pools under the houses.
 
-170
-00:14:03,150 --> 00:14:06,410
+227
+00:14:02,680 --> 00:14:05,840
 Roots need drainage, not a permanent bath.
 
-171
-00:14:06,660 --> 00:14:09,490
+228
+00:14:05,990 --> 00:14:08,710
 The swimming club is officially closed.
 
-172
-00:14:15,500 --> 00:14:18,330
+229
+00:14:08,860 --> 00:14:12,900
+Good. These little houses won't need lifeboats
+after all.
+
+230
+00:14:15,250 --> 00:14:17,743
 The tree makes shade over there.
 
-173
-00:14:18,580 --> 00:14:21,410
+231
+00:14:17,893 --> 00:14:20,385
 These tags ask for good light.
 
-174
-00:14:21,660 --> 00:14:26,640
+232
+00:14:20,535 --> 00:14:25,044
 This sunny strip gives us room to check the
 pots safely.
 
-175
-00:14:30,500 --> 00:14:32,470
+233
+00:14:25,194 --> 00:14:29,300
+We can see all the labels from the path there.
+
+234
+00:14:30,250 --> 00:14:32,090
 Left pot, left place.
 
-176
-00:14:32,720 --> 00:14:35,120
+235
+00:14:32,240 --> 00:14:34,520
 The label faces the path.
 
-177
-00:14:35,370 --> 00:14:38,200
+236
+00:14:34,670 --> 00:14:37,390
 And the walking space stays clear.
 
-178
-00:14:45,500 --> 00:14:47,900
+237
+00:14:37,540 --> 00:14:42,900
+Good. We'll be able to read it without
+stepping off the path.
+
+238
+00:14:45,250 --> 00:14:47,530
 Basil in the middle again.
 
-179
-00:14:48,150 --> 00:14:50,550
+239
+00:14:47,680 --> 00:14:49,960
 It has kept its address.
 
-180
-00:14:50,800 --> 00:14:54,920
+240
+00:14:50,110 --> 00:14:54,150
 And both of you have kept the path clear.
 
-181
-00:15:00,500 --> 00:15:02,470
+241
+00:14:54,300 --> 00:14:59,220
+Good. We'll still know which one is basil from
+over here.
+
+242
+00:15:00,250 --> 00:15:02,090
 Radishes on the right.
 
-182
-00:15:02,720 --> 00:15:05,980
+243
+00:15:02,240 --> 00:15:05,400
 A quiet home, with a clear name.
 
-183
-00:15:06,230 --> 00:15:10,350
+244
+00:15:05,550 --> 00:15:09,590
 Now we can watch without digging up the
 answer.
 
-184
-00:15:15,500 --> 00:15:19,190
+245
+00:15:09,740 --> 00:15:14,220
+I can wait. The label's got today's answer on
+it.
+
+246
+00:15:15,250 --> 00:15:18,850
 Two leafy plants and one pot of waiting.
 
-185
-00:15:19,440 --> 00:15:22,700
+247
+00:15:19,000 --> 00:15:22,160
 The seed positions go in the diagram.
 
-186
-00:15:22,950 --> 00:15:28,360
-A record can show what we know and what we can
-see.
+248
+00:15:22,310 --> 00:15:25,030
+Draw what we can see today.
 
-187
-00:15:30,500 --> 00:15:34,190
+249
+00:15:25,180 --> 00:15:28,340
+Then I'll leave off the imaginary leaves.
+
+250
+00:15:30,250 --> 00:15:33,850
 Can the seeds stay out of the rain?
 
-188
-00:15:34,440 --> 00:15:38,130
+251
+00:15:34,000 --> 00:15:37,600
 The spare packet goes on the dry shelf.
 
-189
-00:15:38,380 --> 00:15:41,640
+252
+00:15:37,750 --> 00:15:40,910
 Our tools get a home as well.
 
-190
-00:15:45,500 --> 00:15:48,330
+253
+00:15:41,060 --> 00:15:44,220
+Good. Spare seeds stay dry up there.
+
+254
+00:15:45,250 --> 00:15:47,970
 Two hundred saved, not secretly added.
 
-191
-00:15:48,580 --> 00:15:50,980
+255
+00:15:48,120 --> 00:15:50,400
 My grand gesture can wait.
 
-192
-00:15:51,230 --> 00:15:54,920
+256
+00:15:50,550 --> 00:15:54,150
 Today your careful stopping was the useful
 part.
 
-193
-00:16:00,500 --> 00:16:02,470
+257
+00:15:54,300 --> 00:15:59,220
+Good. Tomorrow the soil can tell us what to do
+next.
+
+258
+00:16:00,250 --> 00:16:01,936
 Gloves stay out here.
 
-194
-00:16:02,720 --> 00:16:05,550
+259
+00:16:02,086 --> 00:16:04,579
 Yes. We still wash our hands.
 
-195
-00:16:05,800 --> 00:16:11,210
+260
+00:16:04,729 --> 00:16:09,641
 No soil goes on the door handle if we can help
 it.
 
-196
-00:16:15,500 --> 00:16:18,330
+261
+00:16:09,791 --> 00:16:14,300
+I'll leave my gloves here and go with you to
+wash.
+
+262
+00:16:15,250 --> 00:16:17,970
 Before a snack, a proper wash.
 
-197
-00:16:18,580 --> 00:16:20,550
+263
+00:16:18,120 --> 00:16:19,960
 Even the gardener’s accountant?
 
-198
-00:16:20,800 --> 00:16:24,060
+264
+00:16:20,110 --> 00:16:23,270
 Especially anyone with soil on their hands.
 
-199
-00:16:30,500 --> 00:16:32,470
+265
+00:16:23,420 --> 00:16:28,340
+Especially me. I handled the pots as well as
+the numbers.
+
+266
+00:16:30,250 --> 00:16:32,090
 Day one is complete.
 
-200
-00:16:32,720 --> 00:16:36,410
+267
+00:16:32,240 --> 00:16:35,840
 And the paper coin is still above ground.
 
-201
-00:16:36,660 --> 00:16:39,490
+268
+00:16:35,990 --> 00:16:38,710
 Exactly where a pretend coin belongs.
 
-202
-00:16:45,500 --> 00:16:48,760
+269
+00:16:38,860 --> 00:16:43,340
+Good. My pencil doesn't have to grow a radish
+today.
+
+270
+00:16:45,250 --> 00:16:48,234
 Will the radishes be ready after lunch?
 
-203
-00:16:49,010 --> 00:16:52,700
+271
+00:16:48,384 --> 00:16:51,784
 No. We will watch over the coming days.
 
-204
-00:16:52,950 --> 00:16:56,210
+272
+00:16:51,934 --> 00:16:54,919
 Then patience belongs on the supply list.
 
-205
-00:17:00,500 --> 00:17:03,760
+273
+00:16:55,069 --> 00:16:59,300
+Can we still look if there's nothing new to
+see?
+
+274
+00:17:00,250 --> 00:17:03,146
 I will leave room for what changes.
 
-206
-00:17:04,010 --> 00:17:06,840
+275
+00:17:03,296 --> 00:17:05,789
 We cannot write the answer yet.
 
-207
-00:17:07,090 --> 00:17:11,640
+276
+00:17:05,939 --> 00:17:10,044
 That is a good reason to come back and look.
 
-208
-00:17:15,500 --> 00:17:19,620
+277
+00:17:10,194 --> 00:17:14,300
+I'll leave a blank spot for the first green
+bit.
+
+278
+00:17:15,250 --> 00:17:19,290
 Your paper coin grew into a very good joke.
 
-209
-00:17:19,870 --> 00:17:21,670
+279
+00:17:19,440 --> 00:17:20,840
 And a reminder.
 
-210
-00:17:21,920 --> 00:17:23,890
+280
+00:17:20,990 --> 00:17:22,830
 Both are worth keeping.
 
-211
-00:17:30,500 --> 00:17:33,330
+281
+00:17:22,980 --> 00:17:28,340
+And the only thing we had to spend was a
+little time.
+
+282
+00:17:30,250 --> 00:17:32,970
 A last look from the path.
 
-212
-00:17:33,580 --> 00:17:36,410
+283
+00:17:33,120 --> 00:17:35,840
 No extra drink, no extra seed.
 
-213
-00:17:36,660 --> 00:17:39,490
+284
+00:17:35,990 --> 00:17:38,710
 Just the garden we actually planted.
 
-214
-00:17:45,500 --> 00:17:47,900
+285
+00:17:38,860 --> 00:17:43,340
+I'll wave from here. The seeds don't need
+digging up.
+
+286
+00:17:45,250 --> 00:17:47,471
 I nearly wanted a forest.
 
-215
-00:17:48,150 --> 00:17:51,840
+287
+00:17:47,621 --> 00:17:51,128
 Three pots give us room to notice things.
 
-216
-00:17:52,090 --> 00:17:55,350
+288
+00:17:51,278 --> 00:17:54,357
 And time to care for them together.
 
-217
-00:18:00,500 --> 00:18:03,330
+289
+00:17:54,507 --> 00:17:59,300
+And I already know all three of these
+neighbors by name.
+
+290
+00:18:00,250 --> 00:18:02,900
 We will visit again, tiny neighbors.
 
-218
-00:18:03,580 --> 00:18:06,410
+291
+00:18:03,050 --> 00:18:05,700
 Quiet neighbors are easy to hear.
 
-219
-00:18:06,660 --> 00:18:10,780
+292
+00:18:05,850 --> 00:18:09,786
 Especially when Dad is not giving a gardening
 speech.
 
-220
-00:18:15,500 --> 00:18:20,050
+293
+00:18:09,936 --> 00:18:14,300
+They can have a quiet afternoon. We did enough
+today.
+
+294
+00:18:15,250 --> 00:18:19,481
 I wanted to be helpful. Checking helped more
 than pouring.
 
-221
-00:18:20,300 --> 00:18:23,130
+295
+00:18:19,631 --> 00:18:22,200
 You listened and changed the plan.
 
-222
-00:18:23,380 --> 00:18:25,780
+296
+00:18:22,350 --> 00:18:24,503
 The roots probably appreciate that.
 
-223
-00:18:30,500 --> 00:18:34,190
+297
+00:18:24,653 --> 00:18:29,300
+Good. It's the first time I've felt proud of
+leftover water.
+
+298
+00:18:30,250 --> 00:18:33,850
 Labels, a drawing, a water record. Everyone
 helped.
 
-224
-00:18:34,440 --> 00:18:38,130
+299
+00:18:34,000 --> 00:18:37,600
 Even a quiet pot has a story now.
 
-225
-00:18:38,380 --> 00:18:40,780
+300
+00:18:37,750 --> 00:18:40,030
 A very short first chapter.
 
-226
-00:18:45,500 --> 00:18:50,050
+301
+00:18:40,180 --> 00:18:44,220
+Day one is enough. The rest hasn't happened
+yet.
+
+302
+00:18:45,250 --> 00:18:49,237
 We can tell everyone about our garden at the
 gathering.
 
-227
-00:18:50,300 --> 00:18:53,130
+303
+00:18:49,387 --> 00:18:51,808
 A true story. No money harvest.
 
-228
-00:18:53,380 --> 00:18:57,070
+304
+00:18:51,958 --> 00:18:55,163
 And no promise that the radishes will hurry.
 
-229
-00:19:00,500 --> 00:19:04,190
+305
+00:18:55,313 --> 00:18:59,300
+I'll tell them who helped instead of promising
+a harvest.
+
+306
+00:19:00,250 --> 00:19:03,850
 Our garden is not bigger than the house.
 
-230
-00:19:04,440 --> 00:19:06,240
+307
+00:19:04,000 --> 00:19:05,400
 A wise limit.
 
-231
-00:19:06,490 --> 00:19:10,610
+308
+00:19:05,550 --> 00:19:09,590
 It still has enough names to keep you busy.
 
-232
-00:19:15,500 --> 00:19:18,760
+309
+00:19:09,740 --> 00:19:14,220
+Good. The only thing that got taller was Dad's
+plan.
+
+310
+00:19:15,250 --> 00:19:18,410
 Herbs upright. Radish soil bare. Saucers
 empty.
 
-233
-00:19:19,010 --> 00:19:20,980
+311
+00:19:18,560 --> 00:19:20,400
 A surprisingly satisfying report.
 
-234
-00:19:21,230 --> 00:19:24,060
+312
+00:19:20,550 --> 00:19:23,270
 Because it says what really happened.
 
-235
-00:19:30,500 --> 00:19:33,760
+313
+00:19:23,420 --> 00:19:27,900
+Good. I'll leave the page about tomorrow blank
+for now.
+
+314
+00:19:30,250 --> 00:19:33,410
 Three pots, six helpers, one better plan.
 
-236
-00:19:34,010 --> 00:19:36,410
+315
+00:19:33,560 --> 00:19:35,840
 And a morning well spent.
 
-237
-00:19:36,660 --> 00:19:39,920
+316
+00:19:35,990 --> 00:19:39,150
 The mint is still not making change.
 
-238
-00:19:45,500 --> 00:19:49,190
+317
+00:19:39,300 --> 00:19:44,220
+But the leaves smell better than the inside of
+a wallet.
+
+318
+00:19:45,250 --> 00:19:48,865
 We will come back and see what changes.
 
-239
-00:19:49,440 --> 00:19:51,240
+319
+00:19:49,015 --> 00:19:49,869
 Together.
 
-240
-00:19:51,490 --> 00:19:53,460
+320
+00:19:50,019 --> 00:19:51,867
 I can wait. Mostly.
+
+321
+00:19:52,017 --> 00:19:57,400
+We'll see it together when it happens. That
+part's worth waiting for.

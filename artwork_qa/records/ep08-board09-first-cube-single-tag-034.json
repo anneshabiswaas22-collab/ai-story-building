@@ -1,0 +1,110 @@
+{
+  "episode": 8,
+  "board": 9,
+  "path": "Episode_08/assets/storyboards/BOARD_09.png",
+  "parent_commit": "2a29bbc6b43bde49032982b1323327ddbc063bd7",
+  "parent_sha256": "438e8ff3239bf3fe2bb3a89e0a92025634fbe1b3fcd2187511814690aa81470b",
+  "selected_sha256": "d98dd321025f26f13f01a11eb06ce4efe51158901818f79b5833e33ae64ec88b",
+  "parent_size": [
+    1672,
+    941
+  ],
+  "selected_size": [
+    1672,
+    941
+  ],
+  "generated_source": "Episode_08/assets/storyboards/BOARD_09.png",
+  "method": "Selected panels from a referenced ImageGen edit were assembled into the previous sheet. The other panel rectangles match the parent pixels exactly.",
+  "request": "Repair the real selected four-panel storyboard in reference one. The second reference is the original classic 3D family cast, the remaining images are the actual locations, continuity and prior visual material. Keep exact shot number badges, relative heights, original skin tone, hair, clothes and premium feature-animation style. Never move a face or swap costumes between speakers. Dan sky-blue polo, dark MUSTACHE and left-wrist watch; adult Maya plum with ponytail; adult Nina teal with wavy auburn bob; older boy Leo orange; braided Ella in coral and full denim overalls; youngest small Max green. Use exactly the four numbered frames in a 2x2 landscape grid at source aspect, with panel shots in order, and preserve successful frames. Use six plain matching gray zippered cubes. 033 foreground ONE first cube next to the green-heeled pair, visibly empty and with its LID standing upright and zipper open. Five CLOSED gray cube neighbors behind; overlap if needed. Two individual white socks each with matching green heel/toe; Max folds, Ella checks. 034 show one single handwritten MAX paper tag *total*; it is at the first open cube's unmarked handle, Nina finishing X, Leo placing its clip, Max holding the paired socks. Leave the other five tags blank. 035 retained from selected original for exact pixel pickup. 036 exactly TWO individual white socks with coral star, both in Ella's hands side by side, one in each hand; the green cutting mat below her hands is visibly bare of any sock. Second cube OPEN EMPTY, first closed MAX cube and four unassigned cubes as continuity allows. Clothing and adults' identities match supplied cast, no extra limbs.\nSHOT_033 visible cast MAX, ELLA, NINA; location LAUNDRY_NOOK. Beat: Max lays the two matching green-heeled socks beside each other, then folds them together. Ella checks they match without borrowing them. End: One refolded green pair ready beside first empty cube; no loose single remains.. Previous finding: Five closed cubes behind Max folding socks; first open empty cube absent.; correction: Add first open cube next to pair..\nSHOT_034 visible cast NINA, MAX, LEO; location LAUNDRY_NOOK. Beat: Nina writes MAX on one tab, using the exact editorial label artwork. Leo clips that tab to the first cube's handle while Max holds his pair. End: First cube has MAX tab; five tabs remain blank; socks not yet repacked.. Previous finding: Nina writes MAX on loose tag while a separate MAX is already attached.; correction: Use one MAX tag, complete writing before clipping..\nSHOT_035 visible cast MAX, DAN; location LAUNDRY_NOOK. Beat: Max puts both folded green-heeled socks into the MAX cube and closes its zipper. Dan moves the cube to a checked row at the left. End: One closed labeled MAX cube in checked row; five unassigned cubes remain.. Previous finding: Max lowers green pair into MAX cube; Dan at zipper and five closed cubes behind.; correction: Creator to verify likeness, hands and final staging before first-frame approval..\nSHOT_036 visible cast ELLA, MAYA, DAN; location LAUNDRY_NOOK. Beat: Maya opens the second cube. Ella lifts its complete coral-star pair and compares both socks side by side on the mat. End: Second cube open empty; coral-star pair on mat; four later cubes untouched.. Previous finding: Ella holds two coral-star socks and another identical pair lies on mat.; correction: Show exactly two socks, in hands or on mat..",
+  "qa_updates": {
+    "SHOT_033": {
+      "observed": "Max folds the green-heeled pair beside the open first cube. Five other cubes remain closed.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_034": {
+      "observed": "Nina writes MAX on the sole paper tab while Leo holds the bare clip and Max holds his folded pair. The first cube is open and its handle bare.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_035": {
+      "observed": "Max lowers green pair into MAX cube; Dan at zipper and five closed cubes behind.",
+      "severity": "none observed",
+      "correction": "Creator to verify likeness, hands and final staging before first-frame approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_036": {
+      "observed": "Ella holds exactly two coral-star socks, one in each hand. The mat is empty, Maya holds the second cube open, and the first MAX cube is closed.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    }
+  },
+  "generated_source_sha256": "77e86e99936e5095b2e285f606aefa76912f28da912b613059f44123d9b5e355",
+  "generated_source_size": [
+    1672,
+    941
+  ],
+  "selected_panels": [
+    1,
+    2,
+    4
+  ],
+  "preserved_panels": [
+    3
+  ],
+  "selected_rectangles_xyxy": [
+    [
+      0,
+      0,
+      836,
+      470
+    ],
+    [
+      836,
+      0,
+      1672,
+      470
+    ],
+    [
+      836,
+      470,
+      1672,
+      941
+    ]
+  ],
+  "image_inputs": {
+    "selected_sheet": {
+      "path": "Episode_08/assets/storyboards/BOARD_09.png",
+      "sha256": "438e8ff3239bf3fe2bb3a89e0a92025634fbe1b3fcd2187511814690aa81470b"
+    },
+    "cast_contact_sheet": {
+      "sha256": "ee132e6bb6535a21dc45a3bed61516cfd1e2c5ff9eeb35c596d1324c1079193f",
+      "original_previews": "Episode_08/assets/characters"
+    },
+    "additional_reference": {
+      "sha256": "9ebd2f4202a050a524f739ccc19f4e33ebd7d0072316bc436f46f928943c13d7",
+      "sources": [
+        "Episode_08/assets/environments/LAUNDRY_NOOK.png",
+        "Episode_08/assets/overlays/SOCK_OWNERS.svg",
+        "Episode_08/assets/storyboards/BOARD_15.png",
+        "Episode_08/assets/storyboards/BOARD_08.png"
+      ]
+    }
+  },
+  "detail_edit": {
+    "localized_pickup": {
+      "crop": "836x470+836+0",
+      "prompt": "Single landscape SHOT_034, at the established oak laundry worktop. Keep original cast Nina teal on left, Max green middle holding two folded white and green socks in his hands, Leo orange on right. Five closed gray cubes discreet in background. Put ONE OPEN EMPTY cube at FRONT RIGHT immediately by Leo: its lid raised, obviously EMPTY. One paper tag in the entire picture. Nina is finishing writing 'MAX' with pen on that single small cream card lying unattached on the counter in lower left. Leo at lower RIGHT holds a bare silvery spring clip, waiting to attach it to the blank cloth handle after the ink is dry. The front fabric of the open cube is blank, no sticker, text, hanging tab or paper at all. All other cubes have bare handles. This moment is just before clipping, neither person is holding any second piece of paper. Two green-heeled socks Max holds stay OUT of cube. Crisp faces with anatomically distinct hands; exact SHOT_034 in upper left.",
+      "sha256": "2040d65c511285ce41f3add32c2121d6996c82d344bc28699899d5129727de4a"
+    },
+    "generation_reference_hashes": [
+      {
+        "purpose": "Scene and continuity reference",
+        "sha256": "9ebd2f4202a050a524f739ccc19f4e33ebd7d0072316bc436f46f928943c13d7"
+      }
+    ]
+  }
+}

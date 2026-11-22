@@ -27,10 +27,16 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_01.png](assets/storyboards/BOARD_01.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Permanent six original Brooks identities and W01 wardrobes; Dan watch anatomical LEFT, phone/wallet RIGHT. Maya and Nina equally respected. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–2.53s · DAN 2.68–6.28s · MAX 6.43–8.71s · MAYA 8.86–13.34s.
+
 **Dialogue:**
-**MAYA:** Max needs comfortable school shoes.  
-**DAN:** One useful pair. No enormous fruit this time.  
-**MAX:** Can shoes be too ripe?  
+**MAYA:** Max needs comfortable school shoes.
+
+**DAN:** One useful pair. No enormous fruit this time.
+
+**MAX:** Can shoes be too ripe?
+
+**MAYA:** Only if they start smelling like bananas. Let's try feet.
 
 ## SHOT_002 | 00:00:15–00:00:30 | The person inside them
 
@@ -42,10 +48,16 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_01.png](assets/storyboards/BOARD_01.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** One purchased pair: navy school shoes, white soles, white laces, green pull tabs, US kids size 2; cream teal-band box. Max keeps original green sneakers for travel/home. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): NINA 0.25–2.09s · MAX 2.24–5.84s · ELLA 5.99–8.27s · MAX 8.42–12.46s.
+
 **Dialogue:**
-**NINA:** How should they feel?  
-**MAX:** Comfortable. My toes would like a little space.  
-**ELLA:** They live there all day.  
+**NINA:** How should they feel?
+
+**MAX:** Comfortable. My toes would like a little space.
+
+**ELLA:** They live there all day.
+
+**MAX:** Mine would like room to move at recess, too.
 
 ## SHOT_003 | 00:00:30–00:00:45 | One clear plan
 
@@ -57,9 +69,16 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_01.png](assets/storyboards/BOARD_01.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** US kids size 1 tight and size 3 loose are returned trial stock; neither is bought. Adult size10 brown display shoe remains store stock; Dan never forces a foot into a child shoe. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–2.97s · DAN 3.12–5.84s · NINA 5.99–9.59s · LEO 9.74–13.78s.
+
 **Dialogue:**
-**LEO:** One pair, comfortable fit, forty-dollar budget.  
-**DAN:** Three checks. I can share those.  
+**LEO:** One pair, comfortable fit, forty-dollar budget.
+
+**DAN:** Three checks. I can share those.
+
+**NINA:** What goes at the top of the list?
+
+**LEO:** Fit first. Max has to wear them all day.
 
 ## SHOT_004 | 00:00:45–00:01:00 | Check without guessing
 
@@ -71,10 +90,16 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_01.png](assets/storyboards/BOARD_01.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Price $32 including tax; budget $40; pay two $20 bills; $8 change is one $5 bill and three $1 bills; no refund processed. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–2.23s · MAX 2.38–4.83s · MAYA 4.98–8.85s · MAX 9.00–12.40s.
+
 **Dialogue:**
-**DAN:** Do these feel tight?  
-**MAX:** A little at the front.  
-**MAYA:** We will measure both feet at the store.  
+**DAN:** Do these feel tight?
+
+**MAX:** A little at the front.
+
+**MAYA:** We will measure both feet at the store.
+
+**MAX:** Both? My toes aren't arguing about it.
 
 ## SHOT_005 | 00:01:00–00:01:15 | Six people leaving
 
@@ -86,10 +111,16 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Rose is Maya sister, visible only shots025–030 (90seconds), a provisional supporting design; she offers orientation clue while family completes task. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): NINA 0.25–1.28s · ELLA 1.43–3.41s · MAX 3.56–7.43s · DAN 7.58–12.40s.
+
 **Dialogue:**
-**NINA:** Everyone ready?  
-**ELLA:** All six of us.  
-**MAX:** And twelve feet. I checked the easy way.  
+**NINA:** Everyone ready?
+
+**ELLA:** All six of us.
+
+**MAX:** And twelve feet. I checked the easy way.
+
+**DAN:** Thanks, Max. I'll count the people and trust your feet.
 
 ## SHOT_006 | 00:01:15–00:01:30 | The right pocket
 
@@ -101,9 +132,16 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** All mall action on ground floor; no elevator/escalator ride; children stay with adults. Map upside down021–026, rotated upright027. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–3.15s · DAN 3.30–7.00s · LEO 7.15–10.85s · DAN 11.00–14.30s.
+
 **Dialogue:**
-**LEO:** Is the list facing the right way?  
-**DAN:** It will when I open it. An improvement already.  
+**LEO:** Is the list facing the right way?
+
+**DAN:** It will when I open it. An improvement already.
+
+**LEO:** Can I take a look when you open it?
+
+**DAN:** Please do. Two sets of eyes this time.
 
 ## SHOT_007 | 00:01:30–00:01:45 | Comfort is not a race
 
@@ -115,10 +153,16 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Store return policy in this fictional story: unworn shoes with receipt within14days; do not imply universal policy. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–2.53s · NINA 2.68–6.28s · MAX 6.43–8.71s · MAYA 8.86–13.34s.
+
 **Dialogue:**
-**MAYA:** Tell us if anything pinches.  
-**NINA:** We have time to find the right fit.  
-**MAX:** My toes appreciate the schedule.  
+**MAYA:** Tell us if anything pinches.
+
+**NINA:** We have time to find the right fit.
+
+**MAX:** My toes appreciate the schedule.
+
+**MAYA:** You get to tell us when a pair feels right.
 
 ## SHOT_008 | 00:01:45–00:02:00 | The mall trip begins
 
@@ -130,10 +174,16 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Receipt stored once at063, moved to household folder075; $8 stays in wallet. No seventh recurring family member or new wardrobe. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.41s · ELLA 3.56–5.40s · MAX 5.55–8.27s · LEO 8.42–13.34s.
+
 **Dialogue:**
-**DAN:** Shoes first, sensible questions along the way.  
-**ELLA:** We have a plan.  
-**MAX:** And our feet are coming too.  
+**DAN:** Shoes first, sensible questions along the way.
+
+**ELLA:** We have a plan.
+
+**MAX:** And our feet are coming too.
+
+**LEO:** Lucky for us. They know how to get to the door.
 
 ## SHOT_009 | 00:02:00–00:02:15 | Doors and directions
 
@@ -145,9 +195,16 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_03.png](assets/storyboards/BOARD_03.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Permanent six original Brooks identities and W01 wardrobes; Dan watch anatomical LEFT, phone/wallet RIGHT. Maya and Nina equally respected. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–3.41s · DAN 3.56–6.28s · NINA 6.43–9.15s · LEO 9.30–12.46s.
+
 **Dialogue:**
-**LEO:** The shoe store is on this floor.  
-**DAN:** Excellent. Our feet can start locally.  
+**LEO:** The shoe store is on this floor.
+
+**DAN:** Excellent. Our feet can start locally.
+
+**NINA:** Which way does the directory point?
+
+**LEO:** Along this floor. No stairs for us.
 
 ## SHOT_010 | 00:02:15–00:02:30 | A moving staircase
 
@@ -159,10 +216,16 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_03.png](assets/storyboards/BOARD_03.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** One purchased pair: navy school shoes, white soles, white laces, green pull tabs, US kids size 2; cream teal-band box. Max keeps original green sneakers for travel/home. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–2.97s · NINA 3.12–4.96s · MAX 5.11–8.71s · DAN 8.86–13.34s.
+
 **Dialogue:**
-**DAN:** A moving staircase. Very ambitious stairs.  
-**NINA:** That is the escalator.  
-**MAX:** Our stairs at home are taking a break.  
+**DAN:** A moving staircase. Very ambitious stairs.
+
+**NINA:** That is the escalator.
+
+**MAX:** Our stairs at home are taking a break.
+
+**DAN:** Saves them a trip. We're staying on this floor anyway.
 
 ## SHOT_011 | 00:02:30–00:02:45 | Another way upstairs
 
@@ -174,10 +237,16 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_03.png](assets/storyboards/BOARD_03.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** US kids size 1 tight and size 3 loose are returned trial stock; neither is bought. Adult size10 brown display shoe remains store stock; Dan never forces a foot into a child shoe. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–2.61s · ELLA 2.76–5.57s · LEO 5.72–7.62s · ELLA 7.77–12.40s.
+
 **Dialogue:**
-**MAYA:** The elevator is over there.  
-**ELLA:** And the store is over here.  
-**LEO:** Then upstairs can wait.  
+**MAYA:** The elevator is over there.
+
+**ELLA:** And the store is over here.
+
+**LEO:** Then upstairs can wait.
+
+**ELLA:** Good. I'd rather try shoes than ride past the store.
 
 ## SHOT_012 | 00:02:45–00:03:00 | Take a small map
 
@@ -189,10 +258,16 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_03.png](assets/storyboards/BOARD_03.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Price $32 including tax; budget $40; pay two $20 bills; $8 change is one $5 bill and three $1 bills; no refund processed. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–4.29s · MAX 4.44–7.60s · LEO 7.75–10.47s · MAX 10.62–14.22s.
+
 **Dialogue:**
-**DAN:** I will keep a map for the return trip.  
-**MAX:** Can it show where my feet are?  
-**LEO:** First we find where we are.  
+**DAN:** I will keep a map for the return trip.
+
+**MAX:** Can it show where my feet are?
+
+**LEO:** First we find where we are.
+
+**MAX:** I know that part. They're right under me.
 
 ## SHOT_013 | 00:03:00–00:03:15 | Landmarks agree
 
@@ -204,9 +279,16 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_04.png](assets/storyboards/BOARD_04.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Rose is Maya sister, visible only shots025–030 (90seconds), a provisional supporting design; she offers orientation clue while family completes task. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): NINA 0.25–3.65s · DAN 3.80–6.78s · ELLA 6.93–9.92s · NINA 10.07–14.30s.
+
 **Dialogue:**
-**NINA:** Entrance behind us, shoe store to our right.  
-**DAN:** The map and the mall agree. Promising.  
+**NINA:** Entrance behind us, shoe store to our right.
+
+**DAN:** The map and the mall agree. Promising.
+
+**ELLA:** Look at the sign beside the door.
+
+**NINA:** That's our shop. We can put the map away soon.
 
 ## SHOT_014 | 00:03:15–00:03:30 | The store window
 
@@ -218,9 +300,16 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_04.png](assets/storyboards/BOARD_04.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** All mall action on ground floor; no elevator/escalator ride; children stay with adults. Map upside down021–026, rotated upright027. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–3.76s · MAX 3.91–6.56s · ELLA 6.71–10.64s · DAN 10.79–14.30s.
+
 **Dialogue:**
-**ELLA:** There are shelves, a mirror, and a bench.  
-**MAX:** A small waiting room for feet.  
+**ELLA:** There are shelves, a mirror, and a bench.
+
+**MAX:** A small waiting room for feet.
+
+**ELLA:** And somewhere to sit while we try a pair.
+
+**DAN:** I hope the bench comes in my size.
 
 ## SHOT_015 | 00:03:30–00:03:45 | Ask for a seat
 
@@ -232,9 +321,16 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_04.png](assets/storyboards/BOARD_04.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Store return policy in this fictional story: unworn shoes with receipt within14days; do not imply universal policy. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): NINA 0.25–2.15s · DAN 2.30–5.57s · MAX 5.72–8.98s · NINA 9.13–12.40s.
+
 **Dialogue:**
-**NINA:** Let us start here.  
-**DAN:** Comfortable bench. The shoes have strong competition.  
+**NINA:** Let us start here.
+
+**DAN:** Comfortable bench. The shoes have strong competition.
+
+**MAX:** Can my feet try the bench first?
+
+**NINA:** Yes. They get the first turn today.
 
 ## SHOT_016 | 00:03:45–00:04:00 | Two boxes nearby
 
@@ -246,9 +342,16 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_04.png](assets/storyboards/BOARD_04.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Receipt stored once at063, moved to household folder075; $8 stays in wallet. No seventh recurring family member or new wardrobe. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–2.97s · DAN 3.12–5.84s · ELLA 5.99–8.71s · DAN 8.86–12.90s.
+
 **Dialogue:**
-**LEO:** That box says adult size ten.  
-**DAN:** Then it is definitely not Max's.  
+**LEO:** That box says adult size ten.
+
+**DAN:** Then it is definitely not Max's.
+
+**ELLA:** Who's doing the shopping today, then?
+
+**DAN:** Max is. My feet can stay in my shoes.
 
 ## SHOT_017 | 00:04:00–00:04:15 | An overconfident comparison
 
@@ -260,10 +363,16 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_05.png](assets/storyboards/BOARD_05.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Permanent six original Brooks identities and W01 wardrobes; Dan watch anatomical LEFT, phone/wallet RIGHT. Maya and Nina equally respected. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.52s · ELLA 3.67–6.02s · DAN 6.17–8.07s · MAX 8.22–12.40s.
+
 **Dialogue:**
-**DAN:** Two boxes. I can manage two boxes.  
-**ELLA:** Remember the two shopping lists?  
-**DAN:** A useful historical warning.  
+**DAN:** Two boxes. I can manage two boxes.
+
+**ELLA:** Remember the two shopping lists?
+
+**DAN:** A useful historical warning.
+
+**MAX:** Please remember which feet came with me today, Dad.
 
 ## SHOT_018 | 00:04:15–00:04:30 | The wrong shoe joke
 
@@ -275,10 +384,16 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_05.png](assets/storyboards/BOARD_05.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** One purchased pair: navy school shoes, white soles, white laces, green pull tabs, US kids size 2; cream teal-band box. Max keeps original green sneakers for travel/home. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–2.90s · MAX 3.05–5.70s · ELLA 5.85–9.36s · MAX 9.51–14.30s.
+
 **Dialogue:**
-**DAN:** This may be a little snug.  
-**MAX:** Your foot needs its own building.  
-**ELLA:** Check the box before the joke becomes work.  
+**DAN:** This may be a little snug.
+
+**MAX:** Your foot needs its own building.
+
+**ELLA:** Check the box before the joke becomes work.
+
+**MAX:** I can tell without trying. That one's smaller than your sock.
 
 ## SHOT_019 | 00:04:30–00:04:45 | Nothing gets forced
 
@@ -290,9 +405,16 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_05.png](assets/storyboards/BOARD_05.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** US kids size 1 tight and size 3 loose are returned trial stock; neither is bought. Adult size10 brown display shoe remains store stock; Dan never forces a foot into a child shoe. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–3.85s · DAN 4.00–7.60s · LEO 7.75–10.47s · DAN 10.62–13.78s.
+
 **Dialogue:**
-**MAYA:** We will not force a foot into anything.  
-**DAN:** Agreed. No shoes were harmed by my confidence.  
+**MAYA:** We will not force a foot into anything.
+
+**DAN:** Agreed. No shoes were harmed by my confidence.
+
+**LEO:** Whose foot are we measuring today?
+
+**DAN:** Max's. My foot is officially off duty.
 
 ## SHOT_020 | 00:04:45–00:05:00 | Return and measure first
 
@@ -304,10 +426,16 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_05.png](assets/storyboards/BOARD_05.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Price $32 including tax; budget $40; pay two $20 bills; $8 change is one $5 bill and three $1 bills; no refund processed. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): NINA 0.25–2.70s · MAX 2.85–6.25s · DAN 6.40–7.91s · MAX 8.06–12.40s.
+
 **Dialogue:**
-**NINA:** First, find the measuring station.  
-**MAX:** Then find shoes for my actual feet.  
-**DAN:** A sensible order.  
+**NINA:** First, find the measuring station.
+
+**MAX:** Then find shoes for my actual feet.
+
+**DAN:** A sensible order.
+
+**MAX:** Come on, Dad. They're both right here with me.
 
 ## SHOT_021 | 00:05:00–00:05:15 | The little arrow
 
@@ -319,10 +447,16 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Rose is Maya sister, visible only shots025–030 (90seconds), a provisional supporting design; she offers orientation clue while family completes task. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.41s · LEO 3.56–5.84s · DAN 5.99–9.15s · LEO 9.30–13.34s.
+
 **Dialogue:**
-**DAN:** The fitting room must be that way.  
-**LEO:** Is that map upside down?  
-**DAN:** I may have rotated the whole mall.  
+**DAN:** The fitting room must be that way.
+
+**LEO:** Is that map upside down?
+
+**DAN:** I may have rotated the whole mall.
+
+**LEO:** Turn the paper first. It's lighter than the building.
 
 ## SHOT_022 | 00:05:15–00:05:30 | Together, not wandering
 
@@ -334,10 +468,16 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** All mall action on ground floor; no elevator/escalator ride; children stay with adults. Map upside down021–026, rotated upright027. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–2.15s · NINA 2.30–4.66s · MAX 4.81–7.62s · ELLA 7.77–12.40s.
+
 **Dialogue:**
-**MAYA:** We will check together.  
-**NINA:** Nobody follows a guess alone.  
-**MAX:** My feet vote for the group.  
+**MAYA:** We will check together.
+
+**NINA:** Nobody follows a guess alone.
+
+**MAX:** My feet vote for the group.
+
+**ELLA:** I'll keep the real signs in sight while you check.
 
 ## SHOT_023 | 00:05:30–00:05:45 | The wrong direction stops
 
@@ -349,10 +489,16 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Store return policy in this fictional story: unworn shoes with receipt within14days; do not imply universal policy. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–2.09s · ELLA 2.24–5.40s · LEO 5.55–7.39s · DAN 7.54–12.46s.
+
 **Dialogue:**
-**DAN:** The arrow points here.  
-**ELLA:** But the shoe store is behind us.  
-**LEO:** That is worth checking.  
+**DAN:** The arrow points here.
+
+**ELLA:** But the shoe store is behind us.
+
+**LEO:** That is worth checking.
+
+**DAN:** A sign behind us beats a guess in front of us.
 
 ## SHOT_024 | 00:05:45–00:06:00 | Not every room fits
 
@@ -364,9 +510,16 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Receipt stored once at063, moved to household folder075; $8 stays in wallet. No seventh recurring family member or new wardrobe. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): NINA 0.25–4.61s · DAN 4.76–7.84s · MAX 7.99–10.21s · NINA 10.36–14.30s.
+
 **Dialogue:**
-**NINA:** Shoes often have a fitting area, not a changing room.  
-**DAN:** I asked my map the wrong question.  
+**NINA:** Shoes often have a fitting area, not a changing room.
+
+**DAN:** I asked my map the wrong question.
+
+**MAX:** What should we ask instead?
+
+**NINA:** Where they measure feet and let us try shoes.
 
 ## SHOT_025 | 00:06:00–00:06:15 | A familiar hello
 
@@ -378,10 +531,16 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_07.png](assets/storyboards/BOARD_07.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Permanent six original Brooks identities and W01 wardrobes; Dan watch anatomical LEFT, phone/wallet RIGHT. Maya and Nina equally respected. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–2.53s · ROSE 2.68–5.84s · DAN 5.99–7.39s · ROSE 7.54–12.46s.
+
 **Dialogue:**
-**MAYA:** Rose! What a lovely surprise.  
-**ROSE:** Hi, everyone. What are we looking for?  
-**DAN:** Better directions, apparently.  
+**MAYA:** Rose! What a lovely surprise.
+
+**ROSE:** Hi, everyone. What are we looking for?
+
+**DAN:** Better directions, apparently.
+
+**ROSE:** Directions I can help with. What were you trying to find?
 
 ## SHOT_026 | 00:06:15–00:06:30 | One useful question
 
@@ -393,10 +552,16 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_07.png](assets/storyboards/BOARD_07.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** One purchased pair: navy school shoes, white soles, white laces, green pull tabs, US kids size 2; cream teal-band box. Max keeps original green sneakers for travel/home. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–4.29s · ROSE 4.44–6.72s · LEO 6.87–9.59s · DAN 9.74–14.22s.
+
 **Dialogue:**
-**DAN:** Where is the fitting area in the shoe store?  
-**ROSE:** Which entrance did you use?  
-**LEO:** The glass doors beside the directory.  
+**DAN:** Where is the fitting area in the shoe store?
+
+**ROSE:** Which entrance did you use?
+
+**LEO:** The glass doors beside the directory.
+
+**DAN:** We came from there. Which side should we be on?
 
 ## SHOT_027 | 00:06:30–00:06:45 | Turn the map, not the family
 
@@ -408,10 +573,16 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_07.png](assets/storyboards/BOARD_07.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** US kids size 1 tight and size 3 loose are returned trial stock; neither is bought. Adult size10 brown display shoe remains store stock; Dan never forces a foot into a child shoe. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–2.53s · DAN 2.68–6.28s · ROSE 6.43–8.27s · LEO 8.42–12.46s.
+
 **Dialogue:**
-**LEO:** This end matches the entrance.  
-**DAN:** The mall has returned to its original position.  
-**ROSE:** Very considerate of it.  
+**LEO:** This end matches the entrance.
+
+**DAN:** The mall has returned to its original position.
+
+**ROSE:** Very considerate of it.
+
+**LEO:** It's easier when the doors on both match, Dad.
 
 ## SHOT_028 | 00:06:45–00:07:00 | The bench was the clue
 
@@ -423,10 +594,16 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_07.png](assets/storyboards/BOARD_07.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Price $32 including tax; budget $40; pay two $20 bills; $8 change is one $5 bill and three $1 bills; no refund processed. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ROSE 0.25–3.85s · ELLA 4.00–4.96s · NINA 5.11–8.27s · ELLA 8.42–12.90s.
+
 **Dialogue:**
-**ROSE:** I noticed a measuring device beside the bench.  
-**ELLA:** Our bench!  
-**NINA:** Then we can ask about measuring there.  
+**ROSE:** I noticed a measuring device beside the bench.
+
+**ELLA:** Our bench!
+
+**NINA:** Then we can ask about measuring there.
+
+**ELLA:** So we were closer than that map made us think.
 
 ## SHOT_029 | 00:07:00–00:07:15 | A short family update
 
@@ -438,10 +615,16 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Rose is Maya sister, visible only shots025–030 (90seconds), a provisional supporting design; she offers orientation clue while family completes task. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–2.09s · MAX 2.24–4.52s · ROSE 4.67–8.27s · MAX 8.42–12.46s.
+
 **Dialogue:**
-**MAYA:** School shoes for Max.  
-**MAX:** Not for Dad's enormous feet.  
-**ROSE:** Then the smallest customer gets the biggest say.  
+**MAYA:** School shoes for Max.
+
+**MAX:** Not for Dad's enormous feet.
+
+**ROSE:** Then the smallest customer gets the biggest say.
+
+**MAX:** Good. Mine have plenty to say about school shoes.
 
 ## SHOT_030 | 00:07:15–00:07:30 | Rose goes her own way
 
@@ -453,10 +636,16 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** All mall action on ground floor; no elevator/escalator ride; children stay with adults. Map upside down021–026, rotated upright027. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ROSE 0.25–3.30s · MAYA 3.45–4.52s · DAN 4.67–8.22s · ROSE 8.37–12.40s.
+
 **Dialogue:**
-**ROSE:** Enjoy the fitting. See you soon.  
-**MAYA:** Thanks, Rose.  
-**DAN:** We will check the actual feet next.  
+**ROSE:** Enjoy the fitting. See you soon.
+
+**MAYA:** Thanks, Rose.
+
+**DAN:** We will check the actual feet next.
+
+**ROSE:** Give those toes a vote for me, Max.
 
 ## SHOT_031 | 00:07:30–00:07:45 | Read the real sign
 
@@ -468,10 +657,16 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Store return policy in this fictional story: unworn shoes with receipt within14days; do not imply universal policy. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.41s · LEO 3.56–6.28s · ELLA 6.43–9.15s · DAN 9.30–13.34s.
+
 **Dialogue:**
-**DAN:** Same floor, back to the shoe store.  
-**LEO:** Now the map matches the place.  
-**ELLA:** And the question matches the job.  
+**DAN:** Same floor, back to the shoe store.
+
+**LEO:** Now the map matches the place.
+
+**ELLA:** And the question matches the job.
+
+**DAN:** This time I'll ask somebody who works with feet.
 
 ## SHOT_032 | 00:07:45–00:08:00 | Back without shortcuts
 
@@ -483,9 +678,16 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Receipt stored once at063, moved to household folder075; $8 stays in wallet. No seventh recurring family member or new wardrobe. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–2.53s · DAN 2.68–6.28s · NINA 6.43–9.59s · MAX 9.74–14.22s.
+
 **Dialogue:**
-**MAX:** The bench waited for us.  
-**DAN:** Very patient furniture. Let us be patient too.  
+**MAX:** The bench waited for us.
+
+**DAN:** Very patient furniture. Let us be patient too.
+
+**NINA:** Max, do you want to start here?
+
+**MAX:** Yes. My feet have been looking forward to that bench.
 
 ## SHOT_033 | 00:08:00–00:08:15 | Ask before using
 
@@ -498,10 +700,16 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Permanent six original Brooks identities and W01 wardrobes; Dan watch anatomical LEFT, phone/wallet RIGHT. Maya and Nina equally respected. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): NINA 0.25–3.41s · CLERK 3.56–7.16s · DAN 7.31–9.15s · MAX 9.30–13.34s.
+
 **Dialogue:**
-**NINA:** Could you help us measure both feet?  
-**CLERK:** Certainly. Please keep him seated while we begin.  
-**DAN:** We can do that.  
+**NINA:** Could you help us measure both feet?
+
+**CLERK:** Certainly. Please keep him seated while we begin.
+
+**DAN:** We can do that.
+
+**MAX:** I'll sit still. My toes might have questions, though.
 
 ## SHOT_034 | 00:08:15–00:08:30 | One old pair stays together
 
@@ -513,10 +721,16 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** One purchased pair: navy school shoes, white soles, white laces, green pull tabs, US kids size 2; cream teal-band box. Max keeps original green sneakers for travel/home. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–2.31s · ELLA 2.46–5.02s · NINA 5.17–7.72s · MAX 7.87–12.40s.
+
 **Dialogue:**
-**MAX:** Their first break today.  
-**ELLA:** We will keep them together.  
-**NINA:** And out of the walkway.  
+**MAX:** Their first break today.
+
+**ELLA:** We will keep them together.
+
+**NINA:** And out of the walkway.
+
+**MAX:** My old shoes can watch. They've done enough walking.
 
 ## SHOT_035 | 00:08:30–00:08:45 | Both feet, one answer
 
@@ -529,9 +743,16 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** US kids size 1 tight and size 3 loose are returned trial stock; neither is bought. Adult size10 brown display shoe remains store stock; Dan never forces a foot into a child shoe. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): CLERK 0.25–4.73s · DAN 4.88–7.60s · NINA 7.75–10.03s · MAX 10.18–13.78s.
+
 **Dialogue:**
-**CLERK:** Start with a children's size two, then check the fit.  
-**DAN:** Measurement first. My toes approve too.  
+**CLERK:** Start with a children's size two, then check the fit.
+
+**DAN:** Measurement first. My toes approve too.
+
+**NINA:** What do you think, Max?
+
+**MAX:** I want to see how the twos feel.
 
 ## SHOT_036 | 00:08:45–00:09:00 | A style he likes
 
@@ -543,10 +764,16 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Price $32 including tax; budget $40; pay two $20 bills; $8 change is one $5 bill and three $1 bills; no refund processed. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–2.97s · MAX 3.12–6.72s · LEO 6.87–9.15s · MAX 9.30–13.78s.
+
 **Dialogue:**
-**MAYA:** Do you like this navy pair?  
-**MAX:** Yes. The green tabs can be tiny flags.  
-**LEO:** Comfort still gets a vote.  
+**MAYA:** Do you like this navy pair?
+
+**MAX:** Yes. The green tabs can be tiny flags.
+
+**LEO:** Comfort still gets a vote.
+
+**MAX:** My toes can tell us once both shoes are on.
 
 ## SHOT_037 | 00:09:00–00:09:15 | The nearby size
 
@@ -558,10 +785,16 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_10.png](assets/storyboards/BOARD_10.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Rose is Maya sister, visible only shots025–030 (90seconds), a provisional supporting design; she offers orientation clue while family completes task. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–2.61s · DAN 2.76–6.02s · MAX 6.17–8.53s · DAN 8.68–12.40s.
+
 **Dialogue:**
-**LEO:** This one is size one.  
-**DAN:** Then we should say so before trying.  
-**MAX:** My feet like honest introductions.  
+**LEO:** This one is size one.
+
+**DAN:** Then we should say so before trying.
+
+**MAX:** My feet like honest introductions.
+
+**DAN:** Good. I'll wait for the customer's actual opinion.
 
 ## SHOT_038 | 00:09:15–00:09:30 | A brief tight fit
 
@@ -573,10 +806,16 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_10.png](assets/storyboards/BOARD_10.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** All mall action on ground floor; no elevator/escalator ride; children stay with adults. Map upside down021–026, rotated upright027. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–2.15s · NINA 2.30–3.75s · MAYA 3.90–8.07s · MAX 8.22–12.40s.
+
 **Dialogue:**
-**MAX:** My toes feel squeezed.  
-**NINA:** Then we stop.  
-**MAYA:** You do not have to get used to pain.  
+**MAX:** My toes feel squeezed.
+
+**NINA:** Then we stop.
+
+**MAYA:** You do not have to get used to pain.
+
+**MAX:** Thanks. That's exactly the part I'd like to skip.
 
 ## SHOT_039 | 00:09:30–00:09:45 | Listen and remove
 
@@ -588,10 +827,16 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_10.png](assets/storyboards/BOARD_10.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Store return policy in this fictional story: unworn shoes with receipt within14days; do not imply universal policy. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–2.70s · MAX 2.85–6.25s · NINA 6.40–7.43s · DAN 7.58–12.40s.
+
 **Dialogue:**
-**DAN:** Thank you for telling us.  
-**MAX:** My toes sent a very short message.  
-**NINA:** We listened.  
+**DAN:** Thank you for telling us.
+
+**MAX:** My toes sent a very short message.
+
+**NINA:** We listened.
+
+**DAN:** Let's remember that feeling when we compare the next size.
 
 ## SHOT_040 | 00:09:45–00:10:00 | The other extreme
 
@@ -603,9 +848,16 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_10.png](assets/storyboards/BOARD_10.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Receipt stored once at063, moved to household folder075; $8 stays in wallet. No seventh recurring family member or new wardrobe. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–3.41s · DAN 3.56–7.16s · ELLA 7.31–11.35s · LEO 11.50–14.22s.
+
 **Dialogue:**
-**LEO:** We measured two. Three may be loose.  
-**DAN:** A comparison, then back to the measured size.  
+**LEO:** We measured two. Three may be loose.
+
+**DAN:** A comparison, then back to the measured size.
+
+**ELLA:** Should we call it right before he tries it?
+
+**LEO:** Let's hear from Max's heel first.
 
 ## SHOT_041 | 00:10:00–00:10:15 | Loose is information
 
@@ -617,10 +869,16 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Permanent six original Brooks identities and W01 wardrobes; Dan watch anatomical LEFT, phone/wallet RIGHT. Maya and Nina equally respected. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–2.31s · ELLA 2.46–4.03s · NINA 4.18–7.23s · MAX 7.38–12.40s.
+
 **Dialogue:**
-**MAX:** My heel is sliding.  
-**ELLA:** Too much room?  
-**NINA:** Yes. Loose is different from comfortable.  
+**MAX:** My heel is sliding.
+
+**ELLA:** Too much room?
+
+**NINA:** Yes. Loose is different from comfortable.
+
+**MAX:** I can feel it every time I lift my heel.
 
 ## SHOT_042 | 00:10:15–00:10:30 | Return the loose pair
 
@@ -632,9 +890,16 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** One purchased pair: navy school shoes, white soles, white laces, green pull tabs, US kids size 2; cream teal-band box. Max keeps original green sneakers for travel/home. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–4.29s · MAX 4.44–6.72s · NINA 6.87–9.59s · MAX 9.74–13.34s.
+
 **Dialogue:**
-**DAN:** Not tight, not swimming. We need a good fit.  
-**MAX:** My feet are not boats.  
+**DAN:** Not tight, not swimming. We need a good fit.
+
+**MAX:** My feet are not boats.
+
+**NINA:** What should your heel do instead?
+
+**MAX:** Stay with me when I take a step.
 
 ## SHOT_043 | 00:10:30–00:10:45 | The measured size arrives
 
@@ -647,10 +912,16 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** US kids size 1 tight and size 3 loose are returned trial stock; neither is bought. Adult size10 brown display shoe remains store stock; Dan never forces a foot into a child shoe. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): CLERK 0.25–2.61s · LEO 2.76–5.11s · DAN 5.26–8.07s · MAX 8.22–12.40s.
+
 **Dialogue:**
-**CLERK:** Here is the size two.  
-**LEO:** Same model, correct starting size.  
-**DAN:** Now we check how it feels.  
+**CLERK:** Here is the size two.
+
+**LEO:** Same model, correct starting size.
+
+**DAN:** Now we check how it feels.
+
+**MAX:** The number matches. My toes get the final say.
 
 ## SHOT_044 | 00:10:45–00:11:00 | Make space gently
 
@@ -662,9 +933,16 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Price $32 including tax; budget $40; pay two $20 bills; $8 change is one $5 bill and three $1 bills; no refund processed. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): NINA 0.25–3.41s · MAX 3.56–6.72s · MAYA 6.87–9.15s · MAX 9.30–13.34s.
+
 **Dialogue:**
-**NINA:** No pushing. Tell me if anything pinches.  
-**MAX:** So far, my toes are staying cheerful.  
+**NINA:** No pushing. Tell me if anything pinches.
+
+**MAX:** So far, my toes are staying cheerful.
+
+**MAYA:** What about the other side?
+
+**MAX:** Give me a second. I want to feel both.
 
 ## SHOT_045 | 00:11:00–00:11:15 | Secure, not squeezed
 
@@ -676,10 +954,16 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Rose is Maya sister, visible only shots025–030 (90seconds), a provisional supporting design; she offers orientation clue while family completes task. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–2.81s · DAN 2.96–5.02s · NINA 5.17–7.72s · MAX 7.87–12.40s.
+
 **Dialogue:**
-**MAX:** I can wiggle my toes.  
-**DAN:** An important school subject.  
-**NINA:** And the heel feels secure?  
+**MAX:** I can wiggle my toes.
+
+**DAN:** An important school subject.
+
+**NINA:** And the heel feels secure?
+
+**MAX:** Yes. It stays put when I move my foot.
 
 ## SHOT_046 | 00:11:15–00:11:30 | His answer matters
 
@@ -691,10 +975,16 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** All mall action on ground floor; no elevator/escalator ride; children stay with adults. Map upside down021–026, rotated upright027. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–3.06s · MAX 3.21–5.57s · ELLA 5.72–7.17s · MAYA 7.32–12.40s.
+
 **Dialogue:**
-**MAYA:** How does the left one feel?  
-**MAX:** Comfortable. The right one too.  
-**ELLA:** Two useful answers.  
+**MAYA:** How does the left one feel?
+
+**MAX:** Comfortable. The right one too.
+
+**ELLA:** Two useful answers.
+
+**MAYA:** And I'll take those answers over a number on a box.
 
 ## SHOT_047 | 00:11:30–00:11:45 | Stand before deciding
 
@@ -706,9 +996,16 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Store return policy in this fictional story: unworn shoes with receipt within14days; do not imply universal policy. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): NINA 0.25–2.82s · DAN 2.97–6.37s · MAX 6.52–10.33s · NINA 10.48–14.30s.
+
 **Dialogue:**
-**NINA:** Stand naturally. No need to pose.  
-**DAN:** The shoes are applying for an everyday job.  
+**NINA:** Stand naturally. No need to pose.
+
+**DAN:** The shoes are applying for an everyday job.
+
+**MAX:** Even on a day when I run at recess?
+
+**NINA:** That's why we want to see you stand normally.
 
 ## SHOT_048 | 00:11:45–00:12:00 | A short walking test
 
@@ -720,10 +1017,16 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Receipt stored once at063, moved to household folder075; $8 stays in wallet. No seventh recurring family member or new wardrobe. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–2.23s · LEO 2.38–4.83s · NINA 4.98–7.43s · MAX 7.58–12.40s.
+
 **Dialogue:**
-**MAX:** No pinching. No sliding.  
-**LEO:** And no dramatic shoe escape.  
-**NINA:** How does the sole feel?  
+**MAX:** No pinching. No sliding.
+
+**LEO:** And no dramatic shoe escape.
+
+**NINA:** How does the sole feel?
+
+**MAX:** Steady. I can feel the floor without a hard edge.
 
 ## SHOT_049 | 00:12:00–00:12:15 | The mirror is not the judge
 
@@ -735,10 +1038,16 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Permanent six original Brooks identities and W01 wardrobes; Dan watch anatomical LEFT, phone/wallet RIGHT. Maya and Nina equally respected. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–1.82s · MAYA 1.97–3.54s · MAX 3.69–7.23s · DAN 7.38–12.40s.
+
 **Dialogue:**
-**MAX:** They look good.  
-**MAYA:** And feel good?  
-**MAX:** Yes. My feet agree with the mirror.  
+**MAX:** They look good.
+
+**MAYA:** And feel good?
+
+**MAX:** Yes. My feet agree with the mirror.
+
+**DAN:** The mirror doesn't get to make the choice for you.
 
 ## SHOT_050 | 00:12:15–00:12:30 | One more careful check
 
@@ -750,9 +1059,16 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** One purchased pair: navy school shoes, white soles, white laces, green pull tabs, US kids size 2; cream teal-band box. Max keeps original green sneakers for travel/home. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): NINA 0.25–5.04s · ELLA 5.19–9.13s · MAX 9.28–11.93s · NINA 12.08–14.30s.
+
 **Dialogue:**
-**NINA:** There is room at the toes and support at the heel.  
-**ELLA:** The size is a clue, not the whole answer.  
+**NINA:** There is room at the toes and support at the heel.
+
+**ELLA:** The size is a clue, not the whole answer.
+
+**MAX:** My heel stays with me now.
+
+**NINA:** Good. Trust your feet first.
 
 ## SHOT_051 | 00:12:30–00:12:45 | Ask the price plainly
 
@@ -765,10 +1081,16 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** US kids size 1 tight and size 3 loose are returned trial stock; neither is bought. Adult size10 brown display shoe remains store stock; Dan never forces a foot into a child shoe. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–2.97s · CLERK 3.12–4.52s · LEO 4.67–7.83s · MAX 7.98–12.46s.
+
 **Dialogue:**
-**DAN:** Is thirty-two dollars the full price?  
-**CLERK:** Yes, including tax.  
-**LEO:** That leaves eight dollars in our budget.  
+**DAN:** Is thirty-two dollars the full price?
+
+**CLERK:** Yes, including tax.
+
+**LEO:** That leaves eight dollars in our budget.
+
+**MAX:** And I can wear them to school without sore toes.
 
 ## SHOT_052 | 00:12:45–00:13:00 | No extra pair required
 
@@ -780,10 +1102,16 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Price $32 including tax; budget $40; pay two $20 bills; $8 change is one $5 bill and three $1 bills; no refund processed. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.85s · MAYA 4.00–7.16s · MAX 7.31–9.59s · DAN 9.74–14.22s.
+
 **Dialogue:**
-**DAN:** A giant shoe would hold the shopping list.  
-**MAYA:** We need shoes for Max, not luggage.  
-**MAX:** My feet have already voted.  
+**DAN:** A giant shoe would hold the shopping list.
+
+**MAYA:** We need shoes for Max, not luggage.
+
+**MAX:** My feet have already voted.
+
+**DAN:** Fair enough. The list doesn't need a pair of shoes.
 
 ## SHOT_053 | 00:13:00–00:13:15 | Take off the trial pair
 
@@ -795,9 +1123,16 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Rose is Maya sister, visible only shots025–030 (90seconds), a provisional supporting design; she offers orientation clue while family completes task. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): NINA 0.25–4.19s · MAX 4.34–7.41s · ELLA 7.56–10.21s · MAX 10.36–14.30s.
+
 **Dialogue:**
-**NINA:** We will keep the new pair boxed for school.  
-**MAX:** They can rest before their first day.  
+**NINA:** We will keep the new pair boxed for school.
+
+**MAX:** They can rest before their first day.
+
+**ELLA:** What will you walk home in?
+
+**MAX:** My own green ones. I know how those feel.
 
 ## SHOT_054 | 00:13:15–00:13:30 | Old shoes return to work
 
@@ -809,9 +1144,16 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** All mall action on ground floor; no elevator/escalator ride; children stay with adults. Map upside down021–026, rotated upright027. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–2.97s · MAX 3.12–7.16s · NINA 7.31–10.47s · MAX 10.62–14.22s.
+
 **Dialogue:**
-**DAN:** The familiar pair gets us home.  
-**MAX:** They know the route. Better than our first map.  
+**DAN:** The familiar pair gets us home.
+
+**MAX:** They know the route. Better than our first map.
+
+**NINA:** Which pair is in the box then?
+
+**MAX:** The navy pair, saving its steps for school.
 
 ## SHOT_055 | 00:13:30–00:13:45 | Only the right box
 
@@ -823,9 +1165,16 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Store return policy in this fictional story: unworn shoes with receipt within14days; do not imply universal policy. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–3.85s · DAN 4.00–6.28s · ELLA 6.43–10.47s · DAN 10.62–13.34s.
+
 **Dialogue:**
-**LEO:** Two shoes, both size two, one matching box.  
-**DAN:** My most successful box inspection.  
+**LEO:** Two shoes, both size two, one matching box.
+
+**DAN:** My most successful box inspection.
+
+**ELLA:** Matching green tabs, too. That's the pair Max chose.
+
+**DAN:** Good. Let's keep those two together.
 
 ## SHOT_056 | 00:13:45–00:14:00 | Ready for the cashier
 
@@ -837,10 +1186,16 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Receipt stored once at063, moved to household folder075; $8 stays in wallet. No seventh recurring family member or new wardrobe. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–1.70s · MAX 1.85–5.11s · NINA 5.26–7.62s · LEO 7.77–12.40s.
+
 **Dialogue:**
-**ELLA:** Nothing left behind.  
-**MAX:** Except the shoes that did not fit.  
-**NINA:** Those stay with the store.  
+**ELLA:** Nothing left behind.
+
+**MAX:** Except the shoes that did not fit.
+
+**NINA:** Those stay with the store.
+
+**LEO:** And our one good pair stays together in its box.
 
 ## SHOT_057 | 00:14:00–00:14:15 | The pair on the counter
 
@@ -853,10 +1208,18 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Permanent six original Brooks identities and W01 wardrobes; Dan watch anatomical LEFT, phone/wallet RIGHT. Maya and Nina equally respected. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): CLERK 0.25–3.41s · MAX 3.56–4.52s · DAN 4.67–6.07s · LEO 6.22–9.82s · MAX 9.97–13.13s.
+
 **Dialogue:**
-**CLERK:** This navy pair in children's size two?  
-**MAX:** Yes, please.  
-**DAN:** The comfortable one.  
+**CLERK:** This navy pair in children's size two?
+
+**MAX:** Yes, please.
+
+**DAN:** The comfortable one.
+
+**LEO:** That's the size we checked on both shoes.
+
+**MAX:** And it's the one my heel liked.
 
 ## SHOT_058 | 00:14:15–00:14:30 | One final look
 
@@ -868,10 +1231,18 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** One purchased pair: navy school shoes, white soles, white laces, green pull tabs, US kids size 2; cream teal-band box. Max keeps original green sneakers for travel/home. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): NINA 0.25–1.65s · MAX 1.80–3.64s · DAN 3.79–4.75s · MAX 4.90–8.94s · NINA 9.09–12.69s.
+
 **Dialogue:**
-**NINA:** Both shoes match.  
-**MAX:** And both feet approved.  
-**DAN:** Excellent references.  
+**NINA:** Both shoes match.
+
+**MAX:** And both feet approved.
+
+**DAN:** Excellent references.
+
+**MAX:** You can ask my heels. They finally stayed put.
+
+**NINA:** Then we can put this pair through checkout.
 
 ## SHOT_059 | 00:14:30–00:14:45 | Forty is enough
 
@@ -883,9 +1254,16 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** US kids size 1 tight and size 3 loose are returned trial stock; neither is bought. Adult size10 brown display shoe remains store stock; Dan never forces a foot into a child shoe. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–1.76s · DAN 1.91–6.72s · LEO 6.87–9.32s · DAN 9.47–12.40s.
+
 **Dialogue:**
-**LEO:** Thirty-two dollars total.  
-**DAN:** Two twenties make forty. This number gets a second check.  
+**LEO:** Thirty-two dollars total.
+
+**DAN:** Two twenties make forty. This number gets a second check.
+
+**LEO:** How much should come back?
+
+**DAN:** Eight dollars, if our total's right.
 
 ## SHOT_060 | 00:14:45–00:15:00 | Payment stays visible
 
@@ -897,10 +1275,16 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Price $32 including tax; budget $40; pay two $20 bills; $8 change is one $5 bill and three $1 bills; no refund processed. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–2.15s · MAX 2.30–6.48s · DAN 6.63–8.53s · MAX 8.68–12.40s.
+
 **Dialogue:**
-**DAN:** Here is forty dollars.  
-**MAX:** The shoes are going to school, not the money.  
-**DAN:** The money stays here.  
+**DAN:** Here is forty dollars.
+
+**MAX:** The shoes are going to school, not the money.
+
+**DAN:** The money stays here.
+
+**MAX:** Only thirty-two stays, Dad. The rest comes back.
 
 ## SHOT_061 | 00:15:00–00:15:15 | Eight dollars back
 
@@ -913,10 +1297,16 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Rose is Maya sister, visible only shots025–030 (90seconds), a provisional supporting design; she offers orientation clue while family completes task. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): CLERK 0.25–3.17s · LEO 3.33–5.78s · MAX 5.93–7.91s · DAN 8.06–12.40s.
+
 **Dialogue:**
-**CLERK:** Eight dollars change and your receipt.  
-**LEO:** Forty minus thirty-two is eight.  
-**MAX:** No shirt change needed.  
+**CLERK:** Eight dollars change and your receipt.
+
+**LEO:** Forty minus thirty-two is eight.
+
+**MAX:** No shirt change needed.
+
+**DAN:** I'll take this kind of change any day, Max.
 
 ## SHOT_062 | 00:15:15–00:15:30 | Budget and cash agree
 
@@ -928,10 +1318,16 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** All mall action on ground floor; no elevator/escalator ride; children stay with adults. Map upside down021–026, rotated upright027. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–2.97s · NINA 3.12–5.40s · LEO 5.55–7.83s · MAYA 7.98–12.46s.
+
 **Dialogue:**
-**MAYA:** We stayed eight dollars under budget.  
-**NINA:** And received eight dollars change.  
-**LEO:** Same amount, two different reasons.  
+**MAYA:** We stayed eight dollars under budget.
+
+**NINA:** And received eight dollars change.
+
+**LEO:** Same amount, two different reasons.
+
+**MAYA:** Right. One starts with our limit, one with the bills.
 
 ## SHOT_063 | 00:15:30–00:15:45 | Keep the receipt
 
@@ -943,10 +1339,16 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Store return policy in this fictional story: unworn shoes with receipt within14days; do not imply universal policy. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–3.41s · MAX 3.56–5.84s · DAN 5.99–8.71s · ELLA 8.86–12.46s.
+
 **Dialogue:**
-**ELLA:** The receipt proves which pair we bought.  
-**MAX:** My toes could testify too.  
-**DAN:** The paper is easier to file.  
+**ELLA:** The receipt proves which pair we bought.
+
+**MAX:** My toes could testify too.
+
+**DAN:** The paper is easier to file.
+
+**ELLA:** And the paper actually fits in Dad's wallet.
 
 ## SHOT_064 | 00:15:45–00:16:00 | Ask about returning
 
@@ -959,10 +1361,16 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Receipt stored once at063, moved to household folder075; $8 stays in wallet. No seventh recurring family member or new wardrobe. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.41s · CLERK 3.56–6.72s · NINA 6.87–9.15s · MAX 9.30–13.34s.
+
 **Dialogue:**
-**DAN:** What if we need to return them?  
-**CLERK:** Unworn, with the receipt, within fourteen days.  
-**NINA:** We will keep everything together.  
+**DAN:** What if we need to return them?
+
+**CLERK:** Unworn, with the receipt, within fourteen days.
+
+**NINA:** We will keep everything together.
+
+**MAX:** Good. We know exactly which box goes with them.
 
 ## SHOT_065 | 00:16:00–00:16:15 | A policy is not a refund
 
@@ -974,10 +1382,16 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Permanent six original Brooks identities and W01 wardrobes; Dan watch anatomical LEFT, phone/wallet RIGHT. Maya and Nina equally respected. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–2.53s · MAYA 2.68–6.28s · DAN 6.43–9.59s · MAX 9.74–13.34s.
+
 **Dialogue:**
-**MAX:** Is a refund more change?  
-**MAYA:** It is money returned after an accepted return.  
-**DAN:** Today we are keeping our comfortable pair.  
+**MAX:** Is a refund more change?
+
+**MAYA:** It is money returned after an accepted return.
+
+**DAN:** Today we are keeping our comfortable pair.
+
+**MAX:** Then my toes can skip the paperwork today.
 
 ## SHOT_066 | 00:16:15–00:16:30 | One bag, one purchase
 
@@ -990,10 +1404,16 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** One purchased pair: navy school shoes, white soles, white laces, green pull tabs, US kids size 2; cream teal-band box. Max keeps original green sneakers for travel/home. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): CLERK 0.25–2.53s · DAN 2.68–4.96s · ELLA 5.11–8.27s · NINA 8.42–13.34s.
+
 **Dialogue:**
-**CLERK:** Here you are. Thank you.  
-**DAN:** Thank you for your help.  
-**ELLA:** The right pair found the right family.  
+**CLERK:** Here you are. Thank you.
+
+**DAN:** Thank you for your help.
+
+**ELLA:** The right pair found the right family.
+
+**NINA:** One box is just right. Thank you for listening to Max.
 
 ## SHOT_067 | 00:16:30–00:16:45 | Check the group again
 
@@ -1005,10 +1425,16 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** US kids size 1 tight and size 3 loose are returned trial stock; neither is bought. Adult size10 brown display shoe remains store stock; Dan never forces a foot into a child shoe. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): NINA 0.25–3.52s · MAX 3.67–6.02s · DAN 6.17–7.62s · LEO 7.77–12.40s.
+
 **Dialogue:**
-**NINA:** Six people, one pair of new shoes.  
-**MAX:** Twelve feet, still accounted for.  
-**DAN:** A complete inventory.  
+**NINA:** Six people, one pair of new shoes.
+
+**MAX:** Twelve feet, still accounted for.
+
+**DAN:** A complete inventory.
+
+**LEO:** And the new ones are riding home in their box.
 
 ## SHOT_068 | 00:16:45–00:17:00 | A careful carry
 
@@ -1020,10 +1446,16 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Price $32 including tax; budget $40; pay two $20 bills; $8 change is one $5 bill and three $1 bills; no refund processed. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–2.09s · DAN 2.24–4.52s · NINA 4.67–7.83s · MAX 7.98–12.46s.
+
 **Dialogue:**
-**MAX:** One box, not two?  
-**DAN:** One matching pair. We checked.  
-**NINA:** Then let us check the way home.  
+**MAX:** One box, not two?
+
+**DAN:** One matching pair. We checked.
+
+**NINA:** Then let us check the way home.
+
+**MAX:** This time can we ask before the mall turns around?
 
 ## SHOT_069 | 00:17:00–00:17:15 | The correct exit
 
@@ -1035,10 +1467,16 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Rose is Maya sister, visible only shots025–030 (90seconds), a provisional supporting design; she offers orientation clue while family completes task. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.52s · LEO 3.67–6.48s · ELLA 6.63–8.07s · DAN 8.22–12.40s.
+
 **Dialogue:**
-**DAN:** Entrance this way. Does the map agree?  
-**LEO:** Yes, and so do the doors.  
-**ELLA:** A strong majority.  
+**DAN:** Entrance this way. Does the map agree?
+
+**LEO:** Yes, and so do the doors.
+
+**ELLA:** A strong majority.
+
+**DAN:** After that detour, I'm happy to take a vote.
 
 ## SHOT_070 | 00:17:15–00:17:30 | The escalator can wait
 
@@ -1050,10 +1488,16 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** All mall action on ground floor; no elevator/escalator ride; children stay with adults. Map upside down021–026, rotated upright027. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–2.97s · NINA 3.12–6.72s · MAYA 6.87–9.59s · MAX 9.74–13.78s.
+
 **Dialogue:**
-**MAX:** Are we trying the moving stairs?  
-**NINA:** We do not need to go upstairs today.  
-**MAYA:** The straight path takes us home.  
+**MAX:** Are we trying the moving stairs?
+
+**NINA:** We do not need to go upstairs today.
+
+**MAYA:** The straight path takes us home.
+
+**MAX:** Good. My old shoes know how to go straight.
 
 ## SHOT_071 | 00:17:30–00:17:45 | Check, then fold
 
@@ -1065,10 +1509,16 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Store return policy in this fictional story: unworn shoes with receipt within14days; do not imply universal policy. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–2.53s · LEO 2.68–4.96s · MAX 5.11–8.27s · LEO 8.42–12.90s.
+
 **Dialogue:**
-**DAN:** I checked before I guessed.  
-**LEO:** And we got here together.  
-**MAX:** The mall did not need rotating again.  
+**DAN:** I checked before I guessed.
+
+**LEO:** And we got here together.
+
+**MAX:** The mall did not need rotating again.
+
+**LEO:** It's easier when the doors stay on the same side.
 
 ## SHOT_072 | 00:17:45–00:18:00 | Out through the same doors
 
@@ -1080,9 +1530,16 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Receipt stored once at063, moved to household folder075; $8 stays in wallet. No seventh recurring family member or new wardrobe. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–2.53s · MAX 2.68–7.16s · NINA 7.31–9.59s · MAX 9.74–12.90s.
+
 **Dialogue:**
-**MAYA:** How do your feet feel?  
-**MAX:** Ready for home. And ready for the new pair later.  
+**MAYA:** How do your feet feel?
+
+**MAX:** Ready for home. And ready for the new pair later.
+
+**NINA:** Shall we head out together?
+
+**MAX:** Yes, and the boxed pair comes too.
 
 ## SHOT_073 | 00:18:00–00:18:15 | Home, same kitchen
 
@@ -1094,10 +1551,16 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Permanent six original Brooks identities and W01 wardrobes; Dan watch anatomical LEFT, phone/wallet RIGHT. Maya and Nina equally respected. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): NINA 0.25–2.61s · DAN 2.76–4.66s · MAX 4.81–7.62s · DAN 7.77–12.40s.
+
 **Dialogue:**
-**NINA:** Home with the correct box.  
-**DAN:** And considerably better directions.  
-**MAX:** My feet enjoyed the second plan.  
+**NINA:** Home with the correct box.
+
+**DAN:** And considerably better directions.
+
+**MAX:** My feet enjoyed the second plan.
+
+**DAN:** I think the box had the easiest walk of all.
 
 ## SHOT_074 | 00:18:15–00:18:30 | A clean place for shoes
 
@@ -1109,10 +1572,16 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** One purchased pair: navy school shoes, white soles, white laces, green pull tabs, US kids size 2; cream teal-band box. Max keeps original green sneakers for travel/home. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–4.29s · DAN 4.44–6.28s · LEO 6.43–8.71s · DAN 8.86–13.34s.
+
 **Dialogue:**
-**MAYA:** Let us keep shoes away from the kitchen worktop.  
-**DAN:** Right place, right purpose.  
-**LEO:** Another map we can understand.  
+**MAYA:** Let us keep shoes away from the kitchen worktop.
+
+**DAN:** Right place, right purpose.
+
+**LEO:** Another map we can understand.
+
+**DAN:** The bench near the door suits this box just fine.
 
 ## SHOT_075 | 00:18:30–00:18:45 | Proof of the pair
 
@@ -1124,10 +1593,16 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** US kids size 1 tight and size 3 loose are returned trial stock; neither is bought. Adult size10 brown display shoe remains store stock; Dan never forces a foot into a child shoe. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–4.29s · NINA 4.44–6.72s · DAN 6.87–8.27s · ELLA 8.42–12.46s.
+
 **Dialogue:**
-**ELLA:** The receipt stays safe while the shoes stay clean.  
-**NINA:** Now we can find both.  
-**DAN:** No upside-down filing.  
+**ELLA:** The receipt stays safe while the shoes stay clean.
+
+**NINA:** Now we can find both.
+
+**DAN:** No upside-down filing.
+
+**ELLA:** Good. Paper stays dry and the toes stay clean.
 
 ## SHOT_076 | 00:18:45–00:19:00 | The customer reports
 
@@ -1139,10 +1614,16 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Price $32 including tax; budget $40; pay two $20 bills; $8 change is one $5 bill and three $1 bills; no refund processed. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–3.41s · MAYA 3.56–5.84s · NINA 5.99–7.83s · MAX 7.98–13.78s.
+
 **Dialogue:**
-**MAX:** One squeezed. Three slid. Two felt comfortable.  
-**MAYA:** You explained what you felt.  
-**NINA:** That helped us choose.  
+**MAX:** One squeezed. Three slid. Two felt comfortable.
+
+**MAYA:** You explained what you felt.
+
+**NINA:** That helped us choose.
+
+**MAX:** Next time I can tell you before we even look in the mirror.
 
 ## SHOT_077 | 00:19:00–00:19:15 | The joke finds its limit
 
@@ -1154,10 +1635,16 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Rose is Maya sister, visible only shots025–030 (90seconds), a provisional supporting design; she offers orientation clue while family completes task. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.52s · LEO 3.67–5.11s · ELLA 5.26–7.62s · DAN 7.77–12.40s.
+
 **Dialogue:**
-**DAN:** My feet will keep their own shoes.  
-**LEO:** A generous decision.  
-**ELLA:** The small pair thanks you.  
+**DAN:** My feet will keep their own shoes.
+
+**LEO:** A generous decision.
+
+**ELLA:** The small pair thanks you.
+
+**DAN:** Let them know they're safe. These brown ones are mine.
 
 ## SHOT_078 | 00:19:15–00:19:30 | A different picnic plan
 
@@ -1169,10 +1656,16 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** All mall action on ground floor; no elevator/escalator ride; children stay with adults. Map upside down021–026, rotated upright027. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–2.53s · NINA 2.68–4.96s · MAX 5.11–7.83s · NINA 7.98–12.46s.
+
 **Dialogue:**
-**MAYA:** Next time, a park picnic.  
-**NINA:** With one clear meeting place.  
-**MAX:** Can the bench have a name?  
+**MAYA:** Next time, a park picnic.
+
+**NINA:** With one clear meeting place.
+
+**MAX:** Can the bench have a name?
+
+**NINA:** We can give it a landmark so we'll know it.
 
 ## SHOT_079 | 00:19:30–00:19:45 | Everyone helped
 
@@ -1184,10 +1677,16 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Store return policy in this fictional story: unworn shoes with receipt within14days; do not imply universal policy. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.76s · MAYA 3.91–6.56s · NINA 6.71–10.21s · MAX 10.36–14.30s.
+
 **Dialogue:**
-**DAN:** The right shoes needed more listening than guessing.  
-**MAYA:** And Max told us what mattered.  
-**NINA:** That is a good fit for this family.  
+**DAN:** The right shoes needed more listening than guessing.
+
+**MAYA:** And Max told us what mattered.
+
+**NINA:** That is a good fit for this family.
+
+**MAX:** Everybody heard the bit about my heel. That helped.
 
 ## SHOT_080 | 00:19:45–00:20:00 | One family, the right fit
 
@@ -1199,6 +1698,13 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Receipt stored once at063, moved to household folder075; $8 stays in wallet. No seventh recurring family member or new wardrobe. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
+**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–4.61s · DAN 4.76–7.41s · MAYA 7.56–10.64s · MAX 10.79–14.30s.
+
 **Dialogue:**
-**MAX:** My new shoes have a box. Our plan has directions.  
-**DAN:** And our team has excellent ears.  
+**MAX:** My new shoes have a box. Our plan has directions.
+
+**DAN:** And our team has excellent ears.
+
+**MAYA:** Which pair's on your feet right now?
+
+**MAX:** My old green ones. Listen to them squeak!

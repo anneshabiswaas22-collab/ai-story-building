@@ -1,10 +1,14 @@
 # Current production status
 
-The [master audit](docs/AUDIT_EP01_EP10.md) records the current panel findings and validation results.
+## Creator review — 2026-11-22
 
-## Active storyboard repairs — 2026-11-20
+The creator confirmed review and acceptance of all 619 shots listed as `NEEDS_HUMAN_REVIEW` in the [ten shot ledgers at the reviewed revision](https://github.com/pujahalder34675-creator/ai-story-building/tree/80644c168bdc14105e38708a4fd9c1068bacc387/docs/qa). This approval covers the storyboard pixels identified by those ledger hashes. The other 181 shots across 103 sheets still have open visual defects. Replacement pixels require their own review.
 
-The creator has requested fixes to the actual storyboard images and withdrawn the video-prompt workaround. The [image repair log](docs/STORYBOARD_REPAIR_LOG.md) records selected PNG changes and remaining defects. Selected corrections and any remaining panel issues are recorded in the repair log; creator approval remains pending. Current QA records list 312 major visual discrepancies and 488 shots awaiting human review.
+## 15-second clips and storyboard repairs — 2026-11-21
+
+The 800 clips have 3,228 dialogue turns across ten 20-minute episodes. Each clip has four or five turns. The provisional speaker windows start at 0.25 seconds and allow the final action or reaction to carry into the cut. Each episode’s screenplay, video prompts and subtitles use the same dialogue. The [episode index](README.md#episodes) links directly to the prompts and each episode’s shot findings.
+
+The [image repair log](docs/STORYBOARD_REPAIR_LOG.md) identifies the selected replacement sheets. Current QA records list 181 major visual discrepancies and 619 shots awaiting human review. [Individual findings](docs/qa/) name the correction and the image hash for each panel. Use the [November 19 audit](docs/AUDIT_EP01_EP10.md) for the earlier review.
 
 ## Audit branch validation — 2026-11-19
 

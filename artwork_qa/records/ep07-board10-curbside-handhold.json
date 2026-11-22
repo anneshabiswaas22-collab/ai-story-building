@@ -1,0 +1,66 @@
+{
+  "episode": 7,
+  "board": 10,
+  "path": "Episode_07/assets/storyboards/BOARD_10.png",
+  "parent_commit": "2e93cc93666fb48f4af73346eba3748a189e5f96",
+  "parent_sha256": "19d49bfbcb62e017c83efbeaf992374d0ac3cb3c1f95f8513d2a621d4bd90f29",
+  "selected_sha256": "e14b2f99ffa22e260d600d5ed1f2960b711debc015e86edbc2e05c31842245f7",
+  "parent_size": [
+    1672,
+    941
+  ],
+  "selected_size": [
+    1672,
+    941
+  ],
+  "generated_source": "Episode_07/assets/storyboards/BOARD_10.png",
+  "method": "Selected panels from a referenced ImageGen edit were assembled into the previous sheet. The other panel rectangles match the parent pixels exactly.",
+  "request": "Edit the first input image, the selected storyboard. Preserve the existing four landscape panel positions in a 2×2 grid, exact original numbered SHOT_ badges, original palette/compositions and actor likeness. The second input is original family visual reference. Dan blue / left watch, Maya plum with ponytail, Nina teal auburn waves, Leo orange, braided Ella in denim overalls, small Max green. A third reference supplies setting or continuity. In every panel actors and props must follow its specified shot precisely. Keep good panels intact. Apply the following specific changes in the artwork. Modify ONLY upper-left 037. At the curb, Max in green stands IMMEDIATELY beside Dan in blue, their hands clearly LINKED as in corrected upper-right 038: place Max on Dan's anatomical left, facing the crossing; Dan's left hand visibly holds the small child's right hand at waist level. Dan's OTHER hand holds the small ticket envelope. Preserve all SIX separate family members, same attire and height, Leo with closed navy pack and rolled yellow umbrella strapped outside. Maya holds Ella's hand. All six still stand on sidewalk AT curb outside roadway in 037, paused at WALK checking traffic with bakery behind them: don't put them in a crossing yet. Keep the three remaining panel images as in source. No text except correct original badges and existing street signs. Anatomically natural hands and arms; leave a clear view of both joined pairs.\nSHOT_037 shows only DAN, MAYA, NINA, LEO, ELLA, MAX in WRONG_STOP. WALK illuminates; the adults check that vehicles have stopped in all relevant directions and that the marked crossing is clear. The family pauses for that check before stepping. End: Adults confirm clear crossing; group begins first controlled step together. Existing artwork error: Six wait at the red bakery shelter. Leo wears the backpack and Dan holds the envelope. Max and Dan stand apart. Fix: Restore Dan and Max’s established handhold at the curb before stepping off.\nSHOT_038 shows only DAN, MAYA, NINA, LEO, ELLA, MAX in WRONG_STOP. The family walks steadily within the marked crossing during the full walk phase. Dan holds Max’s hand; Maya keeps Ella beside her; Nina and Leo follow abreast. End: All six reach far curb without running or separation. Preserve this shot as it stands.\nSHOT_039 shows only MAYA, NINA, LEO, ELLA in WRONG_STOP. Maya waits until Max and Dan are fully up on the far sidewalk, then turns the family south toward the blue shelter. Nina checks that Leo’s bag has not caught on the pole. End: Group turns south on far sidewalk; no one returns to road. Preserve this shot as it stands.\nSHOT_040 shows only DAN, LEO, MAX in WRONG_STOP. Max looks back at the red shelter while Dan and Leo walk beside him. Dan acknowledges how similar the roofs looked from a distance without blaming Max’s observation. End: Blue shelter reached after short walking cut; return bag and folder unchanged. Preserve this shot as it stands.",
+  "qa_updates": {
+    "SHOT_037": {
+      "observed": "All six wait at the red bakery shelter under the walk signal. Dan’s left hand holds Max’s right hand and his other hand holds the ticket envelope. Both are still on the sidewalk.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_038": {
+      "observed": "All six cross in the markings. Dan holds Max’s hand, Maya holds Ella’s and Leo wears the backpack with the yellow umbrella.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_039": {
+      "observed": "At the blue shelter, Nina checks the umbrella on Leo’s pack beside Maya and Ella.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_040": {
+      "observed": "Dan, Leo and Max walk with the red shelter across the street. Leo still wears the same pack.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    }
+  },
+  "generated_source_sha256": "99388b05285a1dd96785948a8de97a12979a59e56ef6d1104885b4444b40bc75",
+  "generated_source_size": [
+    1671,
+    941
+  ],
+  "selected_panels": [
+    1
+  ],
+  "preserved_panels": [
+    2,
+    3,
+    4
+  ],
+  "selected_rectangles_xyxy": [
+    [
+      0,
+      0,
+      836,
+      470
+    ]
+  ]
+}

@@ -1,997 +1,1384 @@
 1
-00:00:00,500 --> 00:00:03,760
+00:00:00,250 --> 00:00:03,234
 One list, two colors. Just as promised.
 
 2
-00:00:04,010 --> 00:00:07,270
+00:00:03,384 --> 00:00:06,369
 Excellent. Yesterday my shopping needed a
 referee.
 
 3
-00:00:07,520 --> 00:00:10,780
+00:00:06,519 --> 00:00:09,503
 Today we are all coming with you.
 
 4
-00:00:15,500 --> 00:00:19,190
-Can we have our picnic under our tree?
+00:00:09,653 --> 00:00:14,300
+Good. I want to hear how you explain those
+colors, Dan.
 
 5
-00:00:19,440 --> 00:00:22,700
-Yes. We can make fruit salad first.
+00:00:15,250 --> 00:00:18,454
+Can we have our picnic under our tree?
 
 6
-00:00:22,950 --> 00:00:27,070
-Then our lunch will have a very short journey.
+00:00:18,604 --> 00:00:21,417
+Yes. We can make fruit salad first.
 
 7
-00:00:30,500 --> 00:00:34,190
-Sixteen dollars for fruit. That is our limit.
+00:00:21,567 --> 00:00:25,163
+Then our lunch will have a very short journey.
 
 8
-00:00:34,440 --> 00:00:36,410
-But I have twenty.
+00:00:25,313 --> 00:00:29,300
+The shade under that tree is just the right
+size.
 
 9
-00:00:36,660 --> 00:00:41,210
+00:00:30,250 --> 00:00:33,757
+Sixteen dollars for fruit. That is our limit.
+
+10
+00:00:33,907 --> 00:00:35,700
+But I have twenty.
+
+11
+00:00:35,850 --> 00:00:40,214
 Four dollars already have another job. Let us
 keep them.
 
-10
-00:00:45,500 --> 00:00:49,190
+12
+00:00:40,364 --> 00:00:44,300
+Four stays out. Sixteen is what we can spend.
+
+13
+00:00:45,250 --> 00:00:48,594
 Plates, forks, napkins, water. We have these
 already.
 
-11
-00:00:49,440 --> 00:00:52,270
+14
+00:00:48,744 --> 00:00:51,270
 Is the blanket on the list?
 
-12
-00:00:52,520 --> 00:00:55,780
+15
+00:00:51,420 --> 00:00:54,356
 Yes. Lunch needs somewhere comfortable to sit.
 
-13
-00:01:00,500 --> 00:01:04,620
+16
+00:00:54,506 --> 00:00:56,623
+Let's take the blanket, then.
+
+17
+00:00:56,773 --> 00:00:59,300
+Good. Grass makes my knees itch.
+
+18
+00:01:00,250 --> 00:01:04,290
 I will choose the biggest fruit in the shop.
 
-14
-00:01:04,870 --> 00:01:07,270
+19
+00:01:04,440 --> 00:01:06,720
 Choose fruit we will enjoy.
 
-15
-00:01:07,520 --> 00:01:10,350
+20
+00:01:06,870 --> 00:01:09,590
 And fruit we can actually carry.
 
-16
-00:01:15,500 --> 00:01:20,050
+21
+00:01:09,740 --> 00:01:13,780
+You're taking all the fun out of showing off.
+
+22
+00:01:15,250 --> 00:01:19,356
 What if the biggest fruit is bigger than our
 basket?
 
-17
-00:01:20,300 --> 00:01:23,130
+23
+00:01:19,506 --> 00:01:21,998
 Then the basket will need confidence.
 
-18
-00:01:23,380 --> 00:01:26,640
+24
+00:01:22,148 --> 00:01:25,044
 I think it needs a bigger door.
 
-19
-00:01:30,500 --> 00:01:33,760
+25
+00:01:25,194 --> 00:01:29,300
+Let's look at the basket before we choose a
+winner.
+
+26
+00:01:30,250 --> 00:01:33,410
 Ella and I will check the fruit.
 
-20
-00:01:34,010 --> 00:01:36,840
+27
+00:01:33,560 --> 00:01:36,280
 Max and I can compare tastes.
 
-21
-00:01:37,090 --> 00:01:40,780
+28
+00:01:36,430 --> 00:01:40,030
 I will watch the prices. Dad can listen.
 
-22
-00:01:45,500 --> 00:01:49,190
+29
+00:01:40,180 --> 00:01:43,780
+Listening. That's a shopping job I haven't
+tried.
+
+30
+00:01:45,250 --> 00:01:48,850
 Six family members. One list. One modest
 basket.
 
-23
-00:01:49,440 --> 00:01:52,270
+31
+00:01:49,000 --> 00:01:51,720
 And one very confident fruit expert.
 
-24
-00:01:52,520 --> 00:01:54,490
+32
+00:01:51,870 --> 00:01:53,710
 I appreciate the promotion.
 
-25
-00:02:00,500 --> 00:02:03,330
+33
+00:01:53,860 --> 00:01:57,900
+It's a trial position. Let's see what you
+choose.
+
+34
+00:02:00,250 --> 00:02:02,970
 Apples, peaches, strawberries. It smells
 wonderful.
 
-26
-00:02:03,580 --> 00:02:05,980
+35
+00:02:03,120 --> 00:02:05,400
 And there is the champion!
 
-27
-00:02:06,230 --> 00:02:10,350
+36
+00:02:05,550 --> 00:02:09,590
 Let us meet the fruit before we award prizes.
 
-28
-00:02:15,500 --> 00:02:18,760
+37
+00:02:09,740 --> 00:02:14,220
+Are we handing out medals before we've seen
+the prices?
+
+38
+00:02:15,250 --> 00:02:18,410
 That watermelon could feed a whole picnic.
 
-29
-00:02:19,010 --> 00:02:20,980
+39
+00:02:18,560 --> 00:02:20,400
 It costs eight dollars.
 
-30
-00:02:21,230 --> 00:02:24,490
+40
+00:02:20,550 --> 00:02:23,710
 It could also be the picnic table.
 
-31
-00:02:30,500 --> 00:02:32,470
+41
+00:02:23,860 --> 00:02:28,340
+Half our money on one fruit? That's quite a
+table.
+
+42
+00:02:30,250 --> 00:02:32,312
 It will not fit.
 
-32
-00:02:32,720 --> 00:02:34,520
+43
+00:02:32,462 --> 00:02:33,538
 Perhaps diagonally?
 
-33
-00:02:34,770 --> 00:02:38,460
+44
+00:02:33,688 --> 00:02:37,722
 Dad, it is already round in every direction.
 
-34
-00:02:45,500 --> 00:02:48,760
+45
+00:02:37,872 --> 00:02:42,400
+It does seem to be winning against the basket.
+
+46
+00:02:45,250 --> 00:02:48,410
 A tiny yellow orange. Finally, something
 basket-sized.
 
-35
-00:02:49,010 --> 00:02:50,980
+47
+00:02:48,560 --> 00:02:50,400
 It has pointy ends.
 
-36
-00:02:51,230 --> 00:02:55,350
+48
+00:02:50,550 --> 00:02:54,590
 Let us check what it is before we choose.
 
-37
-00:03:00,500 --> 00:03:04,190
+49
+00:02:54,740 --> 00:02:58,780
+A real orange doesn't usually have that little
+nose.
+
+50
+00:03:00,250 --> 00:03:03,850
 The oranges are rounder. This one looks
 different.
 
-38
-00:03:04,440 --> 00:03:06,410
+51
+00:03:04,000 --> 00:03:05,840
 The label says lemon.
 
-39
-00:03:06,660 --> 00:03:10,350
+52
+00:03:05,990 --> 00:03:09,590
 Then my orange is using a different name.
 
-40
-00:03:15,500 --> 00:03:20,050
+53
+00:03:09,740 --> 00:03:13,780
+That name might explain why it smells so
+different.
+
+54
+00:03:15,250 --> 00:03:19,730
 We can compare a lemon sample with an orange
 sample.
 
-41
-00:03:20,300 --> 00:03:22,100
+55
+00:03:19,880 --> 00:03:21,280
 A tiny taste?
 
-42
-00:03:22,350 --> 00:03:25,610
+56
+00:03:21,430 --> 00:03:24,590
 If you want one. First, clean hands.
 
-43
-00:03:30,500 --> 00:03:34,190
+57
+00:03:24,740 --> 00:03:28,780
+Okay. I want to see Dad's face first, though.
+
+58
+00:03:30,250 --> 00:03:33,850
 I was rather sure about my tiny orange.
 
-44
-00:03:34,440 --> 00:03:36,840
+59
+00:03:34,000 --> 00:03:36,280
 You can change your mind.
 
-45
-00:03:37,090 --> 00:03:39,920
+60
+00:03:36,430 --> 00:03:39,150
 We came to choose together, remember?
 
-46
-00:03:45,500 --> 00:03:49,620
+61
+00:03:39,300 --> 00:03:43,780
+Right. You can all help me pick a better name.
+
+62
+00:03:45,250 --> 00:03:48,952
 Back you go. I should have asked your name.
 
-47
-00:03:49,870 --> 00:03:55,710
-The card has lemons and oranges. We can choose
-both for different reasons.
+63
+00:03:49,102 --> 00:03:53,611
+The card has both. We can use them for
+different things.
 
-48
-00:04:00,500 --> 00:04:04,190
+64
+00:03:53,761 --> 00:03:56,254
+So which one should taste sweeter?
+
+65
+00:03:56,404 --> 00:03:59,300
+Let's find out before you guess again.
+
+66
+00:04:00,250 --> 00:04:03,850
 Do lemons need us to wash our hands?
 
-49
-00:04:04,440 --> 00:04:08,560
+67
+00:04:04,000 --> 00:04:08,040
 The food does. We will all take a turn.
 
-50
-00:04:08,810 --> 00:04:10,780
+68
+00:04:08,190 --> 00:04:10,030
 Even the fruit expert.
 
-51
-00:04:15,500 --> 00:04:20,050
+69
+00:04:10,180 --> 00:04:13,340
+Even experts touch baskets and door handles.
+
+70
+00:04:15,250 --> 00:04:19,730
 These are fresh lemon samples. A small taste
 is enough.
 
-52
-00:04:20,300 --> 00:04:22,100
+71
+00:04:19,880 --> 00:04:21,280
 You first, Dad.
 
-53
-00:04:22,350 --> 00:04:25,180
+72
+00:04:21,430 --> 00:04:24,150
 A fair request from my assistant.
 
-54
-00:04:30,500 --> 00:04:34,190
+73
+00:04:24,300 --> 00:04:28,340
+I'm watching your eyebrows. They always give
+you away.
+
+74
+00:04:30,250 --> 00:04:33,850
 Oh! That is definitely not a tiny orange.
 
-55
-00:04:34,440 --> 00:04:36,410
+75
+00:04:34,000 --> 00:04:35,840
 Your face folded up!
 
-56
-00:04:36,660 --> 00:04:39,490
+76
+00:04:35,990 --> 00:04:38,710
 It discovered a very powerful lemon.
 
-57
-00:04:45,500 --> 00:04:48,760
+77
+00:04:38,860 --> 00:04:43,340
+Those eyebrows just told us exactly how strong
+it is.
+
+78
+00:04:45,250 --> 00:04:48,410
 If it is sour, is it spoiled?
 
-58
-00:04:49,010 --> 00:04:51,840
+79
+00:04:48,560 --> 00:04:51,280
 No. Fresh lemons are naturally sour.
 
-59
-00:04:52,090 --> 00:04:55,350
+80
+00:04:51,430 --> 00:04:54,590
 My surprise was bigger than the sample.
 
-60
-00:05:00,500 --> 00:05:04,620
+81
+00:04:54,740 --> 00:04:58,780
+Your nose certainly had something to say about
+it.
+
+82
+00:05:00,250 --> 00:05:03,952
 Sour describes this lemon’s taste. Spoiled
 food is different.
 
-61
-00:05:04,870 --> 00:05:09,420
+83
+00:05:04,102 --> 00:05:08,208
 We never taste food to check whether it is
 spoiled.
 
-62
-00:05:09,670 --> 00:05:12,070
+84
+00:05:08,358 --> 00:05:10,448
 I will skip mine today.
 
-63
-00:05:15,500 --> 00:05:18,330
+85
+00:05:10,598 --> 00:05:14,300
+That's fine, Max. You can smell the orange
+instead.
+
+86
+00:05:15,250 --> 00:05:17,819
 This orange is sweet and juicy.
 
-64
-00:05:18,580 --> 00:05:22,270
+87
+00:05:17,969 --> 00:05:21,369
 And the lemon was sour. Both were fresh.
 
-65
-00:05:22,520 --> 00:05:26,210
+88
+00:05:21,519 --> 00:05:24,919
 So their names were not the only difference.
 
-66
-00:05:30,500 --> 00:05:32,900
+89
+00:05:25,069 --> 00:05:29,300
+My eyebrows prefer this one. Did you see them
+relax?
+
+90
+00:05:30,250 --> 00:05:32,530
 Sweet. And a little tangy.
 
-67
-00:05:33,150 --> 00:05:35,550
+91
+00:05:32,680 --> 00:05:34,960
 That is a useful description.
 
-68
-00:05:35,800 --> 00:05:39,920
+92
+00:05:35,110 --> 00:05:39,150
 Better than saying it tastes like a yellow
 circle.
 
-69
-00:05:45,500 --> 00:05:50,910
+93
+00:05:39,300 --> 00:05:43,340
+I'd know exactly which sample you meant from
+that.
+
+94
+00:05:45,250 --> 00:05:50,610
 New rule. We choose by what we need, not what
 looks impressive.
 
-70
-00:05:51,160 --> 00:05:52,960
+95
+00:05:50,760 --> 00:05:52,160
 That sounds promising.
 
-71
-00:05:53,210 --> 00:05:56,040
+96
+00:05:52,310 --> 00:05:55,030
 Let us start with two apples.
 
-72
-00:06:00,500 --> 00:06:04,190
+97
+00:05:55,180 --> 00:05:59,220
+I'll help you find a pair that looks good.
+
+98
+00:06:00,250 --> 00:06:03,650
 These apples are firm, with no damaged spots.
 
-73
-00:06:04,440 --> 00:06:07,700
+99
+00:06:03,800 --> 00:06:06,784
 Even though they are not the biggest?
 
-74
-00:06:07,950 --> 00:06:11,210
+100
+00:06:06,934 --> 00:06:09,919
 They are exactly the size we need.
 
-75
-00:06:15,500 --> 00:06:19,620
+101
+00:06:10,069 --> 00:06:14,300
+Then those two get the first seats in the
+basket.
+
+102
+00:06:15,250 --> 00:06:19,290
 Two apples, one dollar each. Two dollars so
 far.
 
-76
-00:06:19,870 --> 00:06:21,670
+103
+00:06:19,440 --> 00:06:20,840
 A small start.
 
-77
-00:06:21,920 --> 00:06:25,180
+104
+00:06:20,990 --> 00:06:24,150
 A good start. There is a difference.
 
-78
-00:06:30,500 --> 00:06:34,620
+105
+00:06:24,300 --> 00:06:27,900
+And fourteen dollars still gives us choices,
+Dad.
+
+106
+00:06:30,250 --> 00:06:34,290
 One, two, three, four. Four bananas in one
 bunch.
 
-79
-00:06:34,870 --> 00:06:36,840
+107
+00:06:34,440 --> 00:06:36,280
 A very well-organized family.
 
-80
-00:06:37,090 --> 00:06:40,350
+108
+00:06:36,430 --> 00:06:39,590
 And ripe enough for our salad today.
 
-81
-00:06:45,500 --> 00:06:49,620
+109
+00:06:39,740 --> 00:06:44,220
+Did they have to hold hands all the way here?
+
+110
+00:06:45,250 --> 00:06:49,290
 The whole bunch is two dollars. Four dollars
 altogether.
 
-82
-00:06:49,870 --> 00:06:51,670
+111
+00:06:49,440 --> 00:06:50,840
 No extra passengers.
 
-83
-00:06:51,920 --> 00:06:55,180
+112
+00:06:50,990 --> 00:06:54,150
 Good. We have more fruit to invite.
 
-84
-00:07:00,500 --> 00:07:04,190
+113
+00:06:54,300 --> 00:06:58,340
+Who gets the next invitation? Something round,
+I hope.
+
+114
+00:07:00,250 --> 00:07:03,850
 Two oranges. I checked the name this time.
 
-85
-00:07:04,440 --> 00:07:06,240
+115
+00:07:04,000 --> 00:07:05,400
 Seventy-five cents each.
 
-86
-00:07:06,490 --> 00:07:10,610
+116
+00:07:05,550 --> 00:07:09,590
 One fifty for both. Our total is five fifty.
 
-87
-00:07:15,500 --> 00:07:18,760
+117
+00:07:09,740 --> 00:07:13,780
+Two oranges, one price each. I'm following the
+total.
+
+118
+00:07:15,250 --> 00:07:18,234
 Why buy a lemon after that surprise?
 
-88
-00:07:19,010 --> 00:07:22,700
+119
+00:07:18,384 --> 00:07:21,784
 A little juice can brighten the sweet fruit.
 
-89
-00:07:22,950 --> 00:07:26,210
+120
+00:07:21,934 --> 00:07:24,919
 A little sounds better than a mouthful.
 
-90
-00:07:30,500 --> 00:07:34,190
+121
+00:07:25,069 --> 00:07:29,300
+Just enough for the juice to reach all the
+fruit.
+
+122
+00:07:30,250 --> 00:07:33,650
 One lemon. One lime. Different names,
 different jobs.
 
-91
-00:07:34,440 --> 00:07:37,270
+123
+00:07:33,800 --> 00:07:36,369
 Fifty cents each. Six fifty now.
 
-92
-00:07:37,520 --> 00:07:41,640
+124
+00:07:36,519 --> 00:07:40,334
 And this time we know what we are choosing.
 
-93
-00:07:45,500 --> 00:07:48,330
+125
+00:07:40,484 --> 00:07:44,300
+Good. My mouth remembers which one it met
+first.
+
+126
+00:07:45,250 --> 00:07:47,743
 How many grapes make a pound?
 
-94
-00:07:48,580 --> 00:07:53,130
+127
+00:07:47,893 --> 00:07:51,998
 It depends on their size. The scale measures
 the weight.
 
-95
-00:07:53,380 --> 00:07:56,210
+128
+00:07:52,148 --> 00:07:54,641
 One pound is enough for us.
 
-96
-00:08:00,500 --> 00:08:05,050
+129
+00:07:54,791 --> 00:07:59,300
+I'm glad you said weight. I'd be here counting
+all day.
+
+130
+00:08:00,250 --> 00:08:04,614
 One pound at three dollars a pound. Nine fifty
 altogether.
 
-97
-00:08:05,300 --> 00:08:08,560
+131
+00:08:04,764 --> 00:08:07,843
 The scale is a useful shopping partner.
 
-98
-00:08:08,810 --> 00:08:11,210
+132
+00:08:07,993 --> 00:08:10,214
 It gives very precise advice.
 
-99
-00:08:15,500 --> 00:08:19,620
+133
+00:08:10,364 --> 00:08:14,300
+And it doesn't care how impressive a grape
+looks.
+
+134
+00:08:15,250 --> 00:08:19,066
 These strawberries look good, and the lid
 protects them.
 
-100
-00:08:19,870 --> 00:08:21,840
+135
+00:08:19,216 --> 00:08:20,953
 One pound, three dollars.
 
-101
-00:08:22,090 --> 00:08:26,640
+136
+00:08:21,103 --> 00:08:25,334
 Twelve fifty now. We still have room in the
 budget.
 
-102
-00:08:30,500 --> 00:08:33,760
+137
+00:08:25,484 --> 00:08:29,300
+Can we keep the lid clear when we pack?
+
+138
+00:08:30,250 --> 00:08:33,234
 The biggest fruit should go on top.
 
-103
-00:08:34,010 --> 00:08:36,840
+139
+00:08:33,384 --> 00:08:35,953
 The soft fruit should stay protected.
 
-104
-00:08:37,090 --> 00:08:41,210
+140
+00:08:36,103 --> 00:08:39,919
 Right. My old rule nearly squashed our new
 plan.
 
-105
-00:08:45,500 --> 00:08:48,330
+141
+00:08:40,069 --> 00:08:44,300
+The berries would like to thank you for
+changing it.
+
+142
+00:08:45,250 --> 00:08:47,970
 Should we take the firmest peaches?
 
-106
-00:08:48,580 --> 00:08:51,840
+143
+00:08:48,120 --> 00:08:51,280
 These are ripe for today. Gentle hands.
 
-107
-00:08:52,090 --> 00:08:55,780
+144
+00:08:51,430 --> 00:08:55,030
 They smell lovely. Let us choose these two.
 
-108
-00:09:00,500 --> 00:09:03,760
+145
+00:08:55,180 --> 00:08:59,220
+I can hold the basket steady while you choose.
+
+146
+00:09:00,250 --> 00:09:03,329
 Two peaches at seventy-five cents. Fourteen
 dollars.
 
-109
-00:09:04,010 --> 00:09:06,410
+147
+00:09:03,479 --> 00:09:05,700
 They get the gentle seats.
 
-110
-00:09:06,660 --> 00:09:11,210
+148
+00:09:05,850 --> 00:09:10,214
 Good thinking. Soft fruit travels better with
 a little care.
 
-111
-00:09:15,500 --> 00:09:17,900
+149
+00:09:10,364 --> 00:09:14,300
+I'll leave their spot clear while you finish
+counting.
+
+150
+00:09:15,250 --> 00:09:17,403
 These two fit our hands.
 
-112
-00:09:18,150 --> 00:09:20,120
+151
+00:09:17,553 --> 00:09:19,291
 And the biggest one?
 
-113
-00:09:20,370 --> 00:09:27,070
+152
+00:09:19,441 --> 00:09:25,750
 We need two ripe pears, not a pear contest.
 These two are a good team.
 
-114
-00:09:30,500 --> 00:09:33,760
+153
+00:09:25,900 --> 00:09:29,300
+My hands vote for the little team, too.
+
+154
+00:09:30,250 --> 00:09:33,410
 Two pears, one fifty. Fifteen fifty
 altogether.
 
-115
-00:09:34,010 --> 00:09:35,810
+155
+00:09:33,560 --> 00:09:34,520
 Under sixteen?
 
-116
-00:09:36,060 --> 00:09:40,610
+156
+00:09:34,670 --> 00:09:39,150
 Yes. And every fruit has a reason to be here.
 
-117
-00:09:45,500 --> 00:09:49,620
+157
+00:09:39,300 --> 00:09:43,340
+Just under. That's close enough to check it
+twice.
+
+158
+00:09:45,250 --> 00:09:49,290
 We have everything for the salad, and it fits.
 
-118
-00:09:49,870 --> 00:09:53,130
+159
+00:09:49,440 --> 00:09:52,600
 The basket did not even need confidence.
 
-119
-00:09:53,380 --> 00:09:55,350
+160
+00:09:52,750 --> 00:09:54,590
 Just a sensible plan.
 
-120
-00:10:00,500 --> 00:10:06,770
+161
+00:09:54,740 --> 00:09:58,780
+The melon can stay on its very own shelf.
+
+162
+00:10:00,250 --> 00:10:06,490
 Two, two, one fifty, fifty cents, fifty cents,
 three, three, one fifty, one fifty.
 
-121
-00:10:07,020 --> 00:10:10,280
+163
+00:10:06,640 --> 00:10:09,800
 Fifteen fifty. That is our actual total.
 
-122
-00:10:15,500 --> 00:10:19,190
+164
+00:10:09,950 --> 00:10:11,790
+Under our limit, then?
+
+165
+00:10:11,940 --> 00:10:13,340
+By fifty cents.
+
+166
+00:10:15,250 --> 00:10:18,650
 So we have fifty cents left to spend.
 
-123
-00:10:19,440 --> 00:10:24,420
+167
+00:10:18,800 --> 00:10:23,447
 Yes. Not four fifty. That will be the change
 from twenty.
 
-124
-00:10:24,670 --> 00:10:26,470
+168
+00:10:23,597 --> 00:10:24,919
 Different starting amounts.
 
-125
-00:10:30,500 --> 00:10:33,330
+169
+00:10:25,069 --> 00:10:29,300
+Ah, the change starts with the bill in my
+hand.
+
+170
+00:10:30,250 --> 00:10:32,970
 What if we added the watermelon?
 
-126
-00:10:33,580 --> 00:10:36,840
+171
+00:10:33,120 --> 00:10:36,280
 Twenty-three fifty. Seven fifty over our
 limit.
 
-127
-00:10:37,090 --> 00:10:40,350
+172
+00:10:36,430 --> 00:10:39,590
 And one whole basket over our basket.
 
-128
-00:10:45,500 --> 00:10:50,910
+173
+00:10:39,740 --> 00:10:43,780
+I don't think my elbows can afford that
+either.
+
+174
+00:10:45,250 --> 00:10:50,312
 No watermelon today. Bigger would leave us
 with less of everything else.
 
-129
-00:10:51,160 --> 00:10:53,560
+175
+00:10:50,462 --> 00:10:52,616
 That is a thoughtful choice.
 
-130
-00:10:53,810 --> 00:10:56,640
+176
+00:10:52,766 --> 00:10:55,334
 I am trying a new specialty.
 
-131
-00:11:00,500 --> 00:11:04,190
+177
+00:10:55,484 --> 00:10:59,300
+Choosing on purpose? You might get good at
+that.
+
+178
+00:11:00,250 --> 00:11:03,850
 Will the whole salad make that face happen?
 
-132
-00:11:04,440 --> 00:11:06,840
+179
+00:11:04,000 --> 00:11:06,280
 I was wondering that too.
 
-133
-00:11:07,090 --> 00:11:10,350
+180
+00:11:06,430 --> 00:11:09,590
 We will use just a little juice.
 
-134
-00:11:15,500 --> 00:11:20,480
+181
+00:11:09,740 --> 00:11:14,220
+I'll watch the spoon. My cheeks are counting
+on you.
+
+182
+00:11:15,250 --> 00:11:19,897
 Half a lemon and half a lime for the whole
 bowl.
 
-135
-00:11:20,730 --> 00:11:23,560
+183
+00:11:20,047 --> 00:11:22,616
 Not a bowl full of lemons?
 
-136
-00:11:23,810 --> 00:11:26,210
+184
+00:11:22,766 --> 00:11:24,919
 I will help keep track.
 
-137
-00:11:30,500 --> 00:11:34,190
+185
+00:11:25,069 --> 00:11:29,300
+Just wait until you smell the orange in there,
+too.
+
+186
+00:11:30,250 --> 00:11:33,757
 I will cut the apples, pears and peaches.
 
-138
-00:11:34,440 --> 00:11:37,700
+187
+00:11:33,907 --> 00:11:36,986
 I will prepare the grapes and dressing.
 
-139
-00:11:37,950 --> 00:11:41,210
+188
+00:11:37,136 --> 00:11:40,214
 We can set out the picnic things.
 
-140
-00:11:45,500 --> 00:11:50,480
+189
+00:11:40,364 --> 00:11:44,300
+Sounds like the picnic crew is already on
+duty.
+
+190
+00:11:45,250 --> 00:11:50,170
 We have fruit for everyone, and a plan for
 every fruit.
 
-141
-00:11:50,730 --> 00:11:53,990
+191
+00:11:50,320 --> 00:11:53,480
 That sounds more useful than a champion.
 
-142
-00:11:54,240 --> 00:11:56,210
+192
+00:11:53,630 --> 00:11:55,470
 And easier to carry.
 
-143
-00:12:00,500 --> 00:12:03,330
+193
+00:11:55,620 --> 00:11:59,220
+Easier to share, too. Everybody helped pick
+something.
+
+194
+00:12:00,250 --> 00:12:03,298
 Fifteen fifty. It matches our card.
 
-144
-00:12:03,580 --> 00:12:05,980
+195
+00:12:03,448 --> 00:12:06,003
 Good. We checked before guessing.
 
-145
-00:12:06,230 --> 00:12:08,030
+196
+00:12:06,153 --> 00:12:07,722
 And before paying.
 
-146
-00:12:15,500 --> 00:12:17,900
+197
+00:12:07,872 --> 00:12:12,400
+That makes me feel better about handing over
+twenty.
+
+198
+00:12:15,250 --> 00:12:17,530
 Here you go. Twenty dollars.
 
-147
-00:12:18,150 --> 00:12:22,270
+199
+00:12:17,680 --> 00:12:21,720
 We should get four dollars and fifty cents
 back.
 
-148
-00:12:22,520 --> 00:12:24,920
+200
+00:12:21,870 --> 00:12:24,150
 I will check that too.
 
-149
-00:12:30,500 --> 00:12:33,760
+201
+00:12:24,300 --> 00:12:28,340
+Four fifty back. I'll watch while you count
+it.
+
+202
+00:12:30,250 --> 00:12:33,410
 Four dollars, and two quarters. Four fifty.
 
-150
-00:12:34,010 --> 00:12:37,270
+203
+00:12:33,560 --> 00:12:36,720
 That is more than our fifty cents.
 
-151
-00:12:37,520 --> 00:12:39,920
+204
+00:12:36,870 --> 00:12:39,150
 Yes. Let us check why.
 
-152
-00:12:45,500 --> 00:12:50,480
+205
+00:12:39,300 --> 00:12:43,340
+Let's start with the bill I actually handed
+over.
+
+206
+00:12:45,250 --> 00:12:49,759
 Twenty paid gives four fifty back. Sixteen
 budgeted leaves fifty cents.
 
-153
-00:12:50,730 --> 00:12:53,990
+207
+00:12:49,909 --> 00:12:52,805
 So four dollars were never picnic money.
 
-154
-00:12:54,240 --> 00:12:57,070
+208
+00:12:52,955 --> 00:12:55,448
 Exactly. Every dollar keeps its job.
 
-155
-00:13:00,500 --> 00:13:04,190
+209
+00:12:55,598 --> 00:12:59,300
+Even the ones that never wanted to go
+shopping.
+
+210
+00:13:00,250 --> 00:13:03,850
 The soft fruit can travel in the cooler.
 
-156
-00:13:04,440 --> 00:13:06,240
+211
+00:13:04,000 --> 00:13:05,400
 Nothing gets squashed.
 
-157
-00:13:06,490 --> 00:13:10,610
+212
+00:13:05,550 --> 00:13:09,590
 A much better journey than riding under a
 watermelon.
 
-158
-00:13:15,500 --> 00:13:17,900
+213
+00:13:09,740 --> 00:13:14,220
+I can give the soft ones a little elbow room.
+
+214
+00:13:15,250 --> 00:13:17,530
 Fruit, receipt, change. All checked.
 
-159
-00:13:18,150 --> 00:13:19,950
+215
+00:13:17,680 --> 00:13:19,080
 And the blanket.
 
-160
-00:13:20,200 --> 00:13:25,180
+216
+00:13:19,230 --> 00:13:24,150
 I would hate to tell lunch it had to stand up.
 
-161
-00:13:30,500 --> 00:13:32,470
+217
+00:13:24,300 --> 00:13:28,780
+And lunch has six people who would like to
+sit.
+
+218
+00:13:30,250 --> 00:13:32,090
 Happy with our choices?
 
-162
-00:13:32,720 --> 00:13:36,840
+219
+00:13:32,240 --> 00:13:36,280
 Very. We bought a picnic, not a size record.
 
-163
-00:13:37,090 --> 00:13:40,350
+220
+00:13:36,430 --> 00:13:39,590
 And we left the giant table behind.
 
-164
-00:13:45,500 --> 00:13:48,330
+221
+00:13:39,740 --> 00:13:43,780
+That giant table still had an eight-dollar
+price tag.
+
+222
+00:13:45,250 --> 00:13:47,970
 All fruit delivered. No champion required.
 
-165
-00:13:48,580 --> 00:13:50,550
+223
+00:13:48,120 --> 00:13:49,960
 Now we prepare it.
 
-166
-00:13:50,800 --> 00:13:54,060
+224
+00:13:50,110 --> 00:13:53,270
 Can we make the lemon less surprising?
 
-167
-00:14:00,500 --> 00:14:02,900
+225
+00:13:53,420 --> 00:13:58,340
+Wait until it's mixed in. Then tell me what
+you taste.
+
+226
+00:14:00,250 --> 00:14:02,530
 Hands first, after our trip.
 
-168
-00:14:03,150 --> 00:14:04,950
+227
+00:14:02,680 --> 00:14:04,080
 Then the fruit?
 
-169
-00:14:05,200 --> 00:14:10,610
+228
+00:14:04,230 --> 00:14:09,590
 Yes. Clean hands, clean fruit, clean plates.
 We all have a job.
 
-170
-00:14:15,500 --> 00:14:18,330
+229
+00:14:09,740 --> 00:14:13,780
+Good. I'll keep the plates clear while we're
+washing.
+
+230
+00:14:15,250 --> 00:14:17,970
 Even the lemon peel gets washed?
 
-171
-00:14:18,580 --> 00:14:20,980
+231
+00:14:18,120 --> 00:14:20,400
 Yes, before we cut it.
 
-172
-00:14:21,230 --> 00:14:24,490
+232
+00:14:20,550 --> 00:14:23,710
 Rinse, drain, then prepare. We have time.
 
-173
-00:14:30,500 --> 00:14:34,620
+233
+00:14:23,860 --> 00:14:28,340
+I can wait. I like the way that peel smells.
+
+234
+00:14:30,250 --> 00:14:33,952
 We can put out the plates while you cut.
 
-174
-00:14:34,870 --> 00:14:38,130
+235
+00:14:34,102 --> 00:14:36,998
 Thank you. I will handle the knife.
 
-175
-00:14:38,380 --> 00:14:41,640
+236
+00:14:37,148 --> 00:14:40,044
 And I will escort these pits away.
 
-176
-00:14:45,500 --> 00:14:48,330
+237
+00:14:40,194 --> 00:14:44,300
+Thank you. A clear counter gives me room to
+work.
+
+238
+00:14:45,250 --> 00:14:47,900
 Four little pieces from one grape?
 
-177
-00:14:48,580 --> 00:14:52,270
+239
+00:14:48,050 --> 00:14:51,557
 Yes, cut lengthwise. Small pieces for our
 salad.
 
-178
-00:14:52,520 --> 00:14:56,210
+240
+00:14:51,707 --> 00:14:55,214
 These grapes are traveling in a group too.
 
-179
-00:15:00,500 --> 00:15:05,050
+241
+00:14:55,364 --> 00:14:59,300
+Little boats. I can see all four of them.
+
+242
+00:15:00,250 --> 00:15:04,356
 The red strawberries make it look like a
 picnic already.
 
-180
-00:15:05,300 --> 00:15:08,990
+243
+00:15:04,506 --> 00:15:07,805
 And every color came from our own choices.
 
-181
-00:15:09,240 --> 00:15:11,640
+244
+00:15:07,955 --> 00:15:10,044
 One bowl, plenty to share.
 
-182
-00:15:15,500 --> 00:15:18,760
+245
+00:15:10,194 --> 00:15:14,300
+We can spot the red ones from across the
+island.
+
+246
+00:15:15,250 --> 00:15:18,410
 Two oranges. Round, sweet, and correctly
 introduced.
 
-183
-00:15:19,010 --> 00:15:21,410
+247
+00:15:18,560 --> 00:15:20,840
 No folded-up face this time.
 
-184
-00:15:21,660 --> 00:15:25,350
+248
+00:15:20,990 --> 00:15:24,590
 Please save the face until after the peeling.
 
-185
-00:15:30,500 --> 00:15:32,900
+249
+00:15:24,740 --> 00:15:28,780
+My face will wait. My hands are busy anyway.
+
+250
+00:15:30,250 --> 00:15:32,530
 Four bananas. One empty bunch.
 
-186
-00:15:33,150 --> 00:15:36,410
+251
+00:15:32,680 --> 00:15:35,840
 Their family meeting moved into the bowl.
 
-187
-00:15:36,660 --> 00:15:40,350
+252
+00:15:35,990 --> 00:15:39,590
 Now for a little lemon and lime juice.
 
-188
-00:15:45,500 --> 00:15:49,620
+253
+00:15:39,740 --> 00:15:44,220
+Remember my lemon face? Let's give it a
+smaller job.
+
+254
+00:15:45,250 --> 00:15:49,290
 Half a lemon. Half a lime. I am checking.
 
-189
-00:15:49,870 --> 00:15:53,130
+255
+00:15:49,440 --> 00:15:52,600
 The little job for the strong flavor.
 
-190
-00:15:53,380 --> 00:15:55,780
+256
+00:15:52,750 --> 00:15:55,030
 Exactly. No guessing this time.
 
-191
-00:16:00,500 --> 00:16:02,470
+257
+00:15:55,180 --> 00:15:59,220
+Good. My tongue would like a little warning
+today.
+
+258
+00:16:00,250 --> 00:16:02,090
 We are saving those?
 
-192
-00:16:02,720 --> 00:16:05,980
+259
+00:16:02,240 --> 00:16:05,400
 Yes. Wrapped, covered and in the fridge.
 
-193
-00:16:06,230 --> 00:16:09,490
+260
+00:16:05,550 --> 00:16:08,710
 A little today, a little another day.
 
-194
-00:16:15,500 --> 00:16:18,760
+261
+00:16:08,860 --> 00:16:12,900
+I like that we didn't need a whole one.
+
+262
+00:16:15,250 --> 00:16:18,329
 A little sour with all this sweet.
 
-195
-00:16:19,010 --> 00:16:21,840
+263
+00:16:18,479 --> 00:16:21,128
 That is the balance we planned.
 
-196
-00:16:22,090 --> 00:16:26,640
+264
+00:16:21,278 --> 00:16:25,643
 I can decide what I think when we sit down.
 
-197
-00:16:30,500 --> 00:16:34,190
+265
+00:16:25,793 --> 00:16:29,300
+Deal. Tell me which flavor you notice first.
+
+266
+00:16:30,250 --> 00:16:33,850
 Lid on. Into the cooler until we eat.
 
-198
-00:16:34,440 --> 00:16:36,410
+267
+00:16:34,000 --> 00:16:35,840
 Forks in the basket.
 
-199
-00:16:36,660 --> 00:16:39,490
+268
+00:16:35,990 --> 00:16:38,710
 Now our short journey can begin.
 
-200
-00:16:45,500 --> 00:16:47,900
+269
+00:16:38,860 --> 00:16:42,900
+Luckily the shade is only a few steps away.
+
+270
+00:16:45,250 --> 00:16:47,530
 Lunch has reached its destination.
 
-201
-00:16:48,150 --> 00:16:50,120
+271
+00:16:47,680 --> 00:16:49,520
 No bus ticket required.
 
-202
-00:16:50,370 --> 00:16:54,920
+272
+00:16:49,670 --> 00:16:54,150
 And the tree has kept our seats in the shade.
 
-203
-00:17:00,500 --> 00:17:02,470
+273
+00:16:54,300 --> 00:16:59,220
+Best trip yet. Nobody had to check the price
+of shade.
+
+274
+00:17:00,250 --> 00:17:02,043
 Six places. Everyone here.
 
-204
-00:17:02,720 --> 00:17:06,410
+275
+00:17:02,193 --> 00:17:05,700
 And nobody has to sit on the watermelon.
 
-205
-00:17:06,660 --> 00:17:09,920
+276
+00:17:05,850 --> 00:17:08,928
 A relief for the watermelon as well.
 
-206
-00:17:15,500 --> 00:17:17,900
+277
+00:17:09,078 --> 00:17:14,300
+I think that melon would have rolled right out
+from under me.
+
+278
+00:17:15,250 --> 00:17:17,530
 Fruit salad, ready at last.
 
-207
-00:17:18,150 --> 00:17:20,980
+279
+00:17:17,680 --> 00:17:20,400
 It smells like oranges and strawberries.
 
-208
-00:17:21,230 --> 00:17:24,920
+280
+00:17:20,550 --> 00:17:24,150
 A much friendlier introduction than my lemon
 sample.
 
-209
-00:17:30,500 --> 00:17:33,330
+281
+00:17:24,300 --> 00:17:28,780
+Give it a sniff before you pick your first
+bite.
+
+282
+00:17:30,250 --> 00:17:32,970
 Sweet first. Then a little tangy.
 
-210
-00:17:33,580 --> 00:17:35,550
+283
+00:17:33,120 --> 00:17:34,960
 Do you like it?
 
-211
-00:17:35,800 --> 00:17:39,490
+284
+00:17:35,110 --> 00:17:38,710
 I do. The lemon has learned to share.
 
-212
-00:17:45,500 --> 00:17:51,340
+285
+00:17:38,860 --> 00:17:43,340
+I wish it'd learned that before I met the
+sample.
+
+286
+00:17:45,250 --> 00:17:50,900
 I wanted the biggest fruit because I wanted
 this picnic to feel special.
 
-213
-00:17:51,590 --> 00:17:53,390
+287
+00:17:51,050 --> 00:17:51,986
 It does.
 
-214
-00:17:53,640 --> 00:17:56,900
+288
+00:17:52,136 --> 00:17:55,214
 You did not need to impress us.
 
-215
-00:18:00,500 --> 00:18:04,190
+289
+00:17:55,364 --> 00:17:59,300
+Oh. I could've asked what felt special to you.
+
+290
+00:18:00,250 --> 00:18:03,971
 We all came. That was the special part.
 
-216
-00:18:04,440 --> 00:18:06,410
+291
+00:18:04,121 --> 00:18:06,023
 Even before the fruit?
 
-217
-00:18:06,660 --> 00:18:08,630
+292
+00:18:06,173 --> 00:18:08,074
 Especially before the fruit.
 
-218
-00:18:15,500 --> 00:18:18,330
+293
+00:18:08,224 --> 00:18:12,400
+I'd still come sit under the tree with you.
+
+294
+00:18:15,250 --> 00:18:17,970
 No fruit won the size contest.
 
-219
-00:18:18,580 --> 00:18:21,410
+295
+00:18:18,120 --> 00:18:20,840
 They made a good team instead.
 
-220
-00:18:21,660 --> 00:18:24,920
+296
+00:18:20,990 --> 00:18:24,150
 I am happy to join the team.
 
-221
-00:18:30,500 --> 00:18:33,760
+297
+00:18:24,300 --> 00:18:29,220
+Good. There's room under this tree for all six
+of us.
+
+298
+00:18:30,250 --> 00:18:33,410
 The samples helped us understand the
 difference.
 
-222
-00:18:34,010 --> 00:18:38,560
+299
+00:18:33,560 --> 00:18:38,040
 And your careful choosing helped us bring good
 fruit home.
 
-223
-00:18:38,810 --> 00:18:40,780
+300
+00:18:38,190 --> 00:18:40,030
 I had excellent company.
 
-224
-00:18:45,500 --> 00:18:48,330
+301
+00:18:40,180 --> 00:18:43,780
+You made picking two little pears feel
+important.
+
+302
+00:18:45,250 --> 00:18:47,970
 Dad, your face is staying unfolded.
 
-225
-00:18:48,580 --> 00:18:50,550
+303
+00:18:48,120 --> 00:18:49,960
 A successful picnic result.
 
-226
-00:18:50,800 --> 00:18:53,630
+304
+00:18:50,110 --> 00:18:52,830
 Yes. All my corners are comfortable.
 
-227
-00:19:00,500 --> 00:19:02,470
+305
+00:18:52,980 --> 00:18:57,460
+Then I guess we gave the lemon just enough
+work.
+
+306
+00:19:00,250 --> 00:19:02,090
 We stayed under sixteen.
 
-228
-00:19:02,720 --> 00:19:05,120
+307
+00:19:02,240 --> 00:19:04,520
 And brought everything we needed.
 
-229
-00:19:05,370 --> 00:19:09,490
+308
+00:19:04,670 --> 00:19:08,710
 One list, two colors, six people who actually
 listened.
 
-230
-00:19:15,500 --> 00:19:17,900
+309
+00:19:08,860 --> 00:19:12,900
+And nobody had to carry a picnic table home.
+
+310
+00:19:15,250 --> 00:19:17,471
 Maybe pancakes for breakfast tomorrow.
 
-231
-00:19:18,150 --> 00:19:22,270
+311
+00:19:17,621 --> 00:19:21,557
 I would like to help. After lunch, of course.
 
-232
-00:19:22,520 --> 00:19:25,780
+312
+00:19:21,707 --> 00:19:24,786
 Good. We will make a plan together.
 
-233
-00:19:30,500 --> 00:19:34,190
+313
+00:19:24,936 --> 00:19:29,300
+If it's breakfast, I vote for something we can
+flip.
+
+314
+00:19:30,250 --> 00:19:33,850
 The basket carried fruit out and dishes back.
 
-234
-00:19:34,440 --> 00:19:36,410
+315
+00:19:34,000 --> 00:19:35,840
 A useful second job.
 
-235
-00:19:36,660 --> 00:19:39,920
+316
+00:19:35,990 --> 00:19:39,150
 And the rest stays cool for later.
 
-236
-00:19:45,500 --> 00:19:49,190
+317
+00:19:39,300 --> 00:19:43,340
+Let's carry the dishes level on the way
+inside.
+
+318
+00:19:45,250 --> 00:19:48,757
 Not the biggest fruit. A very happy picnic.
 
-237
-00:19:49,440 --> 00:19:51,840
+319
+00:19:48,907 --> 00:19:51,128
 Exactly the picnic we needed.
 
-238
-00:19:52,090 --> 00:19:55,780
+320
+00:19:51,278 --> 00:19:54,786
 And the basket can keep its small door.
+
+321
+00:19:54,936 --> 00:19:59,300
+Tomorrow's breakfast can stay home. My feet
+vote for that.

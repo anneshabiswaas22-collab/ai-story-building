@@ -41,8 +41,13 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** The blue heading is SALAD throughout. Dan wears the original sky-blue polo and LEFT-wrist watch.
 
 **Dialogue:**
-**MAYA:** Dan, please buy four carrots, three tomatoes, and one cucumber. The blue list is for my salad.  
-**DAN:** I am ready.  
+**MAYA:** Dan, can you pick up four carrots, three tomatoes, and one cucumber?
+
+**DAN:** For your salad?
+
+**MAYA:** Yes. Here, take the blue list.
+
+**DAN:** You even drew the carrots. That'll help.
 
 ### SHOT_002 | 00:00:15–00:00:30 | A second dish, a second color
 
@@ -57,8 +62,13 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** The yellow heading is SOUP. Nina and Maya are equal partners with different dishes, not competing requests.
 
 **Dialogue:**
-**NINA:** Six potatoes, two onions, and broccoli for my soup. Yellow is mine.  
-**DAN:** Two colors. Two delicious plans.  
+**NINA:** Six potatoes, two onions, and broccoli for my soup. Yellow is mine.
+
+**DAN:** Two colors. Two delicious plans.
+
+**NINA:** Keep mine behind Maya's, okay?
+
+**DAN:** They both fit in one hand.
 
 ### SHOT_003 | 00:00:30–00:00:45 | The headings are clear
 
@@ -73,9 +83,13 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** The audience can see the true assignments. Later confusion changes Dan's memory, never the printed headings.
 
 **Dialogue:**
-**MAYA:** Blue for salad.  
-**NINA:** Yellow for soup.  
-**DAN:** I have both. My memory has plenty of room.  
+**MAYA:** Blue for salad.
+
+**NINA:** Yellow for soup.
+
+**DAN:** I have both. My memory has plenty of room.
+
+**MAYA:** There's room for the actual notes, too, I hope.
 
 ### SHOT_004 | 00:00:45–00:01:00 | Three helpers arrive
 
@@ -90,9 +104,13 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** Only the six permanent family members belong to this home; the shot shows Dan and the three named children.
 
 **Dialogue:**
-**LEO:** Should we check those together?  
-**DAN:** I have an excellent memory.  
-**ELLA:** We can bring excellent eyes as well.  
+**LEO:** Should we check those together?
+
+**DAN:** I have an excellent memory.
+
+**ELLA:** We can bring excellent eyes as well.
+
+**MAX:** Can my eyes come along? They're good at broccoli.
 
 ### SHOT_005 | 00:01:00–00:01:15 | A filing error in Dad's head
 
@@ -107,9 +125,13 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** No actual salad or soup has been swapped. Keep the watch on LEFT wrist and the paper pocket on RIGHT.
 
 **Dialogue:**
-**DAN:** Blue soup, yellow salad. Easy.  
-**LEO:** That sounds backward, Dad.  
-**DAN:** Then we will check the details at the stall.  
+**DAN:** Blue soup, yellow salad. Easy.
+
+**LEO:** That sounds backward, Dad.
+
+**DAN:** Then we will check the details at the stall.
+
+**LEO:** I'll hold you to that. Both headings, okay?
 
 ### SHOT_006 | 00:01:15–00:01:30 | The empty containers
 
@@ -124,8 +146,13 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** One basket and exactly two totes. Neither tote contains produce or a second basket.
 
 **Dialogue:**
-**ELLA:** I will carry the bags and check the vegetables.  
-**MAX:** I have the basket. Does broccoli need a seat belt?  
+**ELLA:** I will carry the bags and check the vegetables.
+
+**MAX:** I have the basket. Does broccoli need a seat belt?
+
+**ELLA:** Only if you drive it, Max.
+
+**MAX:** I'll walk it very carefully.
 
 ### SHOT_007 | 00:01:30–00:01:45 | Ready, including the basket
 
@@ -140,9 +167,13 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** The next shot uses a clear travel cut. Nobody goes ahead alone or changes wardrobe.
 
 **Dialogue:**
-**DAN:** Ready, team?  
-**MAX:** Ready. Even our empty basket looks hungry.  
-**LEO:** Then let us bring it back with the right lunch.  
+**DAN:** Ready, team?
+
+**MAX:** Ready. Even our empty basket looks hungry.
+
+**LEO:** Then let us bring it back with the right lunch.
+
+**ELLA:** Come on, before the basket orders its own lunch.
 
 ### SHOT_008 | 00:01:45–00:02:00 | One sunny market
 
@@ -157,9 +188,13 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** Maya and Nina remain home. No close-up strangers or extra family members are added. Basket at end: empty. Both colored totes remain empty.
 
 **Dialogue:**
-**DAN:** Vegetables, team. We need vegetables, not surprises.  
-**ELLA:** The stand is on the right.  
-**MAX:** The surprises may be there too.  
+**DAN:** Vegetables, team. We need vegetables, not surprises.
+
+**ELLA:** The stand is on the right.
+
+**MAX:** The surprises may be there too.
+
+**LEO:** I can smell the tomatoes from here, Dad.
 
 ### SHOT_009 | 00:02:00–00:02:15 | Saving the small muscles
 
@@ -174,9 +209,13 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** The basket is not full or heavy yet. Keep the transfer calm and away from the aisle. Basket at end: empty. Both colored totes remain empty.
 
 **Dialogue:**
-**MAX:** Can you carry the basket, Dad? It is very heavy.  
-**DAN:** But it is empty!  
-**MAX:** I am saving my muscles for later.  
+**MAX:** Can you carry the basket, Dad? It is very heavy.
+
+**DAN:** But it is empty!
+
+**MAX:** I am saving my muscles for later.
+
+**DAN:** Saving them for when the basket actually weighs something?
 
 ### SHOT_010 | 00:02:15–00:02:30 | Make room to choose
 
@@ -191,9 +230,13 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** Counter and bag hook remain in the same stall area throughout selection. Containers do not multiply between close views. Basket at end: empty. Both colored totes remain empty.
 
 **Dialogue:**
-**ELLA:** The bags can wait here while we choose.  
-**LEO:** And we keep the aisle clear.  
-**DAN:** An organized beginning. I approve.  
+**ELLA:** The bags can wait here while we choose.
+
+**LEO:** And we keep the aisle clear.
+
+**DAN:** An organized beginning. I approve.
+
+**ELLA:** Wait till we put the shopping in it, Dad.
 
 ### SHOT_011 | 00:02:30–00:02:45 | Our own blue handle
 
@@ -208,9 +251,13 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** Blue basket handle is a recognition cue, not another blue shopping note or a third tote. Basket at end: empty. Both colored totes remain empty.
 
 **Dialogue:**
-**LEO:** Ours has the blue handle.  
-**DAN:** Good. We are not shopping for somebody else.  
-**LEO:** Let us check the food just as carefully.  
+**LEO:** Ours has the blue handle.
+
+**DAN:** Good. We are not shopping for somebody else.
+
+**LEO:** Let us check the food just as carefully.
+
+**DAN:** Blue handle. I'd know that squeak anywhere by now.
 
 ### SHOT_012 | 00:02:45–00:03:00 | Four, not forty
 
@@ -225,9 +272,13 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** Nobody buys forty carrots, damages produce or wastes food. Exact note lettering is supplied editorially. Basket at end: empty. Both colored totes remain empty.
 
 **Dialogue:**
-**DAN:** Forty carrots?  
-**ELLA:** Four, Dad. Four carrots.  
-**DAN:** Good catch. Forty would need their own shopping cart.  
+**DAN:** Forty carrots?
+
+**ELLA:** Four, Dad. Four carrots.
+
+**DAN:** Good catch. Forty would need their own shopping cart.
+
+**ELLA:** And we'd be eating carrots well into next week.
 
 ### SHOT_013 | 00:03:00–00:03:15 | Four distinct carrots
 
@@ -242,9 +293,13 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** Display carrots stay separate from these four selected carrots. Both tote bags remain on their hook. Basket at end: 4 carrots. Both colored totes remain empty.
 
 **Dialogue:**
-**ELLA:** One, two, three, four.  
-**DAN:** Four is much easier to carry.  
-**ELLA:** And exactly what the list asked for.  
+**ELLA:** One, two, three, four.
+
+**DAN:** Four is much easier to carry.
+
+**ELLA:** And exactly what the list asked for.
+
+**DAN:** I'll take the ones you counted, then.
 
 ### SHOT_014 | 00:03:15–00:03:30 | Leave the extras in the crate
 
@@ -259,9 +314,13 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** One checked quantity is enough; this is a decision to move on, not a second carrot purchase. Basket at end: 4 carrots. Both colored totes remain empty.
 
 **Dialogue:**
-**DAN:** Should we get a few extra?  
-**ELLA:** We have four already.  
-**DAN:** Then the others can stay for another family.  
+**DAN:** Should we get a few extra?
+
+**ELLA:** We have four already.
+
+**DAN:** Then the others can stay for another family.
+
+**ELLA:** Thanks. My arms were starting to worry about forty.
 
 ### SHOT_015 | 00:03:30–00:03:45 | Three tomatoes need a tray
 
@@ -276,9 +335,13 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** Selected food on the counter and basket contents are separate states; do not duplicate the three tomatoes. Basket at end: 4 carrots. Both colored totes remain empty.
 
 **Dialogue:**
-**LEO:** Three ripe tomatoes. The tray will keep them safe.  
-**DAN:** Three tiny bowling balls?  
-**LEO:** Only if you want tomato soup everywhere.  
+**LEO:** Three ripe tomatoes. The tray will keep them safe.
+
+**DAN:** Three tiny bowling balls?
+
+**LEO:** Only if you want tomato soup everywhere.
+
+**DAN:** Nobody bowl. I'd like these to make it home.
 
 ### SHOT_016 | 00:03:45–00:04:00 | A careful place for tomatoes
 
@@ -293,9 +356,13 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** Tomatoes remain round and protected. Mark the printed note in the edit rather than inventing generated numerals. Basket at end: 4 carrots, 3 protected tomatoes. Both colored totes remain empty.
 
 **Dialogue:**
-**DAN:** Three tomatoes, safely aboard.  
-**LEO:** Keep the heavy things underneath later.  
-**DAN:** A first-class ticket for the soft passengers.  
+**DAN:** Three tomatoes, safely aboard.
+
+**LEO:** Keep the heavy things underneath later.
+
+**DAN:** A first-class ticket for the soft passengers.
+
+**LEO:** Just promise you won't roll them down the aisle.
 
 ### SHOT_017 | 00:04:00–00:04:15 | Packing is part of the plan
 
@@ -310,8 +377,13 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** Protection is planned before the potato sack arrives; no fruit or extra vegetable is introduced. Basket at end: 4 carrots, 3 protected tomatoes. Both colored totes remain empty.
 
 **Dialogue:**
-**LEO:** We can make room before anything gets squashed.  
-**DAN:** Good idea. The tomatoes should finish this trip looking like tomatoes.  
+**LEO:** We can make room before anything gets squashed.
+
+**DAN:** Good idea. The tomatoes should finish this trip looking like tomatoes.
+
+**LEO:** Can you keep the tray level?
+
+**DAN:** Like it's carrying eggs. Got it.
 
 ### SHOT_018 | 00:04:15–00:04:30 | The wrong green cousin
 
@@ -326,9 +398,13 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** The zucchini is display stock and will be returned. Similar shape does not make it the requested ingredient. Basket at end: 4 carrots, 3 protected tomatoes. Both colored totes remain empty.
 
 **Dialogue:**
-**DAN:** Long, green, ready for salad. A cucumber!  
-**ELLA:** That is a zucchini. The cucumbers are in the next crate.  
-**DAN:** A useful introduction.  
+**DAN:** Long, green, ready for salad. A cucumber!
+
+**ELLA:** That is a zucchini. The cucumbers are in the next crate.
+
+**DAN:** A useful introduction.
+
+**ELLA:** Check the little sign before you introduce yourself.
 
 ### SHOT_019 | 00:04:30–00:04:45 | One cucumber, correctly introduced
 
@@ -343,9 +419,13 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** No zucchini is bought or carried away. The true blue-list ingredient is one cucumber. Basket at end: 4 carrots, 3 protected tomatoes, 1 cucumber. Both colored totes remain empty.
 
 **Dialogue:**
-**ELLA:** This is the cucumber we need.  
-**DAN:** Two green cousins. I checked the right name this time.  
-**ELLA:** And only one comes home.  
+**ELLA:** This is the cucumber we need.
+
+**DAN:** Two green cousins. I checked the right name this time.
+
+**ELLA:** And only one comes home.
+
+**DAN:** Lucky cucumber. The other cousin can visit another time.
 
 ### SHOT_020 | 00:04:45–00:05:00 | Use more than a guess
 
@@ -360,9 +440,13 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** Comparison is finished; do not pick up another cucumber or return the already selected one to display stock. Basket at end: 4 carrots, 3 protected tomatoes, 1 cucumber. Both colored totes remain empty.
 
 **Dialogue:**
-**ELLA:** Shape helps, but the label helps too.  
-**DAN:** I will use both next time.  
-**ELLA:** That gives your excellent memory a little help.  
+**ELLA:** Shape helps, but the label helps too.
+
+**DAN:** I will use both next time.
+
+**ELLA:** That gives your excellent memory a little help.
+
+**DAN:** My excellent memory appreciates a sign it can read.
 
 ### SHOT_021 | 00:05:00–00:05:15 | The yellow note waits its turn
 
@@ -377,9 +461,13 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** The two papers remain separate sheets and neither printed heading changes. Both colored totes remain empty.
 
 **Dialogue:**
-**LEO:** The yellow note is still hiding.  
-**DAN:** Then it deserves some fresh air.  
-**LEO:** And a careful look at its heading.  
+**LEO:** The yellow note is still hiding.
+
+**DAN:** Then it deserves some fresh air.
+
+**LEO:** And a careful look at its heading.
+
+**DAN:** Good thing you noticed the corner peeking out.
 
 ### SHOT_022 | 00:05:15–00:05:30 | Potatoes raise a question
 
@@ -394,9 +482,13 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** Dan's remembered dish name is wrong; the yellow note belongs to Nina's soup. No raw potato is eaten. Both colored totes remain empty.
 
 **Dialogue:**
-**DAN:** Six potatoes for the salad? That sounds very crunchy.  
-**LEO:** Maybe we should check the heading.  
-**DAN:** Yes. Before we sort the bags.  
+**DAN:** Six potatoes for the salad? That sounds very crunchy.
+
+**LEO:** Maybe we should check the heading.
+
+**DAN:** Yes. Before we sort the bags.
+
+**LEO:** That's one question worth keeping till we see both.
 
 ### SHOT_023 | 00:05:30–00:05:45 | Six potatoes underneath
 
@@ -411,9 +503,13 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** The potato already held is included in six, not a seventh. Heavy food goes below tomatoes. Both colored totes remain empty.
 
 **Dialogue:**
-**LEO:** Six potatoes. One, two, three, four, five, six.  
-**DAN:** Heavy passengers downstairs.  
-**LEO:** And the tomatoes keep their safe seats.  
+**LEO:** Six potatoes. One, two, three, four, five, six.
+
+**DAN:** Heavy passengers downstairs.
+
+**LEO:** And the tomatoes keep their safe seats.
+
+**DAN:** Nobody wants to sit under a sack of potatoes.
 
 ### SHOT_024 | 00:05:45–00:06:00 | A place for each thing
 
@@ -428,9 +524,13 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** Inspection does not add food or move anything to either tote. Both colored totes remain empty.
 
 **Dialogue:**
-**ELLA:** The potatoes will not squash the tomatoes now.  
-**DAN:** Good. At least their travel arrangements are clear.  
-**ELLA:** We can make the lists clear too.  
+**ELLA:** The potatoes will not squash the tomatoes now.
+
+**DAN:** Good. At least their travel arrangements are clear.
+
+**ELLA:** We can make the lists clear too.
+
+**DAN:** Two lists, two jobs. I'll let you help me sort.
 
 ### SHOT_025 | 00:06:00–00:06:15 | The uncut onion joke
 
@@ -445,9 +545,13 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** Touching whole uncut onions does not cause tears; Dan is deliberately theatrical. Both colored totes remain empty.
 
 **Dialogue:**
-**DAN:** These onions are making me cry already.  
-**MAX:** You have not cut them.  
-**DAN:** Perhaps they heard my potato-salad plan.  
+**DAN:** These onions are making me cry already.
+
+**MAX:** You have not cut them.
+
+**DAN:** Perhaps they heard my potato-salad plan.
+
+**MAX:** I'm not crying. They're still wearing all their coats.
 
 ### SHOT_026 | 00:06:15–00:06:30 | Two onions join the sack
 
@@ -462,9 +566,13 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** Max points without reaching into other display stock; neither tote is filled. Both colored totes remain empty.
 
 **Dialogue:**
-**MAX:** One onion, two onions. Which dish gets them?  
-**DAN:** An excellent question.  
-**MAX:** We can ask the notes when we open them properly.  
+**MAX:** One onion, two onions. Which dish gets them?
+
+**DAN:** An excellent question.
+
+**MAX:** We can ask the notes when we open them properly.
+
+**DAN:** Remind me when we get to the bags, okay?
 
 ### SHOT_027 | 00:06:30–00:06:45 | Leave the question open
 
@@ -479,9 +587,13 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** The dish names are confused, but each requested quantity stays correct. Nobody hides information or mocks Dan. Both colored totes remain empty.
 
 **Dialogue:**
-**LEO:** We can check before anything goes in the wrong bag.  
-**DAN:** That is a good plan.  
-**LEO:** There is still plenty of time to ask.  
+**LEO:** We can check before anything goes in the wrong bag.
+
+**DAN:** That is a good plan.
+
+**LEO:** There is still plenty of time to ask.
+
+**DAN:** Good. I can still get this right before lunch.
 
 ### SHOT_028 | 00:06:45–00:07:00 | A small green forest
 
@@ -496,9 +608,13 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** One head means one purchase, not several trees or one floret. No raw tasting. Both colored totes remain empty.
 
 **Dialogue:**
-**MAX:** That broccoli looks like a tiny tree.  
-**DAN:** A forest small enough for our basket.  
-**MAX:** Then I will save it a window seat.  
+**MAX:** That broccoli looks like a tiny tree.
+
+**DAN:** A forest small enough for our basket.
+
+**MAX:** Then I will save it a window seat.
+
+**DAN:** Just one tree. We're shopping for lunch, remember?
 
 ### SHOT_029 | 00:07:00–00:07:15 | One broccoli head
 
@@ -513,9 +629,13 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** The broccoli belongs to Nina's soup even while Dan's remembered dish labels are wrong. Both colored totes remain empty.
 
 **Dialogue:**
-**ELLA:** One head of broccoli. That is all we need.  
-**DAN:** The forest has arrived safely.  
-**ELLA:** And the basket still has room for the rest.  
+**ELLA:** One head of broccoli. That is all we need.
+
+**DAN:** The forest has arrived safely.
+
+**ELLA:** And the basket still has room for the rest.
+
+**DAN:** Good. I can see the bottom getting pretty full.
 
 ### SHOT_030 | 00:07:15–00:07:30 | A bell that stays quiet
 
@@ -530,9 +650,13 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** The joke is about the word bell. No green or yellow pepper becomes a purchase. Both colored totes remain empty.
 
 **Dialogue:**
-**MAX:** Why is it a bell pepper if it does not ring?  
-**DAN:** Perhaps it is on silent.  
-**MAX:** That is very polite in a shop.  
+**MAX:** Why is it a bell pepper if it does not ring?
+
+**DAN:** Perhaps it is on silent.
+
+**MAX:** That is very polite in a shop.
+
+**DAN:** Imagine a whole crate ringing every time someone shops.
 
 ### SHOT_031 | 00:07:30–00:07:45 | Color is part of the request
 
@@ -547,9 +671,13 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** Blue is the paper color and Maya's list; the requested pepper is red. Both colored totes remain empty.
 
 **Dialogue:**
-**ELLA:** The blue list asks for one red bell pepper.  
-**DAN:** Blue paper, red pepper. I will keep those details separate.  
-**ELLA:** That will help.  
+**ELLA:** The blue list asks for one red bell pepper.
+
+**DAN:** Blue paper, red pepper. I will keep those details separate.
+
+**ELLA:** That will help.
+
+**DAN:** Red is the vegetable. Blue is the paper.
 
 ### SHOT_032 | 00:07:45–00:08:00 | Look gently before choosing
 
@@ -564,9 +692,13 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** Inspect without crushing or tasting unwashed produce. Display stock stays separate. Both colored totes remain empty.
 
 **Dialogue:**
-**LEO:** That one looks good. The skin is not damaged.  
-**DAN:** And it has excellent manners.  
-**LEO:** Still silent?  
+**LEO:** That one looks good. The skin is not damaged.
+
+**DAN:** And it has excellent manners.
+
+**LEO:** Still silent?
+
+**DAN:** Quiet as ever. I think we found our pepper.
 
 ### SHOT_033 | 00:08:00–00:08:15 | The red pepper has a place
 
@@ -581,9 +713,13 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** No second pepper remains in a hand or another container. Both colored totes remain empty.
 
 **Dialogue:**
-**DAN:** One red bell pepper, safely packed.  
-**ELLA:** Checked.  
-**DAN:** A quiet ingredient and a very useful helper.  
+**DAN:** One red bell pepper, safely packed.
+
+**ELLA:** Checked.
+
+**DAN:** A quiet ingredient and a very useful helper.
+
+**ELLA:** It didn't ring once. Max will be impressed.
 
 ### SHOT_034 | 00:08:15–00:08:30 | Corn with ears
 
@@ -598,9 +734,13 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** Ears of corn are produce units, not listening organs. No raw biting or husks dropped on floor. Both colored totes remain empty.
 
 **Dialogue:**
-**MAX:** Two ears of corn. Can they hear us?  
-**DAN:** Only if we speak very politely.  
-**MAX:** Good morning, corn.  
+**MAX:** Two ears of corn. Can they hear us?
+
+**DAN:** Only if we speak very politely.
+
+**MAX:** Good morning, corn.
+
+**DAN:** I think they heard you from that basket.
 
 ### SHOT_035 | 00:08:30–00:08:45 | Two ears, one careful choice
 
@@ -615,9 +755,13 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** Two ears does not mean two bags or a crate. Husks stay intact at the stall. Both colored totes remain empty.
 
 **Dialogue:**
-**LEO:** Two ears. Both look fresh.  
-**DAN:** They came as a pair.  
-**LEO:** Then let us keep their ride gentle too.  
+**LEO:** Two ears. Both look fresh.
+
+**DAN:** They came as a pair.
+
+**LEO:** Then let us keep their ride gentle too.
+
+**DAN:** Stalk side in, then. I like my elbows unscratched.
 
 ### SHOT_036 | 00:08:45–00:09:00 | A polite pair in the basket
 
@@ -632,9 +776,15 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** Corn does not become extra kernels or duplicate ears in another container. Both colored totes remain empty.
 
 **Dialogue:**
-**DAN:** Two ears, safely aboard.  
-**MAX:** Thank you for listening.  
-**DAN:** They are our most patient passengers.  
+**DAN:** Two ears, safely aboard.
+
+**MAX:** Thank you for listening.
+
+**DAN:** They are our most patient passengers.
+
+**MAX:** They haven't interrupted a single joke all morning.
+
+**DAN:** Then I think they deserve the nice seat.
 
 ### SHOT_037 | 00:09:00–00:09:15 | The round green guess
 
@@ -649,9 +799,13 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** Cabbage is not purchased. Its tight round form differs from loose-leaf lettuce. Both colored totes remain empty.
 
 **Dialogue:**
-**DAN:** A very tidy lettuce?  
-**ELLA:** That is cabbage. Our list asks for loose-leaf lettuce.  
-**DAN:** Then we need the less tidy one.  
+**DAN:** A very tidy lettuce?
+
+**ELLA:** That is cabbage. Our list asks for loose-leaf lettuce.
+
+**DAN:** Then we need the less tidy one.
+
+**ELLA:** Look at those open leaves in the next crate.
 
 ### SHOT_038 | 00:09:15–00:09:30 | Leaves with a different shape
 
@@ -666,9 +820,13 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** Returned cabbage remains shop stock. Loose leaves do not become a second lettuce purchase. Both colored totes remain empty.
 
 **Dialogue:**
-**ELLA:** These leaves are loose and open.  
-**DAN:** Not a round cabbage ball.  
-**ELLA:** Right. One lettuce for the salad.  
+**ELLA:** These leaves are loose and open.
+
+**DAN:** Not a round cabbage ball.
+
+**ELLA:** Right. One lettuce for the salad.
+
+**DAN:** Now I can spot it without guessing the name.
 
 ### SHOT_039 | 00:09:30–00:09:45 | Protect the leaves on top
 
@@ -683,9 +841,13 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** No cabbage, second lettuce or extra bag appears. Heavy produce stays low. Both colored totes remain empty.
 
 **Dialogue:**
-**DAN:** The lettuce gets the top seat.  
-**ELLA:** Soft leaves need a gentle journey.  
-**DAN:** Our basket is becoming a very considerate bus.  
+**DAN:** The lettuce gets the top seat.
+
+**ELLA:** Soft leaves need a gentle journey.
+
+**DAN:** Our basket is becoming a very considerate bus.
+
+**ELLA:** Save a little space up here for one more.
 
 ### SHOT_040 | 00:09:45–00:10:00 | Almost the whole list
 
@@ -700,9 +862,13 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** A check is not a second purchase. Both real headings remain intact, though yellow is partly covered. Both colored totes remain empty.
 
 **Dialogue:**
-**LEO:** One ingredient left.  
-**MAX:** The little bag of green leaves.  
-**DAN:** Then spinach is our final passenger.  
+**LEO:** One ingredient left.
+
+**MAX:** The little bag of green leaves.
+
+**DAN:** Then spinach is our final passenger.
+
+**MAX:** Do we need a whole bush or just a bag?
 
 ### SHOT_041 | 00:10:00–00:10:15 | The last bag of leaves
 
@@ -717,9 +883,13 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** Leaves in the single bag are one ingredient line, not another lettuce or an extra tote.
 
 **Dialogue:**
-**MAX:** Spinach. Is this the last passenger?  
-**DAN:** Yes. One bag of spinach.  
-**MAX:** Then the basket can stop taking reservations.  
+**MAX:** Spinach. Is this the last passenger?
+
+**DAN:** Yes. One bag of spinach.
+
+**MAX:** Then the basket can stop taking reservations.
+
+**DAN:** Once that's in, we'll see what the notes say.
 
 ### SHOT_042 | 00:10:15–00:10:30 | All ten ingredients
 
@@ -734,9 +904,13 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** Final basket: 4 carrots, 3 protected tomatoes, 1 cucumber, 6 potatoes, 2 onions, 1 broccoli head, 1 red pepper, 2 corn ears, 1 lettuce and 1 spinach bag.
 
 **Dialogue:**
-**LEO:** That is everything. Ten ingredient lines checked.  
-**DAN:** All the right vegetables.  
-**LEO:** Now we can check which dish gets which ones.  
+**LEO:** That is everything. Ten ingredient lines checked.
+
+**DAN:** All the right vegetables.
+
+**LEO:** Now we can check which dish gets which ones.
+
+**DAN:** All ten? Good. Let's lay those notes side by side.
 
 ### SHOT_043 | 00:10:30–00:10:45 | Give both headings some room
 
@@ -751,9 +925,13 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** Exact headings are editorial SVG artwork. This is the first full side-by-side check at the stall, not a change to the papers themselves.
 
 **Dialogue:**
-**ELLA:** Let us put them where we can see both headings.  
-**DAN:** Blue salad. Yellow soup.  
-**LEO:** That is what they have said all morning.  
+**ELLA:** Let us put them where we can see both headings.
+
+**DAN:** Blue salad. Yellow soup.
+
+**LEO:** That is what they have said all morning.
+
+**DAN:** I see it now. I switched them in my head.
 
 ### SHOT_044 | 00:10:45–00:11:00 | The mistake was in the memory
 
@@ -768,9 +946,13 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** Both mothers' requests were clear. The family repairs a small misunderstanding without ridicule, blame or changing a printed heading.
 
 **Dialogue:**
-**DAN:** I put the dish names in the wrong places in my head.  
-**MAX:** The vegetables are in the right place.  
-**ELLA:** And we can sort them correctly.  
+**DAN:** I put the dish names in the wrong places in my head.
+
+**MAX:** The vegetables are in the right place.
+
+**ELLA:** And we can sort them correctly.
+
+**MAX:** Good thing nobody has to put the onions back.
 
 ### SHOT_045 | 00:11:00–00:11:15 | Check with Maya
 
@@ -785,8 +967,13 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** Maya is heard only. No woman appears at the market or inside a picture-in-picture. No food changes container during the call.
 
 **Dialogue:**
-**DAN:** Maya, I remembered the colors backward. Blue is your salad, right?  
-**MAYA:** Right. The blue list is my salad. You can check it with me.  
+**DAN:** Maya, I remembered the colors backward. Blue is your salad, right?
+
+**MAYA:** Right. The blue list is my salad. You can check it with me.
+
+**DAN:** So the carrots really are yours?
+
+**MAYA:** Yes, all four, please.
 
 ### SHOT_046 | 00:11:15–00:11:30 | Nina confirms her soup
 
@@ -801,8 +988,13 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** Nina stays home and unseen. Yellow belongs to soup: potatoes, onions, broccoli, corn and spinach. No extra purchase occurs.
 
 **Dialogue:**
-**NINA:** And yellow is my soup. Potatoes, onions, broccoli, corn and spinach.  
-**DAN:** The soup sounds much better now that it has its own ingredients.  
+**NINA:** And yellow is my soup. Potatoes, onions, broccoli, corn and spinach.
+
+**DAN:** The soup sounds much better now that it has its own ingredients.
+
+**MAX:** Even the little tree?
+
+**NINA:** Especially the broccoli, Max.
 
 ### SHOT_047 | 00:11:30–00:11:45 | Help is part of the plan
 
@@ -817,9 +1009,13 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** Both off-screen voices are the permanent mothers, not new shoppers or narrators. No home cutaway or floating faces.
 
 **Dialogue:**
-**DAN:** I should have asked before guessing.  
-**MAYA:** You are asking now. We are glad to help.  
-**NINA:** Bring our vegetables and our three helpers home safely.  
+**DAN:** I should have asked before guessing.
+
+**MAYA:** You are asking now. We are glad to help.
+
+**NINA:** Bring our vegetables and our three helpers home safely.
+
+**LEO:** We'll bring him home too. He's learning the route.
 
 ### SHOT_048 | 00:11:45–00:12:00 | The call has done its job
 
@@ -834,9 +1030,13 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** No off-screen speech continues after the call. Keep the same phone, watch side and two original papers.
 
 **Dialogue:**
-**DAN:** Phone away. Two headings where we can see them.  
-**LEO:** That will make packing easier.  
-**DAN:** And make my memory work less hard.  
+**DAN:** Phone away. Two headings where we can see them.
+
+**LEO:** That will make packing easier.
+
+**DAN:** And make my memory work less hard.
+
+**LEO:** The bags will do the remembering once they're packed.
 
 ### SHOT_049 | 00:12:00–00:12:15 | Say it honestly
 
@@ -851,9 +1051,13 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** This is an admission and a practical next step, not a punishment or lesson to the audience. The food quantities were already correct.
 
 **Dialogue:**
-**DAN:** I mixed up the lists. Thank you for catching it before packing.  
-**LEO:** We are a team.  
-**ELLA:** Then let us give each dish its own bag.  
+**DAN:** I mixed up the lists. Thank you for catching it before packing.
+
+**LEO:** We are a team.
+
+**ELLA:** Then let us give each dish its own bag.
+
+**DAN:** I'm taking orders from the packing crew now.
 
 ### SHOT_050 | 00:12:15–00:12:30 | Two empty totes, ready
 
@@ -868,9 +1072,13 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** Only two tote bags and one basket. No vegetables appear in the bags before the explicit transfers.
 
 **Dialogue:**
-**ELLA:** Blue bag beside the blue salad note.  
-**MAX:** Yellow beside yellow soup.  
-**DAN:** A filing system I can actually see.  
+**ELLA:** Blue bag beside the blue salad note.
+
+**MAX:** Yellow beside yellow soup.
+
+**DAN:** A filing system I can actually see.
+
+**ELLA:** Keep them open so we can see inside.
 
 ### SHOT_051 | 00:12:30–00:12:45 | Read, group, then pack
 
@@ -885,9 +1093,13 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** BLUE: carrots, tomatoes, cucumber, lettuce, red pepper. YELLOW: potatoes, onions, broccoli, corn, spinach. Headings and colors never swap.
 
 **Dialogue:**
-**LEO:** Read the heading, then match the ingredients.  
-**DAN:** Salad in blue. Soup in yellow.  
-**LEO:** Now we can make the bags match the notes.  
+**LEO:** Read the heading, then match the ingredients.
+
+**DAN:** Salad in blue. Soup in yellow.
+
+**LEO:** Now we can make the bags match the notes.
+
+**DAN:** I'll say each name while you check it.
 
 ### SHOT_052 | 00:12:45–00:13:00 | Maya's salad goes in BLUE
 
@@ -902,9 +1114,13 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** The transferred salad ingredients leave the basket; do not show duplicate carrots, tomatoes or lettuce in both containers. Notes remain flat and separate.
 
 **Dialogue:**
-**ELLA:** Four carrots, three tomatoes, cucumber, lettuce, red pepper.  
-**DAN:** All for Maya's salad.  
-**ELLA:** The blue bag is ready.  
+**ELLA:** Four carrots, three tomatoes, cucumber, lettuce, red pepper.
+
+**DAN:** All for Maya's salad.
+
+**ELLA:** The blue bag is ready.
+
+**DAN:** That one's hers. What belongs in the yellow bag?
 
 ### SHOT_053 | 00:13:00–00:13:15 | Nina's soup goes in YELLOW
 
@@ -919,9 +1135,13 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** Heavy potatoes at the bottom of yellow, protected leaves above. No soup food remains in basket or doubles on counter.
 
 **Dialogue:**
-**LEO:** Potatoes, onions, broccoli, corn and spinach. All for Nina's soup.  
-**MAX:** The basket has finished its job.  
-**DAN:** An excellent passenger service.  
+**LEO:** Potatoes, onions, broccoli, corn and spinach. All for Nina's soup.
+
+**MAX:** The basket has finished its job.
+
+**DAN:** An excellent passenger service.
+
+**MAX:** No passengers left under the handle, either.
 
 ### SHOT_054 | 00:13:15–00:13:30 | Colors and contents agree
 
@@ -936,9 +1156,13 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** No groceries are added or rearranged into another dish. Phone already pocketed; no second call begins.
 
 **Dialogue:**
-**DAN:** Blue salad. Yellow soup. Checked properly this time.  
-**ELLA:** Both bags look right.  
-**LEO:** Now we can pay for the vegetables.  
+**DAN:** Blue salad. Yellow soup. Checked properly this time.
+
+**ELLA:** Both bags look right.
+
+**LEO:** Now we can pay for the vegetables.
+
+**DAN:** I'll keep them apart on the way to checkout.
 
 ### SHOT_055 | 00:13:30–00:13:45 | The total is eighteen fifty
 
@@ -953,9 +1177,13 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** Vendor has no visible face. The register and receipt use exact SVG lettering, with no invented fee or different total.
 
 **Dialogue:**
-**VENDOR:** Eighteen dollars and fifty cents, please.  
-**DAN:** Eighteen fifty.  
-**LEO:** That matches our vegetables. We can check the receipt too.  
+**VENDOR:** Eighteen dollars and fifty cents, please.
+
+**DAN:** Eighteen fifty.
+
+**LEO:** That matches our vegetables. We can check the receipt too.
+
+**DAN:** Let me get my wallet while you look.
 
 ### SHOT_056 | 00:13:45–00:14:00 | One twenty-dollar payment
 
@@ -970,9 +1198,13 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** One payment only, no duplicate twenty left on the counter. The empty basket is not refilled while money is handled.
 
 **Dialogue:**
-**DAN:** Here you go. Twenty dollars.  
-**LEO:** We should get one dollar and fifty cents back.  
-**DAN:** Then I will check that as carefully as the lists.  
+**DAN:** Here you go. Twenty dollars.
+
+**LEO:** We should get one dollar and fifty cents back.
+
+**DAN:** Then I will check that as carefully as the lists.
+
+**LEO:** I'll listen for the coins when they come back.
 
 ### SHOT_057 | 00:14:00–00:14:15 | A receipt worth reading
 
@@ -987,9 +1219,13 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** Receipt paper does not become a third shopping list or enter the food. Vendor stays unseen apart from hand.
 
 **Dialogue:**
-**VENDOR:** Here is your receipt.  
-**LEO:** All ten ingredients are here.  
-**DAN:** Good. Right vegetables, right total, and nearly the right memory.  
+**VENDOR:** Here is your receipt.
+
+**LEO:** All ten ingredients are here.
+
+**DAN:** Good. Right vegetables, right total, and nearly the right memory.
+
+**LEO:** Eighteen fifty, Dad. The bottom line agrees.
 
 ### SHOT_058 | 00:14:15–00:14:30 | One dollar and two quarters
 
@@ -1004,9 +1240,13 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** Do not substitute Episode 02's $4.50 change or add another coin. Faces stay limited to the scripted family subset.
 
 **Dialogue:**
-**DAN:** One dollar. Two quarters. One fifty.  
-**MAX:** Small change, carefully checked.  
-**DAN:** The smallest passengers still count.  
+**DAN:** One dollar. Two quarters. One fifty.
+
+**MAX:** Small change, carefully checked.
+
+**DAN:** The smallest passengers still count.
+
+**MAX:** Good thing those quarters don't roll around the basket.
 
 ### SHOT_059 | 00:14:30–00:14:45 | Receipt, change, wallet
 
@@ -1021,9 +1261,13 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** No extra change handoff occurs. The two shopping notes are not thrown away or replaced by a different list.
 
 **Dialogue:**
-**LEO:** Receipt and change, both checked.  
-**DAN:** And safely in my wallet.  
-**LEO:** That is a better place for them than under the lettuce.  
+**LEO:** Receipt and change, both checked.
+
+**DAN:** And safely in my wallet.
+
+**LEO:** That is a better place for them than under the lettuce.
+
+**DAN:** Lettuce is terrible at keeping track of small change.
 
 ### SHOT_060 | 00:14:45–00:15:00 | Ready to carry home
 
@@ -1038,9 +1282,13 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** Only four family shoppers leave the market. Maya and Nina remain at home, awaiting the same vegetables and children.
 
 **Dialogue:**
-**ELLA:** Nothing left behind.  
-**MAX:** Except the vegetables we did not buy.  
-**DAN:** They can stay. We have exactly what our family needs.  
+**ELLA:** Nothing left behind.
+
+**MAX:** Except the vegetables we did not buy.
+
+**DAN:** They can stay. We have exactly what our family needs.
+
+**LEO:** One last look around our feet, then we're off.
 
 ### SHOT_061 | 00:15:00–00:15:15 | Four shoppers, safely homeward
 
@@ -1055,9 +1303,13 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** The direction reversal is shown within the wide view, not an unexplained camera flip. Maya and Nina are still at home.
 
 **Dialogue:**
-**ELLA:** All three helpers. Both bags.  
-**DAN:** And one safely empty basket.  
-**MAX:** It worked very hard without learning to cook.  
+**ELLA:** All three helpers. Both bags.
+
+**DAN:** And one safely empty basket.
+
+**MAX:** It worked very hard without learning to cook.
+
+**DAN:** Neither did I. We'll need help in the kitchen.
 
 ### SHOT_062 | 00:15:15–00:15:30 | Maya gets the BLUE tote
 
@@ -1072,9 +1324,13 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** Blue still contains 4 carrots, 3 protected tomatoes, 1 cucumber, 1 lettuce and 1 red pepper. No whole-food duplicate appears on the counter yet.
 
 **Dialogue:**
-**DAN:** Maya, your salad vegetables. Blue bag, blue list.  
-**MAYA:** And our helpers?  
-**ELLA:** All three. We checked that part too.  
+**DAN:** Maya, your salad vegetables. Blue bag, blue list.
+
+**MAYA:** And our helpers?
+
+**ELLA:** All three. We checked that part too.
+
+**MAYA:** I see my carrots. Who kept the tomatoes safe?
 
 ### SHOT_063 | 00:15:30–00:15:45 | Nina gets the YELLOW tote
 
@@ -1089,9 +1345,13 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** Yellow contains 6 potatoes, 2 onions, 1 broccoli, 2 corn ears and 1 spinach bag. The basket remains empty, not a hidden spare vegetable store.
 
 **Dialogue:**
-**NINA:** My soup vegetables! Did the broccoli enjoy its trip?  
-**MAX:** It asked for a window seat.  
-**DAN:** We offered very careful service.  
+**NINA:** My soup vegetables! Did the broccoli enjoy its trip?
+
+**MAX:** It asked for a window seat.
+
+**DAN:** We offered very careful service.
+
+**NINA:** Then it can travel the last few feet with me.
 
 ### SHOT_064 | 00:15:45–00:16:00 | One kitchen, two preparation areas
 
@@ -1106,9 +1366,13 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** No ingredient is added or duplicated during unloading. Whole purchased food now waits for washing; knife drawer remains closed.
 
 **Dialogue:**
-**MAYA:** Exactly what we needed.  
-**NINA:** And a funny story to go with it.  
-**DAN:** I would like the next part to involve fewer guesses.  
+**MAYA:** Exactly what we needed.
+
+**NINA:** And a funny story to go with it.
+
+**DAN:** I would like the next part to involve fewer guesses.
+
+**MAX:** Can the tiny tree be in my bowl later?
 
 ### SHOT_065 | 00:16:00–00:16:15 | Clean hands for the next job
 
@@ -1123,9 +1387,13 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** Handwashing takes longer in story time than fifteen seconds. Soap is for hands, not vegetables. Nobody handles a knife or hot pot during the shared washing turn.
 
 **Dialogue:**
-**MAYA:** Hands first, after our trip.  
-**LEO:** Then we can help with the safe jobs.  
-**NINA:** Yes. Everybody has a part in lunch.  
+**MAYA:** Hands first, after our trip.
+
+**LEO:** Then we can help with the safe jobs.
+
+**NINA:** Yes. Everybody has a part in lunch.
+
+**MAX:** Can my elbows have the afternoon off, though?
 
 ### SHOT_066 | 00:16:15–00:16:30 | Wash before preparing
 
@@ -1140,9 +1408,13 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** Use running water, no soap on food. The bag of spinach is opened for washing; its entire purchased amount stays with the soup ingredients.
 
 **Dialogue:**
-**ELLA:** Even our well-traveled cucumber gets a wash.  
-**MAYA:** Especially that cucumber.  
-**NINA:** Then the adults can do the cutting while you set the table.  
+**ELLA:** Even our well-traveled cucumber gets a wash.
+
+**MAYA:** Especially that cucumber.
+
+**NINA:** Then the adults can do the cutting while you set the table.
+
+**ELLA:** I can do that while the cucumber dries.
 
 ### SHOT_067 | 00:16:30–00:16:45 | The salad takes shape
 
@@ -1157,9 +1429,13 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** Adults alone use knives. Quantities change form, not source: 4 carrots, 3 tomatoes, 1 cucumber, 1 lettuce and 1 red pepper make this salad.
 
 **Dialogue:**
-**ELLA:** I will take care of the napkins.  
-**DAN:** And I will help with the vegetables.  
-**MAYA:** Careful hands and clear jobs. This part is coming together.  
+**ELLA:** I will take care of the napkins.
+
+**DAN:** And I will help with the vegetables.
+
+**MAYA:** Careful hands and clear jobs. This part is coming together.
+
+**ELLA:** I'll leave you a clear spot to work, Dad.
 
 ### SHOT_068 | 00:16:45–00:17:00 | Ingredients are not soup yet
 
@@ -1174,9 +1450,13 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** Adults control knives, stove and hot pot. Household water is not another market purchase. No whole raw potato reappears as cooked food without time passing.
 
 **Dialogue:**
-**DAN:** Shopping finished. Lunch finished?  
-**NINA:** We brought ingredients, Dan. They have not cooked themselves.  
-**DAN:** Then I am glad we left time for the next job.  
+**DAN:** Shopping finished. Lunch finished?
+
+**NINA:** We brought ingredients, Dan. They have not cooked themselves.
+
+**DAN:** Then I am glad we left time for the next job.
+
+**NINA:** You'll smell the difference when it's actually ready.
 
 ### SHOT_069 | 00:17:00–00:17:15 | Allow the cooking its time
 
@@ -1191,9 +1471,13 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** The full cooking period is an explicit story-time ellipsis. Never use color alone or raw tasting to imply cooked potatoes. Hot cookware stays adult-controlled.
 
 **Dialogue:**
-**MAYA:** The salad is ready.  
-**NINA:** And now the soup is cooked, too.  
-**DAN:** Two dishes. One kitchen that has done some excellent work.  
+**MAYA:** The salad is ready.
+
+**NINA:** And now the soup is cooked, too.
+
+**DAN:** Two dishes. One kitchen that has done some excellent work.
+
+**MAYA:** And everybody will taste what you brought home.
 
 ### SHOT_070 | 00:17:15–00:17:30 | Six places waiting
 
@@ -1208,9 +1492,13 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** Dan near-left, Leo left-end, Ella far-left, Maya far-right, Nina right-end, Max near-right. No extra chair, bowl or diner appears. The basket's supply chair stays in the kitchen, never as an additional dining place.
 
 **Dialogue:**
-**LEO:** Six places. Everybody has one.  
-**ELLA:** Even the smallest helper.  
-**DAN:** Especially the smallest helper. And the basket can rest on its chair.  
+**LEO:** Six places. Everybody has one.
+
+**ELLA:** Even the smallest helper.
+
+**DAN:** Especially the smallest helper. And the basket can rest on its chair.
+
+**ELLA:** I don't think it's hungry after that trip.
 
 ### SHOT_071 | 00:17:30–00:17:45 | Serve what the family made
 
@@ -1225,9 +1513,13 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** No second set of bowls appears. Soup is cooked and served safely; no whole market vegetables sit beside duplicate prepared portions. The stove remains OFF.
 
 **Dialogue:**
-**MAYA:** Salad for everyone.  
-**NINA:** And cooked soup. Let it cool enough before you taste.  
-**DAN:** Lunch has finally arrived at the right seats.  
+**MAYA:** Salad for everyone.
+
+**NINA:** And cooked soup. Let it cool enough before you taste.
+
+**DAN:** Lunch has finally arrived at the right seats.
+
+**MAX:** Mine smells good from all the way over here.
 
 ### SHOT_072 | 00:17:45–00:18:00 | An honest spoonful
 
@@ -1242,8 +1534,13 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** Keep the emotion proportionate to a small shopping mistake. No talking while chewing or handing hot cookware to a child.
 
 **Dialogue:**
-**DAN:** I felt embarrassed when I realized I mixed up the lists.  
-**LEO:** We helped because we love you. You help us learn every day.  
+**DAN:** I felt embarrassed when I realized I mixed up the lists.
+
+**LEO:** We helped because we love you. You help us learn every day.
+
+**DAN:** Even when I get something backward?
+
+**LEO:** Especially then, Dad.
 
 ### SHOT_073 | 00:18:00–00:18:15 | Both partners share the credit
 
@@ -1258,9 +1555,13 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** Maya and Nina are equally respected partners, neither a rival or servant. Their original faces, voices and wardrobe stay distinct.
 
 **Dialogue:**
-**MAYA:** You listened, checked, and tried again.  
-**NINA:** And all our ingredients found their dishes.  
-**DAN:** I had very good company along the way.  
+**MAYA:** You listened, checked, and tried again.
+
+**NINA:** And all our ingredients found their dishes.
+
+**DAN:** I had very good company along the way.
+
+**NINA:** And guess who gets to try both dishes today?
 
 ### SHOT_074 | 00:18:15–00:18:30 | Forty carrots stay imaginary
 
@@ -1275,9 +1576,13 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** This is an imaginary gesture, not a new purchase, flashback with different quantities or a giant carrot arrival.
 
 **Dialogue:**
-**MAX:** Would forty carrots need their own dining table?  
-**DAN:** Only if they came as guests.  
-**MAX:** Then four was a very considerate number.  
+**MAX:** Would forty carrots need their own dining table?
+
+**DAN:** Only if they came as guests.
+
+**MAX:** Then four was a very considerate number.
+
+**DAN:** Four guests are much easier to squeeze in.
 
 ### SHOT_075 | 00:18:30–00:18:45 | An ear for a good question
 
@@ -1292,9 +1597,13 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** Corn is now prepared soup food, not two intact ears placed beside a duplicate serving. Keep family dialogue natural rather than a vocabulary recap.
 
 **Dialogue:**
-**ELLA:** A question helped more than another guess.  
-**MAX:** Especially when the vegetables had ears.  
-**ELLA:** That was the polite part of shopping.  
+**ELLA:** A question helped more than another guess.
+
+**MAX:** Especially when the vegetables had ears.
+
+**ELLA:** That was the polite part of shopping.
+
+**MAX:** I still think the corn understood good morning.
 
 ### SHOT_076 | 00:18:45–00:19:00 | Ask before guessing
 
@@ -1309,9 +1618,13 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** No scolding, forced lesson, narrator summary or promise that mistakes can never happen again.
 
 **Dialogue:**
-**DAN:** Next time I am unsure, could you check with me?  
-**NINA:** Of course. Asking for help is always welcome here.  
-**MAYA:** That sounds like a useful plan.  
+**DAN:** Next time I am unsure, could you check with me?
+
+**NINA:** Of course. Asking for help is always welcome here.
+
+**MAYA:** That sounds like a useful plan.
+
+**NINA:** I'd rather hear your question while there's still time.
 
 ### SHOT_077 | 00:19:00–00:19:15 | The two original notes
 
@@ -1326,9 +1639,13 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** These are the same two separate sheets, not Episode 02's future single two-color card. Exact lettering comes from the saved list SVGs.
 
 **Dialogue:**
-**ELLA:** Blue salad.  
-**LEO:** Yellow soup.  
-**DAN:** Two notes that deserve to be read separately. I will remember that part.  
+**ELLA:** Blue salad.
+
+**LEO:** Yellow soup.
+
+**DAN:** Two notes that deserve to be read separately. I will remember that part.
+
+**ELLA:** We'll bring our excellent eyes along next time too.
 
 ### SHOT_078 | 00:19:15–00:19:30 | Tomorrow's fruit promise
 
@@ -1343,9 +1660,15 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** The blank card is household stationery for tomorrow, not a third vegetable shopping note or the already completed Episode 02 purchase. Meal stays unchanged.
 
 **Dialogue:**
-**MAYA:** Tomorrow, we need fruit for a picnic.  
-**DAN:** One list, please.  
-**MAYA:** One list. Two colors.  
+**MAYA:** Tomorrow, we need fruit for a picnic.
+
+**DAN:** One list, please.
+
+**MAYA:** One list. Two colors.
+
+**DAN:** You're kidding.
+
+**MAYA:** Wait till you see what we're buying.
 
 ### SHOT_079 | 00:19:30–00:19:45 | Choose together next time
 
@@ -1360,9 +1683,13 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** This connects to Episode 02's next-morning one-card/two-colors opening without developing its fruit selections, budget or location here.
 
 **Dialogue:**
-**NINA:** Tomorrow, we can choose fruit together.  
-**DAN:** Three excellent helpers, and all six of us.  
-**MAX:** That sounds like a very good team.  
+**NINA:** Tomorrow, we can choose fruit together.
+
+**DAN:** Three excellent helpers, and all six of us.
+
+**MAX:** That sounds like a very good team.
+
+**ELLA:** Leo can count while Max interviews the fruit.
 
 ### SHOT_080 | 00:19:45–00:20:00 | Two dishes, one family
 
@@ -1377,7 +1704,11 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Continuity:** No recap narrator or synchronized chorus. Any optional creator-designed practice begins after this completed story, outside its twenty-minute runtime.
 
 **Dialogue:**
-**DAN:** Two dishes. One happy family.  
-**MAYA:** Exactly the plan we wanted.  
-**MAX:** And nobody left the basket at the market.  
+**DAN:** Two dishes. One happy family.
+
+**MAYA:** Exactly the plan we wanted.
+
+**MAX:** And nobody left the basket at the market.
+
+**NINA:** Let's finish lunch before that basket gets another job.
 

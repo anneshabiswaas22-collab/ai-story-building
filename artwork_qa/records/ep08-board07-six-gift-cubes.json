@@ -1,0 +1,88 @@
+{
+  "episode": 8,
+  "board": 7,
+  "path": "Episode_08/assets/storyboards/BOARD_07.png",
+  "parent_commit": "ef8961a0f28e54cf459a05942d72d5ddf5a4c30e",
+  "parent_sha256": "a9068bb88030dc9c10112a292c15f1c917bffffa5ea7f8c5a7622c08aaa3dbb6",
+  "selected_sha256": "e2c820ef8c75470eb536f2f71c79033061e40752221e3fef91bfd3d94fd79ab4",
+  "parent_size": [
+    1672,
+    941
+  ],
+  "selected_size": [
+    1672,
+    941
+  ],
+  "generated_source": "Episode_08/assets/storyboards/BOARD_07.png",
+  "method": "Selected panels from a referenced ImageGen edit were assembled into the previous sheet. The other panel rectangles match the parent pixels exactly.",
+  "request": "Edit the first input image, the selected storyboard. Preserve the existing four landscape panel positions in a 2×2 grid, exact original numbered SHOT_ badges, original palette/compositions and actor likeness. The second input is original family visual reference. Dan blue / left watch, Maya plum with ponytail, Nina teal auburn waves, Leo orange, braided Ella in denim overalls, small Max green. A third reference supplies setting or continuity. In every panel actors and props must follow its specified shot precisely. Keep good panels intact. Apply the following specific changes in the artwork. Only TOP LEFT 025 changes. Correct that single panel to show SIX DISTINCT small heather-gray zippered textile cubes. Make a clean, camera-readable 2-row × 3-column arrangement on the wood platform (lengthen platform if necessary). Far row LEFT CLOSED, far row MIDDLE CLOSED, far row RIGHT CLOSED. Near row LEFT CLOSED, near row MIDDLE CLOSED, near row RIGHT OPEN. Thus exactly five separate closed cubes AND ONE open cube, with a clear gap around each, all six in plain view. The open rightmost cube contains only Max's two small socks with GREEN HEELS. Dan keeps a hand on its partly raised fabric zipper flap, Max points at those socks, Maya watches. The open lid belongs to that one cube, never an additional box. No other cubes, no rigid boxes, never stack cubes in 025. The excellent 026 shows six zipped cubes in two rows of three: copy that inventory and textile appearance, opening ONLY one in 025. Preserve the source composition/accommodate the six cubes with subtle reframe and correct badges. Three remaining panels must stay intact.\nSHOT_025 shows only MAX, DAN, MAYA in GUEST_ROOM. Max points to the green heels and small size while Dan listens. Dan returns the intact pair to its first cube and closes it. End: All six cubes closed again; Max has identified his pair but no label attached yet. Existing artwork error: Max points out the green-heeled socks inside Dan's open fabric cube as Maya watches. Four other closed cubes are visible. Fix: Show five closed cubes plus Dan’s open cube, for a total of six.\nSHOT_026 shows only ELLA, NINA, MAYA in GUEST_ROOM. Ella notices the lavender pouch; Nina gently redirects attention to the recovered gifts without opening personal storage. End: Ella leaves pouch alone; Maya gathers family cubes for the return trip. Preserve this shot as it stands.\nSHOT_027 shows only MAYA, DAN, LEO in GUEST_ROOM. Maya hands the six closed cubes to Dan. Leo takes Ruth's checklist from beside the case with her earlier permission. End: Dan carries six cubes; Leo carries borrowed checklist; case remains open with only lavender pouch. Preserve this shot as it stands.\nSHOT_028 shows only NINA, ELLA, LEO in LAUNDRY_NOOK. After the short walking transition, Ella sets six blank tabs by the counter. Leo lays the borrowed checklist beside a fresh family sorting sheet taken from the adult stationery shelf; Nina uncaps the marker over a protective scrap mat. End: Borrowed checklist, blank family sorting sheet and six tabs ready on dry counter; marker in Nina's hand. Preserve this shot as it stands.",
+  "qa_updates": {
+    "SHOT_025": {
+      "observed": "Five separate gray cubes are closed, with one open at the right. Max points at his green-heeled pair while Dan holds the open flap and Maya watches.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_026": {
+      "observed": "A single closed lavender pouch is in the open suitcase on a folding stand. Exactly six zipped cubes are visible behind Ella, Nina and Maya.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_027": {
+      "observed": "Maya passes six zipped gray cubes to Dan, Leo holds the checklist, and the open case with its lavender pouch rests on its stand.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_028": {
+      "observed": "Ella arranges six blank punched tags beside two separate sheets and Nina holds the uncapped marker above the mat.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    }
+  },
+  "generated_source_sha256": "382c9283d9a20f10c21448e54f283350af3733975518ec0088364238dca1aa18",
+  "generated_source_size": [
+    1672,
+    941
+  ],
+  "selected_panels": [
+    1
+  ],
+  "preserved_panels": [
+    2,
+    3,
+    4
+  ],
+  "selected_rectangles_xyxy": [
+    [
+      0,
+      0,
+      836,
+      470
+    ]
+  ],
+  "image_inputs": {
+    "selected_sheet": {
+      "path": "Episode_08/assets/storyboards/BOARD_07.png",
+      "sha256": "a9068bb88030dc9c10112a292c15f1c917bffffa5ea7f8c5a7622c08aaa3dbb6"
+    },
+    "cast_contact_sheet": {
+      "sha256": "ee132e6bb6535a21dc45a3bed61516cfd1e2c5ff9eeb35c596d1324c1079193f",
+      "original_previews": "Episode_08/assets/characters"
+    },
+    "additional_reference": {
+      "sha256": "db8a6139774ed152ae4ee81a59e501405a028083141d32b0b2ffc26aef7aacd7",
+      "path": "Episode_08/assets/environments/GUEST_ROOM.png"
+    }
+  },
+  "detail_edit": {
+    "generated_full_sheet_sha256": "d023b577af3adb242e1b40a039008f034abf970f5f35a990364fcee1d4cbb650",
+    "generated_detail_sha256": "354beeb5d8ada338b83cf9b701c2632fd1fac106e036559b77cefb0b3e675d89",
+    "close_up_input_sha256": "73b56c41680f1bd2cbd2fb2762b10db6e4d917ded19544b642382396bbbfc6dc",
+    "marked_local_reference_sha256": "0b755ac06a52a49da6fcd68a9744670d869b49bfa06d4f65791f403cd07c067a",
+    "detail_request": "Scripted prop-count correction, patch for an existing professional 3D storyboard. The first image is the actual close-up to edit, with seven cubes (six closed and one open showing green-heeled socks). The second is the EXACT same crop with a cyan rectangular mask around one duplicate: the SECOND CLOSED CUBE FROM THE LEFT IN THE BACK ROW, immediately above the middle lower cube. ERASE JUST THAT ONE BACK-ROW CUBE COMPLETELY. Fill its formerly occupied area with the warm wooden dresser and background visible behind the table, including a thin brown patch between its remaining neighbors. Leave a visible EMPTY SPACE in the second position of the back row. The entire front row including all three closed cubes and the open sock cube stays identical. The other two closed cubes in the back row remain. Final inventory is two closed in back and three closed plus one open in front, six objects in all. Preserve exact location, pixel framing, size, perspective, colors and textures of every other feature. Keep the FULL crop borders identical to the first input. No cyan or ink of any kind in the output. Provide a single finished close-up with this one object removed.",
+    "detail_selection": "Resized the edited detail to 378 × 252, selected x=98 to 182 and y=95 to 157, and composited that rectangle at (234, 251) in the generated sheet. Selected only SHOT_025 from that result."
+  }
+}

@@ -50,6 +50,8 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **DAN:** A fine journey for a Saturday.
 
+**MAYA:** Three books coming home sounds like a fair trade.
+
 ### SHOT_002 | 00:00:15–00:00:30 | Three books going back
 
 **Visible cast:** LEO, ELLA, MAX
@@ -75,6 +77,8 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 **MAX:** Nothing under the island.
 
 **ELLA:** Good. Even the floor is ready.
+
+**LEO:** Good. None of the return books are hiding under our feet.
 
 ### SHOT_003 | 00:00:30–00:00:45 | The fare is already paid
 
@@ -102,6 +106,8 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **LEO:** Until we come home. These are one-way.
 
+**NINA:** We'll plan that trip when it's time to leave.
+
 ### SHOT_004 | 00:00:45–00:01:00 | A time with a destination
 
 **Visible cast:** DAN, MAYA, ELLA
@@ -127,6 +133,8 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 **MAYA:** And the destination is the library.
 
 **ELLA:** We need both parts.
+
+**DAN:** Library first, then the time. I'll try saying it together.
 
 ### SHOT_005 | 00:01:00–00:01:15 | Umbrella without a storm
 
@@ -154,6 +162,8 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **DAN:** My hair appreciates that policy.
 
+**MAX:** What about the dinosaur? I hope its book stays dry.
+
 ### SHOT_006 | 00:01:15–00:01:30 | Cards in their own place
 
 **Visible cast:** MAYA, NINA, LEO, DAN
@@ -179,6 +189,8 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 **MAYA:** And tickets stay with Dan.
 
 **DAN:** Three jobs. No guessing which pocket.
+
+**LEO:** I'll keep the backpack close. Books are my department today.
 
 ### SHOT_007 | 00:01:30–00:01:45 | Everyone gets a voice
 
@@ -206,6 +218,8 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **MAX:** Mine should have a very large dinosaur.
 
+**MAYA:** Three very different readers. That sounds like our family.
+
 ### SHOT_008 | 00:01:45–00:02:00 | Ready before the clock
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX
@@ -231,6 +245,8 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 **MAYA:** Let us keep that last part all day.
 
 **MAX:** The dinosaur can wait for us.
+
+**ELLA:** I don't think any of my seeds will run away either.
 
 ### SHOT_009 | 00:02:00–00:02:15 | A stop that looks familiar
 
@@ -258,6 +274,8 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **DAN:** A neighborhood can be very well supplied.
 
+**LEO:** Maybe they're only well supplied in the other direction.
+
 ### SHOT_010 | 00:02:15–00:02:30 | The pleased-with-himself pose
 
 **Visible cast:** DAN, MAX, MAYA
@@ -283,6 +301,8 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 **MAX:** My wrist says we are extremely early.
 
 **MAYA:** Now let us check where we are going.
+
+**DAN:** Fair point. A watch can't tell us which stop to use.
 
 ### SHOT_011 | 00:02:30–00:02:45 | A pole with two kinds of information
 
@@ -310,6 +330,8 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **DAN:** My excellent plan appears to have small print.
 
+**ELLA:** Let's read that smaller line before we pick this bench.
+
 ### SHOT_012 | 00:02:45–00:03:00 | A comfortable place to wonder
 
 **Visible cast:** NINA, MAX, ELLA
@@ -335,6 +357,8 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 **NINA:** It gets buses going the other way.
 
 **ELLA:** That sounds like an important difference.
+
+**MAX:** So the benches look alike, but the rides don't?
 
 ### SHOT_013 | 00:03:00–00:03:15 | The timetable seems to agree
 
@@ -362,6 +386,8 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **LEO:** Two buses can leave at the same minute.
 
+**DAN:** And my watch wouldn't know which one I meant.
+
 ### SHOT_014 | 00:03:15–00:03:30 | A river in the wrong plan
 
 **Visible cast:** ELLA, MAYA, DAN
@@ -387,6 +413,8 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 **DAN:** The library does have a book about rivers.
 
 **MAYA:** But we would like the building with the books.
+
+**ELLA:** I'd rather read that river book inside the library.
 
 ### SHOT_015 | 00:03:30–00:03:45 | The building is not the book
 
@@ -414,6 +442,8 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **NINA:** We can make the smaller journey.
 
+**MAX:** Good. I don't think a whole building fits through the bus door.
+
 ### SHOT_016 | 00:03:45–00:04:00 | First look at the street map
 
 **Visible cast:** MAYA, DAN, LEO
@@ -439,6 +469,8 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 **LEO:** The library is north of here.
 
 **DAN:** My time was right. My side may not be.
+
+**MAYA:** The bakery's a better clue than your watch this time.
 
 ### SHOT_017 | 00:04:00–00:04:15 | A stop with no legs
 
@@ -466,6 +498,8 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **NINA:** Then we can change sides carefully.
 
+**MAX:** Good. It would be hard to carry the whole stop.
+
 ### SHOT_018 | 00:04:15–00:04:30 | Right number, wrong direction
 
 **Visible cast:** DAN, LEO, ELLA
@@ -491,6 +525,8 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 **LEO:** Right number, wrong direction.
 
 **ELLA:** We caught it before getting on.
+
+**DAN:** I'd rather look a little silly on this sidewalk.
 
 ### SHOT_019 | 00:04:30–00:04:45 | No need to race
 
@@ -518,6 +554,8 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **DAN:** And if we miss this bus, we wait. No racing.
 
+**NINA:** Good. The library books can wait an extra few minutes.
+
 ### SHOT_020 | 00:04:45–00:05:00 | What we know for certain
 
 **Visible cast:** LEO, ELLA, MAYA
@@ -543,6 +581,8 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 **ELLA:** We want the library near Oak Street.
 
 **MAYA:** Those are useful things to tell someone.
+
+**ELLA:** Grandpa would know which side we mean from that.
 
 ### SHOT_021 | 00:05:00–00:05:15 | A useful call, not a rescue
 
@@ -570,6 +610,8 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **MAX:** Tell him the stop has not moved.
 
+**NINA:** I think he'll want to hear the destination first.
+
 ### SHOT_022 | 00:05:15–00:05:30 | Say the place before the problem
 
 **Visible cast:** DAN, NINA, LEO
@@ -595,6 +637,8 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 **NINA:** That gives Dad something clear to work with.
 
 **LEO:** Better than saying we are beside a bus stop.
+
+**DAN:** Good. I'll say where we want to go, too.
 
 ### SHOT_023 | 00:05:30–00:05:45 | One folder stays zipped
 
@@ -622,6 +666,8 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **MAYA:** Good. We are fixing one small mistake, not starting three.
 
+**ELLA:** One mistake is plenty to keep us busy this morning.
+
 ### SHOT_024 | 00:05:45–00:06:00 | The opposite roof
 
 **Visible cast:** LEO, DAN, MAYA
@@ -647,6 +693,10 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 **DAN:** That is encouraging.
 
 **MAYA:** We will read the whole sign when we reach that side.
+
+**DAN:** Which word should I look for?
+
+**LEO:** Library, Dad. That's our destination.
 
 ### SHOT_025 | 00:06:00–00:06:15 | A map is not the whole street
 
@@ -674,6 +724,8 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **DAN:** A very useful line between two dots.
 
+**MAYA:** We'll use that crossing when we're ready, all together.
+
 ### SHOT_026 | 00:06:15–00:06:30 | A mistake that stays small
 
 **Visible cast:** MAX, NINA, DAN
@@ -700,6 +752,8 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **DAN:** And we have a careful way to fix it.
 
+**MAX:** Good. I was worried my dinosaur might miss me.
+
 ### SHOT_027 | 00:06:30–00:06:45 | The call begins
 
 **Visible cast:** DAN, NINA
@@ -720,9 +774,13 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **Dialogue:**
 
-**NINA:** Hi, Dad. Have you a minute for a direction check?
+**NINA:** Hi, Dad. Can you check our directions?
 
 **DAN:** We found the right number and an interesting problem.
+
+**NINA:** I'll tell him which side we're on.
+
+**DAN:** Start with the bakery. That's easy to spot.
 
 ### SHOT_028 | 00:06:45–00:07:00 | The small embarrassment
 
@@ -749,6 +807,8 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 **MAYA:** You brought us early enough to notice one.
 
 **LEO:** And we are still together.
+
+**DAN:** I do like that part. We can work it out together.
 
 ### SHOT_029 | 00:07:00–00:07:15 | Tell Ed where we are
 
@@ -778,6 +838,8 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **DAN:** The library on Oak Street.
 
+**NINA:** That's the part we want to get right, Dad.
+
 ### SHOT_030 | 00:07:15–00:07:30 | Give the destination a direction
 
 **Visible cast:** DAN, NINA, LEO
@@ -805,6 +867,8 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 **DAN:** Northbound, Library.
 
 **LEO:** That matches the map’s north arrow.
+
+**NINA:** Good. The leaflet and the map tell the same story.
 
 ### SHOT_031 | 00:07:30–00:07:45 | A reassuring grandfather
 
@@ -834,6 +898,8 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **NINA:** We will. Thanks, Dad.
 
+**MAX:** Same number, different place. I can look for Library.
+
 ### SHOT_032 | 00:07:45–00:08:00 | A call that leaves room to act
 
 **Visible cast:** DAN, NINA, MAYA
@@ -862,6 +928,8 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **MAYA:** First, let us reach that crossing together.
 
+**NINA:** Bye, Dad. We'll save you the story of both stops.
+
 ### SHOT_033 | 00:08:00–00:08:15 | The better question
 
 **Visible cast:** DAN, ELLA, LEO
@@ -888,6 +956,8 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **LEO:** Then we will all know why it is right.
 
+**DAN:** Good. I like hearing how you figured it out.
+
 ### SHOT_034 | 00:08:15–00:08:30 | Walking to the signal
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX
@@ -911,6 +981,10 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 **MAX:** We are going away from the bus stop.
 
 **NINA:** For a short walk that takes us to the right one.
+
+**DAN:** Why the long way around?
+
+**LEO:** That's where we can cross together at the signal.
 
 ### SHOT_035 | 00:08:30–00:08:45 | A button is not a green light
 
@@ -938,6 +1012,8 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **DAN:** The button asks. It does not stop every car itself.
 
+**ELLA:** Got it. My finger asked and my feet can wait.
+
 ### SHOT_036 | 00:08:45–00:09:00 | Waiting has a purpose
 
 **Visible cast:** MAX, DAN, NINA
@@ -963,6 +1039,8 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 **DAN:** Libraries are very good at waiting.
 
 **NINA:** And we have another bus if we need one.
+
+**MAX:** Good. I wouldn't want to run with all those books.
 
 ### SHOT_037 | 00:09:00–00:09:15 | Look before the first step
 
@@ -990,6 +1068,8 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **NINA:** And clear here. Together now.
 
+**LEO:** With you, Mom. The books are coming across with us.
+
 ### SHOT_038 | 00:09:15–00:09:30 | Across in one group
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX
@@ -1013,6 +1093,10 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 **MAX:** This stop is getting closer.
 
 **DAN:** We are the part that is moving.
+
+**ELLA:** Is everybody still together?
+
+**MAYA:** Yes, keep walking till we're on the sidewalk.
 
 ### SHOT_039 | 00:09:30–00:09:45 | Back on the sidewalk
 
@@ -1040,6 +1124,8 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **ELLA:** A longer safe path was a good path.
 
+**NINA:** And we can see the shelter without stepping off the curb.
+
 ### SHOT_040 | 00:09:45–00:10:00 | The same street from a new side
 
 **Visible cast:** DAN, LEO, MAX
@@ -1065,6 +1151,8 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 **DAN:** Exactly where we left it.
 
 **LEO:** Now we will check the sign before choosing the bench.
+
+**MAX:** It'd be nice if this bench came with directions too.
 
 ### SHOT_041 | 00:10:00–00:10:15 | Northbound at last
 
@@ -1092,6 +1180,8 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **NINA:** And the right side of the street.
 
+**LEO:** All three match the library trip we wanted this morning.
+
 ### SHOT_042 | 00:10:15–00:10:30 | Check a whole line
 
 **Visible cast:** LEO, ELLA, DAN
@@ -1117,6 +1207,8 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 **ELLA:** All on the same line.
 
 **DAN:** My original number finally has the right company.
+
+**ELLA:** We didn't change the time. Just where we wait for it.
 
 ### SHOT_043 | 00:10:30–00:10:45 | Sit before it arrives
 
@@ -1144,6 +1236,8 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **MAYA:** We have both now.
 
+**MAX:** My knees like it here as much as the other side.
+
 ### SHOT_044 | 00:10:45–00:11:00 | Tickets without confetti
 
 **Visible cast:** DAN, NINA, LEO
@@ -1169,6 +1263,8 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 **NINA:** Three adult, three child.
 
 **LEO:** And one envelope to keep the used ones together.
+
+**DAN:** Good. Nobody has to look for small change today.
 
 ### SHOT_045 | 00:11:00–00:11:15 | The fare has no surprise
 
@@ -1196,6 +1292,8 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **DAN:** A clear total. I enjoy those more every day.
 
+**ELLA:** And none of us has to buy a second ticket today.
+
 ### SHOT_046 | 00:11:15–00:11:30 | The destination on the moving bus
 
 **Visible cast:** DAN, MAYA, LEO
@@ -1221,6 +1319,8 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 **LEO:** That is the last sign to check.
 
 **MAYA:** Then we wait for the door to open.
+
+**DAN:** Doors first, then feet. We can see it from here.
 
 ### SHOT_047 | 00:11:30–00:11:45 | Doors after wheels
 
@@ -1248,6 +1348,8 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **DAN:** Now we can go one at a time.
 
+**MAX:** Good. It looks much bigger up close than on the leaflet.
+
 ### SHOT_048 | 00:11:45–00:12:00 | Space for people getting off
 
 **Visible cast:** MAYA, NINA, ELLA
@@ -1274,6 +1376,8 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **NINA:** A little space helps everyone.
 
+**ELLA:** I'll wait right here with you until it's clear.
+
 ### SHOT_049 | 00:12:00–00:12:15 | A quiet hello to the driver
 
 **Visible cast:** DAN, MAYA
@@ -1298,6 +1402,10 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **MAYA:** We are all together.
 
+**DAN:** Would you count with me, Maya?
+
+**MAYA:** Of course. Three adults and three children.
+
 ### SHOT_050 | 00:12:15–00:12:30 | Six tickets, one careful pass
 
 **Visible cast:** DAN, NINA
@@ -1321,6 +1429,10 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 **NINA:** One for each person.
 
 **DAN:** Six checked. No extra passengers hiding in my envelope.
+
+**NINA:** Does that leave anyone behind?
+
+**DAN:** Nobody. All six tickets belong to someone here.
 
 ### SHOT_051 | 00:12:30–00:12:45 | A steady step for Max
 
@@ -1348,6 +1460,8 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **MAYA:** This one stays still until everyone is aboard.
 
+**NINA:** Hang on until both your feet are on the bus.
+
 ### SHOT_052 | 00:12:45–00:13:00 | Keep the evidence together
 
 **Visible cast:** DAN, LEO, ELLA
@@ -1373,6 +1487,8 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 **DAN:** Six used tickets, back in one envelope.
 
 **ELLA:** Now we need six seats.
+
+**DAN:** Let's keep this aisle clear while we find them.
 
 ### SHOT_053 | 00:13:00–00:13:15 | Three pairs of seats
 
@@ -1400,6 +1516,8 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **MAX:** Dad, our seats face the correct direction too.
 
+**DAN:** Lucky us. I already tried traveling the other way today.
+
 ### SHOT_054 | 00:13:15–00:13:30 | A bag below the window
 
 **Visible cast:** LEO, NINA, ELLA
@@ -1425,6 +1543,8 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 **NINA:** And nothing in the aisle.
 
 **ELLA:** The books have a very tidy journey.
+
+**NINA:** Good. Nobody sharing our ride has to step around them.
 
 ### SHOT_055 | 00:13:30–00:13:45 | At last, a departure
 
@@ -1452,6 +1572,8 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **MAYA:** It will manage without us.
 
+**DAN:** I think it's happy to have its bench back.
+
 ### SHOT_056 | 00:13:45–00:14:00 | A window, not a steering wheel
 
 **Visible cast:** MAX, DAN
@@ -1477,6 +1599,8 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 **DAN:** And we are doing the sitting.
 
 **MAX:** I am very good at this part of traveling.
+
+**DAN:** For once, your feet don't have to lead the way.
 
 ### SHOT_057 | 00:14:00–00:14:15 | The route on the leaflet
 
@@ -1504,6 +1628,8 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **MAYA:** And keep our bags ready without standing yet.
 
+**LEO:** I'll watch for the names while the books stay put.
+
 ### SHOT_058 | 00:14:15–00:14:30 | A little travel time
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX
@@ -1529,6 +1655,8 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 **DAN:** A promising development.
 
 **NINA:** Oak Street is next.
+
+**DAN:** Good. I'll keep my ears open for our stop.
 
 ### SHOT_059 | 00:14:30–00:14:45 | A smaller voice is enough
 
@@ -1556,6 +1684,8 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **LEO:** The library is the next one on our route.
 
+**MAX:** Then how do we ask without shouting at the driver?
+
 ### SHOT_060 | 00:14:45–00:15:00 | One request, once
 
 **Visible cast:** NINA, LEO, MAYA
@@ -1581,6 +1711,8 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 **MAYA:** We wait until the bus stops.
 
 **LEO:** The bag can wait down here too.
+
+**NINA:** Right. The bus knows where we want to get off.
 
 ### SHOT_061 | 00:15:00–00:15:15 | Ready does not mean standing
 
@@ -1608,6 +1740,8 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **ELLA:** That is the comfortable kind of ready.
 
+**MAX:** My knees are happy to wait for the doors.
+
 ### SHOT_062 | 00:15:15–00:15:30 | The library through the glass
 
 **Visible cast:** MAYA, ELLA, NINA
@@ -1633,6 +1767,8 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 **MAYA:** That is the place.
 
 **NINA:** And the books are ready to return.
+
+**MAYA:** Good. We'll take the whole family through that door.
 
 ### SHOT_063 | 00:15:30–00:15:45 | Arrival before the aisle
 
@@ -1660,6 +1796,8 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **LEO:** Three books and one umbrella with me.
 
+**ELLA:** All six of us can get off together now.
+
 ### SHOT_064 | 00:15:45–00:16:00 | Six people off safely
 
 **Visible cast:** DAN, MAX, MAYA, ELLA, NINA, LEO
@@ -1683,6 +1821,10 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 **DAN:** Thank you. Have a good morning.
 
 **MAX:** That bus knew exactly where it was going.
+
+**LEO:** And we knew where we wanted to get off.
+
+**DAN:** That was the part I needed help with.
 
 ### SHOT_065 | 00:16:00–00:16:15 | Through the right door
 
@@ -1710,6 +1852,8 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **MAX:** Hello, books.
 
+**ELLA:** You can say hello quietly. They have very good pages.
+
 ### SHOT_066 | 00:16:15–00:16:30 | Three old friends come out
 
 **Visible cast:** LEO, ELLA, MAYA
@@ -1735,6 +1879,8 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 **ELLA:** They have had a busy week.
 
 **MAYA:** Now someone else can enjoy them.
+
+**LEO:** I wonder who'll get to take the red one next.
 
 ### SHOT_067 | 00:16:30–00:16:45 | Return the red and blue
 
@@ -1762,6 +1908,8 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **MAYA:** Just another reader when they are ready.
 
+**MAX:** I hope they give the red one a good home.
+
 ### SHOT_068 | 00:16:45–00:17:00 | The last return makes room
 
 **Visible cast:** MAYA, ELLA, NINA
@@ -1787,6 +1935,8 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 **NINA:** That leaves room for three new choices.
 
 **MAYA:** And time to choose them carefully.
+
+**ELLA:** Good. I want to look at the pictures before I choose.
 
 ### SHOT_069 | 00:17:00–00:17:15 | A display with possibilities
 
@@ -1814,6 +1964,8 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **MAX:** My very large dinosaur has found a shelf.
 
+**NINA:** I like being able to see what each of you picked.
+
 ### SHOT_070 | 00:17:15–00:17:30 | Leo chooses a wider world
 
 **Visible cast:** LEO, DAN, NINA
@@ -1839,6 +1991,8 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 **LEO:** Maps work better when I know which way they face.
 
 **NINA:** That book suits today.
+
+**DAN:** You can teach me how to read the next map we take.
 
 ### SHOT_071 | 00:17:30–00:17:45 | Ella finds the next small thing
 
@@ -1866,6 +2020,8 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **LEO:** My maps can show where the plants grow.
 
+**ELLA:** Maybe one day I can grow what I'm reading about.
+
 ### SHOT_072 | 00:17:45–00:18:00 | A dinosaur that fits
 
 **Visible cast:** MAX, NINA, DAN
@@ -1891,6 +2047,8 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 **DAN:** A very considerate dinosaur.
 
 **NINA:** Shall we borrow it?
+
+**MAX:** Yes, please. I think my backpack can handle that dinosaur.
 
 ### SHOT_073 | 00:18:00–00:18:15 | Borrowing has a record
 
@@ -1918,6 +2076,8 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **ELLA:** The plant book on mine, please.
 
+**NINA:** Three cards. Let's remember which book goes with each.
+
 ### SHOT_074 | 00:18:15–00:18:30 | Three books checked, no new fare
 
 **Visible cast:** NINA, DAN, MAX
@@ -1943,6 +2103,8 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 **NINA:** No. These are library loans.
 
 **DAN:** Different kind of ticket. Different kind of journey.
+
+**MAX:** Good. We only have to bring the dinosaur back.
 
 ### SHOT_075 | 00:18:30–00:18:45 | Back into the right places
 
@@ -1970,6 +2132,8 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **NINA:** Cards and receipt in their own place.
 
+**MAYA:** I like knowing which bag gets the books this time.
+
 ### SHOT_076 | 00:18:45–00:19:00 | Open one new page
 
 **Visible cast:** LEO, ELLA, MAX, MAYA
@@ -1995,6 +2159,8 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 **ELLA:** And a very small beginning in mine.
 
 **MAX:** Mine begins with very large feet.
+
+**ELLA:** We'll have three very different stories to tell at home.
 
 ### SHOT_077 | 00:19:00–00:19:15 | A quiet place to be honest
 
@@ -2022,6 +2188,8 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **MAYA:** That helped the whole trip.
 
+**DAN:** I'd rather be the dad who asks while there's time.
+
 ### SHOT_078 | 00:19:15–00:19:30 | Both parts of the team
 
 **Visible cast:** MAYA, NINA, DAN
@@ -2046,7 +2214,9 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **NINA:** And your careful crossing plan got us there safely.
 
-**DAN:** Very good company for a man with two directions.
+**DAN:** Good company for a confused traveler.
+
+**NINA:** Let's tell Dad about the blue shelter.
 
 ### SHOT_079 | 00:19:30–00:19:45 | A story for Grandpa later
 
@@ -2074,6 +2244,8 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **DAN:** Please mention that I eventually did.
 
+**MAX:** I'll make you the one who finally read the little line.
+
 ### SHOT_080 | 00:19:45–00:20:00 | The right arrival
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX
@@ -2099,4 +2271,6 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 **MAYA:** And all six of us.
 
 **MAX:** The dinosaur approves. Quietly.
+
+**ELLA:** Shh. The biggest reader has the quietest dinosaur today.
 

@@ -1,0 +1,99 @@
+{
+  "episode": 8,
+  "board": 11,
+  "path": "Episode_08/assets/storyboards/BOARD_11.png",
+  "parent_commit": "fc2205b6d7598221d73a867cf41f4fe67bb7844b",
+  "parent_sha256": "5cb68b3f46bbce7fc2e828dd0142c017d61a9eceb997d6365981c9af161138bd",
+  "selected_sha256": "635671556fedb43f489ac066c93859dbbad2fc675e474143d1060623205db43d",
+  "parent_size": [
+    1672,
+    941
+  ],
+  "selected_size": [
+    1672,
+    941
+  ],
+  "generated_source": "Episode_08/assets/storyboards/BOARD_11.png",
+  "method": "Selected panels from a referenced ImageGen edit were assembled into the previous sheet. The other panel rectangles match the parent pixels exactly.",
+  "request": "Repair the real selected four-panel storyboard in reference one. The second reference is the original classic 3D family cast, the remaining images are the actual locations, continuity and prior visual material. Keep exact shot number badges, relative heights, original skin tone, hair, clothes and premium feature-animation style. Never move a face or swap costumes between speakers. Dan sky-blue polo, dark MUSTACHE and left-wrist watch; adult Maya plum with ponytail; adult Nina teal with wavy auburn bob; older boy Leo orange; braided Ella in coral and full denim overalls; youngest small Max green. Use exactly the four numbered frames in a 2x2 landscape grid at source aspect, with panel shots in order, and preserve successful frames. 041 ONE open cube (third), first two closed labeled MAX and ELLA, remaining three closed. Capture after writing: Dan holding single cream LEO tag to third handle, Leo dropping his orange-heel socks inside, Nina reaches. No loose labels on table. 042 original. 043 Maya pointing directly at PLUM DOTS on two socks on the mat, Dan's bare HANDS rest clear of all tabs, Nina listens. 044 Dan has FINISHED writing the only MAYA tab and put pen down; Maya attaching this sole tag to fourth OPEN cube while folded plum dotted socks are inside. No extra written tags. W01 six grey cubes with same laundry nook, respect source framing and keep three checked labels.\nSHOT_041 visible cast DAN, LEO, NINA; location LAUNDRY_NOOK. Beat: Dan writes LEO on one tab, attaches it to the third cube and Leo repacks his pair. Nina slides the closed cube beside the first two. End: Three checked cubes MAX, ELLA and LEO closed; three cubes and three blank tabs remain.. Previous finding: Third cube already tagged LEO while socks enter fourth; Dan writes additional LEO tag.; correction: Only third cube open while tagging and repacking..\nSHOT_042 visible cast MAYA, DAN, NINA; location LAUNDRY_NOOK. Beat: Maya opens the fourth cube and lifts the plum-dotted adult pair onto the mat. Nina leaves the other two cubes shut. End: Fourth cube empty; plum pair on mat; three checked cubes still closed aside.. Previous finding: Maya holds two plum dotted socks; fourth cube open, three checked labels at left.; correction: Creator to verify likeness, hands and final staging before first-frame approval..\nSHOT_043 visible cast MAYA, NINA, DAN; location LAUNDRY_NOOK. Beat: Maya points to the dots while Nina explains her own pair is plain teal. Dan listens to both women before reaching for a tab. End: Dan has confirmed Maya owns plum dots; no one opens Nina's cube early.. Previous finding: Maya points at LEO tab instead of plum dots; Dan already holding tab.; correction: Indicate dots on mat; keep tab on counter while listening..\nSHOT_044 visible cast MAYA, DAN; location LAUNDRY_NOOK. Beat: Dan writes MAYA on the fourth tab. Maya attaches it, folds her pair into the fourth cube and gently zips it. End: Closed MAYA cube joins checked row; two blank tabs and two unassigned cubes remain.. Previous finding: MAYA tag on fourth cube at same time Dan writes second MAYA.; correction: Keep one tab; perform writing before attachment..",
+  "qa_updates": {
+    "SHOT_041": {
+      "observed": "Third cube already tagged LEO while socks enter fourth; Dan writes additional LEO tag.",
+      "severity": "major",
+      "correction": "Only third cube open while tagging and repacking.",
+      "status": "FAIL"
+    },
+    "SHOT_042": {
+      "observed": "Maya holds two plum dotted socks; fourth cube open, three checked labels at left.",
+      "severity": "none observed",
+      "correction": "Creator to verify likeness, hands and final staging before first-frame approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_043": {
+      "observed": "Maya indicates the plum-dotted pair on the mat while Nina speaks and Dan listens with empty hands. The third closed cube has lost its LEO tag.",
+      "severity": "major",
+      "correction": "Restore LEO on the third closed cube while keeping Maya's hand and the socks visible.",
+      "status": "FAIL"
+    },
+    "SHOT_044": {
+      "observed": "Maya attaches one MAYA tag to the fourth cube with the plum-dotted pair inside. Dan's hands are empty. MAX, ELLA and LEO remain readable on the three preceding closed cubes.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    }
+  },
+  "generated_source_sha256": "6cc5c70c7a8ad9d640a277121aa59a542fa29ddfa016e564eae1dc75912f0d96",
+  "generated_source_size": [
+    1672,
+    941
+  ],
+  "selected_panels": [
+    3,
+    4
+  ],
+  "preserved_panels": [
+    1,
+    2
+  ],
+  "selected_rectangles_xyxy": [
+    [
+      0,
+      470,
+      836,
+      941
+    ],
+    [
+      836,
+      470,
+      1672,
+      941
+    ]
+  ],
+  "image_inputs": {
+    "selected_sheet": {
+      "path": "Episode_08/assets/storyboards/BOARD_11.png",
+      "sha256": "5cb68b3f46bbce7fc2e828dd0142c017d61a9eceb997d6365981c9af161138bd"
+    },
+    "cast_contact_sheet": {
+      "sha256": "ee132e6bb6535a21dc45a3bed61516cfd1e2c5ff9eeb35c596d1324c1079193f",
+      "original_previews": "Episode_08/assets/characters"
+    },
+    "additional_reference": {
+      "sha256": "402cd2c1b26c4a9c8df9fb9a819501fd5e5b269a48c56418d32cbe2f66c9ff67",
+      "sources": [
+        "Episode_08/assets/environments/LAUNDRY_NOOK.png",
+        "Episode_08/assets/overlays/SOCK_OWNERS.svg",
+        "Episode_08/assets/storyboards/BOARD_09.png",
+        "Episode_08/assets/storyboards/BOARD_10.png"
+      ]
+    }
+  },
+  "detail_edit": {
+    "generation_reference_hashes": [
+      {
+        "purpose": "Scene and continuity reference",
+        "sha256": "402cd2c1b26c4a9c8df9fb9a819501fd5e5b269a48c56418d32cbe2f66c9ff67"
+      }
+    ]
+  }
+}

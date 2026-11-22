@@ -1,0 +1,45 @@
+{
+  "episode": 1,
+  "board": 12,
+  "path": "Episode_01/assets/storyboards/BOARD_12.png",
+  "parent_commit": "5e45301ec76d21a9d8507a089e327028de5f691e",
+  "parent_sha256": "5e373811cb85220da302359908b2ccb776f7a3eb6dca1720ec85b499d033db99",
+  "selected_sha256": "0ce148c6bc6184bf24f4665b923e58ad8d2c831c7673bf4e6d1eab878df88492",
+  "parent_size": [
+    1672,
+    941
+  ],
+  "selected_size": [
+    1672,
+    941
+  ],
+  "generated_source": "Episode_01/assets/storyboards/BOARD_12.png",
+  "method": "Referenced ImageGen edit. The selected PNG is the original returned file.",
+  "request": "Edit the first reference: full four-panel storyboard, landscape 16:9 finished sheet, 2×2 panels with four equal rectangles. Keep black numbered labels top left, text SHOT_045 to SHOT_048 in reading order. The second image locks the family's original appearance and outfits: Dan blue polo and left-wrist watch, Maya plum and cream, Nina teal and tan, Leo orange, Ella red with long denim overalls and braids, small Max green. The third is a scene or adjacent continuity reference, not a panel to copy. Preserve composition, cast, actions, light and art from the first input except as specified. Surgical continuity repair: the counters are in the middle of Dan's call. In every one of the four panels REMOVE BOTH open upright tote bags from counters and floor. Both totes are empty, visibly flattened, the blue and yellow fabric bodies hanging vertically BY THEIR HANDLES from the SAME wall hook behind Dan, or entirely off camera if that wall is cropped away. No standing open tote in any shot, no extra paper bags. Keep all other existing scene elements: Dan holding one phone to his right ear until 048 and returning it to his right trouser pocket in 048; the two blue/yellow PAPER LISTS stay on the countertop as in the reference, not confused with fabric bags. Maya audible only; no inset. Keep the woven produce basket, original produce, hemlines, children and faces. Exact SHOT_045–SHOT_048 badges. Match the original composition wherever possible. Individual panel beats: 45 visible DAN, LEO; Dan takes his phone from the right pocket and calls home while Leo keeps the full basket steady. Maya answers off-screen; the blue note stays flat beside the yellow on the dry counter. 46 visible DAN, MAX; Nina takes her turn on the home phone off-screen. Dan listens with his phone still at his right ear and points with his free hand toward the yellow heading. Max watches from the buyer side. 47 visible DAN, LEO, ELLA, MAX; Dan speaks warmly to both women through the same call. Maya and Nina reassure him in separate off-screen turns. The children exchange relieved smiles without taking the phone or moving produce. 48 visible DAN, LEO; Dan ends the call and pockets his phone on the right. Leo leaves the two notes side by side so the family can use the clear headings while packing; neither note disappears with the phone.",
+  "qa_updates": {
+    "SHOT_045": {
+      "observed": "Both empty totes hang from their handles behind Dan. Dan has the phone at his right ear and Leo steadies the produce basket.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_046": {
+      "observed": "Dan indicates the yellow paper with his left hand while the two bags remain on the hook. Max is beside him.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_047": {
+      "observed": "Dan and the three children are together on the call. The blue and yellow bags hang behind them, with only the separate paper lists and produce basket on the counter.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_048": {
+      "observed": "Dan returns the phone to his right pocket, with both bags on the wall and the two paper lists on the counter beside Leo.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    }
+  }
+}

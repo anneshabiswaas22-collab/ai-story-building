@@ -330,7 +330,7 @@ def validate(repo_root=None):
             phone_voices.update({'MAYA', 'NINA'} & set(voices))
         used_cast.update(cast)
         used_locations.add(values['Location'])
-        require(1 <= len(shot['dialogue']) <= 3, f'SHOT_{number}: expected 1–3 dialogue turns')
+        require(4 <= len(shot['dialogue']) <= 6, f'SHOT_{number}: expected 4–6 spoken beats')
         require(all(name in (set(cast) | set(voices)) for name, _ in shot['dialogue']),
                 f'SHOT_{number}: dialogue speaker absent from visible cast and off-screen voices')
         words = sum(len(line.split()) for _, line in shot['dialogue'])

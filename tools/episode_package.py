@@ -17,6 +17,9 @@ from urllib.parse import unquote, urlsplit
 from xml.etree import ElementTree
 import zlib
 
+sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
+from tools.dialogue_timing import cue_windows, performance_note
+
 FAMILY = frozenset({'DAN', 'MAYA', 'NINA', 'LEO', 'ELLA', 'MAX'})
 STORY_FIELDS = ('Visible cast', 'Location', 'Camera', 'Action', 'Opening state',
                 'End state', 'Picture', 'Continuity', 'Dialogue')
@@ -219,7 +222,7 @@ def validate_source(episode, config):
         used_family.update(set(visible + offscreen) & FAMILY)
         require(f['Location'] in config['locations'], f'SHOT_{number}: unknown location')
         locations.add(f['Location'])
-        require(1 <= len(shot['dialogue']) <= 3, f'SHOT_{number}: expected 1–3 dialogue turns')
+        require(4 <= len(shot['dialogue']) <= 6, f'SHOT_{number}: expected 4–6 spoken beats')
         require(all(name in visible + offscreen for name, _ in shot['dialogue']),
                 f'SHOT_{number}: speaker absent from visible/off-screen cast')
         words = sum(len(line.split()) for _, line in shot['dialogue'])
@@ -363,6 +366,8 @@ def build(episode, config=None):
     subtitles, cue = [], 0
     for shot, beat in zip(story, titles):
         f = shot['fields']
+        windows = cue_windows(shot['dialogue'])
+        delivery = performance_note(shot['dialogue'], windows)
         interval = f'{timestamp(shot["begin"])}–{timestamp(shot["end"])}'
         prompts.extend([f'## SHOT_{shot["id"]} | {interval} | {beat}', '',
                         f'**Characters:** {f["Visible cast"]}. **Location:** {f["Location"]}. **Wardrobe:** W01 only.'])
@@ -371,17 +376,13 @@ def build(episode, config=None):
         for key, label in PROMPT_FIELDS.items():
             if key not in {'Visible cast', 'Location'}:
                 prompts.append(f'**{label}:** {f[key]}')
-        prompts.extend(['', '**Dialogue:**', *[f'**{name}:** {line}  ' for name, line in shot['dialogue']], ''])
-        durations = [max(1800, len(line.split()) * 430 + 250) for _, line in shot['dialogue']]
-        available = 14000 - 250 * (len(durations) - 1)
-        scale = min(1, available / sum(durations))
-        cursor = shot['begin'] + 500
-        for (_, line), duration in zip(shot['dialogue'], durations):
+        prompts.extend(['', delivery, '', '**Dialogue:**', '\n\n'.join(f'**{name}:** {line}' for name, line in shot['dialogue']), ''])
+        for (_, line), (begin, finish) in zip(shot['dialogue'], windows):
             cue += 1
-            end = cursor + int(duration * scale)
+            cursor = shot['begin'] + begin
+            end = shot['begin'] + finish
             subtitles.extend([str(cue), f'{timestamp(cursor, True)} --> {timestamp(end, True)}',
                               *textwrap.wrap(line, width=46, break_long_words=False, break_on_hyphens=False), ''])
-            cursor = end + 250
     index = [f'# Episode {number:02} — storyboard index', '',
              'Twenty four-panel sheet slots map all 80 story shots. Generated images are composition drafts; '
              'creator approval and individual motion first frames remain pending. '

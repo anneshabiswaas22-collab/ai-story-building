@@ -1,0 +1,104 @@
+{
+  "episode": 4,
+  "board": 9,
+  "path": "Episode_04/assets/storyboards/BOARD_09.png",
+  "parent_commit": "86d76b5759618137d8f7af473234c3a3d3dad1c0",
+  "parent_sha256": "f16b7a1d5287a10ddfb3630849d233385bfc38a5bee42d7fe4cef98b956174eb",
+  "selected_sha256": "da2055f20423ab91e1c7df80246b54b78cdd474b4e429099480745beff498449",
+  "parent_size": [
+    1672,
+    941
+  ],
+  "selected_size": [
+    1672,
+    941
+  ],
+  "generated_source": "Episode_04/assets/storyboards/BOARD_09.png",
+  "method": "Selected panels from a referenced ImageGen edit were assembled into the previous sheet. The other panel rectangles match the parent pixels exactly.",
+  "request": "Repair the real selected four-panel storyboard in reference one. The second reference is the original classic 3D family cast, the remaining images are the actual locations, continuity and prior visual material. Keep exact shot number badges, relative heights, original skin tone, hair, clothes and premium feature-animation style. Never move a face or swap costumes between speakers. Dan sky-blue polo, dark MUSTACHE and left-wrist watch; adult Maya plum with ponytail; adult Nina teal with wavy auburn bob; older boy Leo orange; braided Ella in coral and full denim overalls; youngest small Max green. Use exactly the four numbered frames in a 2x2 landscape grid at source aspect, with panel shots in order, and preserve successful frames. 033 and 034 stay visually unchanged for original pixel pickup. 035 Nina steadies the young child Max by his opposite hand, one WHITE SOCKED foot rests on a narrow silver child-length measuring device, other WHITE SOCKED foot flat on the bare shop floor and unmistakably clear of device. Two original green sneakers together under the bench. Nobody wears the sneakers. Dan watches; no second device. 036 keep Maya holding one navy school shoe (not a pair). Crisp visible crossing WHITE threaded LACES, a WHITE midsole and narrow GREEN rear heel pull tab. Leo studies the box size label; little Max points excitedly. Keep established light oak shoe shop bench, warm shelving and original 2x2 perspective.\nSHOT_033 visible cast NINA, MAX, DAN; location SHOE_FITTING. Beat: Nina reads the device instructions and asks the off-screen assistant for help; Dan leaves the measuring device in place. End: Assistant has agreed to guide measurement; no unsupported size guess written.. Previous finding: Nina shows device instruction sheet; Max seated in green shoes, Dan keeps clear.; correction: Check fine likeness, occlusion and exact details against identity masters before motion..\nSHOT_034 visible cast NINA, MAX, ELLA; location SHOE_FITTING. Beat: Max removes his original green sneakers with Nina's help; Ella places them together directly under his bench, away from the walking strip. End: Max seated in clean white socks; two green old sneakers paired under bench.. Previous finding: Nina removes one green shoe and Ella arranges its mate on floor; no third shoe.; correction: Check fine likeness, occlusion and exact details against identity masters before motion..\nSHOT_035 visible cast NINA, MAX, DAN; location SHOE_FITTING. Beat: Following assistant guidance off-screen, Nina helps Max stand safely on the measuring device one foot at a time, then reseat. End: Both feet measured; Max reseated; device returned beside bench; recommended starting size US kids 2.. Previous finding: Both socked feet stand on measuring device at once instead of one at a time.; correction: Leave one foot on device and one on floor; retain green pair below bench..\nSHOT_036 visible cast MAX, MAYA, LEO; location SHOE_FITTING. Beat: Maya shows Max a navy school-shoe model with white sole and green pull tab; Leo checks the same model's size labels. End: Max chooses navy style to try; no purchase decision yet.. Previous finding: Maya shows navy specimen with dark laces rather than specified white.; correction: Match white laces on later fitting panels; retain white sole and green tab..",
+  "qa_updates": {
+    "SHOT_033": {
+      "observed": "Nina shows device instruction sheet; Max seated in green shoes, Dan keeps clear.",
+      "severity": "unrated",
+      "correction": "Check fine likeness, occlusion and exact details against identity masters before motion.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_034": {
+      "observed": "Nina removes one green shoe and Ella arranges its mate on floor; no third shoe.",
+      "severity": "unrated",
+      "correction": "Check fine likeness, occlusion and exact details against identity masters before motion.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_035": {
+      "observed": "Max stands with one socked foot on the narrow ruler and the other on the bare floor. Nina steadies his hand and the two green sneakers are paired under the bench.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_036": {
+      "observed": "Maya presents the navy model with white crossing laces, white sole and green heel tab. Max points while Leo examines its box.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    }
+  },
+  "generated_source_sha256": "2854cda6d528694b6b97d1bc9e2d67abf6bd121f3589a71e11ade5d608756493",
+  "generated_source_size": [
+    1672,
+    941
+  ],
+  "selected_panels": [
+    3,
+    4
+  ],
+  "preserved_panels": [
+    1,
+    2
+  ],
+  "selected_rectangles_xyxy": [
+    [
+      0,
+      470,
+      836,
+      941
+    ],
+    [
+      836,
+      470,
+      1672,
+      941
+    ]
+  ],
+  "image_inputs": {
+    "selected_sheet": {
+      "path": "Episode_04/assets/storyboards/BOARD_09.png",
+      "sha256": "f16b7a1d5287a10ddfb3630849d233385bfc38a5bee42d7fe4cef98b956174eb"
+    },
+    "cast_contact_sheet": {
+      "sha256": "ee132e6bb6535a21dc45a3bed61516cfd1e2c5ff9eeb35c596d1324c1079193f",
+      "original_previews": "Episode_04/assets/characters"
+    },
+    "additional_reference": {
+      "sha256": "c5b26aceb44750684436e0e96fe3c1b65ccc5c6893c732bdbdee160cf0ad9b36",
+      "sources": [
+        "Episode_04/assets/environments/SHOE_FITTING.png",
+        "Episode_04/assets/storyboards/BOARD_10.png",
+        "Episode_04/assets/overlays/SHOE_LABELS.svg",
+        "Episode_04/assets/storyboards/BOARD_08.png"
+      ]
+    }
+  },
+  "detail_edit": {
+    "localized_pickup": {
+      "crop": "836x471+0+470",
+      "prompt": "Fix THIS ONE SHOT_035. The little boy is currently incorrectly standing with two feet together on a broad metal platform. Change his pose to a CLEARLY WIDE, shoulder-width stance. His foot on image LEFT in a white sock rests in a very narrow foot-shaped metal Brannock kid shoe ruler. His other white-socked foot stands a full 25 centimeters to its RIGHT on bare brown shop FLOOR. Put an unbroken visible area of brown floor between the two feet. The device is small enough to hold only one foot, 8 cm wide, like a very narrow small silver sandal with a heel cup, no high pole or wide raised platform. His green sneakers are both OFF and neatly under green bench on the left and never under the measuring foot. Nina teal crouches to steady Max's hand; father Dan in blue with mustache watches. Keep same faces and full-body shop framing. No diagrams or extra feet. One frame, same SHOT_035 badge.",
+      "sha256": "5b08b6a02ee13962bebb02dd7851361d26cb8c2a5fc26fa0d1670aaf8a73c94c"
+    },
+    "generation_reference_hashes": [
+      {
+        "purpose": "Scene and continuity reference",
+        "sha256": "c5b26aceb44750684436e0e96fe3c1b65ccc5c6893c732bdbdee160cf0ad9b36"
+      }
+    ]
+  }
+}

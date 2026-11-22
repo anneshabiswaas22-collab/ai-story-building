@@ -50,6 +50,8 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **MAX:** Can shoes be too ripe?
 
+**MAYA:** Only if they start smelling like bananas. Let's try feet.
+
 ### SHOT_002 | 00:00:15–00:00:30 | The person inside them
 
 **Visible cast:** NINA, MAX, ELLA
@@ -76,6 +78,8 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **ELLA:** They live there all day.
 
+**MAX:** Mine would like room to move at recess, too.
+
 ### SHOT_003 | 00:00:30–00:00:45 | One clear plan
 
 **Visible cast:** LEO, NINA, DAN
@@ -99,6 +103,10 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 **LEO:** One pair, comfortable fit, forty-dollar budget.
 
 **DAN:** Three checks. I can share those.
+
+**NINA:** What goes at the top of the list?
+
+**LEO:** Fit first. Max has to wear them all day.
 
 ### SHOT_004 | 00:00:45–00:01:00 | Check without guessing
 
@@ -126,6 +134,8 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **MAYA:** We will measure both feet at the store.
 
+**MAX:** Both? My toes aren't arguing about it.
+
 ### SHOT_005 | 00:01:00–00:01:15 | Six people leaving
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX
@@ -152,6 +162,8 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **MAX:** And twelve feet. I checked the easy way.
 
+**DAN:** Thanks, Max. I'll count the people and trust your feet.
+
 ### SHOT_006 | 00:01:15–00:01:30 | The right pocket
 
 **Visible cast:** DAN, LEO
@@ -175,6 +187,10 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 **LEO:** Is the list facing the right way?
 
 **DAN:** It will when I open it. An improvement already.
+
+**LEO:** Can I take a look when you open it?
+
+**DAN:** Please do. Two sets of eyes this time.
 
 ### SHOT_007 | 00:01:30–00:01:45 | Comfort is not a race
 
@@ -202,6 +218,8 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **MAX:** My toes appreciate the schedule.
 
+**MAYA:** You get to tell us when a pair feels right.
+
 ### SHOT_008 | 00:01:45–00:02:00 | The mall trip begins
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX
@@ -228,6 +246,8 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **MAX:** And our feet are coming too.
 
+**LEO:** Lucky for us. They know how to get to the door.
+
 ### SHOT_009 | 00:02:00–00:02:15 | Doors and directions
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX
@@ -251,6 +271,10 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 **LEO:** The shoe store is on this floor.
 
 **DAN:** Excellent. Our feet can start locally.
+
+**NINA:** Which way does the directory point?
+
+**LEO:** Along this floor. No stairs for us.
 
 ### SHOT_010 | 00:02:15–00:02:30 | A moving staircase
 
@@ -278,6 +302,8 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **MAX:** Our stairs at home are taking a break.
 
+**DAN:** Saves them a trip. We're staying on this floor anyway.
+
 ### SHOT_011 | 00:02:30–00:02:45 | Another way upstairs
 
 **Visible cast:** MAYA, ELLA, LEO
@@ -303,6 +329,8 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 **ELLA:** And the store is over here.
 
 **LEO:** Then upstairs can wait.
+
+**ELLA:** Good. I'd rather try shoes than ride past the store.
 
 ### SHOT_012 | 00:02:45–00:03:00 | Take a small map
 
@@ -330,6 +358,8 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **LEO:** First we find where we are.
 
+**MAX:** I know that part. They're right under me.
+
 ### SHOT_013 | 00:03:00–00:03:15 | Landmarks agree
 
 **Visible cast:** NINA, ELLA, DAN
@@ -353,6 +383,10 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 **NINA:** Entrance behind us, shoe store to our right.
 
 **DAN:** The map and the mall agree. Promising.
+
+**ELLA:** Look at the sign beside the door.
+
+**NINA:** That's our shop. We can put the map away soon.
 
 ### SHOT_014 | 00:03:15–00:03:30 | The store window
 
@@ -378,6 +412,10 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **MAX:** A small waiting room for feet.
 
+**ELLA:** And somewhere to sit while we try a pair.
+
+**DAN:** I hope the bench comes in my size.
+
 ### SHOT_015 | 00:03:30–00:03:45 | Ask for a seat
 
 **Visible cast:** DAN, NINA, MAX
@@ -402,6 +440,10 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **DAN:** Comfortable bench. The shoes have strong competition.
 
+**MAX:** Can my feet try the bench first?
+
+**NINA:** Yes. They get the first turn today.
+
 ### SHOT_016 | 00:03:45–00:04:00 | Two boxes nearby
 
 **Visible cast:** DAN, LEO, ELLA
@@ -425,6 +467,10 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 **LEO:** That box says adult size ten.
 
 **DAN:** Then it is definitely not Max's.
+
+**ELLA:** Who's doing the shopping today, then?
+
+**DAN:** Max is. My feet can stay in my shoes.
 
 ### SHOT_017 | 00:04:00–00:04:15 | An overconfident comparison
 
@@ -452,6 +498,8 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **DAN:** A useful historical warning.
 
+**MAX:** Please remember which feet came with me today, Dad.
+
 ### SHOT_018 | 00:04:15–00:04:30 | The wrong shoe joke
 
 **Visible cast:** DAN, MAX, ELLA
@@ -478,6 +526,8 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **ELLA:** Check the box before the joke becomes work.
 
+**MAX:** I can tell without trying. That one's smaller than your sock.
+
 ### SHOT_019 | 00:04:30–00:04:45 | Nothing gets forced
 
 **Visible cast:** MAYA, DAN, LEO
@@ -501,6 +551,10 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 **MAYA:** We will not force a foot into anything.
 
 **DAN:** Agreed. No shoes were harmed by my confidence.
+
+**LEO:** Whose foot are we measuring today?
+
+**DAN:** Max's. My foot is officially off duty.
 
 ### SHOT_020 | 00:04:45–00:05:00 | Return and measure first
 
@@ -528,6 +582,8 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **DAN:** A sensible order.
 
+**MAX:** Come on, Dad. They're both right here with me.
+
 ### SHOT_021 | 00:05:00–00:05:15 | The little arrow
 
 **Visible cast:** DAN, LEO
@@ -553,6 +609,8 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 **LEO:** Is that map upside down?
 
 **DAN:** I may have rotated the whole mall.
+
+**LEO:** Turn the paper first. It's lighter than the building.
 
 ### SHOT_022 | 00:05:15–00:05:30 | Together, not wandering
 
@@ -580,6 +638,8 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **MAX:** My feet vote for the group.
 
+**ELLA:** I'll keep the real signs in sight while you check.
+
 ### SHOT_023 | 00:05:30–00:05:45 | The wrong direction stops
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX
@@ -606,6 +666,8 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **LEO:** That is worth checking.
 
+**DAN:** A sign behind us beats a guess in front of us.
+
 ### SHOT_024 | 00:05:45–00:06:00 | Not every room fits
 
 **Visible cast:** NINA, DAN, MAX
@@ -629,6 +691,10 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 **NINA:** Shoes often have a fitting area, not a changing room.
 
 **DAN:** I asked my map the wrong question.
+
+**MAX:** What should we ask instead?
+
+**NINA:** Where they measure feet and let us try shoes.
 
 ### SHOT_025 | 00:06:00–00:06:15 | A familiar hello
 
@@ -656,6 +722,8 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **DAN:** Better directions, apparently.
 
+**ROSE:** Directions I can help with. What were you trying to find?
+
 ### SHOT_026 | 00:06:15–00:06:30 | One useful question
 
 **Visible cast:** ROSE, DAN, LEO
@@ -681,6 +749,8 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 **ROSE:** Which entrance did you use?
 
 **LEO:** The glass doors beside the directory.
+
+**DAN:** We came from there. Which side should we be on?
 
 ### SHOT_027 | 00:06:30–00:06:45 | Turn the map, not the family
 
@@ -708,6 +778,8 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **ROSE:** Very considerate of it.
 
+**LEO:** It's easier when the doors on both match, Dad.
+
 ### SHOT_028 | 00:06:45–00:07:00 | The bench was the clue
 
 **Visible cast:** ROSE, ELLA, NINA
@@ -733,6 +805,8 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 **ELLA:** Our bench!
 
 **NINA:** Then we can ask about measuring there.
+
+**ELLA:** So we were closer than that map made us think.
 
 ### SHOT_029 | 00:07:00–00:07:15 | A short family update
 
@@ -760,6 +834,8 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **ROSE:** Then the smallest customer gets the biggest say.
 
+**MAX:** Good. Mine have plenty to say about school shoes.
+
 ### SHOT_030 | 00:07:15–00:07:30 | Rose goes her own way
 
 **Visible cast:** ROSE, MAYA, DAN
@@ -785,6 +861,8 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 **MAYA:** Thanks, Rose.
 
 **DAN:** We will check the actual feet next.
+
+**ROSE:** Give those toes a vote for me, Max.
 
 ### SHOT_031 | 00:07:30–00:07:45 | Read the real sign
 
@@ -812,6 +890,8 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **ELLA:** And the question matches the job.
 
+**DAN:** This time I'll ask somebody who works with feet.
+
 ### SHOT_032 | 00:07:45–00:08:00 | Back without shortcuts
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX
@@ -835,6 +915,10 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 **MAX:** The bench waited for us.
 
 **DAN:** Very patient furniture. Let us be patient too.
+
+**NINA:** Max, do you want to start here?
+
+**MAX:** Yes. My feet have been looking forward to that bench.
 
 ### SHOT_033 | 00:08:00–00:08:15 | Ask before using
 
@@ -864,6 +948,8 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **DAN:** We can do that.
 
+**MAX:** I'll sit still. My toes might have questions, though.
+
 ### SHOT_034 | 00:08:15–00:08:30 | One old pair stays together
 
 **Visible cast:** NINA, MAX, ELLA
@@ -889,6 +975,8 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 **ELLA:** We will keep them together.
 
 **NINA:** And out of the walkway.
+
+**MAX:** My old shoes can watch. They've done enough walking.
 
 ### SHOT_035 | 00:08:30–00:08:45 | Both feet, one answer
 
@@ -916,6 +1004,10 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **DAN:** Measurement first. My toes approve too.
 
+**NINA:** What do you think, Max?
+
+**MAX:** I want to see how the twos feel.
+
 ### SHOT_036 | 00:08:45–00:09:00 | A style he likes
 
 **Visible cast:** MAX, MAYA, LEO
@@ -941,6 +1033,8 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 **MAX:** Yes. The green tabs can be tiny flags.
 
 **LEO:** Comfort still gets a vote.
+
+**MAX:** My toes can tell us once both shoes are on.
 
 ### SHOT_037 | 00:09:00–00:09:15 | The nearby size
 
@@ -968,6 +1062,8 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **MAX:** My feet like honest introductions.
 
+**DAN:** Good. I'll wait for the customer's actual opinion.
+
 ### SHOT_038 | 00:09:15–00:09:30 | A brief tight fit
 
 **Visible cast:** NINA, MAX, MAYA
@@ -993,6 +1089,8 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 **NINA:** Then we stop.
 
 **MAYA:** You do not have to get used to pain.
+
+**MAX:** Thanks. That's exactly the part I'd like to skip.
 
 ### SHOT_039 | 00:09:30–00:09:45 | Listen and remove
 
@@ -1020,6 +1118,8 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **NINA:** We listened.
 
+**DAN:** Let's remember that feeling when we compare the next size.
+
 ### SHOT_040 | 00:09:45–00:10:00 | The other extreme
 
 **Visible cast:** DAN, LEO, ELLA
@@ -1043,6 +1143,10 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 **LEO:** We measured two. Three may be loose.
 
 **DAN:** A comparison, then back to the measured size.
+
+**ELLA:** Should we call it right before he tries it?
+
+**LEO:** Let's hear from Max's heel first.
 
 ### SHOT_041 | 00:10:00–00:10:15 | Loose is information
 
@@ -1070,6 +1174,8 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **NINA:** Yes. Loose is different from comfortable.
 
+**MAX:** I can feel it every time I lift my heel.
+
 ### SHOT_042 | 00:10:15–00:10:30 | Return the loose pair
 
 **Visible cast:** NINA, DAN, MAX
@@ -1093,6 +1199,10 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 **DAN:** Not tight, not swimming. We need a good fit.
 
 **MAX:** My feet are not boats.
+
+**NINA:** What should your heel do instead?
+
+**MAX:** Stay with me when I take a step.
 
 ### SHOT_043 | 00:10:30–00:10:45 | The measured size arrives
 
@@ -1122,6 +1232,8 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **DAN:** Now we check how it feels.
 
+**MAX:** The number matches. My toes get the final say.
+
 ### SHOT_044 | 00:10:45–00:11:00 | Make space gently
 
 **Visible cast:** NINA, MAX, MAYA
@@ -1145,6 +1257,10 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 **NINA:** No pushing. Tell me if anything pinches.
 
 **MAX:** So far, my toes are staying cheerful.
+
+**MAYA:** What about the other side?
+
+**MAX:** Give me a second. I want to feel both.
 
 ### SHOT_045 | 00:11:00–00:11:15 | Secure, not squeezed
 
@@ -1172,6 +1288,8 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **NINA:** And the heel feels secure?
 
+**MAX:** Yes. It stays put when I move my foot.
+
 ### SHOT_046 | 00:11:15–00:11:30 | His answer matters
 
 **Visible cast:** MAX, MAYA, ELLA
@@ -1198,6 +1316,8 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **ELLA:** Two useful answers.
 
+**MAYA:** And I'll take those answers over a number on a box.
+
 ### SHOT_047 | 00:11:30–00:11:45 | Stand before deciding
 
 **Visible cast:** NINA, MAX, DAN
@@ -1221,6 +1341,10 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 **NINA:** Stand naturally. No need to pose.
 
 **DAN:** The shoes are applying for an everyday job.
+
+**MAX:** Even on a day when I run at recess?
+
+**NINA:** That's why we want to see you stand normally.
 
 ### SHOT_048 | 00:11:45–00:12:00 | A short walking test
 
@@ -1248,6 +1372,8 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **NINA:** How does the sole feel?
 
+**MAX:** Steady. I can feel the floor without a hard edge.
+
 ### SHOT_049 | 00:12:00–00:12:15 | The mirror is not the judge
 
 **Visible cast:** MAX, MAYA, DAN
@@ -1274,6 +1400,8 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **MAX:** Yes. My feet agree with the mirror.
 
+**DAN:** The mirror doesn't get to make the choice for you.
+
 ### SHOT_050 | 00:12:15–00:12:30 | One more careful check
 
 **Visible cast:** NINA, MAX, ELLA
@@ -1297,6 +1425,10 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 **NINA:** There is room at the toes and support at the heel.
 
 **ELLA:** The size is a clue, not the whole answer.
+
+**MAX:** My heel stays with me now.
+
+**NINA:** Good. Trust your feet first.
 
 ### SHOT_051 | 00:12:30–00:12:45 | Ask the price plainly
 
@@ -1326,6 +1458,8 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **LEO:** That leaves eight dollars in our budget.
 
+**MAX:** And I can wear them to school without sore toes.
+
 ### SHOT_052 | 00:12:45–00:13:00 | No extra pair required
 
 **Visible cast:** DAN, MAYA, MAX
@@ -1352,6 +1486,8 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **MAX:** My feet have already voted.
 
+**DAN:** Fair enough. The list doesn't need a pair of shoes.
+
 ### SHOT_053 | 00:13:00–00:13:15 | Take off the trial pair
 
 **Visible cast:** NINA, MAX, ELLA
@@ -1375,6 +1511,10 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 **NINA:** We will keep the new pair boxed for school.
 
 **MAX:** They can rest before their first day.
+
+**ELLA:** What will you walk home in?
+
+**MAX:** My own green ones. I know how those feel.
 
 ### SHOT_054 | 00:13:15–00:13:30 | Old shoes return to work
 
@@ -1400,6 +1540,10 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **MAX:** They know the route. Better than our first map.
 
+**NINA:** Which pair is in the box then?
+
+**MAX:** The navy pair, saving its steps for school.
+
 ### SHOT_055 | 00:13:30–00:13:45 | Only the right box
 
 **Visible cast:** LEO, DAN, ELLA
@@ -1423,6 +1567,10 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 **LEO:** Two shoes, both size two, one matching box.
 
 **DAN:** My most successful box inspection.
+
+**ELLA:** Matching green tabs, too. That's the pair Max chose.
+
+**DAN:** Good. Let's keep those two together.
 
 ### SHOT_056 | 00:13:45–00:14:00 | Ready for the cashier
 
@@ -1449,6 +1597,8 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 **MAX:** Except the shoes that did not fit.
 
 **NINA:** Those stay with the store.
+
+**LEO:** And our one good pair stays together in its box.
 
 ### SHOT_057 | 00:14:00–00:14:15 | The pair on the counter
 
@@ -1478,6 +1628,10 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **DAN:** The comfortable one.
 
+**LEO:** That's the size we checked on both shoes.
+
+**MAX:** And it's the one my heel liked.
+
 ### SHOT_058 | 00:14:15–00:14:30 | One final look
 
 **Visible cast:** NINA, MAX, DAN
@@ -1504,6 +1658,10 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **DAN:** Excellent references.
 
+**MAX:** You can ask my heels. They finally stayed put.
+
+**NINA:** Then we can put this pair through checkout.
+
 ### SHOT_059 | 00:14:30–00:14:45 | Forty is enough
 
 **Visible cast:** DAN, LEO
@@ -1527,6 +1685,10 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 **LEO:** Thirty-two dollars total.
 
 **DAN:** Two twenties make forty. This number gets a second check.
+
+**LEO:** How much should come back?
+
+**DAN:** Eight dollars, if our total's right.
 
 ### SHOT_060 | 00:14:45–00:15:00 | Payment stays visible
 
@@ -1553,6 +1715,8 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 **MAX:** The shoes are going to school, not the money.
 
 **DAN:** The money stays here.
+
+**MAX:** Only thirty-two stays, Dad. The rest comes back.
 
 ### SHOT_061 | 00:15:00–00:15:15 | Eight dollars back
 
@@ -1582,6 +1746,8 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **MAX:** No shirt change needed.
 
+**DAN:** I'll take this kind of change any day, Max.
+
 ### SHOT_062 | 00:15:15–00:15:30 | Budget and cash agree
 
 **Visible cast:** MAYA, NINA, LEO
@@ -1608,6 +1774,8 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **LEO:** Same amount, two different reasons.
 
+**MAYA:** Right. One starts with our limit, one with the bills.
+
 ### SHOT_063 | 00:15:30–00:15:45 | Keep the receipt
 
 **Visible cast:** DAN, ELLA, MAX
@@ -1633,6 +1801,8 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 **MAX:** My toes could testify too.
 
 **DAN:** The paper is easier to file.
+
+**ELLA:** And the paper actually fits in Dad's wallet.
 
 ### SHOT_064 | 00:15:45–00:16:00 | Ask about returning
 
@@ -1662,6 +1832,8 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **NINA:** We will keep everything together.
 
+**MAX:** Good. We know exactly which box goes with them.
+
 ### SHOT_065 | 00:16:00–00:16:15 | A policy is not a refund
 
 **Visible cast:** MAX, MAYA, DAN
@@ -1687,6 +1859,8 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 **MAYA:** It is money returned after an accepted return.
 
 **DAN:** Today we are keeping our comfortable pair.
+
+**MAX:** Then my toes can skip the paperwork today.
 
 ### SHOT_066 | 00:16:15–00:16:30 | One bag, one purchase
 
@@ -1716,6 +1890,8 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **ELLA:** The right pair found the right family.
 
+**NINA:** One box is just right. Thank you for listening to Max.
+
 ### SHOT_067 | 00:16:30–00:16:45 | Check the group again
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX
@@ -1741,6 +1917,8 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 **MAX:** Twelve feet, still accounted for.
 
 **DAN:** A complete inventory.
+
+**LEO:** And the new ones are riding home in their box.
 
 ### SHOT_068 | 00:16:45–00:17:00 | A careful carry
 
@@ -1768,6 +1946,8 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **NINA:** Then let us check the way home.
 
+**MAX:** This time can we ask before the mall turns around?
+
 ### SHOT_069 | 00:17:00–00:17:15 | The correct exit
 
 **Visible cast:** DAN, LEO, ELLA
@@ -1793,6 +1973,8 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 **LEO:** Yes, and so do the doors.
 
 **ELLA:** A strong majority.
+
+**DAN:** After that detour, I'm happy to take a vote.
 
 ### SHOT_070 | 00:17:15–00:17:30 | The escalator can wait
 
@@ -1820,6 +2002,8 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **MAYA:** The straight path takes us home.
 
+**MAX:** Good. My old shoes know how to go straight.
+
 ### SHOT_071 | 00:17:30–00:17:45 | Check, then fold
 
 **Visible cast:** DAN, LEO, MAX
@@ -1846,6 +2030,8 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **MAX:** The mall did not need rotating again.
 
+**LEO:** It's easier when the doors stay on the same side.
+
 ### SHOT_072 | 00:17:45–00:18:00 | Out through the same doors
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX
@@ -1869,6 +2055,10 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 **MAYA:** How do your feet feel?
 
 **MAX:** Ready for home. And ready for the new pair later.
+
+**NINA:** Shall we head out together?
+
+**MAX:** Yes, and the boxed pair comes too.
 
 ### SHOT_073 | 00:18:00–00:18:15 | Home, same kitchen
 
@@ -1896,6 +2086,8 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **MAX:** My feet enjoyed the second plan.
 
+**DAN:** I think the box had the easiest walk of all.
+
 ### SHOT_074 | 00:18:15–00:18:30 | A clean place for shoes
 
 **Visible cast:** MAYA, DAN, LEO
@@ -1921,6 +2113,8 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 **DAN:** Right place, right purpose.
 
 **LEO:** Another map we can understand.
+
+**DAN:** The bench near the door suits this box just fine.
 
 ### SHOT_075 | 00:18:30–00:18:45 | Proof of the pair
 
@@ -1948,6 +2142,8 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **DAN:** No upside-down filing.
 
+**ELLA:** Good. Paper stays dry and the toes stay clean.
+
 ### SHOT_076 | 00:18:45–00:19:00 | The customer reports
 
 **Visible cast:** MAX, MAYA, NINA
@@ -1973,6 +2169,8 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 **MAYA:** You explained what you felt.
 
 **NINA:** That helped us choose.
+
+**MAX:** Next time I can tell you before we even look in the mirror.
 
 ### SHOT_077 | 00:19:00–00:19:15 | The joke finds its limit
 
@@ -2000,6 +2198,8 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **ELLA:** The small pair thanks you.
 
+**DAN:** Let them know they're safe. These brown ones are mine.
+
 ### SHOT_078 | 00:19:15–00:19:30 | A different picnic plan
 
 **Visible cast:** MAYA, NINA, MAX
@@ -2025,6 +2225,8 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 **NINA:** With one clear meeting place.
 
 **MAX:** Can the bench have a name?
+
+**NINA:** We can give it a landmark so we'll know it.
 
 ### SHOT_079 | 00:19:30–00:19:45 | Everyone helped
 
@@ -2052,6 +2254,8 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **NINA:** That is a good fit for this family.
 
+**MAX:** Everybody heard the bit about my heel. That helped.
+
 ### SHOT_080 | 00:19:45–00:20:00 | One family, the right fit
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX
@@ -2075,3 +2279,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 **MAX:** My new shoes have a box. Our plan has directions.
 
 **DAN:** And our team has excellent ears.
+
+**MAYA:** Which pair's on your feet right now?
+
+**MAX:** My old green ones. Listen to them squeak!

@@ -1,0 +1,66 @@
+{
+  "episode": 4,
+  "board": 19,
+  "path": "Episode_04/assets/storyboards/BOARD_19.png",
+  "parent_commit": "656e7c8dd335ec001920a61a7dd8b6a1a24a85da",
+  "parent_sha256": "d70440c0a00313f4ff724666f6b32820280d3c3f080e36023250bff0feea066e",
+  "selected_sha256": "700b124cc58e61b931e2e31cf1a7ef91d2db6d80fd0568a59b861ed01fbeddb2",
+  "parent_size": [
+    1672,
+    941
+  ],
+  "selected_size": [
+    1672,
+    941
+  ],
+  "generated_source": "Episode_04/assets/storyboards/BOARD_19.png",
+  "method": "Selected panels from a referenced ImageGen edit were assembled into the previous sheet. The other panel rectangles match the parent pixels exactly.",
+  "request": "Edit the first input image, the selected storyboard. Preserve the existing four landscape panel positions in a 2×2 grid, exact original numbered SHOT_ badges, original palette/compositions and actor likeness. The second input is original family visual reference. Dan blue / left watch, Maya plum with ponytail, Nina teal auburn waves, Leo orange, braided Ella in denim overalls, small Max green. A third reference supplies setting or continuity. In every panel actors and props must follow its specified shot precisely. Keep good panels intact. Apply the following specific changes in the artwork. Very selective edit ONLY to SHOT_075 bottom LEFT. Preserve Dan in blue at original scale, Ella's long braided hair and overalls and Nina in teal as they file a paper shopping receipt into the BLUE FAMILY FOLDER. The wallet physically contains the $8 change as an ordinary US FIVE and three ONES. SHOW ONLY THE PLAIN EDGES of the bill bundle deeply INSIDE the brown wallet pouch. Absolutely no exposed digits, symbols or printed face values in the wallet; no currency in anybody's hands or on counter, no eight-dollar bill. Dan transfers only the pale receipt into blue folder. Keep the distinctive existing receipt and blue folder. All four badges and the three previously correct panels retain the source layout.\nSHOT_073 shows only DAN, NINA, MAX in HOME_KITCHEN. After the travel ellipsis Dan sets the single shopping bag on the clear island; Max stands beside Nina in his original green shoes. End: One bag on island; no shoes on food-preparation surfaces yet because box remains closed. Preserve this shot as it stands.\nSHOT_074 shows only MAYA, DAN, LEO in HOME_KITCHEN. Maya points to a clean low household shoe-storage bench just outside the kitchen doorway; Dan moves the still-bagged box there. End: Bagged box on shoe-storage bench outside kitchen; island clear again. Preserve this shot as it stands.\nSHOT_075 shows only DAN, NINA, ELLA in HOME_KITCHEN. Dan retrieves only the receipt from his right-pocketed wallet and puts it in the family's blue document folder, leaving $8 inside the wallet. End: Receipt in blue folder; $8 remains walleted; wallet returned right; folder closed. Existing artwork error: Lower left shows Dan filing only the receipt beside Nina and Ella. The wallet art erroneously suggests an eight-dollar banknote. Fix: Obscure printed dollar denominations inside the wallet; the $8 change consists of ordinary bills.\nSHOT_076 shows only MAX, MAYA, NINA in HOME_KITCHEN. Max describes the tight, loose and comfortable trials with empty hands; both adults listen without turning it into a quiz. End: Max feels heard; no trial stock or spare shoes appear at home. Preserve this shot as it stands.",
+  "qa_updates": {
+    "SHOT_073": {
+      "observed": "Upper left shows Dan, Nina and Max in the kitchen, the cream-and-teal shopping bag on the island and Max in green shoes on the floor.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_074": {
+      "observed": "Upper right shows Maya directing Dan to the doorway bench with Leo watching; the closed box is in the single striped bag above empty cubbies.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_075": {
+      "observed": "Dan puts the receipt into the blue folder in front of Nina and Ella. Only the plain edges of folded notes show inside the wallet; no bill leaves it.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_076": {
+      "observed": "Lower right shows Max in his green shoes gesturing with empty hands, Maya and Nina listening. The bag is on the doorway bench.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    }
+  },
+  "generated_source_sha256": "c8fa4f26b2c49509fa45b8a3b0237ca139e0b7b1776d66d94d65c394cc7192c7",
+  "generated_source_size": [
+    1671,
+    941
+  ],
+  "selected_panels": [
+    3
+  ],
+  "preserved_panels": [
+    1,
+    2,
+    4
+  ],
+  "selected_rectangles_xyxy": [
+    [
+      0,
+      470,
+      836,
+      941
+    ]
+  ]
+}

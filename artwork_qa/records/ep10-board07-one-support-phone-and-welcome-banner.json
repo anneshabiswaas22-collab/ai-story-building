@@ -1,0 +1,74 @@
+{
+  "episode": 10,
+  "board": 7,
+  "path": "Episode_10/assets/storyboards/BOARD_07.png",
+  "parent_commit": "9b97e70372975c9eb025f16899d067c518589f45",
+  "parent_sha256": "c9e639b84e2046c3cb2436822dff76b0bf1a4eca39873311d4fc77a305314545",
+  "selected_sha256": "63554994d6a5a9b163c29d8976808ed82e5aa3d6a2b1a0bca254365f9f578fc1",
+  "parent_size": [
+    1672,
+    941
+  ],
+  "selected_size": [
+    1672,
+    941
+  ],
+  "generated_source": "Episode_10/assets/storyboards/BOARD_07.png",
+  "method": "The referenced ImageGen sheet and a localized generated detail were assembled. The detail-edit record identifies their hashes and placement.",
+  "request": "Repair the real selected four-panel storyboard in reference one. The second reference is the original classic 3D family cast, the remaining images are the actual locations, continuity and prior visual material. Keep exact shot number badges, relative heights, original skin tone, hair, clothes and premium feature-animation style. Never move a face or swap costumes between speakers. Dan sky-blue polo, dark MUSTACHE and left-wrist watch; adult Maya plum with ponytail; adult Nina teal with wavy auburn bob; older boy Leo orange; braided Ella in coral and full denim overalls; youngest small Max green. Use exactly the four numbered frames in a 2x2 landscape grid at source aspect, with panel shots in order, and preserve successful frames. 025: exactly one black smartphone overall, lying on wood counter between the speakers, its screen upward. Dan holds his bare right index finger hovering above it without touching; both hands belonging to Nina visible and empty, with one index indicating the support link on that very same screen. Leo leans over reading. 026: same one screen close enough for clear evidence: Nina sends bakery support one message showing an already-taken photo of DARK GREEN porch door with GOLD STAR (her family's own door is BLUE). Use the precise green-door photograph from frame 023 in reference guide. Maya checks over her shoulder, Dan's hands off phone. 027: Max points toward the visible fridge housing the untouched strawberry as Ella folds a clean white napkin. 028: on home porch retain flat blue front door with a single blue ribbon BOW at its middle, cream HAPPY BIRTHDAY MAYA banner above (use the exact banner wording from the original episode porch reference if different); no other doors, bows or gold stars. Dan stays at threshold, Leo gestures to photo rather than walking, Maya next to Dan. Keep image consistent with adjacent source.\nSHOT_025 visible cast DAN, NINA, LEO; location HOME_KITCHEN. Beat: Dan starts to tap for another order, then stops. Nina points to the delivery support text link; Leo reads the reminder to verify the pictured address first. End: Second order abandoned; family will verify the location before contacting bakery again.. Previous finding: Dan and Nina each operate a different phone.; correction: Keep one evidence phone, Dan hovering over it and Nina redirecting..\nSHOT_026 visible cast NINA, MAYA, DAN; location HOME_KITCHEN. Beat: Nina sends one concise text to bakery delivery support: order reference, correct14 address, green door photo. Maya checks the wording; Dan watches without typing guesses. End: One support request sent; no reply yet; no new purchase.. Previous finding: Screen inside Nina's support message appears to show a blue door with clear central yellow trim instead of green delivery image.; correction: Use the established green-door delivery photograph from 023..\nSHOT_027 visible cast MAX, ELLA, MAYA; location HOME_KITCHEN. Beat: Max points again to the fridge rather than taking the berry. Ella folds the clean napkins; Maya assures him they can wait together. End: Napkins folded; strawberry untouched; nobody begins eating.. Previous finding: Max points away from fridge while Ella folds napkin and Maya comforts; check gesture direction.; correction: Compare final full-resolution likeness, anatomy and motion blocking with creator masters..\nSHOT_028 visible cast DAN, LEO, MAYA; location HOME_PORCH. Beat: Dan surveys nearby homes from the porch, then stays beside Maya. Leo reminds him to use the photograph rather than knock everywhere. End: No random search begun; family waiting for useful location detail.. Previous finding: Home blue door and wall behind trio have lost both bow and banner.; correction: Restore single blue bow and cream banner..",
+  "qa_updates": {
+    "SHOT_025": {
+      "observed": "Dan pauses over Nina’s single handset while Nina indicates support and Leo reads.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_026": {
+      "observed": "Nina shows Maya and Dan one support message with order MHE-10-C and 14 Maple Lane. The attached photograph shows the established green door and sealed white bakery box.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_027": {
+      "observed": "Max points at the fridge while Ella folds the napkins and Maya reassures him.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_028": {
+      "observed": "Dan stays by Maya and Leo at the blue door. Its single blue bow and the small cream Welcome ribbon beside the door match the earlier porch.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    }
+  },
+  "image_inputs": {
+    "selected_sheet": {
+      "path": "Episode_10/assets/storyboards/BOARD_07.png",
+      "sha256": "c9e639b84e2046c3cb2436822dff76b0bf1a4eca39873311d4fc77a305314545"
+    },
+    "cast_contact_sheet": {
+      "sha256": "ee132e6bb6535a21dc45a3bed61516cfd1e2c5ff9eeb35c596d1324c1079193f",
+      "original_previews": "Episode_10/assets/characters"
+    },
+    "additional_reference": {
+      "sha256": "d1234407a3b58e779c13984abab8c2f9c282fbed539ac420c4fbfff655d0ebd4",
+      "sources": [
+        "Episode_10/assets/environments/HOME_PORCH.png",
+        "Episode_10/assets/environments/NEIGHBOR_PORCH.png",
+        "Episode_10/assets/storyboards/BOARD_03.png",
+        "Episode_10/assets/storyboards/BOARD_06.png",
+        "Episode_10/assets/overlays/DELIVERY_RECORD.svg"
+      ]
+    }
+  },
+  "detail_edit": {
+    "pickup": "SHOT_028 regenerated against SHOT_009 and SHOT_011. SHOT_026 registers the existing delivery photograph from SHOT_024 into the handset attachment.",
+    "generation_reference_hashes": [
+      {
+        "purpose": "Scene and continuity reference",
+        "sha256": "d1234407a3b58e779c13984abab8c2f9c282fbed539ac420c4fbfff655d0ebd4"
+      }
+    ]
+  }
+}

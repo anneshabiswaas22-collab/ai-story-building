@@ -1,0 +1,45 @@
+{
+  "episode": 6,
+  "board": 8,
+  "path": "Episode_06/assets/storyboards/BOARD_08.png",
+  "parent_commit": "39dc48b9b8f3dfe7b9c233117769200a6c05ad99",
+  "parent_sha256": "3aab0a3cc94d912d4b204a54b81568c06088ce0ccc1a111d1e1cdb34cb3b8780",
+  "selected_sha256": "79dfb08dc53a6134bc3887889ab6473f6603dc0ab9a7579dcf33ff070e8d953a",
+  "parent_size": [
+    1672,
+    941
+  ],
+  "selected_size": [
+    1672,
+    941
+  ],
+  "generated_source": "Episode_06/assets/storyboards/BOARD_08.png",
+  "method": "Referenced ImageGen edit. The selected PNG is the original returned file.",
+  "request": "Edit the first reference: full four-panel storyboard, landscape 16:9 finished sheet, 2×2 panels with four equal rectangles. Keep black numbered labels top left, text SHOT_029 to SHOT_032 in reading order. The second image locks the family's original appearance and outfits: Dan blue polo and left-wrist watch, Maya plum and cream, Nina teal and tan, Leo orange, Ella red with long denim overalls and braids, small Max green. The third is a scene or adjacent continuity reference, not a panel to copy. Preserve composition, cast, actions, light and art from the first input except as specified. Remove every enormous freestanding blank board, placard, menu easel and tabletop presentation board from panels 029,030,031,032. The costs are spoken; leave clean negative picture space for the editor's graphic, no new text in the picture. Show an ordinary rectangular table with the six FREE waters at their six original coasters, no food yet, no seventh glass, six places. Preserve restaurant booth/table geography using reference 3. Seating positions fixed from camera on aisle looking across at window: along WINDOW side in order from near end toward far end Max, Nina, Maya. Opposite them along AISLE side from near to far Dan, Leo, Ella. Use oblique shots or tighter partial frames that show just the listed speakers in their own seats, not everyone moved together. 029 Maya window far, Nina window middle, Dan aisle near discuss choices. 030 Leo aisle middle adds, Maya window far checks, Dan aisle near listens. 031 Nina window middle and Leo aisle middle opposite discuss tax, Dan watches. 032 Maya and Nina on window side, Dan opposite agrees. Menu may lie flat. No physical order card or easel or writing pad held up, no rearranged seats. Individual panel beats: 29 visible MAYA, NINA, DAN; Maya reads the six chosen mains from the exact editorial order card. Nina checks the two chicken-and-rice meals are different adult and child portions. Dan confirms his soup is a main course. 30 visible LEO, DAN, MAYA; Leo adds eight, twelve, fourteen, eight, seven and nine. Maya checks the sum is fifty-eight. Dan keeps his wallet pocketed because the family still needs to account for tax and tip. 31 visible NINA, LEO, DAN; Nina reads this fictional restaurant's posted ten-percent sales-tax rule. Leo computes five dollars eighty, and Dan notes a meal-and-tax total of sixty-three eighty. 32 visible MAYA, DAN, NINA; Maya and Dan plan a voluntary ten-dollar cash tip, with Nina agreeing. They check that seventy-three eighty is below eighty. This is a family choice, not an additional posted fee.",
+  "qa_updates": {
+    "SHOT_029": {
+      "observed": "The easel is gone. Maya has a menu in her hands; the table has only four visible settings and the window-side depth order puts Maya in front of Nina.",
+      "severity": "major",
+      "correction": "Stage the full six-place rectangular table with Maya window-far and Nina window-middle. Keep the order card editorial.",
+      "status": "FAIL"
+    },
+    "SHOT_030": {
+      "observed": "No easel. Leo is in front of Dan on the aisle side and only four settings are established.",
+      "severity": "major",
+      "correction": "Show Dan aisle-near with Leo aisle-middle, keeping the six seats and six waters established.",
+      "status": "FAIL"
+    },
+    "SHOT_031": {
+      "observed": "No easel. Leo counts on his fingers opposite Nina while Dan watches. The view again reads as a four-place table.",
+      "severity": "major",
+      "correction": "Retain the established six settings and ensure Leo and Nina sit at the middle pair.",
+      "status": "FAIL"
+    },
+    "SHOT_032": {
+      "observed": "No easel. Maya and Dan appear together on the aisle side opposite Nina.",
+      "severity": "major",
+      "correction": "Seat Maya window-far beside Nina on the window side, opposite the aisle-side seats. Maintain six place settings.",
+      "status": "FAIL"
+    }
+  }
+}

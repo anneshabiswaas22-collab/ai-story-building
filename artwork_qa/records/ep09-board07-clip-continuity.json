@@ -1,0 +1,45 @@
+{
+  "episode": 9,
+  "board": 7,
+  "path": "Episode_09/assets/storyboards/BOARD_07.png",
+  "parent_commit": "d2007272fd0a393cc762dfd79d4b39c6cf13d4ca",
+  "parent_sha256": "a321503c73525bc6c78dc41941bdab2c9aafc03c0477c82dab94cdd1c2b749f9",
+  "selected_sha256": "69712a01b9cd1373c5d5d018574fb856cad9230581818ef19ef6d449baf1c08e",
+  "parent_size": [
+    1672,
+    941
+  ],
+  "selected_size": [
+    1672,
+    941
+  ],
+  "generated_source": "Episode_09/assets/storyboards/BOARD_07.png",
+  "method": "Referenced ImageGen edit. The selected PNG is the original returned file.",
+  "request": "Edit the first reference: full four-panel storyboard, landscape 16:9 finished sheet, 2×2 panels with four equal rectangles. Keep black numbered labels top left, text SHOT_025 to SHOT_028 in reading order. The second image locks the family's original appearance and outfits: Dan blue polo and left-wrist watch, Maya plum and cream, Nina teal and tan, Leo orange, Ella red with long denim overalls and braids, small Max green. The third is a scene or adjacent continuity reference, not a panel to copy. Preserve composition, cast, actions, light and art from the first input except as specified. All three named people in EACH panel, exactly, including braided Ella in 025. Every visible hand in ALL FOUR PANELS wears an opaque, fitted, full-finger gardening glove, extending beyond the wrist. Even the observing children: both Max's and both Dan's hands gloved at all times. Preserve original established glove and clothing colors; use matching practical work gloves for hands previously bare. Keep order of the THREE large terracotta planters, with one terracotta saucer per planter, in one row. No planted markers or water. Mint with serrated leaves goes into the LEFT terracotta pot. Black plastic nursery pots are smaller than the terracotta pots. At 025 Maya holds the mint root ball with gloved hands, Dan holds the EMPTY small black pot, Ella is close and watching; the mint is not already duplicated in the left pot. At 026, Maya lowers the ONE mint into left pot and Nina adds mix, Max in green observing. At 027, Ella presses soil lightly, Maya guides, Leo clears leaves; the black basil nursery container sits flush and upright on the bench BESIDE the center planter, with a visible contact shadow, never floating. At 028 Dan sets empty mint pot into wooden crate, Nina keeps still-potted basil separate and Max watches. Warm 3D series style, stable faces and shot labels. Individual panel beats: 25 visible MAYA, ELLA, DAN; Maya gently eases the mint root ball from its nursery pot, supporting the soil rather than pulling leaves. Dan holds the now-empty nursery pot aside. 26 visible MAYA, MAX, NINA; Maya lowers the single mint root ball into the left hollow at its original soil level. Nina adds a little mix around it while Max watches clear of the trowel. 27 visible ELLA, MAYA, LEO; With Maya guiding, Ella lightly firms only the soil around the mint root ball. Leo keeps the plant’s leaves clear of their gloves. 28 visible DAN, NINA, MAX; Dan checks that the mint nursery container is empty and places it in the crate for later cleaning and reuse. Nina keeps the basil nursery plant separate.",
+  "qa_updates": {
+    "SHOT_025": {
+      "observed": "Ella watches as Maya supports the mint root ball over the left pot and Dan holds the empty pot in a glove. The basil container hangs in front of the center pot.",
+      "severity": "major",
+      "correction": "Place the black basil container upright on the bench beside the center planter, with its base supported.",
+      "status": "FAIL"
+    },
+    "SHOT_026": {
+      "observed": "Maya lowers mint into the left pot, Nina adds mix and Max watches with both hands gloved. The other two pots remain bare.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_027": {
+      "observed": "Ella firms soil around the mint. The basil container sits on the bench. Gloved Leo rests his hands at the center pot.",
+      "severity": "major",
+      "correction": "Bring Leo’s gloved hand to the mint leaves at the left pot so he holds the foliage clear as Ella firms the soil.",
+      "status": "FAIL"
+    },
+    "SHOT_028": {
+      "observed": "Dan places the empty nursery pot in the crate; Nina holds the separate basil plant and Max watches, with both hands gloved.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    }
+  }
+}
