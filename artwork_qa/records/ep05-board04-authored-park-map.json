@@ -1,0 +1,291 @@
+{
+  "episode": 5,
+  "board": 4,
+  "path": "Episode_05/assets/storyboards/BOARD_04.png",
+  "parent_commit": "9e869bbe915da442de31a03bd625b51d1f1fb69c",
+  "parent_sha256": "028f76abbdb70690a0b4338235e27ea440224e3cbbe684b63259f3246f724ad5",
+  "selected_sha256": "5c52c1f32fb5a49951137aef2c3c6130863f7e7136267d77af601715f7741c15",
+  "parent_size": [
+    1672,
+    941
+  ],
+  "selected_size": [
+    1672,
+    941
+  ],
+  "method": "The original panel art is retained outside the physical paper. A referenced ImageGen paper surface carries the original PARK_MAP.svg ink. Its faces are warped to the photographed folds with four-times supersampling and the original hands are composited in front. Recovery coordinates and source hashes are recorded below.",
+  "request": "Produce a reusable production texture for the single physical park sketch held by the family in the THREE selected four-panel storyboards. Do not redraw any actor or room. The exact authorized map ink is supplied in the last reference and will be applied as a separate print layer. Return ONE perfectly flat, edge-to-edge 16:9 landscape macro view of the UNPRINTED warm ivory map-paper surface, no margins, outdoors objects, text, border, table, skin or background. Extremely subtle natural fibers and tonal variation on matte cream map paper. One faint crease down the exact vertical center where the family folds the paper once; shallow light falloff like a previously folded sheet unfolded for reading. Corners fill frame, lighting even, no heavy stains or shadows. It will be perspective-registered only inside the original map faces, with real fingers left in front and all successful artwork intact. Maintain this one material as the paper is checked at the kitchen, shown in the doorway and opened upside down at the park fork. The environment and cast guide is reference four. Current boards and exact beats: 1 Maya sets the park sketch beside one blue-handled basket. Nina closes a cooler containing six individually wrapped cheese sandwiches made earlier, six sealed water bottles and ice packs. Title appears editorially within two seconds. / 2 Ella counts six clean plates and six napkins into the basket. Leo adds an empty washable waste pouch and a flat transparent map sleeve. Max rolls the blue-and-white check blanket and hands it to Maya beyond the crop. / 3 Maya points from the SOUTH GATE to the round fountain, then along the RIGHT branch to the OAK BENCH. Leo traces the route with a finger while Dan watches. / 4 Nina shows that the sketch includes two matching green benches. Max spots the stone squirrel beside the west bench. Dan folds the map once with the route still visible.\n5 Nina briefly checks the six wrapped sandwiches remain among ice packs and reseals the cooler. Maya tucks the rolled blanket under her left arm. Ella secures basket plates with napkins. / 6 Dan slides folded map into his RIGHT pocket and lifts the dry-supplies basket with his left hand. Max checks his own two empty hands with mock seriousness. / 7 Maya checks the children are ready. Nina lifts the cooler; Dan waits with basket while all three children join the adults. They walk together toward the home exit. / 8 Before crossing the doorway, Dan takes map from right pocket and shows the oak drawing. Ella points out the tree is small only on paper. Dan pockets it again, then follows the waiting family.\n13 At the south approach, Dan unfolds the sketch with its north arrow now pointing DOWN. Leo looks at the fountain instead of the page. Max studies the tiny upside-down tree without noticing the arrow yet. / 14 Dan looks up from the upside-down sketch and sees the matching green bench beside the stone squirrel. He points left along the dry branch; Leo notices it has the right color. / 15 Dan leads the two boys left at a slow pace. He gestures at a small leafy tree near the statue as if it were the map oak. Max stays between Dan and Leo, away from the pond-side rail. / 16 The trio stops at the empty green bench beside the stone squirrel. Dan sets the basket on the dry bench seat and lays inverted sketch on top. He does not unpack plates.",
+  "qa_updates": {
+    "SHOT_013": {
+      "observed": "Dan opens the sketch upside down at the fountain. The north arrow points down and the gate, tree, benches and lettering rotate with it while Max studies the page.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_014": {
+      "observed": "Dan points toward the stone-squirrel bench. The same inverted project map remains in his other hand, with the oak and squirrel on opposite sides.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_015": {
+      "observed": "The inverted paper stays against the blue-handled basket as Dan and both boys approach the wrong bench. The route and landmarks retain their positions on the folded page.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_016": {
+      "observed": "Dan sets the packed basket on the green bench with the inverted map resting across its top. His hand and the basket handle stay in front of the paper edges.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    }
+  },
+  "image_inputs": {
+    "selected_sheet": {
+      "path": "Episode_05/assets/storyboards/BOARD_04.png",
+      "sha256": "028f76abbdb70690a0b4338235e27ea440224e3cbbe684b63259f3246f724ad5"
+    },
+    "cast_contact_sheet": {
+      "sha256": "ee132e6bb6535a21dc45a3bed61516cfd1e2c5ff9eeb35c596d1324c1079193f",
+      "original_previews": "Episode_05/assets/characters"
+    },
+    "additional_reference": {
+      "sha256": "b36e0c2165847b62a1c12d6d8356d10c0572cec5fab2e49bc91ba62f4932324b",
+      "sources": [
+        "Episode_05/assets/environments/HOME_KITCHEN.jpg",
+        "Episode_05/assets/environments/PARK_BENCH_FORK.png",
+        "Episode_05/assets/environments/PARK_FOUNTAIN.png",
+        "Episode_05/assets/environments/PARK_GATE.png",
+        "Episode_05/assets/overlays/PARK_MAP.svg",
+        "Episode_05/assets/characters/ADULTS_lineup.jpg",
+        "Episode_05/assets/characters/CHILDREN_lineup.jpg"
+      ]
+    }
+  },
+  "detail_edit": {
+    "generated_input_sha256": "028f76abbdb70690a0b4338235e27ea440224e3cbbe684b63259f3246f724ad5",
+    "selected_sha256": "5c52c1f32fb5a49951137aef2c3c6130863f7e7136267d77af601715f7741c15",
+    "diegetic_print": [
+      {
+        "svg": "Episode_05/assets/overlays/PARK_MAP.svg",
+        "flip": true,
+        "crop": "640x720+0+0",
+        "quad": [
+          [
+            266,
+            213
+          ],
+          [
+            366,
+            223
+          ],
+          [
+            357,
+            439
+          ],
+          [
+            222,
+            407
+          ]
+        ],
+        "substrate": "Referenced generated park-sketch paper",
+        "shade": 0.97,
+        "sha256": "9731c3d1053d80401e06212c171ad51c308c09b8fbf1a6986d61d7efd7c57dc4"
+      },
+      {
+        "svg": "Episode_05/assets/overlays/PARK_MAP.svg",
+        "flip": true,
+        "crop": "640x720+640+0",
+        "quad": [
+          [
+            366,
+            223
+          ],
+          [
+            522,
+            216
+          ],
+          [
+            499,
+            445
+          ],
+          [
+            357,
+            439
+          ]
+        ],
+        "substrate": "Referenced generated park-sketch paper",
+        "shade": 1,
+        "sha256": "9731c3d1053d80401e06212c171ad51c308c09b8fbf1a6986d61d7efd7c57dc4"
+      },
+      {
+        "svg": "Episode_05/assets/overlays/PARK_MAP.svg",
+        "flip": true,
+        "crop": "640x720+0+0",
+        "quad": [
+          [
+            1232,
+            260
+          ],
+          [
+            1286,
+            265
+          ],
+          [
+            1312,
+            364
+          ],
+          [
+            1262,
+            354
+          ]
+        ],
+        "substrate": "Referenced generated park-sketch paper",
+        "shade": 0.98,
+        "sha256": "9731c3d1053d80401e06212c171ad51c308c09b8fbf1a6986d61d7efd7c57dc4"
+      },
+      {
+        "svg": "Episode_05/assets/overlays/PARK_MAP.svg",
+        "flip": true,
+        "crop": "640x720+640+0",
+        "quad": [
+          [
+            1286,
+            265
+          ],
+          [
+            1381,
+            251
+          ],
+          [
+            1376,
+            373
+          ],
+          [
+            1312,
+            364
+          ]
+        ],
+        "substrate": "Referenced generated park-sketch paper",
+        "shade": 1,
+        "sha256": "9731c3d1053d80401e06212c171ad51c308c09b8fbf1a6986d61d7efd7c57dc4"
+      },
+      {
+        "svg": "Episode_05/assets/overlays/PARK_MAP.svg",
+        "flip": true,
+        "quad": [
+          [
+            431,
+            694
+          ],
+          [
+            480,
+            715
+          ],
+          [
+            457,
+            771
+          ],
+          [
+            403,
+            748
+          ]
+        ],
+        "substrate": "Referenced generated park-sketch paper",
+        "sha256": "9731c3d1053d80401e06212c171ad51c308c09b8fbf1a6986d61d7efd7c57dc4"
+      },
+      {
+        "svg": "Episode_05/assets/overlays/PARK_MAP.svg",
+        "flip": true,
+        "quad": [
+          [
+            1102,
+            766
+          ],
+          [
+            1177,
+            767
+          ],
+          [
+            1158,
+            809
+          ],
+          [
+            1067,
+            796
+          ]
+        ],
+        "substrate": "Referenced generated park-sketch paper",
+        "sha256": "9731c3d1053d80401e06212c171ad51c308c09b8fbf1a6986d61d7efd7c57dc4"
+      }
+    ],
+    "assembly": "The replacement is localized to the paper prop. The exact project SVG ink, with only its flat background replaced by the generated paper texture, is registered to the folds in the recorded orientation.",
+    "source_sha256": "028f76abbdb70690a0b4338235e27ea440224e3cbbe684b63259f3246f724ad5",
+    "skin_occlusion_regions_xywh": [
+      [
+        216,
+        257,
+        67,
+        85
+      ],
+      [
+        461,
+        395,
+        77,
+        68
+      ],
+      [
+        1356,
+        304,
+        65,
+        62
+      ],
+      [
+        442,
+        692,
+        50,
+        44
+      ]
+    ],
+    "mask": "For each hand crop, retained the connected skin silhouette, including enclosed finger creases and nails, with a 0.38-pixel soft edge.",
+    "changed_bounds_inside_each_panel": [
+      [
+        222,
+        213,
+        523,
+        445
+      ],
+      [
+        396,
+        251,
+        546,
+        374
+      ],
+      [
+        403,
+        224,
+        477,
+        302
+      ],
+      [
+        231,
+        296,
+        341,
+        340
+      ]
+    ],
+    "comparison_reference_hashes": {
+      "Episode_05/assets/environments/HOME_KITCHEN.jpg": "21b3438b5a2d009778983db85b9cce7570522533b3440a8d083b38420aa3732c",
+      "Episode_05/assets/environments/PARK_BENCH_FORK.png": "cba298caaa7dad07ebaaee2997c1fb5eaabfa7fee341b778ad8176ae3987d2a5",
+      "Episode_05/assets/environments/PARK_FOUNTAIN.png": "5d6ed16c027c8cd1410b69889c94b87b9bd604d329d934ce31feeefa8a8f0e3f",
+      "Episode_05/assets/environments/PARK_GATE.png": "5ce404fea52530adf1f255f24822dd7e4e7c7fcae8b42f3e93517a19980e2ab1",
+      "Episode_05/assets/overlays/PARK_MAP.svg": "9731c3d1053d80401e06212c171ad51c308c09b8fbf1a6986d61d7efd7c57dc4",
+      "Episode_05/assets/characters/ADULTS_lineup.jpg": "0748b5c5f7d6058c3edce9bcfefb038da9914555d6663d362adbef8849abcd70",
+      "Episode_05/assets/characters/CHILDREN_lineup.jpg": "e9fa814bd1ed4b85a3b9925839606635deb1ed92eac0afa3de6015afda338051"
+    },
+    "generated_prop_sha256": "8b0f3232da618bee13e376589e178e22828ba72fef7ecc2f514efd4f15e9c3f2",
+    "selected_method": "The original panel art is retained outside the physical paper. A referenced ImageGen paper surface carries the original PARK_MAP.svg ink. Its faces are warped to the photographed folds with four-times supersampling and the original hands are composited in front. Recovery coordinates and source hashes are recorded below."
+  },
+  "generated_prop_sha256": "8b0f3232da618bee13e376589e178e22828ba72fef7ecc2f514efd4f15e9c3f2"
+}
