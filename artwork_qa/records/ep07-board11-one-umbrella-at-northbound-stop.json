@@ -1,0 +1,98 @@
+{
+  "episode": 7,
+  "board": 11,
+  "path": "Episode_07/assets/storyboards/BOARD_11.png",
+  "parent_commit": "c74fc2836e62716a3fed8919eaae53c13c837858",
+  "parent_sha256": "4777640cffb802f839a6e4db9527c638e71fb6080f6fa249f024c23b1ba134b2",
+  "selected_sha256": "6f12c5ce52748ef019372bc81a33adbec0990143f05b0bc7def6d96588432ac7",
+  "parent_size": [
+    1672,
+    941
+  ],
+  "selected_size": [
+    1672,
+    941
+  ],
+  "generated_source": "Episode_07/assets/storyboards/BOARD_11.png",
+  "method": "Selected panels from a referenced ImageGen edit were assembled into the previous sheet. The other panel rectangles match the parent pixels exactly.",
+  "request": "Repair the real selected four-panel storyboard in reference one. The second reference is the original classic 3D family cast, the remaining images are the actual locations, continuity and prior visual material. Keep exact shot number badges, relative heights, original skin tone, hair, clothes and premium feature-animation style. Never move a face or swap costumes between speakers. Dan sky-blue polo, dark MUSTACHE and left-wrist watch; adult Maya plum with ponytail; adult Nina teal with wavy auburn bob; older boy Leo orange; braided Ella in coral and full denim overalls; youngest small Max green. Use exactly the four numbered frames in a 2x2 landscape grid at source aspect, with panel shots in order, and preserve successful frames. Only Leo wears the navy backpack with the yellow umbrella handle, across shot 041. Both adults Maya and Nina have clear shoulders and no straps. 043 shows Nina seated holding her blue folder, Max seated beside her, Maya standing in plum with absolutely bare shoulders and no bag/pack/straps anywhere in frame. Blue northbound shelter. Keep 042 and 044 for exact original pixel selection. In 041 exact sign Route 7 NORTHBOUND — LIBRARY.\nSHOT_041 visible cast DAN, MAYA, NINA, LEO, ELLA, MAX; location CORRECT_STOP. Beat: At 09:47 the family gathers behind the blue shelter’s curb line. Maya reads NORTHBOUND — LIBRARY from the exact overlay while Dan checks route 7 above it. End: Route and direction verified at correct stop; three minutes before departure.. Previous finding: Maya still has umbrella bag, Leo has second pack under correct stop sign.; correction: Retain just one umbrella backpack, on Leo..\nSHOT_042 visible cast LEO, ELLA, DAN; location CORRECT_STOP. Beat: Leo finds the northbound Saturday row; Ella follows across from the library destination to 09:50. Dan watches both fingers stop on the same line. End: 09:50 library departure confirmed on Saturday row.. Previous finding: Saturday 09:50 displayed. Dan and Leo point at row; Ella watches and Leo has umbrella bag.; correction: Creator to verify likeness, hands and final staging before first-frame approval..\nSHOT_043 visible cast NINA, MAX, MAYA; location CORRECT_STOP. Beat: Nina and Max sit while Maya stands beside Ella outside the doorway. The group leaves the boarding path and sidewalk clear for any unseen passengers. End: Family waiting comfortably; boarding zone clear.. Previous finding: Nina sits with Max and folder; Maya stands wearing umbrella bag.; correction: Leave bag with Leo outside crop..\nSHOT_044 visible cast DAN, NINA, LEO; location CORRECT_STOP. Beat: Dan takes out the six prepaid tickets and fans them once while Nina checks three adult marks and three child marks. Leo holds the empty envelope for him. End: Dan holds one fan of six unused tickets; Leo holds envelope.. Previous finding: Three blue adult, three yellow child tickets; Leo holds cream envelope.; correction: Creator to verify likeness, hands and final staging before first-frame approval..",
+  "qa_updates": {
+    "SHOT_041": {
+      "observed": "All six stand behind the curb beside the blue shelter and the Route 7 NORTHBOUND — LIBRARY sign. Only Leo carries the yellow umbrella on his pack.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_042": {
+      "observed": "Saturday 09:50 displayed. Dan and Leo point at row; Ella watches and Leo has umbrella bag.",
+      "severity": "none observed",
+      "correction": "Creator to verify likeness, hands and final staging before first-frame approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_043": {
+      "observed": "Nina and Max sit on the bench with Nina’s blue folder. Maya stands beside them with empty shoulders and a clear boarding path.",
+      "severity": "review",
+      "correction": "Review final likeness, fine detail and individual frame for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_044": {
+      "observed": "Three blue adult, three yellow child tickets; Leo holds cream envelope.",
+      "severity": "none observed",
+      "correction": "Creator to verify likeness, hands and final staging before first-frame approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    }
+  },
+  "generated_source_sha256": "81d43a75760f7a3f107f5ce1e6725761f277fd033d3ba2b2afdb25bc68d14785",
+  "generated_source_size": [
+    1672,
+    941
+  ],
+  "selected_panels": [
+    1,
+    3
+  ],
+  "preserved_panels": [
+    2,
+    4
+  ],
+  "selected_rectangles_xyxy": [
+    [
+      0,
+      0,
+      836,
+      470
+    ],
+    [
+      0,
+      470,
+      836,
+      941
+    ]
+  ],
+  "image_inputs": {
+    "selected_sheet": {
+      "path": "Episode_07/assets/storyboards/BOARD_11.png",
+      "sha256": "4777640cffb802f839a6e4db9527c638e71fb6080f6fa249f024c23b1ba134b2"
+    },
+    "cast_contact_sheet": {
+      "sha256": "ee132e6bb6535a21dc45a3bed61516cfd1e2c5ff9eeb35c596d1324c1079193f",
+      "original_previews": "Episode_07/assets/characters"
+    },
+    "additional_reference": {
+      "sha256": "234aa22d85e2291e9c0e746b36ef576d2ff5292caa798b170434305487a093cd",
+      "sources": [
+        "Episode_07/assets/environments/CORRECT_STOP.png",
+        "Episode_07/assets/overlays/TIMETABLE.svg",
+        "Episode_07/assets/storyboards/BOARD_08.png"
+      ]
+    }
+  },
+  "detail_edit": {
+    "generation_reference_hashes": [
+      {
+        "purpose": "Scene and continuity reference",
+        "sha256": "234aa22d85e2291e9c0e746b36ef576d2ff5292caa798b170434305487a093cd"
+      }
+    ]
+  }
+}
