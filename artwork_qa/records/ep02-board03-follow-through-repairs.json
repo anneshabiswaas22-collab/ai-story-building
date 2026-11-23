@@ -1,0 +1,96 @@
+{
+  "episode": 2,
+  "board": 3,
+  "path": "Episode_02/assets/storyboards/BOARD_03.png",
+  "parent_commit": "f9c088038de715e321c19799e1aa1fd134e4b724",
+  "parent_sha256": "ebbd01ced663369f36172faded5d4498e9113cbbd07ef6391951a2d82dff0a3f",
+  "selected_sha256": "a1d35a214081eda4ec18d39eb7f7c035dfa52cb0366bd94b33634a21b2fc7bcd",
+  "parent_size": [
+    1672,
+    941
+  ],
+  "selected_size": [
+    1672,
+    941
+  ],
+  "generated_sources": {
+    "SHOT_012": {
+      "path": "artwork_qa/sources/ep02-shot012-continuity-edit.png",
+      "sha256": "8bc3c1c3249d6101df1d741cab927e5985bed9007ec93c25633b824567e0c1b2"
+    }
+  },
+  "references": [
+    "Episode_02/STORY.md",
+    "Episode_02/CONTINUITY.md",
+    "Episode_02/assets/characters/ADULTS_lineup.jpg",
+    "Episode_02/assets/characters/CHILDREN_lineup.jpg"
+  ],
+  "method": "Composited only the individually reviewed panel interiors from reference-guided image edits. Retained original shot badges and verified all unedited quadrants pixel for pixel.",
+  "selected_panels": [
+    4
+  ],
+  "selected_rectangles_xyxy": [
+    [
+      843,
+      477,
+      1665,
+      934
+    ]
+  ],
+  "preserved_panels": [
+    1,
+    2,
+    3
+  ],
+  "preserved_panel_rgb_sha256": {
+    "1": "2cc69a63e59864b4725dd0b6449cb63c613614502da39e7be5bff9edbb7f5a88",
+    "2": "135165153a2e83f6d8d79d4fe3ab5cfac30f95d2eed50b96520e0df5934e1eca",
+    "3": "506ffb1a07d4d144b860d9dcbdc0a03c9b26b380d387bbe3d173d2fc735e3213"
+  },
+  "qa_updates": {
+    "SHOT_012": {
+      "observed": "Nina stands beside the closed cooler with its rolled blanket at floor level. Dan holds the pointed lemon over display stock and Ella indicates it. The family’s blue-handled basket remains empty.",
+      "verification": "Compared the selected pixels with the screenplay, continuity guide and original character and location references. The shot badge is preserved. Creator review of the replacement panel remains pending.",
+      "severity": "review",
+      "status": "NEEDS_HUMAN_REVIEW",
+      "correction": "Review the selected replacement pixels for creator approval."
+    }
+  },
+  "approval_carryover": {
+    "original_git_blob": "138b5745a498ccd36f4cab763fef035a9e243381",
+    "selected_git_blob": "d438d4d0e0d047273a0a17506d6f19b3a03690e6",
+    "method": "Compared complete decoded RGBA quadrants including boundaries.",
+    "preserved_approved_panels": {
+      "1": {
+        "box_xyxy": [
+          0,
+          0,
+          836,
+          471
+        ],
+        "rgba_sha256": "2f226375a1a9dc4bb5fd549b1d559d554aff07a851d082c39717d7e1a7232280",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      },
+      "2": {
+        "box_xyxy": [
+          836,
+          0,
+          1672,
+          471
+        ],
+        "rgba_sha256": "f8b41e9cebffb39acade1ce00347e3b0eea13bd6438d0c167ea038381ca05fca",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      },
+      "3": {
+        "box_xyxy": [
+          0,
+          470,
+          836,
+          941
+        ],
+        "rgba_sha256": "23aaf7d0aee24b531459543fff18403c1f9ccda7311e91ed5c6b7aff05e1e31f",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      }
+    }
+  }
+}

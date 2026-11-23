@@ -1,0 +1,71 @@
+{
+  "episode": 5,
+  "board": 7,
+  "path": "Episode_05/assets/storyboards/BOARD_07.png",
+  "parent_commit": "f9c088038de715e321c19799e1aa1fd134e4b724",
+  "parent_sha256": "fab3e552a92e6c274ecca58711587f9abf318568355c64ae8bf1b99ba0a4f856",
+  "selected_sha256": "c55f627d3a8cb02afdc07b57d4a3fec8e33b05c613aac440803b0fd06ac4fb27",
+  "parent_size": [
+    1672,
+    941
+  ],
+  "selected_size": [
+    1672,
+    941
+  ],
+  "selected_panels": [
+    4
+  ],
+  "changed_bounds_xyxy": {
+    "4": [
+      842,
+      476,
+      1667,
+      936
+    ]
+  },
+  "preserved_panels": [
+    1,
+    2,
+    3
+  ],
+  "generated_sources": [
+    {
+      "shot": "SHOT_028",
+      "path": "artwork_qa/sources/ep05-shot028-match-authored-map-to-south-gate.png",
+      "sha256": "a10a987fbded5b9700f91f7b9292d98ef7264928582bd42c5a0a558fb6c545ce"
+    }
+  ],
+  "method": "Composited the verified storyboard edit into the original board with badge and other quadrants retained. The map print is the authored SVG, perspective-fitted with Dan's original grip layered in front.",
+  "references": [
+    "Episode_05/STORY.md",
+    "Episode_05/CONTINUITY.md",
+    "Episode_05/assets/overlays/PARK_MAP.svg"
+  ],
+  "qa_updates": {
+    "SHOT_028": {
+      "observed": "The real mint-green south gate sits on the approach beyond the fountain, clearly visible beside the west squirrel bench and east oak. The boys and Dan compare it with the south-gate label on the authored north-up map.",
+      "severity": "review",
+      "correction": "Review the corrected storyboard pixels for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW",
+      "verification": "Compared the selected art with the screenplay, continuity references, and original pixels. Creator approval pending."
+    }
+  },
+  "approval_carryover": {
+    "original_git_blob": "3767ff1b71a61f2bd1c62bbf41943add67fb6cb0",
+    "selected_git_blob": "86c6513ecf961cf3ff8c64e0ec21c8c3e6aae436",
+    "method": "Compared complete decoded RGBA quadrants including boundaries.",
+    "preserved_approved_panels": {
+      "3": {
+        "box_xyxy": [
+          0,
+          470,
+          836,
+          941
+        ],
+        "rgba_sha256": "d1c3ae17d75c12a0de8132341b67eb629bcd3e3c3eae056ec3973ae8b38da1f0",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      }
+    }
+  }
+}

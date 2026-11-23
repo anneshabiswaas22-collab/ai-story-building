@@ -1,0 +1,88 @@
+{
+  "episode": 5,
+  "board": 18,
+  "path": "Episode_05/assets/storyboards/BOARD_18.png",
+  "parent_commit": "f9c088038de715e321c19799e1aa1fd134e4b724",
+  "parent_sha256": "4e3c6ad5780ef8ae5d6b8d6b59d08fe2d8c4a0390e9102d41176f03a581d1a7e",
+  "selected_sha256": "8f489bdf6dfb2583bd17417a502699dbed06f601aae2d58851981791544ec07f",
+  "parent_size": [
+    2560,
+    1440
+  ],
+  "selected_size": [
+    2560,
+    1440
+  ],
+  "selected_panels": [
+    1,
+    2
+  ],
+  "changed_bounds_xyxy": {
+    "1": [
+      1,
+      42,
+      1279,
+      719
+    ],
+    "2": [
+      1281,
+      42,
+      2559,
+      719
+    ]
+  },
+  "preserved_panels": [
+    3,
+    4
+  ],
+  "generated_sources": [
+    {
+      "shot": "SHOT_069",
+      "path": "artwork_qa/sources/ep05-shot069-basket-and-south-gate-at-picnic-departure.png",
+      "sha256": "b7103965043de4af8639cd7c5521d41ad5b4d3c01c810ed01fa5d46f5302c5d8"
+    },
+    {
+      "shot": "SHOT_070",
+      "path": "artwork_qa/sources/ep05-shot070-basket-and-south-gate-at-picnic-departure.png",
+      "sha256": "2e9f0208074850245a15c8f4764f1f2976ab894f498520bae9591109b1fe876f"
+    }
+  ],
+  "method": "Composited the verified storyboard edit into the original board with badge and other quadrants retained. Only the corrected panel regions were selected.",
+  "references": [
+    "Episode_05/STORY.md",
+    "Episode_05/CONTINUITY.md"
+  ],
+  "qa_updates": {
+    "SHOT_069": {
+      "observed": "Maya and Ella fold the blanket while Dan reaches down to lift the one basket from the ground-level paved bench pad. The bench seat is empty.",
+      "severity": "review",
+      "correction": "Review the corrected storyboard pixels for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW",
+      "verification": "Compared the selected art with the screenplay, continuity references, and original pixels. Creator approval pending."
+    },
+    "SHOT_070": {
+      "observed": "All six carry their belongings together on the dry pedestrian path. Dan points past the fountain toward the mint-green south gate. The oak bench remains at the right, and the only basket, cooler and blanket are packed with their assigned carriers.",
+      "severity": "review",
+      "correction": "Review the corrected storyboard pixels for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW",
+      "verification": "Compared the selected art with the screenplay, continuity references, and original pixels. Creator approval pending."
+    }
+  },
+  "approval_carryover": {
+    "original_git_blob": "7e21e428cf6fa22045ade1e14e6aa70caba5a18c",
+    "selected_git_blob": "8f16d41e246015d2eeeb5a14d5fa3a59315f2784",
+    "method": "Compared complete decoded RGBA quadrants including boundaries.",
+    "preserved_approved_panels": {
+      "4": {
+        "box_xyxy": [
+          1280,
+          720,
+          2560,
+          1440
+        ],
+        "rgba_sha256": "0e6eae5f544a5186f5e4a10ed1419f2544c09840df5350fc90acb1849302dd79",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      }
+    }
+  }
+}

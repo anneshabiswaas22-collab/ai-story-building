@@ -1,0 +1,96 @@
+{
+  "episode": 2,
+  "board": 15,
+  "path": "Episode_02/assets/storyboards/BOARD_15.png",
+  "parent_commit": "f9c088038de715e321c19799e1aa1fd134e4b724",
+  "parent_sha256": "19a0cdadd814f4c975a57962aeb11febadee828768dc39ac49daf638e02f42ea",
+  "selected_sha256": "8c81d8e450db17cf73a79abb54372e8cb615f6e1c6900d030e1f6e3b7a2d8095",
+  "parent_size": [
+    1671,
+    941
+  ],
+  "selected_size": [
+    1671,
+    941
+  ],
+  "generated_sources": {
+    "SHOT_060": {
+      "path": "artwork_qa/sources/ep02-shot060-continuity-edit.png",
+      "sha256": "07cdbf92a745b33e0783d42e125c6589eae0bdfeb3f11bdfa30447e759e4daf0"
+    }
+  },
+  "references": [
+    "Episode_02/STORY.md",
+    "Episode_02/CONTINUITY.md",
+    "Episode_02/assets/characters/ADULTS_lineup.jpg",
+    "Episode_02/assets/characters/CHILDREN_lineup.jpg"
+  ],
+  "method": "Composited only the individually reviewed panel interiors from reference-guided image edits. Retained original shot badges and verified all unedited quadrants pixel for pixel.",
+  "selected_panels": [
+    4
+  ],
+  "selected_rectangles_xyxy": [
+    [
+      842,
+      477,
+      1664,
+      934
+    ]
+  ],
+  "preserved_panels": [
+    1,
+    2,
+    3
+  ],
+  "preserved_panel_rgb_sha256": {
+    "1": "5c76e11d17d63e746a72ae094d5dea25e5d2e65cb1c2381421f621820f5f3077",
+    "2": "1ba2edf15baa3d96ffc03a8c856e2290a79a56246c2b41f42e69726e12b8f23d",
+    "3": "f7505b167b379dfdb73df72721ed08dc0b890ce7f8c64232bd9c12a174f33489"
+  },
+  "qa_updates": {
+    "SHOT_060": {
+      "observed": "Four lengthwise grape pieces are visible on Nina’s board, and Dan adds cut grape pieces to the salad. The whole grapes are on the adult side, away from Max, who watches empty-handed.",
+      "verification": "Compared the selected pixels with the screenplay, continuity guide and original character and location references. The shot badge is preserved. Creator review of the replacement panel remains pending.",
+      "severity": "review",
+      "status": "NEEDS_HUMAN_REVIEW",
+      "correction": "Review the selected replacement pixels for creator approval."
+    }
+  },
+  "approval_carryover": {
+    "original_git_blob": "8eeecc22530a2d5dc63af3e3599ae1a1f6758683",
+    "selected_git_blob": "dacca3d41ff38a60418cbbfcca796f34befc8ef5",
+    "method": "Compared complete decoded RGBA quadrants including boundaries.",
+    "preserved_approved_panels": {
+      "1": {
+        "box_xyxy": [
+          0,
+          0,
+          836,
+          471
+        ],
+        "rgba_sha256": "08ecd0323606ac6796ad464f36eb7a66f6c26f78656064ebf410f37c2b1841bc",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      },
+      "2": {
+        "box_xyxy": [
+          835,
+          0,
+          1671,
+          471
+        ],
+        "rgba_sha256": "45f7aa8d9ab7e43f947761ce60467512bae1f244b0ae7e621027052471c5cfbe",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      },
+      "3": {
+        "box_xyxy": [
+          0,
+          470,
+          836,
+          941
+        ],
+        "rgba_sha256": "a9baf2ef958a84fe6149ecb4df0e6f61412e56e8cc06795ea468d4a23e1eab3a",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      }
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "episode": 1,
+  "board": 19,
+  "path": "Episode_01/assets/storyboards/BOARD_19.png",
+  "parent_commit": "f9c088038de715e321c19799e1aa1fd134e4b724",
+  "parent_sha256": "f0fc7b52ea21a22a0134c3c1ea52b5cb97154fb8e118f3bf8d8f7d7e5b26b6c2",
+  "selected_sha256": "e416997f5892da48a967d4489594e8bbf9d7d98384e0346939778f203574ddd2",
+  "parent_size": [
+    1671,
+    941
+  ],
+  "selected_size": [
+    1671,
+    941
+  ],
+  "selected_panels": [
+    3
+  ],
+  "preserved_panels": [
+    1,
+    2,
+    4
+  ],
+  "pixel_identity_verified": [
+    1,
+    2,
+    4
+  ],
+  "edits": {
+    "3": {
+      "method": "Selected the verified diagonal angle prompted with the original full-family set and retained the exact shot badge and original adjacent panels.",
+      "references": {
+        "exec-51570106-7b87-4766-986e-4ed9a3dc3d87.png": "572bbfa53601be8cf4b88df23a2ee3681fe9e87b08366d9e7ccc91e951fc47f6",
+        "Episode_01/STORY.md": "34bc7e441ecd7622cfd9b77f287a1eccf5fedda561f669d9630da6459ffdda49",
+        "Episode_01/assets/storyboards/BOARD_20.png": "da8174ccbdb2f082ec083f79b2fae73a732a06cb4bf33f9a41b529a615b89364",
+        "artwork_qa/sources/ep01-shot075-ella-max-diagonal.png": "572bbfa53601be8cf4b88df23a2ee3681fe9e87b08366d9e7ccc91e951fc47f6"
+      },
+      "changed_panel_bounds_xyxy": [
+        6,
+        6,
+        829,
+        467
+      ]
+    }
+  },
+  "qa_updates": {
+    "SHOT_075": {
+      "observed": "Ella at far-left and Max at near-right speak diagonally across the long table, their utensils down and partly eaten salad and soup at the two visible places.",
+      "severity": "review",
+      "correction": "Creator review of corrected pixels pending.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    }
+  },
+  "approval_carryover": {
+    "original_git_blob": "dc2b95e1f4ee67c27c7f25fe41b0d901ad124a4e",
+    "selected_git_blob": "0f18e95cc4a3a7d62120b294b028ef8fb9b8dd50",
+    "method": "Compared complete decoded RGBA quadrants including boundaries.",
+    "preserved_approved_panels": {
+      "1": {
+        "box_xyxy": [
+          0,
+          0,
+          836,
+          471
+        ],
+        "rgba_sha256": "20f715e019eb2c165556b2425248597fcd1b9a23e69a5c46c2e8246230ebba0a",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      },
+      "2": {
+        "box_xyxy": [
+          835,
+          0,
+          1671,
+          471
+        ],
+        "rgba_sha256": "6442ecb3f13d65fd745c8b0f67307076cc039380af667dae6f53fe880d9456ee",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      },
+      "4": {
+        "box_xyxy": [
+          835,
+          470,
+          1671,
+          941
+        ],
+        "rgba_sha256": "62f374f2a7345ad1f6c5b317b1a678c571f779c95a2b81c925a9a2585f9c03c8",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      }
+    }
+  }
+}

@@ -4,7 +4,7 @@
 
 **Generating a 15-second clip.** Open the episode’s `VIDEO_PROMPTS.md` and copy one numbered shot. Its delivery line gives clip-local speaker windows. Let the physical action continue while the characters speak, with the last reaction carrying into the cut. The same words and times appear in the episode’s full-length `SUBTITLES.srt`. The board and panel number point to the matching composition. Upload a reviewed single frame for the shot. Keep the storyboard grid and shot badge out of the movie.
 
-All ten stories run 20 minutes each. The current sheets contain **621 creator-approved shots** and **113 shots awaiting creator review**. The [production status](CURRENT_PRODUCTION_STATUS.md) records reviewed versions. The [open repair list](docs/qa/BLOCKED_IMAGE_REPAIRS.md) links to **66 open visual findings across 45 sheets**. The approval notes inside the original screenplays and prompts date from authoring.
+All ten stories run 20 minutes each. The current sheets contain **621 creator-approved shots** and **141 shots awaiting creator review**. The [production status](CURRENT_PRODUCTION_STATUS.md) records reviewed versions. The [open repair list](docs/qa/BLOCKED_IMAGE_REPAIRS.md) links to **38 open visual findings across 25 sheets**. The approval notes inside the original screenplays and prompts date from authoring.
 
 ## Episodes
 

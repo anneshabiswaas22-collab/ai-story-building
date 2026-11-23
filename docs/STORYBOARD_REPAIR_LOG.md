@@ -189,3 +189,34 @@ Current ledger totals are 66 open visual findings across 45 storyboard sheets, 6
 | 10 / [BOARD_17](../Episode_10/assets/storyboards/BOARD_17.png) | 065 | [Recovery record](../artwork_qa/records/ep10-board17-one-folding-cake-carton.json) |
 
 <!-- /live-repair-checkpoint -->
+
+<!-- live-repair-checkpoint 40454c4796554827 -->
+## Repair checkpoint — 2026-11-23
+
+Current ledger totals are 38 open visual findings across 25 storyboard sheets, 621 creator-approved shots and 141 shots awaiting creator review. The [live repair queue](qa/BLOCKED_IMAGE_REPAIRS.md) links to the remaining findings.
+
+| Episode / sheet | Shots repaired | Verification |
+|---|---|---|
+| 01 / [BOARD_16](../Episode_01/assets/storyboards/BOARD_16.png) | 064 | [Recovery record](../artwork_qa/records/ep01-board16-exact-two-tray-quantities.json) |
+| 01 / [BOARD_19](../Episode_01/assets/storyboards/BOARD_19.png) | 075 | [Recovery record](../artwork_qa/records/ep01-board19-diagonal-dining-seats.json) |
+| 02 / [BOARD_02](../Episode_02/assets/storyboards/BOARD_02.png) | 008 | [Recovery record](../artwork_qa/records/ep02-board02-follow-through-repairs.json) |
+| 02 / [BOARD_03](../Episode_02/assets/storyboards/BOARD_03.png) | 012 | [Recovery record](../artwork_qa/records/ep02-board03-follow-through-repairs.json) |
+| 02 / [BOARD_12](../Episode_02/assets/storyboards/BOARD_12.png) | 045 | [Recovery record](../artwork_qa/records/ep02-board12-follow-through-repairs.json) |
+| 02 / [BOARD_15](../Episode_02/assets/storyboards/BOARD_15.png) | 060 | [Recovery record](../artwork_qa/records/ep02-board15-follow-through-repairs.json) |
+| 02 / [BOARD_16](../Episode_02/assets/storyboards/BOARD_16.png) | 061 | [Recovery record](../artwork_qa/records/ep02-board16-follow-through-repairs.json) |
+| 02 / [BOARD_18](../Episode_02/assets/storyboards/BOARD_18.png) | 072 | [Recovery record](../artwork_qa/records/ep02-board18-follow-through-repairs.json) |
+| 02 / [BOARD_19](../Episode_02/assets/storyboards/BOARD_19.png) | 074, 075, 076 | [Recovery record](../artwork_qa/records/ep02-board19-follow-through-repairs.json) |
+| 03 / [BOARD_20](../Episode_03/assets/storyboards/BOARD_20.png) | 077 | [Recovery record](../artwork_qa/records/ep03-board20-leo-left-short-end.json) |
+| 05 / [BOARD_07](../Episode_05/assets/storyboards/BOARD_07.png) | 028 | [Recovery record](../artwork_qa/records/ep05-board07-match-authored-map-to-south-gate.json) |
+| 05 / [BOARD_10](../Episode_05/assets/storyboards/BOARD_10.png) | 038, 039 | [Recovery record](../artwork_qa/records/ep05-board10-welcome-outside-the-clean-blanket.json) |
+| 05 / [BOARD_11](../Episode_05/assets/storyboards/BOARD_11.png) | 041 | [Recovery record](../artwork_qa/records/ep05-board11-three-actors-check-landmarks.json) |
+| 05 / [BOARD_12](../Episode_05/assets/storyboards/BOARD_12.png) | 047 | [Recovery record](../artwork_qa/records/ep05-board12-six-fixed-picnic-seats.json) |
+| 05 / [BOARD_15](../Episode_05/assets/storyboards/BOARD_15.png) | 057 | [Recovery record](../artwork_qa/records/ep05-board15-point-toward-west-bench.json) |
+| 05 / [BOARD_18](../Episode_05/assets/storyboards/BOARD_18.png) | 069, 070 | [Recovery record](../artwork_qa/records/ep05-board18-basket-and-south-gate-at-picnic-departure.json) |
+| 05 / [BOARD_20](../Episode_05/assets/storyboards/BOARD_20.png) | 077, 078 | [Recovery record](../artwork_qa/records/ep05-board20-children-cleanup-and-original-map.json) |
+| 06 / [BOARD_09](../Episode_06/assets/storyboards/BOARD_09.png) | 033, 034, 035 | [Recovery record](../artwork_qa/records/ep06-board09-fixed-seats-for-child-and-adult-orders.json) |
+| 06 / [BOARD_10](../Episode_06/assets/storyboards/BOARD_10.png) | 039 | [Recovery record](../artwork_qa/records/ep06-board10-max-opposite-dan-039.json) |
+| 10 / [BOARD_01](../Episode_10/assets/storyboards/BOARD_01.png) | 002 | [Recovery record](../artwork_qa/records/ep10-board01-canonical-six-place-settings.json) |
+| 10 / [BOARD_16](../Episode_10/assets/storyboards/BOARD_16.png) | 062 | [Recovery record](../artwork_qa/records/ep10-board16-handwashing-at-rear-window.json) |
+
+<!-- /live-repair-checkpoint -->

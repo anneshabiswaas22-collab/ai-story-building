@@ -1,0 +1,96 @@
+{
+  "episode": 2,
+  "board": 16,
+  "path": "Episode_02/assets/storyboards/BOARD_16.png",
+  "parent_commit": "f9c088038de715e321c19799e1aa1fd134e4b724",
+  "parent_sha256": "f243a79e06be0515a2df9a982d1e2b2400ecff621e5485708e39879f03ad8223",
+  "selected_sha256": "c76e6e3288ba65114589fbec858cbfa0d992ee965f5c4c015f05bd2c7b1cbe2a",
+  "parent_size": [
+    1671,
+    941
+  ],
+  "selected_size": [
+    1671,
+    941
+  ],
+  "generated_sources": {
+    "SHOT_061": {
+      "path": "artwork_qa/sources/ep02-shot061-continuity-edit.png",
+      "sha256": "6d60b75ef351020681cb4a02a96f0b9645e97aa587ba8afeb0e704516259dfe7"
+    }
+  },
+  "references": [
+    "Episode_02/STORY.md",
+    "Episode_02/CONTINUITY.md",
+    "Episode_02/assets/characters/ADULTS_lineup.jpg",
+    "Episode_02/assets/characters/CHILDREN_lineup.jpg"
+  ],
+  "method": "Composited only the individually reviewed panel interiors from reference-guided image edits. Retained original shot badges and verified all unedited quadrants pixel for pixel.",
+  "selected_panels": [
+    1
+  ],
+  "selected_rectangles_xyxy": [
+    [
+      7,
+      7,
+      828,
+      463
+    ]
+  ],
+  "preserved_panels": [
+    2,
+    3,
+    4
+  ],
+  "preserved_panel_rgb_sha256": {
+    "2": "db624daa389b00c3bf07f042ddada9a44bfd8e25f15e1ede7297f7793efdbc8e",
+    "3": "0103ec5591965fde82041235e02825d5f0ddb9c721cb126b49f4e78f6329141f",
+    "4": "e6d55f27eca64bc45df9552e9c41453e8fdb6c878c1053cc9740cb9dbbda6454"
+  },
+  "qa_updates": {
+    "SHOT_061": {
+      "observed": "Ella holds two forks from the cooler’s open, empty lid pocket. Exactly four forks lie on the cloth at four of the six plates. Nina slices strawberries at the separate preparation station.",
+      "verification": "Compared the selected pixels with the screenplay, continuity guide and original character and location references. The shot badge is preserved. Creator review of the replacement panel remains pending.",
+      "severity": "review",
+      "status": "NEEDS_HUMAN_REVIEW",
+      "correction": "Review the selected replacement pixels for creator approval."
+    }
+  },
+  "approval_carryover": {
+    "original_git_blob": "07dfbd96633850a27e9331b1e36637fba919b33b",
+    "selected_git_blob": "ce2fed68ed4254e2feefb8d03db65cab66fa2fb0",
+    "method": "Compared complete decoded RGBA quadrants including boundaries.",
+    "preserved_approved_panels": {
+      "2": {
+        "box_xyxy": [
+          835,
+          0,
+          1671,
+          471
+        ],
+        "rgba_sha256": "c314a4289a289d1bc68971bdd67377be9b2a183acdc6b46d3c519c34b459c78a",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      },
+      "3": {
+        "box_xyxy": [
+          0,
+          470,
+          836,
+          941
+        ],
+        "rgba_sha256": "c26ed2749933ce32cb23f3ca51bc8698a5cf13737e6b650e1c7875786eab0c2d",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      },
+      "4": {
+        "box_xyxy": [
+          835,
+          470,
+          1671,
+          941
+        ],
+        "rgba_sha256": "11a361ea083af72cca15bd76ddd8a2c77f6dd12620acd5a8b2856ffa49a5ee08",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      }
+    }
+  }
+}
