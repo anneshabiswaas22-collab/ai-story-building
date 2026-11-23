@@ -1,6 +1,6 @@
 # Maple House English: AI developer instructions
 
-The 200 planned storyboard sheets are in Git. The creator approved 621 shots at the [November 22 checkpoint](CURRENT_PRODUCTION_STATUS.md). The [blocked repair list](docs/qa/BLOCKED_IMAGE_REPAIRS.md) links the remaining 179 findings to 103 sheets. Use the actual PNG and original references to verify a visual correction. Retain the prior image, the recorded finding and the approval scope for the other panels.
+The 200 planned storyboard sheets are in Git. See the [production status](CURRENT_PRODUCTION_STATUS.md) for creator approvals. The [open repair list](docs/qa/BLOCKED_IMAGE_REPAIRS.md) links to **151 open visual findings across 87 sheets**. Use the actual PNG and original references to verify a visual correction. Retain the prior image, the recorded finding and the approval scope for the other panels.
 
 While a PNG is unreadable, record its sheet and open shots and continue independent QA, screenplay continuity, documentation and validation work. Preserve the approved pixels, dialogue, subtitles and prompts. Check progress on the latest `main` every ten minutes of active work. Individual motion frames, voices and video require separate authorization.
 

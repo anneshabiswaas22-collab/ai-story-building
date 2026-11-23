@@ -1,0 +1,104 @@
+{
+  "episode": 5,
+  "board": 14,
+  "path": "Episode_05/assets/storyboards/BOARD_14.png",
+  "parent_commit": "3f50be7565db3669e98af86f8a1cca31df399da9",
+  "parent_sha256": "94bf59f391e55e5e62a83d87f909cd7681942ff25d9af411d64383df6b02119e",
+  "selected_sha256": "5503806c40e5d0443195773e6a6cde11a1a086ba12f8e5ed8569495b2cf280d9",
+  "parent_size": [
+    1672,
+    941
+  ],
+  "selected_size": [
+    1672,
+    941
+  ],
+  "parent_git_blob": "a06b97e4b52f5e18b69c649258c81e4d41293f84",
+  "selected_git_blob": "521b3c2b164d4fee9ebe32cc75b853473da944b0",
+  "method": "Reference-guided ImageGen edit of the affected panel. Composite only the central empty plate and immediately adjacent pixels; retain all original characters, other dishes and shot label.",
+  "repair_source": {
+    "file": "exec-1d3ce8d8-5181-4095-b75e-8ee72b00d8f2.png",
+    "sha256": "5900e12abb9c1f587ac31b74af8bbff50f23f0d10fae06cf138dd7c2191e46fe"
+  },
+  "request": "Use a single sandwich per person.",
+  "changed_bounds_xyxy": [
+    329,
+    869,
+    476,
+    932
+  ],
+  "preserved_panels": {
+    "1": {
+      "bounds_xyxy": [
+        0,
+        0,
+        836,
+        470
+      ],
+      "rgb_sha256_before_and_after": "45e61e641dfe3c770ee89f00a9417b3883cd8710ab0b37add594d924d3aea22f"
+    },
+    "2": {
+      "bounds_xyxy": [
+        836,
+        0,
+        1672,
+        470
+      ],
+      "rgb_sha256_before_and_after": "a92e2bad53e5d15935ab7b2cd5d8e272e55c1468d75ad1641964d033c0c31b8c"
+    },
+    "4": {
+      "bounds_xyxy": [
+        836,
+        470,
+        1672,
+        941
+      ],
+      "rgb_sha256_before_and_after": "f27d3f5e71a0d71ab76a5a25c781bef05eb5870500c754080629e61cf15ddfba"
+    }
+  },
+  "qa_updates": {
+    "SHOT_055": {
+      "observed": "Dan holds his sole sandwich to take a bite, with his plate empty underneath. Leo's and Maya's sandwiches stay on their own plates.",
+      "severity": "review",
+      "correction": "Review the corrected storyboard pixels for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    }
+  },
+  "approval_carryover": {
+    "original_git_blob": "a06b97e4b52f5e18b69c649258c81e4d41293f84",
+    "selected_git_blob": "521b3c2b164d4fee9ebe32cc75b853473da944b0",
+    "method": "Compared complete decoded RGBA quadrants including boundaries.",
+    "preserved_approved_panels": {
+      "1": {
+        "box_xyxy": [
+          0,
+          0,
+          836,
+          471
+        ],
+        "rgba_sha256": "ccb8b3b6428a93fef40f03844c1546a523f219a8c0fe9866f48b23281a626462",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      },
+      "2": {
+        "box_xyxy": [
+          836,
+          0,
+          1672,
+          471
+        ],
+        "rgba_sha256": "4afcfd47f59e9b50751ea51fcfb614d355a9e1051b1970faba829d54792b3307",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      },
+      "4": {
+        "box_xyxy": [
+          836,
+          470,
+          1672,
+          941
+        ],
+        "rgba_sha256": "10a442a7f75068f5139c123f94b6e656d91a11c78211734bc1739e6dc898d362",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      }
+    }
+  }
+}

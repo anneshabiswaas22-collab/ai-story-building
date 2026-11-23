@@ -1,0 +1,84 @@
+{
+  "episode": 5,
+  "board": 10,
+  "path": "Episode_05/assets/storyboards/BOARD_10.png",
+  "parent_commit": "3f50be7565db3669e98af86f8a1cca31df399da9",
+  "parent_sha256": "5ab6e7f39d55005e2711f45113c67ccf4334f7a25f83d3a4b78b1357b6be534c",
+  "selected_sha256": "8cfa5bdd3a9da683545cfd8a2759421d79eda18673f0f91b52e10c0c8c19c305",
+  "parent_size": [
+    1672,
+    941
+  ],
+  "selected_size": [
+    1672,
+    941
+  ],
+  "parent_git_blob": "36bd622da0c3f508e6a4ad9f8e7f9c417ae6b49d",
+  "selected_git_blob": "b82284edb5bd953fef61a65dee2b41dd82b49ed5",
+  "method": "Perspective-register the rendered PARK_MAP.svg to the original paper while masking Dan's and Leo's fingers from the print; all surrounding art remains original.",
+  "repair_source": {
+    "file": "Episode_05/assets/overlays/PARK_MAP.svg",
+    "sha256": "9731c3d1053d80401e06212c171ad51c308c09b8fbf1a6986d61d7efd7c57dc4"
+  },
+  "request": "Retain same north-up PARK_MAP.svg.",
+  "changed_bounds_xyxy": [
+    1102,
+    712,
+    1320,
+    891
+  ],
+  "preserved_panels": {
+    "1": {
+      "bounds_xyxy": [
+        0,
+        0,
+        836,
+        470
+      ],
+      "rgb_sha256_before_and_after": "5f2878e87e507967e43bb501e6e826c80997c80ea8e8d95c3385048e6c05db09"
+    },
+    "2": {
+      "bounds_xyxy": [
+        836,
+        0,
+        1672,
+        470
+      ],
+      "rgb_sha256_before_and_after": "c58dfa8103305eb8831eef8456fd1be6c330818f7173af550e2b8ff3c0ac2900"
+    },
+    "3": {
+      "bounds_xyxy": [
+        0,
+        470,
+        836,
+        941
+      ],
+      "rgb_sha256_before_and_after": "f17be398d2e1ac48ee0148b38768921eb13882aff1dbfa25c1b6f38711d979b7"
+    }
+  },
+  "qa_updates": {
+    "SHOT_040": {
+      "observed": "Dan holds the authored north-up park map in front of Maya while Leo points at the oak-bench side. The map retains both benches, the central fountain, and the south-gate label.",
+      "severity": "review",
+      "correction": "Review the corrected storyboard pixels for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    }
+  },
+  "approval_carryover": {
+    "original_git_blob": "36bd622da0c3f508e6a4ad9f8e7f9c417ae6b49d",
+    "selected_git_blob": "b82284edb5bd953fef61a65dee2b41dd82b49ed5",
+    "method": "Compared complete decoded RGBA quadrants including boundaries.",
+    "preserved_approved_panels": {
+      "1": {
+        "box_xyxy": [
+          0,
+          0,
+          836,
+          471
+        ],
+        "rgba_sha256": "1e5fc626e765ad0570402ffe67013e4da7736d87cdf465ced63fae299d82d49a",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      }
+    }
+  }
+}

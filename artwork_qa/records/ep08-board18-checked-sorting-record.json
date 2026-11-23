@@ -1,0 +1,76 @@
+{
+  "episode": 8,
+  "board": 18,
+  "path": "Episode_08/assets/storyboards/BOARD_18.png",
+  "parent_commit": "3f50be7565db3669e98af86f8a1cca31df399da9",
+  "parent_sha256": "10a009af562ec3aff877a8a0759a93146adc75acb12c098e6db4d7eb281276e9",
+  "selected_sha256": "1d1faa091f9aba45a1f4789cdaed08fff0a38c19dcbac6fa4d179462725ef22a",
+  "parent_git_blob": "01f9dbf99d4704bbde96e3150207a7bea449c760",
+  "selected_git_blob": "3cba7c6f31f310b3876a10f3bc57d029eaf91e60",
+  "parent_size": [
+    1672,
+    941
+  ],
+  "selected_size": [
+    1672,
+    941
+  ],
+  "method": "Rendered the six owner rows from the authored SOCK_OWNERS SVG with completed checkmarks and perspective-composited them onto the existing paper. Preserved hand occlusions and original panels outside the selected regions.",
+  "reference_paths": [
+    "Episode_08/assets/overlays/SOCK_OWNERS.svg",
+    "Episode_08/CONTINUITY.md",
+    "Episode_08/assets/HOME_TABLE_seating.svg"
+  ],
+  "selected_panels": [
+    1,
+    2,
+    3
+  ],
+  "preserved_panels": [
+    4
+  ],
+  "preserved_panel_pixel_sha256": {
+    "4": "0d08c052f9e326376b074e4e8640769a1b68a75140e2636b17acdb7f6d3ab729"
+  },
+  "panel_edits": {
+    "record": "checked-sorting-record",
+    "regions": "Existing paper in panels 1–3; source hands restored where they cover the printed face."
+  },
+  "qa_updates": {
+    "SHOT_069": {
+      "observed": "The family sorting record shows six checked owner rows on the dry island while Max washes at the rear sink with Maya and Nina.",
+      "severity": "review",
+      "correction": "Creator to review the repaired panel before accepting the new pixels.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_070": {
+      "observed": "Maya and Nina face each other across Dan. The same six checked owner rows remain on the island.",
+      "severity": "review",
+      "correction": "Creator to review the repaired panel before accepting the new pixels.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_071": {
+      "observed": "Leo holds the completed sorting record with six named, checked rows. His fingers retain their grip on the page; Dan and Ella remain at the island.",
+      "severity": "review",
+      "correction": "Creator to review the repaired panel before accepting the new pixels.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    }
+  },
+  "approval_carryover": {
+    "original_git_blob": "01f9dbf99d4704bbde96e3150207a7bea449c760",
+    "selected_git_blob": "3cba7c6f31f310b3876a10f3bc57d029eaf91e60",
+    "method": "Compared complete decoded RGBA quadrants including boundaries.",
+    "preserved_approved_panels": {
+      "4": {
+        "box_xyxy": [
+          836,
+          470,
+          1672,
+          941
+        ],
+        "rgba_sha256": "780d0b8de0bec12f0462f89713f649c0aaa2ba67b402a557fea78c7d6010c3ae",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      }
+    }
+  }
+}

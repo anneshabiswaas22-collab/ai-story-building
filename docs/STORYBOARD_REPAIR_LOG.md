@@ -71,6 +71,46 @@ The active request is to fix the selected storyboard PNGs themselves. Video-prom
 | 08 / BOARD_11 | Keep Maya’s pair on the mat and attach a single MAYA tag | [Selected sheet](../Episode_08/assets/storyboards/BOARD_11.png) · [Correction record](../artwork_qa/records/ep08-board11-one-maya-tag.json) |
 | 06 / BOARD_05 | Tightened 017 to exclude empty opposite seats and restored Dan-before-Leo depth order in 020. Original 018/019 remain pixel-identical and FAIL. | [Selected sheet](../Episode_06/assets/storyboards/BOARD_05.png) · [Correction record](../artwork_qa/records/ep06-board05-aisle-framing-and-seat-order.json) |
 
-**179 shots across 103 sheets have open visual defects.** The creator accepted 619 shots at the November 22 baseline and subsequently approved Episode 06 BOARD_05 shots 017 and 020. The 621 ledger rows with the historical `NEEDS_HUMAN_REVIEW` label are covered by those approvals. See the [production status](../CURRENT_PRODUCTION_STATUS.md) for the reviewed revision and PNG checksum. Individual motion frames still require separate approval. The [blocked image repair list](qa/BLOCKED_IMAGE_REPAIRS.md) records the per-sheet access checks and links to each open shot.
-
 Each selected edit preserves the prior image through its parent Git commit, retains the returned ImageGen source, updates all four panel evidence hashes and records what was visually confirmed. The Episode 01 printed-label audit is refreshed against the new pixels. Corrections are committed and pushed as checkpoints before requesting the next image.
+
+<!-- live-repair-checkpoint c11793ea53cf8c83 -->
+## Repair checkpoint — 2026-11-23
+
+Current ledger totals are 177 open visual findings across 102 storyboard sheets, 621 creator-approved shots and 2 shots awaiting creator review. The [live repair queue](qa/BLOCKED_IMAGE_REPAIRS.md) links to the remaining findings.
+
+| Episode / sheet | Shots repaired | Verification |
+|---|---|---|
+| 06 / [BOARD_01](../Episode_06/assets/storyboards/BOARD_01.png) | 001 | [Recovery record](../artwork_qa/records/ep06-board01-closed-calendar-and-title.json) |
+| 06 / [BOARD_05](../Episode_06/assets/storyboards/BOARD_05.png) | 019 | [Recovery record](../artwork_qa/records/ep06-board05-shot019-window-side-seating.json) |
+
+<!-- /live-repair-checkpoint -->
+
+<!-- live-repair-checkpoint 317f50942c38b0f7 -->
+## Repair checkpoint — 2026-11-23
+
+Current ledger totals are 151 open visual findings across 87 storyboard sheets, 621 creator-approved shots and 28 shots awaiting creator review. The [live repair queue](qa/BLOCKED_IMAGE_REPAIRS.md) links to the remaining findings.
+
+| Episode / sheet | Shots repaired | Verification |
+|---|---|---|
+| 02 / [BOARD_01](../Episode_02/assets/storyboards/BOARD_01.png) | 001, 003 | [Recovery record](../artwork_qa/records/ep02-board01-local-artwork-repair.json) |
+| 02 / [BOARD_04](../Episode_02/assets/storyboards/BOARD_04.png) | 013, 014 | [Recovery record](../artwork_qa/records/ep02-board04-local-artwork-repair.json) |
+| 02 / [BOARD_05](../Episode_02/assets/storyboards/BOARD_05.png) | 018 | [Recovery record](../artwork_qa/records/ep02-board05-local-artwork-repair.json) |
+| 02 / [BOARD_08](../Episode_02/assets/storyboards/BOARD_08.png) | 032 | [Recovery record](../artwork_qa/records/ep02-board08-local-artwork-repair.json) |
+| 02 / [BOARD_09](../Episode_02/assets/storyboards/BOARD_09.png) | 034 | [Recovery record](../artwork_qa/records/ep02-board09-local-artwork-repair.json) |
+| 02 / [BOARD_10](../Episode_02/assets/storyboards/BOARD_10.png) | 040 | [Recovery record](../artwork_qa/records/ep02-board10-local-artwork-repair.json) |
+| 02 / [BOARD_11](../Episode_02/assets/storyboards/BOARD_11.png) | 041 | [Recovery record](../artwork_qa/records/ep02-board11-local-artwork-repair.json) |
+| 03 / [BOARD_02](../Episode_03/assets/storyboards/BOARD_02.png) | 006 | [Recovery record](../artwork_qa/records/ep03-board02-local-artwork-repair.json) |
+| 03 / [BOARD_12](../Episode_03/assets/storyboards/BOARD_12.png) | 045 | [Recovery record](../artwork_qa/records/ep03-board12-local-artwork-repair.json) |
+| 05 / [BOARD_10](../Episode_05/assets/storyboards/BOARD_10.png) | 040 | [Recovery record](../artwork_qa/records/ep05-board10-authored-map-040.json) |
+| 05 / [BOARD_14](../Episode_05/assets/storyboards/BOARD_14.png) | 055 | [Recovery record](../artwork_qa/records/ep05-board14-one-sandwich-055.json) |
+| 05 / [BOARD_18](../Episode_05/assets/storyboards/BOARD_18.png) | 071 | [Recovery record](../artwork_qa/records/ep05-board18-authored-map-071.json) |
+| 06 / [BOARD_01](../Episode_06/assets/storyboards/BOARD_01.png) | 001 | [Recovery record](../artwork_qa/records/ep06-board01-closed-calendar-and-title.json) |
+| 06 / [BOARD_02](../Episode_06/assets/storyboards/BOARD_02.png) | 005 | [Recovery record](../artwork_qa/records/ep06-board02-right-pocket-wallet.json) |
+| 06 / [BOARD_05](../Episode_06/assets/storyboards/BOARD_05.png) | 018, 019 | [Recovery record](../artwork_qa/records/ep06-board05-shot019-window-side-seating.json) |
+| 07 / [BOARD_04](../Episode_07/assets/storyboards/BOARD_04.png) | 015 | [Recovery record](../artwork_qa/records/ep07-board04-zipped-bookbag-015.json) |
+| 08 / [BOARD_18](../Episode_08/assets/storyboards/BOARD_18.png) | 069, 070, 071 | [Recovery record](../artwork_qa/records/ep08-board18-checked-sorting-record.json) |
+| 08 / [BOARD_19](../Episode_08/assets/storyboards/BOARD_19.png) | 073, 074, 076 | [Recovery record](../artwork_qa/records/ep08-board19-checked-sorting-record.json) |
+| 08 / [BOARD_20](../Episode_08/assets/storyboards/BOARD_20.png) | 078 | [Recovery record](../artwork_qa/records/ep08-board20-checked-sorting-record.json) |
+| 10 / [BOARD_03](../Episode_10/assets/storyboards/BOARD_03.png) | 009, 010 | [Recovery record](../artwork_qa/records/ep10-board03-single-spool-and-decoration-box.json) |
+
+<!-- /live-repair-checkpoint -->

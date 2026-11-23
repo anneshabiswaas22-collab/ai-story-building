@@ -1,0 +1,76 @@
+{
+  "episode": 8,
+  "board": 19,
+  "path": "Episode_08/assets/storyboards/BOARD_19.png",
+  "parent_commit": "3f50be7565db3669e98af86f8a1cca31df399da9",
+  "parent_sha256": "0c74a7cc863057a843b21698343a2b2f036ea03b73375203aa3a7924f3de5370",
+  "selected_sha256": "35e6d0ef445b5af6e0d76d8f09c8b39ae5af1e42bb1d6289fb8fbf4be4643393",
+  "parent_git_blob": "ea9a69ebc22d5c045c7c50498f9b420b24ed8227",
+  "selected_git_blob": "35ba7e79a6470495c1d504819f6fce322937d220",
+  "parent_size": [
+    1672,
+    941
+  ],
+  "selected_size": [
+    1672,
+    941
+  ],
+  "method": "Rendered the six owner rows from the authored SOCK_OWNERS SVG with completed checkmarks and perspective-composited them onto the existing paper. Preserved hand occlusions and original panels outside the selected regions.",
+  "reference_paths": [
+    "Episode_08/assets/overlays/SOCK_OWNERS.svg",
+    "Episode_08/CONTINUITY.md",
+    "Episode_08/assets/HOME_TABLE_seating.svg"
+  ],
+  "selected_panels": [
+    1,
+    2,
+    4
+  ],
+  "preserved_panels": [
+    3
+  ],
+  "preserved_panel_pixel_sha256": {
+    "3": "72cbd7a82eae2ef2231dd46f79465784e8da96e1086c274ddc4297740d66740a"
+  },
+  "panel_edits": {
+    "record": "checked-sorting-record",
+    "regions": "Existing paper in panels 1, 2 and 4; Leo's pointing hand remains in front of the print."
+  },
+  "qa_updates": {
+    "SHOT_073": {
+      "observed": "The completed six-owner record lies near Dan. From the established window view, Dan is near-left, Leo left end, Ella far-left, Maya far-right, Nina right end and Max near-right.",
+      "severity": "review",
+      "correction": "Creator to review the repaired panel before accepting the new pixels.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_074": {
+      "observed": "The same six checked owner rows remain in front of Dan during the conversation with Leo and Ella.",
+      "severity": "review",
+      "correction": "Creator to review the repaired panel before accepting the new pixels.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_076": {
+      "observed": "The completed six-owner record remains near Dan while Leo describes the storage arrangement and Max listens.",
+      "severity": "review",
+      "correction": "Creator to review the repaired panel before accepting the new pixels.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    }
+  },
+  "approval_carryover": {
+    "original_git_blob": "ea9a69ebc22d5c045c7c50498f9b420b24ed8227",
+    "selected_git_blob": "35ba7e79a6470495c1d504819f6fce322937d220",
+    "method": "Compared complete decoded RGBA quadrants including boundaries.",
+    "preserved_approved_panels": {
+      "3": {
+        "box_xyxy": [
+          0,
+          470,
+          836,
+          941
+        ],
+        "rgba_sha256": "85735c33feacec580208cba99f0ea1b392c75b20dabcf12232d2008cf26510bd",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      }
+    }
+  }
+}

@@ -8,9 +8,9 @@ The creator confirmed review and acceptance of all 619 shots listed as `NEEDS_HU
 
 The creator approved Episode 06 BOARD_05 **SHOT_017 (panel 1)** and **SHOT_020 (panel 4)** as pictured in [the reviewed sheet at `ac6f2bc`](https://github.com/renoukhan39-bit/ai-story-building/blob/ac6f2bcd41a1f6413e57538c20f64bf15983ca55/Episode_06/assets/storyboards/BOARD_05.png). The full SHA-256 of that PNG is `49f1cf80f7d4a86478fbca4299f2dd102bd4749403b4634599ef4a0b25acef00`. The [repair record](artwork_qa/records/ep06-board05-aisle-framing-and-seat-order.json) identifies the two replacement panels.
 
-The ten ledgers contain **179 flagged shots across 103 sheets**. The 619 earlier approvals and these two replacements account for all **621 approved shots**. At this revision, all 621 rows labeled `NEEDS_HUMAN_REVIEW` have recorded creator approval. A later edit to an approved panel requires review of its new pixels.
+## Active storyboard QA — 2026-11-23
 
-The [blocked image repair list](docs/qa/BLOCKED_IMAGE_REPAIRS.md) identifies each affected sheet, its size in Git and its open shots. Resume visual work with Episode 06 BOARD_05 shot 018, then shot 019. Both have open seating findings. While a sheet is unreadable, continue independent source QA and continuity work. After every ten minutes of active work, recheck the queue on `main` and continue.
+The current sheets contain **621 creator-approved shots** and **28 shots awaiting creator review**. The [open repair list](docs/qa/BLOCKED_IMAGE_REPAIRS.md) links to **151 open visual findings across 87 sheets**. All selected sheets in the queue are readable in the cloud checkout. Use each finding to guide the next repair, and preserve existing approvals for pixel-identical panels.
 
 ## 15-second clips and storyboard repairs — 2026-11-21
 

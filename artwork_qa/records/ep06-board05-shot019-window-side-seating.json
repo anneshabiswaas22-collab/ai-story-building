@@ -1,0 +1,109 @@
+{
+  "episode": 6,
+  "board": 5,
+  "path": "Episode_06/assets/storyboards/BOARD_05.png",
+  "parent_commit": "3f50be7565db3669e98af86f8a1cca31df399da9",
+  "parent_sha256": "49f1cf80f7d4a86478fbca4299f2dd102bd4749403b4634599ef4a0b25acef00",
+  "selected_sha256": "30f047e849e810506a04255b81adb7dd360bf9c75d1e6439797e97912f099482",
+  "parent_size": [
+    1672,
+    941
+  ],
+  "selected_size": [
+    1672,
+    941
+  ],
+  "generated_source": "artwork_qa/sources/ep06-board05-shot019-seating.png",
+  "generated_source_sha256": "16d9648871a416904649a1a42ea2d1e52d191f6362c1d41dd42ddbeffee02910",
+  "generated_source_size": [
+    1672,
+    941
+  ],
+  "references": [
+    "Episode_06/assets/storyboards/BOARD_05.png",
+    "Episode_06/assets/storyboards/BOARD_03.png",
+    "Episode_06/assets/RESTAURANT_seating.svg",
+    "Episode_06/assets/environments/RESTAURANT_TABLE.png",
+    "Episode_06/assets/characters/ADULTS_lineup.jpg",
+    "Episode_06/assets/characters/CHILDREN_lineup.jpg",
+    "Episode_06/STORY.md"
+  ],
+  "method": "Selected SHOT_019 from a referenced board edit. For SHOT_018, fitted a separate shot-specific generation with the camera at the opposite end of the table. Restored original badges and kept panels 1 and 4 and the gutters pixel-identical to the parent.",
+  "selected_panels": [
+    2,
+    3
+  ],
+  "preserved_panels": [
+    1,
+    4
+  ],
+  "preserved_panel_rgb_sha256": {
+    "1": "41247e8fa04c2a9f70719e795622d0bddb93eb398621f367881a2f710e3e2a33",
+    "4": "edf19846db309259c6aeaff2233647622d450de2d4ccc141c0dc15e84d986baf"
+  },
+  "selected_rectangles_xyxy": [
+    [
+      7,
+      477,
+      833,
+      934
+    ],
+    [
+      842,
+      6,
+      1666,
+      467
+    ]
+  ],
+  "qa_updates": {
+    "SHOT_019": {
+      "observed": "Max sits at the near window-side long edge directly across from Dan, with Nina in the next seat down that edge. The near short edge is clearly vacant. Nina indicates grilled chicken and rice at $14.00 on a flat menu; plates remain empty.",
+      "severity": "review",
+      "correction": "Review the replacement pixels against the creator’s fixed seating and character references.",
+      "status": "NEEDS_HUMAN_REVIEW",
+      "verification": "Compared the replacement to SHOT_012, the seating SVG, cast lineups and the screenplay. Original shot badge and approved panels 1 and 4 preserved pixel-for-pixel. Fresh creator review pending."
+    },
+    "SHOT_018": {
+      "observed": "Maya and Nina sit along the same window edge, with Maya nearest the far short end and Ella directly across on the aisle edge. Maya reads the highlighted Vegetable pasta $12.00 line. Only the three scripted characters appear, with empty plates and water.",
+      "severity": "review",
+      "correction": "Review the replacement pixels against the creator’s fixed seating and character references.",
+      "status": "NEEDS_HUMAN_REVIEW",
+      "verification": "Compared the reverse view with the seating SVG, cast lineups, SHOT_012 and screenplay; original shot badge and approved panels 1 and 4 are pixel-identical to the parent. Fresh creator review pending."
+    }
+  },
+  "approval_carryover": {
+    "original_git_blob": "1f9c08849581422a9892dc10208832e73c77d665",
+    "selected_git_blob": "32b6ab31241a31c5fb1ecc1faec50e981ef9769c",
+    "method": "Compared complete decoded RGBA quadrants including boundaries.",
+    "preserved_approved_panels": {
+      "1": {
+        "box_xyxy": [
+          0,
+          0,
+          836,
+          471
+        ],
+        "rgba_sha256": "5c336df660ef97afce727fff71a8883215e48cf20db0c5ceed7b5c555fe78b1b",
+        "reviewed_revision": "ac6f2bcd41a1f6413e57538c20f64bf15983ca55"
+      },
+      "4": {
+        "box_xyxy": [
+          836,
+          470,
+          1672,
+          941
+        ],
+        "rgba_sha256": "8e8a0524496ee723b5cc0e8e7328a82f8e2c6e1845b8f8be58e116604c6bb88f",
+        "reviewed_revision": "ac6f2bcd41a1f6413e57538c20f64bf15983ca55"
+      }
+    }
+  },
+  "additional_generated_source": {
+    "path": "artwork_qa/sources/ep06-board05-shot018-window-side-seating.png",
+    "sha256": "c939c66d951ed05354fb98f92ca7ba0da3832fd54171a3f6645696f6c44cc414",
+    "size": [
+      1672,
+      941
+    ]
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "episode": 2,
+  "board": 10,
+  "path": "Episode_02/assets/storyboards/BOARD_10.png",
+  "parent_commit": "3f50be7565db3669e98af86f8a1cca31df399da9",
+  "parent_sha256": "b037e6637a77ee32e6c46179fb8d274977cd5f40b309994babe6d9c4ccc3affa",
+  "selected_sha256": "99cd1461562ee4a1a19da1276bc73e3b08697cdbcc82a25044bf8d824808c426",
+  "parent_size": [
+    1672,
+    941
+  ],
+  "selected_size": [
+    1672,
+    941
+  ],
+  "selected_panels": [
+    4
+  ],
+  "preserved_panels": [
+    1,
+    2,
+    3
+  ],
+  "pixel_identity_verified": [
+    1,
+    2,
+    3
+  ],
+  "edits": {
+    "4": {
+      "method": "Perspective-mapped the authored two-color card with check marks, preserving the original gripping fingers.",
+      "references": {
+        "Episode_02/assets/overlays/PICNIC_LIST.svg": "e8af47a42e472579d14e1d4f58bf67f79cb827ce81fda5a7fb7c9b06045a230c"
+      },
+      "changed_panel_bounds_xyxy": [
+        383,
+        207,
+        454,
+        272
+      ]
+    }
+  },
+  "qa_updates": {
+    "SHOT_040": {
+      "observed": "The card Leo holds above the unchanged basket now has the nine checked fruit entries on the blue face. The six family members remain in the original positions.",
+      "severity": "review",
+      "correction": "Creator review of corrected pixels pending.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    }
+  },
+  "approval_carryover": {
+    "original_git_blob": "a5ec10b1fec3ca6aba1289246a8a513159ffe1bc",
+    "selected_git_blob": "d6c5e3b7fa85cd2970954665781bcb18fa2eee27",
+    "method": "Compared complete decoded RGBA quadrants including boundaries.",
+    "preserved_approved_panels": {
+      "1": {
+        "box_xyxy": [
+          0,
+          0,
+          836,
+          471
+        ],
+        "rgba_sha256": "8fa78856d55a948fba6da1d071e7b635fe41bb470ecda0d5bb6df270008912ac",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      },
+      "2": {
+        "box_xyxy": [
+          836,
+          0,
+          1672,
+          471
+        ],
+        "rgba_sha256": "ac7f09b04b469474fc66c6ac43364293bb8ce74128176d4fc3b5b5c771fff006",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      },
+      "3": {
+        "box_xyxy": [
+          0,
+          470,
+          836,
+          941
+        ],
+        "rgba_sha256": "d80bcc2f93ef306d01379a87014e154818cd69697e0ba770aaca931946b1eaa4",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      }
+    }
+  }
+}
