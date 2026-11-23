@@ -220,3 +220,20 @@ Current ledger totals are 38 open visual findings across 25 storyboard sheets, 6
 | 10 / [BOARD_16](../Episode_10/assets/storyboards/BOARD_16.png) | 062 | [Recovery record](../artwork_qa/records/ep10-board16-handwashing-at-rear-window.json) |
 
 <!-- /live-repair-checkpoint -->
+
+<!-- live-repair-checkpoint bc03988d433f9e51 -->
+## Repair checkpoint — 2026-11-23
+
+Current ledger totals are 27 open visual findings across 20 storyboard sheets, 621 creator-approved shots and 152 shots awaiting creator review. The [live repair queue](qa/BLOCKED_IMAGE_REPAIRS.md) links to the remaining findings.
+
+| Episode / sheet | Shots repaired | Verification |
+|---|---|---|
+| 08 / [BOARD_01](../Episode_08/assets/storyboards/BOARD_01.png) | 003 | [Recovery record](../artwork_qa/records/ep08-board01-verified-cube-tab-continuity.json) |
+| 08 / [BOARD_03](../Episode_08/assets/storyboards/BOARD_03.png) | 009, 011 | [Recovery record](../artwork_qa/records/ep08-board03-verified-cube-tab-continuity.json) |
+| 08 / [BOARD_05](../Episode_08/assets/storyboards/BOARD_05.png) | 017, 018 | [Recovery record](../artwork_qa/records/ep08-board05-verified-cube-tab-continuity.json) |
+| 08 / [BOARD_10](../Episode_08/assets/storyboards/BOARD_10.png) | 037 | [Recovery record](../artwork_qa/records/ep08-board10-verified-cube-tab-continuity.json) |
+| 08 / [BOARD_12](../Episode_08/assets/storyboards/BOARD_12.png) | 045, 046, 047 | [Recovery record](../artwork_qa/records/ep08-board12-verified-cube-tab-continuity.json) |
+| 08 / [BOARD_14](../Episode_08/assets/storyboards/BOARD_14.png) | 054 | [Recovery record](../artwork_qa/records/ep08-board14-verified-cube-tab-continuity.json) |
+| 08 / [BOARD_16](../Episode_08/assets/storyboards/BOARD_16.png) | 062 | [Recovery record](../artwork_qa/records/ep08-board16-verified-cube-tab-continuity.json) |
+
+<!-- /live-repair-checkpoint -->

@@ -1,0 +1,93 @@
+{
+  "episode": 8,
+  "board": 12,
+  "path": "Episode_08/assets/storyboards/BOARD_12.png",
+  "parent_commit": "f9c088038de715e321c19799e1aa1fd134e4b724",
+  "parent_sha256": "7eb4e8b36a07e1e68a4d944fc881d76700dd90c37ac1e9dde0ffa7db2cac7ffc",
+  "selected_sha256": "271eb49566d8d7b74027490d9950049096e3f5a56764651d4caa0ba7d28fb965",
+  "parent_git_blob": "1af51708bbbad5db45e48dc3c2bc4da2b12065ca",
+  "selected_git_blob": "a6ebbefae484c7c5267cf5d6af1bec7ce78264f7",
+  "parent_size": [
+    1672,
+    941
+  ],
+  "selected_size": [
+    1672,
+    941
+  ],
+  "method": "Verified the corrected object counts and continuity against the authored shot, retaining complete unaffected panels. In changing generated panels, kept the original badge and margins. Used original prop pixels or authored name text for localized non-generated edits.",
+  "reference_paths": [
+    "Episode_08/STORY.md",
+    "Episode_08/CONTINUITY.md",
+    "Episode_08/assets/overlays/SOCK_OWNERS.svg"
+  ],
+  "selected_panels": [
+    1,
+    2,
+    3
+  ],
+  "preserved_panels": [
+    4
+  ],
+  "preserved_panel_pixel_sha256": {
+    "4": "c4c04ce3a092f9b9a2e23e6d156403c757d7dd72dfb0d8d8d636c6e556724f38"
+  },
+  "panel_edits": {
+    "record": "verified-cube-tab-continuity",
+    "regions": "Only the scene region of each reported shot. All other sheet quadrants equal to the original.",
+    "retained_selected_sources": [
+      {
+        "path": "artwork_qa/sources/ep08-shot045-continuity.png",
+        "sha256": "18e0749930def4bf22b5735a4333c8ad2d1617e786cb0ab213ac4822a196ee01",
+        "shot": "SHOT_045"
+      },
+      {
+        "path": "artwork_qa/sources/ep08-shot046-continuity.png",
+        "sha256": "aa19e63f7f3437b95bc45785f11ad702f771586af9db5149f85c00af4d4a28e6",
+        "shot": "SHOT_046"
+      },
+      {
+        "path": "artwork_qa/sources/ep08-shot047-continuity.png",
+        "sha256": "f56df8a161ca7f54bc7fdeb3ff0362752480b9efbc2c8b3032f41f88264d5989",
+        "shot": "SHOT_047"
+      }
+    ]
+  },
+  "qa_updates": {
+    "SHOT_045": {
+      "observed": "Nina places both teal socks together on the mat. Four closed cubes are labeled MAX, ELLA, LEO and MAYA; the fifth cube is open and unlabeled and the sixth cube is closed with a blank tag.",
+      "severity": "review",
+      "correction": "Creator to review the repaired panel before accepting the new pixels.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_046": {
+      "observed": "Nina holds the folded teal pair. Four closed cubes retain the MAX, ELLA, LEO and MAYA tags, the fifth is open and unassigned, and the sixth remains closed and unnamed.",
+      "severity": "review",
+      "correction": "Creator to review the repaired panel before accepting the new pixels.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_047": {
+      "observed": "The first five named cubes show exactly one tag each: MAX, ELLA, LEO, MAYA and NINA. The sixth cube is closed with a blank tag. Nina steadies her cube, Maya caps the marker and Leo shows five fingers.",
+      "severity": "review",
+      "correction": "Creator to review the repaired panel before accepting the new pixels.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    }
+  },
+  "approval_carryover": {
+    "original_git_blob": "1af51708bbbad5db45e48dc3c2bc4da2b12065ca",
+    "selected_git_blob": "a6ebbefae484c7c5267cf5d6af1bec7ce78264f7",
+    "method": "Compared complete decoded RGBA quadrants including boundaries.",
+    "preserved_approved_panels": {
+      "4": {
+        "box_xyxy": [
+          836,
+          470,
+          1672,
+          941
+        ],
+        "rgba_sha256": "982f75c9a8b70cd3d369efb139d328c230468e0ea2a64900cd9486c8538e8b9d",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      }
+    }
+  }
+}

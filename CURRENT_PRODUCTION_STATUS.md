@@ -10,7 +10,7 @@ The creator approved Episode 06 BOARD_05 **SHOT_017 (panel 1)** and **SHOT_020 (
 
 ## Active storyboard QA — 2026-11-23
 
-The current sheets contain **621 creator-approved shots** and **141 shots awaiting creator review**. The [open repair list](docs/qa/BLOCKED_IMAGE_REPAIRS.md) links to **38 open visual findings across 25 sheets**. All selected sheets in the queue are readable in the cloud checkout. Use each finding to guide the next repair, and preserve existing approvals for pixel-identical panels.
+The current sheets contain **621 creator-approved shots** and **152 shots awaiting creator review**. The [open repair list](docs/qa/BLOCKED_IMAGE_REPAIRS.md) links to **27 open visual findings across 20 sheets**. All selected sheets in the queue are readable in the cloud checkout. Use each finding to guide the next repair, and preserve existing approvals for pixel-identical panels.
 
 ## 15-second clips and storyboard repairs — 2026-11-21
 

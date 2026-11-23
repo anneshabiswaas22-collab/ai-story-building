@@ -1,6 +1,6 @@
 # Open storyboard repairs
 
-The live shot ledgers contain **38 open visual findings across 25 sheets**. Each shot link opens the current finding and requested correction. Compare the selected PNG and original references before editing.
+The live shot ledgers contain **27 open visual findings across 20 sheets**. Each shot link opens the current finding and requested correction. Compare the selected PNG and original references before editing.
 
 A previous GitHub Contents API check returned metadata with no inline PNG bytes. The cloud Git checkout restored direct access to all 103 sheets on that list. Their local bytes matched the selected Git blobs and the recorded SHA-256 values at the November 23 baseline. [GitHub Contents API limits](https://docs.github.com/en/rest/repos/contents#get-repository-content)
 
@@ -13,10 +13,10 @@ A previous GitHub Contents API check returned metadata with no inline PNG bytes.
 | 05 | 4 | 4 |
 | 06 | 0 | 0 |
 | 07 | 0 | 0 |
-| 08 | 14 | 8 |
+| 08 | 3 | 3 |
 | 09 | 15 | 9 |
 | 10 | 0 | 0 |
-| **Total** | **38** | **25** |
+| **Total** | **27** | **20** |
 
 | Episode | Selected sheet | Open shots and correction records | PNG bytes | SHA-256 |
 |---|---|---|---:|---|
@@ -28,14 +28,9 @@ A previous GitHub Contents API check returned metadata with no inline PNG bytes.
 | 05 | [BOARD_07](../../Episode_05/assets/storyboards/BOARD_07.png) | [026](Episode_05.tsv#L27) | 2,832,788 | `c55f627d3a8cb02afdc07b57d4a3fec8e33b05c613aac440803b0fd06ac4fb27` |
 | 05 | [BOARD_09](../../Episode_05/assets/storyboards/BOARD_09.png) | [034](Episode_05.tsv#L35) | 2,674,910 | `e3b2f227cf3360c90b35f77964cecc06946b966b21e5483b75c5e525e2f95e21` |
 | 05 | [BOARD_13](../../Episode_05/assets/storyboards/BOARD_13.png) | [049](Episode_05.tsv#L50) | 3,049,172 | `7de932ba36a935f8321d5c2c91d112b9577357eb3e4a70654e9f3a8d75981daa` |
-| 08 | [BOARD_01](../../Episode_08/assets/storyboards/BOARD_01.png) | [002](Episode_08.tsv#L3), [003](Episode_08.tsv#L4) | 2,286,649 | `d26c2a0615e6bd1c9e53030c51b846598185df4d0ec533550f977b7b2dc9753f` |
-| 08 | [BOARD_03](../../Episode_08/assets/storyboards/BOARD_03.png) | [009](Episode_08.tsv#L10), [011](Episode_08.tsv#L12) | 2,168,026 | `6ff67112102d05c9c99ecec853c67664531741a4c29142c7da9d3020655e9cff` |
-| 08 | [BOARD_05](../../Episode_08/assets/storyboards/BOARD_05.png) | [017](Episode_08.tsv#L18), [018](Episode_08.tsv#L19) | 2,254,070 | `9784461bf0deb2460310cdf99205df3a7390f579ff98954f45e53800512fa200` |
+| 08 | [BOARD_01](../../Episode_08/assets/storyboards/BOARD_01.png) | [002](Episode_08.tsv#L3) | 2,167,591 | `a283ce3c6e25af22dde58b4343f1483ede43347a1c8dccd8dd6c11a9130c189c` |
 | 08 | [BOARD_06](../../Episode_08/assets/storyboards/BOARD_06.png) | [023](Episode_08.tsv#L24) | 2,377,903 | `d684292c87760d974f552aeb811a5d4ff301076d021d3f1657bd94eca9a70579` |
-| 08 | [BOARD_10](../../Episode_08/assets/storyboards/BOARD_10.png) | [037](Episode_08.tsv#L38), [038](Episode_08.tsv#L39) | 2,491,122 | `4a096770890a0e3c36c7b8e7f6231b8ff9384af05ba3334ef9e1e2f5008079a9` |
-| 08 | [BOARD_12](../../Episode_08/assets/storyboards/BOARD_12.png) | [045](Episode_08.tsv#L46), [046](Episode_08.tsv#L47), [047](Episode_08.tsv#L48) | 2,539,876 | `7eb4e8b36a07e1e68a4d944fc881d76700dd90c37ac1e9dde0ffa7db2cac7ffc` |
-| 08 | [BOARD_14](../../Episode_08/assets/storyboards/BOARD_14.png) | [054](Episode_08.tsv#L55) | 2,283,558 | `fe57a7a47da173f0bfa6258b72fde7532b23632d83a309b77ce4ce94f0cf9cd8` |
-| 08 | [BOARD_16](../../Episode_08/assets/storyboards/BOARD_16.png) | [062](Episode_08.tsv#L63) | 2,252,650 | `49656d6fcba9752c6083df192ae7720f03a36de4868f01efb9bffc85442b492e` |
+| 08 | [BOARD_10](../../Episode_08/assets/storyboards/BOARD_10.png) | [038](Episode_08.tsv#L39) | 2,361,647 | `a667cec3eeed0fefc4660027cfbb29763bad689631b701c4bda0a72a7a72c8f6` |
 | 09 | [BOARD_03](../../Episode_09/assets/storyboards/BOARD_03.png) | [012](Episode_09.tsv#L13) | 2,524,951 | `a631371d1eeade25195858d250a0d5b013f08acbdba9956b379c7c15b257f137` |
 | 09 | [BOARD_04](../../Episode_09/assets/storyboards/BOARD_04.png) | [013](Episode_09.tsv#L14), [015](Episode_09.tsv#L16) | 2,785,547 | `2e7d4888973b849dc97441481c8a6e3d45bec1a32fb51bf75b07693b1a2b15d1` |
 | 09 | [BOARD_06](../../Episode_09/assets/storyboards/BOARD_06.png) | [023](Episode_09.tsv#L24), [024](Episode_09.tsv#L25) | 2,468,257 | `edc534e124ba707c1e6ed49848a13c868aee208d686f39eda1681f77da865826` |

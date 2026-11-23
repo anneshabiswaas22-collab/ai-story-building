@@ -1,0 +1,91 @@
+{
+  "episode": 8,
+  "board": 3,
+  "path": "Episode_08/assets/storyboards/BOARD_03.png",
+  "parent_commit": "f9c088038de715e321c19799e1aa1fd134e4b724",
+  "parent_sha256": "6ff67112102d05c9c99ecec853c67664531741a4c29142c7da9d3020655e9cff",
+  "selected_sha256": "75f032d2e753fac838815d44829b5852520898514ce2ee5e19cfd3b5d968d201",
+  "parent_git_blob": "0786e3f2bb64703245e3103122d7f0c8af9cecde",
+  "selected_git_blob": "bb2cafabc3e5c1b53c0137b5c166fad5a6ad486f",
+  "parent_size": [
+    1672,
+    941
+  ],
+  "selected_size": [
+    1672,
+    941
+  ],
+  "method": "Verified the corrected object counts and continuity against the authored shot, retaining complete unaffected panels. In changing generated panels, kept the original badge and margins. Used original prop pixels or authored name text for localized non-generated edits.",
+  "reference_paths": [
+    "Episode_08/STORY.md",
+    "Episode_08/CONTINUITY.md",
+    "Episode_08/assets/overlays/SOCK_OWNERS.svg",
+    "Episode_08/assets/storyboards/BOARD_03.png"
+  ],
+  "selected_panels": [
+    1,
+    3
+  ],
+  "preserved_panels": [
+    2,
+    4
+  ],
+  "preserved_panel_pixel_sha256": {
+    "2": "924509cc60789691800e246abbf80f526792c7cc84911ff59dce8b2a7d4945be",
+    "4": "99a32af308ce6c5b438d4def5b9099ef7cce49871d9a0f055b17373eaacd6018"
+  },
+  "panel_edits": {
+    "record": "verified-cube-tab-continuity",
+    "regions": "Only the scene region of each reported shot. All other sheet quadrants equal to the original.",
+    "retained_selected_sources": [
+      {
+        "path": "artwork_qa/sources/ep08-shot009-continuity.png",
+        "sha256": "a443febf31b55fa91c7ed0eb134ee7209bef417fa13c49a81f11c3d251392de9",
+        "shot": "SHOT_009"
+      }
+    ]
+  },
+  "qa_updates": {
+    "SHOT_009": {
+      "observed": "Six open gray fabric cubes have zipper seams and pulls. Six distinct blank tabs remain visible beside them and Nina sets down the basket containing six sock patterns.",
+      "severity": "review",
+      "correction": "Creator to review the repaired panel before accepting the new pixels.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_011": {
+      "observed": "Six blank punched tabs lie beside the empty laundry basket. The six loaded cubes and visible paired socks are unchanged.",
+      "severity": "review",
+      "correction": "Creator to review the repaired panel before accepting the new pixels.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    }
+  },
+  "generated_source": "artwork_qa/sources/ep08-shot009-continuity.png",
+  "generated_source_sha256": "a443febf31b55fa91c7ed0eb134ee7209bef417fa13c49a81f11c3d251392de9",
+  "approval_carryover": {
+    "original_git_blob": "0786e3f2bb64703245e3103122d7f0c8af9cecde",
+    "selected_git_blob": "bb2cafabc3e5c1b53c0137b5c166fad5a6ad486f",
+    "method": "Compared complete decoded RGBA quadrants including boundaries.",
+    "preserved_approved_panels": {
+      "2": {
+        "box_xyxy": [
+          836,
+          0,
+          1672,
+          471
+        ],
+        "rgba_sha256": "92b03499e947aab3d9c812158676c1ddb40a24941064f290aa4daef984f55892",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      },
+      "4": {
+        "box_xyxy": [
+          836,
+          470,
+          1672,
+          941
+        ],
+        "rgba_sha256": "bb13801c715bb33bcd27f203859d2818d922874b1221b62ebfba462e5daa16ae",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      }
+    }
+  }
+}

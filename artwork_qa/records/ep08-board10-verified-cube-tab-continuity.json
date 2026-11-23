@@ -1,0 +1,77 @@
+{
+  "episode": 8,
+  "board": 10,
+  "path": "Episode_08/assets/storyboards/BOARD_10.png",
+  "parent_commit": "f9c088038de715e321c19799e1aa1fd134e4b724",
+  "parent_sha256": "4a096770890a0e3c36c7b8e7f6231b8ff9384af05ba3334ef9e1e2f5008079a9",
+  "selected_sha256": "a667cec3eeed0fefc4660027cfbb29763bad689631b701c4bda0a72a7a72c8f6",
+  "parent_git_blob": "70fa14fae8f3eb2e47272eb879700b6b34cd575c",
+  "selected_git_blob": "c11f88321008a913b80157c52a24b317678bbcbd",
+  "parent_size": [
+    1672,
+    941
+  ],
+  "selected_size": [
+    1672,
+    941
+  ],
+  "method": "Verified the corrected object counts and continuity against the authored shot, retaining complete unaffected panels. In changing generated panels, kept the original badge and margins. Used original prop pixels or authored name text for localized non-generated edits.",
+  "reference_paths": [
+    "Episode_08/STORY.md",
+    "Episode_08/CONTINUITY.md",
+    "Episode_08/assets/overlays/SOCK_OWNERS.svg"
+  ],
+  "selected_panels": [
+    1
+  ],
+  "preserved_panels": [
+    2,
+    3,
+    4
+  ],
+  "preserved_panel_pixel_sha256": {
+    "2": "5bf6cb6d0da04b096f7b23eb79ddc32c7b6a10a09e6371105a417d6ee9fbd1eb",
+    "3": "0c8b080b8ecf38938ef6adf358caa96e4cfbfd2f8b78e8a129f96657eb79e2ef",
+    "4": "01aedf19b7934c3774d3024a4838945e2c460a23bdc11376ff24503b14d5c333"
+  },
+  "panel_edits": {
+    "record": "verified-cube-tab-continuity",
+    "regions": "Only the scene region of each reported shot. All other sheet quadrants equal to the original.",
+    "retained_selected_sources": []
+  },
+  "qa_updates": {
+    "SHOT_037": {
+      "observed": "One MAX label appears on the closed cube that Max points to. Ella and Maya still hold the two matching coral star socks.",
+      "severity": "review",
+      "correction": "Creator to review the repaired panel before accepting the new pixels.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    }
+  },
+  "approval_carryover": {
+    "original_git_blob": "70fa14fae8f3eb2e47272eb879700b6b34cd575c",
+    "selected_git_blob": "c11f88321008a913b80157c52a24b317678bbcbd",
+    "method": "Compared complete decoded RGBA quadrants including boundaries.",
+    "preserved_approved_panels": {
+      "3": {
+        "box_xyxy": [
+          0,
+          470,
+          836,
+          941
+        ],
+        "rgba_sha256": "6e04d8dea248cbc0cb0e90abb841f5fc8b766ccc8f629ec9ef78ca9d0e1d9dde",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      },
+      "4": {
+        "box_xyxy": [
+          836,
+          470,
+          1672,
+          941
+        ],
+        "rgba_sha256": "2512c03b122ad9ac039af5f62d271149886ca7927b29af2d64459fc26b1476f8",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      }
+    }
+  }
+}

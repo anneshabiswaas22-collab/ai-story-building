@@ -1,0 +1,78 @@
+{
+  "episode": 8,
+  "board": 1,
+  "path": "Episode_08/assets/storyboards/BOARD_01.png",
+  "parent_commit": "f9c088038de715e321c19799e1aa1fd134e4b724",
+  "parent_sha256": "d26c2a0615e6bd1c9e53030c51b846598185df4d0ec533550f977b7b2dc9753f",
+  "selected_sha256": "a283ce3c6e25af22dde58b4343f1483ede43347a1c8dccd8dd6c11a9130c189c",
+  "parent_git_blob": "77ed513e2b021615fd8048ac2a41f4f7dc3004a8",
+  "selected_git_blob": "0285bfa3a9b01dfec2fc707247d9b3df519496b4",
+  "parent_size": [
+    1672,
+    941
+  ],
+  "selected_size": [
+    1672,
+    941
+  ],
+  "method": "Verified the corrected object counts and continuity against the authored shot, retaining complete unaffected panels. In changing generated panels, kept the original badge and margins. Used original prop pixels or authored name text for localized non-generated edits.",
+  "reference_paths": [
+    "Episode_08/STORY.md",
+    "Episode_08/CONTINUITY.md",
+    "Episode_08/assets/overlays/SOCK_OWNERS.svg",
+    "Episode_08/assets/storyboards/BOARD_03.png"
+  ],
+  "selected_panels": [
+    3
+  ],
+  "preserved_panels": [
+    1,
+    2,
+    4
+  ],
+  "preserved_panel_pixel_sha256": {
+    "1": "c26041b964d4914433aa33926766864e233e8eac8c6f002dd51411c63cc75553",
+    "2": "41332a218e4883a8e8f0c1660862393227348dc571b12bf67bfa7743e6624d23",
+    "4": "eb99d3eef8a641ff04c39ff797f27c84911c75b625c24fb29e19d713eb70c8a1"
+  },
+  "panel_edits": {
+    "record": "verified-cube-tab-continuity",
+    "regions": "Only the scene region of each reported shot. All other sheet quadrants equal to the original.",
+    "retained_selected_sources": []
+  },
+  "qa_updates": {
+    "SHOT_003": {
+      "observed": "Six distinct blank tabs are laid out in front of the six stacked cubes. The closed blue case and three actors remain in their prior locations.",
+      "severity": "review",
+      "correction": "Creator to review the repaired panel before accepting the new pixels.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    }
+  },
+  "approval_carryover": {
+    "original_git_blob": "77ed513e2b021615fd8048ac2a41f4f7dc3004a8",
+    "selected_git_blob": "0285bfa3a9b01dfec2fc707247d9b3df519496b4",
+    "method": "Compared complete decoded RGBA quadrants including boundaries.",
+    "preserved_approved_panels": {
+      "1": {
+        "box_xyxy": [
+          0,
+          0,
+          836,
+          471
+        ],
+        "rgba_sha256": "868addd586f7c1214d0307cae9290d76de78504fabf7363f9dd052ce458a02f0",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      },
+      "4": {
+        "box_xyxy": [
+          836,
+          470,
+          1672,
+          941
+        ],
+        "rgba_sha256": "42abdd2978e1e5a059cdd6bcdf6fc06f19ffb00832ecfd727a23c5bc2991cfb9",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      }
+    }
+  }
+}
