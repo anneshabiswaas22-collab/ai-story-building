@@ -1,0 +1,86 @@
+{
+  "episode": 9,
+  "board": 5,
+  "path": "Episode_09/assets/storyboards/BOARD_05.png",
+  "parent_commit": "8948515d0bf72507c8fc419b343c043310e0ab7c",
+  "parent_sha256": "428a32e174c894360a69ed4277601417ff33e5d8ca6feb19a8dd263612d51ea6",
+  "selected_sha256": "7a5cfaab2e6b26a3297285e3ff065076f5c8c44e555088f13cffefb3d39f8987",
+  "parent_git_blob": "6360aca11044ade2ef9637a23db30cc6279043e7",
+  "selected_git_blob": "a51211da08a240c339441ca7f831107a8e0ddb5a",
+  "parent_size": [
+    1671,
+    941
+  ],
+  "selected_size": [
+    1671,
+    941
+  ],
+  "method": "Perspective-composited the actual drawing from SHOT_003 into the prop's paper face, retaining the original binder clip above it.",
+  "reference_paths": [
+    "Episode_09/assets/storyboards/BOARD_01.png",
+    "Episode_09/STORY.md",
+    "Episode_09/CONTINUITY.md"
+  ],
+  "selected_panels": [
+    2
+  ],
+  "preserved_panels": [
+    1,
+    3,
+    4
+  ],
+  "preserved_panel_pixel_sha256": {
+    "1": "614ab4770c9b7e708b21f42358189903a2370060531d2c325dcf883bac86d520",
+    "3": "cb9bca66f3b8515084bc67840dc4051c411a8427eb27d9c0a6b820433b0c48e3",
+    "4": "424ec2b2a38a01139e428067301a2c861dae66ccdcdae0b8afdeac0fe33ebac1"
+  },
+  "panel_edits": {
+    "record": "original-pencil-coin",
+    "regions": "Coin scrap only in SHOT_018."
+  },
+  "qa_updates": {
+    "SHOT_018": {
+      "observed": "Leo clips the same rectangular pale scrap with Max's penciled double-ring coin to the outside of the notebook. Dan's pointing hand and the three terracotta pots remain intact.",
+      "severity": "review",
+      "correction": "Creator to review the repaired panel before accepting the new pixels.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    }
+  },
+  "approval_carryover": {
+    "original_git_blob": "6360aca11044ade2ef9637a23db30cc6279043e7",
+    "selected_git_blob": "a51211da08a240c339441ca7f831107a8e0ddb5a",
+    "method": "Compared complete decoded RGBA quadrants including boundaries.",
+    "preserved_approved_panels": {
+      "1": {
+        "box_xyxy": [
+          0,
+          0,
+          836,
+          471
+        ],
+        "rgba_sha256": "de184eeda94e83644a861045a444e6f43218833b700e8c042be743c151e4f46e",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      },
+      "3": {
+        "box_xyxy": [
+          0,
+          470,
+          836,
+          941
+        ],
+        "rgba_sha256": "4b7626f54f14c99061e8db65546d220c2429546de3c6ec9029eb48adb2b6bfcd",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      },
+      "4": {
+        "box_xyxy": [
+          835,
+          470,
+          1671,
+          941
+        ],
+        "rgba_sha256": "58a460c29d92d993fad8d757949086ff12b44b8ce5ee9c29e83d40ba4292e847",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      }
+    }
+  }
+}

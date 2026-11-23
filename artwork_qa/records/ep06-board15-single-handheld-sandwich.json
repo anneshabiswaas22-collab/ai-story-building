@@ -1,0 +1,97 @@
+{
+  "episode": 6,
+  "board": 15,
+  "path": "Episode_06/assets/storyboards/BOARD_15.png",
+  "parent_commit": "8948515d0bf72507c8fc419b343c043310e0ab7c",
+  "parent_sha256": "ff12a294e14e54df8c2ff3dc788001aa9a4c38b032390ce3e32cb546cf107f7e",
+  "parent_git_blob": "f363fe0e13793f32a8f1570a2689583945111b7e",
+  "selected_sha256": "88115847113e19eef6d94cbeb4533608208cdc0b458683e7cff200dfd81643f0",
+  "selected_git_blob": "cab1772da5bbff15530e97c4be3c27f40938409d",
+  "parent_size": [
+    1672,
+    941
+  ],
+  "selected_size": [
+    1672,
+    941
+  ],
+  "method": "Composited the crumb-only area from the referenced ImageGen edit onto the original plate, leaving the remaining sandwich in Leo’s hand and all other settings unchanged.",
+  "references": [
+    "Episode_06/STORY.md",
+    "Episode_06/CONTINUITY.md",
+    "Episode_06/assets/storyboards/BOARD_14.png"
+  ],
+  "selected_panels": [
+    1
+  ],
+  "preserved_panels": [
+    2,
+    3,
+    4
+  ],
+  "preserved_panel_rgb_sha256": {
+    "2": "ed2d4abca2044e4334f91bb265816bfa704891907566f452f3a26046c37dae17",
+    "3": "c3db452f202983aabcc5139e4299de02d1b4bdf7c18f812d46e2f356ba53da15",
+    "4": "d30bee1c2924b21e0259c32c53b35eab01d65ce79ea2e9faeb552800795ff57d"
+  },
+  "qa_updates": {
+    "SHOT_057": {
+      "observed": "Leo holds the remaining bitten sandwich from his serving. His original plate has crumbs but no duplicate sandwich. The six diners remain seated with the same dishes, and Max still has some chicken and rice.",
+      "severity": "review",
+      "status": "NEEDS_HUMAN_REVIEW",
+      "verification": "Inspected the plate and handheld sandwich at full resolution and compared the pose and food with the prior sheet. All previously approved panels are identical to the original.",
+      "correction": "Review these replacement pixels with the creator."
+    }
+  },
+  "generated_source": "artwork_qa/sources/ep06-board15-one-sandwich-edit.png",
+  "generated_source_sha256": "bd8a269608276c4d88a4a568b4919022e2db4efe6d252d68879bc2ddb7be651d",
+  "generated_source_size": [
+    1671,
+    941
+  ],
+  "selected_rectangles_xyxy": [
+    [
+      293,
+      320,
+      384,
+      362
+    ]
+  ],
+  "approval_carryover": {
+    "original_git_blob": "f363fe0e13793f32a8f1570a2689583945111b7e",
+    "selected_git_blob": "cab1772da5bbff15530e97c4be3c27f40938409d",
+    "method": "Compared complete decoded RGBA quadrants including boundaries.",
+    "preserved_approved_panels": {
+      "2": {
+        "box_xyxy": [
+          836,
+          0,
+          1672,
+          471
+        ],
+        "rgba_sha256": "e4a3272e1574ccb4ef00b0a4e0a652ef31f7b8e1e58baf61342f8592ddc0b60f",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      },
+      "3": {
+        "box_xyxy": [
+          0,
+          470,
+          836,
+          941
+        ],
+        "rgba_sha256": "40cf6bed1f84a36c6c4064b693896e7a3b00d1f8869d25ff43b08bda114a695d",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      },
+      "4": {
+        "box_xyxy": [
+          836,
+          470,
+          1672,
+          941
+        ],
+        "rgba_sha256": "d1a8e14d4e7927df50f77464034e74167ad5041e184efd825fa69b174e2d4209",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      }
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "episode": 3,
+  "board": 1,
+  "path": "Episode_03/assets/storyboards/BOARD_01.png",
+  "parent_commit": "8948515d0bf72507c8fc419b343c043310e0ab7c",
+  "parent_sha256": "8b1ed0a4729b34c56fac8fe045726e77f23ee39836b99686ff4537f173b540b5",
+  "selected_sha256": "c36c63f39261e2a5f294ab9aefcdd545bd247ebec2a982b7b0d3ca2f75e1678b",
+  "parent_size": [
+    1672,
+    941
+  ],
+  "selected_size": [
+    1672,
+    941
+  ],
+  "selected_panels": [
+    4
+  ],
+  "preserved_panels": [
+    1,
+    2,
+    3
+  ],
+  "pixel_identity_verified": [
+    1,
+    2,
+    3
+  ],
+  "edits": {
+    "4": {
+      "method": "Composite of a localized ImageGen repair into pixels surrounding the original prop, with all other original panel pixels retained.",
+      "references": {
+        "exec-344e2142-b8b9-43cd-8290-87343ce6e4bd.png": "8785bc9688a2f6568bde664b3c1a4d04d197746eb647cb40795e2b10db4b1e8e",
+        "Episode_03/assets/storyboards/BOARD_01.png": "8b1ed0a4729b34c56fac8fe045726e77f23ee39836b99686ff4537f173b540b5",
+        "Episode_03/assets/characters/MAYA_portrait.jpg": "2880ff4810950b899dc5a131c7056c7675c62462660002cb1318ac0ed2eec61a",
+        "Episode_03/assets/characters/DAN_portrait.jpg": "ab292320db7190ccff07d6109c0dce0ca650c3db81e49fd51954872e818d2331",
+        "Episode_03/assets/characters/ELLA_portrait.jpg": "6cdaced49b8f4a4df4f5594dc03fc30b1f6e37d389ded5d6dba66d07875bcb69"
+      },
+      "changed_panel_bounds_xyxy": [
+        234,
+        247,
+        572,
+        461
+      ]
+    }
+  },
+  "qa_updates": {
+    "SHOT_004": {
+      "observed": "The single empty, untouched clear vase stays to the left of the blue bowl before Dan slides it in 005. Maya points along the edge of the recipe card and gestures toward the vase.",
+      "severity": "review",
+      "correction": "Creator review of corrected pixels pending.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    }
+  },
+  "approval_carryover": {
+    "original_git_blob": "8c60b4119b728e939dcc2c521b029064a0ec3729",
+    "selected_git_blob": "04292f1c0f641cb6517ca13c3a22abcbc59692cb",
+    "method": "Compared complete decoded RGBA quadrants including boundaries.",
+    "preserved_approved_panels": {
+      "1": {
+        "box_xyxy": [
+          0,
+          0,
+          836,
+          471
+        ],
+        "rgba_sha256": "bf741881ff095ee5e7db9a15a094c2237a45bf00a32d84dfecd6412d27b8e022",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      },
+      "2": {
+        "box_xyxy": [
+          836,
+          0,
+          1672,
+          471
+        ],
+        "rgba_sha256": "a91272ae91f3bce49c750966881fce626b907f7b64b8165a02b0969441a262a6",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      },
+      "3": {
+        "box_xyxy": [
+          0,
+          470,
+          836,
+          941
+        ],
+        "rgba_sha256": "65f4bd8fc3c036b1b43b6a16f70c1dcd63dd099a8934cc57ccbd9066afb27d14",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      }
+    }
+  }
+}

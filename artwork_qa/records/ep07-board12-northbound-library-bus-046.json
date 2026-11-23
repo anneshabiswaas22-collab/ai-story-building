@@ -1,0 +1,104 @@
+{
+  "episode": 7,
+  "board": 12,
+  "path": "Episode_07/assets/storyboards/BOARD_12.png",
+  "parent_commit": "3f50be7565db3669e98af86f8a1cca31df399da9",
+  "parent_sha256": "b550606629e0ec393a223d77d775edbe089da65770c479fc2f331c0deea03e91",
+  "selected_sha256": "ca8f341632967051def93be4fbe96c1c3db595a9a83cbcf51b26261a7197fc28",
+  "parent_size": [
+    1672,
+    941
+  ],
+  "selected_size": [
+    1672,
+    941
+  ],
+  "parent_git_blob": "62fa43b1537fff6e32831a045d92674a46bd90ac",
+  "selected_git_blob": "50cc2a87e03eb30e348567c2a2ec174f46cb227c",
+  "method": "Reference-guided ImageGen correction using the original panel and the clean CORRECT_STOP environment. Composite the approved layout inside the original panel bounds and retain the original shot badge.",
+  "repair_source": {
+    "file": "exec-80e7b0a1-b5ab-4e58-92c3-a9de22454006.png",
+    "sha256": "4a2653cb41c6416ab62857842f4b15ed817ba9e43e7f024a63b621770c438033"
+  },
+  "request": "Put approaching bus in blue-stop curb lane and use Route 7 LIBRARY on its display.",
+  "changed_bounds_xyxy": [
+    842,
+    6,
+    1665,
+    463
+  ],
+  "preserved_panels": {
+    "1": {
+      "bounds_xyxy": [
+        0,
+        0,
+        836,
+        470
+      ],
+      "rgb_sha256_before_and_after": "e71b69b904f48fb93acf473d50c8f878e7033b4c0b6d25f6f217f7af6078aca3"
+    },
+    "3": {
+      "bounds_xyxy": [
+        0,
+        470,
+        836,
+        941
+      ],
+      "rgb_sha256_before_and_after": "020cf1e51136308e1bbdf3cb5e8a89ca0130859faec1129b934df8b2790e6c65"
+    },
+    "4": {
+      "bounds_xyxy": [
+        836,
+        470,
+        1672,
+        941
+      ],
+      "rgb_sha256_before_and_after": "e32ca9cff604c8b55b4471d6a1a14c735d9ba7591b1a5ecd61585f5235c7e7f5"
+    }
+  },
+  "qa_updates": {
+    "SHOT_046": {
+      "observed": "The single blue-and-cream bus approaches on the blue-shelter side of the double yellow line. Its front LED reads 7 LIBRARY, with the bakery across the road and Dan, Maya and Leo behind the curb.",
+      "severity": "review",
+      "correction": "Review the corrected storyboard pixels for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    }
+  },
+  "approval_carryover": {
+    "original_git_blob": "62fa43b1537fff6e32831a045d92674a46bd90ac",
+    "selected_git_blob": "50cc2a87e03eb30e348567c2a2ec174f46cb227c",
+    "method": "Compared complete decoded RGBA quadrants including boundaries.",
+    "preserved_approved_panels": {
+      "1": {
+        "box_xyxy": [
+          0,
+          0,
+          836,
+          471
+        ],
+        "rgba_sha256": "58e4846e071a0e244bfe7dc98130460657c38da9d4dfcbc4862c19e83c6d5b57",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      },
+      "3": {
+        "box_xyxy": [
+          0,
+          470,
+          836,
+          941
+        ],
+        "rgba_sha256": "b25ad7efe6f13acdef75d16f0f804c5fe1896b6f2824a33a4c7eb2462c45b8e9",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      },
+      "4": {
+        "box_xyxy": [
+          836,
+          470,
+          1672,
+          941
+        ],
+        "rgba_sha256": "8daf18a339e9559452472501d81868846c8e14e3b353f4e37d60f86f576f8cc2",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      }
+    }
+  }
+}

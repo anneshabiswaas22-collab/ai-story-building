@@ -1,0 +1,84 @@
+{
+  "episode": 5,
+  "board": 7,
+  "path": "Episode_05/assets/storyboards/BOARD_07.png",
+  "parent_commit": "3f50be7565db3669e98af86f8a1cca31df399da9",
+  "parent_sha256": "6010fa2400f9244b352d534fe810972b358f2560c3b5c41ceddbcf162308571d",
+  "selected_sha256": "fab3e552a92e6c274ecca58711587f9abf318568355c64ae8bf1b99ba0a4f856",
+  "parent_size": [
+    1672,
+    941
+  ],
+  "selected_size": [
+    1672,
+    941
+  ],
+  "parent_git_blob": "bb5c10f75e037542cd2c357a046517aeeb192ec6",
+  "selected_git_blob": "3767ff1b71a61f2bd1c62bbf41943add67fb6cb0",
+  "method": "Composite the ImageGen cooler only over the redundant distant basket. Perspective-register the authored map inside the current paper prop, with original fingers in front.",
+  "repair_source": {
+    "file": "exec-3549116b-7839-420d-b1af-a820404313ed.png",
+    "sha256": "598d03c5ff631e7ec6b6360770774c68704aed749d237ea0c5a3271a58133fff"
+  },
+  "request": "Replace distant basket with closed cooler.",
+  "changed_bounds_xyxy": [
+    276,
+    162,
+    793,
+    436
+  ],
+  "preserved_panels": {
+    "2": {
+      "bounds_xyxy": [
+        836,
+        0,
+        1672,
+        470
+      ],
+      "rgb_sha256_before_and_after": "f43c90532cd6beb41c4446639c7c108f9d18d565f28dbabf6559d7d6cec7c746"
+    },
+    "3": {
+      "bounds_xyxy": [
+        0,
+        470,
+        836,
+        941
+      ],
+      "rgb_sha256_before_and_after": "f73f4723350a6a8f994d22aeb8c1e4572ea7287f6972f9b8470a1b9f575481c6"
+    },
+    "4": {
+      "bounds_xyxy": [
+        836,
+        470,
+        1672,
+        941
+      ],
+      "rgb_sha256_before_and_after": "5e6e353eaac83cc7bab88d32147939ab8f615a6c0254ad0936ac5e8220d00a99"
+    }
+  },
+  "qa_updates": {
+    "SHOT_025": {
+      "observed": "A closed blue cooler sits beside Maya, Nina and Ella at the distant oak bench. The single wicker basket remains next to Dan, with the canonical north-up sketch on top.",
+      "severity": "review",
+      "correction": "Review the corrected storyboard pixels for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    }
+  },
+  "approval_carryover": {
+    "original_git_blob": "bb5c10f75e037542cd2c357a046517aeeb192ec6",
+    "selected_git_blob": "3767ff1b71a61f2bd1c62bbf41943add67fb6cb0",
+    "method": "Compared complete decoded RGBA quadrants including boundaries.",
+    "preserved_approved_panels": {
+      "3": {
+        "box_xyxy": [
+          0,
+          470,
+          836,
+          941
+        ],
+        "rgba_sha256": "d1c3ae17d75c12a0de8132341b67eb629bcd3e3c3eae056ec3973ae8b38da1f0",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      }
+    }
+  }
+}

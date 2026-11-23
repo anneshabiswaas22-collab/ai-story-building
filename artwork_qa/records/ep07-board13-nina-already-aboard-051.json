@@ -1,0 +1,104 @@
+{
+  "episode": 7,
+  "board": 13,
+  "path": "Episode_07/assets/storyboards/BOARD_13.png",
+  "parent_commit": "3f50be7565db3669e98af86f8a1cca31df399da9",
+  "parent_sha256": "3938692a89066325cd502f7b8ae21c931489412947d07590a51d27347a9eb78e",
+  "selected_sha256": "ae8411df9e8eced83ac96a9aa847d1909b4a2f4e8b019bb911b2cdc64d09e4ad",
+  "parent_size": [
+    1672,
+    941
+  ],
+  "selected_size": [
+    1672,
+    941
+  ],
+  "parent_git_blob": "8f5ed3882c60e0a056bb4e8341dfa852610a94f3",
+  "selected_git_blob": "b13c6d6bb5fb1c213c7d3fd99cb3b524e854e81b",
+  "method": "Use the reference-guided ImageGen door-area correction and composite only the bus side and doorway. Keep the original Maya, pavement approach and shot badge.",
+  "repair_source": {
+    "file": "exec-ee0d94f2-5c12-4ccc-8d15-9ce5b69246ed.png",
+    "sha256": "07f9eed4ea7a9a91018e22c2b79f7eaaaf4db778cdb0020e9c2a6c3e1a60702b"
+  },
+  "request": "Keep Nina inside and reach back, with Max holding rail.",
+  "changed_bounds_xyxy": [
+    291,
+    475,
+    831,
+    935
+  ],
+  "preserved_panels": {
+    "1": {
+      "bounds_xyxy": [
+        0,
+        0,
+        836,
+        470
+      ],
+      "rgb_sha256_before_and_after": "2a2c6ab7e21d634db43bab05fcd83393a5b4cbc433ffeb0e3a0b2a05fe4aa5e4"
+    },
+    "2": {
+      "bounds_xyxy": [
+        836,
+        0,
+        1672,
+        470
+      ],
+      "rgb_sha256_before_and_after": "574d801f842c36f526876c46f4b75fb2ce5dabddb392c22b34fd3457d4df4e01"
+    },
+    "4": {
+      "bounds_xyxy": [
+        836,
+        470,
+        1672,
+        941
+      ],
+      "rgb_sha256_before_and_after": "e45d9844dd73d918dac3a5705c7f303fc9ba13f0abeae29df8acb6badf9224f0"
+    }
+  },
+  "qa_updates": {
+    "SHOT_051": {
+      "observed": "Nina is a step ahead inside the bus, reaching back to hold Max's hand. Max uses the yellow rail and raises one foot onto the step while Maya waits on the sidewalk.",
+      "severity": "review",
+      "correction": "Review the corrected storyboard pixels for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    }
+  },
+  "approval_carryover": {
+    "original_git_blob": "8f5ed3882c60e0a056bb4e8341dfa852610a94f3",
+    "selected_git_blob": "b13c6d6bb5fb1c213c7d3fd99cb3b524e854e81b",
+    "method": "Compared complete decoded RGBA quadrants including boundaries.",
+    "preserved_approved_panels": {
+      "1": {
+        "box_xyxy": [
+          0,
+          0,
+          836,
+          471
+        ],
+        "rgba_sha256": "daa593da7acc94e30ce788170666b8bc72f7ab31d1e65be8ef0e0413470d5909",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      },
+      "2": {
+        "box_xyxy": [
+          836,
+          0,
+          1672,
+          471
+        ],
+        "rgba_sha256": "c4baf64d3cbd398e5513bb624e3d645df02511e3b7789a0cb820b962b7bb22f9",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      },
+      "4": {
+        "box_xyxy": [
+          836,
+          470,
+          1672,
+          941
+        ],
+        "rgba_sha256": "e257bb44eb22d2bff9ec8da8ae4d6b417dbd66e6704a2c6df3c186455208533b",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      }
+    }
+  }
+}

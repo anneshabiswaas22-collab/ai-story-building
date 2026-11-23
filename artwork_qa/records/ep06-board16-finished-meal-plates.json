@@ -1,0 +1,100 @@
+{
+  "episode": 6,
+  "board": 16,
+  "path": "Episode_06/assets/storyboards/BOARD_16.png",
+  "parent_commit": "8948515d0bf72507c8fc419b343c043310e0ab7c",
+  "parent_sha256": "554fb161d28e0c69dae1c121acec55e9f870ee543c56a2d4d6fb4de6008b5883",
+  "parent_git_blob": "161aee8019ab6fbc41e71972cc5b9a3eab670e25",
+  "selected_sha256": "98757b14f062cd246fac2a8cad4d0075f0f4856901afc67606631dc31df5fc62",
+  "selected_git_blob": "3485c86d2c25d3fb3d4a7714a664b5ad584fcff2",
+  "parent_size": [
+    1672,
+    941
+  ],
+  "selected_size": [
+    1672,
+    941
+  ],
+  "method": "Composited only ImageGen dish and visible food regions into the original sheet with narrowly feathered masks. Restored original fork pixels on Max’s and Maya’s dishes. Retained all badges, cast and framing.",
+  "references": [
+    "Episode_06/STORY.md",
+    "Episode_06/CONTINUITY.md",
+    "Episode_06/assets/storyboards/BOARD_15.png"
+  ],
+  "selected_panels": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "preserved_panels": [],
+  "preserved_panel_rgb_sha256": {},
+  "qa_updates": {
+    "SHOT_061": {
+      "observed": "Max’s small white dish is empty apart from his fork, and Nina holds the single closed takeout carton. Framing still places Max farther down the table than Nina.",
+      "severity": "major",
+      "correction": "Keep the white dish empty and the box closed. Seat Max nearest the camera on the window side, opposite Dan, and Nina one place farther down the same edge.",
+      "status": "FAIL",
+      "verification": "Verified the transfer remains complete from SHOT_060. The original characters and seats were preserved while removing the reappearing food. Seating remains open."
+    },
+    "SHOT_062": {
+      "observed": "Leo and Ella leave used utensils and small crumbs on their own plates. Maya's serving is reduced to a few pasta strands and vegetable pieces.",
+      "severity": "review",
+      "status": "NEEDS_HUMAN_REVIEW",
+      "verification": "Inspected the three dish crops against SHOT_062 and the mealtime sequence. The intact sandwich halves and full portion have been removed.",
+      "correction": "Review these replacement pixels with the creator."
+    },
+    "SHOT_063": {
+      "observed": "Dan has only a trace of red tomato soup at the bottom of his bowl. Maya has a few strands of pasta and the same utensil. Nina keeps the closed carton.",
+      "severity": "review",
+      "status": "NEEDS_HUMAN_REVIEW",
+      "verification": "Compared the emptied bowl and reduced pasta with the mealtime dissolve in SHOT_057; no meal portion resets.",
+      "correction": "Review these replacement pixels with the creator."
+    },
+    "SHOT_064": {
+      "observed": "Dan asks for the check beside his nearly empty soup bowl. Maya's reduced portion continues, and the closed carton remains beside Nina.",
+      "severity": "review",
+      "status": "NEEDS_HUMAN_REVIEW",
+      "verification": "Matched meal depletion through SHOT_063–064 and inspected the remaining food and untouched box.",
+      "correction": "Review these replacement pixels with the creator."
+    }
+  },
+  "generated_source": "artwork_qa/sources/ep06-board16-meal-continuity-edit.png",
+  "generated_source_sha256": "c497223403d46fdfa9b1270eeff76ad0522e29eb48ad4202eb528637ee81b2df",
+  "generated_source_size": [
+    1671,
+    941
+  ],
+  "selected_rectangles_xyxy": [
+    [
+      450,
+      334,
+      571,
+      386
+    ],
+    [
+      1009,
+      324,
+      1499,
+      425
+    ],
+    [
+      230,
+      819,
+      503,
+      889
+    ],
+    [
+      1069,
+      819,
+      1343,
+      889
+    ]
+  ],
+  "approval_carryover": {
+    "original_git_blob": "161aee8019ab6fbc41e71972cc5b9a3eab670e25",
+    "selected_git_blob": "3485c86d2c25d3fb3d4a7714a664b5ad584fcff2",
+    "method": "Compared complete decoded RGBA quadrants including boundaries.",
+    "preserved_approved_panels": {}
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "episode": 10,
+  "board": 5,
+  "path": "Episode_10/assets/storyboards/BOARD_05.png",
+  "parent_commit": "8948515d0bf72507c8fc419b343c043310e0ab7c",
+  "parent_sha256": "323eeb733853541ff094641c263cfc81d9af2e69c60d88783792bea5040ae695",
+  "selected_sha256": "3c174ed0fef8a1e0d37977976af66ae1e3138d18c6f942dbcbba712847ca9aef",
+  "parent_git_blob": "568a4ed9efeae8662a31f76da3b1e5e7857657ba",
+  "selected_git_blob": "acdd530b9d45d2432c8939199c45f5ce9ce4002a",
+  "parent_size": [
+    1672,
+    941
+  ],
+  "selected_size": [
+    1672,
+    941
+  ],
+  "method": "Composited the locally restored blue bow, cream Welcome ribbon and cleared upper porch from the ImageGen edit. The original cast blocking and empty bench remain. Used the loose checklist from the edit with prop copy following the authored PARTY_PLAN SVG.",
+  "reference_paths": [
+    "Episode_10/assets/overlays/PARTY_PLAN.svg",
+    "Episode_10/assets/environments/HOME_PORCH.png",
+    "Episode_10/assets/storyboards/BOARD_03.png",
+    "Episode_10/STORY.md"
+  ],
+  "selected_panels": [
+    2,
+    4
+  ],
+  "preserved_panels": [
+    1,
+    3
+  ],
+  "preserved_panel_pixel_sha256": {
+    "1": "5af116a9fea6ecd3b2c31815a0e69a85fc540a09c5e15d29cb12e716c409782d",
+    "3": "cd8888f7ef21d542f75db060f4c1e0d6a9768a3f7edf7fbf91784fe46d7ce0a6"
+  },
+  "panel_edits": {
+    "record": "porch-decorations-and-checklist",
+    "regions": "Correct blue bow, ribbon, and porch ceiling in panel 2; checklist and nearby tabletop in panel 4."
+  },
+  "qa_updates": {
+    "SHOT_018": {
+      "observed": "The established blue bow and cream Welcome banner are visible beside the empty porch and clear bench. Dan, Maya and Max remain at the threshold.",
+      "severity": "review",
+      "correction": "Creator to review the repaired panel before accepting the new pixels.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_020": {
+      "observed": "One loose paper checklist lies open on the island beside the delivery notice phone. Its printed entries reflect the episode's party plan. Dan, Maya and Nina remain in their original arrangement.",
+      "severity": "review",
+      "correction": "Creator to review the repaired panel before accepting the new pixels.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    }
+  },
+  "generated_source": "artwork_qa/sources/ep10-board05-porch-and-checklist.png",
+  "generated_source_sha256": "2687ea4f60482758872806ac96b5b6e0a8eb98b20e20054ce554b6da91903d88",
+  "approval_carryover": {
+    "original_git_blob": "568a4ed9efeae8662a31f76da3b1e5e7857657ba",
+    "selected_git_blob": "acdd530b9d45d2432c8939199c45f5ce9ce4002a",
+    "method": "Compared complete decoded RGBA quadrants including boundaries.",
+    "preserved_approved_panels": {
+      "1": {
+        "box_xyxy": [
+          0,
+          0,
+          836,
+          471
+        ],
+        "rgba_sha256": "e221eb5d705031e71e263a75d12e40a023eae5868054f37b852fd13fc0fa3d1a",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      },
+      "3": {
+        "box_xyxy": [
+          0,
+          470,
+          836,
+          941
+        ],
+        "rgba_sha256": "6118fabd7ee62f8223f70eb08440642ca1ed0b3f549800e4d492d2e61a35e0e2",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      }
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "episode": 7,
+  "board": 6,
+  "path": "Episode_07/assets/storyboards/BOARD_06.png",
+  "parent_commit": "3f50be7565db3669e98af86f8a1cca31df399da9",
+  "parent_sha256": "f49d129b2a2fd1543ccb6551d56264fcb3234b7448b399f982016523444fff55",
+  "selected_sha256": "874ad23402d92271b52d91aa4227ef6f8c2293303e0a5ff558f3cd589490ea4b",
+  "parent_size": [
+    1670,
+    941
+  ],
+  "selected_size": [
+    1670,
+    941
+  ],
+  "parent_git_blob": "88d9a8fc38f2d1399726b692aae196ef51165084",
+  "selected_git_blob": "a515fd3b3763f1943dc253a4b9ce9ca2389b0eb0",
+  "method": "Reference-guided ImageGen edit; composite only the area occupied by the incorrectly visible open bookbag, retaining the actors and original surrounding frame.",
+  "repair_source": {
+    "file": "exec-89e48f98-1f21-4f60-9620-2793c554fa39.png",
+    "sha256": "ad4557c6ce1cd120085dc0c1434dd7100ad12b9ebcb82e9bb064c58da22b2865"
+  },
+  "request": "Keep bag closed and with Leo.",
+  "changed_bounds_xyxy": [
+    7,
+    691,
+    194,
+    935
+  ],
+  "preserved_panels": {
+    "1": {
+      "bounds_xyxy": [
+        0,
+        0,
+        835,
+        470
+      ],
+      "rgb_sha256_before_and_after": "046a85ba4eab70e594a7f9343a15fa5efe4ef10b989648a6351c2e0d843692db"
+    },
+    "2": {
+      "bounds_xyxy": [
+        835,
+        0,
+        1670,
+        470
+      ],
+      "rgb_sha256_before_and_after": "9699deabb6191e805db2d82344bd21a978dfc9f4241d482457302148b46edd8b"
+    },
+    "4": {
+      "bounds_xyxy": [
+        835,
+        470,
+        1670,
+        941
+      ],
+      "rgb_sha256_before_and_after": "c80235292d17bebba592363b8d65ca5f16d5d080da9f0524c71d6f34f2741037"
+    }
+  },
+  "qa_updates": {
+    "SHOT_023": {
+      "observed": "Maya checks Ella's laces, Nina keeps her blue folder zipped, and the bench beside them is clear. Leo and his bookbag remain outside the crop.",
+      "severity": "review",
+      "correction": "Review the corrected storyboard pixels for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    }
+  },
+  "approval_carryover": {
+    "original_git_blob": "88d9a8fc38f2d1399726b692aae196ef51165084",
+    "selected_git_blob": "a515fd3b3763f1943dc253a4b9ce9ca2389b0eb0",
+    "method": "Compared complete decoded RGBA quadrants including boundaries.",
+    "preserved_approved_panels": {
+      "1": {
+        "box_xyxy": [
+          0,
+          0,
+          835,
+          471
+        ],
+        "rgba_sha256": "ecd6d207e979fe88f1b308ab444b331d9b9bb06f55dee88199cb6bfabb92baa0",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      },
+      "2": {
+        "box_xyxy": [
+          835,
+          0,
+          1670,
+          471
+        ],
+        "rgba_sha256": "2365e96a5e1e49e889c76a4435f021c50eb378d134c479a237d4658b5b553eae",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      },
+      "4": {
+        "box_xyxy": [
+          835,
+          470,
+          1670,
+          941
+        ],
+        "rgba_sha256": "9e27284facd2c3c9412cd006d4b72e626251356244fda23d247d8e711d0c2f97",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      }
+    }
+  }
+}

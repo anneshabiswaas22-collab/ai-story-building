@@ -73,18 +73,6 @@ The active request is to fix the selected storyboard PNGs themselves. Video-prom
 
 Each selected edit preserves the prior image through its parent Git commit, retains the returned ImageGen source, updates all four panel evidence hashes and records what was visually confirmed. The Episode 01 printed-label audit is refreshed against the new pixels. Corrections are committed and pushed as checkpoints before requesting the next image.
 
-<!-- live-repair-checkpoint c11793ea53cf8c83 -->
-## Repair checkpoint — 2026-11-23
-
-Current ledger totals are 177 open visual findings across 102 storyboard sheets, 621 creator-approved shots and 2 shots awaiting creator review. The [live repair queue](qa/BLOCKED_IMAGE_REPAIRS.md) links to the remaining findings.
-
-| Episode / sheet | Shots repaired | Verification |
-|---|---|---|
-| 06 / [BOARD_01](../Episode_06/assets/storyboards/BOARD_01.png) | 001 | [Recovery record](../artwork_qa/records/ep06-board01-closed-calendar-and-title.json) |
-| 06 / [BOARD_05](../Episode_06/assets/storyboards/BOARD_05.png) | 019 | [Recovery record](../artwork_qa/records/ep06-board05-shot019-window-side-seating.json) |
-
-<!-- /live-repair-checkpoint -->
-
 <!-- live-repair-checkpoint 317f50942c38b0f7 -->
 ## Repair checkpoint — 2026-11-23
 
@@ -112,5 +100,43 @@ Current ledger totals are 151 open visual findings across 87 storyboard sheets, 
 | 08 / [BOARD_19](../Episode_08/assets/storyboards/BOARD_19.png) | 073, 074, 076 | [Recovery record](../artwork_qa/records/ep08-board19-checked-sorting-record.json) |
 | 08 / [BOARD_20](../Episode_08/assets/storyboards/BOARD_20.png) | 078 | [Recovery record](../artwork_qa/records/ep08-board20-checked-sorting-record.json) |
 | 10 / [BOARD_03](../Episode_10/assets/storyboards/BOARD_03.png) | 009, 010 | [Recovery record](../artwork_qa/records/ep10-board03-single-spool-and-decoration-box.json) |
+
+<!-- /live-repair-checkpoint -->
+
+<!-- live-repair-checkpoint aa1d97ae617ebc0b -->
+## Repair checkpoint — 2026-11-23
+
+Current ledger totals are 105 open visual findings across 67 storyboard sheets, 621 creator-approved shots and 74 shots awaiting creator review. The [live repair queue](qa/BLOCKED_IMAGE_REPAIRS.md) links to the remaining findings.
+
+| Episode / sheet | Shots repaired | Verification |
+|---|---|---|
+| 01 / [BOARD_13](../Episode_01/assets/storyboards/BOARD_13.png) | 049, 051 | [Recovery record](../artwork_qa/records/ep01-board13-local-artwork-repair.json) |
+| 01 / [BOARD_18](../Episode_01/assets/storyboards/BOARD_18.png) | 070 | [Recovery record](../artwork_qa/records/ep01-board18-local-artwork-repair.json) |
+| 02 / [BOARD_11](../Episode_02/assets/storyboards/BOARD_11.png) | 042, 043 | [Recovery record](../artwork_qa/records/ep02-board11-budget-margin-repair.json) |
+| 03 / [BOARD_01](../Episode_03/assets/storyboards/BOARD_01.png) | 004 | [Recovery record](../artwork_qa/records/ep03-board01-local-artwork-repair.json) |
+| 04 / [BOARD_15](../Episode_04/assets/storyboards/BOARD_15.png) | 058 | [Recovery record](../artwork_qa/records/ep04-board15-local-artwork-repair.json) |
+| 05 / [BOARD_07](../Episode_05/assets/storyboards/BOARD_07.png) | 025 | [Recovery record](../artwork_qa/records/ep05-board07-east-cooler-and-authored-map-025.json) |
+| 05 / [BOARD_08](../Episode_05/assets/storyboards/BOARD_08.png) | 031 | [Recovery record](../artwork_qa/records/ep05-board08-single-basket-east-cooler-031.json) |
+| 05 / [BOARD_12](../Episode_05/assets/storyboards/BOARD_12.png) | 046 | [Recovery record](../artwork_qa/records/ep05-board12-basket-on-paved-pad-046.json) |
+| 06 / [BOARD_06](../Episode_06/assets/storyboards/BOARD_06.png) | 021, 022, 023, 024 | [Recovery record](../artwork_qa/records/ep06-board06-aligned-menu-seats.json) |
+| 06 / [BOARD_07](../Episode_06/assets/storyboards/BOARD_07.png) | 028 | [Recovery record](../artwork_qa/records/ep06-board07-shot028-mild-and-warm-draft.json) |
+| 06 / [BOARD_11](../Episode_06/assets/storyboards/BOARD_11.png) | 043, 044 | [Recovery record](../artwork_qa/records/ep06-board11-vacant-short-ends.json) |
+| 06 / [BOARD_12](../Episode_06/assets/storyboards/BOARD_12.png) | 045, 046, 047, 048 | [Recovery record](../artwork_qa/records/ep06-board12-served-plates-and-temperature.json) |
+| 06 / [BOARD_13](../Episode_06/assets/storyboards/BOARD_13.png) | 049, 051, 052 | [Recovery record](../artwork_qa/records/ep06-board13-meals-without-menus.json) |
+| 06 / [BOARD_14](../Episode_06/assets/storyboards/BOARD_14.png) | 055 | [Recovery record](../artwork_qa/records/ep06-board14-retain-sandwich-bite.json) |
+| 06 / [BOARD_15](../Episode_06/assets/storyboards/BOARD_15.png) | 057 | [Recovery record](../artwork_qa/records/ep06-board15-single-handheld-sandwich.json) |
+| 06 / [BOARD_16](../Episode_06/assets/storyboards/BOARD_16.png) | 062, 063, 064 | [Recovery record](../artwork_qa/records/ep06-board16-finished-meal-plates.json) |
+| 06 / [BOARD_18](../Episode_06/assets/storyboards/BOARD_18.png) | 072 | [Recovery record](../artwork_qa/records/ep06-board18-checkout-path.json) |
+| 06 / [BOARD_19](../Episode_06/assets/storyboards/BOARD_19.png) | 073, 074, 075, 076 | [Recovery record](../artwork_qa/records/ep06-board19-exact-cash-and-receipt.json) |
+| 07 / [BOARD_02](../Episode_07/assets/storyboards/BOARD_02.png) | 006 | [Recovery record](../artwork_qa/records/ep07-board02-dan-accepts-ticket-envelope-006.json) |
+| 07 / [BOARD_03](../Episode_07/assets/storyboards/BOARD_03.png) | 012 | [Recovery record](../artwork_qa/records/ep07-board03-empty-shelter-bench-012.json) |
+| 07 / [BOARD_06](../Episode_07/assets/storyboards/BOARD_06.png) | 023 | [Recovery record](../artwork_qa/records/ep07-board06-closed-bag-stays-offscreen-023.json) |
+| 07 / [BOARD_12](../Episode_07/assets/storyboards/BOARD_12.png) | 046 | [Recovery record](../artwork_qa/records/ep07-board12-northbound-library-bus-046.json) |
+| 07 / [BOARD_13](../Episode_07/assets/storyboards/BOARD_13.png) | 051 | [Recovery record](../artwork_qa/records/ep07-board13-nina-already-aboard-051.json) |
+| 07 / [BOARD_19](../Episode_07/assets/storyboards/BOARD_19.png) | 075 | [Recovery record](../artwork_qa/records/ep07-board19-umbrella-strap-and-zip-folder-075.json) |
+| 08 / [BOARD_11](../Episode_08/assets/storyboards/BOARD_11.png) | 041, 043 | [Recovery record](../artwork_qa/records/ep08-board11-third-cube-and-leo-tag.json) |
+| 09 / [BOARD_05](../Episode_09/assets/storyboards/BOARD_05.png) | 018 | [Recovery record](../artwork_qa/records/ep09-board05-original-pencil-coin.json) |
+| 09 / [BOARD_18](../Episode_09/assets/storyboards/BOARD_18.png) | 070 | [Recovery record](../artwork_qa/records/ep09-board18-original-pencil-coin.json) |
+| 10 / [BOARD_05](../Episode_10/assets/storyboards/BOARD_05.png) | 018, 020 | [Recovery record](../artwork_qa/records/ep10-board05-porch-decorations-and-checklist.json) |
 
 <!-- /live-repair-checkpoint -->

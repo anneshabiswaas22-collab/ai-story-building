@@ -1,0 +1,66 @@
+{
+  "episode": 6,
+  "board": 7,
+  "path": "Episode_06/assets/storyboards/BOARD_07.png",
+  "parent_commit": "8948515d0bf72507c8fc419b343c043310e0ab7c",
+  "parent_sha256": "f75e6f09b76deb5c130269c9c43ea6fa49ec24cbd1d746a21936f0992d0fbb83",
+  "selected_sha256": "0d987bbb705bbededb06858d21ec0f00bfa914c9db0ddb68ed879e4840949398",
+  "parent_size": [
+    1672,
+    941
+  ],
+  "selected_size": [
+    1672,
+    941
+  ],
+  "generated_source": "artwork_qa/sources/ep06-board07-shot028-mild-and-warm-draft.png",
+  "generated_source_sha256": "37346c68ef920e7b3c909e2008864a471c04ee601ff2d293f06dfb4d1e6ca57a",
+  "generated_source_size": [
+    1672,
+    941
+  ],
+  "method": "Selected only the lower-right panel from a referenced ImageGen correction, retaining the original badge region, gutter pixels and other three panels. Other candidate panels included cast outside the shot list and were discarded.",
+  "references": [
+    "Episode_06/assets/storyboards/BOARD_03.png",
+    "Episode_06/assets/RESTAURANT_seating.svg",
+    "Episode_06/assets/characters/ADULTS_lineup.jpg",
+    "Episode_06/assets/characters/CHILDREN_lineup.jpg",
+    "Episode_06/STORY.md"
+  ],
+  "selected_panels": [
+    4
+  ],
+  "preserved_panels": [
+    1,
+    2,
+    3
+  ],
+  "preserved_panel_rgb_sha256": {
+    "1": "6b11539b4cdb02cb5c9406730bcc2b53e832edc9005e16fe9eedd14e3d4f0f99",
+    "2": "3d725073354c81caacffe78586f91207672d0f0780cf636799332e3c88fec3b3",
+    "3": "e6c44996c073da898bac836ab9c496372f5888e80b0c4032f8b77e1384e4e6dc"
+  },
+  "selected_rectangles_xyxy": [
+    [
+      842,
+      477,
+      1665,
+      934
+    ]
+  ],
+  "qa_updates": {
+    "SHOT_028": {
+      "observed": "The server's sleeve-covered hands correct the draft order card to mild and warm. Dan sits on the near aisle side, Leo is one seat farther down his edge, and Maya is across the table at the far window side. No meal has arrived.",
+      "severity": "review",
+      "status": "NEEDS_HUMAN_REVIEW",
+      "correction": "Review the replacement pixels against the creator’s fixed seating and character references.",
+      "verification": "Compared the edited panel with SHOT_012, the seating plan and the screenplay. The shot badge and three unedited panels retain the parent pixels. Fresh creator review pending."
+    }
+  },
+  "approval_carryover": {
+    "original_git_blob": "f903514380209db20ab990347b9212cee0bc1a1f",
+    "selected_git_blob": "73828d2e6cc52c9853c1a945ecf0c1ae057ec2ed",
+    "method": "Compared complete decoded RGBA quadrants including boundaries.",
+    "preserved_approved_panels": {}
+  }
+}

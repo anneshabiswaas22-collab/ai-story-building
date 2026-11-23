@@ -1,0 +1,104 @@
+{
+  "episode": 7,
+  "board": 2,
+  "path": "Episode_07/assets/storyboards/BOARD_02.png",
+  "parent_commit": "3f50be7565db3669e98af86f8a1cca31df399da9",
+  "parent_sha256": "d64420f4df7c080dec0e9b34f7a51ed483f97e8884da89f6796c16a4b65d84cd",
+  "selected_sha256": "ae339f891e1a85939c404ba24c7c5ccd0815c6a0c64456714501cf344869ea05",
+  "parent_size": [
+    1672,
+    941
+  ],
+  "selected_size": [
+    1672,
+    941
+  ],
+  "parent_git_blob": "eb16aadb216a64653611a9572f888530122f4186",
+  "selected_git_blob": "0abb3fdefb28a9c3f841756af3deaaf162cd3644",
+  "method": "Reference-guided ImageGen reblocking composited on the left, based on the original SHOT_006 panel and Dan's original portrait. Keep the original label, Nina and Leo.",
+  "repair_source": {
+    "file": "exec-7a179caf-bfa1-4a25-a1c0-80cb226901fd.png",
+    "sha256": "736aa84fb73706554f102fe8a10ebea9ef2934c2ab93f5a57585b58eabc6b3a1"
+  },
+  "request": "Include Dan taking envelope in right hand at edge.",
+  "changed_bounds_xyxy": [
+    842,
+    7,
+    1145,
+    470
+  ],
+  "preserved_panels": {
+    "1": {
+      "bounds_xyxy": [
+        0,
+        0,
+        836,
+        470
+      ],
+      "rgb_sha256_before_and_after": "eb0000b291546af88c53796ff8d70fc84c3216b0d1ecf5dbbba396313d34c091"
+    },
+    "3": {
+      "bounds_xyxy": [
+        0,
+        470,
+        836,
+        941
+      ],
+      "rgb_sha256_before_and_after": "e70738a047080d6e73ea1463c52decf16e794dbdb43ff66e34e1adfa1f0d3c2e"
+    },
+    "4": {
+      "bounds_xyxy": [
+        836,
+        470,
+        1672,
+        941
+      ],
+      "rgb_sha256_before_and_after": "e5f44f42fbcc2f9ad57ea6658cd3459ed3c717894c5d81882c3109ef0e734a4e"
+    }
+  },
+  "qa_updates": {
+    "SHOT_006": {
+      "observed": "Dan accepts the single cream ticket envelope with his right hand while Maya hands it to him, Nina secures the blue folder, and Leo holds the navy bookbag.",
+      "severity": "review",
+      "correction": "Review the corrected storyboard pixels for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    }
+  },
+  "approval_carryover": {
+    "original_git_blob": "eb16aadb216a64653611a9572f888530122f4186",
+    "selected_git_blob": "0abb3fdefb28a9c3f841756af3deaaf162cd3644",
+    "method": "Compared complete decoded RGBA quadrants including boundaries.",
+    "preserved_approved_panels": {
+      "1": {
+        "box_xyxy": [
+          0,
+          0,
+          836,
+          471
+        ],
+        "rgba_sha256": "b43e488fe7ab435e4430a11cdf787136a26e93264da3fc62298127d8dbab8994",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      },
+      "3": {
+        "box_xyxy": [
+          0,
+          470,
+          836,
+          941
+        ],
+        "rgba_sha256": "a2fabfcdf75db82d41caddd366b0b68c755d0ae69b1ea10c7db50d9598782fd3",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      },
+      "4": {
+        "box_xyxy": [
+          836,
+          470,
+          1672,
+          941
+        ],
+        "rgba_sha256": "248bceea641124a323f1fbf219698b0923ef6044a57a3fefd33ffeaa1457f4d1",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      }
+    }
+  }
+}

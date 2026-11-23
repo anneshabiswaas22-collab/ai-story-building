@@ -1,0 +1,98 @@
+{
+  "episode": 6,
+  "board": 18,
+  "path": "Episode_06/assets/storyboards/BOARD_18.png",
+  "parent_commit": "8948515d0bf72507c8fc419b343c043310e0ab7c",
+  "parent_sha256": "d4d30014fb0b6bb3b6f2f0e96d5b5603ef75e21820640c35eee2644f51b2719d",
+  "parent_git_blob": "1d53897bbd6fef1602ddf9820a54c9318dd6c70b",
+  "selected_sha256": "75bdbd483fa2e2dc85ad17772b5fd7e0674c3c30bdd3d9279db4dac4d070fed8",
+  "selected_git_blob": "67c4708c59f2fd27fd24c08c158e7ed12294d004",
+  "parent_size": [
+    1672,
+    941
+  ],
+  "selected_size": [
+    1672,
+    941
+  ],
+  "method": "Replaced the misdirected walk silhouette using the selected body and floor from the referenced ImageGen edit. Retained the original counter, doorway, table, two seated characters and approval scope.",
+  "references": [
+    "Episode_06/STORY.md",
+    "Episode_06/CONTINUITY.md",
+    "Episode_06/assets/environments/RESTAURANT_WIDE.png",
+    "Episode_06/assets/environments/SERVICE_COUNTER.png"
+  ],
+  "selected_panels": [
+    4
+  ],
+  "preserved_panels": [
+    1,
+    2,
+    3
+  ],
+  "preserved_panel_rgb_sha256": {
+    "1": "40206d4e604578027518d64e7430af38658168a0a7507444e90f930dd64d2a27",
+    "2": "3cb546818f3216baffee2d8eb31ffb5b428c0f3166b6e4dbc953d35d1c1c4e4e",
+    "3": "369c5249ad8e1a8bbc1a61c5a5b01dbe23ca129538918a06113be5f53b76df9c"
+  },
+  "qa_updates": {
+    "SHOT_072": {
+      "observed": "Dan walks across the aisle toward the rear-right service counter, clearly separated from the left-hand glass door. Maya and Nina stay seated, and Nina retains the single closed box.",
+      "severity": "review",
+      "status": "NEEDS_HUMAN_REVIEW",
+      "verification": "Verified the character's gaze and path against RESTAURANT_WIDE. The original table, takeout box and six water glasses were retained. The previous three approved panels are pixel-identical.",
+      "correction": "Review these replacement pixels with the creator."
+    }
+  },
+  "generated_source": "artwork_qa/sources/ep06-board18-walk-to-counter-edit.png",
+  "generated_source_sha256": "05501fcdba1e24bddffcb8f759ffe5b63b7b265a7ee6ad8ed75379726615b743",
+  "generated_source_size": [
+    1671,
+    941
+  ],
+  "selected_rectangles_xyxy": [
+    [
+      975,
+      527,
+      1255,
+      902
+    ]
+  ],
+  "approval_carryover": {
+    "original_git_blob": "1d53897bbd6fef1602ddf9820a54c9318dd6c70b",
+    "selected_git_blob": "67c4708c59f2fd27fd24c08c158e7ed12294d004",
+    "method": "Compared complete decoded RGBA quadrants including boundaries.",
+    "preserved_approved_panels": {
+      "1": {
+        "box_xyxy": [
+          0,
+          0,
+          836,
+          471
+        ],
+        "rgba_sha256": "09c232a8d16da225e60a447eeda22c1ee179252210f064115575507e59321cc4",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      },
+      "2": {
+        "box_xyxy": [
+          836,
+          0,
+          1672,
+          471
+        ],
+        "rgba_sha256": "282bb566310936666b314930a8962816c62b59635af17b8f77ec165bcbf9b6dc",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      },
+      "3": {
+        "box_xyxy": [
+          0,
+          470,
+          836,
+          941
+        ],
+        "rgba_sha256": "62d8bc90ea42c6b57bb0aeffce898c4d132217b01adb6de908e6999e9cd83e3f",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      }
+    }
+  }
+}

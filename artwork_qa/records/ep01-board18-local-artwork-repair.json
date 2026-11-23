@@ -1,0 +1,81 @@
+{
+  "episode": 1,
+  "board": 18,
+  "path": "Episode_01/assets/storyboards/BOARD_18.png",
+  "parent_commit": "8948515d0bf72507c8fc419b343c043310e0ab7c",
+  "parent_sha256": "39f06facd96d017ee8efdcd3ce92dd9621e889886bbd49e0d32e50ba65543e2c",
+  "selected_sha256": "230882d1caff67b3a5602ad8c617adc99c2805e54021545feddc4d192a5110ce",
+  "parent_size": [
+    1671,
+    941
+  ],
+  "selected_size": [
+    1671,
+    941
+  ],
+  "selected_panels": [
+    2
+  ],
+  "preserved_panels": [
+    1,
+    3,
+    4
+  ],
+  "pixel_identity_verified": [
+    1,
+    3,
+    4
+  ],
+  "edits": {
+    "2": {
+      "method": "Referenced ImageGen panel correction composited into the original grid, with the original printed badge and gutters retained.",
+      "references": {
+        "exec-efd4b757-a69e-44a1-9b86-b3ef90cfc53d.png": "82151dd2438fc6c50114911b453a2315aeb6d543979c56426d9dd62de1e1dc2b",
+        "Episode_01/assets/characters/DAN_portrait.jpg": "ab292320db7190ccff07d6109c0dce0ca650c3db81e49fd51954872e818d2331",
+        "Episode_01/assets/characters/ELLA_portrait.jpg": "6cdaced49b8f4a4df4f5594dc03fc30b1f6e37d389ded5d6dba66d07875bcb69",
+        "Episode_01/assets/characters/LEO_portrait.jpg": "297622dcf4517b535c9d2eef119db1791ae70e9b5fe504f537a179c403107998"
+      },
+      "changed_panel_bounds_xyxy": [
+        3,
+        3,
+        832,
+        467
+      ]
+    }
+  },
+  "qa_updates": {
+    "SHOT_070": {
+      "observed": "There are exactly six settings, with two on each long edge and one at either end. Dan positions the far-left plate while Leo and Ella set the end plates. No seventh plate sits beside the vase.",
+      "severity": "review",
+      "correction": "Creator review of corrected pixels pending.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    }
+  },
+  "approval_carryover": {
+    "original_git_blob": "6728c88276bb5755e94453247f82a27b4152cf1d",
+    "selected_git_blob": "29cfa3d85f1279ee3de9d063a8031201ccfbcc03",
+    "method": "Compared complete decoded RGBA quadrants including boundaries.",
+    "preserved_approved_panels": {
+      "3": {
+        "box_xyxy": [
+          0,
+          470,
+          836,
+          941
+        ],
+        "rgba_sha256": "4f84638d3a9bf3003653b7d70f1266e260a4d6d3e25db2b8315c5cb30a48418d",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      },
+      "4": {
+        "box_xyxy": [
+          835,
+          470,
+          1671,
+          941
+        ],
+        "rgba_sha256": "e49a477a1ec3ada295ca74a3e99e18a71688bea6d6b55a6595301c646af9d0c0",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      }
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "episode": 6,
+  "board": 19,
+  "path": "Episode_06/assets/storyboards/BOARD_19.png",
+  "parent_commit": "8948515d0bf72507c8fc419b343c043310e0ab7c",
+  "parent_sha256": "ea9ba4046d869985b91a7ac0aa335cfbf834f8f86bd49c49b49843de767b57de",
+  "parent_git_blob": "971eae11d01a6f3a25a0d1745f7bc378ace1a863",
+  "selected_sha256": "f031b0bc8853f113c5cb3c9bead62d8c0f7a61fe11847d7427a4e9515ff07e58",
+  "selected_git_blob": "842c421c34c92f687061752403bffbebda46b407",
+  "parent_size": [
+    1672,
+    941
+  ],
+  "selected_size": [
+    1672,
+    941
+  ],
+  "method": "Perspective-composited stylized storyboard prop currency and precisely typeset receipt values inside the original paper shapes, with masks preserving finger overlaps. Added the missing $1 and two dimes to the counter during the change handoff. The original cast, badges, furniture, watch and wallet were preserved.",
+  "references": [
+    "Episode_06/STORY.md",
+    "Episode_06/CONTINUITY.md",
+    "Episode_06/assets/overlays/DINNER_CHECK.svg"
+  ],
+  "selected_panels": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "preserved_panels": [],
+  "preserved_panel_rgb_sha256": {},
+  "qa_updates": {
+    "SHOT_073": {
+      "observed": "Exactly four fanned twenty-dollar storyboard prop bills are visible in Dan's hand as he pays the server $80. The original folder and hand-only server are present.",
+      "severity": "review",
+      "status": "NEEDS_HUMAN_REVIEW",
+      "verification": "Counted four separate bills with visible 20 denominations in the selected art. Compared to the payment ledger.",
+      "correction": "Review these replacement pixels with the creator."
+    },
+    "SHOT_074": {
+      "observed": "Dan holds a $10 and a $5 prop note. A $1 note and two dimes sit beside the handoff on the counter. The receipt shows the $63.80 check and $16.20 returned change.",
+      "severity": "review",
+      "status": "NEEDS_HUMAN_REVIEW",
+      "verification": "Inspected the actual notes and coins at full resolution. Receipt figures were set from DINNER_CHECK.svg, and the five cash pieces total $16.20.",
+      "correction": "Review these replacement pixels with the creator."
+    },
+    "SHOT_075": {
+      "observed": "Dan places one clearly denominated $10 prop note on the tip tray. His wallet remains in his right hand and his watch on the left.",
+      "severity": "review",
+      "status": "NEEDS_HUMAN_REVIEW",
+      "verification": "The note uses the same ten-dollar artwork as the returned change. Checked that only one note is on the tray and that the rest is retained in the wallet.",
+      "correction": "Review these replacement pixels with the creator."
+    },
+    "SHOT_076": {
+      "observed": "The visible receipt reads $63.80 as Dan puts it into the wallet at his right trouser pocket. His watch stays on his left wrist.",
+      "severity": "review",
+      "status": "NEEDS_HUMAN_REVIEW",
+      "verification": "Used the check-total value from DINNER_CHECK.svg on the slip. The folded rehearsal note remains separately in the pocket per the established sequence.",
+      "correction": "Review these replacement pixels with the creator."
+    }
+  },
+  "selected_rectangles_xyxy": [
+    [
+      414,
+      211,
+      588,
+      336
+    ],
+    [
+      1148,
+      269,
+      1563,
+      459
+    ],
+    [
+      545,
+      829,
+      677,
+      911
+    ],
+    [
+      1188,
+      825,
+      1258,
+      887
+    ]
+  ],
+  "approval_carryover": {
+    "original_git_blob": "971eae11d01a6f3a25a0d1745f7bc378ace1a863",
+    "selected_git_blob": "842c421c34c92f687061752403bffbebda46b407",
+    "method": "Compared complete decoded RGBA quadrants including boundaries.",
+    "preserved_approved_panels": {}
+  }
+}
