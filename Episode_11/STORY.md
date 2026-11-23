@@ -755,10 +755,11 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 ### SHOT_034 | 00:08:15–00:08:30 | Save the big spot
 
-**Visible cast:** NINA, MAX, LEO
+**Visible cast:** MAX, LEO
+**Off-screen cast:** NINA
 **Location:** GUEST_ROOM
 **Camera:** Low insert along the table. Show the blue strip at one end and the separate orange dot at the other.
-**Action:** Nina takes the orange dot and puts it on the tabletop nearer the lamp, a hand's width in front of its base. Max looks from the dot to the little strip and grins.
+**Action:** At Nina's question from beside the table, Max takes the orange dot from Leo's backing and presses it a handspan in front of the lamp base. The boys sight the distance to the blue strip and grin.
 **Opening state:** The blue strip is set at the screen. Leo holds the backing with one orange dot.
 **End state:** Blue means small near the screen. Orange marks the big-shadow spot nearer the lamp.
 **Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 2 (top right). Creator and individual first-frame approval pending.
@@ -1000,7 +1001,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 **Visible cast:** ELLA, MAX
 **Location:** GUEST_ROOM
-**Camera:** Overhead oblique across the wooden frame. Their shoulders face each other.
+**Camera:** Sight along the narrow upright from a slightly raised angle. Include both sets of pointing hands across the frame.
 **Action:** Ella points to her left. Max moves to his own left and the last curl slips out. They can see each other's pointing hands at opposite ends of the frame.
 **Opening state:** Ella is on the audience side. Max operates from the other side, facing her.
 **End state:** Pip has disappeared beyond the edge. The performers have identified two different viewpoints.

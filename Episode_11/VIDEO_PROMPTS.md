@@ -803,9 +803,10 @@
 ## SHOT_034 | 00:08:15–00:08:30 | Save the big spot
 
 **Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
-**Characters:** NINA, MAX, LEO. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
+**Characters:** MAX, LEO. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
+**Off-screen cast:** NINA
 **Composition:** Low insert along the table. Show the blue strip at one end and the separate orange dot at the other.
-**Action:** Nina takes the orange dot and puts it on the tabletop nearer the lamp, a hand's width in front of its base. Max looks from the dot to the little strip and grins.
+**Action:** At Nina's question from beside the table, Max takes the orange dot from Leo's backing and presses it a handspan in front of the lamp base. The boys sight the distance to the blue strip and grin.
 **Starting continuity:** The blue strip is set at the screen. Leo holds the backing with one orange dot.
 **Ending continuity:** Blue means small near the screen. Orange marks the big-shadow spot nearer the lamp.
 **Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 2 (top right). Creator and individual first-frame approval pending.
@@ -1069,7 +1070,7 @@
 
 **Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** ELLA, MAX. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
-**Composition:** Overhead oblique across the wooden frame. Their shoulders face each other.
+**Composition:** Sight along the narrow upright from a slightly raised angle. Include both sets of pointing hands across the frame.
 **Action:** Ella points to her left. Max moves to his own left and the last curl slips out. They can see each other's pointing hands at opposite ends of the frame.
 **Starting continuity:** Ella is on the audience side. Max operates from the other side, facing her.
 **Ending continuity:** Pip has disappeared beyond the edge. The performers have identified two different viewpoints.
