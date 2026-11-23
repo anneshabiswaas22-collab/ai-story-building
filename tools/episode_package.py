@@ -384,13 +384,15 @@ def build(episode, config=None):
             subtitles.extend([str(cue), f'{timestamp(cursor, True)} --> {timestamp(end, True)}',
                               *textwrap.wrap(line, width=46, break_long_words=False, break_on_hyphens=False), ''])
     index = [f'# Episode {number:02} — storyboard index', '',
-             'Twenty four-panel sheet slots map all 80 story shots. Generated images are composition drafts; '
-             'creator approval and individual motion first frames remain pending. '
+             'Twenty four-panel sheets map all 80 story shots. The [creator approval record](../CURRENT_PRODUCTION_STATUS.md) '
+             'identifies reviewed panels. Individual motion first frames remain pending. '
              'Read panels top-left, top-right, bottom-left, bottom-right. '
              'See the [gallery](STORYBOARD_GALLERY.md), [provenance](assets/storyboards/GENERATION_NOTES.md) and '
              '[scene plan](SCENE_REFERENCE_PLAN.md).', '',
              '| Group ID | Shot coverage | Opening beat | Image | Art status |', '|---|---|---|---|---|']
-    gallery = [f'# Episode {number:02} — {title}: storyboard gallery', '', intro, '',
+    gallery = [f'# Episode {number:02} — {title}: storyboard gallery', '',
+               'The [creator approval record](../CURRENT_PRODUCTION_STATUS.md) identifies reviewed panels. '
+               'Individual motion first frames require separate approval.', '',
                '[Shot index](STORYBOARD_INDEX.md) · [HTML gallery](assets/storyboards/index.html) · '
                '[Generation notes](assets/storyboards/GENERATION_NOTES.md)', '']
     figures = []
@@ -398,7 +400,7 @@ def build(episode, config=None):
         name = f'BOARD_{i + 1:02}.png'
         first, last = i * 4 + 1, i * 4 + 4
         exists = (episode / 'assets/storyboards' / name).is_file()
-        status = 'Illustrated draft; creator approval pending' if exists else 'Illustration pending; creator approval pending'
+        status = 'Illustrated sheet. Motion first frames pending.' if exists else 'Illustration pending.'
         label = f'BOARD_{i + 1:02} — SHOT_{first:03}–SHOT_{last:03}'
         index.append(f'| BOARD_{i + 1:02} | SHOT_{first:03}–SHOT_{last:03} | {titles[first-1]} | [{name}](assets/storyboards/{name}) | {status} |')
         captions = ' · '.join(f'SHOT_{j:03}: {titles[j-1]}' for j in range(first, last+1))
@@ -413,7 +415,7 @@ def build(episode, config=None):
         name, panel = f'BOARD_{(n-1)//4+1:02}.png', (n-1)%4+1
         cells = [f'SHOT_{n:03}', beat, f'{f["Location"]} / {f["Visible cast"]}',
                  f'{f["Camera"]} Opening: {f["Opening state"]}',
-                 f'[{name}](assets/storyboards/{name}), panel {panel}; creator approval pending']
+                 f'[{name}](assets/storyboards/{name}), panel {panel}. [Shot QA](../docs/qa/Episode_{number:02}.tsv#L{n + 1}). Motion first frame pending.']
         index.append('| ' + ' | '.join(cell.replace('|', '\\|') for cell in cells) + ' |')
     index.extend(['', '## Production acceptance', '',
                   'Match original identities, W01 wardrobe, the precise cameo limits, local geography and each shot state. '
@@ -434,7 +436,9 @@ def build(episode, config=None):
             'a{color:#175f86}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,600px),1fr));gap:24px}'
             'figure{margin:0;background:white;border:1px solid #ddd;border-radius:12px;overflow:hidden}'
             'figcaption,figure p{padding:12px}img{display:block;width:100%;height:auto}</style>'
-            f'<h1>Episode {number:02}: {escape(title)}</h1><p>{escape(intro)}</p>'
+            f'<h1>Episode {number:02}: {escape(title)}</h1>'
+            '<p><a href="../../../CURRENT_PRODUCTION_STATUS.md">Storyboard panel approvals</a>. '
+            'Individual motion first frames require separate approval.</p>'
             '<p><a href="../../STORY.md">Screenplay</a> · <a href="../../STORYBOARD_INDEX.md">Shot index</a> · '
             '<a href="GENERATION_NOTES.md">Provenance</a></p><main class="grid">' + ''.join(figures) + '</main>'
             '<h2>Five clean environments</h2><section class="grid">' + ''.join(env_html) + '</section>'
