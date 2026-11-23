@@ -9,7 +9,6 @@ from __future__ import annotations
 
 import argparse
 import csv
-import hashlib
 import io
 from pathlib import Path
 import re
@@ -19,6 +18,7 @@ from urllib.parse import unquote, urlsplit
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT))
 from tools.episode_package import validate_png, validate_graphics, load_config
+from tools.storyboard_review import approved_panels, git_blob_id, ledger_statuses, panel_review
 
 TOTAL_EPISODES = 10
 BOARD_COUNT = 20
@@ -55,10 +55,6 @@ def seconds(timestamp: str) -> int:
     if minutes >= 60 or secs >= 60:
         raise ValueError(f"invalid timestamp {timestamp}")
     return 3600 * hours + 60 * minutes + secs
-
-
-def sha(path: Path) -> str:
-    return hashlib.sha256(path.read_bytes()).hexdigest()
 
 
 def parse_shots(source: str) -> list[dict[str, str | int]]:
@@ -129,11 +125,21 @@ def audit(root: Path = ROOT) -> tuple[list[dict], list[str], list[dict]]:
     issues = []
     episodes = []
     manifest = []
+    try:
+        approvals = approved_panels(root)
+    except (KeyError, ValueError, OSError, csv.Error) as exc:
+        issues.append(f"Storyboard approval records: {exc}")
+        approvals = set()
     baseline_cast = root / "Episode_01/assets/characters"
     baseline_kitchen = root / "Episode_01/assets/environments/HOME_KITCHEN.jpg"
     rose_ref = root / "Episode_04/assets/supporting/ROSE_reference.png"
     for number in range(1, TOTAL_EPISODES + 1):
         ep = root / f"Episode_{number:02}"
+        try:
+            qa = ledger_statuses(root, ep.name)
+        except (KeyError, ValueError, OSError, csv.Error) as exc:
+            issues.append(f"Episode {number:02}: QA ledger: {exc}")
+            qa = {}
         missing_files = [name for name in REQUIRED_FILES if not (ep / name).is_file()]
         for name in missing_files:
             issues.append(f"Episode {number:02}: missing {name}")
@@ -144,11 +150,13 @@ def audit(root: Path = ROOT) -> tuple[list[dict], list[str], list[dict]]:
         for name in sorted(unexpected):
             issues.append(f"Episode {number:02}: unexpected storyboard name {name}")
         duplicate_hashes: dict[str, str] = {}
+        board_blobs = {}
         for name in sorted(present):
             image = folder / name
             try:
                 validate_png(image)
-                digest = sha(image)
+                digest = git_blob_id(image)
+                board_blobs[name] = digest
                 if digest in duplicate_hashes:
                     issues.append(f"Episode {number:02}: {name} duplicates {duplicate_hashes[digest]}")
                 duplicate_hashes[digest] = name
@@ -210,12 +218,17 @@ def audit(root: Path = ROOT) -> tuple[list[dict], list[str], list[dict]]:
         issues.extend(f"Episode {number:02}: {message}" for message in link_problems(ep, missing))
         for shot in shots:
             board = board_name((shot["id"] - 1) // 4 + 1)
+            panel = (shot["id"] - 1) % 4 + 1
+            review = "qa_unavailable"
+            if shot["id"] in qa:
+                path = f"{ep.name}/assets/storyboards/{board}"
+                review = panel_review(qa[shot["id"]], path, board_blobs.get(board), panel, approvals)
             manifest.append({
                 "episode": f"{number:02}", "shot": f"SHOT_{shot['id']:03}",
                 "start": shot["start"], "end": shot["end"],
-                "board": board, "panel": (shot["id"] - 1) % 4 + 1,
+                "board": board, "panel": panel,
                 "board_file_exists": "YES" if board in present else "NO",
-                "board_approval": "PENDING", "visible_cast": shot["visible"],
+                "board_approval": review, "visible_cast": shot["visible"],
                 "offscreen_cast": shot["offscreen"], "location": shot["location"],
                 "speakers": shot["speakers"], "dialogue_words": shot["words"],
                 "first_frame": "NOT_APPROVED", "motion": "NOT_GENERATED",
@@ -247,8 +260,9 @@ def markdown_report(episodes: list[dict], issues: list[str], manifest: list[dict
     lines += [
         "", "## Remaining production gates",
         "",
-        f"- {200 - total} missing board files must be generated as genuine images by Codex/image-capable tools.",
-        "- Saved visuals require human correction/approval according to per-episode CHECKPOINT.md and generation notes.",
+        f"- Storyboard sheets absent from this checkout: {200 - total}.",
+        f"- Panels matching recorded creator approvals: {sum(row['board_approval'] == 'creator_approved' for row in manifest)}.",
+        f"- Open visual findings: {sum(row['board_approval'] == 'open_visual_defect' for row in manifest)}. Consult the episode QA ledgers for the requested repairs.",
         "- Original high-resolution masters, 800 approved individual motion first frames, performed voices, and rendered films are not established by this audit.",
         "",
         "## Structural issues (not missing planned boards)",
@@ -288,14 +302,14 @@ def main() -> int:
         print(f"ERROR: {item}", file=sys.stderr)
     remaining = sum(BOARD_COUNT - row["boards"] for row in episodes)
     print(f"TOTAL: {len(manifest)}/800 shots, {200 - remaining}/200 boards; "
-          f"{remaining} not generated; image/first-frame approval not verified")
+          f"{remaining} absent from this checkout. Individual motion frames require separate approval.")
     if issues:
         return 1
     if opts.strict_art and remaining:
         print(f"FAIL strict-art: {remaining} genuine storyboard boards are still missing", file=sys.stderr)
         return 2
     print("PASS structural audit; artwork status remains PARTIAL" if remaining else
-          "PASS structural audit; all board files exist but visual approval remains pending")
+          "PASS structural audit. See the per-shot board_approval values for the recorded review decisions.")
     return 0
 
 

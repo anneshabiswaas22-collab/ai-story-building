@@ -1,16 +1,41 @@
 """Regression checks for the dynamic, non-image episode audit."""
+import csv
 from pathlib import Path
 import tempfile
 import unittest
 
 from tools.audit_series import (
-    BOARD_COUNT, board_name, link_problems, parse_shots,
+    BOARD_COUNT, board_name, link_problems, markdown_report, parse_shots,
     structural_shot_problems, wanted_boards,
 )
 from tools.check_series import boards_for_episode, EXPECTED
+from tools.storyboard_review import ledger_statuses
 
 
 class EpisodeAuditTests(unittest.TestCase):
+    def test_review_summary_keeps_defects_separate_from_approved_panels(self):
+        manifest = [{"board_approval": status} for status in
+                    ("creator_approved", "open_visual_defect", "image_unavailable")]
+        report = markdown_report([], [], manifest)
+        self.assertIn("Panels matching recorded creator approvals: 1.", report)
+        self.assertIn("Open visual findings: 1.", report)
+
+    def test_incorrect_mapping_cannot_supply_an_approval_status(self):
+        root = Path(__file__).resolve().parents[1]
+        source = root / "docs/qa/Episode_06.tsv"
+        with source.open(encoding="utf-8", newline="") as stream:
+            rows = list(csv.DictReader(stream, delimiter="\t"))
+        with tempfile.TemporaryDirectory() as temp:
+            target = Path(temp) / "docs/qa/Episode_06.tsv"
+            target.parent.mkdir(parents=True)
+            rows[16]["board"] = "BOARD_06"
+            with target.open("w", encoding="utf-8", newline="") as stream:
+                writer = csv.DictWriter(stream, fieldnames=list(rows[0]), delimiter="\t")
+                writer.writeheader()
+                writer.writerows(rows)
+            with self.assertRaisesRegex(ValueError, "SHOT_017"):
+                ledger_statuses(Path(temp), "Episode_06")
+
     def test_expected_full_board_set_is_1_to_20(self):
         self.assertEqual(20, BOARD_COUNT)
         self.assertEqual(wanted_boards(), EXPECTED)

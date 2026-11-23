@@ -20,6 +20,7 @@ import sys
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT))
 from tools.dialogue_timing import cue_windows
+from tools.storyboard_review import approved_panels, git_blob_id, ledger_statuses, panel_review
 from tools.episode_package import (
     FAMILY, load_config, shots, validate_subtitles,
     PROMPT_FIELDS, cast_names, seconds,
@@ -46,41 +47,6 @@ QUOTE_FIELDS = ("Visible cast", "Location", "Camera", "Action", "Opening state",
 
 def sha256(path: Path) -> str:
     return hashlib.sha256(path.read_bytes()).hexdigest()
-
-
-def git_blob_id(path: Path) -> str:
-    """Identify the exact working-copy bytes using this repository's Git object format."""
-    data = path.read_bytes()
-    digest = hashlib.sha1(f"blob {len(data)}\0".encode("ascii"))
-    digest.update(data)
-    return digest.hexdigest()
-
-
-def approved_panels(root: Path) -> set[tuple[str, str, int]]:
-    approved = set()
-    with (root / "docs/qa/creator-approved-panels.tsv").open(encoding="utf-8", newline="") as stream:
-        for row in csv.DictReader(stream, delimiter="\t"):
-            path, blob = row["board_path"], row["git_blob"]
-            panels = row["panels"].split(",")
-            if (not re.fullmatch(r"Episode_(?:0[1-9]|10)/assets/storyboards/BOARD_(?:0[1-9]|1\d|20)\.png", path)
-                    or not re.fullmatch(r"[0-9a-f]{40}", blob)
-                    or not re.fullmatch(r"[0-9a-f]{40}", row["reviewed_revision"])
-                    or not set(panels) <= {"1", "2", "3", "4"}):
-                raise ValueError(f"Invalid storyboard approval record for {path}")
-            approved.update((path, blob, int(panel)) for panel in panels)
-    return approved
-
-
-def panel_review(status: str, path: str, blob: str | None, panel: int, approvals: set) -> str:
-    if status == "FAIL":
-        return "open_visual_defect"
-    if status != "NEEDS_HUMAN_REVIEW":
-        raise ValueError(f"Unsupported QA status {status!r} for {path} panel {panel}")
-    if blob is None:
-        return "image_unavailable"
-    if (path, blob, panel) in approvals:
-        return "creator_approved"
-    return "awaiting_creator_review"
 
 
 def environment_for(ep: Path, location: str, config: dict | None) -> str:
@@ -162,10 +128,7 @@ def build_records(root: Path = ROOT) -> list[dict]:
         config = load_config(ep) if episode >= 4 else None
         if len(titles) != 80:
             raise ValueError(f"Episode {episode:02}: missing shot titles")
-        with (root / "docs/qa" / f"{ep.name}.tsv").open(encoding="utf-8", newline="") as stream:
-            qa = list(csv.DictReader(stream, delimiter="\t"))
-        if [row["shot"] for row in qa] != [f'SHOT_{s["id"]}' for s in story]:
-            raise ValueError(f"{ep.name}: QA ledger must contain one ordered row per shot")
+        qa = ledger_statuses(root, ep.name)
         board_blobs = {}
         script_hash = sha256(story_path)
         for i, shot in enumerate(story):
@@ -178,8 +141,6 @@ def build_records(root: Path = ROOT) -> list[dict]:
             board = f"BOARD_{(number - 1) // 4 + 1:02}.png"
             panel = (number - 1) % 4 + 1
             board_path = f"{ep.name}/assets/storyboards/{board}"
-            if qa[i]["board"].removesuffix(".png") != board.removesuffix(".png"):
-                raise ValueError(f"{ep.name} SHOT_{sid}: QA ledger names the wrong sheet")
             if board not in board_blobs:
                 selected = root / board_path
                 board_blobs[board] = git_blob_id(selected) if selected.is_file() else None
@@ -230,7 +191,7 @@ def build_records(root: Path = ROOT) -> list[dict]:
                 "planned_speaking_wpm": planned_wpm,
                 "editorial_timing_review": "recommended" if planned_wpm > 160 else "pending_real_voice",
                 "board_visual_status": "composition_sheet_present" if refs["board_exists"] else "missing",
-                "storyboard_panel_review": panel_review(qa[i]["status"], board_path, blob, panel, approvals),
+                "storyboard_panel_review": panel_review(qa[number], board_path, blob, panel, approvals),
                 "individual_first_frame": "not_approved",
                 "performed_audio": "not_documented",
                 "motion_video": "not_documented",
