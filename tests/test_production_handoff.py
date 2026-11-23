@@ -6,11 +6,34 @@ import unittest
 
 from tools.episode_package import shots
 from tools.production_handoff import (
-    build_records, cue_records, environment_for, export, prompt_alignment,
-    review_rows,
+    approved_panels, build_records, cue_records, environment_for, export,
+    git_blob_id, panel_review, prompt_alignment, review_rows,
 )
 
 ROOT = Path(__file__).resolve().parents[1]
+
+
+class StoryboardApprovalTests(unittest.TestCase):
+    def test_working_file_identity_matches_git(self):
+        with tempfile.TemporaryDirectory() as temp:
+            file = Path(temp) / "example"
+            file.write_bytes(b"test content\n")
+            self.assertEqual(git_blob_id(file), "d670460b4b4aece5915caf5c68d12f560a9fe3e4")
+
+    def test_mixed_sheet_approvals_are_bound_to_reviewed_pixels(self):
+        path = "Episode_06/assets/storyboards/BOARD_05.png"
+        blob = "1f9c08849581422a9892dc10208832e73c77d665"
+        approvals = approved_panels(ROOT)
+        review = "NEEDS_HUMAN_REVIEW"
+        for panel in (1, 4):
+            self.assertEqual(panel_review(review, path, blob, panel, approvals), "creator_approved")
+            self.assertEqual(panel_review(review, path, "0" * 40, panel, approvals), "awaiting_creator_review")
+            self.assertEqual(panel_review(review, path, None, panel, approvals), "image_unavailable")
+        for panel in (2, 3):
+            self.assertEqual(panel_review(review, path, blob, panel, approvals), "awaiting_creator_review")
+            self.assertEqual(panel_review("FAIL", path, blob, panel, approvals), "open_visual_defect")
+        self.assertEqual(panel_review("FAIL", path, blob, 1, approvals), "open_visual_defect")
+        self.assertEqual(panel_review("FAIL", path, None, 2, approvals), "open_visual_defect")
 
 
 class ProductionHandoffTests(unittest.TestCase):
@@ -39,7 +62,7 @@ class ProductionHandoffTests(unittest.TestCase):
                 self.assertEqual(row["board_visual_status"], "missing")
             else:
                 self.assertTrue((ROOT / refs["board"]).is_file())
-                self.assertEqual(row["board_visual_status"], "unapproved_illustrated_draft")
+                self.assertEqual(row["board_visual_status"], "composition_sheet_present")
         expected_missing = {
             (f"{episode:02}", f"BOARD_{board:02}.png")
             for episode in range(1, 11)
@@ -108,6 +131,8 @@ class ProductionHandoffTests(unittest.TestCase):
             data = [json.loads(line) for line in (target / "shot-production.jsonl").read_text().splitlines()]
             self.assertEqual(len(data), 800)
             self.assertEqual(data[0]["episode"], "01")
+            self.assertEqual(data[0]["storyboard_panel_review"], self.records[0]["storyboard_panel_review"])
+            self.assertIn("storyboard_panel_review", (target / "shot-production-index.tsv").read_text().splitlines()[0])
             self.assertEqual(len((target / "shot-production-index.tsv").read_text().splitlines()), 801)
             self.assertEqual(len((target / "adjacent-shot-continuity-review.tsv").read_text().splitlines()), 791)
             self.assertEqual(len((target / "episode-dialogue-qa.tsv").read_text().splitlines()), 11)
