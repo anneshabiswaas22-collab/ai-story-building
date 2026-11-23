@@ -1,0 +1,66 @@
+{
+  "episode": 6,
+  "board": 13,
+  "path": "Episode_06/assets/storyboards/BOARD_13.png",
+  "parent_commit": "3f6568bcc11195376ed3e11bbd0a632f64fa7ea2",
+  "parent_sha256": "ab5dc9e0400e9d3fcfdf2e039e4e648789e5010cda35852ca2fbb25b7435940d",
+  "selected_sha256": "2ce127cde6d359107bc78c9010723c8450082eaa21b1575aa5724bf5f07220c6",
+  "parent_size": [
+    1672,
+    941
+  ],
+  "selected_size": [
+    1672,
+    941
+  ],
+  "generated_source": "artwork_qa/sources/ep06-board13-ella-maya-opposite-seats.png",
+  "generated_source_sha256": "adc34efd61b86b9714335d681be8f459de96c70258b7c0b847982835b355c973",
+  "generated_source_size": [
+    1672,
+    941
+  ],
+  "method": "Registered the single-panel ImageGen correction to the original SHOT_050 opening. Restored the badge, verified the other three panels stayed pixel-identical to the last checkpoint, and retained the parent sheet and prior correction record.",
+  "request": "Use corrected SHOT_043 as the reverse-angle seating reference. Seat Maya and Ella directly across from one another on opposite long sides, with Nina beside and farther from camera than Maya on the same window side. Serve Maya pasta, Nina chicken and rice and Ella a filled potato, and have Ella open the center with her fork. Retain one water per person and no menus.",
+  "selected_panels": [
+    2
+  ],
+  "preserved_panels": [
+    1,
+    3,
+    4
+  ],
+  "preserved_panel_rgb_sha256": {
+    "1": "bc8695d09f68349ce1b5d52aaf15a92693fa859fd5549c044bf0feee3ce0c22e",
+    "3": "c70408940e8c4a612a39e707545631bc5ba42a7a747e922a1f241c3d4745796f",
+    "4": "a2a2c010d2d29b91f9aef7405a262f543bd6fbd0451d4086826c12ab225fc079"
+  },
+  "selected_rectangles_xyxy": [
+    [
+      842,
+      6,
+      1666,
+      466
+    ]
+  ],
+  "qa_updates": {
+    "SHOT_050": {
+      "observed": "Ella opens the filled potato with her fork. She and Maya sit opposite each other on the two long edges, with no one seated at the visible short end. Nina sits beside and behind Maya on the same window edge. Each diner has their own meal and water, and menus are gone.",
+      "severity": "review",
+      "correction": "Review the replacement panel for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW",
+      "verification": "Compared Ella and Maya's opposite locations to the corrected SHOT_043 reverse angle. Inspected Nina's middle window-side seat, the three assigned meals, the three waters and the cleared tabletop."
+    }
+  },
+  "image_inputs": [
+    "Episode_06/assets/storyboards/BOARD_11.png panel 3 seating angle",
+    "Episode_06/assets/storyboards/BOARD_13.png",
+    "Episode_06/assets/characters/ADULTS_lineup.jpg",
+    "Episode_06/assets/RESTAURANT_seating.svg"
+  ],
+  "approval_carryover": {
+    "original_git_blob": "a2625567ab35a9a446b8059db1fa4a0b6ddd7e6e",
+    "selected_git_blob": "786e63713c28bb9934022dbf690f155731b84d0a",
+    "method": "Compared complete decoded RGBA quadrants including boundaries.",
+    "preserved_approved_panels": {}
+  }
+}

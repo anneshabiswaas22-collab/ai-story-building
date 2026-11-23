@@ -140,3 +140,25 @@ Current ledger totals are 105 open visual findings across 67 storyboard sheets, 
 | 10 / [BOARD_05](../Episode_10/assets/storyboards/BOARD_05.png) | 018, 020 | [Recovery record](../artwork_qa/records/ep10-board05-porch-decorations-and-checklist.json) |
 
 <!-- /live-repair-checkpoint -->
+
+<!-- live-repair-checkpoint aef744cc4483562e -->
+## Repair checkpoint — 2026-11-23
+
+Current ledger totals are 90 open visual findings across 59 storyboard sheets, 621 creator-approved shots and 89 shots awaiting creator review. The [live repair queue](qa/BLOCKED_IMAGE_REPAIRS.md) links to the remaining findings.
+
+| Episode / sheet | Shots repaired | Verification |
+|---|---|---|
+| 01 / [BOARD_11](../Episode_01/assets/storyboards/BOARD_11.png) | 044 | [Recovery record](../artwork_qa/records/ep01-board11-continuity-fix.json) |
+| 01 / [BOARD_16](../Episode_01/assets/storyboards/BOARD_16.png) | 061 | [Recovery record](../artwork_qa/records/ep01-board16-continuity-fix.json) |
+| 02 / [BOARD_07](../Episode_02/assets/storyboards/BOARD_07.png) | 026 | [Recovery record](../artwork_qa/records/ep02-board07-continuity-fix.json) |
+| 02 / [BOARD_09](../Episode_02/assets/storyboards/BOARD_09.png) | 035 | [Recovery record](../artwork_qa/records/ep02-board09-continuity-fix.json) |
+| 03 / [BOARD_17](../Episode_03/assets/storyboards/BOARD_17.png) | 066 | [Recovery record](../artwork_qa/records/ep03-board17-continuity-fix.json) |
+| 04 / [BOARD_06](../Episode_04/assets/storyboards/BOARD_06.png) | 022 | [Recovery record](../artwork_qa/records/ep04-board06-continuity-fix.json) |
+| 06 / [BOARD_07](../Episode_06/assets/storyboards/BOARD_07.png) | 025, 026, 027 | [Recovery record](../artwork_qa/records/ep06-board07-clarification-with-fixed-seats.json) |
+| 06 / [BOARD_13](../Episode_06/assets/storyboards/BOARD_13.png) | 050 | [Recovery record](../artwork_qa/records/ep06-board13-ella-maya-opposite-seats.json) |
+| 06 / [BOARD_14](../Episode_06/assets/storyboards/BOARD_14.png) | 054 | [Recovery record](../artwork_qa/records/ep06-board14-left-aisle-and-child-bite.json) |
+| 08 / [BOARD_11](../Episode_08/assets/storyboards/BOARD_11.png) | Findings remain open | [Recovery record](../artwork_qa/records/ep08-board11-third-cube-composite-trim.json) |
+| 09 / [BOARD_03](../Episode_09/assets/storyboards/BOARD_03.png) | 011 | [Recovery record](../artwork_qa/records/ep09-board03-rectangular-coin-in-garden.json) |
+| 09 / [BOARD_17](../Episode_09/assets/storyboards/BOARD_17.png) | 066, 067, 068 | [Recovery record](../artwork_qa/records/ep09-board17-rear-sink-and-original-garden-props.json) |
+
+<!-- /live-repair-checkpoint -->

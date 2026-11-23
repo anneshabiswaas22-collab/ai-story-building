@@ -1,0 +1,78 @@
+{
+  "episode": 9,
+  "board": 3,
+  "path": "Episode_09/assets/storyboards/BOARD_03.png",
+  "parent_commit": "3f6568bcc11195376ed3e11bbd0a632f64fa7ea2",
+  "parent_sha256": "1f36849fcafb860c1be9c79039c8b66800840b6763c8eae155d4745e7a876605",
+  "selected_sha256": "a631371d1eeade25195858d250a0d5b013f08acbdba9956b379c7c15b257f137",
+  "parent_git_blob": "ab87695053bd123155511a43722b7c9bf26eac8f",
+  "selected_git_blob": "cb34a1b65e29c3dfd7728d5471388b1edf0d0cfa",
+  "parent_size": [
+    1672,
+    941
+  ],
+  "selected_size": [
+    1672,
+    941
+  ],
+  "method": "Selected the rendered correction to the paper coin prop in panel 3. Panel 4 retains its prior pixels pending correction of both its background and matching sketch.",
+  "reference_paths": [
+    "Episode_09/assets/storyboards/BOARD_01.png",
+    "Episode_09/CONTINUITY.md",
+    "Episode_09/STORY.md"
+  ],
+  "selected_panels": [
+    3
+  ],
+  "preserved_panels": [
+    1,
+    2,
+    4
+  ],
+  "preserved_panel_pixel_sha256": {
+    "1": "759aa2a52afcd4e7faf350d703c86ae311cc072ede1532241a17421448af386b",
+    "2": "ffdec70003c2e7ed32329f3413c4e6248e12dad53680aeb607e7ada03b956cce",
+    "4": "48b867ace314bde781b05ae7aabab64f9ffe5c4e33089973952f8226ed87c197"
+  },
+  "panel_edits": {
+    "record": "rectangular-coin-in-garden",
+    "regions": "Panel 3 inside original trim; original shot badge retained."
+  },
+  "qa_updates": {
+    "SHOT_011": {
+      "observed": "Max holds one pale rectangular scrap with the original thin double-ring pencil coin design. His fingers hold its lower corners; Ben, Dan and Maya remain in place.",
+      "severity": "review",
+      "correction": "Creator to review the repaired panel before accepting the new pixels.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    }
+  },
+  "generated_source": "artwork_qa/sources/ep09-board03-pencil-coin.png",
+  "generated_source_sha256": "af7b5cc7532f20a10c4d9582da29e8688f474d805c817ec2e951b8f70357dc34",
+  "approval_carryover": {
+    "original_git_blob": "ab87695053bd123155511a43722b7c9bf26eac8f",
+    "selected_git_blob": "cb34a1b65e29c3dfd7728d5471388b1edf0d0cfa",
+    "method": "Compared complete decoded RGBA quadrants including boundaries.",
+    "preserved_approved_panels": {
+      "1": {
+        "box_xyxy": [
+          0,
+          0,
+          836,
+          471
+        ],
+        "rgba_sha256": "92f7262e47364916238135971b16aec5b6e065c2f2d27afb440c92301a1c0514",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      },
+      "2": {
+        "box_xyxy": [
+          836,
+          0,
+          1672,
+          471
+        ],
+        "rgba_sha256": "bb58b66d5ce5246851c89e00b8cb96431457bba648d415b49ac07955a64b3a04",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      }
+    }
+  }
+}

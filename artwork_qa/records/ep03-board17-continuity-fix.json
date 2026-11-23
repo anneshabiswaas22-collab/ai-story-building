@@ -1,0 +1,81 @@
+{
+  "episode": 3,
+  "board": 17,
+  "path": "Episode_03/assets/storyboards/BOARD_17.png",
+  "parent_commit": "3f6568bcc11195376ed3e11bbd0a632f64fa7ea2",
+  "parent_sha256": "81649939eb66001fc3dd52673d5630d6e8271d1f256c0ab3e59848698c4bcc0c",
+  "selected_sha256": "b9a9aee3832ab4117fb3a5ad21c0188acb7ed9f1fb270527f307ff0e381526b7",
+  "parent_size": [
+    1671,
+    941
+  ],
+  "selected_size": [
+    1671,
+    941
+  ],
+  "selected_panels": [
+    2
+  ],
+  "preserved_panels": [
+    1,
+    3,
+    4
+  ],
+  "pixel_identity_verified": [
+    1,
+    3,
+    4
+  ],
+  "edits": {
+    "2": {
+      "method": "Composite of a localized ImageGen repair into pixels surrounding the original prop, with all other original panel pixels retained.",
+      "references": {
+        "Episode_03/assets/characters/NINA_portrait.jpg": "53284a43417057a48036ef3f2d5393284ea9af264986a4ce18816ad4dfd488c6",
+        "Episode_03/assets/characters/MAYA_portrait.jpg": "2880ff4810950b899dc5a131c7056c7675c62462660002cb1318ac0ed2eec61a",
+        "Episode_03/assets/characters/DAN_portrait.jpg": "ab292320db7190ccff07d6109c0dce0ca650c3db81e49fd51954872e818d2331",
+        "artwork_qa/sources/ep03-shot066-local-repair.png": "84868b58823aca31f337692ff5916e899b92d947d065c7629b70c9624b6cc6f9"
+      },
+      "changed_panel_bounds_xyxy": [
+        6,
+        264,
+        368,
+        448
+      ]
+    }
+  },
+  "qa_updates": {
+    "SHOT_066": {
+      "observed": "Nina’s washing tray has both original empty blue and yellow bowls, one transparent handled batter measure and one wooden prep spoon. The clean cooked tray and utensil remain separate beside Maya.",
+      "severity": "review",
+      "correction": "Creator review of corrected pixels pending.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    }
+  },
+  "approval_carryover": {
+    "original_git_blob": "dd1aae6fd315a5638a22b55ee3a869b270efe49d",
+    "selected_git_blob": "a3bb74b92158e1b9e6cb13343f173e67ef9848b6",
+    "method": "Compared complete decoded RGBA quadrants including boundaries.",
+    "preserved_approved_panels": {
+      "1": {
+        "box_xyxy": [
+          0,
+          0,
+          836,
+          471
+        ],
+        "rgba_sha256": "23d054e1fa2c872e64001551d1254d3125b3c547730d2047d8c63a0cea96137b",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      },
+      "4": {
+        "box_xyxy": [
+          835,
+          470,
+          1671,
+          941
+        ],
+        "rgba_sha256": "16d3876001cb23d0524aba16fcc8d1a6a2a8a32aa549613f8cd85fed74846005",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      }
+    }
+  }
+}

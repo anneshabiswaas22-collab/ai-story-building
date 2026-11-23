@@ -30,10 +30,10 @@
     "2": {
       "method": "Referenced ImageGen panel correction composited into the original grid, with the original printed badge and gutters retained.",
       "references": {
-        "exec-efd4b757-a69e-44a1-9b86-b3ef90cfc53d.png": "82151dd2438fc6c50114911b453a2315aeb6d543979c56426d9dd62de1e1dc2b",
         "Episode_01/assets/characters/DAN_portrait.jpg": "ab292320db7190ccff07d6109c0dce0ca650c3db81e49fd51954872e818d2331",
         "Episode_01/assets/characters/ELLA_portrait.jpg": "6cdaced49b8f4a4df4f5594dc03fc30b1f6e37d389ded5d6dba66d07875bcb69",
-        "Episode_01/assets/characters/LEO_portrait.jpg": "297622dcf4517b535c9d2eef119db1791ae70e9b5fe504f537a179c403107998"
+        "Episode_01/assets/characters/LEO_portrait.jpg": "297622dcf4517b535c9d2eef119db1791ae70e9b5fe504f537a179c403107998",
+        "artwork_qa/sources/ep01-shot070-local-repair.png": "82151dd2438fc6c50114911b453a2315aeb6d543979c56426d9dd62de1e1dc2b"
       },
       "changed_panel_bounds_xyxy": [
         3,

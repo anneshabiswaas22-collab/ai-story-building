@@ -30,8 +30,8 @@
     "2": {
       "method": "Composite of a localized ImageGen repair into pixels surrounding the original prop, with all other original panel pixels retained.",
       "references": {
-        "exec-0a2ecd96-1685-4d08-bf8b-a775f3fc90cf.png": "5ddf34ab072463acf55108f41e3a90c68836f50281d44c11e5f31102db9bed8a",
-        "Episode_04/assets/storyboards/BOARD_11.png": "94e472368a93056f9d2196d7f5b4fe3e6f5310ecfa31297f9b775fa5fcfb1f28"
+        "Episode_04/assets/storyboards/BOARD_11.png": "94e472368a93056f9d2196d7f5b4fe3e6f5310ecfa31297f9b775fa5fcfb1f28",
+        "artwork_qa/sources/ep04-shot058-local-repair.png": "5ddf34ab072463acf55108f41e3a90c68836f50281d44c11e5f31102db9bed8a"
       },
       "changed_panel_bounds_xyxy": [
         456,

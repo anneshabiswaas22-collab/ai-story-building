@@ -1,0 +1,79 @@
+{
+  "episode": 9,
+  "board": 17,
+  "path": "Episode_09/assets/storyboards/BOARD_17.png",
+  "parent_commit": "3f6568bcc11195376ed3e11bbd0a632f64fa7ea2",
+  "parent_sha256": "b4eac570e820e020f9ac1eaac10dac3d76a9d06d0618fdef2491392cbb6ba12e",
+  "selected_sha256": "e21ddcb2c7a159e216a08e721d956c0f31c04ff8aa27e19af7baa28e0892b492",
+  "parent_git_blob": "6840f1e1ba6b4858a3700126915259da70e83395",
+  "selected_git_blob": "770a7d515a4938c5931042470fb30e9c66151697",
+  "parent_size": [
+    1672,
+    941
+  ],
+  "selected_size": [
+    1672,
+    941
+  ],
+  "method": "Selected the corrected rear-sink and garden-ground views from ImageGen. Composited the original paper coin into the retained notebook close-up, preserving the existing clip.",
+  "reference_paths": [
+    "Episode_09/assets/environments/HOME_KITCHEN.jpg",
+    "Episode_09/assets/environments/GARDEN_POTS.png",
+    "Episode_09/assets/storyboards/BOARD_01.png",
+    "Episode_09/CONTINUITY.md"
+  ],
+  "selected_panels": [
+    2,
+    3,
+    4
+  ],
+  "preserved_panels": [
+    1
+  ],
+  "preserved_panel_pixel_sha256": {
+    "1": "65d544e86cc67a80caeacef6753743164bbb6feb0eba094e78836e593abd173f"
+  },
+  "panel_edits": {
+    "record": "rear-sink-and-original-garden-props",
+    "regions": "Panels 2 and 4 inside trim with original badges retained; paper coin in panel 3."
+  },
+  "qa_updates": {
+    "SHOT_066": {
+      "observed": "The six family members wash, dry and wait at the single sink along the rear windows. The foreground oak island is clear and dry.",
+      "severity": "review",
+      "correction": "Creator to review the repaired panel before accepting the new pixels.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_067": {
+      "observed": "The notebook shows Max's pale rectangular paper scrap with a thin penciled double-ring coin attached by the original clip.",
+      "severity": "review",
+      "correction": "Creator to review the repaired panel before accepting the new pixels.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_068": {
+      "observed": "Dan has empty hands and Nina holds the garden journal. The three labelled pots sit on ground-level paving in MINT, BASIL and RADISH order. The RADISH pot contains soil but no mature plant.",
+      "severity": "review",
+      "correction": "Creator to review the repaired panel before accepting the new pixels.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    }
+  },
+  "generated_source": "artwork_qa/sources/ep09-board17-rear-sink-and-ground-pots.png",
+  "generated_source_sha256": "e1dd897756017ee23a73fded4870d97ffa4d6a8f51a42ddffcc524af0693e9c6",
+  "approval_carryover": {
+    "original_git_blob": "6840f1e1ba6b4858a3700126915259da70e83395",
+    "selected_git_blob": "770a7d515a4938c5931042470fb30e9c66151697",
+    "method": "Compared complete decoded RGBA quadrants including boundaries.",
+    "preserved_approved_panels": {
+      "1": {
+        "box_xyxy": [
+          0,
+          0,
+          836,
+          471
+        ],
+        "rgba_sha256": "0ba427505ae31e64c91859b68a98c0f3ead89aad890ea7424d464a8f25f648c8",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      }
+    }
+  }
+}

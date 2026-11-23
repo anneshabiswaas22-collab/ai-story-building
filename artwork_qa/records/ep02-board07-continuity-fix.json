@@ -1,0 +1,89 @@
+{
+  "episode": 2,
+  "board": 7,
+  "path": "Episode_02/assets/storyboards/BOARD_07.png",
+  "parent_commit": "3f6568bcc11195376ed3e11bbd0a632f64fa7ea2",
+  "parent_sha256": "4b8d8fa3e6a25ffe48a7979980790af32782693ca419198cc5dc723453dab057",
+  "selected_sha256": "2fb60b74a429271ab53c80a8459c25699cdef32b8583ada2700e12cf6a5fce79",
+  "parent_size": [
+    1672,
+    941
+  ],
+  "selected_size": [
+    1672,
+    941
+  ],
+  "selected_panels": [
+    2
+  ],
+  "preserved_panels": [
+    1,
+    3,
+    4
+  ],
+  "pixel_identity_verified": [
+    1,
+    3,
+    4
+  ],
+  "edits": {
+    "2": {
+      "method": "Composite of a localized ImageGen repair into pixels surrounding the original prop, with all other original panel pixels retained.",
+      "references": {
+        "Episode_02/assets/characters/DAN_sheet.jpg": "fe9b59f33c6c2e7197505b982fb620eda292a57c615e95318cdc353dcb2948d0",
+        "artwork_qa/sources/ep02-shot026-local-repair.png": "c8dd443583deb1df7e8675113bc74fd40bac9f27aa48aa85fb361e5be2ba66de"
+      },
+      "changed_panel_bounds_xyxy": [
+        163,
+        267,
+        246,
+        360
+      ]
+    }
+  },
+  "qa_updates": {
+    "SHOT_026": {
+      "observed": "Dan steadies the blue handle with his bare right wrist. His left wrist is obscured by the basket and Maya. Both apples and Leo’s card remain in view.",
+      "severity": "review",
+      "correction": "Creator review of corrected pixels pending.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    }
+  },
+  "approval_carryover": {
+    "original_git_blob": "d4604fb9ae651501be03cea97d2fac46dba27c3f",
+    "selected_git_blob": "81da778c776c4a44d47c7ae7ce7fd7975ff02ef1",
+    "method": "Compared complete decoded RGBA quadrants including boundaries.",
+    "preserved_approved_panels": {
+      "1": {
+        "box_xyxy": [
+          0,
+          0,
+          836,
+          471
+        ],
+        "rgba_sha256": "8c1890263cb82a005c74f7f682766c2fabd519969e7818467c5679aede610690",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      },
+      "3": {
+        "box_xyxy": [
+          0,
+          470,
+          836,
+          941
+        ],
+        "rgba_sha256": "4b2ea883c27ec0ace8a6d71fd9f09b46034ae1ee5548449c44b7aad6f205f602",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      },
+      "4": {
+        "box_xyxy": [
+          836,
+          470,
+          1672,
+          941
+        ],
+        "rgba_sha256": "6180df65d546ba60a44c45f1e8f281d308f7de879a4a460ca19f76326c3830ff",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      }
+    }
+  }
+}

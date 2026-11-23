@@ -1,0 +1,91 @@
+{
+  "episode": 6,
+  "board": 14,
+  "path": "Episode_06/assets/storyboards/BOARD_14.png",
+  "parent_commit": "3f6568bcc11195376ed3e11bbd0a632f64fa7ea2",
+  "parent_sha256": "ef249b0f9890180ace6a935b8dd407ab11c5e3212ebb20dc39c186e3ca184f4d",
+  "parent_git_blob": "11c2dd5f30e2d367d4e4bbbf1f1980d8b9ac95bb",
+  "selected_sha256": "7decd20942b520007ad3747b0b54f6676e58ec8f51eaeb58f474b6c84275166d",
+  "selected_git_blob": "ca6d26db89e7609dbd52e284ecc7079e976423e8",
+  "parent_size": [
+    1672,
+    941
+  ],
+  "selected_size": [
+    1672,
+    941
+  ],
+  "method": "Selected the corrected single-panel ImageGen view. Reused the original badge and sheet gutters, including all the adjacent panels.",
+  "references": [
+    "Episode_06/STORY.md",
+    "Episode_06/CONTINUITY.md",
+    "Episode_06/assets/storyboards/BOARD_03.png",
+    "Episode_06/assets/storyboards/BOARD_13.png",
+    "Episode_06/assets/RESTAURANT_seating.svg",
+    "Episode_06/assets/characters/ADULTS_lineup.jpg",
+    "Episode_06/assets/characters/CHILDREN_lineup.jpg"
+  ],
+  "selected_panels": [
+    2
+  ],
+  "preserved_panels": [
+    1,
+    3,
+    4
+  ],
+  "preserved_panel_rgb_sha256": {
+    "1": "3078136cbae5abeddb787ba0096e2f3d334c562745cea0e9033075fb0ff01836",
+    "3": "f6801ef5b266fba7f9e6f169a5c24f33ff7d88e9012e6ce7b440c2b7085b49b1",
+    "4": "e8a4422b03c4b5f69f7320da3356edee3a51f5f6ea468690852e5d00b4a9fca4"
+  },
+  "qa_updates": {
+    "SHOT_054": {
+      "observed": "Dan indicates his right pocket from the aisle seat. Ella sits farther down the same aisle side and raises a hand while speaking. Max sits across from Dan at the window edge, handles a folded napkin and has a visible bite missing from his one child-size chicken portion.",
+      "severity": "review",
+      "status": "NEEDS_HUMAN_REVIEW",
+      "verification": "Compared the seat relationships with SHOT_012 and verified the carried-forward bite from SHOT_051. The near short edge is vacant. All other panels and the original shot badge are pixel-identical to the parent version.",
+      "correction": "Review these replacement pixels with the creator."
+    }
+  },
+  "generated_source": "artwork_qa/sources/ep06-board14-pocket-and-bite-edit.png",
+  "generated_source_sha256": "90dbb3091098bd31676d48c1c7b20795c361115bfd2b3be4837d63f4f01d3dde",
+  "generated_source_size": [
+    1672,
+    941
+  ],
+  "selected_rectangles_xyxy": [
+    [
+      842,
+      7,
+      1666,
+      466
+    ]
+  ],
+  "approval_carryover": {
+    "original_git_blob": "11c2dd5f30e2d367d4e4bbbf1f1980d8b9ac95bb",
+    "selected_git_blob": "ca6d26db89e7609dbd52e284ecc7079e976423e8",
+    "method": "Compared complete decoded RGBA quadrants including boundaries.",
+    "preserved_approved_panels": {
+      "1": {
+        "box_xyxy": [
+          0,
+          0,
+          836,
+          471
+        ],
+        "rgba_sha256": "3044021305fe2890f5a0019f399aca8d737f32081f1d652de79343edcbd2921f",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      },
+      "4": {
+        "box_xyxy": [
+          836,
+          470,
+          1672,
+          941
+        ],
+        "rgba_sha256": "3b54c13a33a1b435cf3b8b7308b8a9d66899a4d2e71295adcfea693f7a7231f7",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      }
+    }
+  }
+}

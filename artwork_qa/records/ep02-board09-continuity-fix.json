@@ -1,0 +1,80 @@
+{
+  "episode": 2,
+  "board": 9,
+  "path": "Episode_02/assets/storyboards/BOARD_09.png",
+  "parent_commit": "3f6568bcc11195376ed3e11bbd0a632f64fa7ea2",
+  "parent_sha256": "1d4f3a6c8eac24fc0bd0a8cb79a60dd01ddf309103fe817dd2cc0d8e1ecbae89",
+  "selected_sha256": "ca599380eecec51f510511375a34a81a0e66d4bef691c97b68354918e7ee3c74",
+  "parent_size": [
+    1672,
+    941
+  ],
+  "selected_size": [
+    1672,
+    941
+  ],
+  "selected_panels": [
+    3
+  ],
+  "preserved_panels": [
+    1,
+    2,
+    4
+  ],
+  "pixel_identity_verified": [
+    1,
+    2,
+    4
+  ],
+  "edits": {
+    "3": {
+      "method": "Composited two localized retouches, retaining original raised hand and basket. Matched the weight label to the immediately preceding storyboard panel.",
+      "references": {
+        "Episode_02/assets/characters/DAN_sheet.jpg": "fe9b59f33c6c2e7197505b982fb620eda292a57c615e95318cdc353dcb2948d0",
+        "Episode_02/assets/overlays/FRUIT_PRICE_CARD.svg": "97b4740f6284076670d29a2530acd60825cd89406f5452913c96d37d6f42878b",
+        "artwork_qa/sources/ep02-shot035-local-repair.png": "4f158bae9e1124dc5afecfa079e8b65f472e14cb3ea68894c6adf524288eaf20"
+      },
+      "changed_panel_bounds_xyxy": [
+        136,
+        286,
+        515,
+        436
+      ]
+    }
+  },
+  "qa_updates": {
+    "SHOT_035": {
+      "observed": "Dan’s raised right arm is bare, with the watch on his lowered anatomical left wrist. The closed strawberry punnet still carries its one-pound label from 034. Nina and Ella preserve the basket and handle positions.",
+      "severity": "review",
+      "correction": "Creator review of corrected pixels pending.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    }
+  },
+  "approval_carryover": {
+    "original_git_blob": "a2dea87ee2cae6f43681d97a62449c96475d29dc",
+    "selected_git_blob": "586370023d08d9027fe87dd6fce2abfe857b92f9",
+    "method": "Compared complete decoded RGBA quadrants including boundaries.",
+    "preserved_approved_panels": {
+      "1": {
+        "box_xyxy": [
+          0,
+          0,
+          836,
+          471
+        ],
+        "rgba_sha256": "eddb639a6fa62e8894bf4af0efc0af3010e6eb97cc231b9e9d35e4962d4a4e8a",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      },
+      "4": {
+        "box_xyxy": [
+          836,
+          470,
+          1672,
+          941
+        ],
+        "rgba_sha256": "9eca6aa5b1592ad31f042e48b69bc2425825abfbe7f499a8721b4b56ac8414a9",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      }
+    }
+  }
+}

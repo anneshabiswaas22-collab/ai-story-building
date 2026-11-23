@@ -1,0 +1,89 @@
+{
+  "episode": 1,
+  "board": 11,
+  "path": "Episode_01/assets/storyboards/BOARD_11.png",
+  "parent_commit": "3f6568bcc11195376ed3e11bbd0a632f64fa7ea2",
+  "parent_sha256": "a04cd2b5ba6fe7f914cfa5f58c7d2976e7a17539f7c4746ec23b6dc1b0088e13",
+  "selected_sha256": "7c3877bbf993db1f59761b6697d5ff08ae63dd2f3b14ef69890a0b9a8990ee29",
+  "parent_size": [
+    1672,
+    941
+  ],
+  "selected_size": [
+    1672,
+    941
+  ],
+  "selected_panels": [
+    4
+  ],
+  "preserved_panels": [
+    1,
+    2,
+    3
+  ],
+  "pixel_identity_verified": [
+    1,
+    2,
+    3
+  ],
+  "edits": {
+    "4": {
+      "method": "Composite of a localized ImageGen repair into pixels surrounding the original prop, with all other original panel pixels retained.",
+      "references": {
+        "Episode_01/assets/characters/MAX_portrait.jpg": "600af155d1d9e1b91391eeb24c99822356770092c69fa91bc8501b46907b533a",
+        "artwork_qa/sources/ep01-shot044-local-repair.png": "b924b27196a33f61606fc16a1b28d46e6c6ea7a626060bb7c7c05db70ee922fb"
+      },
+      "changed_panel_bounds_xyxy": [
+        500,
+        241,
+        764,
+        391
+      ]
+    }
+  },
+  "qa_updates": {
+    "SHOT_044": {
+      "observed": "Max keeps one hand on Dan’s arm while his free hand points toward the basket of purchased vegetables. The exact original two list overlays and vegetable basket retain their original pixels.",
+      "severity": "review",
+      "correction": "Creator review of corrected pixels pending.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    }
+  },
+  "approval_carryover": {
+    "original_git_blob": "060a634b53d411574e5ef1a49058c79826598bb8",
+    "selected_git_blob": "4b9edd6de986be15b2e2974fdfc87853df6f9e0f",
+    "method": "Compared complete decoded RGBA quadrants including boundaries.",
+    "preserved_approved_panels": {
+      "1": {
+        "box_xyxy": [
+          0,
+          0,
+          836,
+          471
+        ],
+        "rgba_sha256": "ceab59897cbab27a06b57a1a0e8a067e1a2606affe9c075120482370760f2008",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      },
+      "2": {
+        "box_xyxy": [
+          836,
+          0,
+          1672,
+          471
+        ],
+        "rgba_sha256": "db476f56e67f62944889049983a7ecd514c32cfb653d193a0c81a3a8997efea7",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      },
+      "3": {
+        "box_xyxy": [
+          0,
+          470,
+          836,
+          941
+        ],
+        "rgba_sha256": "23eb72095994e30bc3836b48373438bf0225166ce44ea67dc4bd89e6534f7b5a",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      }
+    }
+  }
+}
