@@ -3,8 +3,7 @@
 
 This exports source-derived planning data; it NEVER generates or edits art,
 voices, video, scripts, source subtitles, or approval records. Source SRT timing
-is provisional. A board PNG is an unapproved four-panel composition sheet,
-not a provider-ready per-shot motion frame.
+is provisional. Four-panel storyboard review and single-frame approval are separate.
 
 python tools/production_handoff.py --output-dir /tmp/maple-handoff
 """
@@ -21,6 +20,7 @@ import sys
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT))
 from tools.dialogue_timing import cue_windows
+from tools.storyboard_review import approved_panels, git_blob_id, ledger_statuses, panel_review
 from tools.episode_package import (
     FAMILY, load_config, shots, validate_subtitles,
     PROMPT_FIELDS, cast_names, seconds,
@@ -114,6 +114,7 @@ def cue_records(srt: str, story: list[dict], episode: int) -> dict[str, list[dic
 
 def build_records(root: Path = ROOT) -> list[dict]:
     records = []
+    approvals = approved_panels(root)
     for episode in range(1, 11):
         ep = root / f"Episode_{episode:02}"
         story_path = ep / "STORY.md"
@@ -127,6 +128,8 @@ def build_records(root: Path = ROOT) -> list[dict]:
         config = load_config(ep) if episode >= 4 else None
         if len(titles) != 80:
             raise ValueError(f"Episode {episode:02}: missing shot titles")
+        qa = ledger_statuses(root, ep.name)
+        board_blobs = {}
         script_hash = sha256(story_path)
         for i, shot in enumerate(story):
             f = shot["fields"]
@@ -137,6 +140,11 @@ def build_records(root: Path = ROOT) -> list[dict]:
             number = int(sid)
             board = f"BOARD_{(number - 1) // 4 + 1:02}.png"
             panel = (number - 1) % 4 + 1
+            board_path = f"{ep.name}/assets/storyboards/{board}"
+            if board not in board_blobs:
+                selected = root / board_path
+                board_blobs[board] = git_blob_id(selected) if selected.is_file() else None
+            blob = board_blobs[board]
             if f"(assets/storyboards/{board})" not in f["Picture"] or (
                 re.findall(r"\bpanel\s+(\d+)\b", f["Picture"], re.I) != [str(panel)]
             ):
@@ -153,8 +161,8 @@ def build_records(root: Path = ROOT) -> list[dict]:
                     f"{ep.name}/assets/characters/CHILDREN_lineup.jpg",
                 ],
                 "environment": environment_for(ep, f["Location"], config),
-                "board": f"{ep.name}/assets/storyboards/{board}",
-                "board_exists": (ep / "assets/storyboards" / board).is_file(),
+                "board": board_path,
+                "board_exists": blob is not None,
                 "overlay_candidates": sorted(str(p.relative_to(root))
                                             for p in (ep / "assets/overlays").glob("*.svg")),
                 "supporting_cast_refs": [
@@ -182,7 +190,8 @@ def build_records(root: Path = ROOT) -> list[dict]:
                 ], "subtitle_cues": cues[sid], "dialogue_words": words,
                 "planned_speaking_wpm": planned_wpm,
                 "editorial_timing_review": "recommended" if planned_wpm > 160 else "pending_real_voice",
-                "board_visual_status": "unapproved_illustrated_draft" if refs["board_exists"] else "missing",
+                "board_visual_status": "composition_sheet_present" if refs["board_exists"] else "missing",
+                "storyboard_panel_review": panel_review(qa[number], board_path, blob, panel, approvals),
                 "individual_first_frame": "not_approved",
                 "performed_audio": "not_documented",
                 "motion_video": "not_documented",
@@ -237,7 +246,7 @@ def export(records: list[dict], output_dir: Path) -> None:
             stream.write(json.dumps(record, ensure_ascii=False, sort_keys=True) + "\n")
     write_tsv(output_dir / "shot-production-index.tsv", records, [
         "episode", "shot_id", "global_shot", "editorial_start", "editorial_end", "title",
-        "location", "dialogue_words", "board_name", "board_panel", "board_visual_status",
+        "location", "dialogue_words", "board_name", "board_panel", "board_visual_status", "storyboard_panel_review",
         "individual_first_frame", "performed_audio", "motion_video", "production_approval",
     ])
     queue = review_rows(records)
@@ -299,7 +308,9 @@ def export(records: list[dict], output_dir: Path) -> None:
         f"- Missing genuine storyboard sheets: {len(missing)}.",
         f"- Adjacent-shot state transitions queued for human/agent review: {len(queue)}.",
         f"- Dialogue pacing candidates (estimated speaking rate above 160 words/min): {len(crowded)}.",
-        "- Voice timing, actor likeness, completed motion takes and approval remain unverified.",
+        f"- Storyboard panels matching recorded creator approvals: {sum(r['storyboard_panel_review'] == 'creator_approved' for r in records)}.",
+        f"- Open storyboard findings: {sum(r['storyboard_panel_review'] == 'open_visual_defect' for r in records)}.",
+        "- Individual motion frames, performed voice timing and completed motion takes require separate review.",
         "",
         "## Missing storyboard files",
         *[f"- {name}" for name in missing],
@@ -336,7 +347,7 @@ def main() -> int:
                   and not r["references"]["board_exists"])
     print(f"PASS: {len(records)}/800 aligned story/prompt/SRT shot records, "
           f"{200 - missing}/200 actual board sheets, {missing} missing")
-    print("Every image is an unapproved composition draft; no media generation performed.")
+    print("See storyboard_panel_review for each shot. Individual motion frames require separate approval.")
     return 0
 
 

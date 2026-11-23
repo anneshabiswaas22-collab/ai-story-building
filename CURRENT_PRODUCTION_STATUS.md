@@ -6,13 +6,17 @@ The creator confirmed review and acceptance of all 619 shots listed as `NEEDS_HU
 
 ## Branch repair checkpoint — 2026-11-22
 
-The live queue now has **179 FAIL shots across 103 sheets**. Episode 06 BOARD_05 shots **017 and 020** have repaired pixels awaiting new creator approval. Shots 018 and 019 retain their parent pixels and remain FAIL. The original 619 approved shots are unchanged. All 621 historical/current NEEDS_HUMAN_REVIEW ledger rows must be interpreted with this approval scope; they are not 621 unapproved images. See the [recovery record](artwork_qa/records/ep06-board05-aisle-framing-and-seat-order.json).
+The creator approved Episode 06 BOARD_05 **SHOT_017 (panel 1)** and **SHOT_020 (panel 4)** as pictured in [the reviewed sheet at `ac6f2bc`](https://github.com/renoukhan39-bit/ai-story-building/blob/ac6f2bcd41a1f6413e57538c20f64bf15983ca55/Episode_06/assets/storyboards/BOARD_05.png). The full SHA-256 of that PNG is `49f1cf80f7d4a86478fbca4299f2dd102bd4749403b4634599ef4a0b25acef00`. The [repair record](artwork_qa/records/ep06-board05-aisle-framing-and-seat-order.json) identifies the two replacement panels.
+
+The ten ledgers contain **179 flagged shots across 103 sheets**. The 619 earlier approvals and these two replacements account for all **621 approved shots**. At this revision, all 621 rows labeled `NEEDS_HUMAN_REVIEW` have recorded creator approval. A later edit to an approved panel requires review of its new pixels.
+
+The [blocked image repair list](docs/qa/BLOCKED_IMAGE_REPAIRS.md) identifies each affected sheet, its size in Git and its open shots. Resume visual work with Episode 06 BOARD_05 shot 018, then shot 019. Both have open seating findings. While a sheet is unreadable, continue independent source QA and continuity work. After every ten minutes of active work, recheck the queue on `main` and continue.
 
 ## 15-second clips and storyboard repairs — 2026-11-21
 
 The 800 clips have 3,228 dialogue turns across ten 20-minute episodes. Each clip has four or five turns. The provisional speaker windows start at 0.25 seconds and allow the final action or reaction to carry into the cut. Each episode’s screenplay, video prompts and subtitles use the same dialogue. The [episode index](README.md#episodes) links directly to the prompts and each episode’s shot findings.
 
-The [image repair log](docs/STORYBOARD_REPAIR_LOG.md) identifies the selected replacement sheets. Current QA records list 179 major visual discrepancies and 621 review-status rows; the approval scope above distinguishes 619 accepted shots from 2 new replacements. [Individual findings](docs/qa/) name the correction and the image hash for each panel. Use the [November 19 audit](docs/AUDIT_EP01_EP10.md) for the earlier review.
+The [image repair log](docs/STORYBOARD_REPAIR_LOG.md) identifies the selected replacement sheets. The [individual findings](docs/qa/) name the corrections and image hashes. The [November 19 audit](docs/AUDIT_EP01_EP10.md) records the earlier review.
 
 ## Audit branch validation — 2026-11-19
 

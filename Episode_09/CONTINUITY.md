@@ -61,7 +61,7 @@ The500mL is not additional to three100mL draws: measure water is transferred fro
 |---|---|
 |001–008|Planning indoors; existing two nursery seedlings/closed seedpacket; supplies move outdoors; no potting inside.|
 |009–012|Ben delivers3empty pots+3saucers then departs; no plants delivered.|
-|013–020|Drainage checked,500mL can filled, bench/saucer/order established, six gloves on, damp mix bag opened by adult.|
+|013–020|Drainage checked,500mL can filled, bench/saucer/order established, all six gardeners wearing one pair of gloves each by shot 019, damp mix bag opened by adult.|
 |021–028|Fill all3pots, stop grand pour before anywater, transplant only mintLEFT; empty mint nursery container stored.|
 |029–033|Transplant only basilCENTER; two empty nursery containers in crate; right seed bed bare.|
 |034–040|Count3seeds, make3holes, sow once each, cover; right surface still bare.|

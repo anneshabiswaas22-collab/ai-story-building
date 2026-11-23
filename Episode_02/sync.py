@@ -103,9 +103,8 @@ def build(source):
         '# Episode 02 — illustrated storyboard index for all 80 shots',
         '',
         '**20 actual four-panel PNG sheets illustrate all 80 Episode 02 story '
-        'shots.** These are generated visual composition drafts, inspected '
-        'for major cast/action errors; creator approval and individual '
-        'motion first frames remain pending. Read '
+        'shots.** The [creator approval record](../CURRENT_PRODUCTION_STATUS.md) '
+        'identifies the reviewed storyboard panels. Individual motion first frames remain pending. Read '
         '[generation notes](assets/storyboards/GENERATION_NOTES.md) for '
         'references, corrections and review limits. Browse the '
         '[full visual gallery](STORYBOARD_GALLERY.md) or '
@@ -125,7 +124,7 @@ def build(source):
     ]
     for i in range(20):
         name = f'BOARD_{i + 1:02}.png'
-        index.append(f'| BOARD_{i + 1:02} | SHOT_{i * 4 + 1:03}–SHOT_{i * 4 + 4:03} | {titles[i * 4]} | [{name}](assets/storyboards/{name}) | Illustrated draft; creator approval pending |')
+        index.append(f'| BOARD_{i + 1:02} | SHOT_{i * 4 + 1:03}–SHOT_{i * 4 + 4:03} | {titles[i * 4]} | [{name}](assets/storyboards/{name}) | Illustrated sheet. Motion first frames pending. |')
     index.extend([
         '',
         '## All 80 illustrated shots and opening-frame briefs',
@@ -146,7 +145,7 @@ def build(source):
         panel = (number - 1) % 4 + 1
         cells = [f'SHOT_{shot["id"]}', title,
                  f'{f["Location"]} / {f["Visible cast"]}', description,
-                 f'[{name}](assets/storyboards/{name}), panel {panel}; creator approval pending']
+                 f'[{name}](assets/storyboards/{name}), panel {panel}. [Shot QA](../docs/qa/Episode_02.tsv#L{number + 1}). Motion first frame pending.']
         index.append('| ' + ' | '.join(cell.replace('|', '\\|') for cell in cells) + ' |')
     index.extend([
         '',
@@ -173,8 +172,8 @@ def build(source):
         '# Episode 02 — complete illustrated storyboard gallery', '',
         '**20 sheets / 80 labeled shot illustrations.** Each sheet contains '
         'four panels in reading order: top-left, top-right, bottom-left, '
-        'bottom-right. These are visual drafts pending creator approval, '
-        'not generated video or approved motion first frames.', '',
+        'bottom-right. See the [creator approval record](../CURRENT_PRODUCTION_STATUS.md) '
+        'for reviewed panels. Individual motion first frames require separate approval.', '',
         '[Open HTML gallery](assets/storyboards/index.html) · '
         '[Shot-by-shot index](STORYBOARD_INDEX.md) · '
         '[Generation and review notes](assets/storyboards/GENERATION_NOTES.md)', '',
@@ -213,7 +212,7 @@ def build(source):
             'figcaption{padding:12px;font-weight:700}figure p{padding:0 12px}img{display:block;width:100%;height:auto}'
             '</style><h1>Episode 02: Dad Bought the Sourest Fruit!</h1>'
             '<p><strong>20 sheets / 80 labeled shot illustrations.</strong> Read panels top-left, top-right, bottom-left, bottom-right. '
-            'Click a sheet to open its full-resolution PNG. Visual drafts; creator approval and individual motion first frames pending.</p>'
+            'Click a sheet to open its full-resolution PNG. <a href="../../../CURRENT_PRODUCTION_STATUS.md">Storyboard panel approvals</a>. Individual motion first frames remain pending.</p>'
             '<p><a href="../../STORYBOARD_INDEX.md">Shot index</a> · <a href="GENERATION_NOTES.md">Generation notes</a> · '
             '<a href="../../STORY.md">Screenplay</a></p><nav aria-label="Jump to board">' + nav + '</nav>'
             '<main class="boards">' + ''.join(figures) + '</main><h2>Five location previews</h2><section class="env">' + env_html + '</section>'

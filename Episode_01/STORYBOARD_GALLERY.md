@@ -1,6 +1,6 @@
 # Episode 01 — complete illustrated storyboard gallery
 
-**20 sheets / 80 labeled shot illustrations.** Each sheet contains four panels in reading order: top-left, top-right, bottom-left, bottom-right. These are visual drafts pending creator approval, not generated video or approved motion first frames.
+**20 sheets / 80 labeled shot illustrations.** Each sheet contains four panels in reading order: top-left, top-right, bottom-left, bottom-right. See the [creator approval record](../CURRENT_PRODUCTION_STATUS.md) for reviewed panels. Individual motion first frames require separate approval.
 
 [Open HTML gallery](assets/storyboards/index.html) · [Shot-by-shot index](STORYBOARD_INDEX.md) · [Generation and review notes](assets/storyboards/GENERATION_NOTES.md)
 

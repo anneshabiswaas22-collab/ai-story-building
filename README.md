@@ -4,7 +4,7 @@
 
 **Generating a 15-second clip.** Open the episode’s `VIDEO_PROMPTS.md` and copy one numbered shot. Its delivery line gives clip-local speaker windows. Let the physical action continue while the characters speak, with the last reaction carrying into the cut. The same words and times appear in the episode’s full-length `SUBTITLES.srt`. The board and panel number point to the matching composition. Upload a reviewed single frame for the shot. Keep the storyboard grid and shot badge out of the movie.
 
-All ten stories run 20 minutes each. The [panel repair log](docs/STORYBOARD_REPAIR_LOG.md) and [shot-by-shot findings](docs/qa/) identify pictures that still need attention.
+All ten stories run 20 minutes each. The creator approved 621 storyboard shots. The [production status](CURRENT_PRODUCTION_STATUS.md) records the reviewed versions, and the [blocked repair list](docs/qa/BLOCKED_IMAGE_REPAIRS.md) links to the 179 open shot findings across 103 sheets. The approval notes inside the original screenplays and prompts date from authoring.
 
 ## Episodes
 
@@ -21,7 +21,7 @@ All ten stories run 20 minutes each. The [panel repair log](docs/STORYBOARD_REPA
 | 09 | [Can Dad Grow Money?](Episode_09/STORY.md) | [80 prompts](Episode_09/VIDEO_PROMPTS.md) | [Review by shot](docs/qa/Episode_09.tsv) |
 | 10 | [The Party Cake Went to the Wrong House!](Episode_10/STORY.md) | [80 prompts](Episode_10/VIDEO_PROMPTS.md) | [Review by shot](docs/qa/Episode_10.tsv) |
 
-Read [EPISODE_IDEAS.md](EPISODE_IDEAS.md) for the planned first ten stories. Episodes 01–10 have authored story packages; the continuation packages follow the Episode 02/03 handoff structure. Read [SERIES_REVIEW.md](SERIES_REVIEW.md) for the completed Episode 01–03 analysis and [WORK_CHECKPOINT.md](WORK_CHECKPOINT.md) for remote backup/recovery status. Illustrated packages are visual drafts pending creator approval, not completed animation or performed voices.
+Read [EPISODE_IDEAS.md](EPISODE_IDEAS.md) for the planned first ten stories. Episodes 01–10 have authored story packages; the continuation packages follow the Episode 02/03 handoff structure. Read [SERIES_REVIEW.md](SERIES_REVIEW.md) for the completed Episode 01–03 analysis and [WORK_CHECKPOINT.md](WORK_CHECKPOINT.md) for remote backup/recovery status. Individual motion frames, animation and performed voices are separate production stages.
 
 **Important new format:** Every episode begins with an approximately **20-minute full animated story**: comedy, gentle drama and natural learning through entertaining conversation. **No separate English-practice slots, no documentary recap blocks, no forced repeat pauses or quiz overlays** are included in that story runtime. The creator will design and add optional practice content **after** the 20-minute story; uploads may then be 25, 30 or more minutes in total. This is not a requirement that the finished upload must be 20 minutes.
 
@@ -34,7 +34,7 @@ Read [EPISODE_IDEAS.md](EPISODE_IDEAS.md) for the planned first ten stories. Epi
 ## Scope and production status
 
 - Episode 01's **active rebuilt** 80-shot story has **20 newly illustrated four-panel boards**, sequentially covering SHOT_001–SHOT_080. Its superseded 12-sheet studies are historical and preserved under `MERGE_ARCHIVE/PRE_MERGE_MAIN/`.
-- Episode 02 has 20 new four-panel storyboard sheets illustrating all 80 planned shots, plus four newly generated clean fruit-shop/garden environment PNG drafts. Its 14 cast-preview JPGs and kitchen JPG are unchanged copies of Episode 01 references. See the [storyboard generation notes](Episode_02/assets/storyboards/GENERATION_NOTES.md) and [environment generation notes](Episode_02/assets/environments/GENERATION_NOTES.md) for provenance and known limits. These visual drafts need creator review; no individual motion first frame is approved.
+- Episode 02 has 20 new four-panel storyboard sheets illustrating all 80 planned shots, plus four newly generated clean fruit-shop/garden environment PNG drafts. Its 14 cast-preview JPGs and kitchen JPG are unchanged copies of Episode 01 references. See the [storyboard generation notes](Episode_02/assets/storyboards/GENERATION_NOTES.md) and [environment generation notes](Episode_02/assets/environments/GENERATION_NOTES.md) for provenance and known limits. Use the shot ledger and dated approvals to identify which panels still need work. Individual motion first frames require separate review.
 - Episode 03 has 20 illustrated four-panel sheets for all 80 pancake-story shots. Its 14 cast previews, kitchen/table JPGs and seating diagram preserve the original references; three new clean kitchen-view PNG drafts support the pantry, island and stove coverage. Its [generation notes](Episode_03/assets/storyboards/GENERATION_NOTES.md) distinguish illustrated studies from approved production frames.
 - No other board v1/v2/v3 alternatives are used by the live episode folders. Superseded files and fork alternatives are preserved in **MERGE_ARCHIVE** and Git history; the owner-controlled original production ZIP is a separate source.
 - Original full-resolution 3D character/environment PNG masters remain in the owner-controlled ZIP. Shared JPGs are viewing previews; new environment PNGs are generated visual drafts, not recovered archive masters.

@@ -2,6 +2,10 @@
 
 `Episode_01.tsv` through `Episode_10.tsv` each contain 80 ordered, unique shot rows. Read them with the [master audit](../AUDIT_EP01_EP10.md), the selected episode's `STORY.md` and `CONTINUITY.md`, and the actual referenced PNG. The baseline cleanup ledger and archive checksums describe commit `09063a7`; they are historical records, not current-image manifests.
 
+The [creator approval record](../../CURRENT_PRODUCTION_STATUS.md) identifies the 621 accepted shots at the November 22 checkpoint. The [blocked image repair list](BLOCKED_IMAGE_REPAIRS.md) links directly to all 179 outstanding shot findings. A later change to reviewed pixels requires fresh review.
+
+The [approved panel index](creator-approved-panels.tsv) binds each approval to its sheet path, Git blob ID, panel number and reviewed revision. It contains the 619 panels accepted at `80644c1` and panels 1 and 4 of Episode 06 BOARD_05 accepted at `ac6f2bc`. The production handoff exports the result as `storyboard_panel_review`. The series audit's shot manifest exports the same decision as `board_approval`. Both look up each panel against the file they actually read. An open finding takes precedence. After an edit, carry an approval to a new sheet identity only with recorded evidence that the accepted panel is pixel-identical, or with fresh creator approval. The index retains earlier reviewed versions.
+
 Each episode TSV uses these tab-separated columns:
 
 | Column | Meaning |
@@ -12,7 +16,7 @@ Each episode TSV uses these tab-separated columns:
 | `severity` | `major` for a recorded failure; `minor` for a noted concern awaiting review. `review`, `unrated` and `none observed` retain the original review vocabulary and confer no approval. |
 | `correction` | Requested repair or remaining review work. |
 | `evidence` | Repository-relative selected-image path, panel number and full current SHA-256; some rows also name screenplay/continuity sources. |
-| `status` | `FAIL` for a documented major discrepancy, or `NEEDS_HUMAN_REVIEW` for unresolved acceptance and fine-detail review. |
+| `status` | `FAIL` for a documented major discrepancy, or the historical `NEEDS_HUMAN_REVIEW` label. Read the latter with the dated creator approval record for the specific pixels. |
 | `verification` | Scope of inspection and any pending creator acceptance. |
 
 Run from the repository root:
@@ -30,6 +34,6 @@ python -m unittest discover -s tests -v
 git diff --check
 ```
 
-The QA checker fails for missing/duplicate rows, blank cells, wrong board/panel references, incomplete or stale hashes, stale expected actions and unsupported status/severity pairs. It succeeds when the records are internally consistent, even when they contain visual failures. The strict series checks separately validate PNG structure, assets and source alignment. Neither grants creator approval.
+For a checkout without readable artwork, run `python tools/check_audit_qa.py --source-only`. It checks every ledger row against the screenplay, including the action, board, panel and four matching full-length digests per sheet. It also checks prompt dialogue, cast and continuity fields against the script, and checks subtitle text, order, timing bounds and overlaps. The output identifies the omitted image-byte check. The default command above reads each selected PNG and verifies its SHA-256. The strict series checks also validate PNG structure and assets. The current approval record remains the authority for reviewed pixels.
 
 After an authorized image correction, inspect the selected pixels against the source and original references before changing observations or status. Record recovery/provenance and replace all four evidence digests for the edited sheet, including unaffected panels. A digest refresh alone is insufficient to mark a defect repaired. After an authorized story edit, review the expected-action field alongside the episode's regenerated documents. Keep creator acceptance and approved single-shot production frames as explicit separate work.

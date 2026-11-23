@@ -1,6 +1,6 @@
 # Episode 07 — Right Bus, Wrong Stop! | Travel English | Slow Family Comedy: storyboard gallery
 
-Written and still-image preproduction draft. Each slot is a planned 15-second editorial shot, 16:9, original warm stylized 3D and natural General American family conversation. No video or voice has been generated. Optional creator-authored practice belongs after the story. Creator visual approval and individual motion first frames remain pending.
+The [creator approval record](../CURRENT_PRODUCTION_STATUS.md) identifies reviewed panels. Individual motion first frames require separate approval.
 
 [Shot index](STORYBOARD_INDEX.md) · [HTML gallery](assets/storyboards/index.html) · [Generation notes](assets/storyboards/GENERATION_NOTES.md)
 

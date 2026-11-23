@@ -23,7 +23,8 @@ class Episode03ValidationTests(unittest.TestCase):
                         ignore=shutil.ignore_patterns('__pycache__'))
         # Episode 03 copies are checked against the read-only Episode 01 sources.
         (self.root / 'Episode_01').symlink_to(REPO / 'Episode_01', target_is_directory=True)
-        for name in ('README.md', 'AGENTS.md', 'EPISODE_IDEAS.md'):
+        (self.root / 'docs').symlink_to(REPO / 'docs', target_is_directory=True)
+        for name in ('README.md', 'AGENTS.md', 'EPISODE_IDEAS.md', 'CURRENT_PRODUCTION_STATUS.md'):
             (self.root / name).symlink_to(REPO / name)
 
     def change(self, name, transform):

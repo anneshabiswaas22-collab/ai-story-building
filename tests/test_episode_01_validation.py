@@ -25,7 +25,8 @@ class Episode01ValidationTests(unittest.TestCase):
         (self.root / 'Episode_02').symlink_to(REPO / 'Episode_02', target_is_directory=True)
         for number in range(4, 11):
             shutil.copytree(REPO / f'Episode_{number:02}', self.root / f'Episode_{number:02}')
-        for name in ('README.md', 'AGENTS.md', 'EPISODE_IDEAS.md'):
+        (self.root / 'docs').symlink_to(REPO / 'docs', target_is_directory=True)
+        for name in ('README.md', 'AGENTS.md', 'EPISODE_IDEAS.md', 'CURRENT_PRODUCTION_STATUS.md'):
             (self.root / name).symlink_to(REPO / name)
 
     def change(self, name, transform):

@@ -1,8 +1,8 @@
 # Maple House English: AI developer instructions
 
-**Current milestone (2026-11-16):** All 200 planned four-panel storyboard PNG files are saved and merged (PR #15). CI's strict structural art gates pass and the 104-test source suite passed on `main`. These images are **not creator-approved**; documented likeness, quantity, prop and staging corrections, approved individual motion first frames, voice and movie production remain separate. See `CURRENT_PRODUCTION_STATUS.md` and run `python tools/list_missing_storyboards.py` for the live inventory. Do not regenerate completed sheets merely because an older guide says they were missing.
+The 200 planned storyboard sheets are in Git. The creator approved 621 shots at the [November 22 checkpoint](CURRENT_PRODUCTION_STATUS.md). The [blocked repair list](docs/qa/BLOCKED_IMAGE_REPAIRS.md) links the remaining 179 findings to 103 sheets. Use the actual PNG and original references to verify a visual correction. Retain the prior image, the recorded finding and the approval scope for the other panels.
 
-**Active request (2026-11-20):** Correct the storyboard PNGs themselves using the audited shot findings, current screenplay/continuity and original references. The creator has withdrawn the video-prompt workaround and still-polish deferrals. Verify each selected correction visually, preserve recovery/provenance and update its QA evidence; written prompts alone do not resolve an image defect. Video/voice rendering and creator visual acceptance remain separate work.
+While a PNG is unreadable, record its sheet and open shots and continue independent QA, screenplay continuity, documentation and validation work. Preserve the approved pixels, dialogue, subtitles and prompts. Check progress on the latest `main` every ten minutes of active work. Individual motion frames, voices and video require separate authorization.
 
 Read the root README and `Episode_01/{README,STORY,CONTINUITY,STORYBOARD_INDEX}.md` before changes.
 For Episode 02 work, also read `Episode_02/{README,STORY,CONTINUITY,STORYBOARD_INDEX}.md`; its fruit inventory and picnic geography are distinct from Episode 01.
@@ -10,7 +10,7 @@ For Episode 03 work, read `Episode_03/{README,STORY,CONTINUITY,STORYBOARD_INDEX}
 
 - The **new** active creative canon is the 80 × 15-second story-only Episode 01. Do not use the old 48-story + 24-practice-recaps format from Git history.
 - Keep the recurring six family members Dan, Maya, Nina, Leo, Ella and Max; Maya and Nina are equally respected partners. Never redesign faces silently.
-- Episodes 02 and 03 each have a commissioned 80-shot story and visual preproduction package with 20 four-panel PNG sheets, 14 unchanged cast-preview JPGs, five environment references and editable overlays. Episode 03 reuses the original kitchen/table and adds three clean kitchen-view drafts. Creator visual approval, individual motion first frames, recorded voices and video remain pending. Episodes04–10 are now explicitly commissioned by the creator and contain their own80-shot written/visual preproduction packages; preserve their individual continuity ledgers.
+- Episodes 02 and 03 each have a commissioned 80-shot story and visual preproduction package with 20 four-panel PNG sheets, 14 unchanged cast-preview JPGs, five environment references and editable overlays. Episode 03 reuses the original kitchen/table and adds three clean kitchen-view drafts. Per-shot storyboard approvals are recorded in the production status. Individual motion first frames, recorded voices and video remain pending. Episodes04–10 are now explicitly commissioned by the creator and contain their own80-shot written/visual preproduction packages; preserve their individual continuity ledgers.
 - Keep each episode's 20-minute movie distinct from any **optional creator-authored practice after the story**. Never re-add scripted recap narrators, practice cards or speaking countdowns to the main movie.
 - Episode 01's **ACTIVE** storyboard set is `BOARD_01.png` through `BOARD_20.png`, with SHOT_001–SHOT_080 covered in consecutive groups of four. Earlier boards from before the rebuild are preserved in `MERGE_ARCHIVE/PRE_MERGE_MAIN/`; never replace the active regenerated sequence with the old 12-board/48-shot studies. Episode 02 and Episode 03 have independent 20-board sets.
 - For generating real video or performed voices, first restore original PNG masters from the owner ZIP, confirm service duration/cost/capabilities and obtain explicit authorization for Task 5. Commissioning episode still-image packages does not authorize automated video/voice rendering.
@@ -42,7 +42,7 @@ Before new image work, read `SERIES_CANON.md`, `CODEX_IMAGE_TASKS.md`, `AUDIT_AN
 
 After story edits, run `python tools/production_handoff.py --output-dir /tmp/maple-production-handoff`. This validates exact story/video-prompt/subtitle relationships for all 800 shots and exports a continuity-review queue. It does **not** write images, voices, animatics or video. The 790 transitions remain pending editorial review; never infer actual image correctness from matching text fields.
 
-CI also runs `tools/check_root_docs.py` to prevent stale root links and outdated 12-board Episode 01 guidance. Leave all approval, performed voice and video status fields pending until actual accepted media exists.
+CI also runs `tools/check_root_docs.py` to prevent stale root links and outdated 12-board Episode 01 guidance. Read storyboard approval from the dated creator record. Individual motion frames, performed voices and video require their own accepted media.
 
 ## Safe small-batch image work across Codex cloud workspaces
 

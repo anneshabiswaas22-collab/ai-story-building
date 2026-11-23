@@ -37,7 +37,7 @@ Park views use changing cameras, so not every frame has identical screen-left/ri
 
 ## Map orientation and prop ledger
 
-One paper sketch in one transparent sleeve. SOUTH GATE bottom, NORTH arrow top, fountain center, squirrel bench left/west, oak bench right/east. No map symbol changes between shots. Exact readable lettering comes from SVG; image-model labels are provisional.
+Leo packs the empty transparent sleeve with the napkins in shot 002. The single paper sketch stays separate until shot 043, when Ella hands Dan the sleeve and he pockets the sleeved map. SOUTH GATE bottom, NORTH arrow top, fountain center, squirrel bench left/west, oak bench right/east. No map symbol changes between shots. Exact readable lettering comes from SVG; image-model labels are provisional.
 
 | Shots | State |
 |---|---|
