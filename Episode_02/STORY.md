@@ -869,7 +869,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **NINA:** Different starting amounts.
 
-**DAN:** Ah, the change starts with the bill in my hand.
+**DAN:** Ah, the change starts with the twenty in my wallet.
 
 ### SHOT_043 | 00:10:30–00:10:45 | The champion asks too much
 
@@ -997,9 +997,9 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Visible cast:** DAN, LEO, MAYA  
 **Location:** FRUIT_CHECKOUT  
 **Camera:** Medium at far-right register; clerk remains off-screen or hands-only.  
-**Action:** Dan sets the full basket on the checkout counter without unloading fruit into duplicate piles. He retrieves the card from his right pocket and hands it to Leo. A silent clerk’s hands present the nine-line receipt and the register’s $15.50 total, supplied through editorial overlays. Leo checks against the card.  
+**Action:** Dan sets the full basket on the checkout counter without unloading fruit into duplicate piles. He retrieves the card from his right pocket and hands it to Leo. A silent clerk’s hands present a nine-line itemized slip with the $15.50 amount due. Leo compares the slip and register total with the card. For the slip, use the receipt artwork through its total line and omit the payment and change fields.
 **Opening state:** Basket arrives with all nine fruit lines; no payment made; wallet/card in right pocket.  
-**End state:** Checkout total confirmed $15.50; full basket on counter; receipt laid flat beside it; card with Leo.  
+**End state:** Checkout total confirmed $15.50; full basket on counter; Leo holds the card and itemized slip; no payment or receipt yet.
 **Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Only the six family voices exist in this episode. No visible face, named vendor or extra voice at checkout; tax already included.
 
@@ -1017,9 +1017,9 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Visible cast:** DAN, LEO  
 **Location:** FRUIT_CHECKOUT  
 **Camera:** Close wallet-to-counter movement; Dan’s left-wrist watch remains visible.  
-**Action:** Dan takes his wallet from his right trouser pocket, removes one twenty-dollar bill and lays it flat toward the clerk. The clerk’s hand accepts it. Leo keeps his hands away from the payment and fruit.  
+**Action:** Dan takes his wallet from his right trouser pocket, removes one twenty-dollar bill and lays it flat toward the clerk. The clerk’s hand accepts it. Leo sets the itemized slip aside and keeps his hands away from the payment and fruit.
 **Opening state:** Amount due $15.50; wallet contains one $20 bill; full basket on counter; Leo holds card.  
-**End state:** $20 payment accepted; wallet open in Dan’s hand; no change returned yet; card stays with Leo.  
+**End state:** $20 payment accepted; wallet open in Dan’s hand; card stays with Leo; the clerk has yet to hand over the receipt and change.
 **Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** One payment only. Do not leave another twenty-dollar bill on the counter after the clerk accepts it.
 
@@ -1037,7 +1037,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Visible cast:** DAN, MAX, NINA  
 **Location:** FRUIT_CHECKOUT  
 **Camera:** Counter insert on four one-dollar bills, two quarters and receipt.  
-**Action:** The silent clerk’s hand lays four one-dollar bills and two quarters beside the receipt. Dan counts the four bills, then indicates the two quarters. Nina keeps Max beside her; he watches without grabbing money.  
+**Action:** The silent clerk’s hand sets down the completed receipt with four one-dollar bills and two quarters. Dan counts the four bills, then indicates the two quarters. Nina keeps Max beside her; he watches without grabbing money.
 **Opening state:** $20 accepted against $15.50 total; no change yet received.  
 **End state:** Exactly $4.50 change on counter: four $1 bills and two $0.25 coins; receipt beside it.  
 **Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.  

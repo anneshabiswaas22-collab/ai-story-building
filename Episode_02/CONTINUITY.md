@@ -62,7 +62,7 @@ These are story-shot numbers, not Episode 01's legacy S-numbers. Each addition h
 | **037** | Add **2 peaches**. |
 | **039** | Add **2 pears**. Basket now contains the complete nine-line selection. |
 | **040–048** | Compare cost, purpose and basket fit without adding another fruit. The full selection remains $15.50; the rejected melon stays at the shop. |
-| **049–054** | Checkout and payment. At **053**, grapes, strawberries and protected peaches transfer to the cooler; the basket retains apples, bananas, oranges, lemon, lime and pears. Do not duplicate the transferred fruit in the basket. |
+| **049–054** | Confirm the **$15.50** amount due on an itemized slip in **049**. Dan pays in **050**, and the clerk presents the completed receipt with the change in **051**. At **053**, grapes, strawberries and protected peaches transfer to the cooler. The basket retains apples, bananas, oranges, lemon, lime and pears. |
 | **055** | Exit in FRUIT_SHOP_WIDE with the paid purchase, receipt and change. |
 | **056** | Return to HOME_KITCHEN; unload all purchased fruit into clean preparation zones. Cooler still holds water and ice packs. |
 | **057–066** | Hands/produce washed, fruit prepared and salad assembled by the scripted actions. Adult-cut pieces replace whole purchases. Half the lemon and half the lime are reserved, wrapped and refrigerated. |
