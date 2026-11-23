@@ -2,7 +2,7 @@
 
 `Episode_01.tsv` through `Episode_10.tsv` each contain 80 ordered, unique shot rows. Read them with the [master audit](../AUDIT_EP01_EP10.md), the selected episode's `STORY.md` and `CONTINUITY.md`, and the actual referenced PNG. The baseline cleanup ledger and archive checksums describe commit `09063a7`; they are historical records, not current-image manifests.
 
-The [creator approval record](../../CURRENT_PRODUCTION_STATUS.md) identifies the reviewed versions. The [open repair list](BLOCKED_IMAGE_REPAIRS.md) links to **27 open visual findings across 20 sheets**. A later change to reviewed pixels requires fresh review.
+The [creator approval record](../../CURRENT_PRODUCTION_STATUS.md) identifies the reviewed versions. The [storyboard repair queue](BLOCKED_IMAGE_REPAIRS.md) has no open findings. A later change to reviewed pixels requires fresh review.
 
 The [approved panel index](creator-approved-panels.tsv) binds each approval to its sheet path, Git blob ID, panel number and reviewed revision. It contains the 619 panels accepted at `80644c1` and panels 1 and 4 of Episode 06 BOARD_05 accepted at `ac6f2bc`. The production handoff exports the result as `storyboard_panel_review`. The series audit's shot manifest exports the same decision as `board_approval`. Both look up each panel against the file they actually read. An open finding takes precedence. After an edit, carry an approval to a new sheet identity only with recorded evidence that the accepted panel is pixel-identical, or with fresh creator approval. The index retains earlier reviewed versions.
 

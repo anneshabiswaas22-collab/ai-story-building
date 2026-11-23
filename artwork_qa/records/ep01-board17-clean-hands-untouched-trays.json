@@ -1,0 +1,92 @@
+{
+  "episode": 1,
+  "board": 17,
+  "path": "Episode_01/assets/storyboards/BOARD_17.png",
+  "parent_commit": "074c452953c70e47b14c86ff7e9689db840e4c7d",
+  "parent_sha256": "1856c86ec0df662a32a48a40ee394c0e77fea676e156253e19a7b37f44e08357",
+  "selected_sha256": "14a281f2a6f8367920d07932ee1859327a93e42d2543acc30fe382c79bf40a7a",
+  "parent_size": [
+    1671,
+    941
+  ],
+  "selected_size": [
+    1671,
+    941
+  ],
+  "selected_panels": [
+    1
+  ],
+  "preserved_panels": [
+    2,
+    3,
+    4
+  ],
+  "pixel_identity_verified": [
+    2,
+    3,
+    4
+  ],
+  "edits": {
+    "1": {
+      "method": "Selected the verified location and staging from shot-specific ImageGen references. Kept the original printed badge and other panel quadrants; used the authored list graphics for original note text when shown.",
+      "references": {
+        "exec-396f4aba-c2cd-438e-a35a-6160e8455d8b.png": "8b7f15634e8b50ad8b7be71c1f52586079c95bc02018e1133300c0622a87c3d8",
+        "Episode_01/STORY.md": "34bc7e441ecd7622cfd9b77f287a1eccf5fedda561f669d9630da6459ffdda49",
+        "Episode_01/assets/overlays/MAYA_LIST.svg": "406fabecd6f97698374cfbddabaa7c92c985a38daa460f860868b05b9a75f6d0",
+        "Episode_01/assets/overlays/NINA_LIST.svg": "4de6b6b3fdd4525f8d7ee64b0b14832408b18e97ee6486aee0fb51ccd633f5ce",
+        "artwork_qa/sources/ep01-shot065-continuity-frame.png": "8b7f15634e8b50ad8b7be71c1f52586079c95bc02018e1133300c0622a87c3d8"
+      },
+      "changed_panel_bounds_xyxy": [
+        6,
+        6,
+        829,
+        466
+      ]
+    }
+  },
+  "qa_updates": {
+    "SHOT_065": {
+      "observed": "The family takes turns at the sink while the original quantities of uncut produce wait on two separate trays. The blue and yellow totes are folded and set aside; the single empty blue-handled basket rests on its separate supply chair.",
+      "severity": "review",
+      "correction": "Creator review of corrected pixels pending.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    }
+  },
+  "approval_carryover": {
+    "original_git_blob": "0d533b4b7bf28bf3a902b6dc2b781fda0fec6970",
+    "selected_git_blob": "4c6f5eb7ff9a06bf6bbd404b216483d3cc563e1f",
+    "method": "Compared complete decoded RGBA quadrants including boundaries.",
+    "preserved_approved_panels": {
+      "2": {
+        "box_xyxy": [
+          835,
+          0,
+          1671,
+          471
+        ],
+        "rgba_sha256": "af77a94ea0dd1918438d32561dd1a12daa530734e3087ffce78dcd727ba97e51",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      },
+      "3": {
+        "box_xyxy": [
+          0,
+          470,
+          836,
+          941
+        ],
+        "rgba_sha256": "b168ea254a1c5d6f87da511b2c5fd7f31d2264edbd25c268431196b2fe0d54da",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      },
+      "4": {
+        "box_xyxy": [
+          835,
+          470,
+          1671,
+          941
+        ],
+        "rgba_sha256": "413075202dc62567a991779ee345242b671265f2d8cdac8194857d8d94d8c951",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      }
+    }
+  }
+}

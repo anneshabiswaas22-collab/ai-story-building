@@ -1,0 +1,92 @@
+{
+  "episode": 9,
+  "board": 18,
+  "path": "Episode_09/assets/storyboards/BOARD_18.png",
+  "parent_commit": "074c452953c70e47b14c86ff7e9689db840e4c7d",
+  "parent_sha256": "1cca1ba9ab78be39656932641318220629322d931a12823b5af518f1cb4423aa",
+  "selected_sha256": "56f2021aa60bf2a11e15f2f877c47b5471012ae23cb7d8ad599b5c158ee118fe",
+  "parent_size": [
+    1672,
+    941
+  ],
+  "selected_size": [
+    1672,
+    941
+  ],
+  "generated_sources": {
+    "SHOT_071": {
+      "path": "artwork_qa/sources/ep09-shot071-continuity-edit.png",
+      "sha256": "efd3a66367399c7c217c72eeb15b90ea89f96af91e77f0b6c4c124a2ccb1ff11"
+    },
+    "SHOT_072": {
+      "path": "artwork_qa/sources/ep09-shot072-continuity-edit.png",
+      "sha256": "7dbec5a19c80ab82cdb4bbd923bde2cd43744dc3088ea0c29d3ad756ada55de8"
+    }
+  },
+  "references": [
+    "Episode_09/STORY.md",
+    "Episode_09/CONTINUITY.md",
+    "Episode_09/assets/characters/ADULTS_lineup.jpg",
+    "Episode_09/assets/characters/CHILDREN_lineup.jpg"
+  ],
+  "method": "Composited only the selected notebook area or corrected panel interior from reference-guided image edits. Retained original shot badges and verified all unedited quadrants pixel for pixel.",
+  "selected_panels": [
+    3,
+    4
+  ],
+  "selected_rectangles_xyxy": [
+    [
+      7,
+      477,
+      829,
+      934
+    ],
+    [
+      843,
+      477,
+      1665,
+      934
+    ]
+  ],
+  "preserved_panels": [
+    1,
+    2
+  ],
+  "preserved_panel_rgb_sha256": {
+    "1": "bd7d4963cdac3a1fb6a669819cf5db098e87aa317ffa795444ba58b877e22e7b",
+    "2": "d641223a5ba19351ba6b8f5b9ad39bdfb9f0980b474a0a215d6e53f063337ae1"
+  },
+  "qa_updates": {
+    "SHOT_071": {
+      "observed": "All six observe three pots on the paved path, with mint left, basil center and bare radish right. Each has a saucer and a correctly named stake. Maya carries the closed brown notebook with Max’s double-ring pencil drawing on the clipped rectangular scrap. The bench is clear and the can remains on the lower shelf.",
+      "verification": "Compared the selected pixels with the screenplay, continuity guide and original character and location references. The shot badge is preserved. Creator review of the replacement panel remains pending.",
+      "severity": "review",
+      "status": "NEEDS_HUMAN_REVIEW",
+      "correction": "Review the selected replacement pixels for creator approval."
+    },
+    "SHOT_072": {
+      "observed": "The low view shows three terracotta pots on the paving, all set into their individual empty saucers. The mint, basil and bare radish soil match the order and stakes in the established ground row. Maya, Nina and Dan observe without touching or moving the pots.",
+      "verification": "Compared the selected pixels with the screenplay, continuity guide and original character and location references. The shot badge is preserved. Creator review of the replacement panel remains pending.",
+      "severity": "review",
+      "status": "NEEDS_HUMAN_REVIEW",
+      "correction": "Review the selected replacement pixels for creator approval."
+    }
+  },
+  "approval_carryover": {
+    "original_git_blob": "9927ff37bb0b5b47050d33e3235fbcb8d38a6bb3",
+    "selected_git_blob": "4faee130a2e953423bc9348decb000f3398fa441",
+    "method": "Compared complete decoded RGBA quadrants including boundaries.",
+    "preserved_approved_panels": {
+      "1": {
+        "box_xyxy": [
+          0,
+          0,
+          836,
+          471
+        ],
+        "rgba_sha256": "4b485e273ee2282d2f51dac4234d6bc2352b198f3556659c94b4b6c82e265278",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      }
+    }
+  }
+}

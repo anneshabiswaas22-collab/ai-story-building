@@ -1,0 +1,130 @@
+{
+  "episode": 9,
+  "board": 11,
+  "path": "Episode_09/assets/storyboards/BOARD_11.png",
+  "parent_commit": "074c452953c70e47b14c86ff7e9689db840e4c7d",
+  "parent_sha256": "30f37685e747fdba17b4ee4a402b40728b15d3b1d25255853df5b7afbe718ebc",
+  "selected_sha256": "e0c482bd114f546b049fb9b90620ef8463a90f4681f62cc2b83b94582be0e097",
+  "parent_git_blob": "b0df8276df319e87471a08b627564cf969a35ecf",
+  "selected_git_blob": "f653fd86409994063a6c1419d1c910aed70aa33c",
+  "parent_size": [
+    1672,
+    941
+  ],
+  "selected_size": [
+    1672,
+    941
+  ],
+  "generated_sources": [
+    {
+      "shot": "SHOT_041",
+      "path": "artwork_qa/sources/ep09-shot041-three-gloved-label-writers.png",
+      "sha256": "8ce85f3df3507c490cedd3903ee1d448c4079b003ceaa4400d6c6a21aee364b4",
+      "size": [
+        1672,
+        941
+      ]
+    },
+    {
+      "shot": "SHOT_042",
+      "path": "artwork_qa/sources/ep09-shot042-mint-stakes-gloves-and-original-polo.png",
+      "sha256": "6242c0cad374fcfd64249652878b503d8689d06a0884065b78f07a7ffb4d14b4",
+      "size": [
+        1673,
+        940
+      ]
+    },
+    {
+      "shot": "SHOT_043",
+      "path": "artwork_qa/sources/ep09-shot043-basil-stake-and-rectangular-scrap.png",
+      "sha256": "77e1d9707410906fa069f4a54c8f5b90951ac9349236d689884b36aa20a983f6",
+      "size": [
+        1672,
+        941
+      ]
+    }
+  ],
+  "method": "Selected reference-guided storyboard repairs. Composited individual verified panels within their original quadrants and reinstated the exact original badge pixels.",
+  "references": [
+    "Episode_09/assets/storyboards/BOARD_11.png",
+    "Episode_09/STORY.md",
+    "Episode_09/CONTINUITY.md",
+    "Episode_09/assets/GARDEN_LAYOUT.svg",
+    "Episode_09/assets/overlays/PLANT_LABELS.svg",
+    "Episode_09/assets/environments/POTTING_BENCH.png",
+    "Episode_09/assets/characters/ADULTS_lineup.jpg",
+    "Episode_09/assets/characters/CHILDREN_lineup.jpg",
+    "Episode_09/assets/storyboards/BOARD_05.png"
+  ],
+  "selected_panels": [
+    1,
+    2,
+    3
+  ],
+  "selected_rectangles_xyxy": [
+    [
+      6,
+      5,
+      830,
+      465
+    ],
+    [
+      842,
+      5,
+      1666,
+      465
+    ],
+    [
+      6,
+      475,
+      830,
+      936
+    ]
+  ],
+  "preserved_panels": [
+    4
+  ],
+  "preserved_panel_rgb_sha256": {
+    "4": "637bcee81aa531ab452eb0fd223664755e6f774ee1e950eaccfeaae2016e0719"
+  },
+  "qa_updates": {
+    "SHOT_041": {
+      "observed": "Leo writes MINT, Ella writes BASIL and Dan writes RADISH. All three writers wear garden gloves. The three dry stakes lie in order on the tray, and the notebook holds the clipped rectangular scrap with one pencilled circle.",
+      "severity": "review",
+      "correction": "Review the corrected storyboard pixels against continuity and character references.",
+      "status": "NEEDS_HUMAN_REVIEW",
+      "verification": "Compared the rendered words with PLANT_LABELS.svg and checked the cast, gloved hands, three stemmed stakes and exact notebook paper-coin prop. The original shot badge is retained. All unselected quadrants matched the parent image exactly."
+    },
+    "SHOT_042": {
+      "observed": "Maya guides Max’s gloved hand at the left MINT pot. The BASIL and RADISH signs remain together on the lower dry tray, each on its own wooden stem. Dan, in his original blue polo and both gloves, checks the notebook with the rectangular pencil-circle scrap clipped to its edge.",
+      "severity": "review",
+      "correction": "Review the corrected storyboard pixels against continuity and character references.",
+      "status": "NEEDS_HUMAN_REVIEW",
+      "verification": "Verified the original blue wardrobe, two glove-covered hands holding the notebook, the exact clipped scrap, and both separate remaining wooden stakes. The original shot badge is retained. All unselected quadrants matched the parent image exactly."
+    },
+    "SHOT_043": {
+      "observed": "Ella and Nina handle the center BASIL stake with gloved hands. Leo holds the notebook with both gloves on and the dry rectangular pencil-circle scrap clipped outside. The matching stemmed RADISH stake lies alone on the tray; the left MINT stays planted.",
+      "severity": "review",
+      "correction": "Review the corrected storyboard pixels against continuity and character references.",
+      "status": "NEEDS_HUMAN_REVIEW",
+      "verification": "Compared the stake order, notebook, glove coverage and selected cast with the screenplay and continuity references. The original shot badge is retained. All unselected quadrants matched the parent image exactly."
+    }
+  },
+  "approval_carryover": {
+    "original_git_blob": "b0df8276df319e87471a08b627564cf969a35ecf",
+    "selected_git_blob": "f653fd86409994063a6c1419d1c910aed70aa33c",
+    "method": "Compared complete decoded RGBA quadrants including boundaries.",
+    "preserved_approved_panels": {
+      "4": {
+        "box_xyxy": [
+          836,
+          470,
+          1672,
+          941
+        ],
+        "rgba_sha256": "b0bf86d2664cab3ba2d6edf8b0a9a376e8eb68c4eb1eae0113ce2187a8dc2533",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      }
+    }
+  }
+}

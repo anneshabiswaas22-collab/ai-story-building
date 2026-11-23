@@ -8,9 +8,9 @@ The creator confirmed review and acceptance of all 619 shots listed as `NEEDS_HU
 
 The creator approved Episode 06 BOARD_05 **SHOT_017 (panel 1)** and **SHOT_020 (panel 4)** as pictured in [the reviewed sheet at `ac6f2bc`](https://github.com/renoukhan39-bit/ai-story-building/blob/ac6f2bcd41a1f6413e57538c20f64bf15983ca55/Episode_06/assets/storyboards/BOARD_05.png). The full SHA-256 of that PNG is `49f1cf80f7d4a86478fbca4299f2dd102bd4749403b4634599ef4a0b25acef00`. The [repair record](artwork_qa/records/ep06-board05-aisle-framing-and-seat-order.json) identifies the two replacement panels.
 
-## Active storyboard QA — 2026-11-23
+## Active storyboard QA — 2026-11-24
 
-The current sheets contain **621 creator-approved shots** and **152 shots awaiting creator review**. The [open repair list](docs/qa/BLOCKED_IMAGE_REPAIRS.md) links to **27 open visual findings across 20 sheets**. All selected sheets in the queue are readable in the cloud checkout. Use each finding to guide the next repair, and preserve existing approvals for pixel-identical panels.
+The current sheets contain **621 creator-approved shots** and **179 shots awaiting creator review**. The [storyboard repair queue](docs/qa/BLOCKED_IMAGE_REPAIRS.md) has no open findings. The [repair log](docs/STORYBOARD_REPAIR_LOG.md) records each replacement and the preserved approvals.
 
 ## 15-second clips and storyboard repairs — 2026-11-21
 
@@ -77,4 +77,4 @@ python -m unittest discover -s tests -v
 
 CI now runs both explicit strict structural art gates to catch missing/corrupt future images. Their success **does not** certify image aesthetics, exact rendered likeness or continuity against the original actor masters.
 
-**Next recommended lane:** creator-guided targeted correction of *existing* storyboard sheets, reviewed and pushed in small recoverable batches, instead of generating more unneeded board numbers.
+The next storyboard milestone is creator review of the 179 replacement panels.

@@ -1,0 +1,96 @@
+{
+  "episode": 9,
+  "board": 16,
+  "path": "Episode_09/assets/storyboards/BOARD_16.png",
+  "parent_commit": "074c452953c70e47b14c86ff7e9689db840e4c7d",
+  "parent_sha256": "ca9cdfaff50c86e3b3a7014cdea6934bac657d4cc9ceac31d113641896acc932",
+  "selected_sha256": "e6c698482afd9a90b5b79ed8d47937f0013d75cc1f7c15bce87b31026f8fdeaf",
+  "parent_size": [
+    1672,
+    941
+  ],
+  "selected_size": [
+    1672,
+    941
+  ],
+  "generated_sources": {
+    "SHOT_062": {
+      "path": "artwork_qa/sources/ep09-shot062-continuity-edit.png",
+      "sha256": "d84dc0dd86394f351482af9ab1e53fc5ff745b617a7face9b8e9be169989e60c"
+    }
+  },
+  "references": [
+    "Episode_09/STORY.md",
+    "Episode_09/CONTINUITY.md",
+    "Episode_09/assets/characters/ADULTS_lineup.jpg",
+    "Episode_09/assets/characters/CHILDREN_lineup.jpg"
+  ],
+  "method": "Composited only the selected notebook area or corrected panel interior from reference-guided image edits. Retained original shot badges and verified all unedited quadrants pixel for pixel.",
+  "selected_panels": [
+    2
+  ],
+  "selected_rectangles_xyxy": [
+    [
+      1264,
+      317,
+      1549,
+      458
+    ]
+  ],
+  "preserved_panels": [
+    1,
+    3,
+    4
+  ],
+  "preserved_panel_rgb_sha256": {
+    "1": "74598a4fb7d2447de02351432597270a7dd7f367151e7eee2c42161db1c6d47a",
+    "3": "7bcc4d86b1940ce34c9d96580b320049ee8a559a4428b44ffbb2eb6fd0ac6742",
+    "4": "f651912b765dbf652590824ad20c932ca021f30d578b0c623b5a285be88de5fa"
+  },
+  "qa_updates": {
+    "SHOT_062": {
+      "observed": "The notebook separately shows the visible mint and basil leaves and the bare radish pot under DAY 1: WHAT WE SEE. A separate SOWING DIAGRAM contains exactly three covered-seed dots. The real pots beyond, original shot badge and water figures are preserved.",
+      "verification": "Compared the selected pixels with the screenplay, continuity guide and original character and location references. The shot badge is preserved. Creator review of the replacement panel remains pending.",
+      "severity": "review",
+      "status": "NEEDS_HUMAN_REVIEW",
+      "correction": "Review the selected replacement pixels for creator approval."
+    }
+  },
+  "approval_carryover": {
+    "original_git_blob": "4a8281a238637d9588e5d11ae4b319dfbd517fdc",
+    "selected_git_blob": "975a308d4a4e390d155dea8626db0e61a5d949a7",
+    "method": "Compared complete decoded RGBA quadrants including boundaries.",
+    "preserved_approved_panels": {
+      "1": {
+        "box_xyxy": [
+          0,
+          0,
+          836,
+          471
+        ],
+        "rgba_sha256": "c8c6f1990ad4d7d67aca51491e87ca4ee01311b3e55bd79b25ddfea15b79d36a",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      },
+      "3": {
+        "box_xyxy": [
+          0,
+          470,
+          836,
+          941
+        ],
+        "rgba_sha256": "fe6810f90060220e11fb0c59505d56bdfd3d851919a93e1a87158d1968c94284",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      },
+      "4": {
+        "box_xyxy": [
+          836,
+          470,
+          1672,
+          941
+        ],
+        "rgba_sha256": "e47b779735274579ad764a73b84c689fede3e139ca9164cab1f91b8f072a58cf",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      }
+    }
+  }
+}

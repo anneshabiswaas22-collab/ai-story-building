@@ -1,4 +1,6 @@
-# Finish the storyboard artwork repairs on main
+# Storyboard artwork repair instructions
+
+The November 23 repair queue was cleared on November 24. Check the [live ledgers](qa/) and [repair log](STORYBOARD_REPAIR_LOG.md) for current review status. The instructions below describe the original repair pass.
 
 Work directly in `pujahalder34675-creator/ai-story-building`. I authorize you to edit the storyboard PNGs and push each verified repair directly to `main`. Carry out the edits through the entire open queue across all ten episodes. Use GitHub as the durable checkpoint. Keep routine logs out of chat. The deliverables are still images for 15-second clips. Leave video and audio generation off.
 

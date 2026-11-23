@@ -1,0 +1,91 @@
+{
+  "episode": 5,
+  "board": 9,
+  "path": "Episode_05/assets/storyboards/BOARD_09.png",
+  "parent_commit": "074c452953c70e47b14c86ff7e9689db840e4c7d",
+  "parent_sha256": "e3b2f227cf3360c90b35f77964cecc06946b966b21e5483b75c5e525e2f95e21",
+  "selected_sha256": "82ca6539d1692aa82d343d40d4492cee2fef59d3737e539141a4ffe3b8a4e1cb",
+  "parent_size": [
+    1672,
+    941
+  ],
+  "selected_size": [
+    1672,
+    941
+  ],
+  "selected_panels": [
+    2
+  ],
+  "changed_bounds_xyxy": {
+    "2": [
+      842,
+      5,
+      1667,
+      465
+    ]
+  },
+  "preserved_panels": [
+    1,
+    3,
+    4
+  ],
+  "generated_sources": [
+    {
+      "shot": "SHOT_034",
+      "path": "artwork_qa/sources/ep05-shot034-north-up-map-and-south-gate.png",
+      "sha256": "1faa8c5ae8a51d8254a242034e80db9009f8ec058b80760cd5e2b61dc4729fa5"
+    }
+  ],
+  "method": "Composited the verified storyboard edit into the original board with badge and other quadrants retained. The map print is the authored SVG, perspective-fitted with Dan's original grip layered in front.",
+  "references": [
+    "Episode_05/STORY.md",
+    "Episode_05/CONTINUITY.md",
+    "Episode_05/assets/overlays/PARK_MAP.svg"
+  ],
+  "qa_updates": {
+    "SHOT_034": {
+      "observed": "Dan points back to the real mint-green south gate, shown open on the path behind the trio. The map in his grip is the authored north-up SVG, Max retains tan shorts, and Leo checks the oak on their right.",
+      "severity": "review",
+      "correction": "Review the corrected storyboard pixels for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW",
+      "verification": "Compared the selected art with the screenplay, continuity references, and original pixels. Creator approval pending."
+    }
+  },
+  "approval_carryover": {
+    "original_git_blob": "24d0ae5a8f374d458274b71ba08fffb058275952",
+    "selected_git_blob": "484f8d9e9e80e7fc4298940a46d914ed06311d73",
+    "method": "Compared complete decoded RGBA quadrants including boundaries.",
+    "preserved_approved_panels": {
+      "1": {
+        "box_xyxy": [
+          0,
+          0,
+          836,
+          471
+        ],
+        "rgba_sha256": "7f0165599a8906d93952a65b1482a4214694f4afa6a30d4c6d45589c06d8e09a",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      },
+      "3": {
+        "box_xyxy": [
+          0,
+          470,
+          836,
+          941
+        ],
+        "rgba_sha256": "dd3294cbf7b4e14fd194e390ee8f3857352b66f378c74e7dc9465eb6542a3810",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      },
+      "4": {
+        "box_xyxy": [
+          836,
+          470,
+          1672,
+          941
+        ],
+        "rgba_sha256": "60fe1f19c705f04fdae8815083ebc5afad8374b4213d4801fe34819f30b945e8",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      }
+    }
+  }
+}

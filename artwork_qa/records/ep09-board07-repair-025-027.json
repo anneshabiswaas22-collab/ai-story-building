@@ -1,0 +1,117 @@
+{
+  "episode": 9,
+  "board": 7,
+  "path": "Episode_09/assets/storyboards/BOARD_07.png",
+  "parent_commit": "074c452953c70e47b14c86ff7e9689db840e4c7d",
+  "parent_sha256": "69712a01b9cd1373c5d5d018574fb856cad9230581818ef19ef6d449baf1c08e",
+  "selected_sha256": "047d1c9e010bed701e57fe4739a9371625854728db665ddc66004a5c01824d90",
+  "parent_git_blob": "a9e4b69329d2e24b95a1b5c0381f3259e85d033b",
+  "selected_git_blob": "d0e4eaaacd8c9c8466200035ad2ffb87e96ea41e",
+  "parent_size": [
+    1672,
+    941
+  ],
+  "selected_size": [
+    1672,
+    941
+  ],
+  "method": "Selected individual corrected shots or narrow prop and notebook composites after direct visual checks against the requested corrections. Preserved original sheet, badge and unrelated panel geometry.",
+  "references": [
+    "Episode_09/assets/storyboards/BOARD_07.png",
+    "Episode_09/STORY.md",
+    "Episode_09/CONTINUITY.md",
+    "Episode_09/assets/GARDEN_LAYOUT.svg",
+    "Episode_09/assets/characters/ADULTS_lineup.jpg",
+    "Episode_09/assets/characters/CHILDREN_lineup.jpg",
+    "Episode_09/assets/environments/POTTING_BENCH.png"
+  ],
+  "selected_panels": [
+    1,
+    3
+  ],
+  "selected_rectangles_xyxy": [
+    [
+      6,
+      6,
+      830,
+      464
+    ],
+    [
+      6,
+      476,
+      830,
+      935
+    ]
+  ],
+  "preserved_panels": [
+    2,
+    4
+  ],
+  "preserved_panel_rgb_sha256": {
+    "2": "5d357b97da73ed047c0064384f1356d50a9a35fb406ac9f2fd2c3e48e972ef92",
+    "4": "296953b0313a951db17b223d7fd36968e3aaf73c0f1636e6965bddc44af47796"
+  },
+  "qa_updates": {
+    "SHOT_025": {
+      "observed": "Maya supports the single mint root ball over the left hollow. Dan holds the empty mint nursery container. The intact basil nursery container stands upright with its base on the bench beside the center planter.",
+      "severity": "review",
+      "correction": "Review the replacement panel against the established garden and character references.",
+      "status": "NEEDS_HUMAN_REVIEW",
+      "verification": "Checked that the basil container visibly meets the worktop and that the mint transplant action and all three terracotta pots remain consistent. Retained the original shot badge and unaffected panels. Fresh creator review pending."
+    },
+    "SHOT_027": {
+      "observed": "Ella firms the mix around the mint while Leo’s gloved fingers hold its foliage clear. Maya supervises; the basil remains in its nursery pot beside center and the right bed is bare.",
+      "severity": "review",
+      "correction": "Review the replacement panel against the established garden and character references.",
+      "status": "NEEDS_HUMAN_REVIEW",
+      "verification": "Inspected the tip of Leo’s extended glove below the intact mint foliage and Ella’s two gloves at soil level; no added labels or watering. Retained the original shot badge and unaffected panels. Fresh creator review pending."
+    }
+  },
+  "generated_sources": [
+    {
+      "shot": "SHOT_025",
+      "path": "artwork_qa/sources/ep09-shot025-basil-container-on-bench.png",
+      "sha256": "bdf2406ebfd73e734a35e8339116c4e89251a6909feb6b2afbe0c704d664acf7",
+      "size": [
+        1674,
+        940
+      ]
+    },
+    {
+      "shot": "SHOT_027",
+      "path": "artwork_qa/sources/ep09-shot027-hold-mint-leaves-clear.png",
+      "sha256": "5f7fe289199319e3c5466fbf49e53dcfa0bd822c3b4cd6139b4436600a505843",
+      "size": [
+        1672,
+        941
+      ]
+    }
+  ],
+  "approval_carryover": {
+    "original_git_blob": "a9e4b69329d2e24b95a1b5c0381f3259e85d033b",
+    "selected_git_blob": "d0e4eaaacd8c9c8466200035ad2ffb87e96ea41e",
+    "method": "Compared complete decoded RGBA quadrants including boundaries.",
+    "preserved_approved_panels": {
+      "2": {
+        "box_xyxy": [
+          836,
+          0,
+          1672,
+          471
+        ],
+        "rgba_sha256": "5303b0f5fc59298da6e8a769c12950165fa82e2a1b424b034916742542876168",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      },
+      "4": {
+        "box_xyxy": [
+          836,
+          470,
+          1672,
+          941
+        ],
+        "rgba_sha256": "782709bea468aaadd91138520017b64375f4eebc30b60a13fab24ac2c8e48a80",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      }
+    }
+  }
+}

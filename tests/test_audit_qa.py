@@ -25,7 +25,7 @@ class AuditQATests(unittest.TestCase):
         errors, statuses = audit_issues()
         self.assertEqual(errors, [])
         self.assertEqual(sum(statuses.values()), 800)
-        self.assertEqual(set(statuses), {"FAIL", "NEEDS_HUMAN_REVIEW"})
+        self.assertLessEqual(statuses.keys(), {"FAIL", "NEEDS_HUMAN_REVIEW"})
 
     def test_missing_or_duplicate_shot_is_rejected(self):
         for rows in (self.rows[:-1], [self.rows[0]] + self.rows[:-1]):
@@ -36,7 +36,8 @@ class AuditQATests(unittest.TestCase):
         errors, statuses = audit_issues(source_only=True)
         self.assertEqual(errors, [])
         self.assertEqual(sum(statuses.values()), 800)
-        self.assertEqual(set(statuses), {"FAIL", "NEEDS_HUMAN_REVIEW"})
+        _, full_statuses = audit_issues()
+        self.assertEqual(statuses, full_statuses)
 
     def test_only_explicit_source_mode_can_succeed_without_pngs(self):
         with TemporaryDirectory() as temp:

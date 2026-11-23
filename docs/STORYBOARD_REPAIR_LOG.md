@@ -237,3 +237,33 @@ Current ledger totals are 27 open visual findings across 20 storyboard sheets, 6
 | 08 / [BOARD_16](../Episode_08/assets/storyboards/BOARD_16.png) | 062 | [Recovery record](../artwork_qa/records/ep08-board16-verified-cube-tab-continuity.json) |
 
 <!-- /live-repair-checkpoint -->
+
+<!-- live-repair-checkpoint ffe74692fcf52122 -->
+## Repair checkpoint — 2026-11-24
+
+The final batch cleared all 27 remaining findings. Across all ten episodes, 621 shots retain creator approval and 179 corrected shots await creator review. The [repair queue](qa/BLOCKED_IMAGE_REPAIRS.md) is empty.
+
+| Episode / sheet | Shots repaired | Verification |
+|---|---|---|
+| 01 / [BOARD_14](../Episode_01/assets/storyboards/BOARD_14.png) | 055, 056 | [Recovery record](../artwork_qa/records/ep01-board14-basket-below-checkout.json) |
+| 01 / [BOARD_17](../Episode_01/assets/storyboards/BOARD_17.png) | 065 | [Recovery record](../artwork_qa/records/ep01-board17-clean-hands-untouched-trays.json) |
+| 01 / [BOARD_18](../Episode_01/assets/storyboards/BOARD_18.png) | 069 | [Recovery record](../artwork_qa/records/ep01-board18-check-soup-wall-range.json) |
+| 01 / [BOARD_20](../Episode_01/assets/storyboards/BOARD_20.png) | 077 | [Recovery record](../artwork_qa/records/ep01-board20-original-notes-fixed-seats.json) |
+| 05 / [BOARD_05](../Episode_05/assets/storyboards/BOARD_05.png) | 019 | [Recovery record](../artwork_qa/records/ep05-board05-basket-rests-on-wrong-bench.json) |
+| 05 / [BOARD_07](../Episode_05/assets/storyboards/BOARD_07.png) | 026 | [Recovery record](../artwork_qa/records/ep05-board07-distant-family-at-oak-bench.json) |
+| 05 / [BOARD_09](../Episode_05/assets/storyboards/BOARD_09.png) | 034 | [Recovery record](../artwork_qa/records/ep05-board09-north-up-map-and-south-gate.json) |
+| 05 / [BOARD_13](../Episode_05/assets/storyboards/BOARD_13.png) | 049 | [Recovery record](../artwork_qa/records/ep05-board13-six-clean-plates-at-handoff.json) |
+| 08 / [BOARD_01](../Episode_08/assets/storyboards/BOARD_01.png) | 002 | [Recovery record](../artwork_qa/records/ep08-board01-six-cubes-and-six-punched-card-tabs.json) |
+| 08 / [BOARD_06](../Episode_08/assets/storyboards/BOARD_06.png) | 023 | [Recovery record](../artwork_qa/records/ep08-board06-closed-lavender-pouch-stays-in-case.json) |
+| 08 / [BOARD_10](../Episode_08/assets/storyboards/BOARD_10.png) | 038 | [Recovery record](../artwork_qa/records/ep08-board10-ella-repacks-coral-pair-in-second-cube.json) |
+| 09 / [BOARD_03](../Episode_09/assets/storyboards/BOARD_03.png) | 012 | [Recovery record](../artwork_qa/records/ep09-board03-repair-012.json) |
+| 09 / [BOARD_04](../Episode_09/assets/storyboards/BOARD_04.png) | 013, 015 | [Recovery record](../artwork_qa/records/ep09-board04-repair-013-015.json) |
+| 09 / [BOARD_06](../Episode_09/assets/storyboards/BOARD_06.png) | 023, 024 | [Recovery record](../artwork_qa/records/ep09-board06-repair-023-024.json) |
+| 09 / [BOARD_07](../Episode_09/assets/storyboards/BOARD_07.png) | 025, 027 | [Recovery record](../artwork_qa/records/ep09-board07-repair-025-027.json) |
+| 09 / [BOARD_08](../Episode_09/assets/storyboards/BOARD_08.png) | 032 | [Recovery record](../artwork_qa/records/ep09-board08-repair-032.json) |
+| 09 / [BOARD_10](../Episode_09/assets/storyboards/BOARD_10.png) | 038 | [Recovery record](../artwork_qa/records/ep09-board10-fixed-gloves-and-stakes.json) |
+| 09 / [BOARD_11](../Episode_09/assets/storyboards/BOARD_11.png) | 041, 042, 043 | [Recovery record](../artwork_qa/records/ep09-board11-fixed-gloves-and-stakes.json) |
+| 09 / [BOARD_16](../Episode_09/assets/storyboards/BOARD_16.png) | 062 | [Recovery record](../artwork_qa/records/ep09-board16-day-one-final-placement.json) |
+| 09 / [BOARD_18](../Episode_09/assets/storyboards/BOARD_18.png) | 071, 072 | [Recovery record](../artwork_qa/records/ep09-board18-day-one-final-placement.json) |
+
+<!-- /live-repair-checkpoint -->
