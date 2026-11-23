@@ -1,0 +1,71 @@
+{
+  "episode": 6,
+  "board": 16,
+  "path": "Episode_06/assets/storyboards/BOARD_16.png",
+  "parent_commit": "746903ef3774bcabed8f943f8d8b467ebca803cf",
+  "parent_sha256": "98757b14f062cd246fac2a8cad4d0075f0f4856901afc67606631dc31df5fc62",
+  "selected_sha256": "0e487f8209235797febbfd81871d8f5b2b8b034601e6ea3f1d225c7a60c905c2",
+  "parent_size": [
+    1672,
+    941
+  ],
+  "selected_size": [
+    1672,
+    941
+  ],
+  "generated_source": "artwork_qa/sources/ep06-board16-box-and-correct-window-seats.png",
+  "generated_source_sha256": "96b18219b7009318eea1570ed253fdbeb95aba09aa52f4eaa0f89bdd44033b64",
+  "generated_source_size": [
+    1672,
+    941
+  ],
+  "references": [
+    "Episode_06/assets/storyboards/BOARD_16.png",
+    "Episode_06/STORY.md",
+    "Episode_06/CONTINUITY.md",
+    "Episode_06/assets/RESTAURANT_seating.svg",
+    "Episode_06/assets/storyboards/BOARD_03.png",
+    "Episode_06/assets/characters/ADULTS_lineup.jpg",
+    "Episode_06/assets/characters/CHILDREN_lineup.jpg"
+  ],
+  "method": "Selected the restrained ImageGen reframing with the additional Nina glass and preserved the shot badge and other three quadrants of the parent sheet.",
+  "selected_panels": [
+    1
+  ],
+  "preserved_panels": [
+    2,
+    3,
+    4
+  ],
+  "preserved_panel_rgb_sha256": {
+    "2": "5420f9d3b3cd8084db86542096de55c59c4722194e338622dd4d81563c9cadf4",
+    "3": "d278386e56e1191298e07bc16adbbc997e2aca281fc66fac9f55f62541e488b4",
+    "4": "e8f2ea622ab4de968ce27f8aa6fb2d52938350aea4cf34b1a6431a352e6fa9f1"
+  },
+  "selected_rectangles_xyxy": [
+    [
+      4,
+      3,
+      832,
+      466
+    ]
+  ],
+  "qa_updates": {
+    "SHOT_061": {
+      "observed": "Dan sits opposite Max at the near aisle seat. Max sits nearest the window camera angle and Nina sits farther along the window side, keeping one closed takeout box at her place. Max’s white dish is empty and each visible diner has one water.",
+      "severity": "review",
+      "status": "NEEDS_HUMAN_REVIEW",
+      "correction": "Review the replacement against the character references and restaurant continuity map.",
+      "verification": "Checked seating, visible dishes and waters, and the closed box directly against the screenplay and established SHOT_012 layout. Verified the other three quadrants are pixel-identical. Fresh creator review pending."
+    }
+  },
+  "additional_generated_sources": {
+    "artwork_qa/sources/ep06-board16-box-and-correct-window-seats-glass-detail.png": "aa3935ee4432207e5fbfaf95d62b0757cad09ac152c4329d7736670f7430c539"
+  },
+  "approval_carryover": {
+    "original_git_blob": "3485c86d2c25d3fb3d4a7714a664b5ad584fcff2",
+    "selected_git_blob": "b31e02b7fbac4179fa1db842a97bb0bc412530c5",
+    "method": "Compared complete decoded RGBA quadrants including boundaries.",
+    "preserved_approved_panels": {}
+  }
+}

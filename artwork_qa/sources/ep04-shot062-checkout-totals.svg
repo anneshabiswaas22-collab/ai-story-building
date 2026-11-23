@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="164" viewBox="0 0 1120 164">
+<rect width="1120" height="164" rx="19" fill="#fff8ea"/>
+<rect x="10" y="10" width="1100" height="144" rx="15" fill="none" stroke="#195f5b" stroke-width="3"/>
+<g fill="#193c36" font-family="DejaVu Sans" text-anchor="middle">
+<text x="560" y="43" font-size="25" font-weight="bold">CHECKOUT TOTALS</text>
+<text x="147" y="83" font-size="22">Original budget</text><text x="415" y="83" font-size="22">Sale total</text>
+<text x="700" y="83" font-size="22">Budget remainder</text><text x="969" y="83" font-size="22">Cash change</text>
+<g font-size="40" font-weight="bold"><text x="147" y="131">$40</text><text x="415" y="131">$32</text>
+<text x="700" y="131">$8</text><text x="969" y="131">$8</text></g>
+</g></svg>

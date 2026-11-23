@@ -1,0 +1,82 @@
+{
+  "episode": 3,
+  "board": 17,
+  "path": "Episode_03/assets/storyboards/BOARD_17.png",
+  "parent_commit": "4a05ee2e5996eaa2855c66c315a6d3ccfdd97c06",
+  "parent_sha256": "b9a9aee3832ab4117fb3a5ad21c0188acb7ed9f1fb270527f307ff0e381526b7",
+  "selected_sha256": "4a2db59a6e670bcf51f06dab68374add818cd3ac63d7fe738e4029ddab79d418",
+  "parent_size": [
+    1671,
+    941
+  ],
+  "selected_size": [
+    1671,
+    941
+  ],
+  "selected_panels": [
+    3
+  ],
+  "preserved_panels": [
+    1,
+    2,
+    4
+  ],
+  "pixel_identity_verified": [
+    1,
+    2,
+    4
+  ],
+  "edits": {
+    "3": {
+      "method": "Composite of a localized ImageGen repair into pixels surrounding the original prop, with all other original panel pixels retained.",
+      "references": {
+        "exec-4df6e422-ba4a-46bb-9b33-88c2282f6a02.png": "ddfd6b12eb981175f4ea3ebcb1a2356fca25127f5b61ea0c68500b054691d388",
+        "Episode_03/STORY.md": "a171eacb4d7516c7a5e8e529f5828501540737773dde359d34fffc46552f4a11",
+        "Episode_03/assets/storyboards/BOARD_17.png": "b9a9aee3832ab4117fb3a5ad21c0188acb7ed9f1fb270527f307ff0e381526b7",
+        "Episode_03/assets/characters/DAN_sheet.jpg": "fe9b59f33c6c2e7197505b982fb620eda292a57c615e95318cdc353dcb2948d0",
+        "artwork_qa/sources/ep03-shot067-pointing-to-cut-pancake.png": "ddfd6b12eb981175f4ea3ebcb1a2356fca25127f5b61ea0c68500b054691d388"
+      },
+      "changed_panel_bounds_xyxy": [
+        266,
+        184,
+        481,
+        315
+      ]
+    }
+  },
+  "qa_updates": {
+    "SHOT_067": {
+      "observed": "Dan points diagonally toward the two halves of the first pancake at the front-right corner. His hand hovers clear of the food. The tray still shows eleven whole pancakes and that single cut pancake.",
+      "severity": "review",
+      "correction": "Creator review of corrected pixels pending.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    }
+  },
+  "approval_carryover": {
+    "original_git_blob": "a3bb74b92158e1b9e6cb13343f173e67ef9848b6",
+    "selected_git_blob": "129a03f2530b2d22ab5536c5c953dd12de55ad18",
+    "method": "Compared complete decoded RGBA quadrants including boundaries.",
+    "preserved_approved_panels": {
+      "1": {
+        "box_xyxy": [
+          0,
+          0,
+          836,
+          471
+        ],
+        "rgba_sha256": "23d054e1fa2c872e64001551d1254d3125b3c547730d2047d8c63a0cea96137b",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      },
+      "4": {
+        "box_xyxy": [
+          835,
+          470,
+          1671,
+          941
+        ],
+        "rgba_sha256": "16d3876001cb23d0524aba16fcc8d1a6a2a8a32aa549613f8cd85fed74846005",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      }
+    }
+  }
+}

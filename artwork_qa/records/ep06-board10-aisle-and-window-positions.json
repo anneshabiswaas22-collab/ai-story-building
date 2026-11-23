@@ -1,0 +1,94 @@
+{
+  "episode": 6,
+  "board": 10,
+  "path": "Episode_06/assets/storyboards/BOARD_10.png",
+  "parent_commit": "3f50be7565db3669e98af86f8a1cca31df399da9",
+  "parent_sha256": "bf3c1ef01f2ea4c471014d10dcbcd121485d19c81f0229b9ce1ec7d9c834a711",
+  "selected_sha256": "86bba9395cd181d183cc3f103ae41e6929e78e8e8b648bff0aeed4cc1a1f7393",
+  "parent_size": [
+    1672,
+    941
+  ],
+  "selected_size": [
+    1672,
+    941
+  ],
+  "generated_source": "artwork_qa/sources/ep06-board10-aisle-and-window-positions.png",
+  "generated_source_sha256": "cd1ad720f13378fbac970e673825ca7af187cc5b01b401da50fbcc61e9ca7bd3",
+  "generated_source_size": [
+    1671,
+    941
+  ],
+  "method": "Selected revised upper-right and lower-right panel interiors from two referenced edits. Reapplied exact original shot badges at their original coordinates. Left-hand approved or still-open panels and gutters are the original pixels.",
+  "request": "Keep Ella farther down the aisle edge than Leo in SHOT_038. In SHOT_040, keep Dan aisle-near with Ella farther down his side, across the table from Maya at the far window. Maintain empty placeholder plates, water and napkins without meals or menus.",
+  "selected_panels": [
+    2,
+    4
+  ],
+  "preserved_panels": [
+    1,
+    3
+  ],
+  "preserved_panel_rgb_sha256": {
+    "1": "bf942d2e25ec68783f29e6ca36afe1509fdf61e43a782e00795336ee73cd2ca7",
+    "3": "4e2286b46c591ad6b4322291b6faf10b68030b29388dd8ec80b9f074da5ffc93"
+  },
+  "selected_rectangles_xyxy": [
+    [
+      843,
+      6,
+      1666,
+      466
+    ],
+    [
+      843,
+      476,
+      1666,
+      934
+    ]
+  ],
+  "qa_updates": {
+    "SHOT_038": {
+      "observed": "Ella sits farther down the aisle edge than Leo. Maya stays across the table at the far window-side seat, and Leo keeps his fork low at the napkin.",
+      "severity": "review",
+      "correction": "Review the replacement panel for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW",
+      "verification": "Compared the aisle seat order, window-side Maya and fork position to the story and seating diagram. Verified panels 1 and 3 match the parent PNG pixel for pixel."
+    },
+    "SHOT_040": {
+      "observed": "Dan gestures from the near aisle side, with Ella farther down the same edge. Maya sits opposite Ella on the far window edge. The visible plates are empty, with one glass per setting and no kitchen props.",
+      "severity": "review",
+      "correction": "Review the replacement panel for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW",
+      "verification": "Checked the vacant short ends, far-side pairing, plates, waters and cast references. Verified panels 1 and 3 match the parent PNG pixel for pixel."
+    }
+  },
+  "image_inputs": [
+    "Episode_06/assets/storyboards/BOARD_10.png",
+    "Episode_06/assets/storyboards/BOARD_03.png",
+    "Episode_06/assets/environments/RESTAURANT_TABLE.png",
+    "Episode_06/assets/RESTAURANT_seating.svg",
+    "Episode_06/assets/characters/ADULTS_lineup.jpg",
+    "Episode_06/assets/characters/CHILDREN_lineup.jpg"
+  ],
+  "additional_generated_sources": {
+    "artwork_qa/sources/ep06-board10-aisle-and-window-positions-detail-1.png": "34ab7862c7ea5d44b1313bbf9a4f18c073fa38ee46fc7c29c4575a5ad13059c1"
+  },
+  "approval_carryover": {
+    "original_git_blob": "85b810f0f35dd60bd6ce1c4946918af8fa39c079",
+    "selected_git_blob": "23fbeb83b29174a4728bf237182237a86dfb11c8",
+    "method": "Compared complete decoded RGBA quadrants including boundaries.",
+    "preserved_approved_panels": {
+      "1": {
+        "box_xyxy": [
+          0,
+          0,
+          836,
+          471
+        ],
+        "rgba_sha256": "f7d704c9a5448ce63cc025ccfb33411f6fe42c8bd51663d32eced7de2bc1da07",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      }
+    }
+  }
+}

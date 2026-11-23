@@ -1,0 +1,81 @@
+{
+  "episode": 5,
+  "board": 11,
+  "path": "Episode_05/assets/storyboards/BOARD_11.png",
+  "parent_commit": "746903ef3774bcabed8f943f8d8b467ebca803cf",
+  "parent_sha256": "c230c88431bbff4720c63ef08a286512539835256afd86a9027074b51753ea84",
+  "selected_sha256": "1ad3c7957f1bc998b1ca75d8380a6a6dc8c38ec05bbf535fd1ba101d3adba764",
+  "parent_size": [
+    1672,
+    941
+  ],
+  "selected_size": [
+    1672,
+    941
+  ],
+  "selected_panels": [
+    3
+  ],
+  "changed_bounds_xyxy": {
+    "3": [
+      5,
+      476,
+      830,
+      936
+    ]
+  },
+  "preserved_panels": [
+    1,
+    2,
+    4
+  ],
+  "generated_sources": [
+    {
+      "shot": "SHOT_043",
+      "path": "artwork_qa/sources/ep05-shot043-one-sleeve-and-authored-map.png",
+      "sha256": "5c764e4f8730656c04574597e5123c61dcaceeb93727eb9a0c338e604595106d"
+    }
+  ],
+  "method": "Composited the verified storyboard edit into the original board with badge and other quadrants retained. The map print is the authored SVG, perspective-fitted with Dan's original grip layered in front.",
+  "references": [
+    "Episode_05/STORY.md",
+    "Episode_05/CONTINUITY.md",
+    "Episode_05/assets/overlays/PARK_MAP.svg"
+  ],
+  "qa_updates": {
+    "SHOT_043": {
+      "observed": "Ella holds one empty transparent sleeve while Dan lowers the authored north-up park map toward its opening. The unscripted notebook is gone. Leo watches, with the plates, napkins and waste pouch in the basket.",
+      "severity": "review",
+      "correction": "Review the corrected storyboard pixels for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW",
+      "verification": "Compared the selected art with the screenplay, continuity references, and original pixels. Creator approval pending."
+    }
+  },
+  "approval_carryover": {
+    "original_git_blob": "20d80dbdf67f3121e911c83428c3a83e207e28fc",
+    "selected_git_blob": "7db7ef3de11f60eac1d4dfddc688b73d5491ffcf",
+    "method": "Compared complete decoded RGBA quadrants including boundaries.",
+    "preserved_approved_panels": {
+      "2": {
+        "box_xyxy": [
+          836,
+          0,
+          1672,
+          471
+        ],
+        "rgba_sha256": "240664e2666646aaa01bcfc1b43018d848bfbfb1e462800a18e1557d4d0c549a",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      },
+      "4": {
+        "box_xyxy": [
+          836,
+          470,
+          1672,
+          941
+        ],
+        "rgba_sha256": "d62a214feaf7f5128644036ff16389769f0c1f512390ef800ee98cbe95e18e92",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      }
+    }
+  }
+}

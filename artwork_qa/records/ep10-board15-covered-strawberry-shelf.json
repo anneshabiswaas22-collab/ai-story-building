@@ -1,0 +1,89 @@
+{
+  "episode": 10,
+  "board": 15,
+  "path": "Episode_10/assets/storyboards/BOARD_15.png",
+  "parent_commit": "746903ef3774bcabed8f943f8d8b467ebca803cf",
+  "parent_sha256": "c96530161bbb45e96a64530d3564e267de9c1d07e3dfdf23ebdfb7f4c85626db",
+  "selected_sha256": "76841f4ef891f192b91b7e74143bc8a21247a9515d8d558c39e153444bb9507f",
+  "parent_git_blob": "9d619a864cbae4d604a6f9f0605911d4445f8b7f",
+  "selected_git_blob": "f3457f7e02dc5b3e3511f6634ac5163b073e0fd4",
+  "parent_size": [
+    1672,
+    941
+  ],
+  "selected_size": [
+    1672,
+    941
+  ],
+  "method": "Transplanted the selected strawberry cloche from the referenced edit and positioned the plate on the established shelf. Kept the original family, box, seal and framing.",
+  "reference_paths": [
+    "Episode_10/CONTINUITY.md",
+    "Episode_10/STORY.md",
+    "Episode_10/assets/storyboards/BOARD_16.png",
+    "Episode_10/assets/environments/HOME_KITCHEN.jpg"
+  ],
+  "selected_panels": [
+    4
+  ],
+  "preserved_panels": [
+    1,
+    2,
+    3
+  ],
+  "preserved_panel_pixel_sha256": {
+    "1": "291fceaeea087c5a37ceb46974827ef83b24f47cbd3f0b59ee27224d292b39ce",
+    "2": "cd08c5b12fe9436ed0c4d8dcb6f5dd94ab8fdd01dd3e66fbcc91473f4a21443a",
+    "3": "39c5a8a68e7c92030dedc7ff173a7627fada0f6254771d0385f0a59d0dec9618"
+  },
+  "panel_edits": {
+    "record": "covered-strawberry-shelf",
+    "regions": "Covered strawberry and part of the matching upper shelf in panel 4."
+  },
+  "qa_updates": {
+    "SHOT_060": {
+      "observed": "The sole strawberry remains under its glass cover on the shelf directly above the one closed cake carton. Dan supports the sealed carton while Nina holds the refrigerator door and Maya checks it.",
+      "severity": "review",
+      "correction": "Creator to review the repaired panel before accepting the new pixels.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    }
+  },
+  "generated_source": "artwork_qa/sources/ep10-board15-covered-strawberry-shelf.png",
+  "generated_source_sha256": "4f47b5653af4b1e4ce55d0a0f23461600b85037a1874940af63ce6d453121cb1",
+  "approval_carryover": {
+    "original_git_blob": "9d619a864cbae4d604a6f9f0605911d4445f8b7f",
+    "selected_git_blob": "f3457f7e02dc5b3e3511f6634ac5163b073e0fd4",
+    "method": "Compared complete decoded RGBA quadrants including boundaries.",
+    "preserved_approved_panels": {
+      "1": {
+        "box_xyxy": [
+          0,
+          0,
+          836,
+          471
+        ],
+        "rgba_sha256": "c9805eaec98631018372b92aae5871d6c39aa24421c2c67bd158944e94edd458",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      },
+      "2": {
+        "box_xyxy": [
+          836,
+          0,
+          1672,
+          471
+        ],
+        "rgba_sha256": "246b7b04cfc92849fd376f5e5f0117c62f32b0a1bb9497c37800aff36b9e335b",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      },
+      "3": {
+        "box_xyxy": [
+          0,
+          470,
+          836,
+          941
+        ],
+        "rgba_sha256": "208826be5a08d05b679f53f8d6d9797b6edc8a9099e0e911ecf0b152c4829fba",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      }
+    }
+  }
+}

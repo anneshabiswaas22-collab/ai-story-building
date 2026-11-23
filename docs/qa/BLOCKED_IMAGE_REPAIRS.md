@@ -1,6 +1,6 @@
 # Open storyboard repairs
 
-The live shot ledgers contain **90 open visual findings across 59 sheets**. Each shot link opens the current finding and requested correction. Compare the selected PNG and original references before editing.
+The live shot ledgers contain **66 open visual findings across 45 sheets**. Each shot link opens the current finding and requested correction. Compare the selected PNG and original references before editing.
 
 A previous GitHub Contents API check returned metadata with no inline PNG bytes. The cloud Git checkout restored direct access to all 103 sheets on that list. Their local bytes matched the selected Git blobs and the recorded SHA-256 values at the November 23 baseline. [GitHub Contents API limits](https://docs.github.com/en/rest/repos/contents#get-repository-content)
 
@@ -8,15 +8,15 @@ A previous GitHub Contents API check returned metadata with no inline PNG bytes.
 |---|---:|---:|
 | 01 | 7 | 6 |
 | 02 | 9 | 7 |
-| 03 | 2 | 2 |
-| 04 | 4 | 3 |
-| 05 | 17 | 10 |
-| 06 | 12 | 5 |
-| 07 | 2 | 2 |
+| 03 | 1 | 1 |
+| 04 | 0 | 0 |
+| 05 | 14 | 10 |
+| 06 | 4 | 2 |
+| 07 | 0 | 0 |
 | 08 | 14 | 8 |
 | 09 | 15 | 9 |
-| 10 | 8 | 7 |
-| **Total** | **90** | **59** |
+| 10 | 2 | 2 |
+| **Total** | **66** | **45** |
 
 | Episode | Selected sheet | Open shots and correction records | PNG bytes | SHA-256 |
 |---|---|---|---:|---|
@@ -33,28 +33,19 @@ A previous GitHub Contents API check returned metadata with no inline PNG bytes.
 | 02 | [BOARD_16](../../Episode_02/assets/storyboards/BOARD_16.png) | [061](Episode_02.tsv#L62) | 2,388,823 | `f243a79e06be0515a2df9a982d1e2b2400ecff621e5485708e39879f03ad8223` |
 | 02 | [BOARD_18](../../Episode_02/assets/storyboards/BOARD_18.png) | [072](Episode_02.tsv#L73) | 2,645,563 | `b20ee094fe853f876ab8cb4f2183eff408d85af18e0492f47a98896cc4e985e6` |
 | 02 | [BOARD_19](../../Episode_02/assets/storyboards/BOARD_19.png) | [074](Episode_02.tsv#L75), [075](Episode_02.tsv#L76), [076](Episode_02.tsv#L77) | 2,663,571 | `dcd71d6a9683fe6b98bb9415b7ce3244dc8ef56cebcfd562378328d5cbbcdfa5` |
-| 03 | [BOARD_17](../../Episode_03/assets/storyboards/BOARD_17.png) | [067](Episode_03.tsv#L68) | 2,093,824 | `b9a9aee3832ab4117fb3a5ad21c0188acb7ed9f1fb270527f307ff0e381526b7` |
 | 03 | [BOARD_20](../../Episode_03/assets/storyboards/BOARD_20.png) | [077](Episode_03.tsv#L78) | 2,359,518 | `11b3258146388003c6b838ac7aed80e8433610a7860ff58f22cbca44a75e23bb` |
-| 04 | [BOARD_01](../../Episode_04/assets/storyboards/BOARD_01.png) | [001](Episode_04.tsv#L2) | 2,439,608 | `a594bec3ff0bada0b0bba7fff9223150e1ebaa0755bf8545456fe033e197331a` |
-| 04 | [BOARD_04](../../Episode_04/assets/storyboards/BOARD_04.png) | [013](Episode_04.tsv#L14), [014](Episode_04.tsv#L15) | 2,409,554 | `7a32482985b7ecc435ac5919f4ebc5d8b4be501eebe6b344e471833b602c16d8` |
-| 04 | [BOARD_16](../../Episode_04/assets/storyboards/BOARD_16.png) | [062](Episode_04.tsv#L63) | 2,444,981 | `a55f0cc21cdbb3eb2530906a6b39ea03db48d41ce66ff7f33774f19f1ec13c2c` |
 | 05 | [BOARD_05](../../Episode_05/assets/storyboards/BOARD_05.png) | [019](Episode_05.tsv#L20) | 2,727,254 | `0f9f5cc16e1612cf98c791c6b76ad8871cdb30fc249580fa233bd32b0c5b4f4f` |
 | 05 | [BOARD_07](../../Episode_05/assets/storyboards/BOARD_07.png) | [026](Episode_05.tsv#L27), [028](Episode_05.tsv#L29) | 2,889,758 | `fab3e552a92e6c274ecca58711587f9abf318568355c64ae8bf1b99ba0a4f856` |
 | 05 | [BOARD_09](../../Episode_05/assets/storyboards/BOARD_09.png) | [034](Episode_05.tsv#L35) | 2,674,910 | `e3b2f227cf3360c90b35f77964cecc06946b966b21e5483b75c5e525e2f95e21` |
 | 05 | [BOARD_10](../../Episode_05/assets/storyboards/BOARD_10.png) | [038](Episode_05.tsv#L39), [039](Episode_05.tsv#L40) | 2,798,130 | `8cfa5bdd3a9da683545cfd8a2759421d79eda18673f0f91b52e10c0c8c19c305` |
-| 05 | [BOARD_11](../../Episode_05/assets/storyboards/BOARD_11.png) | [041](Episode_05.tsv#L42), [043](Episode_05.tsv#L44) | 2,918,973 | `c230c88431bbff4720c63ef08a286512539835256afd86a9027074b51753ea84` |
+| 05 | [BOARD_11](../../Episode_05/assets/storyboards/BOARD_11.png) | [041](Episode_05.tsv#L42) | 2,777,729 | `1ad3c7957f1bc998b1ca75d8380a6a6dc8c38ec05bbf535fd1ba101d3adba764` |
 | 05 | [BOARD_12](../../Episode_05/assets/storyboards/BOARD_12.png) | [047](Episode_05.tsv#L48) | 3,148,426 | `1d40dcfdaf5950cdbe8b81e5a70e0d7e9caac1435855a066e70e7f2f40847273` |
-| 05 | [BOARD_13](../../Episode_05/assets/storyboards/BOARD_13.png) | [049](Episode_05.tsv#L50), [051](Episode_05.tsv#L52), [052](Episode_05.tsv#L53) | 3,045,871 | `49d67f3d1f0dfff1a9f31f22b652667bd355097dcd35cd8894d6d34d276976d7` |
+| 05 | [BOARD_13](../../Episode_05/assets/storyboards/BOARD_13.png) | [049](Episode_05.tsv#L50) | 3,049,172 | `7de932ba36a935f8321d5c2c91d112b9577357eb3e4a70654e9f3a8d75981daa` |
 | 05 | [BOARD_15](../../Episode_05/assets/storyboards/BOARD_15.png) | [057](Episode_05.tsv#L58) | 3,373,773 | `1a7d7e2581c9d47dee4e1da640a8ae14ad0fe4b39a1edfff6cf93cd6c21a4dea` |
 | 05 | [BOARD_18](../../Episode_05/assets/storyboards/BOARD_18.png) | [069](Episode_05.tsv#L70), [070](Episode_05.tsv#L71) | 5,409,927 | `4e3c6ad5780ef8ae5d6b8d6b59d08fe2d8c4a0390e9102d41176f03a581d1a7e` |
 | 05 | [BOARD_20](../../Episode_05/assets/storyboards/BOARD_20.png) | [077](Episode_05.tsv#L78), [078](Episode_05.tsv#L79) | 2,432,809 | `f2258bc7305405925bbe12ad73c83df0e1238dcee91c55c8015ff9912143bee6` |
-| 06 | [BOARD_08](../../Episode_06/assets/storyboards/BOARD_08.png) | [029](Episode_06.tsv#L30), [030](Episode_06.tsv#L31), [031](Episode_06.tsv#L32), [032](Episode_06.tsv#L33) | 2,340,109 | `79dfb08dc53a6134bc3887889ab6473f6603dc0ab9a7579dcf33ff070e8d953a` |
 | 06 | [BOARD_09](../../Episode_06/assets/storyboards/BOARD_09.png) | [033](Episode_06.tsv#L34), [034](Episode_06.tsv#L35), [035](Episode_06.tsv#L36) | 2,407,299 | `389f7fb030d91b155df689821583ac355794dbe18af5e6f3c9acfe592b2187de` |
-| 06 | [BOARD_10](../../Episode_06/assets/storyboards/BOARD_10.png) | [038](Episode_06.tsv#L39), [039](Episode_06.tsv#L40), [040](Episode_06.tsv#L41) | 2,531,853 | `bf3c1ef01f2ea4c471014d10dcbcd121485d19c81f0229b9ce1ec7d9c834a711` |
-| 06 | [BOARD_16](../../Episode_06/assets/storyboards/BOARD_16.png) | [061](Episode_06.tsv#L62) | 2,387,645 | `98757b14f062cd246fac2a8cad4d0075f0f4856901afc67606631dc31df5fc62` |
-| 06 | [BOARD_17](../../Episode_06/assets/storyboards/BOARD_17.png) | [065](Episode_06.tsv#L66) | 2,614,735 | `b7e13a357d3a474957976c64e8f05a79ffddedb19f8d109212e3a2815ad5e1e6` |
-| 07 | [BOARD_15](../../Episode_07/assets/storyboards/BOARD_15.png) | [059](Episode_07.tsv#L60) | 2,465,952 | `8e31456ace89b0d8f25416169a7718942413b63a1133e82a19d247f4f920d654` |
-| 07 | [BOARD_16](../../Episode_07/assets/storyboards/BOARD_16.png) | [061](Episode_07.tsv#L62) | 2,479,558 | `fca5d3597184348aa861f346792aa9e6a89b4cee99c77c81b36c39d24981f343` |
+| 06 | [BOARD_10](../../Episode_06/assets/storyboards/BOARD_10.png) | [039](Episode_06.tsv#L40) | 2,358,213 | `86bba9395cd181d183cc3f103ae41e6929e78e8e8b648bff0aeed4cc1a1f7393` |
 | 08 | [BOARD_01](../../Episode_08/assets/storyboards/BOARD_01.png) | [002](Episode_08.tsv#L3), [003](Episode_08.tsv#L4) | 2,286,649 | `d26c2a0615e6bd1c9e53030c51b846598185df4d0ec533550f977b7b2dc9753f` |
 | 08 | [BOARD_03](../../Episode_08/assets/storyboards/BOARD_03.png) | [009](Episode_08.tsv#L10), [011](Episode_08.tsv#L12) | 2,168,026 | `6ff67112102d05c9c99ecec853c67664531741a4c29142c7da9d3020655e9cff` |
 | 08 | [BOARD_05](../../Episode_08/assets/storyboards/BOARD_05.png) | [017](Episode_08.tsv#L18), [018](Episode_08.tsv#L19) | 2,254,070 | `9784461bf0deb2460310cdf99205df3a7390f579ff98954f45e53800512fa200` |
@@ -73,9 +64,4 @@ A previous GitHub Contents API check returned metadata with no inline PNG bytes.
 | 09 | [BOARD_16](../../Episode_09/assets/storyboards/BOARD_16.png) | [062](Episode_09.tsv#L63) | 2,570,597 | `ca9cdfaff50c86e3b3a7014cdea6934bac657d4cc9ceac31d113641896acc932` |
 | 09 | [BOARD_18](../../Episode_09/assets/storyboards/BOARD_18.png) | [071](Episode_09.tsv#L72), [072](Episode_09.tsv#L73) | 2,558,991 | `1cca1ba9ab78be39656932641318220629322d931a12823b5af518f1cb4423aa` |
 | 10 | [BOARD_01](../../Episode_10/assets/storyboards/BOARD_01.png) | [002](Episode_10.tsv#L3) | 2,383,314 | `d00cbad6dd534b3baf62ca550e83f0a683d5e30d997e73273811c23391e42597` |
-| 10 | [BOARD_06](../../Episode_10/assets/storyboards/BOARD_06.png) | [021](Episode_10.tsv#L22), [024](Episode_10.tsv#L25) | 2,421,001 | `cabb74a74c28873e7e1889cc6f6ad7456dd1628bc3cbd75e371665d06e8e7dc8` |
-| 10 | [BOARD_08](../../Episode_10/assets/storyboards/BOARD_08.png) | [030](Episode_10.tsv#L31) | 2,270,691 | `e3ec31a5147456d5d77d07ed150ca71b5589593c07d94c7a4732ceeaf7dccf1e` |
-| 10 | [BOARD_10](../../Episode_10/assets/storyboards/BOARD_10.png) | [037](Episode_10.tsv#L38) | 2,548,123 | `d14bb20da46e89cd3f4e2d04a402b32f5e542daae303744fd06d1cf768ded5b6` |
-| 10 | [BOARD_15](../../Episode_10/assets/storyboards/BOARD_15.png) | [060](Episode_10.tsv#L61) | 2,304,061 | `c96530161bbb45e96a64530d3564e267de9c1d07e3dfdf23ebdfb7f4c85626db` |
 | 10 | [BOARD_16](../../Episode_10/assets/storyboards/BOARD_16.png) | [062](Episode_10.tsv#L63) | 2,261,442 | `9d120fe9f23e2abf1ffa11ae8b1dff30f72b6a30b31fe7b27374faec8c596009` |
-| 10 | [BOARD_17](../../Episode_10/assets/storyboards/BOARD_17.png) | [065](Episode_10.tsv#L66) | 2,302,573 | `95c11013a4056ab57618fb40ab54f964a7cd62f543b91d897b0372268a823940` |

@@ -1,0 +1,88 @@
+{
+  "episode": 10,
+  "board": 8,
+  "path": "Episode_10/assets/storyboards/BOARD_08.png",
+  "parent_commit": "4a05ee2e5996eaa2855c66c315a6d3ccfdd97c06",
+  "parent_sha256": "e3ec31a5147456d5d77d07ed150ca71b5589593c07d94c7a4732ceeaf7dccf1e",
+  "selected_sha256": "ae762bd1167d3e115e35f0dc8a6f50ccb0178c5a07b16d032b6b2e446c56deb9",
+  "parent_git_blob": "1905b1c9d81019d2e15972740d82308c617bed14",
+  "selected_git_blob": "b7233654ba8ff1473dbfe4f60d8f485c9a3e8225",
+  "parent_size": [
+    1672,
+    941
+  ],
+  "selected_size": [
+    1672,
+    941
+  ],
+  "method": "Selected the matching panel with explicit off-screen handset support. The original rounded shot badge, panel border and other quadrants were retained.",
+  "reference_paths": [
+    "Episode_10/STORY.md",
+    "Episode_10/CONTINUITY.md",
+    "Episode_10/assets/storyboards/BOARD_09.png"
+  ],
+  "selected_panels": [
+    2
+  ],
+  "preserved_panels": [
+    1,
+    3,
+    4
+  ],
+  "preserved_panel_pixel_sha256": {
+    "1": "e42fcc8f4e0082d86d23b6217fc971afee34254b1bd8b87fe1e524ff5b8398ce",
+    "3": "b0d1a8f077301fb84544e680ac97678e051bd2de04c4d5718cace68fd2f9ea71",
+    "4": "e4c3f9ac7fb8e2ab0dbb15ce22988b51f82aa96d0edac7fa3e499e5fb90dff2a"
+  },
+  "panel_edits": {
+    "record": "nina-supports-phone-030",
+    "regions": "Panel 2 interior and no other scene pixels."
+  },
+  "qa_updates": {
+    "SHOT_030": {
+      "observed": "Nina’s teal-sleeved hand supports the one phone from outside the frame. Dan touches the screen to inspect the box label without holding the device, Maya cautions him and Leo watches. The digits stay unreadable.",
+      "severity": "review",
+      "correction": "Creator to review the repaired panel before accepting the new pixels.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    }
+  },
+  "generated_source": "artwork_qa/sources/ep10-board08-nina-supports-phone-030.png",
+  "generated_source_sha256": "7caea1901dd41dddccad9681a02971df17e30db4f79a7504263c5c1fdd8f46b4",
+  "approval_carryover": {
+    "original_git_blob": "1905b1c9d81019d2e15972740d82308c617bed14",
+    "selected_git_blob": "b7233654ba8ff1473dbfe4f60d8f485c9a3e8225",
+    "method": "Compared complete decoded RGBA quadrants including boundaries.",
+    "preserved_approved_panels": {
+      "1": {
+        "box_xyxy": [
+          0,
+          0,
+          836,
+          471
+        ],
+        "rgba_sha256": "fed02eefc8caaabbf22aa0daee22b42d512b02ad59434d6952e00c302b6375bd",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      },
+      "3": {
+        "box_xyxy": [
+          0,
+          470,
+          836,
+          941
+        ],
+        "rgba_sha256": "5fe9b06cd14bd395b8b77a45a743face5d4744f269381f33822fc80c6978190c",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      },
+      "4": {
+        "box_xyxy": [
+          836,
+          470,
+          1672,
+          941
+        ],
+        "rgba_sha256": "17fe867df33a91ecb7905638e125dacb68158738c59e1107e2753d22be1e99f1",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      }
+    }
+  }
+}

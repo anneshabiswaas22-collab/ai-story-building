@@ -162,3 +162,30 @@ Current ledger totals are 90 open visual findings across 59 storyboard sheets, 6
 | 09 / [BOARD_17](../Episode_09/assets/storyboards/BOARD_17.png) | 066, 067, 068 | [Recovery record](../artwork_qa/records/ep09-board17-rear-sink-and-original-garden-props.json) |
 
 <!-- /live-repair-checkpoint -->
+
+<!-- live-repair-checkpoint 9f2c6f211835d7a3 -->
+## Repair checkpoint — 2026-11-23
+
+Current ledger totals are 66 open visual findings across 45 storyboard sheets, 621 creator-approved shots and 113 shots awaiting creator review. The [live repair queue](qa/BLOCKED_IMAGE_REPAIRS.md) links to the remaining findings.
+
+| Episode / sheet | Shots repaired | Verification |
+|---|---|---|
+| 03 / [BOARD_17](../Episode_03/assets/storyboards/BOARD_17.png) | 067 | [Recovery record](../artwork_qa/records/ep03-board17-point-at-cut-pancake.json) |
+| 04 / [BOARD_01](../Episode_04/assets/storyboards/BOARD_01.png) | 001 | [Recovery record](../artwork_qa/records/ep04-board01-continuity-fix.json) |
+| 04 / [BOARD_04](../Episode_04/assets/storyboards/BOARD_04.png) | 013, 014 | [Recovery record](../artwork_qa/records/ep04-board04-continuity-fix.json) |
+| 04 / [BOARD_16](../Episode_04/assets/storyboards/BOARD_16.png) | 062 | [Recovery record](../artwork_qa/records/ep04-board16-continuity-fix.json) |
+| 05 / [BOARD_11](../Episode_05/assets/storyboards/BOARD_11.png) | 043 | [Recovery record](../artwork_qa/records/ep05-board11-one-sleeve-and-authored-map.json) |
+| 05 / [BOARD_13](../Episode_05/assets/storyboards/BOARD_13.png) | 051, 052 | [Recovery record](../artwork_qa/records/ep05-board13-six-sealed-waters-in-cooler.json) |
+| 06 / [BOARD_08](../Episode_06/assets/storyboards/BOARD_08.png) | 029, 030, 031, 032 | [Recovery record](../artwork_qa/records/ep06-board08-six-place-budget-review.json) |
+| 06 / [BOARD_10](../Episode_06/assets/storyboards/BOARD_10.png) | 038, 040 | [Recovery record](../artwork_qa/records/ep06-board10-aisle-and-window-positions.json) |
+| 06 / [BOARD_16](../Episode_06/assets/storyboards/BOARD_16.png) | 061 | [Recovery record](../artwork_qa/records/ep06-board16-box-and-correct-window-seats.json) |
+| 06 / [BOARD_17](../Episode_06/assets/storyboards/BOARD_17.png) | 065 | [Recovery record](../artwork_qa/records/ep06-board17-far-window-seat-during-clearing.json) |
+| 07 / [BOARD_15](../Episode_07/assets/storyboards/BOARD_15.png) | 059 | [Recovery record](../artwork_qa/records/ep07-board15-leo-across-clear-aisle.json) |
+| 07 / [BOARD_16](../Episode_07/assets/storyboards/BOARD_16.png) | 061 | [Recovery record](../artwork_qa/records/ep07-board16-separate-front-pairs.json) |
+| 10 / [BOARD_06](../Episode_10/assets/storyboards/BOARD_06.png) | 021, 024 | [Recovery record](../artwork_qa/records/ep10-board06-delivery-reference-and-porch-handoff.json) |
+| 10 / [BOARD_08](../Episode_10/assets/storyboards/BOARD_08.png) | 030 | [Recovery record](../artwork_qa/records/ep10-board08-nina-supports-phone-030.json) |
+| 10 / [BOARD_10](../Episode_10/assets/storyboards/BOARD_10.png) | 037 | [Recovery record](../artwork_qa/records/ep10-board10-supervised-front-path-037.json) |
+| 10 / [BOARD_15](../Episode_10/assets/storyboards/BOARD_15.png) | 060 | [Recovery record](../artwork_qa/records/ep10-board15-covered-strawberry-shelf.json) |
+| 10 / [BOARD_17](../Episode_10/assets/storyboards/BOARD_17.png) | 065 | [Recovery record](../artwork_qa/records/ep10-board17-one-folding-cake-carton.json) |
+
+<!-- /live-repair-checkpoint -->

@@ -1,0 +1,136 @@
+{
+  "episode": 6,
+  "board": 8,
+  "path": "Episode_06/assets/storyboards/BOARD_08.png",
+  "parent_commit": "4a05ee2e5996eaa2855c66c315a6d3ccfdd97c06",
+  "parent_sha256": "79dfb08dc53a6134bc3887889ab6473f6603dc0ab9a7579dcf33ff070e8d953a",
+  "selected_sha256": "8e080066bf7cf838f325959812dd9db7dedf54cde153f64ecf5c42ccdc651f89",
+  "parent_size": [
+    1672,
+    941
+  ],
+  "selected_size": [
+    1672,
+    941
+  ],
+  "generated_sources": [
+    {
+      "shot": "SHOT_029",
+      "path": "artwork_qa/sources/ep06-board08-shot029-seating.png",
+      "sha256": "46abd08902d5258e894a92b32fad6ce8646df2a356ed53914418e6c4ba370c63",
+      "size": [
+        1672,
+        941
+      ]
+    },
+    {
+      "shot": "SHOT_030",
+      "path": "artwork_qa/sources/ep06-board08-shot030-seating.png",
+      "sha256": "d008496c676497fda9b099c8534f510240af32cb68756f0f75eba7efc9f9ec25",
+      "size": [
+        1672,
+        941
+      ]
+    },
+    {
+      "shot": "SHOT_031",
+      "path": "artwork_qa/sources/ep06-board08-shot031-seating.png",
+      "sha256": "0107bf45cc841a9f95037a40d60edb659d57edf621464f4df108a74a83f7356d",
+      "size": [
+        1679,
+        937
+      ]
+    },
+    {
+      "shot": "SHOT_032",
+      "path": "artwork_qa/sources/ep06-board08-shot032-seating.png",
+      "sha256": "15fd364b7a6c4ecc19c5bb4370c86fd89900eff7baa0404b843bbc2cd7a53c87",
+      "size": [
+        1672,
+        941
+      ]
+    }
+  ],
+  "method": "Generated and individually reviewed each selected shot using the established seats and actual cast references. Composited the selected panel interiors, retaining original badges, gutters and unselected panels.",
+  "references": [
+    "Episode_06/STORY.md",
+    "Episode_06/assets/RESTAURANT_seating.svg",
+    "Episode_06/assets/storyboards/BOARD_03.png",
+    "Episode_06/assets/characters/ADULTS_lineup.jpg",
+    "Episode_06/assets/characters/CHILDREN_lineup.jpg"
+  ],
+  "editorial_references": [
+    "Episode_06/assets/overlays/ORDER_CARD.svg",
+    "Episode_06/assets/overlays/MENU.svg"
+  ],
+  "selected_panels": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "selected_rectangles_xyxy": [
+    [
+      6,
+      6,
+      831,
+      467
+    ],
+    [
+      841,
+      6,
+      1666,
+      467
+    ],
+    [
+      6,
+      477,
+      831,
+      934
+    ],
+    [
+      841,
+      477,
+      1666,
+      934
+    ]
+  ],
+  "preserved_panels": [],
+  "preserved_panel_rgb_sha256": {},
+  "qa_updates": {
+    "SHOT_029": {
+      "observed": "Six settings and six waters appear at the rectangular table. Dan sits on the aisle and Maya reads the draft card beside Nina on the window edge with Maya farther away. The editorial excerpt lists the exact six mains.",
+      "severity": "review",
+      "status": "NEEDS_HUMAN_REVIEW",
+      "correction": "Review the replacement pixels against the creator’s fixed seating and character references.",
+      "verification": "Checked cast, menu or prop action, and long-side places against the screenplay, SHOT_012, original cast and seating plan. Original badge retained. Fresh creator review pending."
+    },
+    "SHOT_030": {
+      "observed": "Dan sits nearer the camera than Leo on the aisle edge. Maya sits on the window edge and checks Leo’s count. Six waters and plates stay on the table; the draft shows the six prices and $58 subtotal.",
+      "severity": "review",
+      "status": "NEEDS_HUMAN_REVIEW",
+      "correction": "Review the replacement pixels against the creator’s fixed seating and character references.",
+      "verification": "Checked cast, menu or prop action, and long-side places against the screenplay, SHOT_012, original cast and seating plan. Original badge retained. Fresh creator review pending."
+    },
+    "SHOT_031": {
+      "observed": "Six place settings and waters remain on the table. Leo counts directly opposite Nina in the middle seats; Dan listens from the near aisle. The menu’s authored 10% sales-tax line appears as an editorial insert.",
+      "severity": "review",
+      "status": "NEEDS_HUMAN_REVIEW",
+      "correction": "Review the replacement pixels against the creator’s fixed seating and character references.",
+      "verification": "Checked cast, menu or prop action, and long-side places against the screenplay, SHOT_012, original cast and seating plan. Original badge retained. Fresh creator review pending."
+    },
+    "SHOT_032": {
+      "observed": "Dan discusses the tip from the near aisle side. Maya and Nina remain beside one another on the opposite window edge with Maya farther away. Six settings and waters are present, with no cash visible.",
+      "severity": "review",
+      "status": "NEEDS_HUMAN_REVIEW",
+      "correction": "Review the replacement pixels against the creator’s fixed seating and character references.",
+      "verification": "Checked cast, menu or prop action, and long-side places against the screenplay, SHOT_012, original cast and seating plan. Original badge retained. Fresh creator review pending."
+    }
+  },
+  "approval_carryover": {
+    "original_git_blob": "85c0275bb2625436475cf29f36e7e5344b14ffcf",
+    "selected_git_blob": "6c814b15ab613f8248f57b8354af8915f7c3c51a",
+    "method": "Compared complete decoded RGBA quadrants including boundaries.",
+    "preserved_approved_panels": {}
+  }
+}

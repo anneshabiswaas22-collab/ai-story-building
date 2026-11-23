@@ -1,0 +1,91 @@
+{
+  "episode": 7,
+  "board": 16,
+  "path": "Episode_07/assets/storyboards/BOARD_16.png",
+  "parent_commit": "746903ef3774bcabed8f943f8d8b467ebca803cf",
+  "parent_sha256": "fca5d3597184348aa861f346792aa9e6a89b4cee99c77c81b36c39d24981f343",
+  "selected_sha256": "b1a4c66a36f45cc0e1f3e50bdb2a6b4a23deeaa13803687512702f00e9e3ca3e",
+  "parent_size": [
+    1672,
+    941
+  ],
+  "selected_size": [
+    1672,
+    941
+  ],
+  "selected_panels": [
+    1
+  ],
+  "changed_bounds_xyxy": {
+    "1": [
+      5,
+      5,
+      830,
+      465
+    ]
+  },
+  "preserved_panels": [
+    2,
+    3,
+    4
+  ],
+  "generated_sources": [
+    {
+      "shot": "SHOT_061",
+      "path": "artwork_qa/sources/ep07-shot061-separate-front-pairs.png",
+      "sha256": "f882e978e4ed0ee4498b473b934d9b7424536878ed398f9e55c78d21419ccfcc"
+    }
+  ],
+  "method": "Composited the verified storyboard edit into the original board with badge and other quadrants retained. Only the corrected compositions or cooler interiors were selected.",
+  "references": [
+    "Episode_07/STORY.md",
+    "Episode_07/CONTINUITY.md",
+    "Episode_07/assets/BUS_seating.svg"
+  ],
+  "qa_updates": {
+    "SHOT_061": {
+      "observed": "Ella stays seated with hands on her lap on the opposite side of the clear bus aisle. Dan and Max are seated together, and Max's green shoes remain outside the aisle as Dan reminds him to wait for the complete stop.",
+      "severity": "review",
+      "correction": "Review the corrected storyboard pixels for creator approval.",
+      "status": "NEEDS_HUMAN_REVIEW",
+      "verification": "Compared the selected art with the screenplay, continuity references, and original pixels. Creator approval pending."
+    }
+  },
+  "approval_carryover": {
+    "original_git_blob": "0db0ca0b48703257124e0253fdbf72857af011dc",
+    "selected_git_blob": "6032fba5ad022b01c0e6b9bc5e1b4ac32b1b3813",
+    "method": "Compared complete decoded RGBA quadrants including boundaries.",
+    "preserved_approved_panels": {
+      "2": {
+        "box_xyxy": [
+          836,
+          0,
+          1672,
+          471
+        ],
+        "rgba_sha256": "9b0be4f463f20ca25b63901eaff36b7c863eda2dff2b3639bd8b34bee3e7051d",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      },
+      "3": {
+        "box_xyxy": [
+          0,
+          470,
+          836,
+          941
+        ],
+        "rgba_sha256": "6d1e779ff4752167af8d3c00136827e2a501549ce8f44c7ba4b9669aa8e9252f",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      },
+      "4": {
+        "box_xyxy": [
+          836,
+          470,
+          1672,
+          941
+        ],
+        "rgba_sha256": "38525a933f86a0dda8ecda68fbef446f0c5b763b5fe9cf71a5755d2de4a7b6df",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      }
+    }
+  }
+}

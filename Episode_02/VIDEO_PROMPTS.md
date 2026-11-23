@@ -1211,7 +1211,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **Characters:** NINA, MAYA, ELLA. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Medium sink view, then short explicit preparation-time dissolve.
-**Action:** Nina rinses the grapes and strawberries in a colander under running water; Maya rinses the apples, pears, peaches, oranges, lemon and lime in turn. An explicit time dissolve completes this longer task. Ella lays out clean preparation utensils from the kitchen drawer away from the sink; banana skins are wiped clean before adult peeling.
+**Action:** Nina rinses the grapes and strawberries in a colander under running water; Maya rinses the apples, pears, peaches, oranges, bananas, lemon and lime under running water in turn. An explicit time dissolve completes this longer task. Ella lays out clean preparation utensils from the kitchen drawer away from the sink.
 **Starting continuity:** All hands clean; nine fruit lines whole/unprepared; clean colanders and trays ready.
 **Ending continuity:** All purchased fruit clean on draining trays; water off; no cutting started; clean salad bowl on island.
 **Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.

@@ -1,0 +1,84 @@
+{
+  "episode": 10,
+  "board": 6,
+  "path": "Episode_10/assets/storyboards/BOARD_06.png",
+  "parent_commit": "4a05ee2e5996eaa2855c66c315a6d3ccfdd97c06",
+  "parent_sha256": "cabb74a74c28873e7e1889cc6f6ad7456dd1628bc3cbd75e371665d06e8e7dc8",
+  "selected_sha256": "940c6c6f5b6c37b60c0d97424ae239dd6448e9d165e47c7fe006ad46d54d132b",
+  "parent_git_blob": "bb3b8650b3bc45db36a5094707679d4d6dcb496e",
+  "selected_git_blob": "8cd91f66d0b06ce12693f4f7990917c7133e642a",
+  "parent_size": [
+    1672,
+    941
+  ],
+  "selected_size": [
+    1672,
+    941
+  ],
+  "method": "Perspective-composited exact confirmation and distinct delivery notice text on the existing two props. The panel 4 edit retains the established kitchen and shows the separately framed matching blue porch alongside an on-screen transfer of the phone.",
+  "reference_paths": [
+    "Episode_10/STORY.md",
+    "Episode_10/CONTINUITY.md",
+    "Episode_10/assets/overlays/DELIVERY_RECORD.svg",
+    "Episode_10/assets/storyboards/BOARD_05.png"
+  ],
+  "selected_panels": [
+    1,
+    4
+  ],
+  "preserved_panels": [
+    2,
+    3
+  ],
+  "preserved_panel_pixel_sha256": {
+    "2": "201b2fd9e97c6037105365224f4f6f0a53ce6de89c317989b131ccc2a895a867",
+    "3": "509bf751a6f5b8dd89b26e991eafe2863fc1fa5b853f6107a85cc647be6d6bc6"
+  },
+  "panel_edits": {
+    "record": "delivery-reference-and-porch-handoff",
+    "regions": "Paper and phone screen inside panel 1; panel 4 interior and exact shot badge on original trim."
+  },
+  "qa_updates": {
+    "SHOT_021": {
+      "observed": "The printed bakery confirmation shows MHE-10-C and prepaid delivery to 14 Maple Lane around 14:00. Nina’s phone shows the matching order MHE-10-C marked delivered at 14:06. Ella points toward the phone while Leo holds the distinct printed evidence.",
+      "severity": "review",
+      "correction": "Creator to review the repaired panel before accepting the new pixels.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_024": {
+      "observed": "A framed insert shows the blue family door, house number 14 and blue bow apart from the kitchen. Nina’s teal-sleeved hand presents the same phone to Maya, who steadies the top edge. The screen shows the sealed cake carton at an undecorated green door while Leo and Max point out the differences.",
+      "severity": "review",
+      "correction": "Creator to review the repaired panel before accepting the new pixels.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    }
+  },
+  "generated_source": "artwork_qa/sources/ep10-board06-delivery-reference-and-porch-handoff.png",
+  "generated_source_sha256": "dc98ed4861661c7e8778d2bcfab2f68dc2c79350aba142176015a8e087f6d22f",
+  "approval_carryover": {
+    "original_git_blob": "bb3b8650b3bc45db36a5094707679d4d6dcb496e",
+    "selected_git_blob": "8cd91f66d0b06ce12693f4f7990917c7133e642a",
+    "method": "Compared complete decoded RGBA quadrants including boundaries.",
+    "preserved_approved_panels": {
+      "2": {
+        "box_xyxy": [
+          836,
+          0,
+          1672,
+          471
+        ],
+        "rgba_sha256": "3a00b97cf7164df4949524238ec9a058e49a1d8f1daf783c9eff211ee67f7c98",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      },
+      "3": {
+        "box_xyxy": [
+          0,
+          470,
+          836,
+          941
+        ],
+        "rgba_sha256": "bdf37be326d5c78deef48477127f0dab496cfc0ffb70622432561a88aec51a7a",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      }
+    }
+  }
+}

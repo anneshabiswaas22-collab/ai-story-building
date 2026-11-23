@@ -1,0 +1,99 @@
+{
+  "episode": 4,
+  "board": 4,
+  "path": "Episode_04/assets/storyboards/BOARD_04.png",
+  "parent_commit": "4a05ee2e5996eaa2855c66c315a6d3ccfdd97c06",
+  "parent_sha256": "7a32482985b7ecc435ac5919f4ebc5d8b4be501eebe6b344e471833b602c16d8",
+  "selected_sha256": "21cd17d64bde736e89ce8615208b5e178fe88b0d7cc84c8802a01e818a0103aa",
+  "parent_size": [
+    1671,
+    941
+  ],
+  "selected_size": [
+    1671,
+    941
+  ],
+  "selected_panels": [
+    1,
+    2
+  ],
+  "preserved_panels": [
+    3,
+    4
+  ],
+  "pixel_identity_verified": [
+    3,
+    4
+  ],
+  "edits": {
+    "1": {
+      "method": "Registered the exact route geometry and symbols from the approved prior paper map on the matching colored blocks, preserving cast, paper folds, foreground fingers and framing.",
+      "references": {
+        "Episode_04/assets/storyboards/BOARD_03.png": "117d9ebba682565540dea249bb1e3f2d3c24ab67d4db858a075be664cff97db5",
+        "Episode_04/assets/overlays/MALL_MAP.svg": "c86251bf6ae87024eb0f0000a65a971b83caadc2ca9a8c86a5fb2c1971725995"
+      },
+      "changed_panel_bounds_xyxy": [
+        353,
+        213,
+        500,
+        337
+      ]
+    },
+    "2": {
+      "method": "Selected the verified ImageGen grip and wardrobe-continuity edit and retained the original shot badge and untouched adjacent panels.",
+      "references": {
+        "exec-86cbd58f-ab87-49fb-8038-43b01e01a3fe.png": "b0eb45c872ee828ae2a57bcc6f009a2119ebf5d3a4059db79ee754344737242f",
+        "Episode_04/assets/overlays/MALL_MAP.svg": "c86251bf6ae87024eb0f0000a65a971b83caadc2ca9a8c86a5fb2c1971725995",
+        "Episode_04/assets/characters/DAN_sheet.jpg": "fe9b59f33c6c2e7197505b982fb620eda292a57c615e95318cdc353dcb2948d0",
+        "artwork_qa/sources/ep04-shot014-left-hand-folded-map.png": "b0eb45c872ee828ae2a57bcc6f009a2119ebf5d3a4059db79ee754344737242f"
+      },
+      "changed_panel_bounds_xyxy": [
+        6,
+        6,
+        830,
+        467
+      ]
+    }
+  },
+  "qa_updates": {
+    "SHOT_013": {
+      "observed": "Dan’s checked mall map carries the same red entrance-to-store route and north mark as the immediately preceding 012 handoff. Nina’s finger remains in front of the map and Ella looks toward the window.",
+      "severity": "review",
+      "correction": "Creator review of corrected pixels pending.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    },
+    "SHOT_014": {
+      "observed": "Dan carries the single folded map with his left watch-side hand as the family approaches the store on the right. His anatomical right hand is empty.",
+      "severity": "review",
+      "correction": "Creator review of corrected pixels pending.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    }
+  },
+  "approval_carryover": {
+    "original_git_blob": "126ce9cb85b9aea228ec6bc3c182b666f431d3db",
+    "selected_git_blob": "225abffec0fc1b450a97f04843332d29fdc0b86d",
+    "method": "Compared complete decoded RGBA quadrants including boundaries.",
+    "preserved_approved_panels": {
+      "3": {
+        "box_xyxy": [
+          0,
+          470,
+          836,
+          941
+        ],
+        "rgba_sha256": "ce232e8b3bea8c7c749156b64d55ba27c82dde2302c1483232eeadace4ef39bf",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      },
+      "4": {
+        "box_xyxy": [
+          835,
+          470,
+          1671,
+          941
+        ],
+        "rgba_sha256": "82dc12eb729192cb48e4f463edfc350c8d68948a7e7ea068bd221146b96a5a1d",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      }
+    }
+  }
+}

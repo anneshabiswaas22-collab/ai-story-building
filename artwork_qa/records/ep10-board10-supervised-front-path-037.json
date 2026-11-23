@@ -1,0 +1,89 @@
+{
+  "episode": 10,
+  "board": 10,
+  "path": "Episode_10/assets/storyboards/BOARD_10.png",
+  "parent_commit": "4a05ee2e5996eaa2855c66c315a6d3ccfdd97c06",
+  "parent_sha256": "d14bb20da46e89cd3f4e2d04a402b32f5e542daae303744fd06d1cf768ded5b6",
+  "selected_sha256": "aa6b8f1f56e137d48b32aed176fe26ccbfaa38887af74c25e23485b17b38008a",
+  "parent_git_blob": "6b988364bf5ba269bde2d83a18d1c723607672a9",
+  "selected_git_blob": "094b824857cfd810e7297f1bb1b25ede44c52b4d",
+  "parent_size": [
+    1672,
+    941
+  ],
+  "selected_size": [
+    1672,
+    941
+  ],
+  "method": "Selected the corrected panel showing only the scripted three-person subset, at the public sidewalk before the front walk. The full original shot badge and sheet borders were retained.",
+  "reference_paths": [
+    "Episode_10/STORY.md",
+    "Episode_10/CONTINUITY.md",
+    "Episode_10/assets/environments/NEIGHBOR_PORCH.png",
+    "Episode_10/assets/environments/LANE_WALKWAY.png"
+  ],
+  "selected_panels": [
+    1
+  ],
+  "preserved_panels": [
+    2,
+    3,
+    4
+  ],
+  "preserved_panel_pixel_sha256": {
+    "2": "53ec9d78b3f75d817757f3e474b514decc6af13b5c404c4f278f0610df01c2d5",
+    "3": "1a28b98857c73b3665edcab1815f54845fda17e257a21a780f917d2c52ae6a73",
+    "4": "66dffa6fee2406ad280a2fee38b0d9c6c9abc36baa8ac9d0969d20b2a28af861"
+  },
+  "panel_edits": {
+    "record": "supervised-front-path-037",
+    "regions": "Panel 1 interior and no other scene pixels."
+  },
+  "qa_updates": {
+    "SHOT_037": {
+      "observed": "Only Dan, Ella and Max appear on the public sidewalk beside the front path. Ella points toward the entry, Max keeps his hands away from the hedge, and Dan remains between the children. The green door, leaf knocker and neighbor’s electric bell remain visible.",
+      "severity": "review",
+      "correction": "Creator to review the repaired panel before accepting the new pixels.",
+      "status": "NEEDS_HUMAN_REVIEW"
+    }
+  },
+  "generated_source": "artwork_qa/sources/ep10-board10-supervised-front-path-037.png",
+  "generated_source_sha256": "59fec9c8137d7d66a437bd6e066c29847328dff433e84d06c176a921bcdb580c",
+  "approval_carryover": {
+    "original_git_blob": "6b988364bf5ba269bde2d83a18d1c723607672a9",
+    "selected_git_blob": "094b824857cfd810e7297f1bb1b25ede44c52b4d",
+    "method": "Compared complete decoded RGBA quadrants including boundaries.",
+    "preserved_approved_panels": {
+      "2": {
+        "box_xyxy": [
+          836,
+          0,
+          1672,
+          471
+        ],
+        "rgba_sha256": "aee34ca5326c9e130b17f9c89548071bd9e6766f3ad45a6ddf4293be431fa7e0",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      },
+      "3": {
+        "box_xyxy": [
+          0,
+          470,
+          836,
+          941
+        ],
+        "rgba_sha256": "e89e78e9cbe5d4c9672b50e355a5fadda7c4191faa5cbfa9ee854d6689eddb35",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      },
+      "4": {
+        "box_xyxy": [
+          836,
+          470,
+          1672,
+          941
+        ],
+        "rgba_sha256": "4a3a3cf449a60ea5636fbacfc23bb9932a90124dca39997613579bc601e520ec",
+        "reviewed_revision": "80644c168bdc14105e38708a4fd9c1068bacc387"
+      }
+    }
+  }
+}
