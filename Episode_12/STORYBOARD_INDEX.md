@@ -1,6 +1,6 @@
 # Episode 12 storyboard — Dad’s Shoe Is Going to School!
 
-6 of 20 sheets illustrated. Read each sheet across the top row, then across the bottom row. Each panel covers one 15-second shot.
+7 of 20 sheets illustrated. Read each sheet across the top row, then across the bottom row. Each panel covers one 15-second shot.
 
 [Screenplay](STORY.md) · [Image references and checksums](assets/storyboards/GENERATION_NOTES.md)
 
@@ -12,7 +12,7 @@
 | [04](#board-04) | 03:00–04:00 | 013–016 | Which side of the glass? |
 | [05](#board-05) | 04:00–05:00 | 017–020 | A gap with a name |
 | [06](#board-06) | 05:00–06:00 | 021–024 | Meet Cousin Cushion |
-| 07 · pending | 06:00–07:00 | 025–028 | A clock the size of a pea |
+| [07](#board-07) | 06:00–07:00 | 025–028 | A clock the size of a pea |
 | 08 · pending | 07:00–08:00 | 029–032 | Picture two |
 | 09 · pending | 08:00–09:00 | 033–036 | A different kind of help |
 | 10 · pending | 09:00–10:00 | 037–040 | A smile Max can keep |
@@ -104,3 +104,16 @@
 | Top right | [SHOT_022 · What a camera shows](STORY.md#shot-022) | 05:15–05:30 |
 | Bottom left | [SHOT_023 · What the cushion can do](STORY.md#shot-023) | 05:30–05:45 |
 | Bottom right | [SHOT_024 · Directions from his own spot](STORY.md#shot-024) | 05:45–06:00 |
+
+<a name="board-07"></a>
+
+## Board 07 — A clock the size of a pea
+
+[![Episode 12, shots 025 through 028](assets/storyboards/BOARD_07.png)](assets/storyboards/BOARD_07.png)
+
+| Panel | Screenplay shot | Episode time |
+|---|---|---|
+| Top left | [SHOT_025 · A clock the size of a pea](STORY.md#shot-025) | 06:00–06:15 |
+| Top right | [SHOT_026 · Two steps and a bit](STORY.md#shot-026) | 06:15–06:30 |
+| Bottom left | [SHOT_027 · Leave a lane](STORY.md#shot-027) | 06:30–06:45 |
+| Bottom right | [SHOT_028 · Who listens for the click?](STORY.md#shot-028) | 06:45–07:00 |

@@ -35,3 +35,4 @@ Each PNG was decoded and checked for dimensions, chunk integrity and four distin
 | [04](BOARD_04.png) | 013–016 | 1671 × 941 | HOME_GARDEN, BOARD_03 | `b887b5c2e29d9c9c259552dc959946f1cb79c5c89a6e37c02f1e0a4d1bba13e5` |
 | [05](BOARD_05.png) | 017–020 | 1672 × 941 | HOME_GARDEN, BOARD_03 | `0c275b9a1ec13261cee6e30fdf0ecac20694ef008f374fcab6b69ec2e3c1e0f7` |
 | [06](BOARD_06.png) | 021–024 | 1672 × 941 | HOME_GARDEN, BOARD_05 | `c756ec20458e92b08d8b485798d51e591a968ff64f51a44e0b2583ee5fed5e4b` |
+| [07](BOARD_07.png) | 025–028 | 1672 × 941 | HOME_GARDEN, BOARD_05 | `bf2302a034e05c3fbd9b2b3dd510a1247acd9a5c5a6bb70050c7dc998c41ec5b` |
