@@ -1,6 +1,6 @@
 # Episode 14 storyboard — Can You Mail a Hug?
 
-5 of 20 sheets illustrated. Read each sheet across the top row, then across the bottom row. Each panel covers one 15-second shot.
+6 of 20 sheets illustrated. Read each sheet across the top row, then across the bottom row. Each panel covers one 15-second shot.
 
 [Screenplay](STORY.md) · [Image references and checksums](assets/storyboards/GENERATION_NOTES.md)
 
@@ -11,7 +11,7 @@
 | [03](#board-03) | 02:00–03:00 | 009–012 | One cream envelope |
 | [04](#board-04) | 03:00–04:00 | 013–016 | One whole Max |
 | [05](#board-05) | 04:00–05:00 | 017–020 | Dinner for a piece of paper |
-| 06 · pending | 05:00–06:00 | 021–024 | Half of half |
+| [06](#board-06) | 05:00–06:00 | 021–024 | Half of half |
 | 07 · pending | 06:00–07:00 | 025–028 | Roads across the yellow |
 | 08 · pending | 07:00–08:00 | 029–032 | A pocket accordion |
 | 09 · pending | 08:00–09:00 | 033–036 | Breakfast words |
@@ -91,3 +91,16 @@
 | Top right | [SHOT_018 · Dad rolls up his sleeves](STORY.md#shot-018) | 04:15–04:30 |
 | Bottom left | [SHOT_019 · A flap that won't lie down](STORY.md#shot-019) | 04:30–04:45 |
 | Bottom right | [SHOT_020 · Once in half](STORY.md#shot-020) | 04:45–05:00 |
+
+<a name="board-06"></a>
+
+## Board 06 — Half of half
+
+[![Episode 14, shots 021 through 024](assets/storyboards/BOARD_06.png)](assets/storyboards/BOARD_06.png)
+
+| Panel | Screenplay shot | Episode time |
+|---|---|---|
+| Top left | [SHOT_021 · Half of half](STORY.md#shot-021) | 05:00–05:15 |
+| Top right | [SHOT_022 · Eight layers, one little packet](STORY.md#shot-022) | 05:15–05:30 |
+| Bottom left | [SHOT_023 · Too many little doors](STORY.md#shot-023) | 05:30–05:45 |
+| Bottom right | [SHOT_024 · One pull](STORY.md#shot-024) | 05:45–06:00 |
