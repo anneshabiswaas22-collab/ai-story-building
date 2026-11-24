@@ -1,6 +1,6 @@
 # Episode 15 storyboard — The Book With Two Beginnings!
 
-5 of 20 sheets illustrated. Read each sheet across the top row, then across the bottom row. Each panel covers one 15-second shot.
+6 of 20 sheets illustrated. Read each sheet across the top row, then across the bottom row. Each panel covers one 15-second shot.
 
 [Screenplay](STORY.md) · [Image references and checksums](assets/storyboards/GENERATION_NOTES.md)
 
@@ -11,7 +11,7 @@
 | [03](#board-03) | 02:00–03:00 | 009–012 | A question for a librarian |
 | [04](#board-04) | 03:00–04:00 | 013–016 | Back through the slot |
 | [05](#board-05) | 04:00–05:00 | 017–020 | Quill begins with Q |
-| 06 · pending | 05:00–06:00 | 021–024 | Six readers at one window |
+| [06](#board-06) | 05:00–06:00 | 021–024 | Six readers at one window |
 | 07 · pending | 06:00–07:00 | 025–028 | The yellow boat bumps the twig |
 | 08 · pending | 07:00–08:00 | 029–032 | What does the giant want? |
 | 09 · pending | 08:00–09:00 | 033–036 | Turn the reader or turn the book? |
@@ -91,3 +91,16 @@
 | Top right | [SHOT_018 · A boat for Rose](STORY.md#shot-018) | 04:15–04:30 |
 | Bottom left | [SHOT_019 · The book Maya didn't expect](STORY.md#shot-019) | 04:30–04:45 |
 | Bottom right | [SHOT_020 · Maya's turn to choose](STORY.md#shot-020) | 04:45–05:00 |
+
+<a name="board-06"></a>
+
+## Board 06 — Six readers at one window
+
+[![Episode 15, shots 021 through 024](assets/storyboards/BOARD_06.png)](assets/storyboards/BOARD_06.png)
+
+| Panel | Screenplay shot | Episode time |
+|---|---|---|
+| Top left | [SHOT_021 · Six readers at one window](STORY.md#shot-021) | 05:00–05:15 |
+| Top right | [SHOT_022 · What has the beetle packed?](STORY.md#shot-022) | 05:15–05:30 |
+| Bottom left | [SHOT_023 · A table across the puddle](STORY.md#shot-023) | 05:30–05:45 |
+| Bottom right | [SHOT_024 · A table with no legs](STORY.md#shot-024) | 05:45–06:00 |
