@@ -1,6 +1,6 @@
 # Episode 13 storyboard — Do I Get My Duck Back?
 
-4 of 20 sheets illustrated. Read each sheet across the top row, then across the bottom row. Each panel covers one 15-second shot.
+5 of 20 sheets illustrated. Read each sheet across the top row, then across the bottom row. Each panel covers one 15-second shot.
 
 [Screenplay](STORY.md) · [Image references and checksums](assets/storyboards/GENERATION_NOTES.md)
 
@@ -10,7 +10,7 @@
 | [02](#board-02) | 01:00–02:00 | 005–008 | The item on offer |
 | [03](#board-03) | 02:00–03:00 | 009–012 | Through the blue door |
 | [04](#board-04) | 03:00–04:00 | 013–016 | Someone at the other end |
-| 05 · pending | 04:00–05:00 | 017–020 | A duck with a name |
+| [05](#board-05) | 04:00–05:00 | 017–020 | A duck with a name |
 | 06 · pending | 05:00–06:00 | 021–024 | A stripe with a secret |
 | 07 · pending | 06:00–07:00 | 025–028 | The rest of the sentence |
 | 08 · pending | 07:00–08:00 | 029–032 | The word on the door |
@@ -78,3 +78,16 @@
 | Top right | [SHOT_014 · What fits in a pencil case](STORY.md#shot-014) | 03:15–03:30 |
 | Bottom left | [SHOT_015 · June's impossible sound](STORY.md#shot-015) | 03:30–03:45 |
 | Bottom right | [SHOT_016 · One audition](STORY.md#shot-016) | 03:45–04:00 |
+
+<a name="board-05"></a>
+
+## Board 05 — A duck with a name
+
+[![Episode 13, shots 017 through 020](assets/storyboards/BOARD_05.png)](assets/storyboards/BOARD_05.png)
+
+| Panel | Screenplay shot | Episode time |
+|---|---|---|
+| Top left | [SHOT_017 · A duck with a name](STORY.md#shot-017) | 04:00–04:15 |
+| Top right | [SHOT_018 · The wrong end for looking](STORY.md#shot-018) | 04:15–04:30 |
+| Bottom left | [SHOT_019 · The word they both hear](STORY.md#shot-019) | 04:30–04:45 |
+| Bottom right | [SHOT_020 · The switch](STORY.md#shot-020) | 04:45–05:00 |

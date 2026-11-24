@@ -12,8 +12,10 @@ The additional references for each sheet are listed below. Reference boards supp
 
 - [Adult lineup](../../../Episode_01/assets/characters/ADULTS_lineup.jpg)
 - [Child lineup](../../../Episode_01/assets/characters/CHILDREN_lineup.jpg)
+- [BOARD_01](BOARD_01.png)
 - [HOME_ENTRY](../../../Episode_08/assets/environments/HOME_ENTRY.png)
 - [HOME_KITCHEN](../../../Episode_01/assets/environments/HOME_KITCHEN.jpg)
+- [HOME_TABLE](../../../Episode_01/assets/environments/HOME_TABLE.jpg)
 
 ## Visual corrections
 
@@ -30,3 +32,4 @@ Each PNG was decoded and checked for dimensions, chunk integrity and four distin
 | [02](BOARD_02.png) | 005–008 | 1671 × 941 | HOME_KITCHEN | `483a284b60d39670e2e1aafc11fdab4ef23a6f8d07c2006cc0f68bf633b02b39` |
 | [03](BOARD_03.png) | 009–012 | 1672 × 941 | HOME_KITCHEN | `2434bd0b4ee364a5e5affe528fcb4f4f2dfd83c1dc10df836ecb9e1ff7351d02` |
 | [04](BOARD_04.png) | 013–016 | 1672 × 941 | HOME_KITCHEN | `59e93b55cccf93e1f87fb843fc8e966ca2dd604cbf7005cc814c444c37ca7779` |
+| [05](BOARD_05.png) | 017–020 | 1672 × 941 | HOME_TABLE, BOARD_01 | `97ad8a44b67ec5800469dc3b1238e4d82fdae4d4f001ccb0ac1ffca215369fa5` |

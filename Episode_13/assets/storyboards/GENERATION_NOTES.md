@@ -12,13 +12,17 @@ The additional references for each sheet are listed below. Reference boards supp
 
 - [Adult lineup](../../../Episode_01/assets/characters/ADULTS_lineup.jpg)
 - [Child lineup](../../../Episode_01/assets/characters/CHILDREN_lineup.jpg)
+- [BOARD_01](BOARD_01.png)
+- [BOARD_02](BOARD_02.png)
+- [BOARD_04](BOARD_04.png)
 - [HOME_ENTRY](../../../Episode_08/assets/environments/HOME_ENTRY.png)
 - [HOME_KITCHEN](../../../Episode_01/assets/environments/HOME_KITCHEN.jpg)
-- [HOME_PORCH](../../../Episode_10/assets/environments/HOME_PORCH.png)
 
 ## Visual corrections
 
 - Sheet 02. The single tin is packed at the kitchen island and carried closed at the entry. Max displays the two bows on his green shoes. [Earlier sheet](https://github.com/arunabanarjee32-bit/ai-story-building/blob/7322fd0edb7cc81f6fdd402d26e6e46319789aac/Episode_13/assets/storyboards/BOARD_02.png)
+- Sheet 03. Ella carries the rectangular tin to the swap. The single striped top tips over on the felt. [Earlier sheet](https://github.com/arunabanarjee32-bit/ai-story-building/blob/da47c3ddfc6694fb86d34d343052e498f7e6af31/Episode_13/assets/storyboards/BOARD_03.png)
+- Sheet 04. The wheeled wooden duck and the rectangular tin carry through June’s introduction. [Earlier sheet](https://github.com/arunabanarjee32-bit/ai-story-building/blob/cd010f5e16e281d17da2d8f158e8f1668e336346/Episode_13/assets/storyboards/BOARD_04.png)
 
 ## File verification
 
@@ -28,5 +32,6 @@ Each PNG was decoded and checked for dimensions, chunk integrity and four distin
 |---|---|---|---|---|
 | [01](BOARD_01.png) | 001–004 | 1672 × 941 | HOME_KITCHEN | `aa7d4b392a8a60753c89d5fc01d87a874cf535bdb66f475ef2eeb7d5b87f1ab9` |
 | [02](BOARD_02.png) | 005–008 | 1671 × 941 | HOME_KITCHEN, HOME_ENTRY | `01351e84b914d9d9423732e23e77a1702259ff2d8b0e074643502b39026323d4` |
-| [03](BOARD_03.png) | 009–012 | 1672 × 941 | HOME_PORCH | `8b17ef8ae5d2e836b57b9840ddac82dfd86e82616651c3df169a275408f428da` |
-| [04](BOARD_04.png) | 013–016 | 1672 × 941 | Cast lineups only | `13deb005fd92f4b6d0d3eb72f8c2755de9f8d339671c9df02fcbbf2652248415` |
+| [03](BOARD_03.png) | 009–012 | 1671 × 941 | BOARD_01, BOARD_02 | `6487b99730a7d09b47db9acd7e1c343b5368de5da8b21d153b17e20a4138025e` |
+| [04](BOARD_04.png) | 013–016 | 1671 × 941 | BOARD_01, BOARD_02 | `e03cb36964e29006a08e3c97ce710b47f706c8b48fbd310829668a4b2e480e48` |
+| [05](BOARD_05.png) | 017–020 | 1672 × 941 | BOARD_04, BOARD_01 | `62ce8b143df26ad0817d3629adc8379b4f37385ca1386e37039ca8cd5b931094` |

@@ -12,6 +12,7 @@ The additional references for each sheet are listed below. Reference boards supp
 
 - [Adult lineup](../../../Episode_01/assets/characters/ADULTS_lineup.jpg)
 - [Child lineup](../../../Episode_01/assets/characters/CHILDREN_lineup.jpg)
+- [BOARD_03](BOARD_03.png)
 - [HOME_GARDEN](../../../Episode_02/assets/environments/HOME_GARDEN.png)
 - [HOME_KITCHEN](../../../Episode_01/assets/environments/HOME_KITCHEN.jpg)
 - [HOME_TABLE](../../../Episode_01/assets/environments/HOME_TABLE.jpg)
@@ -19,6 +20,7 @@ The additional references for each sheet are listed below. Reference boards supp
 ## Visual corrections
 
 - Sheet 03. The shoe photo sits in the album’s left pocket. The adjacent pocket is empty, and Max holds one yellow cushion.
+- Sheet 04. Max carries the plain yellow cushion through the garden door. [Earlier sheet](https://github.com/arunabanarjee32-bit/ai-story-building/blob/44b628f030137eea10c9ecb37463630e22da7f9f/Episode_12/assets/storyboards/BOARD_04.png)
 
 ## File verification
 
@@ -29,4 +31,5 @@ Each PNG was decoded and checked for dimensions, chunk integrity and four distin
 | [01](BOARD_01.png) | 001–004 | 1672 × 941 | HOME_TABLE | `f7eec20c04b47a2c1dcfc2e40f8de5eb81f289ae2bfc7370d376d8da54397835` |
 | [02](BOARD_02.png) | 005–008 | 1672 × 941 | HOME_TABLE | `1583d9ba05d443b93f633d32d669bda3f437820e310a8e27df72d03ccbe503c9` |
 | [03](BOARD_03.png) | 009–012 | 1671 × 941 | HOME_TABLE, HOME_KITCHEN | `e6d07ddb14f5f3d32472e37f644eada768b4dff462ef57596e6ffa00eb3e00c7` |
-| [04](BOARD_04.png) | 013–016 | 1672 × 941 | HOME_KITCHEN, HOME_GARDEN | `17d3b9448566188b923b863ccbf457b2655c6acc374ad740c8bb11913a6f27e4` |
+| [04](BOARD_04.png) | 013–016 | 1671 × 941 | HOME_GARDEN, BOARD_03 | `b887b5c2e29d9c9c259552dc959946f1cb79c5c89a6e37c02f1e0a4d1bba13e5` |
+| [05](BOARD_05.png) | 017–020 | 1672 × 941 | HOME_GARDEN, BOARD_03 | `0c275b9a1ec13261cee6e30fdf0ecac20694ef008f374fcab6b69ec2e3c1e0f7` |

@@ -1,6 +1,6 @@
 # Episode 14 storyboard — Can You Mail a Hug?
 
-4 of 20 sheets illustrated. Read each sheet across the top row, then across the bottom row. Each panel covers one 15-second shot.
+5 of 20 sheets illustrated. Read each sheet across the top row, then across the bottom row. Each panel covers one 15-second shot.
 
 [Screenplay](STORY.md) · [Image references and checksums](assets/storyboards/GENERATION_NOTES.md)
 
@@ -10,7 +10,7 @@
 | [02](#board-02) | 01:00–02:00 | 005–008 | A corner goes missing |
 | [03](#board-03) | 02:00–03:00 | 009–012 | One cream envelope |
 | [04](#board-04) | 03:00–04:00 | 013–016 | One whole Max |
-| 05 · pending | 04:00–05:00 | 017–020 | Dinner for a piece of paper |
+| [05](#board-05) | 04:00–05:00 | 017–020 | Dinner for a piece of paper |
 | 06 · pending | 05:00–06:00 | 021–024 | Half of half |
 | 07 · pending | 06:00–07:00 | 025–028 | Roads across the yellow |
 | 08 · pending | 07:00–08:00 | 029–032 | A pocket accordion |
@@ -78,3 +78,16 @@
 | Top right | [SHOT_014 · The blue hand on the left](STORY.md#shot-014) | 03:15–03:30 |
 | Bottom left | [SHOT_015 · A hand for the other end](STORY.md#shot-015) | 03:30–03:45 |
 | Bottom right | [SHOT_016 · A problem for the dining table](STORY.md#shot-016) | 03:45–04:00 |
+
+<a name="board-05"></a>
+
+## Board 05 — Dinner for a piece of paper
+
+[![Episode 14, shots 017 through 020](assets/storyboards/BOARD_05.png)](assets/storyboards/BOARD_05.png)
+
+| Panel | Screenplay shot | Episode time |
+|---|---|---|
+| Top left | [SHOT_017 · Dinner for a piece of paper](STORY.md#shot-017) | 04:00–04:15 |
+| Top right | [SHOT_018 · Dad rolls up his sleeves](STORY.md#shot-018) | 04:15–04:30 |
+| Bottom left | [SHOT_019 · A flap that won't lie down](STORY.md#shot-019) | 04:30–04:45 |
+| Bottom right | [SHOT_020 · Once in half](STORY.md#shot-020) | 04:45–05:00 |
