@@ -1,0 +1,80 @@
+# Episode 15 storyboard — The Book With Two Beginnings!
+
+4 of 20 sheets illustrated. Read each sheet across the top row, then across the bottom row. Each panel covers one 15-second shot.
+
+[Screenplay](STORY.md) · [Image references and checksums](assets/storyboards/GENERATION_NOTES.md)
+
+| Sheet | Episode time | Shot range | Opening beat |
+|---|---|---|---|
+| [01](#board-01) | 00:00–01:00 | 001–004 | A boat in the beans |
+| [02](#board-02) | 01:00–02:00 | 005–008 | The title that won't come |
+| [03](#board-03) | 02:00–03:00 | 009–012 | A question for a librarian |
+| [04](#board-04) | 03:00–04:00 | 013–016 | Back through the slot |
+| 05 · pending | 04:00–05:00 | 017–020 | Quill begins with Q |
+| 06 · pending | 05:00–06:00 | 021–024 | Six readers at one window |
+| 07 · pending | 06:00–07:00 | 025–028 | The yellow boat bumps the twig |
+| 08 · pending | 07:00–08:00 | 029–032 | What does the giant want? |
+| 09 · pending | 08:00–09:00 | 033–036 | Turn the reader or turn the book? |
+| 10 · pending | 09:00–10:00 | 037–040 | Grandma's wrist |
+| 11 · pending | 10:00–11:00 | 041–044 | One face of the patch |
+| 12 · pending | 11:00–12:00 | 045–048 | The part Maya forgot |
+| 13 · pending | 12:00–13:00 | 049–052 | Something to tell Rose |
+| 14 · pending | 13:00–14:00 | 053–056 | A slash between friends |
+| 15 · pending | 14:00–15:00 | 057–060 | Maya's own card |
+| 16 · pending | 15:00–16:00 | 061–064 | A place for both bits of paper |
+| 17 · pending | 16:00–17:00 | 065–068 | What kind of question was it? |
+| 18 · pending | 17:00–18:00 | 069–072 | Rose sees a familiar boat |
+| 19 · pending | 18:00–19:00 | 073–076 | What Maya wanted to say |
+| 20 · pending | 19:00–20:00 | 077–080 | Six little legs |
+
+<a name="board-01"></a>
+
+## Board 01 — A boat in the beans
+
+[![Episode 15, shots 001 through 004](assets/storyboards/BOARD_01.png)](assets/storyboards/BOARD_01.png)
+
+| Panel | Screenplay shot | Episode time |
+|---|---|---|
+| Top left | [SHOT_001 · A boat in the beans](STORY.md#shot-001) | 00:00–00:15 |
+| Top right | [SHOT_002 · Two ends of one bookmark](STORY.md#shot-002) | 00:15–00:30 |
+| Bottom left | [SHOT_003 · An argument coming to visit](STORY.md#shot-003) | 00:30–00:45 |
+| Bottom right | [SHOT_004 · Three little stitches](STORY.md#shot-004) | 00:45–01:00 |
+
+<a name="board-02"></a>
+
+## Board 02 — The title that won't come
+
+[![Episode 15, shots 005 through 008](assets/storyboards/BOARD_02.png)](assets/storyboards/BOARD_02.png)
+
+| Panel | Screenplay shot | Episode time |
+|---|---|---|
+| Top left | [SHOT_005 · The title that won't come](STORY.md#shot-005) | 01:00–01:15 |
+| Top right | [SHOT_006 · Grandma wrote on the back](STORY.md#shot-006) | 01:15–01:30 |
+| Bottom left | [SHOT_007 · Pick a beginning](STORY.md#shot-007) | 01:30–01:45 |
+| Bottom right | [SHOT_008 · Who gets to choose today?](STORY.md#shot-008) | 01:45–02:00 |
+
+<a name="board-03"></a>
+
+## Board 03 — A question for a librarian
+
+[![Episode 15, shots 009 through 012](assets/storyboards/BOARD_03.png)](assets/storyboards/BOARD_03.png)
+
+| Panel | Screenplay shot | Episode time |
+|---|---|---|
+| Top left | [SHOT_009 · A question for a librarian](STORY.md#shot-009) | 02:00–02:15 |
+| Top right | [SHOT_010 · A visit this afternoon](STORY.md#shot-010) | 02:15–02:30 |
+| Bottom left | [SHOT_011 · Under the blue canopy](STORY.md#shot-011) | 02:30–02:45 |
+| Bottom right | [SHOT_012 · A boat that stays ashore](STORY.md#shot-012) | 02:45–03:00 |
+
+<a name="board-04"></a>
+
+## Board 04 — Back through the slot
+
+[![Episode 15, shots 013 through 016](assets/storyboards/BOARD_04.png)](assets/storyboards/BOARD_04.png)
+
+| Panel | Screenplay shot | Episode time |
+|---|---|---|
+| Top left | [SHOT_013 · Back through the slot](STORY.md#shot-013) | 03:00–03:15 |
+| Top right | [SHOT_014 · Somebody who knows the shelves](STORY.md#shot-014) | 03:15–03:30 |
+| Bottom left | [SHOT_015 · “I don't know the title”](STORY.md#shot-015) | 03:30–03:45 |
+| Bottom right | [SHOT_016 · A cover is a clue](STORY.md#shot-016) | 03:45–04:00 |
