@@ -1,6 +1,6 @@
 # Episode 12 storyboard — Dad’s Shoe Is Going to School!
 
-5 of 20 sheets illustrated. Read each sheet across the top row, then across the bottom row. Each panel covers one 15-second shot.
+6 of 20 sheets illustrated. Read each sheet across the top row, then across the bottom row. Each panel covers one 15-second shot.
 
 [Screenplay](STORY.md) · [Image references and checksums](assets/storyboards/GENERATION_NOTES.md)
 
@@ -11,7 +11,7 @@
 | [03](#board-03) | 02:00–03:00 | 009–012 | Both jobs |
 | [04](#board-04) | 03:00–04:00 | 013–016 | Which side of the glass? |
 | [05](#board-05) | 04:00–05:00 | 017–020 | A gap with a name |
-| 06 · pending | 05:00–06:00 | 021–024 | Meet Cousin Cushion |
+| [06](#board-06) | 05:00–06:00 | 021–024 | Meet Cousin Cushion |
 | 07 · pending | 06:00–07:00 | 025–028 | A clock the size of a pea |
 | 08 · pending | 07:00–08:00 | 029–032 | Picture two |
 | 09 · pending | 08:00–09:00 | 033–036 | A different kind of help |
@@ -91,3 +91,16 @@
 | Top right | [SHOT_018 · A stand-in with a dent](STORY.md#shot-018) | 04:15–04:30 |
 | Bottom left | [SHOT_019 · The first request](STORY.md#shot-019) | 04:30–04:45 |
 | Bottom right | [SHOT_020 · Picture one](STORY.md#shot-020) | 04:45–05:00 |
+
+<a name="board-06"></a>
+
+## Board 06 — Meet Cousin Cushion
+
+[![Episode 12, shots 021 through 024](assets/storyboards/BOARD_06.png)](assets/storyboards/BOARD_06.png)
+
+| Panel | Screenplay shot | Episode time |
+|---|---|---|
+| Top left | [SHOT_021 · Meet Cousin Cushion](STORY.md#shot-021) | 05:00–05:15 |
+| Top right | [SHOT_022 · What a camera shows](STORY.md#shot-022) | 05:15–05:30 |
+| Bottom left | [SHOT_023 · What the cushion can do](STORY.md#shot-023) | 05:30–05:45 |
+| Bottom right | [SHOT_024 · Directions from his own spot](STORY.md#shot-024) | 05:45–06:00 |
