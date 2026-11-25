@@ -23,6 +23,20 @@ The additional references for each sheet are listed below. Reference boards supp
 
 - Sheet 03. The shoe photo sits in the album’s left pocket. The adjacent pocket is empty, and Max holds one yellow cushion.
 - Sheet 04. Max carries the plain yellow cushion through the garden door. [Earlier sheet](https://github.com/arunabanarjee32-bit/ai-story-building/blob/44b628f030137eea10c9ecb37463630e22da7f9f/Episode_12/assets/storyboards/BOARD_04.png)
+- Sheet 06. Both camera screens in shots 021 and 022 show the test photo from shot 020. The yellow cushion, Max and Ella are in front of Dan, Maya and Nina. Leo stands beside the camera. [Earlier sheet](https://github.com/arunabanarjee32-bit/ai-story-building/blob/9b391b94470e81fd27b2600ecc95dfb106b260ce/Episode_12/assets/storyboards/BOARD_06.png)
+
+## Sheet 06 correction direction
+
+<details>
+<summary>Playback image used for shots 021 and 022</summary>
+
+> Use case: precise-object-edit. Image 1 is the full Episode 12 storyboard sheet 06 to correct. Image 2 is the preceding sheet 05 and supplies the precise test photograph required in the correction. Return a full landscape 16:9 sheet matching image 1, same existing thin ivory 2-by-2 frame lines, crops, warm 3-D render, garden, cast faces, costumes, hands, cushion actions, staging, lighting and all foreground characters. This is an LCD playback continuity fix.
+>
+> Change ONLY the picture displayed INSIDE the little black camera’s LCD in each top panel of image 1. Both screens display EXACTLY the same previously saved five-person photograph seen large inside the compact camera in the BOTTOM RIGHT of reference image 2. Treat it as a pre-existing still to place in both displays, fitting the black bezels. Required contents in each of the two tiny LCDs, left to right: back row Dan (blue shirt, mustache), Maya (plum), Nina (teal); front row an upright plain yellow square cushion at far left, Max (little boy green shirt) in center, Ella (braids, coral shirt with blue overalls) at right. Exactly THREE ADULT and TWO CHILD faces inside each LCD. The orange-shirted boy Leo took that photograph and is entirely absent INSIDE both LCDs. He must remain the actual orange-shirted boy OUTSIDE both screens where already present. The plain yellow cushion substitutes for his body in the saved photo. Do not add playback icons or text. In the top left panel the physical yellow cushion still exists in Max's arms as well as the cushion in the old photo. In the top right panel Leo is still standing in person between Maya and Nina. Preserve both lower panels as closely as possible. Return only the corrected entire board with no annotations.
+>
+> Reference image 3 enlarges those exact existing pixels from sheet 05. Reproduce this little rectangular photograph on both camera displays, including the five familiar faces in that order and the straw-yellow cushion at lower left.
+
+</details>
 
 ## Sheet 08 generation direction
 
@@ -54,6 +68,6 @@ Each PNG was decoded and checked for dimensions, chunk integrity and four distin
 | [03](BOARD_03.png) | 009–012 | 1671 × 941 | HOME_TABLE, HOME_KITCHEN | `e6d07ddb14f5f3d32472e37f644eada768b4dff462ef57596e6ffa00eb3e00c7` |
 | [04](BOARD_04.png) | 013–016 | 1671 × 941 | HOME_GARDEN, BOARD_03 | `b887b5c2e29d9c9c259552dc959946f1cb79c5c89a6e37c02f1e0a4d1bba13e5` |
 | [05](BOARD_05.png) | 017–020 | 1672 × 941 | HOME_GARDEN, BOARD_03 | `0c275b9a1ec13261cee6e30fdf0ecac20694ef008f374fcab6b69ec2e3c1e0f7` |
-| [06](BOARD_06.png) | 021–024 | 1672 × 941 | HOME_GARDEN, BOARD_05 | `c756ec20458e92b08d8b485798d51e591a968ff64f51a44e0b2583ee5fed5e4b` |
+| [06](BOARD_06.png) | 021–024 | 1672 × 941 | HOME_GARDEN, BOARD_05 (shot 020 playback) | `66f8866ff11a254eba87cfcaa9ec5aa685e6a879bd58f460fe170cda6f539c3f` |
 | [07](BOARD_07.png) | 025–028 | 1672 × 941 | HOME_GARDEN, BOARD_05 | `bf2302a034e05c3fbd9b2b3dd510a1247acd9a5c5a6bb70050c7dc998c41ec5b` |
 | [08](BOARD_08.png) | 029–032 | 1671 × 941 | BOARD_07 | `86e778406c0b4e311aa7bd30240c2ac46ea927285668277ace44f66065f68318` |
