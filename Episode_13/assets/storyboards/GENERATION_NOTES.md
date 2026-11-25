@@ -127,6 +127,33 @@ Max watches the duck at wheel height on green felt. The repeat on bare wood, Leo
 
 </details>
 
+<details>
+<summary>Sheet 11 · Which back wheel? · shots 041–044</summary>
+
+The magnified insert shows a single yellow dab on the rolling surface of the red rear wheel. The final low shot places the same dab against bare wood as Ella, June and Leo watch.
+
+> Illustration-story. Maple House English, Episode 13, illustrated sheet 11. Continue the supplied preceding four-panel sheet into a new production sheet, replacing its four images with the NEXT four different shots. Treat the written panel directions as the source of action. Precisely 2 equal columns x 2 equal rows on a wide 16:9 landscape canvas, four full cinematic landscape frames, thin ivory cross gutter. No titles, panel labels, dialogue text, captions, logos, sound effects, extra frames or decorative text. Use four deliberately different, expressive compositions, clear eye-lines and restrained natural gestures. The camera direction describes film movement; illustrate a single decisive frame for each shot. Respect shot-specific cast; close inserts can show faces at edges or hands. Every child has one body and two hands, preserve age and scale. Warm polished stylized 3D animated family film in the look of the preceding sheet.
+>
+> Visual references: 1 = preceding episode sheet; animation, props, and scene continuity; 2 = adult cast model lineup, left to right Dan, Maya, Nina; 3 = child cast model lineup, left to right Leo, Ella, Max; 4 = June's exact design and the worn wooden duck, blue case, red and white top, magnifier.
+>
+> Dan: tall mustached dad, swept dark hair, sky-blue polo, navy trousers. Maya: dark low ponytail, plum shirt and cream trousers. Nina: short wavy auburn bob, teal blouse and tan trousers. Leo is tallest child, 12, chestnut hair, orange T-shirt, navy shorts, orange sneakers. Ella 9: brown twin braids, coral tee, full-length blue denim overalls, coral sneakers. Max 7: shortest, little auburn-haired boy in green T-shirt, tan shorts and green canvas sneakers with WHITE laces.
+>
+> June is Ella’s age, dark tight curls, warm complexion and freckles, mustard hoodie, dark trousers, off-white canvas tote. The single hand-sized worn painted yellow wooden duck Mabel has one orange beak, worn cheek thumbprint and four red disc wheels. Green-handled round magnifier, red-and-white striped wooden spinning top, plain rectangular SILVER tin plus removable lid, smaller BLUE hinged pencil case. The swap table lives beneath a window: Ella's end left, June's right, green felt window side and exposed wood aisle side; bench near entry. At home the porch door is blue.
+>
+> Specific direction: Near-macro insert in shot 042 is essential: ONE hardened YELLOW PAINT DAB protrudes from the curved rolling edge/tread of the duck’s own LEFT REAR RED wheel, not its center hub and not front wheels. Preserve four full attached wheels. The dab and old cheek thumbprint are different marks.
+>
+> TOP LEFT / 041 / Which back wheel? / COMMUNITY_SWAP_ROOM / ELLA, JUNE, NINA. Camera: Over June's hands as she tips the duck belly-up. Orient by the beak, then move toward the underside of the tail. Depict: Ella brings the magnifier close. June turns one rear wheel with a thumb, then the other. Nina asks them to think of the duck standing up on its own feet. June indicates the wheel they mean. Continuity: “Left” belongs to the duck as it faces beak-first, even when the toy is belly-up. End state: They are looking at Mabel's own left rear wheel. The lens is close enough to show its red rim.
+>
+> TOP RIGHT / 042 / A yellow hill / COMMUNITY_SWAP_ROOM / JUNE, ELLA, MAX. Camera: Fill the frame with the red rim in the lens. Let a raised yellow spot turn slowly into the light. Depict: June rotates the wheel a little at a time. A dry yellow dab sticks up beyond the smooth red edge. Ella says stop and June holds it there. Max sights along the rim from the side. Continuity: The bump is on the rolling edge, not on the flat face of the wheel. End state: All three can see a tiny raised yellow spot on the red wheel. June holds the duck steady.
+>
+> BOTTOM LEFT / 043 / The painter remembers / COMMUNITY_SWAP_ROOM / MAYA, ELLA, JUNE. Camera: Pull focus from the yellow bump to the yellow cheek and its old thumbprint, both on the same duck. Depict: Ella recognizes the color. With her empty hand she mimes painting the body, then running the still-wet duck back and forth to admire it. Maya remembers the track it left across the newspaper. Continuity: The original thumbprint and the drop are two different marks made on the same day. End state: Ella identifies the bump as her own old drop of yellow paint. June sees why the duck is special to her.
+>
+> BOTTOM RIGHT / 044 / Once around / COMMUNITY_SWAP_ROOM / JUNE, ELLA, LEO. Camera: Start on the raised spot high on the wheel. Watch a full turn on wood without cutting away. Depict: June lowers the duck to the bare strip. Ella puts the lens down on the felt and points to the paint. Leo follows the yellow spot around. When it meets the table the tail lifts and the tok lands. Continuity: The borrowed magnifier is on the felt at Ella's elbow. It is still due back to June. End state: One complete turn shows what makes the sound. June stops the duck by the girls.
+>
+> FOCUSED CORRECTION: The top-right 042 is an extreme macro, preferably the wheel seen 3/4 edge-on, still attached at the tail of the toy. Let the duck face LEFT so its own left flank and aft wheel on the RIGHT read clearly. One small raised yellow crumb bonded to the narrow curved rolling TREAD of that back wheel, protruding outside its red circular silhouette at the lower right. The flat red side face and circular axle hub are clean. In bottom right the same tiny bump touches the wood right under that rear rim, and Ella’s green magnifier lies flat on the felt. Real present-day motions only; shot 043 Ella playfully mimes with her empty hand, no brushes or wet paint in the room.
+
+</details>
+
 ## File verification
 
 Each PNG was decoded and checked for dimensions, chunk integrity and four distinct image regions. Its Git blob was read back from the PR branch after publication.
@@ -143,3 +170,4 @@ Each PNG was decoded and checked for dimensions, chunk integrity and four distin
 | [08](BOARD_08.png) | 029–032 | 1672 × 941 | [BOARD_07](BOARD_07.png), [BOARD_04](BOARD_04.png) | `7c0ced4aabb322f7a24d8d5c8658b2f75ee3e94e1ec88985afd0968d79731552` |
 | [09](BOARD_09.png) | 033–036 | 1672 × 941 | [BOARD_08](BOARD_08.png), [BOARD_04](BOARD_04.png) | `1e32083e1c284dbafc9e457dccce2b7cda65a9d70f1f9e7bca926377077fda74` |
 | [10](BOARD_10.png) | 037–040 | 1672 × 941 | [BOARD_09](BOARD_09.png), [BOARD_04](BOARD_04.png) | `71e7779e689484060798dfa92bcf406d4deb728e21cc5115ed82c1071cbfa38b` |
+| [11](BOARD_11.png) | 041–044 | 1672 × 941 | [BOARD_10](BOARD_10.png), [BOARD_04](BOARD_04.png) | `3d56fd27bf99c9e07e9892c768653bbb2a63a7164e63f8f003675cbd25d619bc` |
