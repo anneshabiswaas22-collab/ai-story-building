@@ -1,6 +1,6 @@
 # Episode 14 storyboard — Can You Mail a Hug?
 
-14 of 20 sheets illustrated. Read each sheet across the top row, then across the bottom row. Each panel covers one 15-second shot.
+15 of 20 sheets illustrated. Read each sheet across the top row, then across the bottom row. Each panel covers one 15-second shot.
 
 [Screenplay](STORY.md) · [Image references and checksums](assets/storyboards/GENERATION_NOTES.md)
 
@@ -20,7 +20,7 @@
 | [12](#board-12) | 11:00–12:00 | 045–048 | Two trips across a table |
 | [13](#board-13) | 12:00–13:00 | 049–052 | One more door |
 | [14](#board-14) | 13:00–14:00 | 053–056 | Which piece stays home? |
-| 15 · pending | 14:00–15:00 | 057–060 | The slot and the counter |
+| [15](#board-15) | 14:00–15:00 | 057–060 | The slot and the counter |
 | 16 · pending | 15:00–16:00 | 061–064 | For someone with a new kitchen |
 | 17 · pending | 16:00–17:00 | 065–068 | The price of a leaf |
 | 18 · pending | 17:00–18:00 | 069–072 | Off to Lantern Court |
@@ -208,3 +208,16 @@
 | Top right | [SHOT_054 · Two refrigerators](STORY.md#shot-054) | 13:15–13:30 |
 | Bottom left | [SHOT_055 · What are you carrying?](STORY.md#shot-055) | 13:30–13:45 |
 | Bottom right | [SHOT_056 · Fourteen from the outside](STORY.md#shot-056) | 13:45–14:00 |
+
+<a name="board-15"></a>
+
+## Board 15 — The slot and the counter
+
+[![Episode 14, shots 057 through 060](assets/storyboards/BOARD_15.png)](assets/storyboards/BOARD_15.png)
+
+| Panel | Screenplay shot | Episode time |
+|---|---|---|
+| Top left | [SHOT_057 · The slot and the counter](STORY.md#shot-057) | 14:00–14:15 |
+| Top right | [SHOT_058 · What to ask for](STORY.md#shot-058) | 14:15–14:30 |
+| Bottom left | [SHOT_059 · Dad's very long introduction](STORY.md#shot-059) | 14:30–14:45 |
+| Bottom right | [SHOT_060 · A letter, please](STORY.md#shot-060) | 14:45–15:00 |

@@ -226,6 +226,31 @@ At home the gray magnet holds the picture of Ed’s fridge. Max takes the sealed
 
 </details>
 
+<details>
+<summary>Sheet 15 · The slot and the counter · shots 057–060</summary>
+
+The family passes the lobby slot on the left. Max carries the unstamped envelope to the low counter, where the clerk leans down to hear his request.
+
+> Use case: illustration-story. Episode 14 sheet 15. Maple House English, a warm polished, cinematic, stylized 3D family film. Generate a brand-new four-shot storyboard sheet for the NEXT shots. Exactly 2 columns by 2 rows of equal wide 16:9 cinematic frames, on one wide landscape 16:9 canvas, with one hairline ivory gutter cross. Read upper left, upper right, lower left, lower right. Four different compositions, motivated gestures and screen directions, cut in for the insert indicated. No frame numbers, titles, speech balloons, captions or text outside story props. Use clear readable letters ONLY when required on an in-world prop. Follow the named cast per shot (hands or a shoulder may stand for a character in an insert). Keep the Brooks family recognizable, no twins or duplicate limbs/objects.
+>
+> References: 1 — previous sheet, exact visual continuity; 2 — adult lineup, left to right Dan, Maya, Nina; 3 — child lineup, left to right Leo, Ella, Max.
+>
+> Dan: tall adult with swept dark hair, black mustache, sky-blue polo, navy trousers, watch on left wrist. Maya: dark low ponytail, plum tee, cream pants. Nina: wavy short auburn bob, teal top and tan trousers. Leo: tall 12-year-old in orange tee and navy shorts. Ella: age 9, brown twin braids, coral tee and full denim overalls. Max: smallest child, 7, curly auburn hair, green tee, tan shorts and green shoes. Distinct heights and proportions; two arms and hands per person.
+>
+> One paper hug from Max to Nina's father Ed: one continuous pale-yellow paper strip divided by seven alternating folds into EIGHT rectangular panels with one blue outline hand on each end and a private message on panel four. At the dining table facing the garden window: Leo left end, Ella far-left, Maya far-right, Nina right end, Max near-right, Dan near-left. A separate cream envelope is mailed ONCE from 14 Maple Lane to 8 Lantern Court, Apt 2B. One green-leaf stamp only after the post office. The siblings’ grandpa is never pictured and the tomato magnet is only a drawing on Ed’s postcard in the Brooks house.
+>
+> Direction for this sheet: Introduce a small friendly neighborhood post office with warm oak fixtures and daylight. From the entrance: recessed letter slot on the LEFT wall, low counter STRAIGHT AHEAD. 057 wide establishing shot from rear of all six Brookses entering together, Max notices upper right blank on his sealed letter and pivots away from the left slot. 058 child-height close with Nina, Maya and Leo as Max rehearses holding his letter. 059 Dan makes a theatrical speech in the lobby, Ella stops him for breath while Max walks up. 060 only Max and Nina on customers’ side, POSTAL CLERK behind the low counter at child eye level: friendly adult with short dark hair, copper-colored round glasses, navy postal vest over pale blue shirt. Small gray postal scale and one shallow EMPTY outgoing tray behind counter on clerk side. Max lays ONE addressed cream envelope front UP, his fingers still on its edge; NO stamp or other letters anywhere.
+>
+> UPPER LEFT · shot 057 The slot and the counter · POST_OFFICE_LOBBY · DAN, MAYA, NINA, LEO, ELLA, MAX. Camera: Cut ahead to a small, bright post office. From the entrance, show the mailing slot on the left and the service counter straight ahead. Action: The family arrives together. Max spots the slot and starts toward it. He looks at the empty space on the upper right of his envelope, then turns his feet toward the counter instead. Continuity: Use this same lobby and counter for the whole visit. No other customer speaks or intervenes. End: Max has chosen the counter. The letter is still in his hand.
+>
+> UPPER RIGHT · shot 058 What to ask for · POST_OFFICE_LOBBY · MAYA, NINA, LEO, MAX. Camera: At Max's height, track the family along the short aisle. Leave room to see the letter front-up in his hands. Action: Max wants the person at the counter to know his letter matters. He considers explaining the seven creases first. Nina suggests beginning with the thing he came to do. The rest will keep. Continuity: The clerk has not seen the contents. The envelope remains sealed. End: Max decides to ask to mail one letter. Nina has her wallet with her for the postage.
+>
+> LOWER LEFT · shot 059 Dad's very long introduction · POST_OFFICE_LOBBY · DAN, ELLA, MAX. Camera: Stay close on Dan rehearsing under his breath. Let the cut land on Max's much shorter breath. Action: Dan tries a sweeping introduction fit for the world's longest greeting. Ella has to stop him for air. Max mouths his own plain sentence and steps up to the counter as a space opens. Continuity: Dan's practice speech stays among the family in the lobby. End: Max is at the front with the envelope. Dan and Ella leave space for him to speak.
+>
+> LOWER RIGHT · shot 060 A letter, please · POST_OFFICE_COUNTER · CLERK, NINA, MAX. Camera: Look across the low service counter. The clerk in copper-colored glasses brings their eyes level with Max's before looking at the letter. Action: Max greets the clerk and sets the sealed envelope front-up on the counter. His fingers stay on one short edge. Nina stands beside him and lets him finish his own request. Continuity: A small scale and a shallow outgoing tray sit on the clerk's side. The tray stays empty for now. End: The clerk knows Max would like to mail the letter. The envelope rests between them, still in his reach.
+
+</details>
+
 ## File verification
 
 Each PNG was decoded and checked for dimensions, chunk integrity and four distinct image regions. Its Git blob was read back from the PR branch after publication.
@@ -246,3 +271,4 @@ Each PNG was decoded and checked for dimensions, chunk integrity and four distin
 | [12](BOARD_12.png) | 045–048 | 1672 × 941 | [BOARD_11](BOARD_11.png), HOME_TABLE, [BOARD_01](BOARD_01.png) | `6dcf2de8fbd99a616de1441ed40753bc4192b1436132982c265e14c0bfb21b51` |
 | [13](BOARD_13.png) | 049–052 | 1672 × 941 | [BOARD_12](BOARD_12.png), HOME_TABLE, [BOARD_01](BOARD_01.png) | `f109ee00b18b83ef97c8196a58925808f04d9e9b178fbcad1a4afbfaef68b89c` |
 | [14](BOARD_14.png) | 053–056 | 1671 × 941 | [BOARD_13](BOARD_13.png), [BOARD_01](BOARD_01.png), HOME_KITCHEN, HOME_PORCH | `d96d67cd87fec97f625454e034849031e0c6291d78a5cb0ad81f24240142e720` |
+| [15](BOARD_15.png) | 057–060 | 1671 × 941 | [BOARD_14](BOARD_14.png) | `49e615d153cf474e9a0224161d8e748839e54fc7b26f6f6a343d0e548fbecad7` |
