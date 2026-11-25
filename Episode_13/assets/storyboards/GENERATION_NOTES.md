@@ -266,6 +266,33 @@ June tests the striped top on her own blue case and catches it in her palm. In t
 
 </details>
 
+<details>
+<summary>Sheet 16 · The answer Ella means · shots 061–064</summary>
+
+Ella raises her new magnifier and June answers with her striped top. June shuts the top in her blue case before Ella picks up Mabel to propose the afternoon loan.
+
+> Illustration-story. Maple House English, Episode 13, illustrated sheet 16. Continue the supplied preceding four-panel sheet into a new production sheet, replacing its four images with the NEXT four different shots. Treat the written panel directions as the source of action. Precisely 2 equal columns x 2 equal rows on a wide 16:9 landscape canvas, four full cinematic landscape frames, thin ivory cross gutter. No titles, panel labels, dialogue text, captions, logos, sound effects, extra frames or decorative text. Use four deliberately different, expressive compositions, clear eye-lines and restrained natural gestures. The camera direction describes film movement; illustrate a single decisive frame for each shot. Respect shot-specific cast; close inserts can show faces at edges or hands. Every child has one body and two hands, preserve age and scale. Warm polished stylized 3D animated family film in the look of the preceding sheet.
+>
+> Visual references: 1 = preceding episode sheet; animation, props, and scene continuity; 2 = adult cast model lineup, left to right Dan, Maya, Nina; 3 = child cast model lineup, left to right Leo, Ella, Max; 4 = June's exact design and the worn wooden duck, blue case, red and white top, magnifier.
+>
+> Dan: tall mustached dad, swept dark hair, sky-blue polo, navy trousers. Maya: dark low ponytail, plum shirt and cream trousers. Nina: short wavy auburn bob, teal blouse and tan trousers. Leo is tallest child, 12, chestnut hair, orange T-shirt, navy shorts, orange sneakers. Ella 9: brown twin braids, coral tee, full-length blue denim overalls, coral sneakers. Max 7: shortest, little auburn-haired boy in green T-shirt, tan shorts and green canvas sneakers with WHITE laces.
+>
+> June is Ella’s age, dark tight curls, warm complexion and freckles, mustard hoodie, dark trousers, off-white canvas tote. The single hand-sized worn painted yellow wooden duck Mabel has one orange beak, worn cheek thumbprint and four red disc wheels. Green-handled round magnifier, red-and-white striped wooden spinning top, plain rectangular SILVER tin plus removable lid, smaller BLUE hinged pencil case. The swap table lives beneath a window: Ella's end left, June's right, green felt window side and exposed wood aisle side; bench near entry. At home the porch door is blue.
+>
+> Specific direction: Show just one lasting exchange: Ella's striped red-white wooden top goes to June; June's green magnifier goes to Ella. In panel 1 top still sits on Ella's palm; panel 2 the two girls accept. Panel 3 June snaps the blue case containing the top. Mabel belongs to Ella throughout this sheet.
+>
+> TOP LEFT / 061 / The answer Ella means / COMMUNITY_SWAP_ROOM / ELLA, JUNE, MAYA. Camera: From behind Maya, hold on Ella picking up the top one more time by its short spindle. Depict: Ella rolls the familiar stripes between her fingers. She thinks about where that top is going and smiles at the idea of June's dad making a terrible guess. She holds it out to June. Continuity: The top stays on Ella's open palm until June accepts it in the next shot. End state: Ella says yes to the permanent trade. She is offering the top because she wants to.
+>
+> TOP RIGHT / 062 / A swap that sticks / COMMUNITY_SWAP_ROOM / ELLA, JUNE, LEO. Camera: Over the bare strip, echo the first switch. This time both girls look up at one another before they take the objects. Depict: June accepts the top from Ella and gives her the green-handled glass. Ella holds the glass up like a little green handshake. June answers with one tilt of her new top. Continuity: This is the one lasting trade of the day. End state: June owns the striped top. Ella owns the green-handled magnifier. Mabel still belongs to Ella.
+>
+> BOTTOM LEFT / 063 / What fits this afternoon / COMMUNITY_SWAP_ROOM / JUNE, MAX, NINA. Camera: Stay with June as she opens the hinged blue case and settles the top on its side in the empty space. Depict: June closes her pencil case over the top. Max listens to the familiar snap, shuts his eyes too late and announces the easy answer. Nina taps his shoulder when he can look again. Continuity: Ella keeps the magnifier. Nina's silver tin is empty and closed at the left end. End state: June's top is inside her shut blue pencil case. She lowers the case into her canvas tote.
+>
+> BOTTOM RIGHT / 064 / What about a second sound? / COMMUNITY_SWAP_ROOM / ELLA, JUNE, DAN. Camera: From the aisle, show Mabel still on the green felt while June has both hands free. Depict: June is pleased with the deal and ready to pack. Ella rolls Mabel once from the felt onto the bare strip. June's head turns at the tok. Ella catches the duck and considers a new idea. Continuity: This offer follows the completed top-for-glass trade. It changes neither girl's ownership. End state: Ella offers an afternoon with Mabel for June's game. The duck is still in Ella's hand.
+>
+> FOCUSED CORRECTION: Tell the trade with four different angles emphasizing hands. Only one green magnifier and one striped top in this world. TOP LEFT close: Ella, in coral, offers the single top on her open palm, June listens. TOP RIGHT choose the instant AFTER the swap: Ella alone holds the magnifier upright near her chest like a greeting; June alone holds the top and tilts it back toward Ella. No contacting hands or double props. BOTTOM LEFT choose the instant of the audible snap, the lid of the BLUE CASE is fully shut under June's mustard-cuffed hands; the striped top is already inside, completely hidden. BOTTOM RIGHT June turns at the tok, the closed blue case has gone into her cream tote. Ella is holding the single yellow wheeled duck against her overalls after its short roll, the green magnifier near her side. The duck has never changed owners in this sequence.
+
+</details>
+
 ## File verification
 
 Each PNG was decoded and checked for dimensions, chunk integrity and four distinct image regions. Its Git blob was read back from the PR branch after publication.
@@ -287,3 +314,4 @@ Each PNG was decoded and checked for dimensions, chunk integrity and four distin
 | [13](BOARD_13.png) | 049–052 | 1670 × 941 | [BOARD_12](BOARD_12.png), [BOARD_04](BOARD_04.png) | `4e7ba2db2ad3d2fe19a0130754b60350d26c115e471bce707b35b794b395c308` |
 | [14](BOARD_14.png) | 053–056 | 1671 × 941 | [BOARD_13](BOARD_13.png), [BOARD_04](BOARD_04.png) | `a3962231c410527ca35d973b89e339a5a14b3b98152d42da1503b143e8895130` |
 | [15](BOARD_15.png) | 057–060 | 1670 × 941 | [BOARD_14](BOARD_14.png), [BOARD_04](BOARD_04.png) | `a67567d894aa42888fbd2604b178560a5e28aeff53cadb6390da4f434c0b03e6` |
+| [16](BOARD_16.png) | 061–064 | 1672 × 941 | [BOARD_15](BOARD_15.png), [BOARD_04](BOARD_04.png) | `d57a4973ed006c8b71cacd271c44b858daeee1f38828d129a6c8ddf81d193949` |

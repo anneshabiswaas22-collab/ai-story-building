@@ -1,6 +1,6 @@
 # Episode 13 storyboard — Do I Get My Duck Back?
 
-15 of 20 sheets illustrated. Read each sheet across the top row, then across the bottom row. Each panel covers one 15-second shot.
+16 of 20 sheets illustrated. Read each sheet across the top row, then across the bottom row. Each panel covers one 15-second shot.
 
 [Screenplay](STORY.md) · [Image references and checksums](assets/storyboards/GENERATION_NOTES.md)
 
@@ -21,7 +21,7 @@
 | [13](#board-13) | 12:00–13:00 | 049–052 | A noise that looks pink |
 | [14](#board-14) | 13:00–14:00 | 053–056 | A bee in a lunchbox |
 | [15](#board-15) | 14:00–15:00 | 057–060 | June's blue roof |
-| 16 · pending | 15:00–16:00 | 061–064 | The answer Ella means |
+| [16](#board-16) | 15:00–16:00 | 061–064 | The answer Ella means |
 | 17 · pending | 16:00–17:00 | 065–068 | Until three |
 | 18 · pending | 17:00–18:00 | 069–072 | A tin full of something else |
 | 19 · pending | 18:00–19:00 | 073–076 | An ordinary knock |
@@ -221,3 +221,16 @@
 | Top right | [SHOT_058 · June takes a turn](STORY.md#shot-058) | 14:15–14:30 |
 | Bottom left | [SHOT_059 · A good wrong answer](STORY.md#shot-059) | 14:30–14:45 |
 | Bottom right | [SHOT_060 · An offer with names in it](STORY.md#shot-060) | 14:45–15:00 |
+
+<a name="board-16"></a>
+
+## Board 16 — The answer Ella means
+
+[![Episode 13, shots 061 through 064](assets/storyboards/BOARD_16.png)](assets/storyboards/BOARD_16.png)
+
+| Panel | Screenplay shot | Episode time |
+|---|---|---|
+| Top left | [SHOT_061 · The answer Ella means](STORY.md#shot-061) | 15:00–15:15 |
+| Top right | [SHOT_062 · A swap that sticks](STORY.md#shot-062) | 15:15–15:30 |
+| Bottom left | [SHOT_063 · What fits this afternoon](STORY.md#shot-063) | 15:30–15:45 |
+| Bottom right | [SHOT_064 · What about a second sound?](STORY.md#shot-064) | 15:45–16:00 |
