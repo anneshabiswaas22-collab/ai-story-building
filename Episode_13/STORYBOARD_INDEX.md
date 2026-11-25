@@ -1,6 +1,6 @@
 # Episode 13 storyboard — Do I Get My Duck Back?
 
-19 of 20 sheets illustrated. Read each sheet across the top row, then across the bottom row. Each panel covers one 15-second shot.
+20 of 20 sheets illustrated. Read each sheet across the top row, then across the bottom row. Each panel covers one 15-second shot.
 
 [Screenplay](STORY.md) · [Image references and checksums](assets/storyboards/GENERATION_NOTES.md)
 
@@ -25,7 +25,7 @@
 | [17](#board-17) | 16:00–17:00 | 065–068 | Until three |
 | [18](#board-18) | 17:00–18:00 | 069–072 | A tin full of something else |
 | [19](#board-19) | 18:00–19:00 | 073–076 | An ordinary knock |
-| 20 · pending | 19:00–20:00 | 077–080 | A sound to bring next time |
+| [20](#board-20) | 19:00–20:00 | 077–080 | A sound to bring next time |
 
 <a name="board-01"></a>
 
@@ -273,3 +273,16 @@
 | Top right | [SHOT_074 · Both of them](STORY.md#shot-074) | 18:15–18:30 |
 | Bottom left | [SHOT_075 · Four familiar wheels](STORY.md#shot-075) | 18:30–18:45 |
 | Bottom right | [SHOT_076 · What June's dad heard](STORY.md#shot-076) | 18:45–19:00 |
+
+<a name="board-20"></a>
+
+## Board 20 — A sound to bring next time
+
+[![Episode 13, shots 077 through 080](assets/storyboards/BOARD_20.png)](assets/storyboards/BOARD_20.png)
+
+| Panel | Screenplay shot | Episode time |
+|---|---|---|
+| Top left | [SHOT_077 · A sound to bring next time](STORY.md#shot-077) | 19:00–19:15 |
+| Top right | [SHOT_078 · Same table, different view](STORY.md#shot-078) | 19:15–19:30 |
+| Bottom left | [SHOT_079 · A caller with good manners](STORY.md#shot-079) | 19:30–19:45 |
+| Bottom right | [SHOT_080 · Come in, Mabel](STORY.md#shot-080) | 19:45–20:00 |
