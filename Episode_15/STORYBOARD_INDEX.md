@@ -1,6 +1,6 @@
 # Episode 15 storyboard — The Book With Two Beginnings!
 
-6 of 20 sheets illustrated. Read each sheet across the top row, then across the bottom row. Each panel covers one 15-second shot.
+7 of 20 sheets illustrated. Read each sheet across the top row, then across the bottom row. Each panel covers one 15-second shot.
 
 [Screenplay](STORY.md) · [Image references and checksums](assets/storyboards/GENERATION_NOTES.md)
 
@@ -12,7 +12,7 @@
 | [04](#board-04) | 03:00–04:00 | 013–016 | Back through the slot |
 | [05](#board-05) | 04:00–05:00 | 017–020 | Quill begins with Q |
 | [06](#board-06) | 05:00–06:00 | 021–024 | Six readers at one window |
-| 07 · pending | 06:00–07:00 | 025–028 | The yellow boat bumps the twig |
+| [07](#board-07) | 06:00–07:00 | 025–028 | The yellow boat bumps the twig |
 | 08 · pending | 07:00–08:00 | 029–032 | What does the giant want? |
 | 09 · pending | 08:00–09:00 | 033–036 | Turn the reader or turn the book? |
 | 10 · pending | 09:00–10:00 | 037–040 | Grandma's wrist |
@@ -104,3 +104,16 @@
 | Top right | [SHOT_022 · What has the beetle packed?](STORY.md#shot-022) | 05:15–05:30 |
 | Bottom left | [SHOT_023 · A table across the puddle](STORY.md#shot-023) | 05:30–05:45 |
 | Bottom right | [SHOT_024 · A table with no legs](STORY.md#shot-024) | 05:45–06:00 |
+
+<a name="board-07"></a>
+
+## Board 07 — The yellow boat bumps the twig
+
+[![Episode 15, shots 025 through 028](assets/storyboards/BOARD_07.png)](assets/storyboards/BOARD_07.png)
+
+| Panel | Screenplay shot | Episode time |
+|---|---|---|
+| Top left | [SHOT_025 · The yellow boat bumps the twig](STORY.md#shot-025) | 06:00–06:15 |
+| Top right | [SHOT_026 · Something on the rim](STORY.md#shot-026) | 06:15–06:30 |
+| Bottom left | [SHOT_027 · One clue and two ideas](STORY.md#shot-027) | 06:30–06:45 |
+| Bottom right | [SHOT_028 · A giant at the bank](STORY.md#shot-028) | 06:45–07:00 |
