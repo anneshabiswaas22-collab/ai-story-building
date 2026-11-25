@@ -1,6 +1,6 @@
 # Episode 14 storyboard — Can You Mail a Hug?
 
-6 of 20 sheets illustrated. Read each sheet across the top row, then across the bottom row. Each panel covers one 15-second shot.
+7 of 20 sheets illustrated. Read each sheet across the top row, then across the bottom row. Each panel covers one 15-second shot.
 
 [Screenplay](STORY.md) · [Image references and checksums](assets/storyboards/GENERATION_NOTES.md)
 
@@ -12,7 +12,7 @@
 | [04](#board-04) | 03:00–04:00 | 013–016 | One whole Max |
 | [05](#board-05) | 04:00–05:00 | 017–020 | Dinner for a piece of paper |
 | [06](#board-06) | 05:00–06:00 | 021–024 | Half of half |
-| 07 · pending | 06:00–07:00 | 025–028 | Roads across the yellow |
+| [07](#board-07) | 06:00–07:00 | 025–028 | Roads across the yellow |
 | 08 · pending | 07:00–08:00 | 029–032 | A pocket accordion |
 | 09 · pending | 08:00–09:00 | 033–036 | Breakfast words |
 | 10 · pending | 09:00–10:00 | 037–040 | Open wide |
@@ -104,3 +104,16 @@
 | Top right | [SHOT_022 · Eight layers, one little packet](STORY.md#shot-022) | 05:15–05:30 |
 | Bottom left | [SHOT_023 · Too many little doors](STORY.md#shot-023) | 05:30–05:45 |
 | Bottom right | [SHOT_024 · One pull](STORY.md#shot-024) | 05:45–06:00 |
+
+<a name="board-07"></a>
+
+## Board 07 — Roads across the yellow
+
+[![Episode 14, shots 025 through 028](assets/storyboards/BOARD_07.png)](assets/storyboards/BOARD_07.png)
+
+| Panel | Screenplay shot | Episode time |
+|---|---|---|
+| Top left | [SHOT_025 · Roads across the yellow](STORY.md#shot-025) | 06:00–06:15 |
+| Top right | [SHOT_026 · Seven lines, eight places](STORY.md#shot-026) | 06:15–06:30 |
+| Bottom left | [SHOT_027 · The first turn](STORY.md#shot-027) | 06:30–06:45 |
+| Bottom right | [SHOT_028 · Out and back](STORY.md#shot-028) | 06:45–07:00 |
