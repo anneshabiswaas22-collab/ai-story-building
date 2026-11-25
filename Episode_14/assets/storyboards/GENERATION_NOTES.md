@@ -172,6 +172,33 @@ The Brooks label goes in the upper-left corner. The last panel distinguishes 14 
 
 </details>
 
+<details>
+<summary>Sheet 13 · One more door · shots 049–052</summary>
+
+Max adds Apt 2B, checks the blue hand under the loose flap, and seals the envelope. Nina picks up the separate postcard.
+
+> Use case: illustration-story. Episode 14 sheet 13. Maple House English, a warm polished, cinematic, stylized 3D family film. Generate a brand-new four-shot storyboard sheet for the NEXT shots. Exactly 2 columns by 2 rows of equal wide 16:9 cinematic frames, on one wide landscape 16:9 canvas, with one hairline ivory gutter cross. Read upper left, upper right, lower left, lower right. Four different compositions, motivated gestures and screen directions, cut in for the insert indicated. No frame numbers, titles, speech balloons, captions or text outside story props. Use clear readable letters ONLY when required on an in-world prop. Follow the named cast per shot (hands or a shoulder may stand for a character in an insert). Keep the Brooks family recognizable, no twins or duplicate limbs/objects.
+>
+> References: 1 — previous sheet, exact visual continuity; 2 — adult lineup, left to right Dan, Maya, Nina; 3 — child lineup, left to right Leo, Ella, Max; 4 — oak dining table, chairs and garden window; 5 — incoming postcard artwork and address sticker.
+>
+> Dan: tall adult with swept dark hair, black mustache, sky-blue polo, navy trousers, watch on left wrist. Maya: dark low ponytail, plum tee, cream pants. Nina: wavy short auburn bob, teal top and tan trousers. Leo: tall 12-year-old in orange tee and navy shorts. Ella: age 9, brown twin braids, coral tee and full denim overalls. Max: smallest child, 7, curly auburn hair, green tee, tan shorts and green shoes. Distinct heights and proportions; two arms and hands per person.
+>
+> One paper hug from Max to Nina's father Ed: one continuous pale-yellow paper strip divided by seven alternating folds into EIGHT rectangular panels with one blue outline hand on each end and a private message on panel four. At the dining table facing the garden window: Leo left end, Ella far-left, Maya far-right, Nina right end, Max near-right, Dan near-left. A separate cream envelope is mailed ONCE from 14 Maple Lane to 8 Lantern Court, Apt 2B. One green-leaf stamp only after the post office. The siblings’ grandpa is never pictured and the tomato magnet is only a drawing on Ed’s postcard in the Brooks house.
+>
+> Direction for this sheet: 049 address insert, crop tightly to street and apartment: Max in green adds 'Apt 2B' directly below '8 Lantern Court' on the center of the cream envelope. Use the exact number/letters in both copies. 050 Nina completes the smaller remaining mailing information in fine out-of-focus handwriting while two boys each indicate one of the addresses. Legible when seen: '14 Maple Lane' upper LEFT, '8 Lantern Court' / 'Apt 2B' in the CENTER. No final street substitution. Upper RIGHT completely blank. 051 rear, very low at the still-loose open flap: Max lifts it slightly to see blue traced fingertips on the STACK still deep inside; no paper removed. 052 Max smooths the triangular flap firmly shut, Maya takes the thin peeled backing, Nina gathers the SEPARATE old postcard. No stamp yet. Use a tight rear view of the single sealing gesture.
+>
+> UPPER LEFT · shot 049 One more door · HOME_TABLE · ELLA, NINA, MAX. Camera: Over the address block. Ella covers the apartment line on the postcard with a fingertip, then lifts it. Action: Max thinks he has reached the last line he needs to copy. Ella points out the door within the building. He carefully adds the apartment line underneath the street. Continuity: Ed's apartment is 2B. Keep the number and letter together in all address inserts. End: The central address now also reads “Apt 2B.” Max passes the pen back to Nina.
+>
+> UPPER RIGHT · shot 050 Two addresses get a finger each · HOME_TABLE · MAYA, NINA, LEO, MAX. Camera: Stay on the two street lines as Nina finishes the town, state and postal code lower on the envelope. Action: Nina copies the rest of Ed's label exactly. Leo points to the family label and Max to Ed's address. Maya reads the two street names once and gives the boys the little nod that ends the check. Continuity: The full mailing name and locality are present on the envelope. Only the street and apartment lines need a close view. End: Both addresses are complete and checked against their sources. The upper-right stamp corner stays bare.
+>
+> LOWER LEFT · shot 051 Ready on the inside · HOME_TABLE · DAN, ELLA, MAX. Camera: Low at the still-loose flap. Let Max lift it just enough to see the blue cue on the outermost panel. Action: Before he closes the envelope for good, Max makes one last check. He can see the blue paper hand and his opening cue. Ella reminds him he already knows what is in the middle. He lowers the flap. Continuity: The check does not remove the packet or unfold any panel. End: Max is satisfied with the contents. The whole strip stays inside in its accordion folds.
+>
+> LOWER RIGHT · shot 052 The envelope closes · HOME_TABLE · MAYA, NINA, MAX. Camera: At tabletop height, follow the backing strip off the adhesive flap. Hold on Max pressing across the seam. Action: Maya holds the envelope still while Max peels off the narrow backing. He presses the flap from one side to the other. Nina pockets her pen and picks up the postcard. Maya gathers the backing, labels, marker and pencil. Continuity: This is the only seal. The strip stays inside until Ed opens the mail days later. End: The addressed reply is now sealed. It still needs postage. Max takes it in both hands.
+>
+> Art revision: Correct the addressed envelope in the TOP ROW ONLY. Both frames must keep the address name 'Ed' visible above '8 Lantern Court' and 'Apt 2B', as it appeared on the preceding sheet; the camera crop or the nearest hand can cover whatever follows Ed. In TOP RIGHT REMOVE the invented place 'Rivermere, CA 94028' entirely. Rest Nina's writing hand and sleeve OVER the locality line below 'Apt 2B' while she writes it, so all of the town/state/ZIP is physically concealed. There must be no readable town, state or postcode anywhere. The tiny label at upper left remains '14 Maple Lane' and upper right remains empty. In TOP LEFT Max alone holds the one writing pen and Nina’s hands are empty. Keep the two bottom panels intact.
+
+</details>
+
 ## File verification
 
 Each PNG was decoded and checked for dimensions, chunk integrity and four distinct image regions. Its Git blob was read back from the PR branch after publication.
@@ -190,3 +217,4 @@ Each PNG was decoded and checked for dimensions, chunk integrity and four distin
 | [10](BOARD_10.png) | 037–040 | 1670 × 942 | [BOARD_09](BOARD_09.png), HOME_TABLE, [BOARD_04](BOARD_04.png) | `fc093b8138d732c1673c25ef9a6a3b98f5adc75a61e8e29140278b2b5a539c93` |
 | [11](BOARD_11.png) | 041–044 | 1670 × 942 | [BOARD_10](BOARD_10.png), HOME_TABLE, [BOARD_01](BOARD_01.png), Incoming postcard from sheet 01 | `ae9548145db0805e78523ba6c3c3d8862ac831cf514286252e8fbc6f239a31b8` |
 | [12](BOARD_12.png) | 045–048 | 1672 × 941 | [BOARD_11](BOARD_11.png), HOME_TABLE, [BOARD_01](BOARD_01.png) | `6dcf2de8fbd99a616de1441ed40753bc4192b1436132982c265e14c0bfb21b51` |
+| [13](BOARD_13.png) | 049–052 | 1672 × 941 | [BOARD_12](BOARD_12.png), HOME_TABLE, [BOARD_01](BOARD_01.png) | `f109ee00b18b83ef97c8196a58925808f04d9e9b178fbcad1a4afbfaef68b89c` |

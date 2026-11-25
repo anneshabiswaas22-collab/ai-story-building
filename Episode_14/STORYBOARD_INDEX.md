@@ -1,6 +1,6 @@
 # Episode 14 storyboard — Can You Mail a Hug?
 
-12 of 20 sheets illustrated. Read each sheet across the top row, then across the bottom row. Each panel covers one 15-second shot.
+13 of 20 sheets illustrated. Read each sheet across the top row, then across the bottom row. Each panel covers one 15-second shot.
 
 [Screenplay](STORY.md) · [Image references and checksums](assets/storyboards/GENERATION_NOTES.md)
 
@@ -18,7 +18,7 @@
 | [10](#board-10) | 09:00–10:00 | 037–040 | Open wide |
 | [11](#board-11) | 10:00–11:00 | 041–044 | On the outside |
 | [12](#board-12) | 11:00–12:00 | 045–048 | Two trips across a table |
-| 13 · pending | 12:00–13:00 | 049–052 | One more door |
+| [13](#board-13) | 12:00–13:00 | 049–052 | One more door |
 | 14 · pending | 13:00–14:00 | 053–056 | Which piece stays home? |
 | 15 · pending | 14:00–15:00 | 057–060 | The slot and the counter |
 | 16 · pending | 15:00–16:00 | 061–064 | For someone with a new kitchen |
@@ -182,3 +182,16 @@
 | Top right | [SHOT_046 · Home in the little corner](STORY.md#shot-046) | 11:15–11:30 |
 | Bottom left | [SHOT_047 · A name Ed will answer to](STORY.md#shot-047) | 11:30–11:45 |
 | Bottom right | [SHOT_048 · Lane here, Court there](STORY.md#shot-048) | 11:45–12:00 |
+
+<a name="board-13"></a>
+
+## Board 13 — One more door
+
+[![Episode 14, shots 049 through 052](assets/storyboards/BOARD_13.png)](assets/storyboards/BOARD_13.png)
+
+| Panel | Screenplay shot | Episode time |
+|---|---|---|
+| Top left | [SHOT_049 · One more door](STORY.md#shot-049) | 12:00–12:15 |
+| Top right | [SHOT_050 · Two addresses get a finger each](STORY.md#shot-050) | 12:15–12:30 |
+| Bottom left | [SHOT_051 · Ready on the inside](STORY.md#shot-051) | 12:30–12:45 |
+| Bottom right | [SHOT_052 · The envelope closes](STORY.md#shot-052) | 12:45–13:00 |
