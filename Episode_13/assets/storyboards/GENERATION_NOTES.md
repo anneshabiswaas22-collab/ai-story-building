@@ -100,6 +100,33 @@ On the bench Ella has Mabel and June has the magnifier. At the window June lends
 
 </details>
 
+<details>
+<summary>Sheet 10 · A hop you can see · shots 037–040</summary>
+
+Max watches the duck at wheel height on green felt. The repeat on bare wood, Leo and Max comparing the two ends, and June’s open-handed catch carry the investigation into the wheel insert.
+
+> Illustration-story. Maple House English, Episode 13, illustrated sheet 10. Continue the supplied preceding four-panel sheet into a new production sheet, replacing its four images with the NEXT four different shots. Treat the written panel directions as the source of action. Precisely 2 equal columns x 2 equal rows on a wide 16:9 landscape canvas, four full cinematic landscape frames, thin ivory cross gutter. No titles, panel labels, dialogue text, captions, logos, sound effects, extra frames or decorative text. Use four deliberately different, expressive compositions, clear eye-lines and restrained natural gestures. The camera direction describes film movement; illustrate a single decisive frame for each shot. Respect shot-specific cast; close inserts can show faces at edges or hands. Every child has one body and two hands, preserve age and scale. Warm polished stylized 3D animated family film in the look of the preceding sheet.
+>
+> Visual references: 1 = preceding episode sheet; animation, props, and scene continuity; 2 = adult cast model lineup, left to right Dan, Maya, Nina; 3 = child cast model lineup, left to right Leo, Ella, Max; 4 = June's exact design and the worn wooden duck, blue case, red and white top, magnifier.
+>
+> Dan: tall mustached dad, swept dark hair, sky-blue polo, navy trousers. Maya: dark low ponytail, plum shirt and cream trousers. Nina: short wavy auburn bob, teal blouse and tan trousers. Leo is tallest child, 12, chestnut hair, orange T-shirt, navy shorts, orange sneakers. Ella 9: brown twin braids, coral tee, full-length blue denim overalls, coral sneakers. Max 7: shortest, little auburn-haired boy in green T-shirt, tan shorts and green canvas sneakers with WHITE laces.
+>
+> June is Ella’s age, dark tight curls, warm complexion and freckles, mustard hoodie, dark trousers, off-white canvas tote. The single hand-sized worn painted yellow wooden duck Mabel has one orange beak, worn cheek thumbprint and four red disc wheels. Green-handled round magnifier, red-and-white striped wooden spinning top, plain rectangular SILVER tin plus removable lid, smaller BLUE hinged pencil case. The swap table lives beneath a window: Ella's end left, June's right, green felt window side and exposed wood aisle side; bench near entry. At home the porch door is blue.
+>
+> Specific direction: Mabel is one hand-sized yellow wooden PULL-ALONG DUCK with orange beak and FOUR red disc wheels (two on each side, on two axles). Felt has a dull roll, bare wood gives a tok at each tail hop. Get low to read the small tilt, never have the duck fly or animate independently. No printed sound effects.
+>
+> TOP LEFT / 037 / A hop you can see / COMMUNITY_SWAP_ROOM / JUNE, ELLA, MAX. Camera: At the height of the felt, hold on the red wheels as June keeps the duck moving with one fingertip. Depict: Mabel goes quietly over the runner. Max starts to announce that she's cured, then sees the tail lift a hair and settle back. He bends until his chin is almost level with it. Continuity: The duck's movement stays the same on the felt. Only the sound is muffled. End state: No clear tok on the felt, but the tiny hop is still visible at the tail. June stops pushing.
+>
+> TOP RIGHT / 038 / The sound meets the hop / COMMUNITY_SWAP_ROOM / JUNE, ELLA, DAN. Camera: Low profile along the bare strip, then up to the two girls watching the same instant. Depict: June puts Mabel back on the wood and pushes slowly. The tail rises. Tok. Ella lays one finger on the table beside that spot. June keeps rolling to the next little rise and tok. Continuity: The silver tin and lid are clear of the path and make no sound here. End state: Two knocks on wood coincide with two small rises at the tail. The duck stops short of the tin.
+>
+> BOTTOM LEFT / 039 / The front stays level / COMMUNITY_SWAP_ROOM / MAYA, LEO, ELLA, MAX. Camera: Use a side view, parallel with the duck's path. Leave both the beak and tail visible. Depict: Leo watches the beak on the next short roll. Max watches the tail. At the catch they give Ella two different answers that fit together. Maya helps her turn the duck without losing the end they are checking. Continuity: The two front wheels remain round. The rear-left wheel carries the bump. End state: They narrow the search to the rear wheels under the tail. Ella has Mabel in her free hand.
+>
+> BOTTOM RIGHT / 040 / Backward duck / COMMUNITY_SWAP_ROOM / ELLA, JUNE, DAN. Camera: Track the beak pointing one way while Ella draws the duck slowly in the other direction. Depict: Ella sets Mabel down and rolls her backward. The same tok sounds when the tail lifts. Dan makes a tiny polite backing-up gesture to clear the path. June catches Mabel with her palm. Continuity: The body changes its travel direction. The same four wheels stay on their axles. End state: Rolling in reverse still gives the knock. June holds Mabel still for Ella to look underneath.
+>
+> FOCUSED CORRECTION: Favor four distinct angles, including a low axle-height profile of one small tail lift. Felt versus honey-colored bare wood is the visual clue. In the last frame June’s open hand catches the rolling duck; leave the markings on the wheel discreet until the next sheet.
+
+</details>
+
 ## File verification
 
 Each PNG was decoded and checked for dimensions, chunk integrity and four distinct image regions. Its Git blob was read back from the PR branch after publication.
@@ -115,3 +142,4 @@ Each PNG was decoded and checked for dimensions, chunk integrity and four distin
 | [07](BOARD_07.png) | 025–028 | 1672 × 941 | BOARD_06 | `da46eb73a416774e8d4e05d6587545a14657463ab233ba1ece07c65272e60a74` |
 | [08](BOARD_08.png) | 029–032 | 1672 × 941 | [BOARD_07](BOARD_07.png), [BOARD_04](BOARD_04.png) | `7c0ced4aabb322f7a24d8d5c8658b2f75ee3e94e1ec88985afd0968d79731552` |
 | [09](BOARD_09.png) | 033–036 | 1672 × 941 | [BOARD_08](BOARD_08.png), [BOARD_04](BOARD_04.png) | `1e32083e1c284dbafc9e457dccce2b7cda65a9d70f1f9e7bca926377077fda74` |
+| [10](BOARD_10.png) | 037–040 | 1672 × 941 | [BOARD_09](BOARD_09.png), [BOARD_04](BOARD_04.png) | `71e7779e689484060798dfa92bcf406d4deb728e21cc5115ed82c1071cbfa38b` |
