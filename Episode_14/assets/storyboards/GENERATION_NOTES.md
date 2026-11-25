@@ -276,6 +276,31 @@ The letter goes onto the scale. The last two frames show the leaf stamp separate
 
 </details>
 
+<details>
+<summary>Sheet 17 · The price of a leaf · shots 065–068</summary>
+
+Nina pays while the stamp is loose. Max attaches the single leaf to the upper-right corner and gives the envelope one last pat before it goes in the tray.
+
+> Use case: illustration-story. Episode 14 sheet 17. Maple House English, a warm polished, cinematic, stylized 3D family film. Generate a brand-new four-shot storyboard sheet for the NEXT shots. Exactly 2 columns by 2 rows of equal wide 16:9 cinematic frames, on one wide landscape 16:9 canvas, with one hairline ivory gutter cross. Read upper left, upper right, lower left, lower right. Four different compositions, motivated gestures and screen directions, cut in for the insert indicated. No frame numbers, titles, speech balloons, captions or text outside story props. Use clear readable letters ONLY when required on an in-world prop. Follow the named cast per shot (hands or a shoulder may stand for a character in an insert). Keep the Brooks family recognizable, no twins or duplicate limbs/objects.
+>
+> References: 1 — previous sheet, exact visual continuity; 2 — adult lineup, left to right Dan, Maya, Nina; 3 — child lineup, left to right Leo, Ella, Max; 4 — postal clerk with copper-colored glasses and scale/outgoing tray.
+>
+> Dan: tall adult with swept dark hair, black mustache, sky-blue polo, navy trousers, watch on left wrist. Maya: dark low ponytail, plum tee, cream pants. Nina: wavy short auburn bob, teal top and tan trousers. Leo: tall 12-year-old in orange tee and navy shorts. Ella: age 9, brown twin braids, coral tee and full denim overalls. Max: smallest child, 7, curly auburn hair, green tee, tan shorts and green shoes. Distinct heights and proportions; two arms and hands per person.
+>
+> One paper hug from Max to Nina's father Ed: one continuous pale-yellow paper strip divided by seven alternating folds into EIGHT rectangular panels with one blue outline hand on each end and a private message on panel four. At the dining table facing the garden window: Leo left end, Ella far-left, Maya far-right, Nina right end, Max near-right, Dan near-left. A separate cream envelope is mailed ONCE from 14 Maple Lane to 8 Lantern Court, Apt 2B. One green-leaf stamp only after the post office. The siblings’ grandpa is never pictured and the tomato magnet is only a drawing on Ed’s postcard in the Brooks house.
+>
+> Direction for this sheet: 065 Nina, teal, pays ONCE by card, Max anchors the single green leaf stamp on its backing; letter separate, bare upper right. 066 postage insert: Max presses one white perforated GREEN LEAF stamp onto the TOP RIGHT of the envelope front; Leo holds the EMPTY backing. Upper left remains small '14 Maple Lane' sender label, center 'Ed'/'8 Lantern Court'/'Apt 2B'. 067 same kind clerk indicates the shallow EMPTY outgoing tray BEHIND counter. The stamped letter remains in Max’s hands on his side, Nina touches his shoulder. 068 tight quiet father-mother-child farewell at low counter, Max gently pats his ONE sealed stamped envelope, Dan mustached in blue and Nina in teal wait. No one mails it until next sheet. Keep cameras distinct, omit any readable invented city or price.
+>
+> UPPER LEFT · shot 065 The price of a leaf · POST_OFFICE_COUNTER · CLERK, NINA, MAX. Camera: From Max's side of the counter, include Nina's payment hand and the loose stamp in separate parts of the frame. Action: Nina pays for the postage and returns her card to her wallet. Max keeps a finger on the stamp backing so the tiny leaf can't wander away. The clerk slides the envelope closer for him. Continuity: There is one payment for one stamp. Nina puts the wallet away. End: The postage has been paid. Max has both the loose stamp and the addressed envelope in front of him.
+>
+> UPPER RIGHT · shot 066 A corner that stays put · POST_OFFICE_COUNTER · CLERK, LEO, MAX. Camera: Directly above the upper-right corner, watch the green leaf lift from its backing and meet the cream paper. Action: Max peels the stamp, aligns it and smooths it down. Leo takes the empty backing when Max needs his hand free. The clerk turns the envelope just enough to check the front, then turns it back to him. Continuity: The leaf is upper right. The Brooks return label is upper left. There is no second stamp. End: The envelope is addressed, sealed and stamped. It remains on Max's side of the counter.
+>
+> LOWER LEFT · shot 067 Does it go today? · POST_OFFICE_COUNTER · CLERK, NINA, MAX. Camera: Medium across the counter. Let Max look from the little leaf up to the clerk before he asks his last practical question. Action: Max wants to know whether the letter will start its trip today. The clerk indicates the tray for that afternoon's outgoing mail. Nina hears what's behind the question and gives his shoulder a small squeeze. Continuity: The letter has not yet been put in the outgoing tray. End: Max knows this letter is to go with the afternoon mail. No one promises a delivery date.
+>
+> LOWER RIGHT · shot 068 The last little hold · POST_OFFICE_COUNTER · DAN, NINA, MAX. Camera: Close on Max's fingers still holding the seam, then on Nina placing her own hands in her pockets. Action: Max runs one finger over the sealed envelope. Nina lets him decide when to hand it over. Dan reminds him of Maya's face when she reached the middle. Max gives the edge one last pat. Continuity: The envelope stays sealed. Nobody adds a note or opens it at the counter. End: Max is ready to let the hug travel. His hand moves from the seam to the near edge.
+
+</details>
+
 ## File verification
 
 Each PNG was decoded and checked for dimensions, chunk integrity and four distinct image regions. Its Git blob was read back from the PR branch after publication.
@@ -298,3 +323,4 @@ Each PNG was decoded and checked for dimensions, chunk integrity and four distin
 | [14](BOARD_14.png) | 053–056 | 1671 × 941 | [BOARD_13](BOARD_13.png), [BOARD_01](BOARD_01.png), HOME_KITCHEN, HOME_PORCH | `d96d67cd87fec97f625454e034849031e0c6291d78a5cb0ad81f24240142e720` |
 | [15](BOARD_15.png) | 057–060 | 1671 × 941 | [BOARD_14](BOARD_14.png) | `49e615d153cf474e9a0224161d8e748839e54fc7b26f6f6a343d0e548fbecad7` |
 | [16](BOARD_16.png) | 061–064 | 1670 × 941 | [BOARD_15](BOARD_15.png) | `1d689bb8818e1240194b4b524a7b301c7e52fff6a042e5bef94ea1fc67f83ca2` |
+| [17](BOARD_17.png) | 065–068 | 1672 × 941 | [BOARD_16](BOARD_16.png), [BOARD_15](BOARD_15.png) | `499d0b80177eb61e7d562afdde42a393940b5879cd943d69f43616e2d1aa6f9b` |
