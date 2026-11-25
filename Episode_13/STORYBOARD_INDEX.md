@@ -1,6 +1,6 @@
 # Episode 13 storyboard — Do I Get My Duck Back?
 
-16 of 20 sheets illustrated. Read each sheet across the top row, then across the bottom row. Each panel covers one 15-second shot.
+17 of 20 sheets illustrated. Read each sheet across the top row, then across the bottom row. Each panel covers one 15-second shot.
 
 [Screenplay](STORY.md) · [Image references and checksums](assets/storyboards/GENERATION_NOTES.md)
 
@@ -22,7 +22,7 @@
 | [14](#board-14) | 13:00–14:00 | 053–056 | A bee in a lunchbox |
 | [15](#board-15) | 14:00–15:00 | 057–060 | June's blue roof |
 | [16](#board-16) | 15:00–16:00 | 061–064 | The answer Ella means |
-| 17 · pending | 16:00–17:00 | 065–068 | Until three |
+| [17](#board-17) | 16:00–17:00 | 065–068 | Until three |
 | 18 · pending | 17:00–18:00 | 069–072 | A tin full of something else |
 | 19 · pending | 18:00–19:00 | 073–076 | An ordinary knock |
 | 20 · pending | 19:00–20:00 | 077–080 | A sound to bring next time |
@@ -234,3 +234,16 @@
 | Top right | [SHOT_062 · A swap that sticks](STORY.md#shot-062) | 15:15–15:30 |
 | Bottom left | [SHOT_063 · What fits this afternoon](STORY.md#shot-063) | 15:30–15:45 |
 | Bottom right | [SHOT_064 · What about a second sound?](STORY.md#shot-064) | 15:45–16:00 |
+
+<a name="board-17"></a>
+
+## Board 17 — Until three
+
+[![Episode 13, shots 065 through 068](assets/storyboards/BOARD_17.png)](assets/storyboards/BOARD_17.png)
+
+| Panel | Screenplay shot | Episode time |
+|---|---|---|
+| Top left | [SHOT_065 · Until three](STORY.md#shot-065) | 16:00–16:15 |
+| Top right | [SHOT_066 · Which blue door?](STORY.md#shot-066) | 16:15–16:30 |
+| Bottom left | [SHOT_067 · Mabel goes visiting](STORY.md#shot-067) | 16:30–16:45 |
+| Bottom right | [SHOT_068 · A wave from the hallway](STORY.md#shot-068) | 16:45–17:00 |

@@ -293,6 +293,33 @@ Ella raises her new magnifier and June answers with her striped top. June shuts 
 
 </details>
 
+<details>
+<summary>Sheet 17 · Until three · shots 065–068</summary>
+
+June packs Mabel beside the closed blue pencil case. The beak peeks out as she waves goodbye, while Ella’s green magnifier stays at the swap table.
+
+> Illustration-story. Maple House English, Episode 13, illustrated sheet 17. Continue the supplied preceding four-panel sheet into a new production sheet, replacing its four images with the NEXT four different shots. Treat the written panel directions as the source of action. Precisely 2 equal columns x 2 equal rows on a wide 16:9 landscape canvas, four full cinematic landscape frames, thin ivory cross gutter. No titles, panel labels, dialogue text, captions, logos, sound effects, extra frames or decorative text. Use four deliberately different, expressive compositions, clear eye-lines and restrained natural gestures. The camera direction describes film movement; illustrate a single decisive frame for each shot. Respect shot-specific cast; close inserts can show faces at edges or hands. Every child has one body and two hands, preserve age and scale. Warm polished stylized 3D animated family film in the look of the preceding sheet.
+>
+> Visual references: 1 = preceding episode sheet; animation, props, and scene continuity; 2 = adult cast model lineup, left to right Dan, Maya, Nina; 3 = child cast model lineup, left to right Leo, Ella, Max; 4 = June's exact design and the worn wooden duck, blue case, red and white top, magnifier.
+>
+> Dan: tall mustached dad, swept dark hair, sky-blue polo, navy trousers. Maya: dark low ponytail, plum shirt and cream trousers. Nina: short wavy auburn bob, teal blouse and tan trousers. Leo is tallest child, 12, chestnut hair, orange T-shirt, navy shorts, orange sneakers. Ella 9: brown twin braids, coral tee, full-length blue denim overalls, coral sneakers. Max 7: shortest, little auburn-haired boy in green T-shirt, tan shorts and green canvas sneakers with WHITE laces.
+>
+> June is Ella’s age, dark tight curls, warm complexion and freckles, mustard hoodie, dark trousers, off-white canvas tote. The single hand-sized worn painted yellow wooden duck Mabel has one orange beak, worn cheek thumbprint and four red disc wheels. Green-handled round magnifier, red-and-white striped wooden spinning top, plain rectangular SILVER tin plus removable lid, smaller BLUE hinged pencil case. The swap table lives beneath a window: Ella's end left, June's right, green felt window side and exposed wood aisle side; bench near entry. At home the porch door is blue.
+>
+> Specific direction: The duck is a NEW, TIME-LIMITED loan, independent of the finished top-for-glass trade. Mabel goes inside June's cream canvas tote BESIDE the closed blue pencil case with the striped top inside it. The green magnifier stays by Nina's silver tin with Ella. No invented receipts/addresses; June's mom remains off screen.
+>
+> TOP LEFT / 065 / Until three / COMMUNITY_SWAP_ROOM / ELLA, JUNE, NINA. Camera: Medium two-shot along the table. Let Ella set the glass down and hold Mabel with both hands while she makes the offer. Depict: Ella offers to lend June the duck until three that afternoon. She waits. June asks a question of her own before putting a finger on the toy. Continuity: The green-handled magnifier rests beside Nina's closed silver tin at the left end. End state: June would like to borrow the duck and wants to know exactly where to return her.
+>
+> TOP RIGHT / 066 / Which blue door? / COMMUNITY_SWAP_ROOM / ELLA, JUNE, MAYA, DAN. Camera: From the end of the table, include Dan's little wave as June remembers the Brookses' porch. Depict: Ella says to bring Mabel to the Brookses' blue front door. June knows the porch and remembers seeing Dan there waving with both hands. He demonstrates the same wave with unnecessary precision. Continuity: June knows the house. No address, receipt or deposit is needed. End state: The girls have settled on the Brookses' blue front door at three that afternoon.
+>
+> BOTTOM LEFT / 067 / Mabel goes visiting / COMMUNITY_SWAP_ROOM / ELLA, JUNE, MAX. Camera: This time frame Ella herself putting the duck into June's offered hands, with the tote below them. Depict: June repeats the plan. Ella hands over Mabel. June slips the duck gently into her tote beside the closed blue case. A little of the yellow beak shows this time. Ella likes seeing it there. Continuity: The top rides inside the blue case. The duck rides beside the case in the tote. End state: June carries the borrowed duck and her own top. Ella will see Mabel again at three.
+>
+> BOTTOM RIGHT / 068 / A wave from the hallway / COMMUNITY_SWAP_ROOM / JUNE, ELLA, DAN, LEO. Camera: Stay inside the swap room as June heads into the adjoining hallway. Find the yellow beak once more before she turns. Depict: June spots her mom farther down the hall and says goodbye. Dan gives the famous two-hand wave. Then he lowers one hand and gives the yellow beak a little wave all its own. Continuity: June's mom stays beyond the doorway and has no dialogue. End state: June leaves the room with Mabel for the afternoon. The Brookses are ready to go home.
+>
+> FOCUSED CORRECTION: Stage 065 at the table, Ella holds Mabel as she offers the loan; June’s hands stay back, waiting. 066 Dan stands behind the girls demonstrating his silly two-handed wave. 067 close over the mouth of June’s OFF-WHITE TOTE: one closed blue pencil case already inside with top safely hidden, and NEXT TO IT the wooden duck is being slipped in by June, the duck’s head and orange beak visible above the bag wall. Keep its red wheels down in the bag. One duck only. 068 wide room: June walks into the hall carrying THAT tote, one orange beak peeking out, she glances back, Dan gives his two-hand wave, Ella stays by her own green magnifier and the unmarked silver tin. No unknown adults or mother in the doorway; save the family porch for later.
+
+</details>
+
 ## File verification
 
 Each PNG was decoded and checked for dimensions, chunk integrity and four distinct image regions. Its Git blob was read back from the PR branch after publication.
@@ -315,3 +342,4 @@ Each PNG was decoded and checked for dimensions, chunk integrity and four distin
 | [14](BOARD_14.png) | 053–056 | 1671 × 941 | [BOARD_13](BOARD_13.png), [BOARD_04](BOARD_04.png) | `a3962231c410527ca35d973b89e339a5a14b3b98152d42da1503b143e8895130` |
 | [15](BOARD_15.png) | 057–060 | 1670 × 941 | [BOARD_14](BOARD_14.png), [BOARD_04](BOARD_04.png) | `a67567d894aa42888fbd2604b178560a5e28aeff53cadb6390da4f434c0b03e6` |
 | [16](BOARD_16.png) | 061–064 | 1672 × 941 | [BOARD_15](BOARD_15.png), [BOARD_04](BOARD_04.png) | `d57a4973ed006c8b71cacd271c44b858daeee1f38828d129a6c8ddf81d193949` |
+| [17](BOARD_17.png) | 065–068 | 1670 × 941 | [BOARD_16](BOARD_16.png), [BOARD_04](BOARD_04.png) | `a958e94d7b07b539604ca24c24cfeb3544b4530dc546e0fd342843dab6fe77cf` |
