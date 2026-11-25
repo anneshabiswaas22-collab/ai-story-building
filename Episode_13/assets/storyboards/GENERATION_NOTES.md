@@ -154,6 +154,33 @@ The magnified insert shows a single yellow dab on the rolling surface of the red
 
 </details>
 
+<details>
+<summary>Sheet 12 · A noise she gets to keep · shots 045–048</summary>
+
+June examines her thumb with the returned magnifier. Dan gives his croak at the open doorway while Ella notices the striped top beside the silver lid.
+
+> Illustration-story. Maple House English, Episode 13, illustrated sheet 12. Continue the supplied preceding four-panel sheet into a new production sheet, replacing its four images with the NEXT four different shots. Treat the written panel directions as the source of action. Precisely 2 equal columns x 2 equal rows on a wide 16:9 landscape canvas, four full cinematic landscape frames, thin ivory cross gutter. No titles, panel labels, dialogue text, captions, logos, sound effects, extra frames or decorative text. Use four deliberately different, expressive compositions, clear eye-lines and restrained natural gestures. The camera direction describes film movement; illustrate a single decisive frame for each shot. Respect shot-specific cast; close inserts can show faces at edges or hands. Every child has one body and two hands, preserve age and scale. Warm polished stylized 3D animated family film in the look of the preceding sheet.
+>
+> Visual references: 1 = preceding episode sheet; animation, props, and scene continuity; 2 = adult cast model lineup, left to right Dan, Maya, Nina; 3 = child cast model lineup, left to right Leo, Ella, Max; 4 = June's exact design and the worn wooden duck, blue case, red and white top, magnifier.
+>
+> Dan: tall mustached dad, swept dark hair, sky-blue polo, navy trousers. Maya: dark low ponytail, plum shirt and cream trousers. Nina: short wavy auburn bob, teal blouse and tan trousers. Leo is tallest child, 12, chestnut hair, orange T-shirt, navy shorts, orange sneakers. Ella 9: brown twin braids, coral tee, full-length blue denim overalls, coral sneakers. Max 7: shortest, little auburn-haired boy in green T-shirt, tan shorts and green canvas sneakers with WHITE laces.
+>
+> June is Ella’s age, dark tight curls, warm complexion and freckles, mustard hoodie, dark trousers, off-white canvas tote. The single hand-sized worn painted yellow wooden duck Mabel has one orange beak, worn cheek thumbprint and four red disc wheels. Green-handled round magnifier, red-and-white striped wooden spinning top, plain rectangular SILVER tin plus removable lid, smaller BLUE hinged pencil case. The swap table lives beneath a window: Ella's end left, June's right, green felt window side and exposed wood aisle side; bench near entry. At home the porch door is blue.
+>
+> Specific direction: Ella keeps the worn duck unaltered. Separate the earlier short loan of a green magnifier (now back in June's hand) from any future trade. Dan is doing a frog impression in the fourth frame but this is still the real swap room: no frog, zipper monster, flashback or cutaway father.
+>
+> TOP LEFT / 045 / A noise she gets to keep / COMMUNITY_SWAP_ROOM / DAN, ELLA, JUNE, MAX. Camera: Close on the duck standing on all four wheels. Rise to Ella considering Dan's question. Depict: Dan asks whether Ella wants to smooth out the bump someday. Ella puts a protective fingertip on the yellow cheek. Max listens to the last tiny roll she gives it. Continuity: Nobody alters the paint, the bump or the wheel. End state: Ella chooses to keep the sound. Mabel stays exactly as she was.
+>
+> TOP RIGHT / 046 / Glass back, as promised / COMMUNITY_SWAP_ROOM / ELLA, JUNE, NINA. Camera: Stay on the lens as Ella lifts it from the felt by its handle and returns it to June. Depict: Ella finishes her inspection and hands June the glass. June accepts it and looks at her own thumbprint for the first time that morning. Nina moves her open silver tin toward her end. Continuity: No permanent trade has yet been agreed. The striped top still belongs to Ella. End state: June has her magnifier back. The short loan for the inspection is complete.
+>
+> BOTTOM LEFT / 047 / The unsolved part / COMMUNITY_SWAP_ROOM / ELLA, JUNE, MAYA. Camera: Follow June's gaze past the returning lens to the duck tucked close to Ella. Depict: June is pleased about the paint and a little disappointed about her game. Ella asks what makes a good sound to take home. Maya stays at the other end and listens. Continuity: No offer of the duck is on the table during this conversation. End state: Ella learns the fun for June is hearing her dad's wrong guesses before he gets it right.
+>
+> BOTTOM RIGHT / 048 / The day the zipper won / COMMUNITY_SWAP_ROOM / JUNE, ELLA, DAN. Camera: Medium on June telling the story with a slow zipper gesture and a splendidly serious imitation of a frog. Depict: June remembers a zipper sending her dad down the wrong track. Dan answers with a frog croak, then steps into the hall for a drink of water. Ella notices the striped top resting beside Nina's silver lid. Continuity: June voices her own impression. Her dad stays off screen and unheard. End state: Ella decides to try her top as a mystery sound. Dan is out in the hall, beyond earshot.
+>
+> FOCUSED CORRECTION: Use four distinct stages. 045 Ella touches Mabel's worn cheek. 046 show the instant after the handover: June alone holds the single green magnifier up to her thumb, Ella’s hands are empty near her own duck; the open silver tin is at Nina’s end. 047 let June tell Ella about her dad in a two-shot. 048 show mustached Dan in sky-blue polo at the hallway threshold with his cheeks puffed as he croaks, and Ella in foreground looking down to the red-and-white striped top resting BESIDE a separate flat silver lid. The duck remains intact and belongs with Ella.
+
+</details>
+
 ## File verification
 
 Each PNG was decoded and checked for dimensions, chunk integrity and four distinct image regions. Its Git blob was read back from the PR branch after publication.
@@ -171,3 +198,4 @@ Each PNG was decoded and checked for dimensions, chunk integrity and four distin
 | [09](BOARD_09.png) | 033–036 | 1672 × 941 | [BOARD_08](BOARD_08.png), [BOARD_04](BOARD_04.png) | `1e32083e1c284dbafc9e457dccce2b7cda65a9d70f1f9e7bca926377077fda74` |
 | [10](BOARD_10.png) | 037–040 | 1672 × 941 | [BOARD_09](BOARD_09.png), [BOARD_04](BOARD_04.png) | `71e7779e689484060798dfa92bcf406d4deb728e21cc5115ed82c1071cbfa38b` |
 | [11](BOARD_11.png) | 041–044 | 1672 × 941 | [BOARD_10](BOARD_10.png), [BOARD_04](BOARD_04.png) | `3d56fd27bf99c9e07e9892c768653bbb2a63a7164e63f8f003675cbd25d619bc` |
+| [12](BOARD_12.png) | 045–048 | 1671 × 941 | [BOARD_11](BOARD_11.png), [BOARD_04](BOARD_04.png) | `62bdf899861900311f03aebedc95883715b071824c0e8e48a235670439c3fa04` |
