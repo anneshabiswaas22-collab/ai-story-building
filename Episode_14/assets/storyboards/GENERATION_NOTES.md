@@ -301,6 +301,33 @@ Nina pays while the stamp is loose. Max attaches the single leaf to the upper-ri
 
 </details>
 
+<details>
+<summary>Sheet 18 · Off to Lantern Court · shots 069–072</summary>
+
+The clerk places the letter flat in the outgoing tray. Max walks out holding Maya’s hand, then stretches his empty arms over the kitchen island at home.
+
+> Use case: illustration-story. Episode 14 sheet 18. Maple House English, a warm polished, cinematic, stylized 3D family film. Generate a brand-new four-shot storyboard sheet for the NEXT shots. Exactly 2 columns by 2 rows of equal wide 16:9 cinematic frames, on one wide landscape 16:9 canvas, with one hairline ivory gutter cross. Read upper left, upper right, lower left, lower right. Four different compositions, motivated gestures and screen directions, cut in for the insert indicated. No frame numbers, titles, speech balloons, captions or text outside story props. Use clear readable letters ONLY when required on an in-world prop. Follow the named cast per shot (hands or a shoulder may stand for a character in an insert). Keep the Brooks family recognizable, no twins or duplicate limbs/objects.
+>
+> References: 1 — previous sheet, exact visual continuity; 2 — unchanged original adult and child model lineups, top Dan Maya Nina and bottom Leo Ella Max; 3 — the family's sage kitchen, island and rear-left fridge; 4 — Brooks porch with blue door; 5 — postal clerk with copper-colored glasses and scale/outgoing tray.
+>
+> Dan: tall adult with swept dark hair, black mustache, sky-blue polo, navy trousers, watch on left wrist. Maya: dark low ponytail, plum tee, cream pants. Nina: wavy short auburn bob, teal top and tan trousers. Leo: tall 12-year-old in orange tee and navy shorts. Ella: age 9, brown twin braids, coral tee and full denim overalls. Max: smallest child, 7, curly auburn hair, green tee, tan shorts and green shoes. Distinct heights and proportions; two arms and hands per person.
+>
+> One paper hug from Max to Nina's father Ed: one continuous pale-yellow paper strip divided by seven alternating folds into EIGHT rectangular panels with one blue outline hand on each end and a private message on panel four. At the dining table facing the garden window: Leo left end, Ella far-left, Maya far-right, Nina right end, Max near-right, Dan near-left. A separate cream envelope is mailed ONCE from 14 Maple Lane to 8 Lantern Court, Apt 2B. One green-leaf stamp only after the post office. The siblings’ grandpa is never pictured and the tomato magnet is only a drawing on Ed’s postcard in the Brooks house.
+>
+> Direction for this sheet: 069 close on the clerk lowering the single stamped envelope FLAT INTO the shallow outgoing tray behind the counter. Only one envelope, Max on customer side waves goodbye empty-handed, Nina beside him. 070 in the lobby heading out, Ella mimes carrying something and Maya in plum takes Max's EMPTY hand for the walk, no letter, no bags. 071 exterior of Brooks home porch, cream clapboard, sage trim, closed blue door, Dan and Nina facing thoughtful Leo who raises one finger. NO postal clerk, paper or real tomato visible there. 072 same afternoon back inside the sage kitchen, Max stretches his two EMPTY arms over the bare oak island, remembering the paper length. Ella and his mothers listen. Old card is visible tiny at rear-left fridge under a gray magnet if the fridge enters frame; the mailed envelope and all yellow paper stay offscreen.
+>
+> UPPER LEFT · shot 069 Off to Lantern Court · POST_OFFICE_COUNTER · CLERK, NINA, MAX. Camera: Side-on as the envelope crosses the counter for the final time. End on the green leaf face-up in the outgoing tray. Action: Max slides his letter to the clerk. The clerk accepts it and places it flat in the tray behind the counter. Max makes a very small wave at a very small leaf, then gives the clerk a much bigger one. Continuity: This is the single mailing. The earlier handoff to the scale was only for weighing. End: The post office has accepted the one reply letter. The family leaves it in the outgoing tray.
+>
+> UPPER RIGHT · shot 070 Two empty hands · POST_OFFICE_LOBBY · MAYA, LEO, ELLA, MAX. Camera: Track away from the service window with the children. Catch Max still cupping his hands as if the envelope were there. Action: Ella tucks her own hands into the same careful carrying pose. Max looks down and lets his fingers uncurl. Maya offers him one hand for the walk home. He has plenty of room for it now. Continuity: Keep the finished letter behind at the post office. The old card is at home. End: The family heads home together. Max carries only Maya's hand through the lobby.
+>
+> LOWER LEFT · shot 071 One familiar thing · HOME_PORCH · DAN, NINA, LEO. Camera: Cut to the blue door on their return. Stay on Nina instead of following the others straight inside. Action: Nina pauses on the porch. She has yet to visit her dad's new kitchen and can't quite picture it. Leo holds up one finger. He already knows a thing they'll both recognize there. Continuity: The real tomato magnet has not been seen. Nina and Leo know it from memory and Ed's drawing. End: Nina smiles at the thought of Ed's magnet and goes inside. The one outgoing letter stays in transit.
+>
+> LOWER RIGHT · shot 072 Waiting for the middle · HOME_KITCHEN · MAYA, NINA, ELLA, MAX. Camera: Rack focus from the picture on the fridge to the empty stretch of oak where Max was measured. Action: Max holds his arms over the island once more, remembering the length that fit inside the envelope. Ella asks what he hopes Ed will find first. Max surprises her by choosing the middle over his own careful drawings. Continuity: Give this conversation its own beat before time passes. End: They leave the postcard where it is. The family has no news of the letter yet.
+>
+> Art revision: Two corrections. TOP RIGHT boy in green has exactly TWO arms. Show his LEFT arm down holding his mother's hand, and his RIGHT arm relaxed by his own right hip, palm open. Remove BOTH floating cupped hands in front of his shirt and let the green shirt be uninterrupted. Ella in coral is the one cupping her hands. BOTTOM RIGHT change only the tiny card on fridge in far background: reproduce the SECOND image’s little sketch, a whole tall gray two-door REFRIGERATOR in black pencil, with a tiny red tomato-dot on the door, gray round magnet pins card by corner. The tomato is tiny, not a whole-card botanical picture. All other panels and details stay.
+
+</details>
+
 ## File verification
 
 Each PNG was decoded and checked for dimensions, chunk integrity and four distinct image regions. Its Git blob was read back from the PR branch after publication.
@@ -324,3 +351,4 @@ Each PNG was decoded and checked for dimensions, chunk integrity and four distin
 | [15](BOARD_15.png) | 057–060 | 1671 × 941 | [BOARD_14](BOARD_14.png) | `49e615d153cf474e9a0224161d8e748839e54fc7b26f6f6a343d0e548fbecad7` |
 | [16](BOARD_16.png) | 061–064 | 1670 × 941 | [BOARD_15](BOARD_15.png) | `1d689bb8818e1240194b4b524a7b301c7e52fff6a042e5bef94ea1fc67f83ca2` |
 | [17](BOARD_17.png) | 065–068 | 1672 × 941 | [BOARD_16](BOARD_16.png), [BOARD_15](BOARD_15.png) | `499d0b80177eb61e7d562afdde42a393940b5879cd943d69f43616e2d1aa6f9b` |
+| [18](BOARD_18.png) | 069–072 | 1672 × 941 | [BOARD_17](BOARD_17.png), HOME_KITCHEN, HOME_PORCH, [BOARD_15](BOARD_15.png), [BOARD_14](BOARD_14.png) | `42d67539ff779bb11afacfaf081a2867fa9fa4ff3ce0ea790493fdbef12c8b3a` |
