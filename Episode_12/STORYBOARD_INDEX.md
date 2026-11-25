@@ -1,6 +1,6 @@
 # Episode 12 storyboard — Dad’s Shoe Is Going to School!
 
-19 of 20 sheets illustrated. Read each sheet across the top row, then across the bottom row. Each panel covers one 15-second shot.
+20 of 20 sheets illustrated. Read each sheet across the top row, then across the bottom row. Each panel covers one 15-second shot.
 
 [Screenplay](STORY.md) · [Image references and checksums](assets/storyboards/GENERATION_NOTES.md)
 
@@ -25,7 +25,7 @@
 | [17](#board-17) | 16:00–17:00 | 065–068 | After the click |
 | [18](#board-18) | 17:00–18:00 | 069–072 | The one where we're all looking |
 | [19](#board-19) | 18:00–19:00 | 073–076 | Toe first |
-| 20 · pending | 19:00–20:00 | 077–080 | The rest of that old story |
+| [20](#board-20) | 19:00–20:00 | 077–080 | The rest of that old story |
 
 <a name="board-01"></a>
 
@@ -273,3 +273,16 @@
 | Top right | [SHOT_074 · Now the faces](STORY.md#shot-074) | 18:15–18:30 |
 | Bottom left | [SHOT_075 · A yellow cushion comes home](STORY.md#shot-075) | 18:30–18:45 |
 | Bottom right | [SHOT_076 · What belongs on the right](STORY.md#shot-076) | 18:45–19:00 |
+
+<a name="board-20"></a>
+
+## Board 20 — The rest of that old story
+
+[![Episode 12, shots 077 through 080](assets/storyboards/BOARD_20.png)](assets/storyboards/BOARD_20.png)
+
+| Panel | Screenplay shot | Episode time |
+|---|---|---|
+| Top left | [SHOT_077 · The rest of that old story](STORY.md#shot-077) | 19:00–19:15 |
+| Top right | [SHOT_078 · Max tries the question](STORY.md#shot-078) | 19:15–19:30 |
+| Bottom left | [SHOT_079 · A place in the bag](STORY.md#shot-079) | 19:30–19:45 |
+| Bottom right | [SHOT_080 · A job for the other foot](STORY.md#shot-080) | 19:45–20:00 |
