@@ -132,6 +132,31 @@ The formal portrait fits all six faces. Max looks toward Leo at the shutter, the
 
 </details>
 
+<details>
+<summary>Sheet 12 · The look from the dentist · shots 045–048</summary>
+
+The enlarged playback isolates Max looking toward his brother. The last panel moves from the camera to the white bow on Max’s green sneaker.
+
+> Illustration-story. Maple House English, Episode 12, illustrated sheet 12. Continue the supplied preceding four-panel sheet into a new production sheet, replacing its four images with the NEXT four different shots. Treat the written panel directions as the source of action. Precisely 2 equal columns x 2 equal rows on a wide 16:9 landscape canvas, four full cinematic landscape frames, thin ivory cross gutter. No titles, panel labels, dialogue text, captions, logos, sound effects, extra frames or decorative text. Use four deliberately different, expressive compositions, clear eye-lines and restrained natural gestures. The camera direction describes film movement; illustrate a single decisive frame for each shot. Respect shot-specific cast; close inserts can show faces at edges or hands. Every child has one body and two hands, preserve age and scale. Warm polished stylized 3D animated family film in the look of the preceding sheet.
+>
+> Visual references: 1 = preceding episode sheet; animation, props, and scene continuity; 2 = adult cast model lineup, left to right Dan, Maya, Nina; 3 = child cast model lineup, left to right Leo, Ella, Max; 4 = clean backyard set; same black compact, a flat yellow cushion; 5 = third photo, formal portrait.
+>
+> Dan: tall mustached dad, swept dark hair, sky-blue polo, navy trousers. Maya: dark low ponytail, plum shirt and cream trousers. Nina: short wavy auburn bob, teal blouse and tan trousers. Leo is tallest child, 12, chestnut hair, orange T-shirt, navy shorts, orange sneakers. Ella 9: brown twin braids, coral tee, full-length blue denim overalls, coral sneakers. Max 7: shortest, little auburn-haired boy in green T-shirt, tan shorts and green canvas sneakers with WHITE laces.
+>
+> In the garden the door is rear-left, shade tree rear-right. The compact faces the tree on a three-legged black tripod until shot 071; from its lens Dan, Maya, Nina form the back row, Leo front-left on a yellow cushion, Max center, Ella right. The boys always mean Max's own right shoe. At the dining table facing rear window Dan near-left, Leo left end, Ella far-left, Maya far-right, Nina right end, Max near-right.
+>
+> Specific direction: The six-person formal portrait remains on the compact. In shot 046 favor an enlarged section of its LCD with green-shirt Max’s eyes looking toward orange-shirt Leo; the lens itself does not move. Only the last panel moves down onto the grass to Max's RIGHT green sneaker and white bow.
+>
+> TOP LEFT / 045 / The look from the dentist / HOME_GARDEN / DAN, MAYA, LEO, ELLA. Camera: Compare Leo on the little screen with the easier smile on the real boy standing behind it. Depict: Dan comes close to see the result. Leo makes his screen smile and Ella recognizes it immediately. Maya likes the straight rows and says so. Leo leaves the picture saved. Continuity: The formal portrait stays saved when the family tries another idea. End state: Photo three is a real option for the school page. Leo has yet to choose a picture to print.
+>
+> TOP RIGHT / 046 / Who Max was watching / HOME_GARDEN / NINA, LEO, MAX. Camera: Enlarge photo three on the playback screen just enough to see Max's eyes. Pull back to the two brothers. Depict: Nina notices the direction of Max's gaze. Leo asks about it. Max checks the live Leo beside him as though the answer should be perfectly obvious. Continuity: Leo magnifies the playback view only. The lens framing holds. End state: Leo notices what Max saw as the picture was taken. He returns playback to the full image.
+>
+> BOTTOM LEFT / 047 / One they could use / HOME_GARDEN / LEO, MAYA, DAN. Camera: Frame Leo's hand hovering over the power switch. Follow his glance toward Maya. Depict: Maya asks whether this one goes on his class page. Leo leaves the camera on and steps away from the switch. Dan takes his hand off the tripod's folding catch. Continuity: The tripod catch stays fastened. End state: The compact stays mounted facing the tree while Leo takes a break from posing.
+>
+> BOTTOM RIGHT / 048 / A little ear in the grass / HOME_GARDEN / ELLA, MAX, LEO. Camera: Travel with Max back to the cushion, then down to the white bow on his right green sneaker. Depict: Max sits on the grass beside the cushion and turns his right toe toward himself. Ella settles nearby. Leo joins them as Max flattens one loop of the tied bow until the other looks enormous. Continuity: Max touches the white bow on his own right green sneaker. End state: Max is seated with his right shoe still on and tied. Leo kneels at his side.
+
+</details>
+
 ## File verification
 
 Each PNG was decoded and checked for dimensions, chunk integrity and four distinct image regions. Its Git blob was read back from the PR branch after publication.
@@ -149,3 +174,4 @@ Each PNG was decoded and checked for dimensions, chunk integrity and four distin
 | [09](BOARD_09.png) | 033–036 | 1670 × 941 | [BOARD_08](BOARD_08.png), HOME_GARDEN | `3ce3073870abe8a21d9d6ded1d090da583cfa476296e6d3c8f32e0637e221cf5` |
 | [10](BOARD_10.png) | 037–040 | 1670 × 942 | [BOARD_09](BOARD_09.png), HOME_GARDEN | `725cfe04ee9e788894ebe3e165f0e0e460a088f311ef6f0a0c4ed70d1adfca6b` |
 | [11](BOARD_11.png) | 041–044 | 1672 × 941 | [BOARD_10](BOARD_10.png), HOME_GARDEN | `0372d94a1cec0a727f94106510eb48e33c81a63053958d8f43a9b142625d0536` |
+| [12](BOARD_12.png) | 045–048 | 1672 × 941 | [BOARD_11](BOARD_11.png), HOME_GARDEN, [BOARD_11](BOARD_11.png) | `a24df4e76432734c3c81b6e47d160eb2d2bb12b08547abbfeb0f980d725bebff` |
