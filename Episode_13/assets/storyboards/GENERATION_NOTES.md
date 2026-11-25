@@ -347,6 +347,35 @@ The magnifier travels in Nina’s silver tin, then lies on the kitchen island as
 
 </details>
 
+<details>
+<summary>Sheet 19 · An ordinary knock · shots 073–076</summary>
+
+The clock reads three at the closed blue door. On the porch June returns Mabel to Ella, keeps her blue case, and acts out her dad’s guess with two fingers.
+
+> Illustration-story. Maple House English, Episode 13, illustrated sheet 19. Continue the supplied preceding four-panel sheet into a new production sheet, replacing its four images with the NEXT four different shots. Treat the written panel directions as the source of action. Precisely 2 equal columns x 2 equal rows on a wide 16:9 landscape canvas, four full cinematic landscape frames, thin ivory cross gutter. No titles, panel labels, dialogue text, captions, logos, sound effects, extra frames or decorative text. Use four deliberately different, expressive compositions, clear eye-lines and restrained natural gestures. The camera direction describes film movement; illustrate a single decisive frame for each shot. Respect shot-specific cast; close inserts can show faces at edges or hands. Every child has one body and two hands, preserve age and scale. Warm polished stylized 3D animated family film in the look of the preceding sheet.
+>
+> Visual references: 1 = preceding episode sheet; animation, props, and scene continuity; 2 = adult cast model lineup, left to right Dan, Maya, Nina; 3 = child cast model lineup, left to right Leo, Ella, Max; 4 = June and Mabel reference; 5 = family porch and blue door.
+>
+> Dan: tall mustached dad, swept dark hair, sky-blue polo, navy trousers. Maya: dark low ponytail, plum shirt and cream trousers. Nina: short wavy auburn bob, teal blouse and tan trousers. Leo is tallest child, 12, chestnut hair, orange T-shirt, navy shorts, orange sneakers. Ella 9: brown twin braids, coral tee, full-length blue denim overalls, coral sneakers. Max 7: shortest, little auburn-haired boy in green T-shirt, tan shorts and green canvas sneakers with WHITE laces.
+>
+> June is Ella’s age, dark tight curls, warm complexion and freckles, mustard hoodie, dark trousers, off-white canvas tote. The single hand-sized worn painted yellow wooden duck Mabel has one orange beak, worn cheek thumbprint and four red disc wheels. Green-handled round magnifier, red-and-white striped wooden spinning top, plain rectangular SILVER tin plus removable lid, smaller BLUE hinged pencil case. The swap table lives beneath a window: Ella's end left, June's right, green felt window side and exposed wood aisle side; bench near entry. At home the porch door is blue.
+>
+> Specific direction: Early shots switch from inside the shut BLUE family door to outside on the cream clapboard porch with sage trim at 3:00. June returns Mabel to Ella, without handing over her blue case or striped top. Her father appears only in her words; no cutaway person, carpenter, tool or fantasy animal.
+>
+> TOP LEFT / 073 / An ordinary knock / HOME_ENTRY / DAN, MAYA, ELLA, MAX. Camera: Let two crisp knuckle taps come from the blue door. Stay inside on the four faces as they turn. Depict: Max perks up. Dan listens carefully instead of calling out to a duck in the kitchen again. Ella stands and reaches the door as the minute hand reaches three. Continuity: June makes the taps. No voice comes through the closed door. End state: Ella is ready to open the door. The first sound was two human taps.
+>
+> TOP RIGHT / 074 / Both of them / HOME_PORCH / ELLA, JUNE, DAN. Camera: Look from the porch toward the opening blue door. Reveal June, the tote and the bright beak in that order. Depict: Ella opens the door. June is there at three, with the same canvas tote and a great deal to tell. Dan starts the two-hand wave, realizes she's right in front of him, and changes it to a small hello. Continuity: Cream clapboard, sage trim, blue door and the bell at the right. June knocked by hand. End state: The girls meet again at the agreed place and time. June reaches into her tote.
+>
+> BOTTOM LEFT / 075 / Four familiar wheels / HOME_PORCH / ELLA, JUNE, MAX. Camera: At Ella's hands, show June return the duck directly to her. Follow a short roll on the porch plank between the two girls. Depict: June lifts Mabel from the tote and places her in Ella's hands. Ella rolls her a little way and catches her at the first friendly tok. Max looks under the tail, delighted to find the old yellow bump. Continuity: June's pencil case and top stay with June. Nothing needs to be swapped back now. End state: The loan is complete. Mabel is back with Ella, who holds her against her overalls.
+>
+> BOTTOM RIGHT / 076 / What June's dad heard / HOME_PORCH / JUNE, ELLA, LEO, NINA. Camera: Let June act out the guess with a little walking motion in her palm. The others build the picture from her face. Depict: June tells them her dad heard Mabel and imagined somebody tiny coming to fix his house. Ella can barely get out her question about the top. June delivers the worse guess as promised. Continuity: Only June speaks for her own story. Her dad is never seen or heard. End state: Ella hears what both toys sounded like to a fresh pair of ears. June has kept her promise about the worst guess.
+>
+> FOCUSED CORRECTION: 073 interior wide by the exact closed blue door from the preceding sheet, at three o’clock Ella rises and reaches for the inside handle at two taps; only the Brooks family inside, June still unseen. 074 exterior porch from supplied porch reference, sage trim, cream clapboard, blue door OPEN behind Ella; June stands OUTSIDE in mustard, carrying off-white tote with only the beak of her one duck and closed blue case visible. Dan waves from inside. 075 tight PORCH plank-level handoff of the actual familiar worn yellow duck from mustard-sleeved June to coral-shirted Ella in denim overalls; Max leans to look UNDER the tail at red wheels. 076 June uses two fingers walking over the palm of her other EMPTY hand to tell her funny story. Ella hugs the returned duck to her overalls; Leo and Nina can listen from the house in background. All panels in the present; the blue case stays with June, green glass stays inside in kitchen, her dad is offscreen.
+>
+> Final artwork correction: Keep the four compositions, characters, clock at 3:00, and duck handoff. BOTTOM LEFT only: remove the red-and-white spinning top entirely from our view inside June’s tote. It is safely locked INSIDE the closed blue pencil case, which is the sole object visible in the tote once Mabel is out. Fill the small vacated area with plain shadowed canvas lining. TOP LEFT: inside view of front door has hinges at viewer’s RIGHT edge. Put the brass knob and lock on its LEFT edge, opposite the hinges, as on the preceding sheet. Ella reaches naturally to that left-side handle with her near hand. Maintain all four people and the three-o’clock clock. Top right and bottom right stay as drawn.
+
+</details>
+
 ## File verification
 
 Each PNG was decoded and checked for dimensions, chunk integrity and four distinct image regions. Its Git blob was read back from the PR branch after publication.
@@ -371,3 +400,4 @@ Each PNG was decoded and checked for dimensions, chunk integrity and four distin
 | [16](BOARD_16.png) | 061–064 | 1672 × 941 | [BOARD_15](BOARD_15.png), [BOARD_04](BOARD_04.png) | `d57a4973ed006c8b71cacd271c44b858daeee1f38828d129a6c8ddf81d193949` |
 | [17](BOARD_17.png) | 065–068 | 1670 × 941 | [BOARD_16](BOARD_16.png), [BOARD_04](BOARD_04.png) | `a958e94d7b07b539604ca24c24cfeb3544b4530dc546e0fd342843dab6fe77cf` |
 | [18](BOARD_18.png) | 069–072 | 1672 × 941 | [BOARD_17](BOARD_17.png), HOME_KITCHEN, HOME_ENTRY | `f2eaf766ba9e9acff8fcc14bc7cbc980800353481579b30acb92a6eb9e2f0879` |
+| [19](BOARD_19.png) | 073–076 | 1670 × 941 | [BOARD_18](BOARD_18.png), [BOARD_04](BOARD_04.png), HOME_PORCH | `b00ad68d7102e24984edde0bc3cda06ffeb33b3f11cafdbc5af8e667d8e5619d` |
