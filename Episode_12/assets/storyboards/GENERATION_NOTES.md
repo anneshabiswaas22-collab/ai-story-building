@@ -207,6 +207,31 @@ Leo offers the ends back to Max. The close-up shows their shared attempt, follow
 
 </details>
 
+<details>
+<summary>Sheet 15 · One more, by myself · shots 057–060</summary>
+
+Ella brings Leo to the camera, where the live view shows the adults with Max and an open place beside the cushion. Leo asks Max before starting another timer.
+
+> Illustration-story. Maple House English, Episode 12, illustrated sheet 15. Continue the supplied preceding four-panel sheet into a new production sheet, replacing its four images with the NEXT four different shots. Treat the written panel directions as the source of action. Precisely 2 equal columns x 2 equal rows on a wide 16:9 landscape canvas, four full cinematic landscape frames, thin ivory cross gutter. No titles, panel labels, dialogue text, captions, logos, sound effects, extra frames or decorative text. Use four deliberately different, expressive compositions, clear eye-lines and restrained natural gestures. The camera direction describes film movement; illustrate a single decisive frame for each shot. Respect shot-specific cast; close inserts can show faces at edges or hands. Every child has one body and two hands, preserve age and scale. Warm polished stylized 3D animated family film in the look of the preceding sheet.
+>
+> Visual references: 1 = preceding episode sheet; animation, props, and scene continuity; 2 = adult cast model lineup, left to right Dan, Maya, Nina; 3 = child cast model lineup, left to right Leo, Ella, Max; 4 = clean backyard set; same black compact, a flat yellow cushion; 5 = third photo, formal portrait.
+>
+> Dan: tall mustached dad, swept dark hair, sky-blue polo, navy trousers. Maya: dark low ponytail, plum shirt and cream trousers. Nina: short wavy auburn bob, teal blouse and tan trousers. Leo is tallest child, 12, chestnut hair, orange T-shirt, navy shorts, orange sneakers. Ella 9: brown twin braids, coral tee, full-length blue denim overalls, coral sneakers. Max 7: shortest, little auburn-haired boy in green T-shirt, tan shorts and green canvas sneakers with WHITE laces.
+>
+> In the garden the door is rear-left, shade tree rear-right. The compact faces the tree on a three-legged black tripod until shot 071; from its lens Dan, Maya, Nina form the back row, Leo front-left on a yellow cushion, Max center, Ella right. The boys always mean Max's own right shoe. At the dining table facing rear window Dan near-left, Leo left end, Ella far-left, Maya far-right, Nina right end, Max near-right.
+>
+> Specific direction: The uneven assisted white bow is still tied on Max's right green sneaker. Show the siblings' and Ella's different viewpoints, then the decision to ask Max. The black compact remains attached to its tripod. No new exposure or print on this sheet.
+>
+> TOP LEFT / 057 / One more, by myself / HOME_GARDEN / LEO, MAX. Camera: Tight two-shot on the seated Max and his kneeling brother, their hands well clear of the bow. Depict: Max strokes the short loop without undoing it. He wants another try and one particular person beside him. Leo turns all the way toward him before answering. Continuity: The assisted bow stays tied while the brothers talk. End state: Max wants to make the next bow on his own. Leo agrees to sit with him.
+>
+> TOP RIGHT / 058 / What Ella sees / HOME_GARDEN / DAN, MAYA, NINA, LEO, ELLA, MAX. Camera: Start beside the unoccupied camera, then move to Ella's face as she sights along its side. Depict: Ella walks to the tripod and sights along it. The brothers sit close on the grass. The three adults lean down in a loose arc. When she calls Leo over, he checks with Max. Max waves him toward Ella. Continuity: Ella sights along the camera from beside it. End state: Ella spots another possible photograph and calls Leo's attention to it. Max leaves his bow tied.
+>
+> BOTTOM LEFT / 059 / There's the picture / HOME_GARDEN / LEO, ELLA. Camera: Over the siblings at the tripod. Show a live view with Max low in the picture and room at his side. Depict: Leo comes to the compact. Ella switches from describing the scene to just pointing. Leo leaves playback and sees the family around a small green shoe, with a gap he knows how to fill. Continuity: The camera is in live view again. No shutter click here. End state: Leo likes the idea for a fourth photograph. Ella leaves the shutter to him.
+>
+> BOTTOM RIGHT / 060 / Ask the person in the picture / HOME_GARDEN / LEO, MAX, NINA. Camera: From between the camera and the tree, see Leo call to Max and wait for a real answer. Depict: Leo asks before taking a picture of Max trying again. Nina sits back so Max can look straight at his brother. Max makes his one condition very clear. Continuity: Leo waits for Max's answer at the tripod. End state: Max agrees to the photograph and wants Leo in it with him. Nobody has started the timer.
+
+</details>
+
 ## File verification
 
 Each PNG was decoded and checked for dimensions, chunk integrity and four distinct image regions. Its Git blob was read back from the PR branch after publication.
@@ -227,3 +252,4 @@ Each PNG was decoded and checked for dimensions, chunk integrity and four distin
 | [12](BOARD_12.png) | 045–048 | 1672 × 941 | [BOARD_11](BOARD_11.png), HOME_GARDEN, [BOARD_11](BOARD_11.png) | `a24df4e76432734c3c81b6e47d160eb2d2bb12b08547abbfeb0f980d725bebff` |
 | [13](BOARD_13.png) | 049–052 | 1672 × 941 | [BOARD_12](BOARD_12.png), HOME_GARDEN | `7317355678b81028c0617718ab5d3447839bc41e1c849d245a25a476cbd5c4a1` |
 | [14](BOARD_14.png) | 053–056 | 1671 × 941 | [BOARD_13](BOARD_13.png), HOME_GARDEN | `49dfd666983a30def36960af9a6dfc0767896477c6093fc87549bfe18d7bd591` |
+| [15](BOARD_15.png) | 057–060 | 1670 × 941 | [BOARD_14](BOARD_14.png), HOME_GARDEN, [BOARD_11](BOARD_11.png) | `f8bb89c37f5b9383ec111b42b154823097922d22f9fcf8a39b833f1c5c008107` |
