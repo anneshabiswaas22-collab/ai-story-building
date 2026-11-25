@@ -1,6 +1,6 @@
 # Episode 13 storyboard — Do I Get My Duck Back?
 
-12 of 20 sheets illustrated. Read each sheet across the top row, then across the bottom row. Each panel covers one 15-second shot.
+13 of 20 sheets illustrated. Read each sheet across the top row, then across the bottom row. Each panel covers one 15-second shot.
 
 [Screenplay](STORY.md) · [Image references and checksums](assets/storyboards/GENERATION_NOTES.md)
 
@@ -18,7 +18,7 @@
 | [10](#board-10) | 09:00–10:00 | 037–040 | A hop you can see |
 | [11](#board-11) | 10:00–11:00 | 041–044 | Which back wheel? |
 | [12](#board-12) | 11:00–12:00 | 045–048 | A noise she gets to keep |
-| 13 · pending | 12:00–13:00 | 049–052 | A noise that looks pink |
+| [13](#board-13) | 12:00–13:00 | 049–052 | A noise that looks pink |
 | 14 · pending | 13:00–14:00 | 053–056 | A bee in a lunchbox |
 | 15 · pending | 14:00–15:00 | 057–060 | June's blue roof |
 | 16 · pending | 15:00–16:00 | 061–064 | The answer Ella means |
@@ -182,3 +182,16 @@
 | Top right | [SHOT_046 · Glass back, as promised](STORY.md#shot-046) | 11:15–11:30 |
 | Bottom left | [SHOT_047 · The unsolved part](STORY.md#shot-047) | 11:30–11:45 |
 | Bottom right | [SHOT_048 · The day the zipper won](STORY.md#shot-048) | 11:45–12:00 |
+
+<a name="board-13"></a>
+
+## Board 13 — A noise that looks pink
+
+[![Episode 13, shots 049 through 052](assets/storyboards/BOARD_13.png)](assets/storyboards/BOARD_13.png)
+
+| Panel | Screenplay shot | Episode time |
+|---|---|---|
+| Top left | [SHOT_049 · A noise that looks pink](STORY.md#shot-049) | 12:00–12:15 |
+| Top right | [SHOT_050 · A tiny accidental ting](STORY.md#shot-050) | 12:15–12:30 |
+| Bottom left | [SHOT_051 · A roof for the music](STORY.md#shot-051) | 12:30–12:45 |
+| Bottom right | [SHOT_052 · Somebody lend me an ear](STORY.md#shot-052) | 12:45–13:00 |

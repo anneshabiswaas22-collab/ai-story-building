@@ -181,6 +181,33 @@ June examines her thumb with the returned magnifier. Dan gives his croak at the 
 
 </details>
 
+<details>
+<summary>Sheet 13 · A noise that looks pink · shots 049–052</summary>
+
+The top first spins on bare wood and then strikes the separate silver lid. Nina closes the tin, and Dan faces away from the table as Ella prepares the next spin.
+
+> Illustration-story. Maple House English, Episode 13, illustrated sheet 13. Continue the supplied preceding four-panel sheet into a new production sheet, replacing its four images with the NEXT four different shots. Treat the written panel directions as the source of action. Precisely 2 equal columns x 2 equal rows on a wide 16:9 landscape canvas, four full cinematic landscape frames, thin ivory cross gutter. No titles, panel labels, dialogue text, captions, logos, sound effects, extra frames or decorative text. Use four deliberately different, expressive compositions, clear eye-lines and restrained natural gestures. The camera direction describes film movement; illustrate a single decisive frame for each shot. Respect shot-specific cast; close inserts can show faces at edges or hands. Every child has one body and two hands, preserve age and scale. Warm polished stylized 3D animated family film in the look of the preceding sheet.
+>
+> Visual references: 1 = preceding episode sheet; animation, props, and scene continuity; 2 = adult cast model lineup, left to right Dan, Maya, Nina; 3 = child cast model lineup, left to right Leo, Ella, Max; 4 = June's exact design and the worn wooden duck, blue case, red and white top, magnifier.
+>
+> Dan: tall mustached dad, swept dark hair, sky-blue polo, navy trousers. Maya: dark low ponytail, plum shirt and cream trousers. Nina: short wavy auburn bob, teal blouse and tan trousers. Leo is tallest child, 12, chestnut hair, orange T-shirt, navy shorts, orange sneakers. Ella 9: brown twin braids, coral tee, full-length blue denim overalls, coral sneakers. Max 7: shortest, little auburn-haired boy in green T-shirt, tan shorts and green canvas sneakers with WHITE laces.
+>
+> June is Ella’s age, dark tight curls, warm complexion and freckles, mustard hoodie, dark trousers, off-white canvas tote. The single hand-sized worn painted yellow wooden duck Mabel has one orange beak, worn cheek thumbprint and four red disc wheels. Green-handled round magnifier, red-and-white striped wooden spinning top, plain rectangular SILVER tin plus removable lid, smaller BLUE hinged pencil case. The swap table lives beneath a window: Ella's end left, June's right, green felt window side and exposed wood aisle side; bench near entry. At home the porch door is blue.
+>
+> Specific direction: The red/white wooden spinning top stays on the bare tabletop for the first spin. In panel 2 it grazes the separate lift-off rectangular silver lid. Only panel 3 closes lid onto the base to create a flat resonator; Mabel waits on green felt. Panel 4 Dan’s back is toward the table, eyes closed.
+>
+> TOP LEFT / 049 / A noise that looks pink / COMMUNITY_SWAP_ROOM / ELLA, JUNE, LEO, MAX. Camera: Close on the top as Ella takes it off the felt and spins it on the wood near the open silver tin. Depict: The stripes turn pink again. June puts an ear down but can hardly hear the top. Max keeps his eyes shut and hazards a guess based entirely on how little is happening in his ears. Continuity: The first spin for June is on wood, within a few inches of Nina's separate silver lid. End state: The top is spinning on bare wood. The girls enjoy the sight much more than the sound.
+>
+> TOP RIGHT / 050 / A tiny accidental ting / COMMUNITY_SWAP_ROOM / ELLA, JUNE, LEO. Camera: Hold down at the point of the slowing top. Let its falling spindle just touch the rim of the loose lid. Depict: The top leans, slides and comes to rest against Nina's silver lid with a bright ting. June's eyes open at the sound. Leo makes room for the idea by sliding the empty tin base toward Ella. Continuity: Only the last touch of the leaning spindle makes the ting. End state: The spin has ended. The girls have heard a metal sound that carries across the table.
+>
+> BOTTOM LEFT / 051 / A roof for the music / COMMUNITY_SWAP_ROOM / NINA, ELLA, JUNE. Camera: Over Ella's shoulder as the flat silver lid seats on the empty rectangular tin. Depict: Ella explains her idea to Nina, who puts the lid on firmly and centers the closed tin on the wood. June gets Mabel out of the way and parks her on the green felt beside Ella. Continuity: The lid is right side up on its own base. The duck stays on the felt clear of the game. End state: A closed, empty silver tin offers a level metal surface. Ella has the top ready in one hand.
+>
+> BOTTOM RIGHT / 052 / Somebody lend me an ear / COMMUNITY_SWAP_ROOM / DAN, MAYA, ELLA, JUNE. Camera: At the doorway, frame Maya facing Dan as he returns from the hall. The swap table is behind him. Depict: Maya catches Dan at the door and turns him gently toward her before he sees the table. Ella calls for a guesser. He closes his eyes. Maya tests him with a silent fish face. Continuity: Maya's fish face makes no noise. Dan has not seen the tin-and-top setup. End state: Dan is facing away with his eyes shut. Ella's fingers are poised over the metal lid.
+>
+> FOCUSED CORRECTION: Stage the props in sequence. 049 a single spinning red-and-white top with its tip directly on wood, June’s ear low, Max listening with closed eyes. 050 extreme tabletop close-up: the same top has tipped sideways and its striped body actually touches the edge of a DETACHED thin silver lid lying flat; a hand slides the separate empty metal base at the far side. 051 Nina seats that lid on the base; Ella holds the stopped top, Mabel parked at left on green felt. 052 deep staging: Ella, poised over the tin in the foreground, beyond her Maya meets Dan at the door, Dan’s back is turned to the table, eyes shut, facing Maya’s silent fish face.
+
+</details>
+
 ## File verification
 
 Each PNG was decoded and checked for dimensions, chunk integrity and four distinct image regions. Its Git blob was read back from the PR branch after publication.
@@ -199,3 +226,4 @@ Each PNG was decoded and checked for dimensions, chunk integrity and four distin
 | [10](BOARD_10.png) | 037–040 | 1672 × 941 | [BOARD_09](BOARD_09.png), [BOARD_04](BOARD_04.png) | `71e7779e689484060798dfa92bcf406d4deb728e21cc5115ed82c1071cbfa38b` |
 | [11](BOARD_11.png) | 041–044 | 1672 × 941 | [BOARD_10](BOARD_10.png), [BOARD_04](BOARD_04.png) | `3d56fd27bf99c9e07e9892c768653bbb2a63a7164e63f8f003675cbd25d619bc` |
 | [12](BOARD_12.png) | 045–048 | 1671 × 941 | [BOARD_11](BOARD_11.png), [BOARD_04](BOARD_04.png) | `62bdf899861900311f03aebedc95883715b071824c0e8e48a235670439c3fa04` |
+| [13](BOARD_13.png) | 049–052 | 1670 × 941 | [BOARD_12](BOARD_12.png), [BOARD_04](BOARD_04.png) | `4e7ba2db2ad3d2fe19a0130754b60350d26c115e471bce707b35b794b395c308` |
