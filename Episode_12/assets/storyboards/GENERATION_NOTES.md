@@ -82,6 +82,31 @@ Leo switches to the ten-second timer, walks the route while Maya taps the beat, 
 
 </details>
 
+<details>
+<summary>Sheet 10 · A smile Max can keep · shots 037–040</summary>
+
+Ella’s fixed grin and Dan’s raised chin lead into the quieter moment when Leo lets go of the tripod.
+
+> Illustration-story. Maple House English, Episode 12, illustrated sheet 10. Continue the supplied preceding four-panel sheet into a new production sheet, replacing its four images with the NEXT four different shots. Treat the written panel directions as the source of action. Precisely 2 equal columns x 2 equal rows on a wide 16:9 landscape canvas, four full cinematic landscape frames, thin ivory cross gutter. No titles, panel labels, dialogue text, captions, logos, sound effects, extra frames or decorative text. Use four deliberately different, expressive compositions, clear eye-lines and restrained natural gestures. The camera direction describes film movement; illustrate a single decisive frame for each shot. Respect shot-specific cast; close inserts can show faces at edges or hands. Every child has one body and two hands, preserve age and scale. Warm polished stylized 3D animated family film in the look of the preceding sheet.
+>
+> Visual references: 1 = preceding episode sheet; animation, props, and scene continuity; 2 = adult cast model lineup, left to right Dan, Maya, Nina; 3 = child cast model lineup, left to right Leo, Ella, Max; 4 = clean backyard set; same black compact, a flat yellow cushion.
+>
+> Dan: tall mustached dad, swept dark hair, sky-blue polo, navy trousers. Maya: dark low ponytail, plum shirt and cream trousers. Nina: short wavy auburn bob, teal blouse and tan trousers. Leo is tallest child, 12, chestnut hair, orange T-shirt, navy shorts, orange sneakers. Ella 9: brown twin braids, coral tee, full-length blue denim overalls, coral sneakers. Max 7: shortest, little auburn-haired boy in green T-shirt, tan shorts and green canvas sneakers with WHITE laces.
+>
+> In the garden the door is rear-left, shade tree rear-right. The compact faces the tree on a three-legged black tripod until shot 071; from its lens Dan, Maya, Nina form the back row, Leo front-left on a yellow cushion, Max center, Ella right. The boys always mean Max's own right shoe. At the dining table facing rear window Dan near-left, Leo left end, Ella far-left, Maya far-right, Nina right end, Max near-right.
+>
+> Specific direction: Visual jokes depend on faces and timing. Ella's exaggerated grin breaks Max up; Dan's neck stretches comically; the mood then quiets as Nina notices Leo's tense grip. The tripod stays planted throughout.
+>
+> TOP LEFT / 037 / A smile Max can keep / HOME_GARDEN / ELLA, MAX, NINA. Camera: Stay close on Max while Ella's practiced portrait smile changes very slowly. Depict: Ella demonstrates a huge grin. Max tries one and loses it when Ella speaks through clenched teeth. Nina sits back on her heels to watch their faces come loose. Continuity: Max's green sneakers are both tied during the formal portrait. End state: Max chooses a smaller, comfortable smile. Nina rises to her back-right place.
+>
+> TOP RIGHT / 038 / The family chin / HOME_GARDEN / DAN, MAYA, LEO. Camera: Medium profile on Dan, with Leo passing on his way back to the tripod. Depict: Dan tries to follow two portrait tips at once. His chin rises while his shoulders sink until he looks surprised by his own neck. Maya tips her face toward him and he turns naturally. Continuity: Leo leaves the cushion flat as he goes back to the tripod. End state: Dan is standing comfortably. Leo is back at the shutter.
+>
+> BOTTOM LEFT / 039 / Who calls it? / HOME_GARDEN / LEO, ELLA, MAYA, MAX. Camera: Two-shot at the tripod as Ella checks in, with the front-left gap over her shoulder. Depict: Ella steps over to ask whether she should count out loud. Leo watches Max's shoulders pull up at the word “count.” He suggests just letting the little light blink. Continuity: Ella returns to front-right before the timer starts. End state: Ella heads back to front-right. The family will let the timer run quietly.
+>
+> BOTTOM RIGHT / 040 / One less job to carry / HOME_GARDEN / NINA, LEO. Camera: Stay beside Leo at the tripod. Nina comes from the tree into the near plane, then walks back to her mark. Depict: Nina steps over to see why Leo is still gripping the tripod. She nods toward his empty place under the tree. His grip loosens enough for the tripod to stand on its own. Continuity: The compact stands by itself, still facing the same marks. End state: Nina takes back-right. Leo is ready to start the long timer.
+
+</details>
+
 ## File verification
 
 Each PNG was decoded and checked for dimensions, chunk integrity and four distinct image regions. Its Git blob was read back from the PR branch after publication.
@@ -97,3 +122,4 @@ Each PNG was decoded and checked for dimensions, chunk integrity and four distin
 | [07](BOARD_07.png) | 025–028 | 1672 × 941 | HOME_GARDEN, BOARD_05 | `bf2302a034e05c3fbd9b2b3dd510a1247acd9a5c5a6bb70050c7dc998c41ec5b` |
 | [08](BOARD_08.png) | 029–032 | 1671 × 941 | BOARD_07 | `86e778406c0b4e311aa7bd30240c2ac46ea927285668277ace44f66065f68318` |
 | [09](BOARD_09.png) | 033–036 | 1670 × 941 | [BOARD_08](BOARD_08.png), HOME_GARDEN | `3ce3073870abe8a21d9d6ded1d090da583cfa476296e6d3c8f32e0637e221cf5` |
+| [10](BOARD_10.png) | 037–040 | 1670 × 942 | [BOARD_09](BOARD_09.png), HOME_GARDEN | `725cfe04ee9e788894ebe3e165f0e0e460a088f311ef6f0a0c4ed70d1adfca6b` |
