@@ -259,6 +259,31 @@ The live view shows five family members and Leo’s empty cushion while he adjus
 
 </details>
 
+<details>
+<summary>Sheet 17 · After the click · shots 065–068</summary>
+
+Max tightens the two loops himself and lifts his hands to see whether the bow holds. He and Dan test it with a stamp.
+
+> Illustration-story. Maple House English, Episode 12, illustrated sheet 17. Continue the supplied preceding four-panel sheet into a new production sheet, replacing its four images with the NEXT four different shots. Treat the written panel directions as the source of action. Precisely 2 equal columns x 2 equal rows on a wide 16:9 landscape canvas, four full cinematic landscape frames, thin ivory cross gutter. No titles, panel labels, dialogue text, captions, logos, sound effects, extra frames or decorative text. Use four deliberately different, expressive compositions, clear eye-lines and restrained natural gestures. The camera direction describes film movement; illustrate a single decisive frame for each shot. Respect shot-specific cast; close inserts can show faces at edges or hands. Every child has one body and two hands, preserve age and scale. Warm polished stylized 3D animated family film in the look of the preceding sheet.
+>
+> Visual references: 1 = preceding episode sheet; animation, props, and scene continuity; 2 = adult cast model lineup, left to right Dan, Maya, Nina; 3 = child cast model lineup, left to right Leo, Ella, Max; 4 = clean backyard set; same black compact, a flat yellow cushion.
+>
+> Dan: tall mustached dad, swept dark hair, sky-blue polo, navy trousers. Maya: dark low ponytail, plum shirt and cream trousers. Nina: short wavy auburn bob, teal blouse and tan trousers. Leo is tallest child, 12, chestnut hair, orange T-shirt, navy shorts, orange sneakers. Ella 9: brown twin braids, coral tee, full-length blue denim overalls, coral sneakers. Max 7: shortest, little auburn-haired boy in green T-shirt, tan shorts and green canvas sneakers with WHITE laces.
+>
+> In the garden the door is rear-left, shade tree rear-right. The compact faces the tree on a three-legged black tripod until shot 071; from its lens Dan, Maya, Nina form the back row, Leo front-left on a yellow cushion, Max center, Ella right. The boys always mean Max's own right shoe. At the dining table facing rear window Dan near-left, Leo left end, Ella far-left, Maya far-right, Nina right end, Max near-right.
+>
+> Specific direction: The click has already happened. Max finishes the white bow on his own RIGHT green sneaker with his own two hands. Leo's open hands stay on his own knees or well away. Make the transition from one loose loop to a tied, slightly uneven bow visible across shots.
+>
+> TOP LEFT / 065 / After the click / HOME_GARDEN / LEO, MAX, ELLA. Camera: Stay on the same white loop through the cut. Keep the camera out of the frame and Leo's idle hands inside it. Depict: Max hears the shutter and almost looks away. The first loop starts to slip. He catches it himself, wraps the other lace and eases a fold through. Ella holds back a cheer while he changes his grip. Continuity: Leo's fingers stay off the lace all the way through this attempt. End state: Max has both loops between his own fingers. Nobody else has touched the lace on this attempt.
+>
+> TOP RIGHT / 066 / Two ears that stay / HOME_GARDEN / DAN, LEO, MAX, NINA. Camera: Hold close for the last tug. Rise with Max's hands as he lifts them clear and spreads all ten fingers. Depict: Max pulls both loops snug and takes his fingers away. One loop flops to the side. It stays tied. Nina waits until he has checked it for himself before she starts to smile. Continuity: The uneven bow is on Max's right shoe and holds by itself. End state: His right shoe now has the unassisted bow. Max and Leo have both let it be lopsided.
+>
+> BOTTOM LEFT / 067 / What the photographer saw / HOME_GARDEN / LEO, MAX, MAYA. Camera: Frame Leo's eyes and the little bow together. Let Max look past him at the distant tripod. Depict: Max realizes the click came too soon to catch the tied bow. Leo swings his gaze from the bow to his brother. Maya lets them have the silence after the answer. Continuity: Photo four still shows the earlier moment, with one loop. End state: Max understands that Leo saw him finish in person. Neither asks him to tie it again.
+>
+> BOTTOM RIGHT / 068 / A noise the knot can make / HOME_GARDEN / DAN, ELLA, MAX, LEO. Camera: Low, from the grass toward Max's shoe. Stay low as a second pair of feet joins it. Depict: Max stands and stamps once, lightly, to see if the bow stays. Dan answers with a stamp of his own. Ella gives their two-person shoe band a tiny round of applause. Continuity: Max tests the new bow after he has tied it. End state: Max stands on two tied shoes. Leo rises from the cushion. The fourth photo is ready to review.
+
+</details>
+
 ## File verification
 
 Each PNG was decoded and checked for dimensions, chunk integrity and four distinct image regions. Its Git blob was read back from the PR branch after publication.
@@ -281,3 +306,4 @@ Each PNG was decoded and checked for dimensions, chunk integrity and four distin
 | [14](BOARD_14.png) | 053–056 | 1671 × 941 | [BOARD_13](BOARD_13.png), HOME_GARDEN | `49dfd666983a30def36960af9a6dfc0767896477c6093fc87549bfe18d7bd591` |
 | [15](BOARD_15.png) | 057–060 | 1670 × 941 | [BOARD_14](BOARD_14.png), HOME_GARDEN, [BOARD_11](BOARD_11.png) | `f8bb89c37f5b9383ec111b42b154823097922d22f9fcf8a39b833f1c5c008107` |
 | [16](BOARD_16.png) | 061–064 | 1670 × 942 | [BOARD_15](BOARD_15.png), HOME_GARDEN | `40454ff5d3be3055b97bc9155c98d90895b749ca54c5cebe21b3ed00c590fe29` |
+| [17](BOARD_17.png) | 065–068 | 1670 × 941 | [BOARD_16](BOARD_16.png), HOME_GARDEN | `371fa34eb3aed7bf30d60963fd14a099f98a11c2dbee0e9cb575792d78d863e2` |
