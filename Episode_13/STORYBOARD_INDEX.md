@@ -1,6 +1,6 @@
 # Episode 13 storyboard — Do I Get My Duck Back?
 
-7 of 20 sheets illustrated. Read each sheet across the top row, then across the bottom row. Each panel covers one 15-second shot.
+8 of 20 sheets illustrated. Read each sheet across the top row, then across the bottom row. Each panel covers one 15-second shot.
 
 [Screenplay](STORY.md) · [Image references and checksums](assets/storyboards/GENERATION_NOTES.md)
 
@@ -13,7 +13,7 @@
 | [05](#board-05) | 04:00–05:00 | 017–020 | A duck with a name |
 | [06](#board-06) | 05:00–06:00 | 021–024 | A stripe with a secret |
 | [07](#board-07) | 06:00–07:00 | 025–028 | The rest of the sentence |
-| 08 · pending | 07:00–08:00 | 029–032 | The word on the door |
+| [08](#board-08) | 07:00–08:00 | 029–032 | The word on the door |
 | 09 · pending | 08:00–09:00 | 033–036 | Back where they belong |
 | 10 · pending | 09:00–10:00 | 037–040 | A hop you can see |
 | 11 · pending | 10:00–11:00 | 041–044 | Which back wheel? |
@@ -117,3 +117,16 @@
 | Top right | [SHOT_026 · A hand at her side](STORY.md#shot-026) | 06:15–06:30 |
 | Bottom left | [SHOT_027 · A place on the bench](STORY.md#shot-027) | 06:30–06:45 |
 | Bottom right | [SHOT_028 · How long is a switch?](STORY.md#shot-028) | 06:45–07:00 |
+
+<a name="board-08"></a>
+
+## Board 08 — The word on the door
+
+[![Episode 13, shots 029 through 032](assets/storyboards/BOARD_08.png)](assets/storyboards/BOARD_08.png)
+
+| Panel | Screenplay shot | Episode time |
+|---|---|---|
+| Top left | [SHOT_029 · The word on the door](STORY.md#shot-029) | 07:00–07:15 |
+| Top right | [SHOT_030 · A question with room after it](STORY.md#shot-030) | 07:15–07:30 |
+| Bottom left | [SHOT_031 · A quiet second](STORY.md#shot-031) | 07:30–07:45 |
+| Bottom right | [SHOT_032 · Two yeses](STORY.md#shot-032) | 07:45–08:00 |
