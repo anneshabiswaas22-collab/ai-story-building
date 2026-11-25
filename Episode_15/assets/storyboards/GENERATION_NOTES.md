@@ -99,6 +99,31 @@ Maya recognizes Dot in the upside-down sentence. She turns a single bound book f
 
 </details>
 
+<details>
+<summary>Sheet 10 · Grandma's wrist · shots 037–040</summary>
+
+Maya pauses at the question mark on Rose’s drawing and agrees to read the orange side. Dot is still wearing the patched hat on its first spread.
+
+> Use case: illustration-story. Episode 15 sheet 10. Maple House English, a warm polished, cinematic, stylized 3D family film. Generate a brand-new four-shot storyboard sheet for the NEXT shots. Exactly 2 columns by 2 rows of equal wide 16:9 cinematic frames, on one wide landscape 16:9 canvas, with one hairline ivory gutter cross. Read upper left, upper right, lower left, lower right. Four different compositions, motivated gestures and screen directions, cut in for the insert indicated. No frame numbers, titles, speech balloons, captions or text outside story props. Use clear readable letters ONLY when required on an in-world prop. Follow the named cast per shot (hands or a shoulder may stand for a character in an insert). Keep the Brooks family recognizable, no twins or duplicate limbs/objects.
+>
+> References: 1 — previous sheet, exact visual continuity; 2 — unchanged original adult and child model lineups, top Dan Maya Nina and bottom Leo Ella Max; 3 — library floor plan with right window bench, center display, self checkout and glass exit; 4 — printed beetle, yellow open hat and its three cross stitches; 5 — exact family bookmark lettering and opposed drawings.
+>
+> Dan: tall adult with swept dark hair, black mustache, sky-blue polo, navy trousers, watch on left wrist. Maya: dark low ponytail, plum tee, cream pants. Nina: wavy short auburn bob, teal top and tan trousers. Leo: tall 12-year-old in orange tee and navy shorts. Ella: age 9, brown twin braids, coral tee and full denim overalls. Max: smallest child, 7, curly auburn hair, green tee, tan shorts and green shoes. Distinct heights and proportions; two arms and hands per person.
+>
+> One reversible children’s picture book, normal single binding: GREEN cover ‘All Aboard, Beetle!’, ORANGE cover ‘Come Back, Hat!’, both by Nell Quill. Its ink-and-watercolor characters remain flat on illustrated cream pages: small dark blue beetle, golden oat crumb, child Dot with loose black curls and an ink-blue raincoat, ONE yellow hat floats upside down with its hollow crown open to sky; its green brim patch has three blue X stitches. The wordless central picture only: a leaf bridges the floating yellow brim to dry gray stone, Dot’s one finger pins the leaf to stone and her other hand steadies the brim, beetle and crumb together on stone. Cream family bookmark has opposite-facing childhood drawings: Rose’s boat and Maya’s hat, with a pencil question mark by the boat. Loose public reader card is white.
+>
+> Direction for this sheet: 037 Stay at right library bench, Maya in plum mimes Grandma Ruth's little wrist turn over the CLOSED orange book. Dan and Nina listen. No flashback or grandma on screen. 038 close over Ella’s shoulder: recreate the exact narrow cream loose bookmark from last input, 'ROSE' and tiny yellow boat with question mark beside it, upside-down 'MAYA' and patched hat at other end. Maya’s thumb hesitates in air and nothing is erased. 039 Max points at the orange front while Nina's navy tote stays at her feet, Maya keeps the book at the bench. 040 open orange cover for the FIRST watercolor spread: Dot, a girl with black curls and a blue raincoat, is WEARING her one yellow brimmed sunhat with green patch as she counts puddles after rain, a reed bent by a breeze. The hat hasn't blown off. Arms free. The Brookses read this art printed on cream pages. Four compositions, at least one close prop insert and one character reaction.
+>
+> UPPER LEFT · shot 037 Grandma's wrist · LIBRARY_FOYER · MAYA, DAN, NINA. Camera: Stay on Maya's hands resting at opposite corners of the closed book. Show a small turn of one wrist. Action: Maya remembers watching her mother move the book in one practiced motion when Rose climbed into the reading chair after supper. She'd always assumed Ruth was straightening it. Continuity: The family recalls the reading chair in dialogue. The picture stays at the library bench. End: Maya understands the little turn she saw between her reading time and Rose's.
+>
+> UPPER RIGHT · shot 038 That pencil question mark · LIBRARY_FOYER · LEO, ELLA, MAYA. Camera: Hold the bookmark by the orange cover. Let Maya's fingertip hesitate at the little question mark. Action: Ella asks whether the mark meant Maya was curious. Maya remembers being less generous than that. She rubs the side of her own thumb instead of rubbing out the pencil. Continuity: The question mark is on the family's loose bookmark. All library pages stay unmarked. End: Maya admits she added the mark because she'd told Rose her boat wasn't in the story.
+>
+> LOWER LEFT · shot 039 The part she might have missed · LIBRARY_FOYER · DAN, MAYA, NINA, MAX. Camera: Frame Maya ready to put the book in the bag, then follow Max's finger toward the orange cover. Action: Maya is tempted to take her discovery straight home. Max still wants to know what Dot was doing with that giant hand. Nina suggests getting to the same landing from Dot's side. Continuity: The book stays at the bench. The navy bag remains at Nina's feet. End: Maya agrees to read her own beginning and see whether her memory is complete.
+>
+> LOWER RIGHT · shot 040 A girl, a hat and a breeze · LIBRARY_FOYER · MAYA, ELLA, MAX. Camera: Open the orange cover to its first spread. Start on a loose curl below the brim and tilt to a bent reed behind Dot. Action: Dot is counting puddles after the rain. Her favorite hat doesn't cover all her hair. Maya reads in the voice she once used for this girl. Ella catches the bent reed before Dot seems to notice the wind. Continuity: Dot is printed in ink and watercolor with an ink-blue raincoat and loose black curls. End: Orange spread one is open. Dot is wearing the hat and has both hands free.
+
+</details>
+
 ## File verification
 
 Each PNG was decoded and checked for dimensions, chunk integrity and four distinct image regions. Its Git blob was read back from the PR branch after publication.
@@ -114,3 +139,4 @@ Each PNG was decoded and checked for dimensions, chunk integrity and four distin
 | [07](BOARD_07.png) | 025–028 | 1671 × 941 | BOARD_06, LIBRARY_FOYER | `23cc54fc894b9e07598f920cf3aa6e330e373af03d8fe7ea1fde9327ea27d691` |
 | [08](BOARD_08.png) | 029–032 | 1672 × 941 | [BOARD_07](BOARD_07.png), LIBRARY_FOYER, [BOARD_07](BOARD_07.png) | `83d50d4271bf3390aaa276ef6d9b99c07d36b313309f3d6f34ccd56970c0ac29` |
 | [09](BOARD_09.png) | 033–036 | 1670 × 941 | [BOARD_08](BOARD_08.png), LIBRARY_FOYER, [BOARD_07](BOARD_07.png), [BOARD_06](BOARD_06.png), [BOARD_01](BOARD_01.png) | `4c50727f34502369de4908868ffdbbeae3bdf62de3f986b03c8403b7bd14cdb9` |
+| [10](BOARD_10.png) | 037–040 | 1672 × 941 | [BOARD_09](BOARD_09.png), LIBRARY_FOYER, [BOARD_07](BOARD_07.png), [BOARD_01](BOARD_01.png) | `9ae207966587540a758a90fa0583f3ff4d6cc51d92d6fc9dff10ab06e1dbba3a` |
