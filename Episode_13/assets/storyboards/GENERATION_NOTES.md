@@ -71,6 +71,35 @@ Max spots Mabel peeking out beside the blue case. June places the duck on the be
 
 </details>
 
+<details>
+<summary>Sheet 09 · Back where they belong · shots 033–036</summary>
+
+On the bench Ella has Mabel and June has the magnifier. At the window June lends the glass back to Ella and lines up Mabel on the felt.
+
+> Illustration-story. Maple House English, Episode 13, illustrated sheet 09. Continue the supplied preceding four-panel sheet into a new production sheet, replacing its four images with the NEXT four different shots. Treat the written panel directions as the source of action. Precisely 2 equal columns x 2 equal rows on a wide 16:9 landscape canvas, four full cinematic landscape frames, thin ivory cross gutter. No titles, panel labels, dialogue text, captions, logos, sound effects, extra frames or decorative text. Use four deliberately different, expressive compositions, clear eye-lines and restrained natural gestures. The camera direction describes film movement; illustrate a single decisive frame for each shot. Respect shot-specific cast; close inserts can show faces at edges or hands. Every child has one body and two hands, preserve age and scale. Warm polished stylized 3D animated family film in the look of the preceding sheet.
+>
+> Visual references: 1 = preceding episode sheet; animation, props, and scene continuity; 2 = adult cast model lineup, left to right Dan, Maya, Nina; 3 = child cast model lineup, left to right Leo, Ella, Max; 4 = June's exact design and the worn wooden duck, blue case, red and white top, magnifier.
+>
+> Dan: tall mustached dad, swept dark hair, sky-blue polo, navy trousers. Maya: dark low ponytail, plum shirt and cream trousers. Nina: short wavy auburn bob, teal blouse and tan trousers. Leo is tallest child, 12, chestnut hair, orange T-shirt, navy shorts, orange sneakers. Ella 9: brown twin braids, coral tee, full-length blue denim overalls, coral sneakers. Max 7: shortest, little auburn-haired boy in green T-shirt, tan shorts and green canvas sneakers with WHITE laces.
+>
+> June is Ella’s age, dark tight curls, warm complexion and freckles, mustard hoodie, dark trousers, off-white canvas tote. The single hand-sized worn painted yellow wooden duck Mabel has one orange beak, worn cheek thumbprint and four red disc wheels. Green-handled round magnifier, red-and-white striped wooden spinning top, plain rectangular SILVER tin plus removable lid, smaller BLUE hinged pencil case. The swap table lives beneath a window: Ella's end left, June's right, green felt window side and exposed wood aisle side; bench near entry. At home the porch door is blue.
+>
+> Specific direction: Make the two handovers intelligible: Ella returns June's green-handled lens while June rolls Mabel to Ella on the bench; later, beside the table, June lends the magnifier back for just the inspection. One each of the lens, duck, silver tin, striped top and blue case. Case stays in tote.
+>
+> TOP LEFT / 033 / Back where they belong / COMMUNITY_SWAP_ROOM / ELLA, JUNE, MAX. Camera: Follow Ella handing over the green handle. Stay down to catch June nudging the duck across the bench. Depict: Ella places the glass in June's hand. June rolls Mabel the width of her own palm into Ella's waiting fingers. One soft knock marks the end of the exchange. Continuity: Ownership is back where it began. The striped top is still Ella's. End state: Ella has her own duck. June has her own magnifier. Max looks relieved enough for all three.
+>
+> TOP RIGHT / 034 / A smaller question / COMMUNITY_SWAP_ROOM / ELLA, JUNE. Camera: At the bench, leave a little space between the green handle and the duck. Stay on Ella while she asks. Depict: Ella turns Mabel to show June what she had wanted to see. This time she names the object, what she wants to do with it and when June will get it back. June leans in to see for herself. Continuity: June can watch the inspection and have the glass back as soon as they finish. End state: June agrees to lend the magnifier for one wheel inspection at the table.
+>
+> BOTTOM LEFT / 035 / Back to the window / COMMUNITY_SWAP_ROOM / JUNE, ELLA, MAX. Camera: Follow them back along the aisle. End on the glass changing hands at the left end of the table. Depict: June carries her tote and glass. Ella carries Mabel. Back at the wood strip, June hands Ella the lens handle-first. Max clears a long stretch of bare table with a sweep of his empty hand. Continuity: June's blue pencil case is still inside her tote. Nina's open tin, lid and Ella's top are at the table. End state: Ella holds the borrowed glass and her duck at the left end. June puts the tote at her feet.
+>
+> BOTTOM RIGHT / 036 / Take away the tabletop / COMMUNITY_SWAP_ROOM / MAYA, ELLA, JUNE, LEO. Camera: Look across the boundary between bare wood and green felt. Frame both surfaces under the same light. Depict: Maya asks what they can change while keeping the same duck. Leo lays his palm on the felt. June lines up Mabel there while Ella keeps the glass out of the way. Continuity: The duck is Ella's. She lets June handle it while they work together. End state: Mabel starts the next roll on the runner, all four wheels on the soft surface.
+>
+> FOCUSED CORRECTION: Make the custody changes unambiguous: the first bench panel ends with the duck held by Ella and the only magnifier in June’s hand. In the final panel at the window, use a true close view of the duck on felt with the glass back in Ella’s hand on a temporary loan; June stands at right.
+>
+> Final artwork correction: Change only the TOP LEFT frame to the instant after the handover on the bench. June (mustard hoodie, center) holds ONE intact magnifier upright against her chest entirely in her right hand. The green handle is a single straight handle. Ella (braids, left) cradles her one duck on her two open hands on her lap, hands entirely away from the magnifier. June's other hand draws back empty. Max watches. Remove the red and white spinning top from the bench in the far lower left of this frame and extend the plain wooden bench seat there; that top stays at the swap table seen later. Leave the other three frames as supplied, including the top at the table, the second loan and the duck on felt.
+
+</details>
+
 ## File verification
 
 Each PNG was decoded and checked for dimensions, chunk integrity and four distinct image regions. Its Git blob was read back from the PR branch after publication.
@@ -85,3 +114,4 @@ Each PNG was decoded and checked for dimensions, chunk integrity and four distin
 | [06](BOARD_06.png) | 021–024 | 1672 × 941 | BOARD_04, BOARD_01, BOARD_02 | `8dd31032003612918f1c7de97136e6a0b0ec5d2fd03958cd9e1fecfb769ad98e` |
 | [07](BOARD_07.png) | 025–028 | 1672 × 941 | BOARD_06 | `da46eb73a416774e8d4e05d6587545a14657463ab233ba1ece07c65272e60a74` |
 | [08](BOARD_08.png) | 029–032 | 1672 × 941 | [BOARD_07](BOARD_07.png), [BOARD_04](BOARD_04.png) | `7c0ced4aabb322f7a24d8d5c8658b2f75ee3e94e1ec88985afd0968d79731552` |
+| [09](BOARD_09.png) | 033–036 | 1672 × 941 | [BOARD_08](BOARD_08.png), [BOARD_04](BOARD_04.png) | `1e32083e1c284dbafc9e457dccce2b7cda65a9d70f1f9e7bca926377077fda74` |

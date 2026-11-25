@@ -1,6 +1,6 @@
 # Episode 13 storyboard — Do I Get My Duck Back?
 
-8 of 20 sheets illustrated. Read each sheet across the top row, then across the bottom row. Each panel covers one 15-second shot.
+9 of 20 sheets illustrated. Read each sheet across the top row, then across the bottom row. Each panel covers one 15-second shot.
 
 [Screenplay](STORY.md) · [Image references and checksums](assets/storyboards/GENERATION_NOTES.md)
 
@@ -14,7 +14,7 @@
 | [06](#board-06) | 05:00–06:00 | 021–024 | A stripe with a secret |
 | [07](#board-07) | 06:00–07:00 | 025–028 | The rest of the sentence |
 | [08](#board-08) | 07:00–08:00 | 029–032 | The word on the door |
-| 09 · pending | 08:00–09:00 | 033–036 | Back where they belong |
+| [09](#board-09) | 08:00–09:00 | 033–036 | Back where they belong |
 | 10 · pending | 09:00–10:00 | 037–040 | A hop you can see |
 | 11 · pending | 10:00–11:00 | 041–044 | Which back wheel? |
 | 12 · pending | 11:00–12:00 | 045–048 | A noise she gets to keep |
@@ -130,3 +130,16 @@
 | Top right | [SHOT_030 · A question with room after it](STORY.md#shot-030) | 07:15–07:30 |
 | Bottom left | [SHOT_031 · A quiet second](STORY.md#shot-031) | 07:30–07:45 |
 | Bottom right | [SHOT_032 · Two yeses](STORY.md#shot-032) | 07:45–08:00 |
+
+<a name="board-09"></a>
+
+## Board 09 — Back where they belong
+
+[![Episode 13, shots 033 through 036](assets/storyboards/BOARD_09.png)](assets/storyboards/BOARD_09.png)
+
+| Panel | Screenplay shot | Episode time |
+|---|---|---|
+| Top left | [SHOT_033 · Back where they belong](STORY.md#shot-033) | 08:00–08:15 |
+| Top right | [SHOT_034 · A smaller question](STORY.md#shot-034) | 08:15–08:30 |
+| Bottom left | [SHOT_035 · Back to the window](STORY.md#shot-035) | 08:30–08:45 |
+| Bottom right | [SHOT_036 · Take away the tabletop](STORY.md#shot-036) | 08:45–09:00 |
