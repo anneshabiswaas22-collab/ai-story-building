@@ -1,6 +1,6 @@
 # Episode 15 storyboard — The Book With Two Beginnings!
 
-16 of 20 sheets illustrated. Read each sheet across the top row, then across the bottom row. Each panel covers one 15-second shot.
+17 of 20 sheets illustrated. Read each sheet across the top row, then across the bottom row. Each panel covers one 15-second shot.
 
 [Screenplay](STORY.md) · [Image references and checksums](assets/storyboards/GENERATION_NOTES.md)
 
@@ -22,7 +22,7 @@
 | [14](#board-14) | 13:00–14:00 | 053–056 | A slash between friends |
 | [15](#board-15) | 14:00–15:00 | 057–060 | Maya's own card |
 | [16](#board-16) | 15:00–16:00 | 061–064 | A place for both bits of paper |
-| 17 · pending | 16:00–17:00 | 065–068 | What kind of question was it? |
+| [17](#board-17) | 16:00–17:00 | 065–068 | What kind of question was it? |
 | 18 · pending | 17:00–18:00 | 069–072 | Rose sees a familiar boat |
 | 19 · pending | 18:00–19:00 | 073–076 | What Maya wanted to say |
 | 20 · pending | 19:00–20:00 | 077–080 | Six little legs |
@@ -234,3 +234,16 @@
 | Top right | [SHOT_062 · One look over the shoulder](STORY.md#shot-062) | 15:15–15:30 |
 | Bottom left | [SHOT_063 · The turn in Grandma's wrist](STORY.md#shot-063) | 15:30–15:45 |
 | Bottom right | [SHOT_064 · A space by the door](STORY.md#shot-064) | 15:45–16:00 |
+
+<a name="board-17"></a>
+
+## Board 17 — What kind of question was it?
+
+[![Episode 15, shots 065 through 068](assets/storyboards/BOARD_17.png)](assets/storyboards/BOARD_17.png)
+
+| Panel | Screenplay shot | Episode time |
+|---|---|---|
+| Top left | [SHOT_065 · What kind of question was it?](STORY.md#shot-065) | 16:00–16:15 |
+| Top right | [SHOT_066 · Room for an answer](STORY.md#shot-066) | 16:15–16:30 |
+| Bottom left | [SHOT_067 · Boat end showing](STORY.md#shot-067) | 16:30–16:45 |
+| Bottom right | [SHOT_068 · Someone on the porch](STORY.md#shot-068) | 16:45–17:00 |
