@@ -237,6 +237,35 @@ Dan faces away for both guesses and then lifts the whole closed tin to look unde
 
 </details>
 
+<details>
+<summary>Sheet 15 · June's blue roof · shots 057–060</summary>
+
+June tests the striped top on her own blue case and catches it in her palm. In the last shot the top and magnifier sit side by side while both girls consider the trade.
+
+> Illustration-story. Maple House English, Episode 13, illustrated sheet 15. Continue the supplied preceding four-panel sheet into a new production sheet, replacing its four images with the NEXT four different shots. Treat the written panel directions as the source of action. Precisely 2 equal columns x 2 equal rows on a wide 16:9 landscape canvas, four full cinematic landscape frames, thin ivory cross gutter. No titles, panel labels, dialogue text, captions, logos, sound effects, extra frames or decorative text. Use four deliberately different, expressive compositions, clear eye-lines and restrained natural gestures. The camera direction describes film movement; illustrate a single decisive frame for each shot. Respect shot-specific cast; close inserts can show faces at edges or hands. Every child has one body and two hands, preserve age and scale. Warm polished stylized 3D animated family film in the look of the preceding sheet.
+>
+> Visual references: 1 = preceding episode sheet; animation, props, and scene continuity; 2 = adult cast model lineup, left to right Dan, Maya, Nina; 3 = child cast model lineup, left to right Leo, Ella, Max; 4 = June's exact design and the worn wooden duck, blue case, red and white top, magnifier.
+>
+> Dan: tall mustached dad, swept dark hair, sky-blue polo, navy trousers. Maya: dark low ponytail, plum shirt and cream trousers. Nina: short wavy auburn bob, teal blouse and tan trousers. Leo is tallest child, 12, chestnut hair, orange T-shirt, navy shorts, orange sneakers. Ella 9: brown twin braids, coral tee, full-length blue denim overalls, coral sneakers. Max 7: shortest, little auburn-haired boy in green T-shirt, tan shorts and green canvas sneakers with WHITE laces.
+>
+> June is Ella’s age, dark tight curls, warm complexion and freckles, mustard hoodie, dark trousers, off-white canvas tote. The single hand-sized worn painted yellow wooden duck Mabel has one orange beak, worn cheek thumbprint and four red disc wheels. Green-handled round magnifier, red-and-white striped wooden spinning top, plain rectangular SILVER tin plus removable lid, smaller BLUE hinged pencil case. The swap table lives beneath a window: Ella's end left, June's right, green felt window side and exposed wood aisle side; bench near entry. At home the porch door is blue.
+>
+> Specific direction: Distinguish June’s smaller hinged BLUE pencil case from Nina’s larger plain lift-off SILVER tin parked at the other end. The trial spin is performed by June on her closed BLUE case in panels 2–3. At the end set the striped top beside the green-handled lens while they discuss terms.
+>
+> TOP LEFT / 057 / June's blue roof / COMMUNITY_SWAP_ROOM / JUNE, ELLA, LEO. Camera: Follow June's free hand into her tote and back up with her small blue pencil case. Depict: June sets her magnifier on the felt at her end and brings out the blue case. She opens it to show Leo the empty inside, snaps it shut and sets it level on the bare strip. Ella lifts the top off the silver lid. Continuity: June's case has its own hinged lid. Nina's silver tin stays closed at the opposite end. End state: June's own empty blue case is closed and ready. Ella has the top. The magnifier rests by June.
+>
+> TOP RIGHT / 058 / June takes a turn / COMMUNITY_SWAP_ROOM / ELLA, JUNE, MAX. Camera: Look along the blue case so its top surface and June's fingertips are easy to see. Depict: Ella hands the top to June to try. June twists it at the middle of the blue case. A higher, thinner buzz comes off the smaller box. Max turns his head as if a very small plane has gone by. Continuity: This is a trial of the top. Ella still owns it while June tests it. End state: June's spin is steady on her own case. She can make the mystery sound at home.
+>
+> BOTTOM LEFT / 059 / A good wrong answer / COMMUNITY_SWAP_ROOM / JUNE, ELLA, MAX, LEO. Camera: Stay close as the blue case gives its last little rattle and June catches the falling top. Depict: June keeps the case on the table for the whole spin. The top rattles, then drops into her waiting palm. She grins as broadly at Max's airplane as she did at Dan's bee. Continuity: June can reproduce the sound with the case she already owns. End state: June holds the stopped top after the trial. Ella can see she really wants it.
+>
+> BOTTOM RIGHT / 060 / An offer with names in it / COMMUNITY_SWAP_ROOM / JUNE, ELLA. Camera: At table height, keep both girls and both proposed items in a single two-shot. Depict: June puts the top down beside the magnifier so Ella can consider both. This time she names exactly what she'd give and what she'd like. Ella checks the length of the deal before answering. Continuity: Mabel and Nina's tin are both outside this proposed trade. End state: June has offered to trade her glass for Ella's top permanently. Neither has taken an item yet.
+>
+> FOCUSED CORRECTION: Use four distinct compositions and one of each object. 057 June opens her small blue hinged school pencil case to show Leo its empty interior, Ella picks up the top. 058 close-up on June’s mustard-cuffed fingers releasing the top onto the middle of the CLOSED BLUE case, Max in background listening. The larger silver tin is parked at Nina’s end, or leave it off frame. 059 show the stopped red-and-white top IN June’s upturned palm beside the still-closed blue case. 060 a two-shot over the tabletop; June has laid her green magnifier and the single red/white top side by side, BOTH FREE ON THE TABLE between the girls, and both girls’ hands are well clear. They are talking through the offer.
+>
+> Final artwork correction: Edit the TOP LEFT panel ONLY. Remove the plain silver tin AND its lid entirely from this close framing: continue textured green felt across the full left foreground instead. Settle Leo's hand naturally on the empty felt. The blue pencil case is now the only box in this shot, open in June's hands. Ella holds the one red/white spinning top, and June’s green glass lies nearby. The silver tin is at the far opposite end of the long table, outside this frame. All three other panels must stay exactly the same.
+
+</details>
+
 ## File verification
 
 Each PNG was decoded and checked for dimensions, chunk integrity and four distinct image regions. Its Git blob was read back from the PR branch after publication.
@@ -257,3 +286,4 @@ Each PNG was decoded and checked for dimensions, chunk integrity and four distin
 | [12](BOARD_12.png) | 045–048 | 1671 × 941 | [BOARD_11](BOARD_11.png), [BOARD_04](BOARD_04.png) | `62bdf899861900311f03aebedc95883715b071824c0e8e48a235670439c3fa04` |
 | [13](BOARD_13.png) | 049–052 | 1670 × 941 | [BOARD_12](BOARD_12.png), [BOARD_04](BOARD_04.png) | `4e7ba2db2ad3d2fe19a0130754b60350d26c115e471bce707b35b794b395c308` |
 | [14](BOARD_14.png) | 053–056 | 1671 × 941 | [BOARD_13](BOARD_13.png), [BOARD_04](BOARD_04.png) | `a3962231c410527ca35d973b89e339a5a14b3b98152d42da1503b143e8895130` |
+| [15](BOARD_15.png) | 057–060 | 1670 × 941 | [BOARD_14](BOARD_14.png), [BOARD_04](BOARD_04.png) | `a67567d894aa42888fbd2604b178560a5e28aeff53cadb6390da4f434c0b03e6` |
