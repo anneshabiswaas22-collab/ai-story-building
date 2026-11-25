@@ -1,6 +1,6 @@
 # Episode 14 storyboard — Can You Mail a Hug?
 
-11 of 20 sheets illustrated. Read each sheet across the top row, then across the bottom row. Each panel covers one 15-second shot.
+12 of 20 sheets illustrated. Read each sheet across the top row, then across the bottom row. Each panel covers one 15-second shot.
 
 [Screenplay](STORY.md) · [Image references and checksums](assets/storyboards/GENERATION_NOTES.md)
 
@@ -17,7 +17,7 @@
 | [09](#board-09) | 08:00–09:00 | 033–036 | Breakfast words |
 | [10](#board-10) | 09:00–10:00 | 037–040 | Open wide |
 | [11](#board-11) | 10:00–11:00 | 041–044 | On the outside |
-| 12 · pending | 11:00–12:00 | 045–048 | Two trips across a table |
+| [12](#board-12) | 11:00–12:00 | 045–048 | Two trips across a table |
 | 13 · pending | 12:00–13:00 | 049–052 | One more door |
 | 14 · pending | 13:00–14:00 | 053–056 | Which piece stays home? |
 | 15 · pending | 14:00–15:00 | 057–060 | The slot and the counter |
@@ -169,3 +169,16 @@
 | Top right | [SHOT_042 · The trip the postcard took](STORY.md#shot-042) | 10:15–10:30 |
 | Bottom left | [SHOT_043 · Return it?](STORY.md#shot-043) | 10:30–10:45 |
 | Bottom right | [SHOT_044 · What comes back?](STORY.md#shot-044) | 10:45–11:00 |
+
+<a name="board-12"></a>
+
+## Board 12 — Two trips across a table
+
+[![Episode 14, shots 045 through 048](assets/storyboards/BOARD_12.png)](assets/storyboards/BOARD_12.png)
+
+| Panel | Screenplay shot | Episode time |
+|---|---|---|
+| Top left | [SHOT_045 · Two trips across a table](STORY.md#shot-045) | 11:00–11:15 |
+| Top right | [SHOT_046 · Home in the little corner](STORY.md#shot-046) | 11:15–11:30 |
+| Bottom left | [SHOT_047 · A name Ed will answer to](STORY.md#shot-047) | 11:30–11:45 |
+| Bottom right | [SHOT_048 · Lane here, Court there](STORY.md#shot-048) | 11:45–12:00 |

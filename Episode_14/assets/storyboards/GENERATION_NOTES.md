@@ -147,6 +147,31 @@ The used postcard shows Nina’s address on the right and Ed’s sticker beneath
 
 </details>
 
+<details>
+<summary>Sheet 12 · Two trips across a table · shots 045–048</summary>
+
+The Brooks label goes in the upper-left corner. The last panel distinguishes 14 Maple Lane on that label from 8 Lantern Court in the center of the reply.
+
+> Use case: illustration-story. Episode 14 sheet 12. Maple House English, a warm polished, cinematic, stylized 3D family film. Generate a brand-new four-shot storyboard sheet for the NEXT shots. Exactly 2 columns by 2 rows of equal wide 16:9 cinematic frames, on one wide landscape 16:9 canvas, with one hairline ivory gutter cross. Read upper left, upper right, lower left, lower right. Four different compositions, motivated gestures and screen directions, cut in for the insert indicated. No frame numbers, titles, speech balloons, captions or text outside story props. Use clear readable letters ONLY when required on an in-world prop. Follow the named cast per shot (hands or a shoulder may stand for a character in an insert). Keep the Brooks family recognizable, no twins or duplicate limbs/objects.
+>
+> References: 1 — previous sheet, exact visual continuity; 2 — adult lineup, left to right Dan, Maya, Nina; 3 — child lineup, left to right Leo, Ella, Max; 4 — oak dining table, chairs and garden window; 5 — incoming postcard artwork and address sticker.
+>
+> Dan: tall adult with swept dark hair, black mustache, sky-blue polo, navy trousers, watch on left wrist. Maya: dark low ponytail, plum tee, cream pants. Nina: wavy short auburn bob, teal top and tan trousers. Leo: tall 12-year-old in orange tee and navy shorts. Ella: age 9, brown twin braids, coral tee and full denim overalls. Max: smallest child, 7, curly auburn hair, green tee, tan shorts and green shoes. Distinct heights and proportions; two arms and hands per person.
+>
+> One paper hug from Max to Nina's father Ed: one continuous pale-yellow paper strip divided by seven alternating folds into EIGHT rectangular panels with one blue outline hand on each end and a private message on panel four. At the dining table facing the garden window: Leo left end, Ella far-left, Maya far-right, Nina right end, Max near-right, Dan near-left. A separate cream envelope is mailed ONCE from 14 Maple Lane to 8 Lantern Court, Apt 2B. One green-leaf stamp only after the post office. The siblings’ grandpa is never pictured and the tomato magnet is only a drawing on Ed’s postcard in the Brooks house.
+>
+> Direction for this sheet: 045 overhead: on wood, distinct small used postcard by Nina and larger blank CREAM envelope by Max; two children’s fingers pretend to travel in opposite directions under Dan’s raised hand. 046 tight flat FRONT of rectangular outgoing envelope (unbroken paper, no flap lines), Max places small family return label at the UPPER LEFT, '14 Maple Lane'; CENTER and upper right still blank. 047 Nina in teal writes Ed’s full name in the CENTER with a slim pen; frame just 'Ed' with her writing hand masking the rest of the name since this story does not specify a surname. 048 Max in green copies exactly '8 Lantern Court' under the name at center, Leo indicates the source card for 'Court'. Show this central street line clearly in a tight crop, while keeping the upper right bare. No 'Apt 2B' on the reply yet. Frame any unspecified locality or family names outside the insert; use no invented address details.
+>
+> UPPER LEFT · shot 045 Two trips across a table · HOME_TABLE · DAN, LEO, MAX. Camera: Overhead on an imaginary journey between the postcard by Nina and the envelope at Max's place. Action: Leo uses one finger to follow the old card toward the family. Max sends another finger in the opposite direction for their letter. Dan lifts his hand so the two travelers can pass underneath. Continuity: Keep the real paper pieces on the table. Only fingers make the pretend trip. End: Max can say where each piece of mail starts and where it goes. He reaches for the Brooks label.
+>
+> UPPER RIGHT · shot 046 Home in the little corner · HOME_TABLE · MAYA, NINA, MAX. Camera: Tight on the upper-left corner of the envelope front. Watch one edge of the Brooks label touch down, then the other. Action: Maya hands Max the family label. He finds “14 Maple Lane” on it and presses it into the corner Nina indicated. He leaves the wide middle of the envelope clear. Continuity: The family label includes its remaining address lines. It stays on the reply envelope. End: The Brooks return label is now fixed at upper left. The middle and upper-right corner are still blank.
+>
+> LOWER LEFT · shot 047 A name Ed will answer to · HOME_TABLE · NINA, ELLA, MAX. Camera: Over Nina's shoulder as she copies the name line from Ed's little sticker to the center of the new envelope. Action: Nina takes a writing pen from her pocket and copies her father's full mailing name. Max is tickled by the thought that his grandpa ever had a name other than Grandpa. Ella points to the first two letters. Continuity: The close view favors Ed's first name and the following street line on the source sticker. End: The middle address starts with Ed's mailing name. The next line is ready for Max to copy.
+>
+> LOWER RIGHT · shot 048 Lane here, Court there · HOME_TABLE · LEO, NINA, MAX. Camera: Keep Ed's source sticker and Max's writing hand side by side. The street line comes into view as he finishes. Action: Nina passes Max the pen. He copies the number and street slowly, checking one word at a time. Leo points to the street type on the original after Max pauses at “Lantern.” Continuity: The destination is 8 Lantern Court. Fourteen Maple Lane is only the return address on this envelope. End: The next central line reads “8 Lantern Court.” There is space for Ed's apartment and locality below.
+
+</details>
+
 ## File verification
 
 Each PNG was decoded and checked for dimensions, chunk integrity and four distinct image regions. Its Git blob was read back from the PR branch after publication.
@@ -164,3 +189,4 @@ Each PNG was decoded and checked for dimensions, chunk integrity and four distin
 | [09](BOARD_09.png) | 033–036 | 1672 × 941 | [BOARD_08](BOARD_08.png), HOME_TABLE, [BOARD_04](BOARD_04.png) | `abddb9b586944dffd2d2cd46ceb5f26f7245bcd8075c52b8df9b83111ea9d97e` |
 | [10](BOARD_10.png) | 037–040 | 1670 × 942 | [BOARD_09](BOARD_09.png), HOME_TABLE, [BOARD_04](BOARD_04.png) | `fc093b8138d732c1673c25ef9a6a3b98f5adc75a61e8e29140278b2b5a539c93` |
 | [11](BOARD_11.png) | 041–044 | 1670 × 942 | [BOARD_10](BOARD_10.png), HOME_TABLE, [BOARD_01](BOARD_01.png), Incoming postcard from sheet 01 | `ae9548145db0805e78523ba6c3c3d8862ac831cf514286252e8fbc6f239a31b8` |
+| [12](BOARD_12.png) | 045–048 | 1672 × 941 | [BOARD_11](BOARD_11.png), HOME_TABLE, [BOARD_01](BOARD_01.png) | `6dcf2de8fbd99a616de1441ed40753bc4192b1436132982c265e14c0bfb21b51` |
