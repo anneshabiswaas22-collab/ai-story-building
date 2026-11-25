@@ -1,6 +1,6 @@
 # Episode 13 storyboard — Do I Get My Duck Back?
 
-6 of 20 sheets illustrated. Read each sheet across the top row, then across the bottom row. Each panel covers one 15-second shot.
+7 of 20 sheets illustrated. Read each sheet across the top row, then across the bottom row. Each panel covers one 15-second shot.
 
 [Screenplay](STORY.md) · [Image references and checksums](assets/storyboards/GENERATION_NOTES.md)
 
@@ -12,7 +12,7 @@
 | [04](#board-04) | 03:00–04:00 | 013–016 | Someone at the other end |
 | [05](#board-05) | 04:00–05:00 | 017–020 | A duck with a name |
 | [06](#board-06) | 05:00–06:00 | 021–024 | A stripe with a secret |
-| 07 · pending | 06:00–07:00 | 025–028 | The rest of the sentence |
+| [07](#board-07) | 06:00–07:00 | 025–028 | The rest of the sentence |
 | 08 · pending | 07:00–08:00 | 029–032 | The word on the door |
 | 09 · pending | 08:00–09:00 | 033–036 | Back where they belong |
 | 10 · pending | 09:00–10:00 | 037–040 | A hop you can see |
@@ -104,3 +104,16 @@
 | Top right | [SHOT_022 · A sound worth taking home](STORY.md#shot-022) | 05:15–05:30 |
 | Bottom left | [SHOT_023 · A very clear view of nothing](STORY.md#shot-023) | 05:30–05:45 |
 | Bottom right | [SHOT_024 · Mabel's head goes in](STORY.md#shot-024) | 05:45–06:00 |
+
+<a name="board-07"></a>
+
+## Board 07 — The rest of the sentence
+
+[![Episode 13, shots 025 through 028](assets/storyboards/BOARD_07.png)](assets/storyboards/BOARD_07.png)
+
+| Panel | Screenplay shot | Episode time |
+|---|---|---|
+| Top left | [SHOT_025 · The rest of the sentence](STORY.md#shot-025) | 06:00–06:15 |
+| Top right | [SHOT_026 · A hand at her side](STORY.md#shot-026) | 06:15–06:30 |
+| Bottom left | [SHOT_027 · A place on the bench](STORY.md#shot-027) | 06:30–06:45 |
+| Bottom right | [SHOT_028 · How long is a switch?](STORY.md#shot-028) | 06:45–07:00 |
