@@ -1,6 +1,6 @@
 # Episode 15 storyboard — The Book With Two Beginnings!
 
-11 of 20 sheets illustrated. Read each sheet across the top row, then across the bottom row. Each panel covers one 15-second shot.
+12 of 20 sheets illustrated. Read each sheet across the top row, then across the bottom row. Each panel covers one 15-second shot.
 
 [Screenplay](STORY.md) · [Image references and checksums](assets/storyboards/GENERATION_NOTES.md)
 
@@ -17,7 +17,7 @@
 | [09](#board-09) | 08:00–09:00 | 033–036 | Turn the reader or turn the book? |
 | [10](#board-10) | 09:00–10:00 | 037–040 | Grandma's wrist |
 | [11](#board-11) | 10:00–11:00 | 041–044 | One face of the patch |
-| 12 · pending | 11:00–12:00 | 045–048 | The part Maya forgot |
+| [12](#board-12) | 11:00–12:00 | 045–048 | The part Maya forgot |
 | 13 · pending | 12:00–13:00 | 049–052 | Something to tell Rose |
 | 14 · pending | 13:00–14:00 | 053–056 | A slash between friends |
 | 15 · pending | 14:00–15:00 | 057–060 | Maya's own card |
@@ -169,3 +169,16 @@
 | Top right | [SHOT_042 · A hat in the puddle](STORY.md#shot-042) | 10:15–10:30 |
 | Bottom left | [SHOT_043 · The road around the puddle](STORY.md#shot-043) | 10:30–10:45 |
 | Bottom right | [SHOT_044 · What the giant saw](STORY.md#shot-044) | 10:45–11:00 |
+
+<a name="board-12"></a>
+
+## Board 12 — The part Maya forgot
+
+[![Episode 15, shots 045 through 048](assets/storyboards/BOARD_12.png)](assets/storyboards/BOARD_12.png)
+
+| Panel | Screenplay shot | Episode time |
+|---|---|---|
+| Top left | [SHOT_045 · The part Maya forgot](STORY.md#shot-045) | 11:00–11:15 |
+| Top right | [SHOT_046 · Same landing, other way up](STORY.md#shot-046) | 11:15–11:30 |
+| Bottom left | [SHOT_047 · What the finger holds](STORY.md#shot-047) | 11:30–11:45 |
+| Bottom right | [SHOT_048 · Everybody gets something back](STORY.md#shot-048) | 11:45–12:00 |
