@@ -1,6 +1,6 @@
 # Episode 12 storyboard — Dad’s Shoe Is Going to School!
 
-17 of 20 sheets illustrated. Read each sheet across the top row, then across the bottom row. Each panel covers one 15-second shot.
+18 of 20 sheets illustrated. Read each sheet across the top row, then across the bottom row. Each panel covers one 15-second shot.
 
 [Screenplay](STORY.md) · [Image references and checksums](assets/storyboards/GENERATION_NOTES.md)
 
@@ -23,7 +23,7 @@
 | [15](#board-15) | 14:00–15:00 | 057–060 | One more, by myself |
 | [16](#board-16) | 15:00–16:00 | 061–064 | Make room for a shoe |
 | [17](#board-17) | 16:00–17:00 | 065–068 | After the click |
-| 18 · pending | 17:00–18:00 | 069–072 | The one where we're all looking |
+| [18](#board-18) | 17:00–18:00 | 069–072 | The one where we're all looking |
 | 19 · pending | 18:00–19:00 | 073–076 | Toe first |
 | 20 · pending | 19:00–20:00 | 077–080 | The rest of that old story |
 
@@ -247,3 +247,16 @@
 | Top right | [SHOT_066 · Two ears that stay](STORY.md#shot-066) | 16:15–16:30 |
 | Bottom left | [SHOT_067 · What the photographer saw](STORY.md#shot-067) | 16:30–16:45 |
 | Bottom right | [SHOT_068 · A noise the knot can make](STORY.md#shot-068) | 16:45–17:00 |
+
+<a name="board-18"></a>
+
+## Board 18 — The one where we're all looking
+
+[![Episode 12, shots 069 through 072](assets/storyboards/BOARD_18.png)](assets/storyboards/BOARD_18.png)
+
+| Panel | Screenplay shot | Episode time |
+|---|---|---|
+| Top left | [SHOT_069 · The one where we're all looking](STORY.md#shot-069) | 17:00–17:15 |
+| Top right | [SHOT_070 · Leo's empty hands](STORY.md#shot-070) | 17:15–17:30 |
+| Bottom left | [SHOT_071 · Folding up the crew](STORY.md#shot-071) | 17:30–17:45 |
+| Bottom right | [SHOT_072 · One copy](STORY.md#shot-072) | 17:45–18:00 |

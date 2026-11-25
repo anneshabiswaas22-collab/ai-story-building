@@ -284,6 +284,31 @@ Max tightens the two loops himself and lifts his hands to see whether the bow ho
 
 </details>
 
+<details>
+<summary>Sheet 18 · The one where we're all looking · shots 069–072</summary>
+
+The family compares the formal photo with the garden huddle. The selected candid shows Leo’s empty hands, and the kitchen printer is set to one copy.
+
+> Illustration-story. Maple House English, Episode 12, illustrated sheet 18. Continue the supplied preceding four-panel sheet into a new production sheet, replacing its four images with the NEXT four different shots. Treat the written panel directions as the source of action. Precisely 2 equal columns x 2 equal rows on a wide 16:9 landscape canvas, four full cinematic landscape frames, thin ivory cross gutter. No titles, panel labels, dialogue text, captions, logos, sound effects, extra frames or decorative text. Use four deliberately different, expressive compositions, clear eye-lines and restrained natural gestures. The camera direction describes film movement; illustrate a single decisive frame for each shot. Respect shot-specific cast; close inserts can show faces at edges or hands. Every child has one body and two hands, preserve age and scale. Warm polished stylized 3D animated family film in the look of the preceding sheet.
+>
+> Visual references: 1 = preceding episode sheet; animation, props, and scene continuity; 2 = adult cast model lineup, left to right Dan, Maya, Nina; 3 = child cast model lineup, left to right Leo, Ella, Max; 4 = exact camera exposure of all six, used for the digital playback; 5 = kitchen layout.
+>
+> Dan: tall mustached dad, swept dark hair, sky-blue polo, navy trousers. Maya: dark low ponytail, plum shirt and cream trousers. Nina: short wavy auburn bob, teal blouse and tan trousers. Leo is tallest child, 12, chestnut hair, orange T-shirt, navy shorts, orange sneakers. Ella 9: brown twin braids, coral tee, full-length blue denim overalls, coral sneakers. Max 7: shortest, little auburn-haired boy in green T-shirt, tan shorts and green canvas sneakers with WHITE laces.
+>
+> In the garden the door is rear-left, shade tree rear-right. The compact faces the tree on a three-legged black tripod until shot 071; from its lens Dan, Maya, Nina form the back row, Leo front-left on a yellow cushion, Max center, Ella right. The boys always mean Max's own right shoe. At the dining table facing rear window Dan near-left, Leo left end, Ella far-left, Maya far-right, Nina right end, Max near-right.
+>
+> Specific direction: There are four digital photos in the camera. The formal third photo and candid fourth photo differ. The candid is the huddle, one unfinished loop, Max looking up at Leo whose own hands are empty. In the third panel Leo detaches the compact BEFORE Nina folds the tripod. The last panel is indoors, same single compact and one gray cable to a small photo printer. For shot 069 choose the formal picture at the instant of comparison, all six looking straight ahead except Max’s eyes. For shot 070 reproduce the supplied candid still inside the LCD, including the brothers’ shared glance and Leo’s empty hands. On the kitchen printer display only ONE copy is selected; the slot is still empty.
+>
+> TOP LEFT / 069 / The one where we're all looking / HOME_GARDEN / MAYA, LEO, ELLA. Camera: Behind the tripod, show Leo moving back one saved frame to photo three and forward again to photo four. Depict: Maya asks to see the two six-person choices. In the formal portrait the two rows make every face easy to find. In the huddle, their faces make a circle that opens where the boys look at each other. Continuity: As Leo toggles playback, the formal picture is third and the garden huddle is fourth. End state: The screen rests on photo four. The two possible school pictures are easy to tell apart.
+>
+> TOP RIGHT / 070 / Leo's empty hands / HOME_GARDEN / NINA, LEO, MAX. Camera: Over Max's shoulder, move close enough to pick out Leo's two open hands in photo four. Depict: Max points to Leo's empty hands in the photograph. They are exactly where Leo promised to put them. Leo sees his own unplanned smile for the first time. Continuity: Only photo four has Leo's open hands beside the unfinished lace. End state: Leo chooses photo four. Max is happy for this particular picture to go to school.
+>
+> BOTTOM LEFT / 071 / Folding up the crew / HOME_GARDEN / DAN, NINA, LEO, ELLA, MAX. Camera: Follow the camera off its mount, the legs folding, then Max lifting the cushion off the grass. Depict: Leo powers the compact down, puts its strap around his wrist and detaches it. Nina folds the tripod. Max dusts off the cushion with two officious pats and passes it to Ella at the door. Continuity: Detach the compact before folding the tripod. Ella takes the cushion inside. End state: Leo carries the camera, Nina the folded tripod and Ella the cushion through the garden door. Photo four is the choice.
+>
+> BOTTOM RIGHT / 072 / One copy / HOME_KITCHEN / MAYA, NINA, LEO, ELLA. Camera: From the island, keep the garden door beyond the compact and the small printer. Depict: Nina puts the tripod back on the island. Leo wakes the compact, connects it to the printer's gray cable and selects photo four. Maya checks the quantity. Ella takes the cushion on to the table. Continuity: Use the same printer and gray cable established on the island. End state: One copy of photo four is selected, awaiting a press of the print button. The old print is still in the left pocket in the dining room.
+
+</details>
+
 ## File verification
 
 Each PNG was decoded and checked for dimensions, chunk integrity and four distinct image regions. Its Git blob was read back from the PR branch after publication.
@@ -307,3 +332,4 @@ Each PNG was decoded and checked for dimensions, chunk integrity and four distin
 | [15](BOARD_15.png) | 057–060 | 1670 × 941 | [BOARD_14](BOARD_14.png), HOME_GARDEN, [BOARD_11](BOARD_11.png) | `f8bb89c37f5b9383ec111b42b154823097922d22f9fcf8a39b833f1c5c008107` |
 | [16](BOARD_16.png) | 061–064 | 1670 × 942 | [BOARD_15](BOARD_15.png), HOME_GARDEN | `40454ff5d3be3055b97bc9155c98d90895b749ca54c5cebe21b3ed00c590fe29` |
 | [17](BOARD_17.png) | 065–068 | 1670 × 941 | [BOARD_16](BOARD_16.png), HOME_GARDEN | `371fa34eb3aed7bf30d60963fd14a099f98a11c2dbee0e9cb575792d78d863e2` |
+| [18](BOARD_18.png) | 069–072 | 1672 × 941 | [BOARD_17](BOARD_17.png), [BOARD_16](BOARD_16.png), HOME_KITCHEN | `68150689dd2125dd966eaf37b39461e982136dca3ab3b0db85359554bf4e157b` |
