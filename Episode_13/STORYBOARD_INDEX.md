@@ -1,6 +1,6 @@
 # Episode 13 storyboard — Do I Get My Duck Back?
 
-17 of 20 sheets illustrated. Read each sheet across the top row, then across the bottom row. Each panel covers one 15-second shot.
+18 of 20 sheets illustrated. Read each sheet across the top row, then across the bottom row. Each panel covers one 15-second shot.
 
 [Screenplay](STORY.md) · [Image references and checksums](assets/storyboards/GENERATION_NOTES.md)
 
@@ -23,7 +23,7 @@
 | [15](#board-15) | 14:00–15:00 | 057–060 | June's blue roof |
 | [16](#board-16) | 15:00–16:00 | 061–064 | The answer Ella means |
 | [17](#board-17) | 16:00–17:00 | 065–068 | Until three |
-| 18 · pending | 17:00–18:00 | 069–072 | A tin full of something else |
+| [18](#board-18) | 17:00–18:00 | 069–072 | A tin full of something else |
 | 19 · pending | 18:00–19:00 | 073–076 | An ordinary knock |
 | 20 · pending | 19:00–20:00 | 077–080 | A sound to bring next time |
 
@@ -247,3 +247,16 @@
 | Top right | [SHOT_066 · Which blue door?](STORY.md#shot-066) | 16:15–16:30 |
 | Bottom left | [SHOT_067 · Mabel goes visiting](STORY.md#shot-067) | 16:30–16:45 |
 | Bottom right | [SHOT_068 · A wave from the hallway](STORY.md#shot-068) | 16:45–17:00 |
+
+<a name="board-18"></a>
+
+## Board 18 — A tin full of something else
+
+[![Episode 13, shots 069 through 072](assets/storyboards/BOARD_18.png)](assets/storyboards/BOARD_18.png)
+
+| Panel | Screenplay shot | Episode time |
+|---|---|---|
+| Top left | [SHOT_069 · A tin full of something else](STORY.md#shot-069) | 17:00–17:15 |
+| Top right | [SHOT_070 · Lid and all](STORY.md#shot-070) | 17:15–17:30 |
+| Bottom left | [SHOT_071 · A leaf on the windowsill](STORY.md#shot-071) | 17:30–17:45 |
+| Bottom right | [SHOT_072 · The minute hand](STORY.md#shot-072) | 17:45–18:00 |

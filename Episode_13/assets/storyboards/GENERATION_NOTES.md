@@ -320,6 +320,33 @@ June packs Mabel beside the closed blue pencil case. The beak peeks out as she w
 
 </details>
 
+<details>
+<summary>Sheet 18 · A tin full of something else · shots 069–072</summary>
+
+The magnifier travels in Nina’s silver tin, then lies on the kitchen island as Ella returns the box. After the maple-leaf inspection, Max listens at the closed blue door while Dan checks his watch.
+
+> Illustration-story. Maple House English, Episode 13, illustrated sheet 18. Continue the supplied preceding four-panel sheet into a new production sheet, replacing its four images with the NEXT four different shots. Treat the written panel directions as the source of action. Precisely 2 equal columns x 2 equal rows on a wide 16:9 landscape canvas, four full cinematic landscape frames, thin ivory cross gutter. No titles, panel labels, dialogue text, captions, logos, sound effects, extra frames or decorative text. Use four deliberately different, expressive compositions, clear eye-lines and restrained natural gestures. The camera direction describes film movement; illustrate a single decisive frame for each shot. Respect shot-specific cast; close inserts can show faces at edges or hands. Every child has one body and two hands, preserve age and scale. Warm polished stylized 3D animated family film in the look of the preceding sheet.
+>
+> Visual references: 1 = preceding episode sheet; animation, props, and scene continuity; 2 = adult cast model lineup, left to right Dan, Maya, Nina; 3 = child cast model lineup, left to right Leo, Ella, Max; 4 = kitchen layout; 5 = entry layout, use the script’s blue door.
+>
+> Dan: tall mustached dad, swept dark hair, sky-blue polo, navy trousers. Maya: dark low ponytail, plum shirt and cream trousers. Nina: short wavy auburn bob, teal blouse and tan trousers. Leo is tallest child, 12, chestnut hair, orange T-shirt, navy shorts, orange sneakers. Ella 9: brown twin braids, coral tee, full-length blue denim overalls, coral sneakers. Max 7: shortest, little auburn-haired boy in green T-shirt, tan shorts and green canvas sneakers with WHITE laces.
+>
+> June is Ella’s age, dark tight curls, warm complexion and freckles, mustard hoodie, dark trousers, off-white canvas tote. The single hand-sized worn painted yellow wooden duck Mabel has one orange beak, worn cheek thumbprint and four red disc wheels. Green-handled round magnifier, red-and-white striped wooden spinning top, plain rectangular SILVER tin plus removable lid, smaller BLUE hinged pencil case. The swap table lives beneath a window: Ella's end left, June's right, green felt window side and exposed wood aisle side; bench near entry. At home the porch door is blue.
+>
+> Specific direction: Location changes matter: upper left at the window swap table, upper right and lower left in the Brooks sage-and-oak KITCHEN before and after lunch; lower right at the right-hand entry bench inside the blue door. June and Mabel are away in every frame. One new magnifier and emptied silver tin come home.
+>
+> TOP LEFT / 069 / A tin full of something else / COMMUNITY_SWAP_ROOM / MAYA, NINA, ELLA, LEO. Camera: Over the open silver tin, see the green handle take the place where the duck rode that morning. Depict: Nina lifts the lid. Ella lays her new magnifier in the empty tin. She settles the lid gently and carries the box level. Leo glances back along the green runner for anything they might have left. Continuity: The wooden top and the wooden duck both left with June, on different terms. End state: Ella carries her magnifier home inside Nina's borrowed tin. The window table is empty.
+>
+> TOP RIGHT / 070 / Lid and all / HOME_KITCHEN / NINA, ELLA, MAX. Camera: Cut ahead to the oak island. Echo the morning's view of the tin, now opening on a green handle. Depict: Back home before lunch, Ella takes out her magnifier. She replaces the lid and gives the empty tin to Nina. Max checks the outside for stray passengers before Nina puts it away. Continuity: Nina puts her returned silver tin, lid and base together, in the kitchen cupboard. End state: Nina has her empty tin and lid back. Ella keeps her magnifier on the island.
+>
+> BOTTOM LEFT / 071 / A leaf on the windowsill / HOME_KITCHEN / MAYA, ELLA, LEO. Camera: Dissolve from the morning light on the island to an afternoon patch of light under the rear window. Tilt to a small fallen leaf. Depict: After lunch, Ella studies a maple leaf Leo found on the walk home. She follows one thin vein through the lens until it forks. Maya asks for a look and Ella makes room beside her. Continuity: The leaf is dry and loose on the sill. This is the same green-handled magnifier. End state: Ella and Maya share a close view of the leaf. Leo sees Ella glance once toward the entry.
+>
+> BOTTOM RIGHT / 072 / The minute hand / HOME_ENTRY / DAN, NINA, ELLA, MAX. Camera: At the right-hand bench, cut from Dan's left-wrist watch to Ella holding her palms level like two sides of a scale. Depict: It's a few minutes before three. Ella has had a good afternoon and still wants to see her duck come home. Nina sits beside her. Max listens at the door with his head turned comically sideways. Continuity: The trip and the game happened during the lunch-to-afternoon ellipsis. End state: The family is within hearing distance of the blue door. June is still on time.
+>
+> FOCUSED CORRECTION: Respect the return-home time cut and use fresh set-specific compositions. June, her blue case, striped top and duck are away throughout all four frames. 069 at the swap table show the green magnifier being nestled INSIDE Nina’s open rectangular silver tin. 070 inside the sage kitchen show the now CLOSED empty tin being handed from Ella to Nina, and the one green magnifier lying by itself on the oak island near Max. 071 at the kitchen windowsill after lunch, Ella and Maya examine the branching veins of a loose fallen maple leaf through the lens, Leo nearby. 072 one wide interior view by the still CLOSED BLUE front door with side bench on the right: Ella waits with empty palms, Nina sits with her, Max comically puts an ear to the door. Dan in sky blue checks his watch. No one has knocked yet. Keep the toy duck offscreen.
+
+</details>
+
 ## File verification
 
 Each PNG was decoded and checked for dimensions, chunk integrity and four distinct image regions. Its Git blob was read back from the PR branch after publication.
@@ -343,3 +370,4 @@ Each PNG was decoded and checked for dimensions, chunk integrity and four distin
 | [15](BOARD_15.png) | 057–060 | 1670 × 941 | [BOARD_14](BOARD_14.png), [BOARD_04](BOARD_04.png) | `a67567d894aa42888fbd2604b178560a5e28aeff53cadb6390da4f434c0b03e6` |
 | [16](BOARD_16.png) | 061–064 | 1672 × 941 | [BOARD_15](BOARD_15.png), [BOARD_04](BOARD_04.png) | `d57a4973ed006c8b71cacd271c44b858daeee1f38828d129a6c8ddf81d193949` |
 | [17](BOARD_17.png) | 065–068 | 1670 × 941 | [BOARD_16](BOARD_16.png), [BOARD_04](BOARD_04.png) | `a958e94d7b07b539604ca24c24cfeb3544b4530dc546e0fd342843dab6fe77cf` |
+| [18](BOARD_18.png) | 069–072 | 1672 × 941 | [BOARD_17](BOARD_17.png), HOME_KITCHEN, HOME_ENTRY | `f2eaf766ba9e9acff8fcc14bc7cbc980800353481579b30acb92a6eb9e2f0879` |
