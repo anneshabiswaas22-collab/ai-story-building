@@ -199,6 +199,33 @@ Max adds Apt 2B, checks the blue hand under the loose flap, and seals the envelo
 
 </details>
 
+<details>
+<summary>Sheet 14 · Which piece stays home? · shots 053–056</summary>
+
+At home the gray magnet holds the picture of Ed’s fridge. Max takes the sealed reply outside and holds its return label beside the house number 14.
+
+> Use case: illustration-story. Episode 14 sheet 14. Maple House English, a warm polished, cinematic, stylized 3D family film. Generate a brand-new four-shot storyboard sheet for the NEXT shots. Exactly 2 columns by 2 rows of equal wide 16:9 cinematic frames, on one wide landscape 16:9 canvas, with one hairline ivory gutter cross. Read upper left, upper right, lower left, lower right. Four different compositions, motivated gestures and screen directions, cut in for the insert indicated. No frame numbers, titles, speech balloons, captions or text outside story props. Use clear readable letters ONLY when required on an in-world prop. Follow the named cast per shot (hands or a shoulder may stand for a character in an insert). Keep the Brooks family recognizable, no twins or duplicate limbs/objects.
+>
+> References: 1 — previous sheet, exact visual continuity; 2 — unchanged original adult and child model lineups, top Dan Maya Nina and bottom Leo Ella Max; 3 — incoming postcard artwork and address sticker; 4 — the family's sage kitchen, island and rear-left fridge; 5 — Brooks porch with blue door.
+>
+> Dan: tall adult with swept dark hair, black mustache, sky-blue polo, navy trousers, watch on left wrist. Maya: dark low ponytail, plum tee, cream pants. Nina: wavy short auburn bob, teal top and tan trousers. Leo: tall 12-year-old in orange tee and navy shorts. Ella: age 9, brown twin braids, coral tee and full denim overalls. Max: smallest child, 7, curly auburn hair, green tee, tan shorts and green shoes. Distinct heights and proportions; two arms and hands per person.
+>
+> One paper hug from Max to Nina's father Ed: one continuous pale-yellow paper strip divided by seven alternating folds into EIGHT rectangular panels with one blue outline hand on each end and a private message on panel four. At the dining table facing the garden window: Leo left end, Ella far-left, Maya far-right, Nina right end, Max near-right, Dan near-left. A separate cream envelope is mailed ONCE from 14 Maple Lane to 8 Lantern Court, Apt 2B. One green-leaf stamp only after the post office. The siblings’ grandpa is never pictured and the tomato magnet is only a drawing on Ed’s postcard in the Brooks house.
+>
+> Direction for this sheet: Follow a purposeful change of place across these frames. 053 sage home kitchen with full-size real silver fridge at rear LEFT. Max holds the sealed cream reply. Nina takes Ed's postcard to fridge and Ella holds a plain flat round gray magnet. 054 close: their real fridge has ONE small postcard pinned picture-side out by a ROUND GRAY magnet in a BLANK corner. On the paper is a childlike pencil drawing of a refrigerator with a tiny RED TOMATO on its door. The tomato is a flat drawing INSIDE the postcard. No 3D tomato. Dan squints to make the small door line up; Max reaches playfully. 055 inside by the right-hand entry bench, Max steadies his one sealed envelope, Leo tips his empty hands; Maya opens the BLUE front door. 056 outside on the sage-trim porch: Dan pulls the blue door closed and Max holds the small sender label up by the house plaque reading '14'. Nina stands with them. Only the outgoing letter leaves.
+>
+> UPPER LEFT · shot 053 Which piece stays home? · HOME_KITCHEN · NINA, LEO, ELLA, MAX. Camera: Two-shot on the kitchen side of the doorway. Match the traveling cream envelope to the picture postcard coming the other way. Action: Max carries the sealed reply. Nina takes Ed's postcard to the fridge at rear-left. Ella spots the tomato drawing again and finds a plain gray magnet on the fridge to hold it. Continuity: Their home magnet is round and gray. Ed's tomato still appears only as a drawing. End: The old card is ready to go on the Brooks fridge. Max keeps the reply well apart from it.
+>
+> UPPER RIGHT · shot 054 Two refrigerators · HOME_KITCHEN · NINA, DAN, ELLA, MAX. Camera: Look at the postcard picture against the real fridge door. Widen to catch Dan lining up the two handles with one eye closed. Action: Nina pins the card picture-side out with the gray magnet at a plain corner. Dan finds the angle that makes Ed's drawn door look like a tiny door built into theirs. Max reaches to open the tiny one, then laughs. Continuity: Keep the gray magnet off the drawing of the little red tomato. End: The postcard is pinned on the Brooks fridge. The family sets out with just the new letter.
+>
+> LOWER LEFT · shot 055 What are you carrying? · HOME_ENTRY · MAYA, LEO, MAX. Camera: Follow the envelope across the right-hand bench as Max shifts it from both palms to one steady hand. Action: Max rests his elbow on the bench. It squeaks. He steadies the envelope as if something inside might slosh. Leo tips his own empty hands experimentally. Maya opens the door while Max finds a comfortable grip. Continuity: The cream envelope is the only piece of outgoing mail. End: Max carries the sealed, unstamped letter for the walk. The postcard stays on the kitchen fridge.
+>
+> LOWER RIGHT · shot 056 Fourteen from the outside · HOME_PORCH · DAN, NINA, MAX. Camera: From the cream clapboard porch, let the house number beside the blue door sit in the same view as Max's small corner label. Action: Dan pulls the front door closed. Max briefly holds the label up against the number on the house. Nina recognizes how strange it is to see a whole home reduced to one little line of writing. Continuity: The Brookses live at 14 Maple Lane. The incoming postcard stays behind that blue door. End: The house number matches the return label. The family sets off for the neighborhood post office.
+>
+> Art revision: ONLY edit BOTTOM RIGHT: Max is holding the WHOLE addressed, sealed cream envelope in his raised hand, beside the brass house number 14; show his fingers gripping the edge of a postcard-sized cream envelope. The tiny label reading '14 Maple Lane' is permanently adhered to the upper LEFT of that larger envelope. Center mailing block in small blue script with '8 Lantern Court' and 'Apt 2B', upper right blank. Max is not holding a loose sticker. Leave the house sign and all three other panels unchanged.
+
+</details>
+
 ## File verification
 
 Each PNG was decoded and checked for dimensions, chunk integrity and four distinct image regions. Its Git blob was read back from the PR branch after publication.
@@ -218,3 +245,4 @@ Each PNG was decoded and checked for dimensions, chunk integrity and four distin
 | [11](BOARD_11.png) | 041–044 | 1670 × 942 | [BOARD_10](BOARD_10.png), HOME_TABLE, [BOARD_01](BOARD_01.png), Incoming postcard from sheet 01 | `ae9548145db0805e78523ba6c3c3d8862ac831cf514286252e8fbc6f239a31b8` |
 | [12](BOARD_12.png) | 045–048 | 1672 × 941 | [BOARD_11](BOARD_11.png), HOME_TABLE, [BOARD_01](BOARD_01.png) | `6dcf2de8fbd99a616de1441ed40753bc4192b1436132982c265e14c0bfb21b51` |
 | [13](BOARD_13.png) | 049–052 | 1672 × 941 | [BOARD_12](BOARD_12.png), HOME_TABLE, [BOARD_01](BOARD_01.png) | `f109ee00b18b83ef97c8196a58925808f04d9e9b178fbcad1a4afbfaef68b89c` |
+| [14](BOARD_14.png) | 053–056 | 1671 × 941 | [BOARD_13](BOARD_13.png), [BOARD_01](BOARD_01.png), HOME_KITCHEN, HOME_PORCH | `d96d67cd87fec97f625454e034849031e0c6291d78a5cb0ad81f24240142e720` |
