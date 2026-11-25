@@ -95,6 +95,33 @@ The written message reads “I still owe you a corner.” and is signed “Love,
 
 </details>
 
+<details>
+<summary>Sheet 10 · Open wide · shots 037–040</summary>
+
+Maya’s mouth opens before the packet does. Her second try reveals the note, Max’s signature and the two-hand cue on the same strip. Leo holds the cream envelope open for Max.
+
+> Use case: illustration-story. Episode 14 sheet 10. Maple House English, a warm polished, cinematic, stylized 3D family film. Generate a brand-new four-shot storyboard sheet for the NEXT shots. Exactly 2 columns by 2 rows of equal wide 16:9 cinematic frames, on one wide landscape 16:9 canvas, with one hairline ivory gutter cross. Read upper left, upper right, lower left, lower right. Four different compositions, motivated gestures and screen directions, cut in for the insert indicated. No frame numbers, titles, speech balloons, captions or text outside story props. Use clear readable letters ONLY when required on an in-world prop. Follow the named cast per shot (hands or a shoulder may stand for a character in an insert). Keep the Brooks family recognizable, no twins or duplicate limbs/objects.
+>
+> References: 1 — previous sheet, exact visual continuity; 2 — adult lineup, left to right Dan, Maya, Nina; 3 — child lineup, left to right Leo, Ella, Max; 4 — oak dining table, chairs and garden window; 5 — the long pale yellow strip, blue hand outlines, cream envelope.
+>
+> Dan: tall adult with swept dark hair, black mustache, sky-blue polo, navy trousers, watch on left wrist. Maya: dark low ponytail, plum tee, cream pants. Nina: wavy short auburn bob, teal top and tan trousers. Leo: tall 12-year-old in orange tee and navy shorts. Ella: age 9, brown twin braids, coral tee and full denim overalls. Max: smallest child, 7, curly auburn hair, green tee, tan shorts and green shoes. Distinct heights and proportions; two arms and hands per person.
+>
+> One paper hug from Max to Nina's father Ed: one continuous pale-yellow paper strip divided by seven alternating folds into EIGHT rectangular panels with one blue outline hand on each end and a private message on panel four. At the dining table facing the garden window: Leo left end, Ella far-left, Maya far-right, Nina right end, Max near-right, Dan near-left. A separate cream envelope is mailed ONCE from 14 Maple Lane to 8 Lantern Court, Apt 2B. One green-leaf stamp only after the post office. The siblings’ grandpa is never pictured and the tomato magnet is only a drawing on Ed’s postcard in the Brooks house.
+>
+> Direction for this sheet: 037 Maya in plum opens her MOUTH wide in comic misunderstanding while holding a still-CLOSED small stack. 038 close insert of Max lettering ONLY the outer right palm panel, below the blue hand in block blue letters exactly: 'HOLD ONE HAND. PULL THE OTHER.' Do not use the MAX side for these words. 039 Maya opens the long accordion by the two outside ends, with a small message on the fourth panel; she reads in silence. 040 tight side shot: Leo in orange holds open the single EMPTY, BLANK cream envelope, Max slides the compact refolded yellow stack in, cue side up. Envelope still unaddressed, flap open, no postage. Preserve its normal envelope proportions.
+>
+> UPPER LEFT · shot 037 Open wide · HOME_TABLE · MAYA, NINA, MAX. Camera: Tight on Maya taking the closed packet by its middle. Stay with her face when Max gives the first instruction. Action: Maya agrees to try the words exactly as Max says them. At “open wide” she opens her mouth like a person about to take the biggest bite of toast in the world. The packet is still firmly closed. Continuity: Maya leaves the folds alone during the joke. The envelope is still empty. End: Max realizes his direction could apply to a mouth, an envelope or the paper inside.
+>
+> UPPER RIGHT · shot 038 One hand and the other · HOME_TABLE · MAYA, NINA, MAX. Camera: Over Max's shoulder onto the blank space under the outside right-hand drawing. Action: Maya turns the packet so the unsigned palm faces up. With Nina steadying the flat stack, Max prints a short cue in blue. He points to one drawn hand, then turns the packet to find its partner. Continuity: Max writes only on the outermost panel. The cue faces up for the first opening. End: Under the right palm the cue reads “HOLD ONE HAND. PULL THE OTHER.” The packet stays closed.
+>
+> LOWER LEFT · shot 039 A quiet test · HOME_TABLE · MAYA, ELLA, MAX. Camera: Follow Maya's eyes reading the cue, then follow the paper opening low over the table. Action: Without another word of help, Maya takes the two end panels and pulls them apart. Her smile changes when the middle line appears. Max leaves her a moment to read it through. Continuity: Nina's line stays on the fourth panel. It is a surprise Ed can reach just by opening the hug. End: The strip opens in one pull. All the writing is upright to Maya when she turns the open face toward herself.
+>
+> LOWER RIGHT · shot 040 The whole hug goes in · HOME_TABLE · MAYA, NINA, LEO, MAX. Camera: Level with the open flap as Leo holds the cream envelope steady and Max slides the refolded stack inside. Action: The family brings the accordion together one last time. Max sets the cue-side up, guides the packet through the open envelope mouth and lets it settle flat. Nina looks along the top to see that no corner catches. Continuity: The strip keeps its full length. The two blue hands, Max's name and Nina's signed message all travel together. End: The entire eight-panel strip is inside the one cream envelope. The flap remains open for now.
+>
+> Art revision: Leave the two top frames untouched. LOWER LEFT: the long strip is open. Keep the middle message where it is, add small clear blue 'MAX' beneath the left hand drawing and add the small blue instruction 'HOLD ONE HAND. PULL THE OTHER.' beneath the right hand drawing. Keep both labels INSIDE their respective end squares; a fingertip may obscure some lettering. LOWER RIGHT: show a slightly later instant. Max slides the stack much farther DOWN INTO the envelope so its front wall physically occludes all the words, while the viewer can see JUST the top third of the blue hand drawing on a thin exposed yellow band. A clean cream envelope front, no visible broken or invented letters. Keep Leo holding the envelope open and Max guiding in the stack.
+
+</details>
+
 ## File verification
 
 Each PNG was decoded and checked for dimensions, chunk integrity and four distinct image regions. Its Git blob was read back from the PR branch after publication.
@@ -110,3 +137,4 @@ Each PNG was decoded and checked for dimensions, chunk integrity and four distin
 | [07](BOARD_07.png) | 025–028 | 1672 × 941 | BOARD_06, HOME_TABLE | `7d90fe0e6da7cf92aa707471daf685a4d94d51dc6116ae077435554f33b0704e` |
 | [08](BOARD_08.png) | 029–032 | 1670 × 941 | [BOARD_07](BOARD_07.png), HOME_TABLE, [BOARD_04](BOARD_04.png) | `98192435551c7c2a41f7b9448514c6f502ab0dbf69c83652af9e950c295326dd` |
 | [09](BOARD_09.png) | 033–036 | 1672 × 941 | [BOARD_08](BOARD_08.png), HOME_TABLE, [BOARD_04](BOARD_04.png) | `abddb9b586944dffd2d2cd46ceb5f26f7245bcd8075c52b8df9b83111ea9d97e` |
+| [10](BOARD_10.png) | 037–040 | 1670 × 942 | [BOARD_09](BOARD_09.png), HOME_TABLE, [BOARD_04](BOARD_04.png) | `fc093b8138d732c1673c25ef9a6a3b98f5adc75a61e8e29140278b2b5a539c93` |
