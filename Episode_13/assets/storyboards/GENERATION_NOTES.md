@@ -208,6 +208,35 @@ The top first spins on bare wood and then strikes the separate silver lid. Nina 
 
 </details>
 
+<details>
+<summary>Sheet 14 · A bee in a lunchbox · shots 053–056</summary>
+
+Dan faces away for both guesses and then lifts the whole closed tin to look underneath. The top stays on the silver lid while Nina explains that the tin goes home with her.
+
+> Illustration-story. Maple House English, Episode 13, illustrated sheet 14. Continue the supplied preceding four-panel sheet into a new production sheet, replacing its four images with the NEXT four different shots. Treat the written panel directions as the source of action. Precisely 2 equal columns x 2 equal rows on a wide 16:9 landscape canvas, four full cinematic landscape frames, thin ivory cross gutter. No titles, panel labels, dialogue text, captions, logos, sound effects, extra frames or decorative text. Use four deliberately different, expressive compositions, clear eye-lines and restrained natural gestures. The camera direction describes film movement; illustrate a single decisive frame for each shot. Respect shot-specific cast; close inserts can show faces at edges or hands. Every child has one body and two hands, preserve age and scale. Warm polished stylized 3D animated family film in the look of the preceding sheet.
+>
+> Visual references: 1 = preceding episode sheet; animation, props, and scene continuity; 2 = adult cast model lineup, left to right Dan, Maya, Nina; 3 = child cast model lineup, left to right Leo, Ella, Max; 4 = June's exact design and the worn wooden duck, blue case, red and white top, magnifier.
+>
+> Dan: tall mustached dad, swept dark hair, sky-blue polo, navy trousers. Maya: dark low ponytail, plum shirt and cream trousers. Nina: short wavy auburn bob, teal blouse and tan trousers. Leo is tallest child, 12, chestnut hair, orange T-shirt, navy shorts, orange sneakers. Ella 9: brown twin braids, coral tee, full-length blue denim overalls, coral sneakers. Max 7: shortest, little auburn-haired boy in green T-shirt, tan shorts and green canvas sneakers with WHITE laces.
+>
+> June is Ella’s age, dark tight curls, warm complexion and freckles, mustard hoodie, dark trousers, off-white canvas tote. The single hand-sized worn painted yellow wooden duck Mabel has one orange beak, worn cheek thumbprint and four red disc wheels. Green-handled round magnifier, red-and-white striped wooden spinning top, plain rectangular SILVER tin plus removable lid, smaller BLUE hinged pencil case. The swap table lives beneath a window: Ella's end left, June's right, green felt window side and exposed wood aisle side; bench near entry. At home the porch door is blue.
+>
+> Specific direction: The single red-and-white striped wooden spinning top is on the UPPER FACE of the closed rectangular silver tin. Never show a literal bee or a lunchbox creature. Dan imagines the buzzing with eyes closed at first, and peeks under the whole still-closed tin in panel three.
+>
+> TOP LEFT / 053 / A bee in a lunchbox / COMMUNITY_SWAP_ROOM / DAN, ELLA, JUNE, MAX. Camera: Stay on the top landing upright near the center of the silver lid. Move to Dan only after the steady buzz has begun. Depict: Ella gives the spindle a twist. On the empty closed tin, the top's quiet spin becomes a fine metallic burr. June bites her knuckle to keep from giving the answer away when Dan tries his first guess. Continuity: The top and tin make the sound together. The toy duck stays parked on felt. End state: The striped top spins on Nina's silver lid. Dan has made his first wrong guess.
+>
+> TOP RIGHT / 054 / The bee gets boots / COMMUNITY_SWAP_ROOM / DAN, JUNE, NINA, ELLA. Camera: Tight on the top as its spin slows into a wobble. Tilt to June's shoulders shaking with a held-in laugh. Depict: The lower edge of the tilting top starts to chatter on the lid. The fine buzz breaks into a little roll of taps. Dan revises his guess without turning around. June can finally let the laugh out. Continuity: This is the end of the same spin that began in shot 053. End state: The top settles on its side on the lid. Dan is still facing away.
+>
+> BOTTOM LEFT / 055 / May I see the bee? / COMMUNITY_SWAP_ROOM / DAN, ELLA, JUNE, MAYA. Camera: Turn with Dan to see the stopped top at the center of the plain silver lid. Depict: Ella gives Dan leave to look. He comes over from the doorway, sees the striped top and lifts the tin just high enough to check beneath it for that bee. Maya catches June copying his earnest expression. Continuity: Dan keeps the lid shut and level. The top stays in view while he peeks under the base. End state: Dan sets the tin back down with the top on it. June has found a sound she wants to take home.
+>
+> BOTTOM RIGHT / 056 / What comes with the top? / COMMUNITY_SWAP_ROOM / JUNE, NINA, ELLA. Camera: Keep three distinct objects in view, the top, its borrowed silver stage and the green handle in June's hand. Depict: June asks a practical question before she makes an offer. Nina raps the silver lid with a knuckle and explains that she uses the tin at home. June looks down at her own tote. Continuity: The earlier loan of the silver tin ends at home. Ella has no claim to trade it away. End state: June knows that any trade for the top would include only the top.
+>
+> FOCUSED CORRECTION: 053–054 run the striped red/white top on the top FACE of the latched-looking, flat-topped but unhinged CLOSED SILVER RECTANGULAR TIN. In 054 the stopped top lies on its side up there; Dan still facing away. 055 Dan at the table, eyes OPEN: down at table edge, chin almost on wood, he lifts the entire still-CLOSED tin parallel to the tabletop by its sides just an inch, looking into a clearly visible narrow AIR GAP between its metal bottom and the bare tabletop. The single striped top lies ON ITS SIDE on the top lid during this peek. No lid lifted, nothing inside or underneath. 056 Nina taps the closed tin with a knuckle as June looks down toward her cream tote.
+>
+> Final artwork correction: Two precise continuity fixes. TOP LEFT, move Dan away from the table to the doorway in the background right, seated children stay. Show the BACK of his blue polo, profile turned away and eyes shut, still guessing; he must face away exactly as he does in the top-right shot. All four panels depict ONE SHUT rectangular silver biscuit tin: show a smooth slightly CONVEX flat solid silver lid, flush or overhanging the box sides with a thin horizontal joint near the TOP. No tall raised tray rims and no concave surface. The striped top remains ON the outside of the closed lid. In BOTTOM LEFT remove the extra lid/tray on the table beneath the tin: Dan lifts the entire closed tin in his hands, one solid box with lid seam, and peeks through open air at a patch of bare wooden table underneath. Make the gap between its base and tabletop distinct with a simple soft cast shadow. The top lies on the outer lid. Keep the tin this same closed shape in the other frames.
+
+</details>
+
 ## File verification
 
 Each PNG was decoded and checked for dimensions, chunk integrity and four distinct image regions. Its Git blob was read back from the PR branch after publication.
@@ -227,3 +256,4 @@ Each PNG was decoded and checked for dimensions, chunk integrity and four distin
 | [11](BOARD_11.png) | 041–044 | 1672 × 941 | [BOARD_10](BOARD_10.png), [BOARD_04](BOARD_04.png) | `3d56fd27bf99c9e07e9892c768653bbb2a63a7164e63f8f003675cbd25d619bc` |
 | [12](BOARD_12.png) | 045–048 | 1671 × 941 | [BOARD_11](BOARD_11.png), [BOARD_04](BOARD_04.png) | `62bdf899861900311f03aebedc95883715b071824c0e8e48a235670439c3fa04` |
 | [13](BOARD_13.png) | 049–052 | 1670 × 941 | [BOARD_12](BOARD_12.png), [BOARD_04](BOARD_04.png) | `4e7ba2db2ad3d2fe19a0130754b60350d26c115e471bce707b35b794b395c308` |
+| [14](BOARD_14.png) | 053–056 | 1671 × 941 | [BOARD_13](BOARD_13.png), [BOARD_04](BOARD_04.png) | `a3962231c410527ca35d973b89e339a5a14b3b98152d42da1503b143e8895130` |
