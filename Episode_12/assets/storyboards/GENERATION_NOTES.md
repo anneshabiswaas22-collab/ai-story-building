@@ -309,6 +309,31 @@ The family compares the formal photo with the garden huddle. The selected candid
 
 </details>
 
+<details>
+<summary>Sheet 19 · Toe first · shots 073–076</summary>
+
+The printer makes one copy of the candid. Leo’s finished album pairs the brown shoe photograph on the left with the garden picture on the right.
+
+> Illustration-story. Maple House English, Episode 12, illustrated sheet 19. Continue the supplied preceding four-panel sheet into a new production sheet, replacing its four images with the NEXT four different shots. Treat the written panel directions as the source of action. Precisely 2 equal columns x 2 equal rows on a wide 16:9 landscape canvas, four full cinematic landscape frames, thin ivory cross gutter. No titles, panel labels, dialogue text, captions, logos, sound effects, extra frames or decorative text. Use four deliberately different, expressive compositions, clear eye-lines and restrained natural gestures. The camera direction describes film movement; illustrate a single decisive frame for each shot. Respect shot-specific cast; close inserts can show faces at edges or hands. Every child has one body and two hands, preserve age and scale. Warm polished stylized 3D animated family film in the look of the preceding sheet.
+>
+> Visual references: 1 = preceding episode sheet; animation, props, and scene continuity; 2 = adult cast model lineup, left to right Dan, Maya, Nina; 3 = child cast model lineup, left to right Leo, Ella, Max; 4 = small two-pocket album and the original single brown shoe portrait; 5 = exact garden huddle that was printed.
+>
+> Dan: tall mustached dad, swept dark hair, sky-blue polo, navy trousers. Maya: dark low ponytail, plum shirt and cream trousers. Nina: short wavy auburn bob, teal blouse and tan trousers. Leo is tallest child, 12, chestnut hair, orange T-shirt, navy shorts, orange sneakers. Ella 9: brown twin braids, coral tee, full-length blue denim overalls, coral sneakers. Max 7: shortest, little auburn-haired boy in green T-shirt, tan shorts and green canvas sneakers with WHITE laces.
+>
+> In the garden the door is rear-left, shade tree rear-right. The compact faces the tree on a three-legged black tripod until shot 071; from its lens Dan, Maya, Nina form the back row, Leo front-left on a yellow cushion, Max center, Ella right. The boys always mean Max's own right shoe. At the dining table facing rear window Dan near-left, Leo left end, Ella far-left, Maya far-right, Nina right end, Max near-right.
+>
+> Specific direction: One and only one color photo is printed, the candid huddle with Max’s right green toe. The album contains precisely two clear side-by-side pockets by the end: LEFT the old close photo of Dad's single scuffed brown lace-up shoe and crooked brown-tan bow; RIGHT the new six-person garden huddle. Keep the two picture subjects distinct. No full-sized real brown shoe on the table.
+>
+> TOP LEFT / 073 / Toe first / HOME_KITCHEN / DAN, MAYA, LEO, MAX. Camera: At the level of the printer slot, let the lower edge of the single print emerge into daylight. Depict: Maya presses the print button. The lower edge comes out first. Dan cranes to see whether his old celebrity shoe has made a comeback. A much smaller green toe appears. Continuity: Only one new sheet feeds out. The green toe belongs to Max. End state: The photo is feeding out face up. The green sneaker is visible, with the rest of the picture still inside.
+>
+> TOP RIGHT / 074 / Now the faces / HOME_KITCHEN / NINA, LEO, MAX. Camera: Follow the single print to the end of its travel. Hold on the brothers looking at each other twice, once in the print and once above it. Depict: Leo waits until the printer releases the sheet, then lifts it by its white edges. Max puts his real tied shoe alongside the island's base and compares it with the unfinished loop in the picture. Continuity: One old print and one new print exist. The other three garden images stay digital. End state: Leo has the one finished new print. Nina unplugs the idle compact and sets it beside the folded tripod.
+>
+> BOTTOM LEFT / 075 / A yellow cushion comes home / HOME_TABLE / ELLA, LEO, MAYA. Camera: Look from the kitchen doorway as Leo returns with the print and Ella gives the left-end chair its cushion. Depict: Ella sets the yellow cushion back on Leo's chair with its dimple facing the table. Leo takes his place and lays the fresh print beside the old shoe picture. Maya leans in from her own place. Continuity: The cushion returns to Leo's original dining chair. End state: Both photographs are together on the table. The new one still lies outside its pocket.
+>
+> BOTTOM RIGHT / 076 / What belongs on the right / HOME_TABLE / DAN, MAYA, NINA, LEO, ELLA, MAX. Camera: From the kitchen-door side, show the six in their fixed seats. Move in as Leo slides the new print home. Depict: Leo holds the formal smile for half a second as if trying it on again. He relaxes, then slides the candid garden picture into the right pocket. The two prints sit at the same height. Continuity: Old brown shoe in the left pocket. New family picture in the right. End state: The school page is complete. Left is the old tied bow. Right is the six around Max's still-unfinished bow.
+
+</details>
+
 ## File verification
 
 Each PNG was decoded and checked for dimensions, chunk integrity and four distinct image regions. Its Git blob was read back from the PR branch after publication.
@@ -333,3 +358,4 @@ Each PNG was decoded and checked for dimensions, chunk integrity and four distin
 | [16](BOARD_16.png) | 061–064 | 1670 × 942 | [BOARD_15](BOARD_15.png), HOME_GARDEN | `40454ff5d3be3055b97bc9155c98d90895b749ca54c5cebe21b3ed00c590fe29` |
 | [17](BOARD_17.png) | 065–068 | 1670 × 941 | [BOARD_16](BOARD_16.png), HOME_GARDEN | `371fa34eb3aed7bf30d60963fd14a099f98a11c2dbee0e9cb575792d78d863e2` |
 | [18](BOARD_18.png) | 069–072 | 1672 × 941 | [BOARD_17](BOARD_17.png), [BOARD_16](BOARD_16.png), HOME_KITCHEN | `68150689dd2125dd966eaf37b39461e982136dca3ab3b0db85359554bf4e157b` |
+| [19](BOARD_19.png) | 073–076 | 1671 × 941 | [BOARD_18](BOARD_18.png), [BOARD_03](BOARD_03.png), [BOARD_16](BOARD_16.png) | `2e13f5fd14f2792159d4bae49bd675f6d37c369cbcaa972a00e7598ff693dbd1` |
