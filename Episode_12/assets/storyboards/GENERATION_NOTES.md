@@ -107,6 +107,31 @@ Ella’s fixed grin and Dan’s raised chin lead into the quieter moment when Le
 
 </details>
 
+<details>
+<summary>Sheet 11 · The space stays open · shots 041–044</summary>
+
+The formal portrait fits all six faces. Max looks toward Leo at the shutter, then leans on him once the pose breaks.
+
+> Illustration-story. Maple House English, Episode 12, illustrated sheet 11. Continue the supplied preceding four-panel sheet into a new production sheet, replacing its four images with the NEXT four different shots. Treat the written panel directions as the source of action. Precisely 2 equal columns x 2 equal rows on a wide 16:9 landscape canvas, four full cinematic landscape frames, thin ivory cross gutter. No titles, panel labels, dialogue text, captions, logos, sound effects, extra frames or decorative text. Use four deliberately different, expressive compositions, clear eye-lines and restrained natural gestures. The camera direction describes film movement; illustrate a single decisive frame for each shot. Respect shot-specific cast; close inserts can show faces at edges or hands. Every child has one body and two hands, preserve age and scale. Warm polished stylized 3D animated family film in the look of the preceding sheet.
+>
+> Visual references: 1 = preceding episode sheet; animation, props, and scene continuity; 2 = adult cast model lineup, left to right Dan, Maya, Nina; 3 = child cast model lineup, left to right Leo, Ella, Max; 4 = clean backyard set; same black compact, a flat yellow cushion.
+>
+> Dan: tall mustached dad, swept dark hair, sky-blue polo, navy trousers. Maya: dark low ponytail, plum shirt and cream trousers. Nina: short wavy auburn bob, teal blouse and tan trousers. Leo is tallest child, 12, chestnut hair, orange T-shirt, navy shorts, orange sneakers. Ella 9: brown twin braids, coral tee, full-length blue denim overalls, coral sneakers. Max 7: shortest, little auburn-haired boy in green T-shirt, tan shorts and green canvas sneakers with WHITE laces.
+>
+> In the garden the door is rear-left, shade tree rear-right. The compact faces the tree on a three-legged black tripod until shot 071; from its lens Dan, Maya, Nina form the back row, Leo front-left on a yellow cushion, Max center, Ella right. The boys always mean Max's own right shoe. At the dining table facing rear window Dan near-left, Leo left end, Ella far-left, Maya far-right, Nina right end, Max near-right.
+>
+> Specific direction: This is the third DIGITAL picture, the formal portrait. Show precisely six in shot 042: adults Dan/Maya/Nina behind, children Leo/Max/Ella in front. Leo is already kneeling at camera-left, Max beside him turns ONLY HIS EYES sideways toward Leo. Show the same six people inside camera playback in 044.
+>
+> TOP LEFT / 041 / The space stays open / HOME_GARDEN / DAN, ELLA, MAX. Camera: Low across the flat yellow cushion with the back row beyond it. Depict: Dan keeps his promise with a small palm-out gesture over the empty place. Max pats the cushion once for Leo and gathers his hands into his lap. Ella likes the sound and pats her own knee. Continuity: Dan draws his hand clear of the gap before the next exposure. End state: The place at front-left is visibly clear. Everyone is waiting for Leo.
+>
+> TOP RIGHT / 042 / Picture three / HOME_GARDEN / DAN, MAYA, NINA, LEO, ELLA, MAX. Camera: One unbroken side view. Leo presses near the start. Allow ten full seconds, then the click and a short hold. Depict: Leo sets the timer going and walks his practiced curve. He kneels on the yellow cushion in plenty of time. In the last second everybody fixes a smile except Max, whose eyes slip sideways toward his brother. Continuity: Third shutter click. Six faces fit. Max's face stays visible when his eyes turn. End state: Photo three contains all six in two rows. Max is looking sideways at Leo. The others face the lens.
+>
+> BOTTOM LEFT / 043 / All the air comes out / HOME_GARDEN / DAN, MAYA, NINA, LEO, ELLA, MAX. Camera: Hold the same six in the same places after the shutter. Stay for what their shoulders do. Depict: There is a small shared sigh. Dan lets his portrait smile fall in sections. Max leans his whole shoulder against Leo now that the instant has passed. Continuity: The relaxed shoulder bump happens after photo three. End state: The family relaxes. Leo gives Max's shoulder a bump, stands and leaves the cushion on the grass.
+>
+> BOTTOM RIGHT / 044 / Six actual noses / HOME_GARDEN / NINA, LEO, ELLA, MAX. Camera: Follow Leo and the children to the rear screen. Nina leans just far enough to see its corners. Depict: Leo opens photo three. Ella counts by lightly tapping her own nose once for each face. The last tap is for Leo, who can pick himself out without anybody pointing. Continuity: The cushion stays on the grass while the family gathers at the screen. End state: They confirm six distinct visible faces in photo three. The cushion stays back in the shade.
+
+</details>
+
 ## File verification
 
 Each PNG was decoded and checked for dimensions, chunk integrity and four distinct image regions. Its Git blob was read back from the PR branch after publication.
@@ -123,3 +148,4 @@ Each PNG was decoded and checked for dimensions, chunk integrity and four distin
 | [08](BOARD_08.png) | 029–032 | 1671 × 941 | BOARD_07 | `86e778406c0b4e311aa7bd30240c2ac46ea927285668277ace44f66065f68318` |
 | [09](BOARD_09.png) | 033–036 | 1670 × 941 | [BOARD_08](BOARD_08.png), HOME_GARDEN | `3ce3073870abe8a21d9d6ded1d090da583cfa476296e6d3c8f32e0637e221cf5` |
 | [10](BOARD_10.png) | 037–040 | 1670 × 942 | [BOARD_09](BOARD_09.png), HOME_GARDEN | `725cfe04ee9e788894ebe3e165f0e0e460a088f311ef6f0a0c4ed70d1adfca6b` |
+| [11](BOARD_11.png) | 041–044 | 1672 × 941 | [BOARD_10](BOARD_10.png), HOME_GARDEN | `0372d94a1cec0a727f94106510eb48e33c81a63053958d8f43a9b142625d0536` |
