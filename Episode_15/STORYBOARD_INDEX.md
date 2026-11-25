@@ -1,6 +1,6 @@
 # Episode 15 storyboard — The Book With Two Beginnings!
 
-18 of 20 sheets illustrated. Read each sheet across the top row, then across the bottom row. Each panel covers one 15-second shot.
+19 of 20 sheets illustrated. Read each sheet across the top row, then across the bottom row. Each panel covers one 15-second shot.
 
 [Screenplay](STORY.md) · [Image references and checksums](assets/storyboards/GENERATION_NOTES.md)
 
@@ -24,7 +24,7 @@
 | [16](#board-16) | 15:00–16:00 | 061–064 | A place for both bits of paper |
 | [17](#board-17) | 16:00–17:00 | 065–068 | What kind of question was it? |
 | [18](#board-18) | 17:00–18:00 | 069–072 | Rose sees a familiar boat |
-| 19 · pending | 18:00–19:00 | 073–076 | What Maya wanted to say |
+| [19](#board-19) | 18:00–19:00 | 073–076 | What Maya wanted to say |
 | 20 · pending | 19:00–20:00 | 077–080 | Six little legs |
 
 <a name="board-01"></a>
@@ -260,3 +260,16 @@
 | Top right | [SHOT_070 · The other artist](STORY.md#shot-070) | 17:15–17:30 |
 | Bottom left | [SHOT_071 · “Show me where you started”](STORY.md#shot-071) | 17:30–17:45 |
 | Bottom right | [SHOT_072 · The move their mother made](STORY.md#shot-072) | 17:45–18:00 |
+
+<a name="board-19"></a>
+
+## Board 19 — What Maya wanted to say
+
+[![Episode 15, shots 073 through 076](assets/storyboards/BOARD_19.png)](assets/storyboards/BOARD_19.png)
+
+| Panel | Screenplay shot | Episode time |
+|---|---|---|
+| Top left | [SHOT_073 · What Maya wanted to say](STORY.md#shot-073) | 18:00–18:15 |
+| Top right | [SHOT_074 · Find me the crossing](STORY.md#shot-074) | 18:15–18:30 |
+| Bottom left | [SHOT_075 · What one sister saw first](STORY.md#shot-075) | 18:30–18:45 |
+| Bottom right | [SHOT_076 · Can I change my question?](STORY.md#shot-076) | 18:45–19:00 |
