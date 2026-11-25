@@ -230,6 +230,33 @@ Maya’s white card lists both titles and Nell Quill, followed by “Pick a begi
 
 </details>
 
+<details>
+<summary>Sheet 15 · Maya's own card · shots 057–060</summary>
+
+Maya scans her plum library card, then the one barcode inside the green cover. The checkout shows one item and Nina hands her a single receipt.
+
+> Use case: illustration-story. Episode 15 sheet 15. Maple House English, a warm polished, cinematic, stylized 3D family film. Generate a brand-new four-shot storyboard sheet for the NEXT shots. Exactly 2 columns by 2 rows of equal wide 16:9 cinematic frames, on one wide landscape 16:9 canvas, with one hairline ivory gutter cross. Read upper left, upper right, lower left, lower right. Four different compositions, motivated gestures and screen directions, cut in for the insert indicated. No frame numbers, titles, speech balloons, captions or text outside story props. Use clear readable letters ONLY when required on an in-world prop. Follow the named cast per shot (hands or a shoulder may stand for a character in an insert). Keep the Brooks family recognizable, no twins or duplicate limbs/objects.
+>
+> References: 1 — previous sheet, exact visual continuity; 2 — adult lineup, left to right Dan, Maya, Nina; 3 — child lineup, left to right Leo, Ella, Max; 4 — library floor plan with right window bench, center display, self checkout and glass exit; 5 — exact green and orange cover designs.
+>
+> Dan: tall adult with swept dark hair, black mustache, sky-blue polo, navy trousers, watch on left wrist. Maya: dark low ponytail, plum tee, cream pants. Nina: wavy short auburn bob, teal top and tan trousers. Leo: tall 12-year-old in orange tee and navy shorts. Ella: age 9, brown twin braids, coral tee and full denim overalls. Max: smallest child, 7, curly auburn hair, green tee, tan shorts and green shoes. Distinct heights and proportions; two arms and hands per person.
+>
+> One reversible children’s picture book, normal single binding: GREEN cover ‘All Aboard, Beetle!’, ORANGE cover ‘Come Back, Hat!’, both by Nell Quill. Its ink-and-watercolor characters remain flat on illustrated cream pages: small dark blue beetle, golden oat crumb, child Dot with loose black curls and an ink-blue raincoat, ONE yellow hat floats upside down with its hollow crown open to sky; its green brim patch has three blue X stitches. The wordless central picture only: a leaf bridges the floating yellow brim to dry gray stone, Dot’s one finger pins the leaf to stone and her other hand steadies the brim, beetle and crumb together on stone. Cream family bookmark has opposite-facing childhood drawings: the word ROSE and her boat upright, beside it a pencil question mark, the name MAYA and her yellow hat upside down. Slim flat cream rectangle with rounded corners, no hole, no tassel. Loose public reader card is white.
+>
+> Direction for this sheet: At the center-right library self-checkout. A single reversible book and one checkout for the whole volume. 057 Dan has navy tote while Maya takes out a small PLUM-PURPLE personal library card; the closed green book with family bookmark tip lies on counter. 058 Maya scans the PURPLE CARD once, the book remains closed off to the side; Max holds one finger for its single spine. 059 close on Ella and Maya opening the GREEN cover just enough for a rectangular black-and-white item barcode fixed INSIDE the front cover. Maya scans THIS book barcode once, no second volume. 060 Nina hands Maya just one printed RECEIPT strip, one item line, simple checkout screen '1 item'. Dan and Leo look on. The white recommendation card and tethered pencil stay back at the display. The printed green cover matches last input.
+>
+> UPPER LEFT · shot 057 Maya's own card · LIBRARY_FOYER · DAN, MAYA, LEO, MAX. Camera: At the center-right station, hold on the navy bag as Maya takes out her slim wallet. Action: Max sets the closed book on the work surface. Maya takes out her plum library card. Leo looks at the name and then at his mother. She is pleased to be the reader taking this one home. Continuity: Only Maya's personal card is used for this loan. End: The book rests at checkout. Maya has her plum card ready. Dan keeps the bag.
+>
+> UPPER RIGHT · shot 058 Card first · LIBRARY_FOYER · MAYA, NINA, MAX. Camera: Close on the plum card passing under the reader. Maya keeps it in her hand as the screen changes. Action: Maya scans her card once. The station asks for an item. Max raises one finger, then a second for the other title. Nina taps the single spine and he puts one finger down. Continuity: The personal bookmark remains tucked into the center. End: The station is ready to register a loan to Maya. The volume itself has yet to be scanned.
+>
+> LOWER LEFT · shot 059 Inside the green cover · LIBRARY_FOYER · ELLA, MAYA, LEO. Camera: Over the station as Maya lifts the green cover just far enough to show the library label on the inside board. Action: Ella spots the barcode and holds the cover steady while Maya scans it once. Leo sees the item appear. The cream bookmark shows at the top while the green cover comes back down. Continuity: One library item code serves the whole volume. The orange title needs no separate scan. End: One item appears on the checkout screen. The book is closed again, green up.
+>
+> LOWER RIGHT · shot 060 Proof that a beetle can travel · LIBRARY_FOYER · DAN, MAYA, NINA, LEO. Camera: Hold on Maya finishing the checkout. Let a single thin receipt curl out beside the screen. Action: Maya confirms the loan. Nina hands her the receipt. Dan looks from its one entry to the two covers. Leo reminds him the beetle packed a lunch, so it needs very little extra luggage. Continuity: The single entry represents both stories in one binding. The public recommendation remains on the display. End: The reversible volume is checked out to Maya. One receipt has printed.
+>
+> Art revision: In BOTTOM RIGHT remove the clear display holder, white recommendation card and green tethered pencil entirely from the checkout counter. Replace with the plain uninterrupted counter surface. Nina is handing Maya just the one small checkout RECEIPT. The closed green book stays on the counter, with a little cream bookmark tip showing. In the two top panels the same plum library card is Maya’s, with the single legible name 'Maya Brooks' next to a library icon and the small barcode, no made-up words. Preserve the scan actions, the screen indications and the other panels.
+
+</details>
+
 ## File verification
 
 Each PNG was decoded and checked for dimensions, chunk integrity and four distinct image regions. Its Git blob was read back from the PR branch after publication.
@@ -250,3 +277,4 @@ Each PNG was decoded and checked for dimensions, chunk integrity and four distin
 | [12](BOARD_12.png) | 045–048 | 1671 × 941 | [BOARD_11](BOARD_11.png), LIBRARY_FOYER, [BOARD_07](BOARD_07.png), [BOARD_08](BOARD_08.png) | `bc8c73000d678280959c012c1ecb65a89d41d59c1202ab5017f7cdb81674c262` |
 | [13](BOARD_13.png) | 049–052 | 1671 × 941 | [BOARD_12](BOARD_12.png), LIBRARY_FOYER, [BOARD_04](BOARD_04.png), [BOARD_01](BOARD_01.png), [BOARD_06](BOARD_06.png), [BOARD_09](BOARD_09.png), [BOARD_08](BOARD_08.png) | `311f6dfdc19fa94f3bd1653abe584cc69dab3147746882853dcdaf2ce144f2d1` |
 | [14](BOARD_14.png) | 053–056 | 1672 × 941 | [BOARD_13](BOARD_13.png), [BOARD_04](BOARD_04.png), [BOARD_01](BOARD_01.png), Book covers on sheets 06 and 09 | `f7bf15723933162606c95eb792f557e2f421514b5a177a4e22f6545c5aee71d7` |
+| [15](BOARD_15.png) | 057–060 | 1671 × 941 | [BOARD_14](BOARD_14.png), LIBRARY_FOYER, Book covers on sheets 06 and 09 | `b6ed745974f35d2a9e1a82a11e9d5530a5e72f2153dc5ca85f2fb1a4faf8bb25` |

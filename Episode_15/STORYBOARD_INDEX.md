@@ -1,6 +1,6 @@
 # Episode 15 storyboard — The Book With Two Beginnings!
 
-14 of 20 sheets illustrated. Read each sheet across the top row, then across the bottom row. Each panel covers one 15-second shot.
+15 of 20 sheets illustrated. Read each sheet across the top row, then across the bottom row. Each panel covers one 15-second shot.
 
 [Screenplay](STORY.md) · [Image references and checksums](assets/storyboards/GENERATION_NOTES.md)
 
@@ -20,7 +20,7 @@
 | [12](#board-12) | 11:00–12:00 | 045–048 | The part Maya forgot |
 | [13](#board-13) | 12:00–13:00 | 049–052 | Something to tell Rose |
 | [14](#board-14) | 13:00–14:00 | 053–056 | A slash between friends |
-| 15 · pending | 14:00–15:00 | 057–060 | Maya's own card |
+| [15](#board-15) | 14:00–15:00 | 057–060 | Maya's own card |
 | 16 · pending | 15:00–16:00 | 061–064 | A place for both bits of paper |
 | 17 · pending | 16:00–17:00 | 065–068 | What kind of question was it? |
 | 18 · pending | 17:00–18:00 | 069–072 | Rose sees a familiar boat |
@@ -208,3 +208,16 @@
 | Top right | [SHOT_054 · One line without the ending](STORY.md#shot-054) | 13:15–13:30 |
 | Bottom left | [SHOT_055 · Meet in the middle](STORY.md#shot-055) | 13:30–13:45 |
 | Bottom right | [SHOT_056 · One book for the bag](STORY.md#shot-056) | 13:45–14:00 |
+
+<a name="board-15"></a>
+
+## Board 15 — Maya's own card
+
+[![Episode 15, shots 057 through 060](assets/storyboards/BOARD_15.png)](assets/storyboards/BOARD_15.png)
+
+| Panel | Screenplay shot | Episode time |
+|---|---|---|
+| Top left | [SHOT_057 · Maya's own card](STORY.md#shot-057) | 14:00–14:15 |
+| Top right | [SHOT_058 · Card first](STORY.md#shot-058) | 14:15–14:30 |
+| Bottom left | [SHOT_059 · Inside the green cover](STORY.md#shot-059) | 14:30–14:45 |
+| Bottom right | [SHOT_060 · Proof that a beetle can travel](STORY.md#shot-060) | 14:45–15:00 |
