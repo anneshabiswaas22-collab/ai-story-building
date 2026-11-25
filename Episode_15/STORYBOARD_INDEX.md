@@ -1,6 +1,6 @@
 # Episode 15 storyboard — The Book With Two Beginnings!
 
-8 of 20 sheets illustrated. Read each sheet across the top row, then across the bottom row. Each panel covers one 15-second shot.
+9 of 20 sheets illustrated. Read each sheet across the top row, then across the bottom row. Each panel covers one 15-second shot.
 
 [Screenplay](STORY.md) · [Image references and checksums](assets/storyboards/GENERATION_NOTES.md)
 
@@ -14,7 +14,7 @@
 | [06](#board-06) | 05:00–06:00 | 021–024 | Six readers at one window |
 | [07](#board-07) | 06:00–07:00 | 025–028 | The yellow boat bumps the twig |
 | [08](#board-08) | 07:00–08:00 | 029–032 | What does the giant want? |
-| 09 · pending | 08:00–09:00 | 033–036 | Turn the reader or turn the book? |
+| [09](#board-09) | 08:00–09:00 | 033–036 | Turn the reader or turn the book? |
 | 10 · pending | 09:00–10:00 | 037–040 | Grandma's wrist |
 | 11 · pending | 10:00–11:00 | 041–044 | One face of the patch |
 | 12 · pending | 11:00–12:00 | 045–048 | The part Maya forgot |
@@ -130,3 +130,16 @@
 | Top right | [SHOT_030 · The page with no words](STORY.md#shot-030) | 07:15–07:30 |
 | Bottom left | [SHOT_031 · A finger on the landing](STORY.md#shot-031) | 07:30–07:45 |
 | Bottom right | [SHOT_032 · One page too far](STORY.md#shot-032) | 07:45–08:00 |
+
+<a name="board-09"></a>
+
+## Board 09 — Turn the reader or turn the book?
+
+[![Episode 15, shots 033 through 036](assets/storyboards/BOARD_09.png)](assets/storyboards/BOARD_09.png)
+
+| Panel | Screenplay shot | Episode time |
+|---|---|---|
+| Top left | [SHOT_033 · Turn the reader or turn the book?](STORY.md#shot-033) | 08:00–08:15 |
+| Top right | [SHOT_034 · No place for a back cover](STORY.md#shot-034) | 08:15–08:30 |
+| Bottom left | [SHOT_035 · A second face](STORY.md#shot-035) | 08:30–08:45 |
+| Bottom right | [SHOT_036 · Come Back, Hat!](STORY.md#shot-036) | 08:45–09:00 |
