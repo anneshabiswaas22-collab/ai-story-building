@@ -1,6 +1,6 @@
 # Episode 14 storyboard — Can You Mail a Hug?
 
-19 of 20 sheets illustrated. Read each sheet across the top row, then across the bottom row. Each panel covers one 15-second shot.
+20 of 20 sheets illustrated. Read each sheet across the top row, then across the bottom row. Each panel covers one 15-second shot.
 
 [Screenplay](STORY.md) · [Image references and checksums](assets/storyboards/GENERATION_NOTES.md)
 
@@ -25,7 +25,7 @@
 | [17](#board-17) | 16:00–17:00 | 065–068 | The price of a leaf |
 | [18](#board-18) | 17:00–18:00 | 069–072 | Off to Lantern Court |
 | [19](#board-19) | 18:00–19:00 | 073–076 | Several breakfasts later |
-| 20 · pending | 19:00–20:00 | 077–080 | A debt comes due |
+| [20](#board-20) | 19:00–20:00 | 077–080 | A debt comes due |
 
 <a name="board-01"></a>
 
@@ -273,3 +273,16 @@
 | Top right | [SHOT_074 · Put him where we can hear](STORY.md#shot-074) | 18:15–18:30 |
 | Bottom left | [SHOT_075 · A letter with two hands](STORY.md#shot-075) | 18:30–18:45 |
 | Bottom right | [SHOT_076 · One pull from far away](STORY.md#shot-076) | 18:45–19:00 |
+
+<a name="board-20"></a>
+
+## Board 20 — A debt comes due
+
+[![Episode 14, shots 077 through 080](assets/storyboards/BOARD_20.png)](assets/storyboards/BOARD_20.png)
+
+| Panel | Screenplay shot | Episode time |
+|---|---|---|
+| Top left | [SHOT_077 · A debt comes due](STORY.md#shot-077) | 19:00–19:15 |
+| Top right | [SHOT_078 · The fridge grows arms](STORY.md#shot-078) | 19:15–19:30 |
+| Bottom left | [SHOT_079 · A corner finally returned](STORY.md#shot-079) | 19:30–19:45 |
+| Bottom right | [SHOT_080 · The right address](STORY.md#shot-080) | 19:45–20:00 |

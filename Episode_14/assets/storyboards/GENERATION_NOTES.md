@@ -353,6 +353,31 @@ Max puts the fresh toast corner on Nina’s plate before the call. Nina holds th
 
 </details>
 
+<details>
+<summary>Sheet 20 · A debt comes due · shots 077–080</summary>
+
+Nina turns the toast corner as she listens and eats it after the call. Max hugs her in person under the drawing on the fridge, with all six family members in the final frame.
+
+> Use case: illustration-story. Episode 14 sheet 20. Maple House English, a warm polished, cinematic, stylized 3D family film. Generate a brand-new four-shot storyboard sheet for the NEXT shots. Exactly 2 columns by 2 rows of equal wide 16:9 cinematic frames, on one wide landscape 16:9 canvas, with one hairline ivory gutter cross. Read upper left, upper right, lower left, lower right. Four different compositions, motivated gestures and screen directions, cut in for the insert indicated. No frame numbers, titles, speech balloons, captions or text outside story props. Use clear readable letters ONLY when required on an in-world prop. Follow the named cast per shot (hands or a shoulder may stand for a character in an insert). Keep the Brooks family recognizable, no twins or duplicate limbs/objects.
+>
+> References: 1 — previous sheet, exact visual continuity; 2 — unchanged original adult and child model lineups, top Dan Maya Nina and bottom Leo Ella Max; 3 — incoming postcard artwork and address sticker; 4 — the family's sage kitchen, island and rear-left fridge; 5 — exact pinned drawing and gray home magnet.
+>
+> Dan: tall adult with swept dark hair, black mustache, sky-blue polo, navy trousers, watch on left wrist. Maya: dark low ponytail, plum tee, cream pants. Nina: wavy short auburn bob, teal top and tan trousers. Leo: tall 12-year-old in orange tee and navy shorts. Ella: age 9, brown twin braids, coral tee and full denim overalls. Max: smallest child, 7, curly auburn hair, green tee, tan shorts and green shoes. Distinct heights and proportions; two arms and hands per person.
+>
+> One paper hug from Max to Nina's father Ed: one continuous pale-yellow paper strip divided by seven alternating folds into EIGHT rectangular panels with one blue outline hand on each end and a private message on panel four. At the dining table facing the garden window: Leo left end, Ella far-left, Maya far-right, Nina right end, Max near-right, Dan near-left. A separate cream envelope is mailed ONCE from 14 Maple Lane to 8 Lantern Court, Apt 2B. One green-leaf stamp only after the post office. The siblings’ grandpa is never pictured and the tomato magnet is only a drawing on Ed’s postcard in the Brooks house.
+>
+> Direction for this sheet: 077 intimate close-up: Nina in teal holds phone on speaker, rotates triangular toast corner on plate with her free fingertip as she hears her dad read her note; Dan turns away kindly, Max near her. 078 Nina says goodbye and ends call with her thumb; Leo, Ella and Max hear only the voice. Keep screen facing Nina, with Ed and his room entirely UNSEEN. 079 Nina eats the toast corner, Dan counts the remaining corners of Max’s slice, Maya redirects his finger toward his own breakfast. The phone now rests aside. 080 emotional closing medium-wide kitchen portrait of EXACTLY SIX unique Brookses: small Max in green gives Nina with auburn bob and teal shirt a real two-armed hug and Nina folds her arms around him, their faces close. Maya, Dan, Leo and Ella in their established clothes smile quietly nearby. Behind them, the little postcard on the silver fridge shows the drawn refrigerator and its TINY red tomato held by a plain gray magnet, like the exact last input. No yellow accordion, envelopes or extra people in this kitchen.
+>
+> UPPER LEFT · shot 077 A debt comes due · HOME_KITCHEN · NINA, DAN, MAX. Camera: Frame Nina with the corner on her breakfast plate in the foreground. Give her a second to hear her own words read back. Action: Ed reaches the fourth panel and reads the line he finds there. Nina turns the toast corner round with a fingertip. Dan looks away with a smile and gives father and daughter the space between their voices. Continuity: The words Ed quotes are exactly the line Nina wrote on panel four. End: Ed recognizes the breakfast joke. Nina hears what she hoped would reach him.
+>
+> UPPER RIGHT · shot 078 The fridge grows arms · HOME_KITCHEN · NINA, LEO, ELLA, MAX. Camera: Stay on the drawing of the lonely red magnet, then find the listening family as a soft tap comes over the phone. Action: Ed describes pinning a blank part of the open strip under his tomato magnet. The two blue hands hang down on either side. Nina hears the grin in his farewell, answers him and ends the call. Continuity: Ed's final line ends his four-shot voice appearance. His real room and refrigerator remain entirely off screen. End: The hug now hangs on Ed's fridge. Nina ends the audio call and puts her phone down.
+>
+> LOWER LEFT · shot 079 A corner finally returned · HOME_KITCHEN · NINA, MAYA, DAN, MAX. Camera: At the island, follow Nina picking up the corner that Max delivered to her plate that morning. Action: Nina eats the corner of toast. Dan makes a show of counting the corners on Max's slice while Maya gently turns his counting finger back toward his own breakfast. Max steps close to Nina with both hands free. Continuity: Ed has the written message. This real toast stays at the Brooks breakfast. End: The corner has found a home. Max is beside his mother and has something else in mind.
+>
+> LOWER RIGHT · shot 080 The right address · HOME_KITCHEN · DAN, MAYA, NINA, LEO, ELLA, MAX. Camera: Hold the six around the island. Finish with enough room in the frame to see Max's arms go all the way around Nina. Action: Max gives Nina a hug in person. He stretches only as far as his own arms go. This time his mother is right there to close the gap. Beyond them, the drawn tomato still looks out from the postcard on their fridge. Continuity: One paper hug is at Ed's house. This last hug needs only the two people who are there. End: Max and Nina stay in the hug for a quiet beat as the family breakfast carries on around them.
+
+</details>
+
 ## File verification
 
 Each PNG was decoded and checked for dimensions, chunk integrity and four distinct image regions. Its Git blob was read back from the PR branch after publication.
@@ -378,3 +403,4 @@ Each PNG was decoded and checked for dimensions, chunk integrity and four distin
 | [17](BOARD_17.png) | 065–068 | 1672 × 941 | [BOARD_16](BOARD_16.png), [BOARD_15](BOARD_15.png) | `499d0b80177eb61e7d562afdde42a393940b5879cd943d69f43616e2d1aa6f9b` |
 | [18](BOARD_18.png) | 069–072 | 1672 × 941 | [BOARD_17](BOARD_17.png), HOME_KITCHEN, HOME_PORCH, [BOARD_15](BOARD_15.png), [BOARD_14](BOARD_14.png) | `42d67539ff779bb11afacfaf081a2867fa9fa4ff3ce0ea790493fdbef12c8b3a` |
 | [19](BOARD_19.png) | 073–076 | 1671 × 941 | [BOARD_18](BOARD_18.png), [BOARD_01](BOARD_01.png), HOME_KITCHEN, [BOARD_14](BOARD_14.png) | `f5c21e56a54011bb67830e62b55a54ce005815fe319dc390e8e46730e062aa95` |
+| [20](BOARD_20.png) | 077–080 | 1670 × 941 | [BOARD_19](BOARD_19.png), [BOARD_01](BOARD_01.png), HOME_KITCHEN, [BOARD_14](BOARD_14.png) | `9d595e30d76b4465e45d820be7cb9071cd7592eac1aaed4213beddfccd350626` |
