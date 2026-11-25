@@ -1,6 +1,6 @@
 # Episode 12 storyboard — Dad’s Shoe Is Going to School!
 
-15 of 20 sheets illustrated. Read each sheet across the top row, then across the bottom row. Each panel covers one 15-second shot.
+16 of 20 sheets illustrated. Read each sheet across the top row, then across the bottom row. Each panel covers one 15-second shot.
 
 [Screenplay](STORY.md) · [Image references and checksums](assets/storyboards/GENERATION_NOTES.md)
 
@@ -21,7 +21,7 @@
 | [13](#board-13) | 12:00–13:00 | 049–052 | The part under the bow |
 | [14](#board-14) | 13:00–14:00 | 053–056 | Whose fingers? |
 | [15](#board-15) | 14:00–15:00 | 057–060 | One more, by myself |
-| 16 · pending | 15:00–16:00 | 061–064 | Make room for a shoe |
+| [16](#board-16) | 15:00–16:00 | 061–064 | Make room for a shoe |
 | 17 · pending | 16:00–17:00 | 065–068 | After the click |
 | 18 · pending | 17:00–18:00 | 069–072 | The one where we're all looking |
 | 19 · pending | 18:00–19:00 | 073–076 | Toe first |
@@ -221,3 +221,16 @@
 | Top right | [SHOT_058 · What Ella sees](STORY.md#shot-058) | 14:15–14:30 |
 | Bottom left | [SHOT_059 · There's the picture](STORY.md#shot-059) | 14:30–14:45 |
 | Bottom right | [SHOT_060 · Ask the person in the picture](STORY.md#shot-060) | 14:45–15:00 |
+
+<a name="board-16"></a>
+
+## Board 16 — Make room for a shoe
+
+[![Episode 12, shots 061 through 064](assets/storyboards/BOARD_16.png)](assets/storyboards/BOARD_16.png)
+
+| Panel | Screenplay shot | Episode time |
+|---|---|---|
+| Top left | [SHOT_061 · Make room for a shoe](STORY.md#shot-061) | 15:00–15:15 |
+| Top right | [SHOT_062 · A particular kind of seat](STORY.md#shot-062) | 15:15–15:30 |
+| Bottom left | [SHOT_063 · On Max's time](STORY.md#shot-063) | 15:30–15:45 |
+| Bottom right | [SHOT_064 · Picture four](STORY.md#shot-064) | 15:45–16:00 |

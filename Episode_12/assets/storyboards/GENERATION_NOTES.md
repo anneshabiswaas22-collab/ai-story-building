@@ -232,6 +232,33 @@ Ella brings Leo to the camera, where the live view shows the adults with Max and
 
 </details>
 
+<details>
+<summary>Sheet 16 · Make room for a shoe · shots 061–064</summary>
+
+The live view shows five family members and Leo’s empty cushion while he adjusts the tripod. In the final exposure Leo joins Max, who is still holding the unfinished loop.
+
+> Illustration-story. Maple House English, Episode 12, illustrated sheet 16. Continue the supplied preceding four-panel sheet into a new production sheet, replacing its four images with the NEXT four different shots. Treat the written panel directions as the source of action. Precisely 2 equal columns x 2 equal rows on a wide 16:9 landscape canvas, four full cinematic landscape frames, thin ivory cross gutter. No titles, panel labels, dialogue text, captions, logos, sound effects, extra frames or decorative text. Use four deliberately different, expressive compositions, clear eye-lines and restrained natural gestures. The camera direction describes film movement; illustrate a single decisive frame for each shot. Respect shot-specific cast; close inserts can show faces at edges or hands. Every child has one body and two hands, preserve age and scale. Warm polished stylized 3D animated family film in the look of the preceding sheet.
+>
+> Visual references: 1 = preceding episode sheet; animation, props, and scene continuity; 2 = adult cast model lineup, left to right Dan, Maya, Nina; 3 = child cast model lineup, left to right Leo, Ella, Max; 4 = clean backyard set; same black compact, a flat yellow cushion.
+>
+> Dan: tall mustached dad, swept dark hair, sky-blue polo, navy trousers. Maya: dark low ponytail, plum shirt and cream trousers. Nina: short wavy auburn bob, teal blouse and tan trousers. Leo is tallest child, 12, chestnut hair, orange T-shirt, navy shorts, orange sneakers. Ella 9: brown twin braids, coral tee, full-length blue denim overalls, coral sneakers. Max 7: shortest, little auburn-haired boy in green T-shirt, tan shorts and green canvas sneakers with WHITE laces.
+>
+> In the garden the door is rear-left, shade tree rear-right. The compact faces the tree on a three-legged black tripod until shot 071; from its lens Dan, Maya, Nina form the back row, Leo front-left on a yellow cushion, Max center, Ella right. The boys always mean Max's own right shoe. At the dining table facing rear window Dan near-left, Leo left end, Ella far-left, Maya far-right, Nina right end, Max near-right.
+>
+> Specific direction: This fourth and final photo is the CANDID garden huddle. In the lower-right exposure show exactly six and enough of both boys’ faces and hands: Dan blue, Maya plum, Nina teal arc behind; Leo orange front-left on cushion, Max green front-center, Ella overalls front-right. Max holds one UNFINISHED white lace loop at his right green shoe, looking at Leo; Leo smiles back with BOTH empty open hands on his OWN knees. Keep the right shoe clearly in view.
+>
+> TOP LEFT / 061 / Make room for a shoe / HOME_GARDEN / LEO, ELLA, MAYA. Camera: Show the compact's live view as Leo tips its head down slightly. Keep the family's heads and Max's shoe inside the same landscape frame. Depict: Ella settles at front-right. Maya lowers herself behind the children. Leo adjusts only the tilt, then tightens the head. He can see space for his face as well as both of Max's hands. Continuity: Only the tilt changes. Its three feet keep their original positions. End state: The new framing includes the low green shoe, a kneeling Leo's place and room for the adults' lowered faces.
+>
+> TOP RIGHT / 062 / A particular kind of seat / HOME_GARDEN / DAN, MAYA, NINA, ELLA, MAX. Camera: Low across the front-left gap, then tilt up to the three adults leaning in behind it. Depict: Max pats the yellow cushion on his right. Dan, Maya and Nina settle behind him in that order from camera-left. At front-right Ella curls her legs in so she can see his hands. Continuity: Set Max at front-center and his brother's cushion at front-left. End state: Five are comfortably gathered. Leo's landing place stays open beside Max.
+>
+> BOTTOM LEFT / 063 / On Max's time / HOME_GARDEN / LEO, MAX. Camera: Two planes with Leo at the tripod and Max facing him from the grass. End tight on the newly opened bow. Depict: Max starts to undo the practice bow, then stops to check whether the camera is going to hurry him. Leo keeps both hands away from the shutter until Max gives him the nod. Continuity: On this attempt Max will handle both loops himself. End state: Max has undone only the bow and kept the base knot. The ends lie free over his planted right shoe. He is ready.
+>
+> BOTTOM RIGHT / 064 / Picture four / HOME_GARDEN / DAN, MAYA, NINA, LEO, ELLA, MAX. Camera: One continuous side view. Leo presses near the start. The shutter sounds ten seconds later, with both boys' faces and Max's unfinished loop visible. Depict: Leo starts the timer, walks the clear lane and kneels on the cushion. Max makes a loop. He glances up to check that Leo has made it. Leo puts both open hands on his own knees. Click. Max still has a lace to wrap. Continuity: Fourth and final shutter click. The exposure catches one loop, before the finished bow. End state: Photo four is saved. It shows all six around the green shoe, Max's first loop and his shared glance with Leo. Max continues holding the loop.
+>
+> Revision: Targeted continuity edit. Image 1 is the entire Episode 12 sheet 16. Preserve its four-panel wide composition and the other THREE panels. Edit ONLY the TOP LEFT film still: display the exact five-person camera live view in reference image 2 on the compact's black LCD. Three adults back (blue Dan, plum Maya, teal Nina), a clearly EMPTY yellow cushion at the far lower left, green-shirt Max at center and coral/overalls Ella at front-right. Absolutely no orange-shirted child within that LCD: Leo is operating it, and is visible in the real world at the left edge only. Remove the large real-world Ella’s head at the right margin of that upper-left shot and continue the out-of-focus existing garden there; Ella is out in the garden, visible only inside the live feed in this shot. Maintain the black camera, the visible tilt control, the big yellow cushion and both boys' correct costumes in the other frames. Bottom right: six gathered, Leo has his two hands on his own knees, Max holds just one unfinished loop. All four original equal widescreen panels, hairline ivory divider. Return the finished whole board. No captions or new graphics.
+
+</details>
+
 ## File verification
 
 Each PNG was decoded and checked for dimensions, chunk integrity and four distinct image regions. Its Git blob was read back from the PR branch after publication.
@@ -253,3 +280,4 @@ Each PNG was decoded and checked for dimensions, chunk integrity and four distin
 | [13](BOARD_13.png) | 049–052 | 1672 × 941 | [BOARD_12](BOARD_12.png), HOME_GARDEN | `7317355678b81028c0617718ab5d3447839bc41e1c849d245a25a476cbd5c4a1` |
 | [14](BOARD_14.png) | 053–056 | 1671 × 941 | [BOARD_13](BOARD_13.png), HOME_GARDEN | `49dfd666983a30def36960af9a6dfc0767896477c6093fc87549bfe18d7bd591` |
 | [15](BOARD_15.png) | 057–060 | 1670 × 941 | [BOARD_14](BOARD_14.png), HOME_GARDEN, [BOARD_11](BOARD_11.png) | `f8bb89c37f5b9383ec111b42b154823097922d22f9fcf8a39b833f1c5c008107` |
+| [16](BOARD_16.png) | 061–064 | 1670 × 942 | [BOARD_15](BOARD_15.png), HOME_GARDEN | `40454ff5d3be3055b97bc9155c98d90895b749ca54c5cebe21b3ed00c590fe29` |
