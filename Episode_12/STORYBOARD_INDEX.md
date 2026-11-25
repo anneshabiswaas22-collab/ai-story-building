@@ -1,6 +1,6 @@
 # Episode 12 storyboard — Dad’s Shoe Is Going to School!
 
-13 of 20 sheets illustrated. Read each sheet across the top row, then across the bottom row. Each panel covers one 15-second shot.
+14 of 20 sheets illustrated. Read each sheet across the top row, then across the bottom row. Each panel covers one 15-second shot.
 
 [Screenplay](STORY.md) · [Image references and checksums](assets/storyboards/GENERATION_NOTES.md)
 
@@ -19,7 +19,7 @@
 | [11](#board-11) | 10:00–11:00 | 041–044 | The space stays open |
 | [12](#board-12) | 11:00–12:00 | 045–048 | The look from the dentist |
 | [13](#board-13) | 12:00–13:00 | 049–052 | The part under the bow |
-| 14 · pending | 13:00–14:00 | 053–056 | Whose fingers? |
+| [14](#board-14) | 13:00–14:00 | 053–056 | Whose fingers? |
 | 15 · pending | 14:00–15:00 | 057–060 | One more, by myself |
 | 16 · pending | 15:00–16:00 | 061–064 | Make room for a shoe |
 | 17 · pending | 16:00–17:00 | 065–068 | After the click |
@@ -195,3 +195,16 @@
 | Top right | [SHOT_050 · Permission to get it wrong](STORY.md#shot-050) | 12:15–12:30 |
 | Bottom left | [SHOT_051 · Two ends, one loop](STORY.md#shot-051) | 12:30–12:45 |
 | Bottom right | [SHOT_052 · The escaping ear](STORY.md#shot-052) | 12:45–13:00 |
+
+<a name="board-14"></a>
+
+## Board 14 — Whose fingers?
+
+[![Episode 12, shots 053 through 056](assets/storyboards/BOARD_14.png)](assets/storyboards/BOARD_14.png)
+
+| Panel | Screenplay shot | Episode time |
+|---|---|---|
+| Top left | [SHOT_053 · Whose fingers?](STORY.md#shot-053) | 13:00–13:15 |
+| Top right | [SHOT_054 · Just this bit](STORY.md#shot-054) | 13:15–13:30 |
+| Bottom left | [SHOT_055 · A bow that can hear](STORY.md#shot-055) | 13:30–13:45 |
+| Bottom right | [SHOT_056 · An honest credit](STORY.md#shot-056) | 13:45–14:00 |

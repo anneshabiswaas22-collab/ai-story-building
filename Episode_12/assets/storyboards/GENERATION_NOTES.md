@@ -182,6 +182,31 @@ Max opens his own bow, holds a single white loop and then shows Ella his empty h
 
 </details>
 
+<details>
+<summary>Sheet 14 · Whose fingers? · shots 053–056</summary>
+
+Leo offers the ends back to Max. The close-up shows their shared attempt, followed by Max showing Maya where Leo helped.
+
+> Illustration-story. Maple House English, Episode 12, illustrated sheet 14. Continue the supplied preceding four-panel sheet into a new production sheet, replacing its four images with the NEXT four different shots. Treat the written panel directions as the source of action. Precisely 2 equal columns x 2 equal rows on a wide 16:9 landscape canvas, four full cinematic landscape frames, thin ivory cross gutter. No titles, panel labels, dialogue text, captions, logos, sound effects, extra frames or decorative text. Use four deliberately different, expressive compositions, clear eye-lines and restrained natural gestures. The camera direction describes film movement; illustrate a single decisive frame for each shot. Respect shot-specific cast; close inserts can show faces at edges or hands. Every child has one body and two hands, preserve age and scale. Warm polished stylized 3D animated family film in the look of the preceding sheet.
+>
+> Visual references: 1 = preceding episode sheet; animation, props, and scene continuity; 2 = adult cast model lineup, left to right Dan, Maya, Nina; 3 = child cast model lineup, left to right Leo, Ella, Max; 4 = clean backyard set; same black compact, a flat yellow cushion.
+>
+> Dan: tall mustached dad, swept dark hair, sky-blue polo, navy trousers. Maya: dark low ponytail, plum shirt and cream trousers. Nina: short wavy auburn bob, teal blouse and tan trousers. Leo is tallest child, 12, chestnut hair, orange T-shirt, navy shorts, orange sneakers. Ella 9: brown twin braids, coral tee, full-length blue denim overalls, coral sneakers. Max 7: shortest, little auburn-haired boy in green T-shirt, tan shorts and green canvas sneakers with WHITE laces.
+>
+> In the garden the door is rear-left, shade tree rear-right. The compact faces the tree on a three-legged black tripod until shot 071; from its lens Dan, Maya, Nina form the back row, Leo front-left on a yellow cushion, Max center, Ella right. The boys always mean Max's own right shoe. At the dining table facing rear window Dan near-left, Leo left end, Ella far-left, Maya far-right, Nina right end, Max near-right.
+>
+> Specific direction: Focus on the very limited help offered. In shot 054 Leo uses exactly two fingers to pinch ONLY the base of the single loop while Max wraps the other lace. The result is an uneven bow on Max's RIGHT green sneaker. All four scenes on the grass. No shoes removed.
+>
+> TOP LEFT / 053 / Whose fingers? / HOME_GARDEN / LEO, MAX, NINA. Camera: Two pairs of hands in profile. Tilt to Leo as he realizes his fingers have arrived early. Depict: Leo gathers both ends to demonstrate. Max's hands quietly move to his lap. Nina waits. Leo notices the empty hands, lays the ends back on the shoe and tries a different question. Continuity: Leo gives back both ends before Max asks him to hold one loop. End state: Max has both ends back. Leo's hands are open and empty.
+>
+> TOP RIGHT / 054 / Just this bit / HOME_GARDEN / LEO, MAX, NINA. Camera: Level with the shoe, isolate Leo's two fingertips holding the base of Max's new loop. Depict: Max makes a new loop and places it between Leo's finger and thumb. With that part held steady, he wraps the other lace and pushes a fold of it through. Nina follows the little white tip with her eyes. Continuity: Leo holds only the base of the loop Max has made. End state: Two loops are visible. Leo still steadies the first one while Max gets hold of both.
+>
+> BOTTOM LEFT / 055 / A bow that can hear / HOME_GARDEN / DAN, ELLA, LEO, MAX. Camera: Take in both loops together before revealing Dan bent over them with one ear turned down. Depict: Leo lets go on Max's signal. Max pulls the loops snug, leaving one short and one long. Dan leans down as though the new bow has something important to tell him. Continuity: The first finished bow at the tree is the one they make together. End state: The bow is tied and uneven. Both boys have let go of the lace.
+>
+> BOTTOM RIGHT / 056 / An honest credit / HOME_GARDEN / DAN, MAYA, LEO, MAX. Camera: At ground level, let Maya enter the circle through the space between Dan and Leo. Depict: Maya sees the finished bow and asks who tied it. Leo is about to give Max all the credit. Max points to the exact spot where his brother's two fingers helped. Continuity: Max's left green shoe keeps its original bow. End state: Both brothers get credit for their part. The bow stays tied while they talk.
+
+</details>
+
 ## File verification
 
 Each PNG was decoded and checked for dimensions, chunk integrity and four distinct image regions. Its Git blob was read back from the PR branch after publication.
@@ -201,3 +226,4 @@ Each PNG was decoded and checked for dimensions, chunk integrity and four distin
 | [11](BOARD_11.png) | 041–044 | 1672 × 941 | [BOARD_10](BOARD_10.png), HOME_GARDEN | `0372d94a1cec0a727f94106510eb48e33c81a63053958d8f43a9b142625d0536` |
 | [12](BOARD_12.png) | 045–048 | 1672 × 941 | [BOARD_11](BOARD_11.png), HOME_GARDEN, [BOARD_11](BOARD_11.png) | `a24df4e76432734c3c81b6e47d160eb2d2bb12b08547abbfeb0f980d725bebff` |
 | [13](BOARD_13.png) | 049–052 | 1672 × 941 | [BOARD_12](BOARD_12.png), HOME_GARDEN | `7317355678b81028c0617718ab5d3447839bc41e1c849d245a25a476cbd5c4a1` |
+| [14](BOARD_14.png) | 053–056 | 1671 × 941 | [BOARD_13](BOARD_13.png), HOME_GARDEN | `49dfd666983a30def36960af9a6dfc0767896477c6093fc87549bfe18d7bd591` |
