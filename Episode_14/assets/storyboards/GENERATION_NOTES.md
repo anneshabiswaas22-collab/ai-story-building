@@ -43,6 +43,33 @@ The overhead insert shows seven creases and eight spaces between the two blue ha
 
 </details>
 
+<details>
+<summary>Sheet 08 · A pocket accordion · shots 029–032</summary>
+
+Max and Nina open opposite ends of the eight-panel strip. Nina points to the blank fourth panel before she decides what to write.
+
+> Use case: illustration-story. Episode 14 sheet 08. Maple House English, a warm polished, cinematic, stylized 3D family film. Generate a brand-new four-shot storyboard sheet for the NEXT shots. Exactly 2 columns by 2 rows of equal wide 16:9 cinematic frames, on one wide landscape 16:9 canvas, with one hairline ivory gutter cross. Read upper left, upper right, lower left, lower right. Four different compositions, motivated gestures and screen directions, cut in for the insert indicated. No frame numbers, titles, speech balloons, captions or text outside story props. Use clear readable letters ONLY when required on an in-world prop. Follow the named cast per shot (hands or a shoulder may stand for a character in an insert). Keep the Brooks family recognizable, no twins or duplicate limbs/objects.
+>
+> References: 1 — previous sheet, exact visual continuity; 2 — adult lineup, left to right Dan, Maya, Nina; 3 — child lineup, left to right Leo, Ella, Max; 4 — oak dining table, chairs and garden window; 5 — the long pale yellow strip, blue hand outlines, cream envelope.
+>
+> Dan: tall adult with swept dark hair, black mustache, sky-blue polo, navy trousers, watch on left wrist. Maya: dark low ponytail, plum tee, cream pants. Nina: wavy short auburn bob, teal top and tan trousers. Leo: tall 12-year-old in orange tee and navy shorts. Ella: age 9, brown twin braids, coral tee and full denim overalls. Max: smallest child, 7, curly auburn hair, green tee, tan shorts and green shoes. Distinct heights and proportions; two arms and hands per person.
+>
+> One paper hug from Max to Nina's father Ed: one continuous pale-yellow paper strip divided by seven alternating folds into EIGHT rectangular panels with one blue outline hand on each end and a private message on panel four. At the dining table facing the garden window: Leo left end, Ella far-left, Maya far-right, Nina right end, Max near-right, Dan near-left. A separate cream envelope is mailed ONCE from 14 Maple Lane to 8 Lantern Court, Apt 2B. One green-leaf stamp only after the post office. The siblings’ grandpa is never pictured and the tomato magnet is only a drawing on Ed’s postcard in the Brooks house.
+>
+> Direction for this sheet: One continuous pale-yellow strip of paper, dark-blue traced hand outlines drawn flat on the FIRST and LAST panels ONLY. 029 a close end-on angle of the last alternating creases brought together into one tidy PALM-SIZED accordion stack, a hand outline on its top. 030 wide horizontal, Nina in teal at right and little Max in green at near-right each hold an OUTSIDE END, pulling the strip open, both blue palms face up with six blank panels in between. 031 with the long strip open flat, Ella offers Nina a still CAPPED blue marker as Max indicates the FOURTH blank panel. 032 hold on Nina considering, capped marker at her chin, Dan plays a mock-formal refrigerator voice across table. No writing on any panel yet, no scissors or cut pieces; only the drawn hand at each end.
+>
+> UPPER LEFT · shot 029 A pocket accordion · HOME_TABLE · MAYA, NINA, ELLA, MAX. Camera: Keep the blue drawing at the near face as the last four panels join the stack. Turn it once to reveal the other face. Action: Max finishes the remaining bends. Maya steadies the small stack and Nina turns it over. One blue hand is on top and the other is underneath. Ella gives the folds a tiny squeeze like an accordion. Continuity: The long strip is still continuous through all seven creases. End: All eight panels form one flat accordion packet, the two hand drawings on its opposite outer faces.
+>
+> UPPER RIGHT · shot 030 The hug opens · HOME_TABLE · NINA, LEO, MAX. Camera: From the near side, watch Nina take one end panel and Max the other. Hold the frame wide enough for their full stretch. Action: Each holds a panel just inside its drawn fingertips. They separate their hands slowly. The whole length opens without hunting for a flap. At full reach the palms face up, just as Max drew them. Continuity: Nobody pulls on a middle crease. The two ends open the accordion together. End: The strip lies fully open on the table. Max has seen his one-pull hug work.
+>
+> LOWER LEFT · shot 031 Room in the middle · HOME_TABLE · ELLA, NINA, MAX. Camera: Move past the two blue ends to an empty panel near the middle, then up to Nina considering it. Action: Max would like Grandpa to find something halfway along the hug. Ella offers Nina the capped marker. Nina touches the fourth panel, surprised to be invited into the present. Continuity: Count from the left palm. Nina's writing will go on panel four. End: Nina has a place for a message inside the hug. She is still deciding what to say.
+>
+> LOWER RIGHT · shot 032 What a refrigerator would say · HOME_TABLE · DAN, MAYA, NINA. Camera: Across the table at Nina's right-end place, stay on the capped marker while she tries the words aloud. Action: Nina composes a very proper greeting about a very lovely new home. Dan delivers it in the polite voice of an appliance with an instruction booklet. Nina laughs and sets the cap against her chin. Continuity: Panel four remains blank at the cut. End: The formal greeting stays unspoken to Ed and unwritten. Nina wants a line he would know came from her.
+>
+> Art revision: Two small staging corrections. In UPPER RIGHT Max’s left hand holds the left end of the strip and his other arm is bent back against his chest. Nina holds the right end. Keep the single continuous strip exactly eight squares long, same two drawings. In LOWER LEFT preserve the eight squares, but shift Nina’s pointing fingertip LEFT by exactly one square so it touches the blank FOURTH square from the left including the hand square. Counted left to right her finger must be between the third and fourth crease, a little LEFT of the strip's midpoint. Change nothing in the other two frames.
+
+</details>
+
 ## File verification
 
 Each PNG was decoded and checked for dimensions, chunk integrity and four distinct image regions. Its Git blob was read back from the PR branch after publication.
@@ -56,3 +83,4 @@ Each PNG was decoded and checked for dimensions, chunk integrity and four distin
 | [05](BOARD_05.png) | 017–020 | 1672 × 941 | HOME_TABLE, BOARD_01 | `97ad8a44b67ec5800469dc3b1238e4d82fdae4d4f001ccb0ac1ffca215369fa5` |
 | [06](BOARD_06.png) | 021–024 | 1672 × 941 | HOME_TABLE, BOARD_04, BOARD_01 | `5e6dc3f73c23cd44721fb1d67ff62b0fbb17a14ce5e24e6af14f4cafde2c3e4e` |
 | [07](BOARD_07.png) | 025–028 | 1672 × 941 | BOARD_06, HOME_TABLE | `7d90fe0e6da7cf92aa707471daf685a4d94d51dc6116ae077435554f33b0704e` |
+| [08](BOARD_08.png) | 029–032 | 1670 × 941 | [BOARD_07](BOARD_07.png), HOME_TABLE, [BOARD_04](BOARD_04.png) | `98192435551c7c2a41f7b9448514c6f502ab0dbf69c83652af9e950c295326dd` |

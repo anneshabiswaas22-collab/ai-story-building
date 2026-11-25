@@ -1,6 +1,6 @@
 # Episode 14 storyboard — Can You Mail a Hug?
 
-7 of 20 sheets illustrated. Read each sheet across the top row, then across the bottom row. Each panel covers one 15-second shot.
+8 of 20 sheets illustrated. Read each sheet across the top row, then across the bottom row. Each panel covers one 15-second shot.
 
 [Screenplay](STORY.md) · [Image references and checksums](assets/storyboards/GENERATION_NOTES.md)
 
@@ -13,7 +13,7 @@
 | [05](#board-05) | 04:00–05:00 | 017–020 | Dinner for a piece of paper |
 | [06](#board-06) | 05:00–06:00 | 021–024 | Half of half |
 | [07](#board-07) | 06:00–07:00 | 025–028 | Roads across the yellow |
-| 08 · pending | 07:00–08:00 | 029–032 | A pocket accordion |
+| [08](#board-08) | 07:00–08:00 | 029–032 | A pocket accordion |
 | 09 · pending | 08:00–09:00 | 033–036 | Breakfast words |
 | 10 · pending | 09:00–10:00 | 037–040 | Open wide |
 | 11 · pending | 10:00–11:00 | 041–044 | On the outside |
@@ -117,3 +117,16 @@
 | Top right | [SHOT_026 · Seven lines, eight places](STORY.md#shot-026) | 06:15–06:30 |
 | Bottom left | [SHOT_027 · The first turn](STORY.md#shot-027) | 06:30–06:45 |
 | Bottom right | [SHOT_028 · Out and back](STORY.md#shot-028) | 06:45–07:00 |
+
+<a name="board-08"></a>
+
+## Board 08 — A pocket accordion
+
+[![Episode 14, shots 029 through 032](assets/storyboards/BOARD_08.png)](assets/storyboards/BOARD_08.png)
+
+| Panel | Screenplay shot | Episode time |
+|---|---|---|
+| Top left | [SHOT_029 · A pocket accordion](STORY.md#shot-029) | 07:00–07:15 |
+| Top right | [SHOT_030 · The hug opens](STORY.md#shot-030) | 07:15–07:30 |
+| Bottom left | [SHOT_031 · Room in the middle](STORY.md#shot-031) | 07:30–07:45 |
+| Bottom right | [SHOT_032 · What a refrigerator would say](STORY.md#shot-032) | 07:45–08:00 |
