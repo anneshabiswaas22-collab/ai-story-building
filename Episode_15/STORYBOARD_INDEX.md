@@ -1,6 +1,6 @@
 # Episode 15 storyboard — The Book With Two Beginnings!
 
-10 of 20 sheets illustrated. Read each sheet across the top row, then across the bottom row. Each panel covers one 15-second shot.
+11 of 20 sheets illustrated. Read each sheet across the top row, then across the bottom row. Each panel covers one 15-second shot.
 
 [Screenplay](STORY.md) · [Image references and checksums](assets/storyboards/GENERATION_NOTES.md)
 
@@ -16,7 +16,7 @@
 | [08](#board-08) | 07:00–08:00 | 029–032 | What does the giant want? |
 | [09](#board-09) | 08:00–09:00 | 033–036 | Turn the reader or turn the book? |
 | [10](#board-10) | 09:00–10:00 | 037–040 | Grandma's wrist |
-| 11 · pending | 10:00–11:00 | 041–044 | One face of the patch |
+| [11](#board-11) | 10:00–11:00 | 041–044 | One face of the patch |
 | 12 · pending | 11:00–12:00 | 045–048 | The part Maya forgot |
 | 13 · pending | 12:00–13:00 | 049–052 | Something to tell Rose |
 | 14 · pending | 13:00–14:00 | 053–056 | A slash between friends |
@@ -156,3 +156,16 @@
 | Top right | [SHOT_038 · That pencil question mark](STORY.md#shot-038) | 09:15–09:30 |
 | Bottom left | [SHOT_039 · The part she might have missed](STORY.md#shot-039) | 09:30–09:45 |
 | Bottom right | [SHOT_040 · A girl, a hat and a breeze](STORY.md#shot-040) | 09:45–10:00 |
+
+<a name="board-11"></a>
+
+## Board 11 — One face of the patch
+
+[![Episode 15, shots 041 through 044](assets/storyboards/BOARD_11.png)](assets/storyboards/BOARD_11.png)
+
+| Panel | Screenplay shot | Episode time |
+|---|---|---|
+| Top left | [SHOT_041 · One face of the patch](STORY.md#shot-041) | 10:00–10:15 |
+| Top right | [SHOT_042 · A hat in the puddle](STORY.md#shot-042) | 10:15–10:30 |
+| Bottom left | [SHOT_043 · The road around the puddle](STORY.md#shot-043) | 10:30–10:45 |
+| Bottom right | [SHOT_044 · What the giant saw](STORY.md#shot-044) | 10:45–11:00 |

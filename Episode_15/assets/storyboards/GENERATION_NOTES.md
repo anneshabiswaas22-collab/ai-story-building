@@ -124,6 +124,33 @@ Maya pauses at the question mark on Rose’s drawing and agrees to read the oran
 
 </details>
 
+<details>
+<summary>Sheet 11 · One face of the patch · shots 041–044</summary>
+
+Max counts three blue stitches before the hat blows into the puddle. The boot prints lead around to the stone, where Dot lays the leaf bridge for the beetle and its crumb.
+
+> Use case: illustration-story. Episode 15 sheet 11. Maple House English, a warm polished, cinematic, stylized 3D family film. Generate a brand-new four-shot storyboard sheet for the NEXT shots. Exactly 2 columns by 2 rows of equal wide 16:9 cinematic frames, on one wide landscape 16:9 canvas, with one hairline ivory gutter cross. Read upper left, upper right, lower left, lower right. Four different compositions, motivated gestures and screen directions, cut in for the insert indicated. No frame numbers, titles, speech balloons, captions or text outside story props. Use clear readable letters ONLY when required on an in-world prop. Follow the named cast per shot (hands or a shoulder may stand for a character in an insert). Keep the Brooks family recognizable, no twins or duplicate limbs/objects.
+>
+> References: 1 — previous sheet, exact visual continuity; 2 — adult lineup, left to right Dan, Maya, Nina; 3 — child lineup, left to right Leo, Ella, Max; 4 — library floor plan with right window bench, center display, self checkout and glass exit; 5 — printed beetle, yellow open hat and its three cross stitches.
+>
+> Dan: tall adult with swept dark hair, black mustache, sky-blue polo, navy trousers, watch on left wrist. Maya: dark low ponytail, plum tee, cream pants. Nina: wavy short auburn bob, teal top and tan trousers. Leo: tall 12-year-old in orange tee and navy shorts. Ella: age 9, brown twin braids, coral tee and full denim overalls. Max: smallest child, 7, curly auburn hair, green tee, tan shorts and green shoes. Distinct heights and proportions; two arms and hands per person.
+>
+> One reversible children’s picture book, normal single binding: GREEN cover ‘All Aboard, Beetle!’, ORANGE cover ‘Come Back, Hat!’, both by Nell Quill. Its ink-and-watercolor characters remain flat on illustrated cream pages: small dark blue beetle, golden oat crumb, child Dot with loose black curls and an ink-blue raincoat, ONE yellow hat floats upside down with its hollow crown open to sky; its green brim patch has three blue X stitches. The wordless central picture only: a leaf bridges the floating yellow brim to dry gray stone, Dot’s one finger pins the leaf to stone and her other hand steadies the brim, beetle and crumb together on stone. Cream family bookmark has opposite-facing childhood drawings: Rose’s boat and Maya’s hat, with a pencil question mark by the boat. Loose public reader card is white.
+>
+> Direction for this sheet: Emphasize changing scale across four inserts and reactions. All fantasy imagery printed in watercolor on real open book. 041 Max counts exactly THREE distinct blue X stitches across a green rectangular patch on the brim of the yellow hat STILL ON Dot’s head. 042 next spread, Dot’s black curls bare in wind, the ONE yellow hat floats hollow-side-up in a puddle; arc of wind, no second hat. Dan, Maya and two children can react at page edges. 043 move over the same illustration showing Dot’s BOOT PRINTS tracking around the puddle, twig at launch side, gray dry stone landing opposite, real Leo traces the route above the page. 044 next upright interior spread toward the crossing: small blue-black beetle with a single oat crumb waits on the floating brim, Dot in blue raincoat kneels, lays ONE green leaf from brim to dry gray stone so the tiny passenger can cross. Choose the instant before the beetle steps off. Angle close on the illustrated leaf rather than repeating the group portrait.
+>
+> UPPER LEFT · shot 041 One face of the patch · LIBRARY_FOYER · LEO, MAYA, ELLA, MAX. Camera: Go from the patch on Dot's brim to the faint patch on the bookmark in Ella's hand. Action: Dot's hat is still enough in the picture for the three blue stitches to show. Max counts them with one finger above the page. Maya almost counts for him and waits to hear him finish instead. Continuity: The same three blue Xs belong to the same patch on the brim throughout both stories. End: Max has matched the green patch to the patch on the beetle's boat.
+>
+> UPPER RIGHT · shot 042 A hat in the puddle · LIBRARY_FOYER · MAYA, DAN, ELLA, MAX. Camera: Turn to orange spread two. Trace the painted arc from Dot's bare head to the hat landing crown-down. Action: A gust has turned Dot's hat upside down in the puddle. Her curls fly one way and the hat goes the other. Dan finds the hull of the boat in the spot his head would have gone. Continuity: There is one hat. An arc of wind and Dot's bare head show where it came from. End: Orange spread two is open. The hat floats past the beetle's twig, hollow side up.
+>
+> LOWER LEFT · shot 043 The road around the puddle · LIBRARY_FOYER · ELLA, MAYA, NINA, LEO. Camera: Track the trail of Dot's boot prints around the bank toward the gray stone. Action: Leo notices Dot can walk around the puddle while the beetle crossed through it. Maya remembered Dot running after her hat. For the first time she sees the little twig it passed. Continuity: Keep the twig at the launch bank and the dry gray stone at the landing bank. End: Maya understands how Dot and the beetle can reach the same stone by different routes.
+>
+> LOWER RIGHT · shot 044 What the giant saw · LIBRARY_FOYER · MAYA, LEO, MAX. Camera: Turn into orange spread three, now upright. Match the ink-blue sleeve from the earlier upside-down glimpse. Action: Dot reaches toward the hat at the landing. Just before lifting it she notices a beetle pressed against an oat crumb. She lays a narrow green leaf between the brim and the stone. Maya lets Dot speak to herself. Continuity: This is the spread glimpsed in shot 032, now upright and seen from Dot's height. End: The leaf is in place for the passenger. The family has read the upside-down spread in its intended direction.
+>
+> Art revision: Only in UPPER LEFT, restore the slim cream bookmark to the supplied second reference exactly: plain rectangular paper with no string and no hole, ROSE upright above the yellow boat and ?, upside-down MAYA at the yellow hat end. Ella holds it. Maya’s hand should rest gently on the book edge instead of raising three fingers; Max in green is the one counting and pointing to the THREE blue cross-stitches on the printed patch. Leave the excellent other three illustrations as they are.
+
+</details>
+
 ## File verification
 
 Each PNG was decoded and checked for dimensions, chunk integrity and four distinct image regions. Its Git blob was read back from the PR branch after publication.
@@ -140,3 +167,4 @@ Each PNG was decoded and checked for dimensions, chunk integrity and four distin
 | [08](BOARD_08.png) | 029–032 | 1672 × 941 | [BOARD_07](BOARD_07.png), LIBRARY_FOYER, [BOARD_07](BOARD_07.png) | `83d50d4271bf3390aaa276ef6d9b99c07d36b313309f3d6f34ccd56970c0ac29` |
 | [09](BOARD_09.png) | 033–036 | 1670 × 941 | [BOARD_08](BOARD_08.png), LIBRARY_FOYER, [BOARD_07](BOARD_07.png), [BOARD_06](BOARD_06.png), [BOARD_01](BOARD_01.png) | `4c50727f34502369de4908868ffdbbeae3bdf62de3f986b03c8403b7bd14cdb9` |
 | [10](BOARD_10.png) | 037–040 | 1672 × 941 | [BOARD_09](BOARD_09.png), LIBRARY_FOYER, [BOARD_07](BOARD_07.png), [BOARD_01](BOARD_01.png) | `9ae207966587540a758a90fa0583f3ff4d6cc51d92d6fc9dff10ab06e1dbba3a` |
+| [11](BOARD_11.png) | 041–044 | 1670 × 941 | [BOARD_10](BOARD_10.png), LIBRARY_FOYER, [BOARD_07](BOARD_07.png), [BOARD_01](BOARD_01.png) | `1e79af4855d09fa94acede4dab4f7e9d5d26f7a3ad2575454120cc699297e4ee` |
