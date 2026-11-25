@@ -1,6 +1,6 @@
 # Episode 12 storyboard — Dad’s Shoe Is Going to School!
 
-12 of 20 sheets illustrated. Read each sheet across the top row, then across the bottom row. Each panel covers one 15-second shot.
+13 of 20 sheets illustrated. Read each sheet across the top row, then across the bottom row. Each panel covers one 15-second shot.
 
 [Screenplay](STORY.md) · [Image references and checksums](assets/storyboards/GENERATION_NOTES.md)
 
@@ -18,7 +18,7 @@
 | [10](#board-10) | 09:00–10:00 | 037–040 | A smile Max can keep |
 | [11](#board-11) | 10:00–11:00 | 041–044 | The space stays open |
 | [12](#board-12) | 11:00–12:00 | 045–048 | The look from the dentist |
-| 13 · pending | 12:00–13:00 | 049–052 | The part under the bow |
+| [13](#board-13) | 12:00–13:00 | 049–052 | The part under the bow |
 | 14 · pending | 13:00–14:00 | 053–056 | Whose fingers? |
 | 15 · pending | 14:00–15:00 | 057–060 | One more, by myself |
 | 16 · pending | 15:00–16:00 | 061–064 | Make room for a shoe |
@@ -182,3 +182,16 @@
 | Top right | [SHOT_046 · Who Max was watching](STORY.md#shot-046) | 11:15–11:30 |
 | Bottom left | [SHOT_047 · One they could use](STORY.md#shot-047) | 11:30–11:45 |
 | Bottom right | [SHOT_048 · A little ear in the grass](STORY.md#shot-048) | 11:45–12:00 |
+
+<a name="board-13"></a>
+
+## Board 13 — The part under the bow
+
+[![Episode 12, shots 049 through 052](assets/storyboards/BOARD_13.png)](assets/storyboards/BOARD_13.png)
+
+| Panel | Screenplay shot | Episode time |
+|---|---|---|
+| Top left | [SHOT_049 · The part under the bow](STORY.md#shot-049) | 12:00–12:15 |
+| Top right | [SHOT_050 · Permission to get it wrong](STORY.md#shot-050) | 12:15–12:30 |
+| Bottom left | [SHOT_051 · Two ends, one loop](STORY.md#shot-051) | 12:30–12:45 |
+| Bottom right | [SHOT_052 · The escaping ear](STORY.md#shot-052) | 12:45–13:00 |

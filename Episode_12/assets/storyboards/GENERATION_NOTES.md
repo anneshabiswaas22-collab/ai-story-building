@@ -157,6 +157,31 @@ The enlarged playback isolates Max looking toward his brother. The last panel mo
 
 </details>
 
+<details>
+<summary>Sheet 13 · The part under the bow · shots 049–052</summary>
+
+Max opens his own bow, holds a single white loop and then shows Ella his empty hand when it slips. Leo watches the attempt.
+
+> Illustration-story. Maple House English, Episode 12, illustrated sheet 13. Continue the supplied preceding four-panel sheet into a new production sheet, replacing its four images with the NEXT four different shots. Treat the written panel directions as the source of action. Precisely 2 equal columns x 2 equal rows on a wide 16:9 landscape canvas, four full cinematic landscape frames, thin ivory cross gutter. No titles, panel labels, dialogue text, captions, logos, sound effects, extra frames or decorative text. Use four deliberately different, expressive compositions, clear eye-lines and restrained natural gestures. The camera direction describes film movement; illustrate a single decisive frame for each shot. Respect shot-specific cast; close inserts can show faces at edges or hands. Every child has one body and two hands, preserve age and scale. Warm polished stylized 3D animated family film in the look of the preceding sheet.
+>
+> Visual references: 1 = preceding episode sheet; animation, props, and scene continuity; 2 = adult cast model lineup, left to right Dan, Maya, Nina; 3 = child cast model lineup, left to right Leo, Ella, Max; 4 = clean backyard set; same black compact, a flat yellow cushion.
+>
+> Dan: tall mustached dad, swept dark hair, sky-blue polo, navy trousers. Maya: dark low ponytail, plum shirt and cream trousers. Nina: short wavy auburn bob, teal blouse and tan trousers. Leo is tallest child, 12, chestnut hair, orange T-shirt, navy shorts, orange sneakers. Ella 9: brown twin braids, coral tee, full-length blue denim overalls, coral sneakers. Max 7: shortest, little auburn-haired boy in green T-shirt, tan shorts and green canvas sneakers with WHITE laces.
+>
+> In the garden the door is rear-left, shade tree rear-right. The compact faces the tree on a three-legged black tripod until shot 071; from its lens Dan, Maya, Nina form the back row, Leo front-left on a yellow cushion, Max center, Ella right. The boys always mean Max's own right shoe. At the dining table facing rear window Dan near-left, Leo left end, Ella far-left, Maya far-right, Nina right end, Max near-right.
+>
+> Specific direction: All four frames are quiet hands-and-shoe character beats. Feature Max's own RIGHT green canvas sneaker, white rubber toe and white laces, still on his foot. His left green sneaker remains normally tied. Show sequentially a lopsided bow, pulling it open, holding one new white loop, then a slipped loop. Leo observes and never ties it on this sheet.
+>
+> TOP LEFT / 049 / The part under the bow / HOME_GARDEN / NINA, LEO, MAX. Camera: At grass level, keep the intact bow in the foreground and Max's face above it. Depict: Max traces the crossover he can do and stops where the two loops meet. Nina sits just close enough to hear. He asks his question of Leo without looking up from his shoe. Continuity: Stay with the present-day children. The old print is indoors. End state: Max explains exactly where he usually gets stuck. Leo stays to watch him try.
+>
+> TOP RIGHT / 050 / Permission to get it wrong / HOME_GARDEN / LEO, MAX, ELLA. Camera: Stay on Max's hands. Leo's hands remain on his own knees at the edge of frame. Depict: Max takes a lace end and waits for an objection. Leo makes himself comfortable. Max draws the end through and opens the bow on his own shoe. Continuity: Max remains seated while his right lace is open. End state: The right shoe stays on Max's planted foot with the white lace open. His left shoe stays tied.
+>
+> BOTTOM LEFT / 051 / Two ends, one loop / HOME_GARDEN / LEO, MAX. Camera: Close on the green toe between the brothers. Let the first loop rise above Max's thumb. Depict: Max crosses the ends and snugs the first knot. He makes one loop and switches it between his fingers to free the other hand. The loop shrinks a little with every switch. Continuity: His left hand holds the first loop and his right holds the free lace. End state: One small loop is pinched in Max's left hand. He has the free lace in his right.
+>
+> BOTTOM RIGHT / 052 / The escaping ear / HOME_GARDEN / ELLA, LEO, MAX. Camera: Hold the small loop against the dark grass so its disappearance reads without a cut. Depict: Max wraps the loose lace around his loop, then accidentally tugs the loop's own tail. The loop slides out. Max opens his hand to show Ella the spectacular handful of nothing left in it. Continuity: The wrap slips. The first crossover stays snug. End state: The loose wrap falls open above the base knot. Both lace ends are free again.
+
+</details>
+
 ## File verification
 
 Each PNG was decoded and checked for dimensions, chunk integrity and four distinct image regions. Its Git blob was read back from the PR branch after publication.
@@ -175,3 +200,4 @@ Each PNG was decoded and checked for dimensions, chunk integrity and four distin
 | [10](BOARD_10.png) | 037–040 | 1670 × 942 | [BOARD_09](BOARD_09.png), HOME_GARDEN | `725cfe04ee9e788894ebe3e165f0e0e460a088f311ef6f0a0c4ed70d1adfca6b` |
 | [11](BOARD_11.png) | 041–044 | 1672 × 941 | [BOARD_10](BOARD_10.png), HOME_GARDEN | `0372d94a1cec0a727f94106510eb48e33c81a63053958d8f43a9b142625d0536` |
 | [12](BOARD_12.png) | 045–048 | 1672 × 941 | [BOARD_11](BOARD_11.png), HOME_GARDEN, [BOARD_11](BOARD_11.png) | `a24df4e76432734c3c81b6e47d160eb2d2bb12b08547abbfeb0f980d725bebff` |
+| [13](BOARD_13.png) | 049–052 | 1672 × 941 | [BOARD_12](BOARD_12.png), HOME_GARDEN | `7317355678b81028c0617718ab5d3447839bc41e1c849d245a25a476cbd5c4a1` |
