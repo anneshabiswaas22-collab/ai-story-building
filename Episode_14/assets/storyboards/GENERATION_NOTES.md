@@ -70,6 +70,31 @@ Max and Nina open opposite ends of the eight-panel strip. Nina points to the bla
 
 </details>
 
+<details>
+<summary>Sheet 09 · Breakfast words · shots 033–036</summary>
+
+The written message reads “I still owe you a corner.” and is signed “Love, Nina.” Max signs beneath the left blue hand before the accordion folds the private note inside.
+
+> Use case: illustration-story. Episode 14 sheet 09. Maple House English, a warm polished, cinematic, stylized 3D family film. Generate a brand-new four-shot storyboard sheet for the NEXT shots. Exactly 2 columns by 2 rows of equal wide 16:9 cinematic frames, on one wide landscape 16:9 canvas, with one hairline ivory gutter cross. Read upper left, upper right, lower left, lower right. Four different compositions, motivated gestures and screen directions, cut in for the insert indicated. No frame numbers, titles, speech balloons, captions or text outside story props. Use clear readable letters ONLY when required on an in-world prop. Follow the named cast per shot (hands or a shoulder may stand for a character in an insert). Keep the Brooks family recognizable, no twins or duplicate limbs/objects.
+>
+> References: 1 — previous sheet, exact visual continuity; 2 — adult lineup, left to right Dan, Maya, Nina; 3 — child lineup, left to right Leo, Ella, Max; 4 — oak dining table, chairs and garden window; 5 — the long pale yellow strip, blue hand outlines, cream envelope.
+>
+> Dan: tall adult with swept dark hair, black mustache, sky-blue polo, navy trousers, watch on left wrist. Maya: dark low ponytail, plum tee, cream pants. Nina: wavy short auburn bob, teal top and tan trousers. Leo: tall 12-year-old in orange tee and navy shorts. Ella: age 9, brown twin braids, coral tee and full denim overalls. Max: smallest child, 7, curly auburn hair, green tee, tan shorts and green shoes. Distinct heights and proportions; two arms and hands per person.
+>
+> One paper hug from Max to Nina's father Ed: one continuous pale-yellow paper strip divided by seven alternating folds into EIGHT rectangular panels with one blue outline hand on each end and a private message on panel four. At the dining table facing the garden window: Leo left end, Ella far-left, Maya far-right, Nina right end, Max near-right, Dan near-left. A separate cream envelope is mailed ONCE from 14 Maple Lane to 8 Lantern Court, Apt 2B. One green-leaf stamp only after the post office. The siblings’ grandpa is never pictured and the tomato magnet is only a drawing on Ed’s postcard in the Brooks house.
+>
+> Direction for this sheet: 033 close on Nina listening to Max mime breaking a toast corner with his empty fingers. 034 an intimate, legible INSERT showing ONLY the middle section of the open strip: Nina writes in ordinary BLUE handwriting the exact two lines 'I still owe you a corner.' and 'Nina' directly below, both on ONE panel (fourth from left); do not stretch the words across creases. 035 tight on the outer left panel: Max signs 'MAX' below its blue traced hand with a large first M, Dan mimes a mustache. 036 the existing seven zigzag creases compress into a single palm-size yellow packet with a blue hand visible on its outside and the middle note now fully hidden. No real toast or grandfather in this dining room.
+>
+> UPPER LEFT · shot 033 Breakfast words · HOME_TABLE · NINA, MAYA, MAX. Camera: At Max's place, his thumb and forefinger mime breaking a little triangle off a slice of toast. Action: Max reminds Nina about the corner he ate. Nina recalls how her dad always offered her the plate with its crispest corner turned toward her. He knew who his thief was all along. Continuity: The breakfast story belongs to Nina and her dad. Max heard it that morning. End: Nina knows exactly what she wants to say. She uncaps the blue marker.
+>
+> UPPER RIGHT · shot 034 I still owe you a corner · HOME_TABLE · NINA, MAX, ELLA. Camera: Over Nina's writing hand. Let the entire short message come into view as she lifts the tip. Action: On the fourth panel Nina writes a sentence in her ordinary handwriting, then signs on the line below. Max reads it softly, smiling at the part Ed will understand even without a picture of toast. Continuity: The blue message is on the same face as the two palms. It will be inside the folded packet. End: Panel four holds two lines. The first reads “I still owe you a corner.” The second reads “Love, Nina.” Nina gives the marker to Max.
+>
+> LOWER LEFT · shot 035 A small name under a small hand · HOME_TABLE · DAN, LEO, MAX. Camera: Slide from Nina's signature to the leftmost panel. Keep the space under the palm in sight. Action: Max writes his name under the left palm. He starts with a very grand M and has just enough room for the other two letters. Dan quietly draws a grand mustache in the air beneath his own nose. Continuity: Both authors sign the actual strip. Its rightmost hand still has room for an opening cue. End: “Max” is written beneath the left hand. Max caps the marker and leaves it beside the pencil.
+>
+> LOWER RIGHT · shot 036 Can you find the message? · HOME_TABLE · ELLA, LEO, MAYA, MAX. Camera: Return to the end-on view as the existing zigzags collapse into one tidy packet. Action: Max pushes the ends together while Leo guides the creases. Ella tries to spot Nina's writing once the stack is flat. Maya sees only the blue palms, one on each outside face. Continuity: The left end has Max's name. The right end has a blue hand and room for a short cue. End: The packet is folded again. The line on panel four is hidden and both end panels remain accessible.
+
+</details>
+
 ## File verification
 
 Each PNG was decoded and checked for dimensions, chunk integrity and four distinct image regions. Its Git blob was read back from the PR branch after publication.
@@ -84,3 +109,4 @@ Each PNG was decoded and checked for dimensions, chunk integrity and four distin
 | [06](BOARD_06.png) | 021–024 | 1672 × 941 | HOME_TABLE, BOARD_04, BOARD_01 | `5e6dc3f73c23cd44721fb1d67ff62b0fbb17a14ce5e24e6af14f4cafde2c3e4e` |
 | [07](BOARD_07.png) | 025–028 | 1672 × 941 | BOARD_06, HOME_TABLE | `7d90fe0e6da7cf92aa707471daf685a4d94d51dc6116ae077435554f33b0704e` |
 | [08](BOARD_08.png) | 029–032 | 1670 × 941 | [BOARD_07](BOARD_07.png), HOME_TABLE, [BOARD_04](BOARD_04.png) | `98192435551c7c2a41f7b9448514c6f502ab0dbf69c83652af9e950c295326dd` |
+| [09](BOARD_09.png) | 033–036 | 1672 × 941 | [BOARD_08](BOARD_08.png), HOME_TABLE, [BOARD_04](BOARD_04.png) | `abddb9b586944dffd2d2cd46ceb5f26f7245bcd8075c52b8df9b83111ea9d97e` |
