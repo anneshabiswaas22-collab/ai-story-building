@@ -57,6 +57,31 @@ Leo’s walk, the late pose and the saved elbow use the same camera and yellow c
 
 </details>
 
+<details>
+<summary>Sheet 09 · A different kind of help · shots 033–036</summary>
+
+Leo switches to the ten-second timer, walks the route while Maya taps the beat, and points the family toward the lens.
+
+> Illustration-story. Maple House English, Episode 12, illustrated sheet 09. Continue the supplied preceding four-panel sheet into a new production sheet, replacing its four images with the NEXT four different shots. Treat the written panel directions as the source of action. Precisely 2 equal columns x 2 equal rows on a wide 16:9 landscape canvas, four full cinematic landscape frames, thin ivory cross gutter. No titles, panel labels, dialogue text, captions, logos, sound effects, extra frames or decorative text. Use four deliberately different, expressive compositions, clear eye-lines and restrained natural gestures. The camera direction describes film movement; illustrate a single decisive frame for each shot. Respect shot-specific cast; close inserts can show faces at edges or hands. Every child has one body and two hands, preserve age and scale. Warm polished stylized 3D animated family film in the look of the preceding sheet.
+>
+> Visual references: 1 = preceding episode sheet; animation, props, and scene continuity; 2 = adult cast model lineup, left to right Dan, Maya, Nina; 3 = child cast model lineup, left to right Leo, Ella, Max; 4 = clean backyard set; same black compact, a flat yellow cushion.
+>
+> Dan: tall mustached dad, swept dark hair, sky-blue polo, navy trousers. Maya: dark low ponytail, plum shirt and cream trousers. Nina: short wavy auburn bob, teal blouse and tan trousers. Leo is tallest child, 12, chestnut hair, orange T-shirt, navy shorts, orange sneakers. Ella 9: brown twin braids, coral tee, full-length blue denim overalls, coral sneakers. Max 7: shortest, little auburn-haired boy in green T-shirt, tan shorts and green canvas sneakers with WHITE laces.
+>
+> In the garden the door is rear-left, shade tree rear-right. The compact faces the tree on a three-legged black tripod until shot 071; from its lens Dan, Maya, Nina form the back row, Leo front-left on a yellow cushion, Max center, Ella right. The boys always mean Max's own right shoe. At the dining table facing rear window Dan near-left, Leo left end, Ella far-left, Maya far-right, Nina right end, Max near-right.
+>
+> Specific direction: At the display insert make the chosen timer value legible as “10s.” This is a practice walk, so keep the shutter idle. The empty front-left place is marked by a single FLAT yellow cushion.
+>
+> TOP LEFT / 033 / A different kind of help / HOME_GARDEN / DAN, MAYA, LEO. Camera: Keep Leo and Dan level in the frame as Dan lowers his imaginary microphone. Depict: Dan hears him. He returns to his mark under the tree and holds a hand above the front-left gap. From the tripod Leo can see exactly where he is aiming for. Continuity: The cushion stays flat. Dan marks the space with his hand from back-left. End state: Dan will save Leo's space. Maya stays beside the tripod to watch the walk.
+>
+> TOP RIGHT / 034 / Ten instead of two / HOME_GARDEN / LEO, MAYA. Camera: Close on the dial from Leo's side. Hold on the selected value as he repeats his plan. Depict: Leo closes playback and turns the dial one more stop. He reads the selected delay before he leaves the menu. Maya offers a way to try the walk without a picture. Continuity: The ten-second selection persists until the family powers down. End state: Ten seconds is selected and will stay selected for both remaining photographs.
+>
+> BOTTOM LEFT / 035 / The walk, including the turn / HOME_GARDEN / MAYA, LEO, MAX. Camera: Track Leo at an ordinary walk, then settle beside the cushion. Let ten seconds pass in real time. Depict: Maya taps an even beat against her palm. Leo rounds the tripod, reaches the cushion and kneels on his left knee. Before the last tap, Max has time to straighten Leo's collar, then remembers Leo doesn't have one. Continuity: Maya times this walk with her hand. The camera stays idle. End state: Leo knows he can reach the cushion comfortably. No image was taken on the practice walk.
+>
+> BOTTOM RIGHT / 036 / What to look at / HOME_GARDEN / DAN, MAYA, NINA, LEO, ELLA, MAX. Camera: Wide from the camera side. Let the six pairs of eyes travel in different directions. Depict: From his place on the cushion, Leo asks everyone to look at the lens for the portrait. Five pairs of eyes turn toward him instead. He points. Their eyes follow his finger in a small wave. Continuity: The lens faces the tree from the open lawn. End state: The family knows which little circle is the lens. Leo can see everyone's face from his spot.
+
+</details>
+
 ## File verification
 
 Each PNG was decoded and checked for dimensions, chunk integrity and four distinct image regions. Its Git blob was read back from the PR branch after publication.
@@ -71,3 +96,4 @@ Each PNG was decoded and checked for dimensions, chunk integrity and four distin
 | [06](BOARD_06.png) | 021–024 | 1672 × 941 | HOME_GARDEN, BOARD_05 (shot 020 playback) | `66f8866ff11a254eba87cfcaa9ec5aa685e6a879bd58f460fe170cda6f539c3f` |
 | [07](BOARD_07.png) | 025–028 | 1672 × 941 | HOME_GARDEN, BOARD_05 | `bf2302a034e05c3fbd9b2b3dd510a1247acd9a5c5a6bb70050c7dc998c41ec5b` |
 | [08](BOARD_08.png) | 029–032 | 1671 × 941 | BOARD_07 | `86e778406c0b4e311aa7bd30240c2ac46ea927285668277ace44f66065f68318` |
+| [09](BOARD_09.png) | 033–036 | 1670 × 941 | [BOARD_08](BOARD_08.png), HOME_GARDEN | `3ce3073870abe8a21d9d6ded1d090da583cfa476296e6d3c8f32e0637e221cf5` |

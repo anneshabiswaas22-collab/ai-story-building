@@ -1,6 +1,6 @@
 # Episode 12 storyboard — Dad’s Shoe Is Going to School!
 
-8 of 20 sheets illustrated. Read each sheet across the top row, then across the bottom row. Each panel covers one 15-second shot.
+9 of 20 sheets illustrated. Read each sheet across the top row, then across the bottom row. Each panel covers one 15-second shot.
 
 [Screenplay](STORY.md) · [Image references and checksums](assets/storyboards/GENERATION_NOTES.md)
 
@@ -14,7 +14,7 @@
 | [06](#board-06) | 05:00–06:00 | 021–024 | Meet Cousin Cushion |
 | [07](#board-07) | 06:00–07:00 | 025–028 | A clock the size of a pea |
 | [08](#board-08) | 07:00–08:00 | 029–032 | Picture two |
-| 09 · pending | 08:00–09:00 | 033–036 | A different kind of help |
+| [09](#board-09) | 08:00–09:00 | 033–036 | A different kind of help |
 | 10 · pending | 09:00–10:00 | 037–040 | A smile Max can keep |
 | 11 · pending | 10:00–11:00 | 041–044 | The space stays open |
 | 12 · pending | 11:00–12:00 | 045–048 | The look from the dentist |
@@ -130,3 +130,16 @@
 | Top right | [SHOT_030 · A perfect pose for nobody](STORY.md#shot-030) | 07:15–07:30 |
 | Bottom left | [SHOT_031 · A very small portrait of Leo](STORY.md#shot-031) | 07:30–07:45 |
 | Bottom right | [SHOT_032 · No votes from the elbow](STORY.md#shot-032) | 07:45–08:00 |
+
+<a name="board-09"></a>
+
+## Board 09 — A different kind of help
+
+[![Episode 12, shots 033 through 036](assets/storyboards/BOARD_09.png)](assets/storyboards/BOARD_09.png)
+
+| Panel | Screenplay shot | Episode time |
+|---|---|---|
+| Top left | [SHOT_033 · A different kind of help](STORY.md#shot-033) | 08:00–08:15 |
+| Top right | [SHOT_034 · Ten instead of two](STORY.md#shot-034) | 08:15–08:30 |
+| Bottom left | [SHOT_035 · The walk, including the turn](STORY.md#shot-035) | 08:30–08:45 |
+| Bottom right | [SHOT_036 · What to look at](STORY.md#shot-036) | 08:45–09:00 |
