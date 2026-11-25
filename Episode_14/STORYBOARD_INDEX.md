@@ -1,6 +1,6 @@
 # Episode 14 storyboard — Can You Mail a Hug?
 
-10 of 20 sheets illustrated. Read each sheet across the top row, then across the bottom row. Each panel covers one 15-second shot.
+11 of 20 sheets illustrated. Read each sheet across the top row, then across the bottom row. Each panel covers one 15-second shot.
 
 [Screenplay](STORY.md) · [Image references and checksums](assets/storyboards/GENERATION_NOTES.md)
 
@@ -16,7 +16,7 @@
 | [08](#board-08) | 07:00–08:00 | 029–032 | A pocket accordion |
 | [09](#board-09) | 08:00–09:00 | 033–036 | Breakfast words |
 | [10](#board-10) | 09:00–10:00 | 037–040 | Open wide |
-| 11 · pending | 10:00–11:00 | 041–044 | On the outside |
+| [11](#board-11) | 10:00–11:00 | 041–044 | On the outside |
 | 12 · pending | 11:00–12:00 | 045–048 | Two trips across a table |
 | 13 · pending | 12:00–13:00 | 049–052 | One more door |
 | 14 · pending | 13:00–14:00 | 053–056 | Which piece stays home? |
@@ -156,3 +156,16 @@
 | Top right | [SHOT_038 · One hand and the other](STORY.md#shot-038) | 09:15–09:30 |
 | Bottom left | [SHOT_039 · A quiet test](STORY.md#shot-039) | 09:30–09:45 |
 | Bottom right | [SHOT_040 · The whole hug goes in](STORY.md#shot-040) | 09:45–10:00 |
+
+<a name="board-11"></a>
+
+## Board 11 — On the outside
+
+[![Episode 14, shots 041 through 044](assets/storyboards/BOARD_11.png)](assets/storyboards/BOARD_11.png)
+
+| Panel | Screenplay shot | Episode time |
+|---|---|---|
+| Top left | [SHOT_041 · On the outside](STORY.md#shot-041) | 10:00–10:15 |
+| Top right | [SHOT_042 · The trip the postcard took](STORY.md#shot-042) | 10:15–10:30 |
+| Bottom left | [SHOT_043 · Return it?](STORY.md#shot-043) | 10:30–10:45 |
+| Bottom right | [SHOT_044 · What comes back?](STORY.md#shot-044) | 10:45–11:00 |
