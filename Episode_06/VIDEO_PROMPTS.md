@@ -1,6 +1,8 @@
 # Episode 06 — Dad Said HOT… But Meant WARM! | Restaurant English | Funny Family Dinner: 80 story video prompts
 
-Written and still-image preproduction draft. Each slot is a planned 15-second editorial shot, 16:9, original warm stylized 3D and natural General American family conversation. No video or voice has been generated. Optional creator-authored practice belongs after the story. Creator visual approval and individual motion first frames remain pending.
+Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start dialogue promptly, let meaningful actions and listener reactions occur during speech, and avoid filler silence, prolonged holds or unnatural motion. Speaker windows below are provisional editorial targets, not instructions to rush speech; verify against natural recorded performances. If a line cannot fit naturally, flag the shot for editorial review rather than truncating dialogue or artificially speeding it up.
+
+Written and still-image preproduction draft. Each slot is a planned 10-second editorial shot, 16:9, original warm stylized 3D and natural General American family conversation. No video or voice has been generated. Optional creator-authored practice belongs after the story. Creator visual approval and individual motion first frames remain pending.
 
 Use the unchanged [cast previews](assets/characters/), [continuity ledger](CONTINUITY.md) and [scene plan](SCENE_REFERENCE_PLAN.md). Restore original owner-controlled identity/home PNG masters before separately authorized motion production. No replacement faces, extra family members, wardrobe changes, mirrored watch/pocket sides, watermarks, baked-in subtitles or audience drills. Readable prop text uses the exact [SVG overlays](assets/overlays/).
 
@@ -14,9 +16,9 @@ Use the unchanged [cast previews](assets/characters/), [continuity ledger](CONTI
 - Left aisle side near-to-far: Dan, Leo, Ella. Right window side near-to-far: Max, Nina, Maya.
 - Nina packs only Max's existing leftover portion once into one box; Max's plate is empty afterward.
 
-Edit STORY.md first; sync.py regenerates this written draft and estimated subtitles, not media.
+Edit STORY.md first; sync.py regenerates this written draft and estimated subtitles, not media. The legacy sync script and existing subtitle track have not been retimed in this change; verify or update their timing before regenerating this document or assembling video.
 
-## SHOT_001 | 00:00:00–00:00:15 | A dinner invitation
+## SHOT_001 | 00:00:00–00:00:10 | A dinner invitation
 
 **Characters:** DAN, MAYA, NINA. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Medium three-shot at the cool oak island.
@@ -26,7 +28,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_01.png](assets/storyboards/BOARD_01.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Original kitchen geography and six-person W01 cast. No restaurant food or utensils appear at home.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–4.07s · NINA 4.22–6.78s · DAN 6.93–9.92s · MAYA 10.07–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–2.71s · NINA 2.81–4.52s · DAN 4.62–6.61s · MAYA 6.71–9.53s.
 
 **Dialogue:**
 **MAYA:** We have time for dinner at the neighborhood restaurant.
@@ -37,7 +39,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAYA:** Will you be prepared to let us order for ourselves?
 
-## SHOT_002 | 00:00:15–00:00:30 | A place for six
+## SHOT_002 | 00:00:10–00:00:20 | A place for six
 
 **Characters:** LEO, ELLA, MAX, NINA. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Child-height group by the island.
@@ -47,7 +49,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_01.png](assets/storyboards/BOARD_01.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Original kitchen geography and six-person W01 cast. No restaurant food or utensils appear at home.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–2.97s · ELLA 3.12–5.84s · NINA 5.99–9.15s · MAX 9.30–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.98s · ELLA 2.08–3.89s · NINA 3.99–6.10s · MAX 6.20–9.19s.
 
 **Dialogue:**
 **LEO:** Can we look at a menu?
@@ -58,7 +60,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** I want a seat where I can hear everybody order.
 
-## SHOT_003 | 00:00:30–00:00:45 | The speech in his pocket
+## SHOT_003 | 00:00:20–00:00:30 | The speech in his pocket
 
 **Characters:** DAN, MAYA. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Medium Dan smoothing a blank note beside his right pocket.
@@ -68,7 +70,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_01.png](assets/storyboards/BOARD_01.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Original kitchen geography and six-person W01 cast. No restaurant food or utensils appear at home.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.41s · MAYA 3.56–5.84s · DAN 5.99–8.71s · MAYA 8.86–12.90s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.27s · MAYA 2.37–3.89s · DAN 3.99–5.81s · MAYA 5.91–8.60s.
 
 **Dialogue:**
 **DAN:** Esteemed keeper of dinner, we humbly request—
@@ -79,7 +81,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAYA:** Try that sentence in your regular dinner voice, Dan.
 
-## SHOT_004 | 00:00:45–00:01:00 | What Max wants to know
+## SHOT_004 | 00:00:30–00:00:40 | What Max wants to know
 
 **Characters:** MAX, NINA, DAN. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Close Max looking up at both adults.
@@ -89,7 +91,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_01.png](assets/storyboards/BOARD_01.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Original kitchen geography and six-person W01 cast. No restaurant food or utensils appear at home.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–2.53s · NINA 2.68–7.60s · DAN 7.75–10.03s · MAX 10.18–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.69s · NINA 1.79–5.07s · DAN 5.17–6.69s · MAX 6.79–9.48s.
 
 **Dialogue:**
 **MAX:** Will everything be too hot?
@@ -100,7 +102,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** I want to know before my tongue finds out.
 
-## SHOT_005 | 00:01:00–00:01:15 | Room in the dinner budget
+## SHOT_005 | 00:00:40–00:00:50 | Room in the dinner budget
 
 **Characters:** MAYA, DAN, LEO. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Over-shoulder household budget note, exact amount editorial.
@@ -110,7 +112,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Original kitchen geography and six-person W01 cast. No restaurant food or utensils appear at home.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–3.76s · LEO 3.91–6.99s · DAN 7.14–9.79s · LEO 9.94–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–2.51s · LEO 2.61–4.66s · DAN 4.76–6.53s · LEO 6.63–9.53s.
 
 **Dialogue:**
 **MAYA:** Eighty dollars for the meal, tax, and tip.
@@ -121,7 +123,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **LEO:** That's my favorite part to know before we sit down.
 
-## SHOT_006 | 00:01:15–00:01:30 | No menu in the imagination
+## SHOT_006 | 00:00:50–00:01:00 | No menu in the imagination
 
 **Characters:** ELLA, DAN, MAYA. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Medium Ella catching Dan's elaborate hand gesture.
@@ -131,7 +133,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Original kitchen geography and six-person W01 cast. No restaurant food or utensils appear at home.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.41s · ELLA 3.56–6.72s · MAYA 6.87–9.15s · DAN 9.30–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.27s · ELLA 2.37–4.48s · MAYA 4.58–6.10s · DAN 6.20–9.48s.
 
 **Dialogue:**
 **DAN:** Perhaps a dessert taller than this kitchen—
@@ -142,7 +144,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** Fair. My eyes can order all the imaginary dessert they like.
 
-## SHOT_007 | 00:01:30–00:01:45 | Everyone brings a question
+## SHOT_007 | 00:01:00–00:01:10 | Everyone brings a question
 
 **Characters:** LEO, ELLA, MAX, NINA. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Gentle wide as the children join Nina by the doorway.
@@ -152,7 +154,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Original kitchen geography and six-person W01 cast. No restaurant food or utensils appear at home.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–2.09s · ELLA 2.24–5.40s · NINA 5.55–9.15s · MAX 9.30–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.39s · ELLA 1.49–3.60s · NINA 3.70–6.10s · MAX 6.20–9.19s.
 
 **Dialogue:**
 **LEO:** I can check prices.
@@ -163,7 +165,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** I know that one already. Can I try it there?
 
-## SHOT_008 | 00:01:45–00:02:00 | The short version
+## SHOT_008 | 00:01:10–00:01:20 | The short version
 
 **Characters:** DAN, MAYA, NINA. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Medium three-shot at kitchen doorway.
@@ -173,7 +175,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Original kitchen geography and six-person W01 cast. No restaurant food or utensils appear at home.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–2.70s · MAYA 2.85–3.88s · DAN 4.03–8.38s · NINA 8.53–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.80s · MAYA 1.90–2.59s · DAN 2.69–5.59s · NINA 5.69–8.27s.
 
 **Dialogue:**
 **DAN:** I have shortened my speech.
@@ -184,7 +186,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **NINA:** Let's see if dinner fits through with you.
 
-## SHOT_009 | 00:02:00–00:02:15 | A welcoming doorway
+## SHOT_009 | 00:01:20–00:01:30 | A welcoming doorway
 
 **Characters:** DAN, MAYA, NINA, LEO, ELLA, MAX. **Location:** RESTAURANT_ENTRANCE. **Wardrobe:** W01 only.
 **Composition:** Wide from inside entrance, host stand left and window right.
@@ -194,7 +196,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_03.png](assets/storyboards/BOARD_03.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. No food ordered before the choices and clarification.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–1.33s · MAYA 1.48–4.03s · MAX 4.18–7.72s · LEO 7.87–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–0.89s · MAYA 0.99–2.69s · MAX 2.79–5.15s · LEO 5.25–8.27s.
 
 **Dialogue:**
 **DAN:** Good evening.
@@ -205,7 +207,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **LEO:** So far, nobody's needed a dictionary to understand Dad.
 
-## SHOT_010 | 00:02:15–00:02:30 | A table please
+## SHOT_010 | 00:01:30–00:01:40 | A table please
 
 **Characters:** DAN, MAYA, NINA. **Location:** RESTAURANT_ENTRANCE. **Wardrobe:** W01 only.
 **Off-screen cast:** SERVER
@@ -216,7 +218,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_03.png](assets/storyboards/BOARD_03.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. No food ordered before the choices and clarification. SERVER is an off-screen voice; only anonymous sleeve-covered hands/forearms may enter.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.85s · SERVER 4.00–7.60s · NINA 7.75–8.71s · DAN 8.86–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.57s · SERVER 2.67–5.07s · NINA 5.17–5.81s · DAN 5.91–8.89s.
 
 **Dialogue:**
 **DAN:** Could we have a table for six, please?
@@ -227,7 +229,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** The window sounds good. We'll all be able to see.
 
-## SHOT_011 | 00:02:30–00:02:45 | The aisle is a working path
+## SHOT_011 | 00:01:40–00:01:50 | The aisle is a working path
 
 **Characters:** MAYA, LEO, ELLA, MAX. **Location:** RESTAURANT_WIDE. **Wardrobe:** W01 only.
 **Composition:** Wide along clear left aisle beside table.
@@ -237,7 +239,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_03.png](assets/storyboards/BOARD_03.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. No food ordered before the choices and clarification.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–3.85s · ELLA 4.00–6.72s · MAX 6.87–8.71s · LEO 8.86–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–2.57s · ELLA 2.67–4.48s · MAX 4.58–5.81s · LEO 5.91–8.89s.
 
 **Dialogue:**
 **MAYA:** Stay beside me. This aisle is for everyone.
@@ -248,7 +250,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **LEO:** I'll tuck in here. Ella, there's room for you now.
 
-## SHOT_012 | 00:02:45–00:03:00 | Six places in order
+## SHOT_012 | 00:01:50–00:02:00 | Six places in order
 
 **Characters:** DAN, MAYA, NINA, LEO, ELLA, MAX. **Location:** RESTAURANT_WIDE. **Wardrobe:** W01 only.
 **Composition:** Wide from near short end showing three chairs on each long side.
@@ -258,7 +260,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_03.png](assets/storyboards/BOARD_03.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. No food ordered before the choices and clarification.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–2.09s · ELLA 2.24–4.52s · DAN 4.67–8.71s · NINA 8.86–12.90s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.39s · ELLA 1.49–3.01s · DAN 3.11–5.81s · NINA 5.91–8.60s.
 
 **Dialogue:**
 **LEO:** Three on this side.
@@ -269,7 +271,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **NINA:** Good. We can hear one another from both sides.
 
-## SHOT_013 | 00:03:00–00:03:15 | Menus arrive before meals
+## SHOT_013 | 00:02:00–00:02:10 | Menus arrive before meals
 
 **Characters:** MAYA, NINA, DAN. **Location:** RESTAURANT_TABLE. **Wardrobe:** W01 only.
 **Off-screen cast:** SERVER
@@ -280,7 +282,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_04.png](assets/storyboards/BOARD_04.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. No food ordered before the choices and clarification. SERVER is an off-screen voice; only anonymous sleeve-covered hands/forearms may enter.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): SERVER 0.25–3.79s · MAYA 3.94–5.02s · NINA 5.17–7.23s · DAN 7.38–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): SERVER 0.17–2.53s · MAYA 2.63–3.35s · NINA 3.45–4.82s · DAN 4.92–8.27s.
 
 **Dialogue:**
 **SERVER:** Here are your menus. Take your time.
@@ -291,7 +293,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** I'll start with the part that actually looks like dinner.
 
-## SHOT_014 | 00:03:15–00:03:30 | Not a book to finish
+## SHOT_014 | 00:02:10–00:02:20 | Not a book to finish
 
 **Characters:** MAX, NINA, LEO. **Location:** RESTAURANT_TABLE. **Wardrobe:** W01 only.
 **Composition:** Close Max's blank-open menu with faces above it.
@@ -301,7 +303,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_04.png](assets/storyboards/BOARD_04.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. No food ordered before the choices and clarification.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–3.85s · NINA 4.00–7.16s · LEO 7.31–10.03s · MAX 10.18–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.57s · NINA 2.67–4.77s · LEO 4.87–6.69s · MAX 6.79–9.48s.
 
 **Dialogue:**
 **MAX:** Do I have to read the whole book?
@@ -312,7 +314,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** A book where I get to choose the ending!
 
-## SHOT_015 | 00:03:30–00:03:45 | Water without a speech
+## SHOT_015 | 00:02:20–00:02:30 | Water without a speech
 
 **Characters:** DAN, MAX, NINA. **Location:** RESTAURANT_TABLE. **Wardrobe:** W01 only.
 **Off-screen cast:** SERVER
@@ -323,7 +325,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_04.png](assets/storyboards/BOARD_04.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. No food ordered before the choices and clarification. SERVER is an off-screen voice; only anonymous sleeve-covered hands/forearms may enter.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–2.53s · SERVER 2.68–5.40s · DAN 5.55–9.15s · MAX 9.30–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.69s · SERVER 1.79–3.60s · DAN 3.70–6.10s · MAX 6.20–8.89s.
 
 **Dialogue:**
 **MAX:** Could we have water, please?
@@ -334,7 +336,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** Good. My mouth was dry just listening to yours.
 
-## SHOT_016 | 00:03:45–00:04:00 | The water landing
+## SHOT_016 | 00:02:30–00:02:40 | The water landing
 
 **Characters:** MAYA, NINA, MAX. **Location:** RESTAURANT_TABLE. **Wardrobe:** W01 only.
 **Off-screen cast:** SERVER
@@ -345,7 +347,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_04.png](assets/storyboards/BOARD_04.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. No food ordered before the choices and clarification. SERVER is an off-screen voice; only anonymous sleeve-covered hands/forearms may enter.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): SERVER 0.25–3.17s · MAYA 3.33–4.36s · MAX 4.51–7.91s · NINA 8.06–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): SERVER 0.17–2.11s · MAYA 2.22–2.91s · MAX 3.01–5.27s · NINA 5.37–8.27s.
 
 **Dialogue:**
 **SERVER:** Your water. There is no charge.
@@ -356,7 +358,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **NINA:** Leave it there, Max. There's room beside your menu.
 
-## SHOT_017 | 00:04:00–00:04:15 | A menu has neighborhoods
+## SHOT_017 | 00:02:40–00:02:50 | A menu has neighborhoods
 
 **Characters:** LEO, ELLA, DAN. **Location:** RESTAURANT_TABLE. **Wardrobe:** W01 only.
 **Composition:** Over Leo's shoulder to exact menu overlay with faces visible.
@@ -366,7 +368,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_05.png](assets/storyboards/BOARD_05.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. One draft becomes one ticket; soup is corrected before cooking.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–2.09s · ELLA 2.24–5.40s · DAN 5.55–9.59s · ELLA 9.74–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.39s · ELLA 1.49–3.60s · DAN 3.70–6.39s · ELLA 6.49–9.19s.
 
 **Dialogue:**
 **LEO:** Appetizers, main courses, desserts.
@@ -377,7 +379,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **ELLA:** Great. I don't think my stomach wants an introduction.
 
-## SHOT_018 | 00:04:15–00:04:30 | Maya chooses vegetables
+## SHOT_018 | 00:02:50–00:03:00 | Maya chooses vegetables
 
 **Characters:** MAYA, ELLA, NINA. **Location:** RESTAURANT_TABLE. **Wardrobe:** W01 only.
 **Composition:** Medium window-side adults and Ella across the table.
@@ -387,7 +389,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_05.png](assets/storyboards/BOARD_05.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. One draft becomes one ticket; soup is corrected before cooking.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–3.41s · ELLA 3.56–5.84s · MAYA 5.99–9.15s · NINA 9.30–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–2.27s · ELLA 2.37–3.89s · MAYA 3.99–6.10s · NINA 6.20–8.89s.
 
 **Dialogue:**
 **MAYA:** The vegetable pasta sounds good. Twelve dollars.
@@ -398,7 +400,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **NINA:** I can see why you picked that one, Maya.
 
-## SHOT_019 | 00:04:30–00:04:45 | Nina knows her dinner
+## SHOT_019 | 00:03:00–00:03:10 | Nina knows her dinner
 
 **Characters:** NINA, MAX, DAN. **Location:** RESTAURANT_TABLE. **Wardrobe:** W01 only.
 **Composition:** Medium Nina with menu resting flat.
@@ -408,7 +410,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_05.png](assets/storyboards/BOARD_05.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. One draft becomes one ticket; soup is corrected before cooking.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): NINA 0.25–2.97s · DAN 3.12–6.28s · NINA 6.43–8.27s · DAN 8.42–12.46s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–1.98s · DAN 2.08–4.19s · NINA 4.29–5.51s · DAN 5.61–8.31s.
 
 **Dialogue:**
 **NINA:** Grilled chicken with rice for me.
@@ -419,7 +421,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** Good. I was about to count the rice twice.
 
-## SHOT_020 | 00:04:45–00:05:00 | Leo's comfortable choice
+## SHOT_020 | 00:03:10–00:03:20 | Leo's comfortable choice
 
 **Characters:** LEO, MAYA, DAN. **Location:** RESTAURANT_TABLE. **Wardrobe:** W01 only.
 **Composition:** Medium left-side Leo pointing to sandwich line.
@@ -429,7 +431,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_05.png](assets/storyboards/BOARD_05.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. One draft becomes one ticket; soup is corrected before cooking.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–2.90s · MAYA 3.05–5.70s · DAN 5.85–9.79s · LEO 9.94–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.93s · MAYA 2.03–3.80s · DAN 3.90–6.53s · LEO 6.63–9.53s.
 
 **Dialogue:**
 **LEO:** I would like the cheese sandwich.
@@ -440,7 +442,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **LEO:** I'd like to do the asking for my own sandwich.
 
-## SHOT_021 | 00:05:00–00:05:15 | Ella asks what comes with it
+## SHOT_021 | 00:03:20–00:03:30 | Ella asks what comes with it
 
 **Characters:** ELLA, NINA, MAYA. **Location:** RESTAURANT_TABLE. **Wardrobe:** W01 only.
 **Off-screen cast:** SERVER
@@ -451,7 +453,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. One draft becomes one ticket; soup is corrected before cooking. SERVER is an off-screen voice; only anonymous sleeve-covered hands/forearms may enter.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–3.41s · SERVER 3.56–5.84s · ELLA 5.99–8.71s · NINA 8.86–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.27s · SERVER 2.37–3.89s · ELLA 3.99–5.81s · NINA 5.91–9.19s.
 
 **Dialogue:**
 **ELLA:** Does the baked potato include the vegetables?
@@ -462,7 +464,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **NINA:** Good question, Ella. Now you know exactly what comes with it.
 
-## SHOT_022 | 00:05:15–00:05:30 | Max chooses his size
+## SHOT_022 | 00:03:30–00:03:40 | Max chooses his size
 
 **Characters:** MAX, NINA, LEO. **Location:** RESTAURANT_TABLE. **Wardrobe:** W01 only.
 **Composition:** Child-height two-shot Max and Nina with Leo beyond.
@@ -472,7 +474,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. One draft becomes one ticket; soup is corrected before cooking.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–3.23s · NINA 3.38–5.54s · MAX 5.69–9.92s · LEO 10.07–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.15s · NINA 2.25–3.69s · MAX 3.79–6.61s · LEO 6.71–9.53s.
 
 **Dialogue:**
 **MAX:** There is a smaller chicken and rice.
@@ -483,7 +485,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **LEO:** We can spot yours next to Nina's when it comes.
 
-## SHOT_023 | 00:05:30–00:05:45 | Dan finds his soup
+## SHOT_023 | 00:03:40–00:03:50 | Dan finds his soup
 
 **Characters:** DAN, MAYA, LEO. **Location:** RESTAURANT_TABLE. **Wardrobe:** W01 only.
 **Composition:** Medium Dan lowering menu toward his empty place.
@@ -493,7 +495,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. One draft becomes one ticket; soup is corrected before cooking.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.41s · MAYA 3.56–6.72s · DAN 6.87–8.71s · LEO 8.86–12.90s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.27s · MAYA 2.37–4.48s · DAN 4.58–5.81s · LEO 5.91–8.60s.
 
 **Dialogue:**
 **DAN:** The tomato soup looks right for me.
@@ -504,7 +506,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **LEO:** Hot like a pepper, or hot like the pan?
 
-## SHOT_024 | 00:05:45–00:06:00 | One word makes two paths
+## SHOT_024 | 00:03:50–00:04:00 | One word makes two paths
 
 **Characters:** DAN, NINA, MAX. **Location:** RESTAURANT_TABLE. **Wardrobe:** W01 only.
 **Off-screen cast:** SERVER
@@ -515,7 +517,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. One draft becomes one ticket; soup is corrected before cooking. SERVER is an off-screen voice; only anonymous sleeve-covered hands/forearms may enter.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.33s · SERVER 3.48–7.41s · MAX 7.56–10.21s · NINA 10.36–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.22s · SERVER 2.32–4.94s · MAX 5.04–6.81s · NINA 6.91–9.53s.
 
 **Dialogue:**
 **DAN:** I would like the soup hot, please.
@@ -526,7 +528,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **NINA:** Listen to the question, Dan. Which did you mean?
 
-## SHOT_025 | 00:06:00–00:06:15 | The little pepper picture
+## SHOT_025 | 00:04:00–00:04:10 | The little pepper picture
 
 **Characters:** DAN, LEO, MAYA. **Location:** RESTAURANT_TABLE. **Wardrobe:** W01 only.
 **Composition:** Close menu spice symbol supplied editorially, faces above.
@@ -536,7 +538,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_07.png](assets/storyboards/BOARD_07.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. One draft becomes one ticket; soup is corrected before cooking.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–2.15s · DAN 2.30–5.11s · MAYA 5.26–8.53s · DAN 8.68–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.43s · DAN 1.53–3.41s · MAYA 3.51–5.69s · DAN 5.79–8.27s.
 
 **Dialogue:**
 **LEO:** This pepper means spicy.
@@ -547,7 +549,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** Right. My tongue had one temperature in mind.
 
-## SHOT_026 | 00:06:15–00:06:30 | The water is not a rescue
+## SHOT_026 | 00:04:10–00:04:20 | The water is not a rescue
 
 **Characters:** MAX, NINA, DAN. **Location:** RESTAURANT_TABLE. **Wardrobe:** W01 only.
 **Composition:** Medium Max's own water glass remaining on coaster.
@@ -557,7 +559,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_07.png](assets/storyboards/BOARD_07.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. One draft becomes one ticket; soup is corrected before cooking.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–2.97s · NINA 3.12–4.96s · DAN 5.11–9.15s · MAX 9.30–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.98s · NINA 2.08–3.31s · DAN 3.41–6.10s · MAX 6.20–8.89s.
 
 **Dialogue:**
 **MAX:** Should I rescue Dad with water?
@@ -568,7 +570,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** I'll save my water for drinking with my dinner.
 
-## SHOT_027 | 00:06:30–00:06:45 | A smaller and clearer request
+## SHOT_027 | 00:04:20–00:04:30 | A smaller and clearer request
 
 **Characters:** DAN, MAYA, NINA. **Location:** RESTAURANT_TABLE. **Wardrobe:** W01 only.
 **Off-screen cast:** SERVER
@@ -579,7 +581,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_07.png](assets/storyboards/BOARD_07.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. One draft becomes one ticket; soup is corrected before cooking. SERVER is an off-screen voice; only anonymous sleeve-covered hands/forearms may enter.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.41s · SERVER 3.56–5.40s · NINA 5.55–8.71s · DAN 8.86–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.27s · SERVER 2.37–3.60s · NINA 3.70–5.81s · DAN 5.91–8.89s.
 
 **Dialogue:**
 **DAN:** Mild tomato soup, please. Warm, not extra-hot.
@@ -590,7 +592,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** Yes. That sounds like the soup I came here for.
 
-## SHOT_028 | 00:06:45–00:07:00 | A change before the kitchen
+## SHOT_028 | 00:04:30–00:04:40 | A change before the kitchen
 
 **Characters:** DAN, LEO, MAYA. **Location:** RESTAURANT_TABLE. **Wardrobe:** W01 only.
 **Off-screen cast:** SERVER
@@ -601,7 +603,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_07.png](assets/storyboards/BOARD_07.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. One draft becomes one ticket; soup is corrected before cooking. SERVER is an off-screen voice; only anonymous sleeve-covered hands/forearms may enter.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–4.19s · SERVER 4.34–7.84s · LEO 7.99–10.21s · MAYA 10.36–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.79s · SERVER 2.89–5.23s · LEO 5.33–6.81s · MAYA 6.91–9.53s.
 
 **Dialogue:**
 **DAN:** Could we change the note before you send it?
@@ -612,7 +614,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAYA:** That's one note I'm glad we checked in time.
 
-## SHOT_029 | 00:07:00–00:07:15 | All six dishes in one place
+## SHOT_029 | 00:04:40–00:04:50 | All six dishes in one place
 
 **Characters:** MAYA, NINA, DAN. **Location:** RESTAURANT_TABLE. **Wardrobe:** W01 only.
 **Composition:** Overhead-angled six-item order-card insert with adults above.
@@ -622,7 +624,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. One draft becomes one ticket; soup is corrected before cooking.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–2.82s · NINA 2.97–6.78s · DAN 6.93–10.33s · NINA 10.48–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.88s · NINA 1.98–4.52s · DAN 4.62–6.89s · NINA 6.99–9.53s.
 
 **Dialogue:**
 **MAYA:** One meal for each of us.
@@ -633,7 +635,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **NINA:** Six mains, then. Let's see how that adds up.
 
-## SHOT_030 | 00:07:15–00:07:30 | Prices before promises
+## SHOT_030 | 00:04:50–00:05:00 | Prices before promises
 
 **Characters:** LEO, DAN, MAYA. **Location:** RESTAURANT_TABLE. **Wardrobe:** W01 only.
 **Composition:** Close exact menu prices and handwritten draft subtotal overlay.
@@ -643,7 +645,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. One draft becomes one ticket; soup is corrected before cooking.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–2.97s · MAYA 3.12–4.96s · DAN 5.11–9.59s · LEO 9.74–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.98s · MAYA 2.08–3.31s · DAN 3.41–6.39s · LEO 6.49–9.19s.
 
 **Dialogue:**
 **LEO:** Fifty-eight dollars for the six meals.
@@ -654,7 +656,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **LEO:** Let's get that part right before the check comes.
 
-## SHOT_031 | 00:07:30–00:07:45 | The posted tax
+## SHOT_031 | 00:05:00–00:05:10 | The posted tax
 
 **Characters:** NINA, LEO, DAN. **Location:** RESTAURANT_TABLE. **Wardrobe:** W01 only.
 **Composition:** Medium Nina reading the menu's exact posted tax line.
@@ -664,7 +666,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. One draft becomes one ticket; soup is corrected before cooking.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): NINA 0.25–3.33s · LEO 3.48–5.70s · DAN 5.85–9.79s · NINA 9.94–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–2.22s · LEO 2.32–3.80s · DAN 3.90–6.53s · NINA 6.63–9.53s.
 
 **Dialogue:**
 **NINA:** This menu lists ten percent sales tax.
@@ -675,7 +677,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **NINA:** Good. The tip still needs its own place in there.
 
-## SHOT_032 | 00:07:45–00:08:00 | Leave room for thanks
+## SHOT_032 | 00:05:10–00:05:20 | Leave room for thanks
 
 **Characters:** MAYA, DAN, NINA. **Location:** RESTAURANT_TABLE. **Wardrobe:** W01 only.
 **Composition:** Medium adults conferring without showing cash.
@@ -685,7 +687,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. One draft becomes one ticket; soup is corrected before cooking.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–2.97s · NINA 3.12–4.96s · DAN 5.11–8.71s · MAYA 8.86–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.98s · NINA 2.08–3.31s · DAN 3.41–5.81s · MAYA 5.91–8.89s.
 
 **Dialogue:**
 **MAYA:** Let us plan a ten-dollar tip.
@@ -696,7 +698,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAYA:** Good. We can enjoy dinner without guessing at the end.
 
-## SHOT_033 | 00:08:00–00:08:15 | Everyone says their own order
+## SHOT_033 | 00:05:20–00:05:30 | Everyone says their own order
 
 **Characters:** LEO, ELLA, MAX. **Location:** RESTAURANT_TABLE. **Wardrobe:** W01 only.
 **Composition:** Medium alternating child eyelines toward off-screen server.
@@ -706,7 +708,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. One draft becomes one ticket; soup is corrected before cooking.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–1.70s · ELLA 1.85–4.66s · MAX 4.81–7.62s · ELLA 7.77–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.13s · ELLA 1.23–3.11s · MAX 3.21–5.08s · ELLA 5.18–8.27s.
 
 **Dialogue:**
 **LEO:** Cheese sandwich, please.
@@ -717,7 +719,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **ELLA:** Good thing we each got to say our own part.
 
-## SHOT_034 | 00:08:15–00:08:30 | Both partners finish the order
+## SHOT_034 | 00:05:30–00:05:40 | Both partners finish the order
 
 **Characters:** MAYA, NINA, DAN. **Location:** RESTAURANT_TABLE. **Wardrobe:** W01 only.
 **Composition:** Medium adults with closed menus gathering at aisle edge.
@@ -727,7 +729,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. One draft becomes one ticket; soup is corrected before cooking.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–2.53s · NINA 2.68–4.96s · DAN 5.11–9.15s · MAYA 9.30–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.69s · NINA 1.79–3.31s · DAN 3.41–6.10s · MAYA 6.20–9.19s.
 
 **Dialogue:**
 **MAYA:** Vegetable pasta for me, please.
@@ -738,7 +740,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAYA:** That's all three of us. Thanks for checking the soup.
 
-## SHOT_035 | 00:08:30–00:08:45 | Ask about needs before cooking
+## SHOT_035 | 00:05:40–00:05:50 | Ask about needs before cooking
 
 **Characters:** MAYA, NINA, DAN. **Location:** RESTAURANT_TABLE. **Wardrobe:** W01 only.
 **Off-screen cast:** SERVER
@@ -749,7 +751,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. One draft becomes one ticket; soup is corrected before cooking. SERVER is an off-screen voice; only anonymous sleeve-covered hands/forearms may enter.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): SERVER 0.25–2.97s · MAYA 3.12–6.72s · NINA 6.87–10.03s · DAN 10.18–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): SERVER 0.17–1.98s · MAYA 2.08–4.48s · NINA 4.58–6.69s · DAN 6.79–9.19s.
 
 **Dialogue:**
 **SERVER:** Any ingredient restrictions I should flag?
@@ -760,7 +762,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** Just the soup the way we agreed, please.
 
-## SHOT_036 | 00:08:45–00:09:00 | One ticket leaves the table
+## SHOT_036 | 00:05:50–00:06:00 | One ticket leaves the table
 
 **Characters:** DAN, MAYA, NINA. **Location:** RESTAURANT_TABLE. **Wardrobe:** W01 only.
 **Off-screen cast:** SERVER
@@ -771,7 +773,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. One draft becomes one ticket; soup is corrected before cooking. SERVER is an off-screen voice; only anonymous sleeve-covered hands/forearms may enter.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): SERVER 0.25–4.73s · DAN 4.88–8.48s · NINA 8.63–11.79s · SERVER 11.94–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): SERVER 0.17–3.15s · DAN 3.25–5.65s · NINA 5.75–7.86s · SERVER 7.96–9.48s.
 
 **Dialogue:**
 **SERVER:** Six mains, including the mild, warm soup. Sending it now.
@@ -782,7 +784,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **SERVER:** Yes, exactly as you asked.
 
-## SHOT_037 | 00:09:00–00:09:15 | A wait with an ending
+## SHOT_037 | 00:06:00–00:06:10 | A wait with an ending
 
 **Characters:** DAN, MAX, NINA. **Location:** RESTAURANT_TABLE. **Wardrobe:** W01 only.
 **Composition:** Relaxed child-height medium on empty places and waters.
@@ -792,7 +794,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_10.png](assets/storyboards/BOARD_10.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Cooking takes elapsed story time; table stays empty of meals until service.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–4.07s · NINA 4.22–6.37s · DAN 6.52–9.50s · MAX 9.65–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.71s · NINA 2.81–4.25s · DAN 4.35–6.33s · MAX 6.43–9.53s.
 
 **Dialogue:**
 **MAX:** Does dinner need a quiet minute like pancake batter?
@@ -803,7 +805,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** Good. I think my fork is less patient than the batter.
 
-## SHOT_038 | 00:09:15–00:09:30 | The fork is not a microphone
+## SHOT_038 | 00:06:10–00:06:20 | The fork is not a microphone
 
 **Characters:** ELLA, LEO, MAYA. **Location:** RESTAURANT_TABLE. **Wardrobe:** W01 only.
 **Composition:** Medium Ella noticing Leo's fork still on the napkin.
@@ -813,7 +815,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_10.png](assets/storyboards/BOARD_10.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Cooking takes elapsed story time; table stays empty of meals until service.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–2.97s · LEO 3.12–6.72s · MAYA 6.87–8.71s · ELLA 8.86–12.90s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.98s · LEO 2.08–4.48s · MAYA 4.58–5.81s · ELLA 5.91–8.60s.
 
 **Dialogue:**
 **ELLA:** And now, the very patient fork.
@@ -824,7 +826,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **ELLA:** Listen. It's doing a very good job of waiting.
 
-## SHOT_039 | 00:09:30–00:09:45 | Two meanings can share a word
+## SHOT_039 | 00:06:20–00:06:30 | Two meanings can share a word
 
 **Characters:** MAX, DAN, NINA. **Location:** RESTAURANT_TABLE. **Wardrobe:** W01 only.
 **Composition:** Medium Max comparing his water and untouched spoon.
@@ -834,7 +836,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_10.png](assets/storyboards/BOARD_10.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Cooking takes elapsed story time; table stays empty of meals until service.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–3.23s · NINA 3.38–6.37s · DAN 6.52–9.92s · MAX 10.07–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.15s · NINA 2.25–4.25s · DAN 4.35–6.61s · MAX 6.71–9.53s.
 
 **Dialogue:**
 **MAX:** Can mild food still be too hot?
@@ -845,7 +847,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** So I'll still give mine a minute if it steams.
 
-## SHOT_040 | 00:09:45–00:10:00 | A useful memory of flour
+## SHOT_040 | 00:06:30–00:06:40 | A useful memory of flour
 
 **Characters:** DAN, MAYA, ELLA. **Location:** RESTAURANT_TABLE. **Wardrobe:** W01 only.
 **Composition:** Warm medium with no kitchen props entering the restaurant.
@@ -855,7 +857,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_10.png](assets/storyboards/BOARD_10.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Cooking takes elapsed story time; table stays empty of meals until service.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–4.29s · MAYA 4.44–6.28s · ELLA 6.43–10.03s · DAN 10.18–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.86s · MAYA 2.96–4.19s · ELLA 4.29–6.69s · DAN 6.79–9.48s.
 
 **Dialogue:**
 **DAN:** I guessed a whole breakfast from one word once.
@@ -866,7 +868,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** One little question is cheaper than another whole dinner.
 
-## SHOT_041 | 00:10:00–00:10:15 | An appetizer stays on the menu
+## SHOT_041 | 00:06:40–00:06:50 | An appetizer stays on the menu
 
 **Characters:** LEO, MAX, NINA. **Location:** RESTAURANT_TABLE. **Wardrobe:** W01 only.
 **Composition:** Medium Leo and Max looking toward service aisle without reaching.
@@ -876,7 +878,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Cooking takes elapsed story time; table stays empty of meals until service.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–2.90s · NINA 3.05–5.27s · LEO 5.42–9.79s · MAX 9.94–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.93s · NINA 2.03–3.51s · LEO 3.61–6.53s · MAX 6.63–9.53s.
 
 **Dialogue:**
 **MAX:** Are we missing the appetizer part?
@@ -887,7 +889,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** Good. My smaller plate is a whole dinner for me.
 
-## SHOT_042 | 00:10:15–00:10:30 | A very ordinary request
+## SHOT_042 | 00:06:50–00:07:00 | A very ordinary request
 
 **Characters:** DAN, MAYA, NINA. **Location:** RESTAURANT_TABLE. **Wardrobe:** W01 only.
 **Composition:** Medium Dan seated with both hands resting on table edge.
@@ -897,7 +899,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Cooking takes elapsed story time; table stays empty of meals until service.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.41s · MAYA 3.56–5.84s · DAN 5.99–9.59s · NINA 9.74–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.27s · MAYA 2.37–3.89s · DAN 3.99–6.39s · NINA 6.49–9.19s.
 
 **Dialogue:**
 **DAN:** I prepared a request for more water.
@@ -908,7 +910,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **NINA:** Your glass appreciates a little peace and quiet too.
 
-## SHOT_043 | 00:10:30–00:10:45 | Clear space for the plates
+## SHOT_043 | 00:07:00–00:07:10 | Clear space for the plates
 
 **Characters:** MAYA, ELLA, MAX. **Location:** RESTAURANT_TABLE. **Wardrobe:** W01 only.
 **Composition:** Medium Maya guiding children to keep elbows and hands back.
@@ -918,7 +920,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Cooking takes elapsed story time; table stays empty of meals until service.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–3.41s · ELLA 3.56–5.84s · MAX 5.99–9.15s · ELLA 9.30–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–2.27s · ELLA 2.37–3.89s · MAX 3.99–6.10s · ELLA 6.20–9.19s.
 
 **Dialogue:**
 **MAYA:** Let us leave room for the server.
@@ -929,7 +931,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **ELLA:** I'll keep my elbows in. There's room on this side.
 
-## SHOT_044 | 00:10:45–00:11:00 | The first two meals arrive
+## SHOT_044 | 00:07:10–00:07:20 | The first two meals arrive
 
 **Characters:** MAYA, NINA, DAN. **Location:** RESTAURANT_TABLE. **Wardrobe:** W01 only.
 **Off-screen cast:** SERVER
@@ -940,7 +942,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Cooking takes elapsed story time; table stays empty of meals until service. SERVER is an off-screen voice; only anonymous sleeve-covered hands/forearms may enter.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): SERVER 0.25–3.85s · MAYA 4.00–6.28s · NINA 6.43–8.71s · DAN 8.86–12.90s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): SERVER 0.17–2.57s · MAYA 2.67–4.19s · NINA 4.29–5.81s · DAN 5.91–8.60s.
 
 **Dialogue:**
 **SERVER:** Vegetable pasta, and the adult chicken and rice.
@@ -951,7 +953,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** That chicken looks like the size Nina asked for.
 
-## SHOT_045 | 00:11:00–00:11:15 | Two children recognize dinner
+## SHOT_045 | 00:07:20–00:07:30 | Two children recognize dinner
 
 **Characters:** LEO, ELLA, MAYA. **Location:** RESTAURANT_TABLE. **Wardrobe:** W01 only.
 **Composition:** Medium left aisle-side Leo and Ella with hands-only service.
@@ -961,7 +963,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Six distinct main dishes decrease only as eaten; mild is not proof of safe temperature.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–1.65s · ELLA 1.80–4.96s · MAYA 5.11–9.59s · ELLA 9.74–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.10s · ELLA 1.20–3.31s · MAYA 3.41–6.39s · ELLA 6.49–9.19s.
 
 **Dialogue:**
 **LEO:** My cheese sandwich.
@@ -972,7 +974,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **ELLA:** The middle still looks steamy. I'll give it time.
 
-## SHOT_046 | 00:11:15–00:11:30 | A small plate and a warm bowl
+## SHOT_046 | 00:07:30–00:07:40 | A small plate and a warm bowl
 
 **Characters:** DAN, MAX, NINA. **Location:** RESTAURANT_TABLE. **Wardrobe:** W01 only.
 **Off-screen cast:** SERVER
@@ -983,7 +985,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Six distinct main dishes decrease only as eaten; mild is not proof of safe temperature. SERVER is an off-screen voice; only anonymous sleeve-covered hands/forearms may enter.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): SERVER 0.25–4.29s · DAN 4.44–5.40s · NINA 5.55–9.15s · MAX 9.30–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): SERVER 0.17–2.86s · DAN 2.96–3.60s · NINA 3.70–6.10s · MAX 6.20–8.89s.
 
 **Dialogue:**
 **SERVER:** Mild tomato soup, and the children's chicken and rice.
@@ -994,7 +996,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** I see mine. The chicken's on the smaller plate.
 
-## SHOT_047 | 00:11:30–00:11:45 | Six choices meet the table
+## SHOT_047 | 00:07:40–00:07:50 | Six choices meet the table
 
 **Characters:** DAN, MAYA, NINA, LEO, ELLA, MAX. **Location:** RESTAURANT_WIDE. **Wardrobe:** W01 only.
 **Composition:** Wide from near end showing fixed six places and distinct dishes.
@@ -1004,7 +1006,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Six distinct main dishes decrease only as eaten; mild is not proof of safe temperature.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–2.53s · ELLA 2.68–4.96s · MAX 5.11–9.15s · LEO 9.30–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.69s · ELLA 1.79–3.31s · MAX 3.41–6.10s · LEO 6.20–8.89s.
 
 **Dialogue:**
 **DAN:** Six orders, six correct dinners.
@@ -1015,7 +1017,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **LEO:** And nobody had to send a single dinner back.
 
-## SHOT_048 | 00:11:45–00:12:00 | Warm is checked, not guessed
+## SHOT_048 | 00:07:50–00:08:00 | Warm is checked, not guessed
 
 **Characters:** DAN, NINA, MAX. **Location:** RESTAURANT_TABLE. **Wardrobe:** W01 only.
 **Composition:** Close Dan's spoon lifting a small soup sample above his own bowl.
@@ -1025,7 +1027,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Six distinct main dishes decrease only as eaten; mild is not proof of safe temperature.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–2.90s · NINA 3.05–6.99s · MAX 7.14–9.79s · DAN 9.94–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.93s · NINA 2.03–4.66s · MAX 4.76–6.53s · DAN 6.63–9.53s.
 
 **Dialogue:**
 **DAN:** I will check a little first.
@@ -1036,7 +1038,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** Good point. Those are two different checks for my soup.
 
-## SHOT_049 | 00:12:00–00:12:15 | The soup gets its sentence
+## SHOT_049 | 00:08:00–00:08:10 | The soup gets its sentence
 
 **Characters:** DAN, MAYA, LEO. **Location:** RESTAURANT_TABLE. **Wardrobe:** W01 only.
 **Composition:** Calm medium Dan after one small bite and swallow.
@@ -1046,7 +1048,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Six distinct main dishes decrease only as eaten; mild is not proof of safe temperature.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–2.53s · DAN 2.68–4.96s · LEO 5.11–9.15s · DAN 9.30–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.69s · DAN 1.79–3.31s · LEO 3.41–6.10s · DAN 6.20–9.19s.
 
 **Dialogue:**
 **MAYA:** Is that what you wanted?
@@ -1057,7 +1059,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** A word can have a very tiring day at dinner.
 
-## SHOT_050 | 00:12:15–00:12:30 | Not a hot-food competition
+## SHOT_050 | 00:08:10–00:08:20 | Not a hot-food competition
 
 **Characters:** ELLA, MAYA, NINA. **Location:** RESTAURANT_TABLE. **Wardrobe:** W01 only.
 **Composition:** Medium Ella's potato remaining on plate while adults listen.
@@ -1067,7 +1069,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Six distinct main dishes decrease only as eaten; mild is not proof of safe temperature.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–2.53s · MAYA 2.68–4.08s · NINA 4.23–8.27s · ELLA 8.42–12.90s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.69s · MAYA 1.79–2.72s · NINA 2.82–5.51s · ELLA 5.61–8.60s.
 
 **Dialogue:**
 **ELLA:** The middle needs another moment.
@@ -1078,7 +1080,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **ELLA:** Then the center of my potato can take its time.
 
-## SHOT_051 | 00:12:30–00:12:45 | The napkin earns its place
+## SHOT_051 | 00:08:20–00:08:30 | The napkin earns its place
 
 **Characters:** MAX, NINA, DAN. **Location:** RESTAURANT_TABLE. **Wardrobe:** W01 only.
 **Composition:** Child-height medium Max using his own cream napkin.
@@ -1088,7 +1090,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Six distinct main dishes decrease only as eaten; mild is not proof of safe temperature.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–2.09s · MAX 2.24–6.28s · NINA 6.43–9.59s · MAX 9.74–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.39s · MAX 1.49–4.19s · NINA 4.29–6.39s · MAX 6.49–9.19s.
 
 **Dialogue:**
 **DAN:** How is your dinner?
@@ -1099,7 +1101,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** I bet my napkin never rehearsed a single word.
 
-## SHOT_052 | 00:12:45–00:13:00 | A fork and a choice
+## SHOT_052 | 00:08:30–00:08:40 | A fork and a choice
 
 **Characters:** LEO, MAYA, ELLA. **Location:** RESTAURANT_TABLE. **Wardrobe:** W01 only.
 **Composition:** Medium Leo with sandwich resting partly eaten on its plate.
@@ -1109,7 +1111,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Six distinct main dishes decrease only as eaten; mild is not proof of safe temperature.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–2.97s · MAYA 3.12–5.40s · ELLA 5.55–9.15s · LEO 9.30–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.98s · MAYA 2.08–3.60s · ELLA 3.70–6.10s · LEO 6.20–9.19s.
 
 **Dialogue:**
 **LEO:** I liked saying my own order.
@@ -1120,7 +1122,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **LEO:** It's nice when the person taking the order hears you.
 
-## SHOT_053 | 00:13:00–00:13:15 | Two meanings, no lecture
+## SHOT_053 | 00:08:40–00:08:50 | Two meanings, no lecture
 
 **Characters:** DAN, MAYA, NINA. **Location:** RESTAURANT_TABLE. **Wardrobe:** W01 only.
 **Composition:** Warm adult three-shot with utensils resting during dialogue.
@@ -1130,7 +1132,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Six distinct main dishes decrease only as eaten; mild is not proof of safe temperature.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.85s · MAYA 4.00–6.72s · NINA 6.87–10.03s · DAN 10.18–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.57s · MAYA 2.67–4.48s · NINA 4.58–6.69s · DAN 6.79–9.48s.
 
 **Dialogue:**
 **DAN:** The server saved my dinner with one question.
@@ -1141,7 +1143,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** I'd have got something very different without that question.
 
-## SHOT_054 | 00:13:15–00:13:30 | The quiet speech finally rests
+## SHOT_054 | 00:08:50–00:09:00 | The quiet speech finally rests
 
 **Characters:** DAN, ELLA, MAX. **Location:** RESTAURANT_TABLE. **Wardrobe:** W01 only.
 **Composition:** Medium Dan patting right pocket, no note over food.
@@ -1151,7 +1153,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Six distinct main dishes decrease only as eaten; mild is not proof of safe temperature.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–3.41s · DAN 3.56–7.60s · MAX 7.75–9.59s · ELLA 9.74–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.27s · DAN 2.37–5.07s · MAX 5.17–6.39s · ELLA 6.49–8.89s.
 
 **Dialogue:**
 **ELLA:** Will we ever hear your big speech?
@@ -1162,7 +1164,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **ELLA:** Good. It can listen while we finish ours.
 
-## SHOT_055 | 00:13:30–00:13:45 | The window has other plans
+## SHOT_055 | 00:09:00–00:09:10 | The window has other plans
 
 **Characters:** MAYA, NINA, LEO. **Location:** RESTAURANT_TABLE. **Wardrobe:** W01 only.
 **Composition:** Medium right window and adults, children staying seated.
@@ -1172,7 +1174,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Six distinct main dishes decrease only as eaten; mild is not proof of safe temperature.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–3.41s · NINA 3.56–6.28s · MAYA 6.43–9.15s · LEO 9.30–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.27s · NINA 2.37–4.19s · MAYA 4.29–6.10s · LEO 6.20–8.89s.
 
 **Dialogue:**
 **LEO:** The library is open tomorrow, isn't it?
@@ -1183,7 +1185,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **LEO:** Deal. The books will still be there after dinner.
 
-## SHOT_056 | 00:13:45–00:14:00 | Water belongs to its place
+## SHOT_056 | 00:09:10–00:09:20 | Water belongs to its place
 
 **Characters:** MAX, NINA, ELLA. **Location:** RESTAURANT_TABLE. **Wardrobe:** W01 only.
 **Composition:** Medium near-right Max lifting own glass with both hands.
@@ -1193,7 +1195,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Six distinct main dishes decrease only as eaten; mild is not proof of safe temperature.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–2.53s · ELLA 2.68–4.96s · NINA 5.11–8.71s · MAX 8.86–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.69s · ELLA 1.79–3.31s · NINA 3.41–5.81s · MAX 5.91–8.89s.
 
 **Dialogue:**
 **MAX:** No rescue needed after all.
@@ -1204,7 +1206,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** Right beside my plate, where my elbow can miss it.
 
-## SHOT_057 | 00:14:00–00:14:15 | A pause in the middle
+## SHOT_057 | 00:09:20–00:09:30 | A pause in the middle
 
 **Characters:** DAN, MAYA, NINA, LEO, ELLA, MAX. **Location:** RESTAURANT_WIDE. **Wardrobe:** W01 only.
 **Composition:** Gentle wide mealtime dissolve across unchanged seating.
@@ -1214,7 +1216,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Six distinct main dishes decrease only as eaten; mild is not proof of safe temperature.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–2.82s · MAX 2.97–6.78s · NINA 6.93–10.33s · DAN 10.48–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.88s · MAX 1.98–4.52s · NINA 4.62–6.89s · DAN 6.99–9.53s.
 
 **Dialogue:**
 **MAYA:** We can take a comfortable pause.
@@ -1225,7 +1227,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** Saving a little sounds better than eating past full.
 
-## SHOT_058 | 00:14:15–00:14:30 | A box for what already exists
+## SHOT_058 | 00:09:30–00:09:40 | A box for what already exists
 
 **Characters:** MAX, NINA, DAN. **Location:** RESTAURANT_TABLE. **Wardrobe:** W01 only.
 **Off-screen cast:** SERVER
@@ -1236,7 +1238,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Six distinct main dishes decrease only as eaten; mild is not proof of safe temperature. SERVER is an off-screen voice; only anonymous sleeve-covered hands/forearms may enter.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): NINA 0.25–3.41s · SERVER 3.56–4.41s · DAN 4.56–9.04s · MAX 9.19–13.23s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–2.27s · SERVER 2.37–2.94s · DAN 3.04–6.03s · MAX 6.13–8.82s.
 
 **Dialogue:**
 **NINA:** Could we have one takeout box, please?
@@ -1247,7 +1249,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** Good. I'd like my own dinner again another day.
 
-## SHOT_059 | 00:14:30–00:14:45 | The box arrives empty
+## SHOT_059 | 00:09:40–00:09:50 | The box arrives empty
 
 **Characters:** NINA, MAX, MAYA. **Location:** RESTAURANT_TABLE. **Wardrobe:** W01 only.
 **Off-screen cast:** SERVER
@@ -1258,7 +1260,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Six distinct main dishes decrease only as eaten; mild is not proof of safe temperature. SERVER is an off-screen voice; only anonymous sleeve-covered hands/forearms may enter.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): SERVER 0.25–1.76s · NINA 1.91–2.94s · MAX 3.09–7.43s · NINA 7.58–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): SERVER 0.17–1.17s · NINA 1.27–1.96s · MAX 2.06–4.95s · NINA 5.05–8.27s.
 
 **Dialogue:**
 **SERVER:** Here you are.
@@ -1269,7 +1271,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **NINA:** I'll hold it right beside your plate while we pack.
 
-## SHOT_060 | 00:14:45–00:15:00 | One portion changes containers
+## SHOT_060 | 00:09:50–00:10:00 | One portion changes containers
 
 **Characters:** NINA, MAX, MAYA. **Location:** RESTAURANT_TABLE. **Wardrobe:** W01 only.
 **Composition:** Close clean serving utensil transferring Max's remainder once.
@@ -1279,7 +1281,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Exactly one saved portion transfers once into one box; prompt refrigeration at home.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): NINA 0.25–2.97s · MAX 3.12–5.84s · MAYA 5.99–9.59s · NINA 9.74–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–1.98s · MAX 2.08–3.89s · MAYA 3.99–6.39s · NINA 6.49–9.19s.
 
 **Dialogue:**
 **NINA:** Your remaining dinner goes in once.
@@ -1290,7 +1292,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **NINA:** Exactly. You'll be able to recognize your own supper.
 
-## SHOT_061 | 00:15:00–00:15:15 | The box has a destination
+## SHOT_061 | 00:10:00–00:10:10 | The box has a destination
 
 **Characters:** NINA, DAN, MAX. **Location:** RESTAURANT_TABLE. **Wardrobe:** W01 only.
 **Composition:** Medium Nina keeping closed box level at her place.
@@ -1300,7 +1302,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Exactly one saved portion transfers once into one box; prompt refrigeration at home.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): NINA 0.25–4.29s · DAN 4.44–5.84s · MAX 5.99–9.15s · NINA 9.30–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–2.86s · DAN 2.96–3.89s · MAX 3.99–6.10s · NINA 6.20–9.19s.
 
 **Dialogue:**
 **NINA:** We will go straight home and refrigerate this promptly.
@@ -1311,7 +1313,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **NINA:** And it'll have somebody beside it all the way home.
 
-## SHOT_062 | 00:15:15–00:15:30 | Finish without a disappearing dish
+## SHOT_062 | 00:10:10–00:10:20 | Finish without a disappearing dish
 
 **Characters:** MAYA, LEO, ELLA. **Location:** RESTAURANT_TABLE. **Wardrobe:** W01 only.
 **Composition:** Medium left side after short eating-time ellipsis.
@@ -1321,7 +1323,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Exactly one saved portion transfers once into one box; prompt refrigeration at home.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–1.70s · ELLA 1.85–2.84s · MAYA 2.99–8.07s · ELLA 8.22–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.13s · ELLA 1.23–1.89s · MAYA 1.99–5.38s · ELLA 5.48–8.27s.
 
 **Dialogue:**
 **LEO:** I am finished.
@@ -1332,7 +1334,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **ELLA:** I'm ready. My fork can take the evening off.
 
-## SHOT_063 | 00:15:30–00:15:45 | Dessert can remain a possibility
+## SHOT_063 | 00:10:20–00:10:30 | Dessert can remain a possibility
 
 **Characters:** DAN, MAYA, NINA. **Location:** RESTAURANT_TABLE. **Wardrobe:** W01 only.
 **Composition:** Quiet medium adults with the closed box at Nina's place.
@@ -1342,7 +1344,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Exactly one saved portion transfers once into one box; prompt refrigeration at home.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.85s · MAYA 4.00–5.84s · NINA 5.99–9.59s · DAN 9.74–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.57s · MAYA 2.67–3.89s · NINA 3.99–6.39s · DAN 6.49–9.19s.
 
 **Dialogue:**
 **DAN:** My imaginary tall dessert can stay imaginary tonight.
@@ -1353,7 +1355,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** My imaginary dessert didn't cost the budget a cent.
 
-## SHOT_064 | 00:15:45–00:16:00 | Could we have the check
+## SHOT_064 | 00:10:30–00:10:40 | Could we have the check
 
 **Characters:** DAN, MAYA, NINA. **Location:** RESTAURANT_TABLE. **Wardrobe:** W01 only.
 **Off-screen cast:** SERVER
@@ -1364,7 +1366,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Exactly one saved portion transfers once into one box; prompt refrigeration at home. SERVER is an off-screen voice; only anonymous sleeve-covered hands/forearms may enter.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.17s · SERVER 3.33–6.72s · MAYA 6.87–7.91s · NINA 8.06–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.11s · SERVER 2.22–4.48s · MAYA 4.58–5.27s · NINA 5.37–8.27s.
 
 **Dialogue:**
 **DAN:** Could we have the check, please?
@@ -1375,7 +1377,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **NINA:** Let's look it over together when it gets here.
 
-## SHOT_065 | 00:16:00–00:16:15 | A clear table keeps one box
+## SHOT_065 | 00:10:40–00:10:50 | A clear table keeps one box
 
 **Characters:** MAYA, NINA, DAN. **Location:** RESTAURANT_TABLE. **Wardrobe:** W01 only.
 **Off-screen cast:** SERVER
@@ -1386,7 +1388,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Food $58 + tax $5.80 = $63.80; $10 voluntary tip is separate. SERVER is an off-screen voice; only anonymous sleeve-covered hands/forearms may enter.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): NINA 0.25–2.97s · SERVER 3.12–6.28s · DAN 6.43–8.71s · NINA 8.86–12.90s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–1.98s · SERVER 2.08–4.19s · DAN 4.29–5.81s · NINA 5.91–8.60s.
 
 **Dialogue:**
 **NINA:** This box is coming with us.
@@ -1397,7 +1399,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **NINA:** Yes, the little chicken dinner is traveling with me.
 
-## SHOT_066 | 00:16:15–00:16:30 | The bill is smaller than the speech
+## SHOT_066 | 00:10:50–00:11:00 | The bill is smaller than the speech
 
 **Characters:** DAN, LEO, MAYA. **Location:** RESTAURANT_TABLE. **Wardrobe:** W01 only.
 **Off-screen cast:** SERVER
@@ -1408,7 +1410,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Food $58 + tax $5.80 = $63.80; $10 voluntary tip is separate. SERVER is an off-screen voice; only anonymous sleeve-covered hands/forearms may enter.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): SERVER 0.25–2.09s · DAN 2.24–3.20s · LEO 3.35–6.07s · DAN 6.22–10.26s · LEO 10.41–14.01s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): SERVER 0.17–1.39s · DAN 1.49–2.13s · LEO 2.23–4.05s · DAN 4.15–6.84s · LEO 6.94–9.34s.
 
 **Dialogue:**
 **SERVER:** Here is your check.
@@ -1421,7 +1423,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **LEO:** I'll start at the top of the check.
 
-## SHOT_067 | 00:16:30–00:16:45 | Six lines mean six meals
+## SHOT_067 | 00:11:00–00:11:10 | Six lines mean six meals
 
 **Characters:** LEO, DAN, MAYA. **Location:** RESTAURANT_TABLE. **Wardrobe:** W01 only.
 **Composition:** Overhead-angled exact DINNER_CHECK overlay with faces beyond.
@@ -1431,7 +1433,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Food $58 + tax $5.80 = $63.80; $10 voluntary tip is separate.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–3.85s · MAYA 4.00–5.84s · DAN 5.99–10.03s · LEO 10.18–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.57s · MAYA 2.67–3.89s · DAN 3.99–6.69s · LEO 6.79–9.48s.
 
 **Dialogue:**
 **LEO:** Six meals. No extra soup, starter, or dessert.
@@ -1442,7 +1444,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **LEO:** Good. Now let's check what happens after the subtotal.
 
-## SHOT_068 | 00:16:45–00:17:00 | Tax stays separate
+## SHOT_068 | 00:11:10–00:11:20 | Tax stays separate
 
 **Characters:** NINA, LEO, DAN. **Location:** RESTAURANT_TABLE. **Wardrobe:** W01 only.
 **Composition:** Medium check insert and Nina's confirming gesture.
@@ -1452,7 +1454,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Food $58 + tax $5.80 = $63.80; $10 voluntary tip is separate.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): NINA 0.25–2.23s · LEO 2.38–3.41s · DAN 3.56–8.38s · NINA 8.53–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–1.49s · LEO 1.59–2.27s · DAN 2.37–5.59s · NINA 5.69–8.27s.
 
 **Dialogue:**
 **NINA:** Fifty-eight plus five eighty.
@@ -1463,7 +1465,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **NINA:** Right. We can still see both amounts separately.
 
-## SHOT_069 | 00:17:00–00:17:15 | A choice for the end
+## SHOT_069 | 00:11:20–00:11:30 | A choice for the end
 
 **Characters:** MAYA, DAN, NINA. **Location:** RESTAURANT_TABLE. **Wardrobe:** W01 only.
 **Composition:** Calm medium adults with exact budget note editorial.
@@ -1473,7 +1475,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Food $58 + tax $5.80 = $63.80; $10 voluntary tip is separate.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–3.85s · NINA 4.00–4.85s · DAN 5.00–8.60s · MAYA 8.75–13.67s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–2.57s · NINA 2.67–3.23s · DAN 3.33–5.73s · MAYA 5.83–9.11s.
 
 **Dialogue:**
 **MAYA:** Shall we keep the ten-dollar tip we planned?
@@ -1484,7 +1486,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAYA:** Good. I want to thank them for asking about the soup.
 
-## SHOT_070 | 00:17:15–00:17:30 | Wallet on the right
+## SHOT_070 | 00:11:30–00:11:40 | Wallet on the right
 
 **Characters:** DAN, MAX, MAYA. **Location:** RESTAURANT_TABLE. **Wardrobe:** W01 only.
 **Composition:** Medium Dan reaching anatomical right pocket below table edge.
@@ -1494,7 +1496,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Food $58 + tax $5.80 = $63.80; $10 voluntary tip is separate.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–2.53s · DAN 2.68–5.84s · MAYA 5.99–8.71s · DAN 8.86–12.90s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.69s · DAN 1.79–3.89s · MAYA 3.99–5.81s · DAN 5.91–8.60s.
 
 **Dialogue:**
 **MAX:** Does your speech pay too?
@@ -1505,7 +1507,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** It hasn't earned a tip for all that talking.
 
-## SHOT_071 | 00:17:30–00:17:45 | Ask where to pay
+## SHOT_071 | 00:11:40–00:11:50 | Ask where to pay
 
 **Characters:** DAN, NINA, MAYA. **Location:** RESTAURANT_TABLE. **Wardrobe:** W01 only.
 **Off-screen cast:** SERVER
@@ -1516,7 +1518,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Food $58 + tax $5.80 = $63.80; $10 voluntary tip is separate. SERVER is an off-screen voice; only anonymous sleeve-covered hands/forearms may enter.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.85s · SERVER 4.00–6.28s · NINA 6.43–9.59s · DAN 9.74–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.57s · SERVER 2.67–4.19s · NINA 4.29–6.39s · DAN 6.49–9.48s.
 
 **Dialogue:**
 **DAN:** Do I pay here or at the counter?
@@ -1527,7 +1529,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** I'll take the check over. You keep the box here.
 
-## SHOT_072 | 00:17:45–00:18:00 | One person uses the clear aisle
+## SHOT_072 | 00:11:50–00:12:00 | One person uses the clear aisle
 
 **Characters:** DAN, MAYA, NINA. **Location:** RESTAURANT_WIDE. **Wardrobe:** W01 only.
 **Composition:** Wide tracking Dan along left service aisle toward rear-right counter.
@@ -1537,7 +1539,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Food $58 + tax $5.80 = $63.80; $10 voluntary tip is separate.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–2.53s · MAYA 2.68–4.52s · NINA 4.67–8.27s · MAYA 8.42–12.46s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.69s · MAYA 1.79–3.01s · NINA 3.11–5.51s · MAYA 5.61–8.31s.
 
 **Dialogue:**
 **DAN:** I will be right back.
@@ -1548,7 +1550,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAYA:** Good. We'll have everything together when you come back.
 
-## SHOT_073 | 00:18:00–00:18:15 | Eighty to settle the meal
+## SHOT_073 | 00:12:00–00:12:10 | Eighty to settle the meal
 
 **Characters:** DAN. **Location:** SERVICE_COUNTER. **Wardrobe:** W01 only.
 **Off-screen cast:** SERVER
@@ -1559,7 +1561,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. No extra transaction: $80 - $63.80 = $16.20 change; less $10 tip leaves $6.20. SERVER is an off-screen voice; only anonymous sleeve-covered hands/forearms may enter.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–1.65s · SERVER 1.80–6.28s · DAN 6.43–9.59s · SERVER 9.74–12.90s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.10s · SERVER 1.20–4.19s · DAN 4.29–6.39s · SERVER 6.49–8.60s.
 
 **Dialogue:**
 **DAN:** Eighty dollars, please.
@@ -1570,7 +1572,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **SERVER:** Yes. The check itself was sixty-three eighty.
 
-## SHOT_074 | 00:18:15–00:18:30 | The first change is not the remainder
+## SHOT_074 | 00:12:10–00:12:20 | The first change is not the remainder
 
 **Characters:** DAN. **Location:** SERVICE_COUNTER. **Wardrobe:** W01 only.
 **Off-screen cast:** SERVER
@@ -1581,7 +1583,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. No extra transaction: $80 - $63.80 = $16.20 change; less $10 tip leaves $6.20. SERVER is an off-screen voice; only anonymous sleeve-covered hands/forearms may enter.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.41s · SERVER 3.56–4.52s · DAN 4.67–5.63s · SERVER 5.78–10.70s · DAN 10.85–13.57s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.27s · SERVER 2.37–3.01s · DAN 3.11–3.75s · SERVER 3.85–7.13s · DAN 7.23–9.05s.
 
 **Dialogue:**
 **DAN:** Sixteen twenty in change, before the tip.
@@ -1594,7 +1596,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** Good. I'll keep the tip separate.
 
-## SHOT_075 | 00:18:30–00:18:45 | Ten dollars for the service
+## SHOT_075 | 00:12:20–00:12:30 | Ten dollars for the service
 
 **Characters:** DAN. **Location:** SERVICE_COUNTER. **Wardrobe:** W01 only.
 **Off-screen cast:** SERVER
@@ -1605,7 +1607,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. No extra transaction: $80 - $63.80 = $16.20 change; less $10 tip leaves $6.20. SERVER is an off-screen voice; only anonymous sleeve-covered hands/forearms may enter.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–5.02s · SERVER 5.17–7.59s · DAN 7.74–10.55s · SERVER 10.70–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–3.35s · SERVER 3.45–5.06s · DAN 5.16–7.03s · SERVER 7.13–9.53s.
 
 **Dialogue:**
 **DAN:** This ten dollars is a tip. Thank you for checking my order.
@@ -1616,7 +1618,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **SERVER:** I'm glad the soup came the way you wanted.
 
-## SHOT_076 | 00:18:45–00:19:00 | Receipt in its own place
+## SHOT_076 | 00:12:30–00:12:40 | Receipt in its own place
 
 **Characters:** DAN. **Location:** SERVICE_COUNTER. **Wardrobe:** W01 only.
 **Off-screen cast:** SERVER
@@ -1627,7 +1629,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. No extra transaction: $80 - $63.80 = $16.20 change; less $10 tip leaves $6.20. SERVER is an off-screen voice; only anonymous sleeve-covered hands/forearms may enter.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.85s · SERVER 4.00–6.72s · DAN 6.87–10.03s · SERVER 10.18–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.57s · SERVER 2.67–4.48s · DAN 4.58–6.69s · SERVER 6.79–8.89s.
 
 **Dialogue:**
 **DAN:** Receipt, remaining change, and a much smaller speech.
@@ -1638,7 +1640,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **SERVER:** Exactly. That's your receipt to take home.
 
-## SHOT_077 | 00:19:00–00:19:15 | The whole family leaves together
+## SHOT_077 | 00:12:40–00:12:50 | The whole family leaves together
 
 **Characters:** DAN, MAYA, NINA, LEO, ELLA, MAX. **Location:** RESTAURANT_ENTRANCE. **Wardrobe:** W01 only.
 **Composition:** Wide at original rear-left door, all six grouped off aisle.
@@ -1648,7 +1650,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. No extra transaction: $80 - $63.80 = $16.20 change; less $10 tip leaves $6.20.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–1.28s · NINA 1.43–3.88s · MAX 4.03–7.43s · LEO 7.58–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–0.85s · NINA 0.95–2.59s · MAX 2.69–4.95s · LEO 5.05–8.27s.
 
 **Dialogue:**
 **MAYA:** Everyone ready?
@@ -1659,7 +1661,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **LEO:** Good. The little chicken dinner is coming home with us.
 
-## SHOT_078 | 00:19:15–00:19:30 | The budget has an honest ending
+## SHOT_078 | 00:12:50–00:13:00 | The budget has an honest ending
 
 **Characters:** DAN, LEO, MAYA. **Location:** RESTAURANT_ENTRANCE. **Wardrobe:** W01 only.
 **Composition:** Quiet medium near host stand away from exit path.
@@ -1669,7 +1671,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. No extra transaction: $80 - $63.80 = $16.20 change; less $10 tip leaves $6.20.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–2.53s · DAN 2.68–5.40s · MAYA 5.55–9.59s · DAN 9.74–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.69s · DAN 1.79–3.60s · MAYA 3.70–6.39s · DAN 6.49–9.48s.
 
 **Dialogue:**
 **LEO:** What stayed in the budget?
@@ -1680,7 +1682,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** Good thing we counted from the eighty we actually brought.
 
-## SHOT_079 | 00:19:30–00:19:45 | A sentence worth keeping
+## SHOT_079 | 00:13:00–00:13:10 | A sentence worth keeping
 
 **Characters:** MAX, NINA, DAN. **Location:** RESTAURANT_ENTRANCE. **Wardrobe:** W01 only.
 **Composition:** Child-height medium at doorway, closed box secure with Nina.
@@ -1690,7 +1692,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. No extra transaction: $80 - $63.80 = $16.20 change; less $10 tip leaves $6.20.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–3.41s · DAN 3.56–6.28s · NINA 6.43–9.59s · MAX 9.74–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.27s · DAN 2.37–4.19s · NINA 4.29–6.39s · MAX 6.49–9.19s.
 
 **Dialogue:**
 **MAX:** What will your next big speech be?
@@ -1701,17 +1703,17 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** Good. At least the box doesn't need a menu.
 
-## SHOT_080 | 00:19:45–00:20:00 | A warm evening, clearly said
+## SHOT_080 | 00:13:10–00:13:20 | A warm evening, clearly said
 
 **Characters:** DAN, MAYA, NINA, LEO, ELLA, MAX. **Location:** RESTAURANT_ENTRANCE. **Wardrobe:** W01 only.
 **Composition:** Wide pullback from open doorway with all six leaving together.
-**Action:** All six exchange a final smile before leaving the doorway together. Dan holds the door; Nina carries the one closed box. Closing overlay occupies only the final two seconds, ending at twenty minutes.
+**Action:** All six exchange a final smile before leaving the doorway together. Dan holds the door; Nina carries the one closed box. Closing overlay occupies only the final two seconds, ending at 13:20.
 **Starting continuity:** Dinner and payment complete; family together at entrance; no one eating while walking.
 **Ending continuity:** Restaurant story resolved; direct trip home underway; original six identities and one packed portion preserved.
 **Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. No extra transaction: $80 - $63.80 = $16.20 change; less $10 tip leaves $6.20.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.85s · MAYA 4.00–5.40s · MAX 5.55–8.71s · ELLA 8.86–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.57s · MAYA 2.67–3.60s · MAX 3.70–5.81s · ELLA 5.91–9.19s.
 
 **Dialogue:**
 **DAN:** A warm dinner and a very clear evening.
