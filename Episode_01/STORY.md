@@ -1,6 +1,6 @@
 # Episode 01 — Two Lists, One Dad: The Vegetable Market Mix-Up
 
-> **Format:** 80 continuous story shots × 15 seconds = **20:00 story runtime**  
+> **Format:** 80 continuous story shots × 10 seconds = **13:20 planned story runtime**  
 > **Genre:** original stylized-3D family comedy, gentle emotional drama, natural American English  
 > **Status:** complete written and illustrated preproduction draft. All 80 story slots use one sequential shot system and 20 four-panel storyboard sheets. Creator approval, individual motion first frames, performed voices and animation remain pending.  
 > **Story-only:** no audience drills, recap narrator, quizzes or timed practice. Optional creator-authored practice belongs after the movie.
@@ -9,12 +9,12 @@ Maya wants salad and Nina wants soup. Dan takes their blue and yellow notes to t
 
 ## Story arc
 
-- **00:00–02:00:** two lists, three helpers and an overconfident memory.
-- **02:00–10:30:** compare, count and protect ten vegetable ingredients along one market stall.
-- **10:30–12:30:** read both headings, call home and admit the mix-up.
-- **12:30–15:15:** sort the two totes, pay $18.50 and check $1.50 change from $20.
-- **15:15–17:45:** return home, wash and prepare the vegetables, then allow real cooking time.
-- **17:45–20:00:** share salad and cooked soup, thank the team and plan tomorrow's fruit picnic.
+- **00:00–01:20:** two lists, three helpers and an overconfident memory.
+- **01:20–07:00:** compare, count and protect ten vegetable ingredients along one market stall.
+- **07:00–08:20:** read both headings, call home and admit the mix-up.
+- **08:20–10:10:** sort the two totes, pay $18.50 and check $1.50 change from $20.
+- **10:10–11:50:** return home, wash and prepare the vegetables, then allow real cooking time.
+- **11:50–13:20:** share salad and cooked soup, thank the team and plan tomorrow's fruit picnic.
 
 ## One numbering and continuity system
 
@@ -24,11 +24,11 @@ Keep the permanent six faces, W01 clothing and family roles. Maya and Nina remai
 
 The BLUE note/tote belongs to Maya's salad: 4 carrots, 3 tomatoes, 1 cucumber, 1 loose-leaf lettuce and 1 red bell pepper. The YELLOW note/tote belongs to Nina's soup: 6 potatoes, 2 onions, 1 broccoli head, 2 ears of corn and 1 bag of spinach. The real headings never change; Dan reverses them in memory. All quantities, wardrobe, geography and safe preparation follow [CONTINUITY.md](CONTINUITY.md).
 
-Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking and eating tasks use explicit story-time ellipses. Dialogue is sequential natural General American conversation; subtitle timings are provisional until real performances exist. Use exact SVG artwork for list/receipt lettering and money. No one eats raw soup potatoes, and children stay away from knives and heat.
+Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and filler movements. Use natural dialogue pacing and purposeful actions; do not add silence or accelerate speech just to fit the slot. Confirm timing against recorded performances before final editing. Longer washing, sorting, travel, cooking and eating tasks use explicit story-time ellipses. Dialogue is sequential natural General American conversation; subtitle timings are provisional until real performances exist. Use exact SVG artwork for list/receipt lettering and money. No one eats raw soup potatoes, and children stay away from knives and heat.
 
 ## Timed story shots
 
-### SHOT_001 | 00:00:00–00:00:15 | The blue salad note
+### SHOT_001 | 00:00:00–00:00:10 | The blue salad note
 
 **Visible cast:** MAYA, DAN  
 **Off-screen voices:** NONE  
@@ -49,7 +49,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **DAN:** You even drew the carrots. That'll help.
 
-### SHOT_002 | 00:00:15–00:00:30 | A second dish, a second color
+### SHOT_002 | 00:00:10–00:00:20 | A second dish, a second color
 
 **Visible cast:** NINA, DAN  
 **Off-screen voices:** NONE  
@@ -70,7 +70,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **DAN:** They both fit in one hand.
 
-### SHOT_003 | 00:00:30–00:00:45 | The headings are clear
+### SHOT_003 | 00:00:20–00:00:30 | The headings are clear
 
 **Visible cast:** MAYA, NINA, DAN  
 **Off-screen voices:** NONE  
@@ -91,7 +91,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **MAYA:** There's room for the actual notes, too, I hope.
 
-### SHOT_004 | 00:00:45–00:01:00 | Three helpers arrive
+### SHOT_004 | 00:00:30–00:00:40 | Three helpers arrive
 
 **Visible cast:** DAN, LEO, ELLA, MAX  
 **Off-screen voices:** NONE  
@@ -112,7 +112,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **MAX:** Can my eyes come along? They're good at broccoli.
 
-### SHOT_005 | 00:01:00–00:01:15 | A filing error in Dad's head
+### SHOT_005 | 00:00:40–00:00:50 | A filing error in Dad's head
 
 **Visible cast:** DAN, LEO  
 **Off-screen voices:** NONE  
@@ -133,7 +133,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **LEO:** I'll hold you to that. Both headings, okay?
 
-### SHOT_006 | 00:01:15–00:01:30 | The empty containers
+### SHOT_006 | 00:00:50–00:01:00 | The empty containers
 
 **Visible cast:** ELLA, MAX  
 **Off-screen voices:** NONE  
@@ -154,7 +154,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **MAX:** I'll walk it very carefully.
 
-### SHOT_007 | 00:01:30–00:01:45 | Ready, including the basket
+### SHOT_007 | 00:01:00–00:01:10 | Ready, including the basket
 
 **Visible cast:** DAN, LEO, ELLA, MAX  
 **Off-screen voices:** NONE  
@@ -175,7 +175,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **ELLA:** Come on, before the basket orders its own lunch.
 
-### SHOT_008 | 00:01:45–00:02:00 | One sunny market
+### SHOT_008 | 00:01:10–00:01:20 | One sunny market
 
 **Visible cast:** DAN, LEO, ELLA, MAX  
 **Off-screen voices:** NONE  
@@ -196,7 +196,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **LEO:** I can smell the tomatoes from here, Dad.
 
-### SHOT_009 | 00:02:00–00:02:15 | Saving the small muscles
+### SHOT_009 | 00:01:20–00:01:30 | Saving the small muscles
 
 **Visible cast:** MAX, DAN  
 **Off-screen voices:** NONE  
@@ -217,7 +217,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **DAN:** Saving them for when the basket actually weighs something?
 
-### SHOT_010 | 00:02:15–00:02:30 | Make room to choose
+### SHOT_010 | 00:01:30–00:01:40 | Make room to choose
 
 **Visible cast:** DAN, LEO, ELLA, MAX  
 **Off-screen voices:** NONE  
@@ -238,7 +238,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **ELLA:** Wait till we put the shopping in it, Dad.
 
-### SHOT_011 | 00:02:30–00:02:45 | Our own blue handle
+### SHOT_011 | 00:01:40–00:01:50 | Our own blue handle
 
 **Visible cast:** LEO, DAN  
 **Off-screen voices:** NONE  
@@ -259,7 +259,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **DAN:** Blue handle. I'd know that squeak anywhere by now.
 
-### SHOT_012 | 00:02:45–00:03:00 | Four, not forty
+### SHOT_012 | 00:01:50–00:02:00 | Four, not forty
 
 **Visible cast:** DAN, ELLA  
 **Off-screen voices:** NONE  
@@ -280,7 +280,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **ELLA:** And we'd be eating carrots well into next week.
 
-### SHOT_013 | 00:03:00–00:03:15 | Four distinct carrots
+### SHOT_013 | 00:02:00–00:02:10 | Four distinct carrots
 
 **Visible cast:** ELLA, DAN  
 **Off-screen voices:** NONE  
@@ -301,7 +301,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **DAN:** I'll take the ones you counted, then.
 
-### SHOT_014 | 00:03:15–00:03:30 | Leave the extras in the crate
+### SHOT_014 | 00:02:10–00:02:20 | Leave the extras in the crate
 
 **Visible cast:** DAN, ELLA  
 **Off-screen voices:** NONE  
@@ -322,7 +322,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **ELLA:** Thanks. My arms were starting to worry about forty.
 
-### SHOT_015 | 00:03:30–00:03:45 | Three tomatoes need a tray
+### SHOT_015 | 00:02:20–00:02:30 | Three tomatoes need a tray
 
 **Visible cast:** LEO, DAN  
 **Off-screen voices:** NONE  
@@ -343,7 +343,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **DAN:** Nobody bowl. I'd like these to make it home.
 
-### SHOT_016 | 00:03:45–00:04:00 | A careful place for tomatoes
+### SHOT_016 | 00:02:30–00:02:40 | A careful place for tomatoes
 
 **Visible cast:** DAN, LEO  
 **Off-screen voices:** NONE  
@@ -364,7 +364,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **LEO:** Just promise you won't roll them down the aisle.
 
-### SHOT_017 | 00:04:00–00:04:15 | Packing is part of the plan
+### SHOT_017 | 00:02:40–00:02:50 | Packing is part of the plan
 
 **Visible cast:** LEO, DAN  
 **Off-screen voices:** NONE  
@@ -385,7 +385,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **DAN:** Like it's carrying eggs. Got it.
 
-### SHOT_018 | 00:04:15–00:04:30 | The wrong green cousin
+### SHOT_018 | 00:02:50–00:03:00 | The wrong green cousin
 
 **Visible cast:** DAN, ELLA  
 **Off-screen voices:** NONE  
@@ -406,7 +406,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **ELLA:** Check the little sign before you introduce yourself.
 
-### SHOT_019 | 00:04:30–00:04:45 | One cucumber, correctly introduced
+### SHOT_019 | 00:03:00–00:03:10 | One cucumber, correctly introduced
 
 **Visible cast:** ELLA, DAN  
 **Off-screen voices:** NONE  
@@ -427,7 +427,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **DAN:** Lucky cucumber. The other cousin can visit another time.
 
-### SHOT_020 | 00:04:45–00:05:00 | Use more than a guess
+### SHOT_020 | 00:03:10–00:03:20 | Use more than a guess
 
 **Visible cast:** ELLA, DAN  
 **Off-screen voices:** NONE  
@@ -448,7 +448,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **DAN:** My excellent memory appreciates a sign it can read.
 
-### SHOT_021 | 00:05:00–00:05:15 | The yellow note waits its turn
+### SHOT_021 | 00:03:20–00:03:30 | The yellow note waits its turn
 
 **Visible cast:** LEO, DAN  
 **Off-screen voices:** NONE  
@@ -469,7 +469,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **DAN:** Good thing you noticed the corner peeking out.
 
-### SHOT_022 | 00:05:15–00:05:30 | Potatoes raise a question
+### SHOT_022 | 00:03:30–00:03:40 | Potatoes raise a question
 
 **Visible cast:** DAN, LEO  
 **Off-screen voices:** NONE  
@@ -490,7 +490,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **LEO:** That's one question worth keeping till we see both.
 
-### SHOT_023 | 00:05:30–00:05:45 | Six potatoes underneath
+### SHOT_023 | 00:03:40–00:03:50 | Six potatoes underneath
 
 **Visible cast:** LEO, DAN  
 **Off-screen voices:** NONE  
@@ -511,7 +511,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **DAN:** Nobody wants to sit under a sack of potatoes.
 
-### SHOT_024 | 00:05:45–00:06:00 | A place for each thing
+### SHOT_024 | 00:03:50–00:04:00 | A place for each thing
 
 **Visible cast:** DAN, ELLA  
 **Off-screen voices:** NONE  
@@ -532,7 +532,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **DAN:** Two lists, two jobs. I'll let you help me sort.
 
-### SHOT_025 | 00:06:00–00:06:15 | The uncut onion joke
+### SHOT_025 | 00:04:00–00:04:10 | The uncut onion joke
 
 **Visible cast:** DAN, MAX  
 **Off-screen voices:** NONE  
@@ -553,7 +553,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **MAX:** I'm not crying. They're still wearing all their coats.
 
-### SHOT_026 | 00:06:15–00:06:30 | Two onions join the sack
+### SHOT_026 | 00:04:10–00:04:20 | Two onions join the sack
 
 **Visible cast:** MAX, DAN  
 **Off-screen voices:** NONE  
@@ -574,7 +574,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **DAN:** Remind me when we get to the bags, okay?
 
-### SHOT_027 | 00:06:30–00:06:45 | Leave the question open
+### SHOT_027 | 00:04:20–00:04:30 | Leave the question open
 
 **Visible cast:** LEO, DAN  
 **Off-screen voices:** NONE  
@@ -595,7 +595,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **DAN:** Good. I can still get this right before lunch.
 
-### SHOT_028 | 00:06:45–00:07:00 | A small green forest
+### SHOT_028 | 00:04:30–00:04:40 | A small green forest
 
 **Visible cast:** DAN, MAX  
 **Off-screen voices:** NONE  
@@ -616,7 +616,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **DAN:** Just one tree. We're shopping for lunch, remember?
 
-### SHOT_029 | 00:07:00–00:07:15 | One broccoli head
+### SHOT_029 | 00:04:40–00:04:50 | One broccoli head
 
 **Visible cast:** DAN, ELLA  
 **Off-screen voices:** NONE  
@@ -637,7 +637,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **DAN:** Good. I can see the bottom getting pretty full.
 
-### SHOT_030 | 00:07:15–00:07:30 | A bell that stays quiet
+### SHOT_030 | 00:04:50–00:05:00 | A bell that stays quiet
 
 **Visible cast:** DAN, MAX  
 **Off-screen voices:** NONE  
@@ -658,7 +658,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **DAN:** Imagine a whole crate ringing every time someone shops.
 
-### SHOT_031 | 00:07:30–00:07:45 | Color is part of the request
+### SHOT_031 | 00:05:00–00:05:10 | Color is part of the request
 
 **Visible cast:** ELLA, DAN  
 **Off-screen voices:** NONE  
@@ -679,7 +679,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **DAN:** Red is the vegetable. Blue is the paper.
 
-### SHOT_032 | 00:07:45–00:08:00 | Look gently before choosing
+### SHOT_032 | 00:05:10–00:05:20 | Look gently before choosing
 
 **Visible cast:** LEO, DAN  
 **Off-screen voices:** NONE  
@@ -700,7 +700,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **DAN:** Quiet as ever. I think we found our pepper.
 
-### SHOT_033 | 00:08:00–00:08:15 | The red pepper has a place
+### SHOT_033 | 00:05:20–00:05:30 | The red pepper has a place
 
 **Visible cast:** DAN, ELLA  
 **Off-screen voices:** NONE  
@@ -721,7 +721,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **ELLA:** It didn't ring once. Max will be impressed.
 
-### SHOT_034 | 00:08:15–00:08:30 | Corn with ears
+### SHOT_034 | 00:05:30–00:05:40 | Corn with ears
 
 **Visible cast:** MAX, DAN  
 **Off-screen voices:** NONE  
@@ -742,7 +742,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **DAN:** I think they heard you from that basket.
 
-### SHOT_035 | 00:08:30–00:08:45 | Two ears, one careful choice
+### SHOT_035 | 00:05:40–00:05:50 | Two ears, one careful choice
 
 **Visible cast:** LEO, DAN  
 **Off-screen voices:** NONE  
@@ -763,7 +763,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **DAN:** Stalk side in, then. I like my elbows unscratched.
 
-### SHOT_036 | 00:08:45–00:09:00 | A polite pair in the basket
+### SHOT_036 | 00:05:50–00:06:00 | A polite pair in the basket
 
 **Visible cast:** DAN, MAX  
 **Off-screen voices:** NONE  
@@ -786,7 +786,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **DAN:** Then I think they deserve the nice seat.
 
-### SHOT_037 | 00:09:00–00:09:15 | The round green guess
+### SHOT_037 | 00:06:00–00:06:10 | The round green guess
 
 **Visible cast:** DAN, ELLA  
 **Off-screen voices:** NONE  
@@ -807,7 +807,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **ELLA:** Look at those open leaves in the next crate.
 
-### SHOT_038 | 00:09:15–00:09:30 | Leaves with a different shape
+### SHOT_038 | 00:06:10–00:06:20 | Leaves with a different shape
 
 **Visible cast:** ELLA, DAN  
 **Off-screen voices:** NONE  
@@ -828,7 +828,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **DAN:** Now I can spot it without guessing the name.
 
-### SHOT_039 | 00:09:30–00:09:45 | Protect the leaves on top
+### SHOT_039 | 00:06:20–00:06:30 | Protect the leaves on top
 
 **Visible cast:** DAN, ELLA  
 **Off-screen voices:** NONE  
@@ -849,7 +849,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **ELLA:** Save a little space up here for one more.
 
-### SHOT_040 | 00:09:45–00:10:00 | Almost the whole list
+### SHOT_040 | 00:06:30–00:06:40 | Almost the whole list
 
 **Visible cast:** LEO, DAN, MAX  
 **Off-screen voices:** NONE  
@@ -870,7 +870,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **MAX:** Do we need a whole bush or just a bag?
 
-### SHOT_041 | 00:10:00–00:10:15 | The last bag of leaves
+### SHOT_041 | 00:06:40–00:06:50 | The last bag of leaves
 
 **Visible cast:** MAX, DAN  
 **Off-screen voices:** NONE  
@@ -891,7 +891,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **DAN:** Once that's in, we'll see what the notes say.
 
-### SHOT_042 | 00:10:15–00:10:30 | All ten ingredients
+### SHOT_042 | 00:06:50–00:07:00 | All ten ingredients
 
 **Visible cast:** DAN, LEO  
 **Off-screen voices:** NONE  
@@ -912,7 +912,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **DAN:** All ten? Good. Let's lay those notes side by side.
 
-### SHOT_043 | 00:10:30–00:10:45 | Give both headings some room
+### SHOT_043 | 00:07:00–00:07:10 | Give both headings some room
 
 **Visible cast:** ELLA, DAN, LEO  
 **Off-screen voices:** NONE  
@@ -933,7 +933,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **DAN:** I see it now. I switched them in my head.
 
-### SHOT_044 | 00:10:45–00:11:00 | The mistake was in the memory
+### SHOT_044 | 00:07:10–00:07:20 | The mistake was in the memory
 
 **Visible cast:** DAN, ELLA, MAX  
 **Off-screen voices:** NONE  
@@ -954,7 +954,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **MAX:** Good thing nobody has to put the onions back.
 
-### SHOT_045 | 00:11:00–00:11:15 | Check with Maya
+### SHOT_045 | 00:07:20–00:07:30 | Check with Maya
 
 **Visible cast:** DAN, LEO  
 **Off-screen voices:** MAYA  
@@ -975,7 +975,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **MAYA:** Yes, all four, please.
 
-### SHOT_046 | 00:11:15–00:11:30 | Nina confirms her soup
+### SHOT_046 | 00:07:30–00:07:40 | Nina confirms her soup
 
 **Visible cast:** DAN, MAX  
 **Off-screen voices:** NINA  
@@ -996,7 +996,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **NINA:** Especially the broccoli, Max.
 
-### SHOT_047 | 00:11:30–00:11:45 | Help is part of the plan
+### SHOT_047 | 00:07:40–00:07:50 | Help is part of the plan
 
 **Visible cast:** DAN, LEO, ELLA, MAX  
 **Off-screen voices:** MAYA, NINA  
@@ -1017,7 +1017,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **LEO:** We'll bring him home too. He's learning the route.
 
-### SHOT_048 | 00:11:45–00:12:00 | The call has done its job
+### SHOT_048 | 00:07:50–00:08:00 | The call has done its job
 
 **Visible cast:** DAN, LEO  
 **Off-screen voices:** NONE  
@@ -1038,7 +1038,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **LEO:** The bags will do the remembering once they're packed.
 
-### SHOT_049 | 00:12:00–00:12:15 | Say it honestly
+### SHOT_049 | 00:08:00–00:08:10 | Say it honestly
 
 **Visible cast:** DAN, LEO, ELLA  
 **Off-screen voices:** NONE  
@@ -1059,7 +1059,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **DAN:** I'm taking orders from the packing crew now.
 
-### SHOT_050 | 00:12:15–00:12:30 | Two empty totes, ready
+### SHOT_050 | 00:08:10–00:08:20 | Two empty totes, ready
 
 **Visible cast:** ELLA, DAN, MAX  
 **Off-screen voices:** NONE  
@@ -1080,7 +1080,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **ELLA:** Keep them open so we can see inside.
 
-### SHOT_051 | 00:12:30–00:12:45 | Read, group, then pack
+### SHOT_051 | 00:08:20–00:08:30 | Read, group, then pack
 
 **Visible cast:** LEO, DAN  
 **Off-screen voices:** NONE  
@@ -1101,7 +1101,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **DAN:** I'll say each name while you check it.
 
-### SHOT_052 | 00:12:45–00:13:00 | Maya's salad goes in BLUE
+### SHOT_052 | 00:08:30–00:08:40 | Maya's salad goes in BLUE
 
 **Visible cast:** DAN, ELLA  
 **Off-screen voices:** NONE  
@@ -1122,7 +1122,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **DAN:** That one's hers. What belongs in the yellow bag?
 
-### SHOT_053 | 00:13:00–00:13:15 | Nina's soup goes in YELLOW
+### SHOT_053 | 00:08:40–00:08:50 | Nina's soup goes in YELLOW
 
 **Visible cast:** DAN, LEO, MAX  
 **Off-screen voices:** NONE  
@@ -1143,7 +1143,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **MAX:** No passengers left under the handle, either.
 
-### SHOT_054 | 00:13:15–00:13:30 | Colors and contents agree
+### SHOT_054 | 00:08:50–00:09:00 | Colors and contents agree
 
 **Visible cast:** DAN, ELLA, LEO, MAX  
 **Off-screen voices:** NONE  
@@ -1164,7 +1164,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **DAN:** I'll keep them apart on the way to checkout.
 
-### SHOT_055 | 00:13:30–00:13:45 | The total is eighteen fifty
+### SHOT_055 | 00:09:00–00:09:10 | The total is eighteen fifty
 
 **Visible cast:** DAN, LEO  
 **Off-screen voices:** VENDOR  
@@ -1185,7 +1185,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **DAN:** Let me get my wallet while you look.
 
-### SHOT_056 | 00:13:45–00:14:00 | One twenty-dollar payment
+### SHOT_056 | 00:09:10–00:09:20 | One twenty-dollar payment
 
 **Visible cast:** DAN, LEO  
 **Off-screen voices:** NONE  
@@ -1206,7 +1206,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **LEO:** I'll listen for the coins when they come back.
 
-### SHOT_057 | 00:14:00–00:14:15 | A receipt worth reading
+### SHOT_057 | 00:09:20–00:09:30 | A receipt worth reading
 
 **Visible cast:** DAN, LEO  
 **Off-screen voices:** VENDOR  
@@ -1227,7 +1227,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **LEO:** Eighteen fifty, Dad. The bottom line agrees.
 
-### SHOT_058 | 00:14:15–00:14:30 | One dollar and two quarters
+### SHOT_058 | 00:09:30–00:09:40 | One dollar and two quarters
 
 **Visible cast:** DAN, MAX  
 **Off-screen voices:** NONE  
@@ -1248,7 +1248,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **MAX:** Good thing those quarters don't roll around the basket.
 
-### SHOT_059 | 00:14:30–00:14:45 | Receipt, change, wallet
+### SHOT_059 | 00:09:40–00:09:50 | Receipt, change, wallet
 
 **Visible cast:** DAN, LEO  
 **Off-screen voices:** NONE  
@@ -1269,7 +1269,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **DAN:** Lettuce is terrible at keeping track of small change.
 
-### SHOT_060 | 00:14:45–00:15:00 | Ready to carry home
+### SHOT_060 | 00:09:50–00:10:00 | Ready to carry home
 
 **Visible cast:** DAN, LEO, ELLA, MAX  
 **Off-screen voices:** NONE  
@@ -1290,7 +1290,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **LEO:** One last look around our feet, then we're off.
 
-### SHOT_061 | 00:15:00–00:15:15 | Four shoppers, safely homeward
+### SHOT_061 | 00:10:00–00:10:10 | Four shoppers, safely homeward
 
 **Visible cast:** DAN, LEO, ELLA, MAX  
 **Off-screen voices:** NONE  
@@ -1311,7 +1311,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **DAN:** Neither did I. We'll need help in the kitchen.
 
-### SHOT_062 | 00:15:15–00:15:30 | Maya gets the BLUE tote
+### SHOT_062 | 00:10:10–00:10:20 | Maya gets the BLUE tote
 
 **Visible cast:** DAN, MAYA, ELLA  
 **Off-screen voices:** NONE  
@@ -1332,7 +1332,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **MAYA:** I see my carrots. Who kept the tomatoes safe?
 
-### SHOT_063 | 00:15:30–00:15:45 | Nina gets the YELLOW tote
+### SHOT_063 | 00:10:20–00:10:30 | Nina gets the YELLOW tote
 
 **Visible cast:** DAN, NINA, MAX  
 **Off-screen voices:** NONE  
@@ -1353,7 +1353,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **NINA:** Then it can travel the last few feet with me.
 
-### SHOT_064 | 00:15:45–00:16:00 | One kitchen, two preparation areas
+### SHOT_064 | 00:10:30–00:10:40 | One kitchen, two preparation areas
 
 **Visible cast:** MAYA, NINA, DAN, LEO, ELLA, MAX  
 **Off-screen voices:** NONE  
@@ -1374,7 +1374,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **MAX:** Can the tiny tree be in my bowl later?
 
-### SHOT_065 | 00:16:00–00:16:15 | Clean hands for the next job
+### SHOT_065 | 00:10:40–00:10:50 | Clean hands for the next job
 
 **Visible cast:** MAYA, NINA, DAN, LEO, ELLA, MAX  
 **Off-screen voices:** NONE  
@@ -1384,7 +1384,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 **Opening state:** All whole produce unwashed; no preparation started; adults control tools.  
 **End state:** All six hands washed and dried; faucet briefly off; produce still awaiting rinse; children in cool work area.  
 **Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
-**Continuity:** Handwashing takes longer in story time than fifteen seconds. Soap is for hands, not vegetables. Nobody handles a knife or hot pot during the shared washing turn.
+**Continuity:** Handwashing takes longer in story time than ten seconds. Soap is for hands, not vegetables. Nobody handles a knife or hot pot during the shared washing turn.
 
 **Dialogue:**
 **MAYA:** Hands first, after our trip.
@@ -1395,7 +1395,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **MAX:** Can my elbows have the afternoon off, though?
 
-### SHOT_066 | 00:16:15–00:16:30 | Wash before preparing
+### SHOT_066 | 00:10:50–00:11:00 | Wash before preparing
 
 **Visible cast:** MAYA, NINA, ELLA  
 **Off-screen voices:** NONE  
@@ -1416,7 +1416,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **ELLA:** I can do that while the cucumber dries.
 
-### SHOT_067 | 00:16:30–00:16:45 | The salad takes shape
+### SHOT_067 | 00:11:00–00:11:10 | The salad takes shape
 
 **Visible cast:** MAYA, DAN, ELLA  
 **Off-screen voices:** NONE  
@@ -1437,7 +1437,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **ELLA:** I'll leave you a clear spot to work, Dad.
 
-### SHOT_068 | 00:16:45–00:17:00 | Ingredients are not soup yet
+### SHOT_068 | 00:11:10–00:11:20 | Ingredients are not soup yet
 
 **Visible cast:** NINA, DAN  
 **Off-screen voices:** NONE  
@@ -1458,7 +1458,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **NINA:** You'll smell the difference when it's actually ready.
 
-### SHOT_069 | 00:17:00–00:17:15 | Allow the cooking its time
+### SHOT_069 | 00:11:20–00:11:30 | Allow the cooking its time
 
 **Visible cast:** NINA, MAYA, DAN  
 **Off-screen voices:** NONE  
@@ -1479,7 +1479,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **MAYA:** And everybody will taste what you brought home.
 
-### SHOT_070 | 00:17:15–00:17:30 | Six places waiting
+### SHOT_070 | 00:11:30–00:11:40 | Six places waiting
 
 **Visible cast:** DAN, LEO, ELLA  
 **Off-screen voices:** NONE  
@@ -1500,7 +1500,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **ELLA:** I don't think it's hungry after that trip.
 
-### SHOT_071 | 00:17:30–00:17:45 | Serve what the family made
+### SHOT_071 | 00:11:40–00:11:50 | Serve what the family made
 
 **Visible cast:** MAYA, NINA, DAN, LEO, ELLA, MAX  
 **Off-screen voices:** NONE  
@@ -1521,7 +1521,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **MAX:** Mine smells good from all the way over here.
 
-### SHOT_072 | 00:17:45–00:18:00 | An honest spoonful
+### SHOT_072 | 00:11:50–00:12:00 | An honest spoonful
 
 **Visible cast:** DAN, LEO  
 **Off-screen voices:** NONE  
@@ -1542,7 +1542,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **LEO:** Especially then, Dad.
 
-### SHOT_073 | 00:18:00–00:18:15 | Both partners share the credit
+### SHOT_073 | 00:12:00–00:12:10 | Both partners share the credit
 
 **Visible cast:** MAYA, NINA, DAN  
 **Off-screen voices:** NONE  
@@ -1563,7 +1563,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **NINA:** And guess who gets to try both dishes today?
 
-### SHOT_074 | 00:18:15–00:18:30 | Forty carrots stay imaginary
+### SHOT_074 | 00:12:10–00:12:20 | Forty carrots stay imaginary
 
 **Visible cast:** MAX, DAN  
 **Off-screen voices:** NONE  
@@ -1584,7 +1584,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **DAN:** Four guests are much easier to squeeze in.
 
-### SHOT_075 | 00:18:30–00:18:45 | An ear for a good question
+### SHOT_075 | 00:12:20–00:12:30 | An ear for a good question
 
 **Visible cast:** ELLA, MAX  
 **Off-screen voices:** NONE  
@@ -1605,7 +1605,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **MAX:** I still think the corn understood good morning.
 
-### SHOT_076 | 00:18:45–00:19:00 | Ask before guessing
+### SHOT_076 | 00:12:30–00:12:40 | Ask before guessing
 
 **Visible cast:** DAN, NINA, MAYA  
 **Off-screen voices:** NONE  
@@ -1626,7 +1626,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **NINA:** I'd rather hear your question while there's still time.
 
-### SHOT_077 | 00:19:00–00:19:15 | The two original notes
+### SHOT_077 | 00:12:40–00:12:50 | The two original notes
 
 **Visible cast:** DAN, ELLA, LEO  
 **Off-screen voices:** NONE  
@@ -1647,7 +1647,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **ELLA:** We'll bring our excellent eyes along next time too.
 
-### SHOT_078 | 00:19:15–00:19:30 | Tomorrow's fruit promise
+### SHOT_078 | 00:12:50–00:13:00 | Tomorrow's fruit promise
 
 **Visible cast:** MAYA, DAN  
 **Off-screen voices:** NONE  
@@ -1670,7 +1670,7 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **MAYA:** Wait till you see what we're buying.
 
-### SHOT_079 | 00:19:30–00:19:45 | Choose together next time
+### SHOT_079 | 00:13:00–00:13:10 | Choose together next time
 
 **Visible cast:** NINA, DAN, LEO, ELLA, MAX, MAYA  
 **Off-screen voices:** NONE  
@@ -1691,17 +1691,17 @@ Every slot lasts 15 editorial seconds. Longer washing, sorting, travel, cooking 
 
 **ELLA:** Leo can count while Max interviews the fruit.
 
-### SHOT_080 | 00:19:45–00:20:00 | Two dishes, one family
+### SHOT_080 | 00:13:10–00:13:20 | Two dishes, one family
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX  
 **Off-screen voices:** NONE  
 **Location:** HOME_TABLE  
-**Camera:** Slow closing wide on the six fixed places, ending within the twenty-minute timeline.  
+**Camera:** Slow closing wide on the six fixed places, ending within the 13:20 planned timeline.  
 **Action:** The family shares relaxed smiles over their prepared meal. Dan rests his hands beside his place; the empty market basket remains safely on the supply chair in the kitchen. Add the editorial ending overlay only within the final two seconds.  
 **Opening state:** All six enjoying salad and cooked soup; stove OFF; notes/receipt/phone pocketed; future card on sideboard.  
-**End state:** Hold the same six-person family tableau through 00:20:00; vegetable story complete with no unresolved purchase or cooking mistake.  
+**End state:** Hold the same six-person family tableau through 00:13:20; vegetable story complete with no unresolved purchase or cooking mistake.  
 **Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
-**Continuity:** No recap narrator or synchronized chorus. Any optional creator-designed practice begins after this completed story, outside its twenty-minute runtime.
+**Continuity:** No recap narrator or synchronized chorus. Any optional creator-designed practice begins after this completed story, outside its 13:20 planned runtime.
 
 **Dialogue:**
 **DAN:** Two dishes. One happy family.
