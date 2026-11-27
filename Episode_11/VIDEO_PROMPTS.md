@@ -2,9 +2,9 @@
 
 Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start dialogue promptly, let meaningful actions and listener reactions occur during speech, and avoid filler silence, prolonged holds or unnatural motion. Speaker windows below are provisional editorial targets, not instructions to rush speech; verify against natural recorded performances. If a line cannot fit naturally, flag the shot for editorial review rather than truncating dialogue or artificially speeding it up.
 
-80 video prompts, one per illustrated shot. Copy a single numbered block and use the corresponding panel. Frame a clean 16:9 shot inside its composition. Keep the sheet border and neighboring panels outside the video. Clip-local speaker windows restart at zero in each prompt. Retime the existing full-episode [subtitle track](../Shared_Resources/Archive/Episode_11/SUBTITLES.srt) against the recorded performances and revised 10-second timeline before assembly.
+80 video prompts, one per illustrated shot. Copy a single numbered block and use the corresponding panel. Frame a clean 16:9 shot inside its composition. Keep the sheet border and neighboring panels outside the video. Clip-local speaker windows restart at zero in each prompt. Retime the existing full-episode [subtitle track (historical reference)](https://github.com/pujahalder34675-creator/ai-story-building/blob/8362bf7a5ec009104a53857e9bee314a843c1a14/Episode_11/SUBTITLES.srt) against the recorded performances and revised 10-second timeline before assembly.
 
-[Storyboard gallery](STORYBOARD_GALLERY.md) · [Screenplay](STORY.md) · [Cast, set references and edit notes](../Shared_Resources/Archive/Episode_11/README.md#video-handoff)
+[Storyboard gallery](STORYBOARD_GALLERY.md) · [Screenplay](STORY.md) · [Cast, set references and edit notes (historical reference)](https://github.com/pujahalder34675-creator/ai-story-building/blob/8362bf7a5ec009104a53857e9bee314a843c1a14/Episode_11/README.md#video-handoff)
 
 <a name="shot-001"></a>
 

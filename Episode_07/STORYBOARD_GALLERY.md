@@ -1,8 +1,8 @@
 # Episode 07 — Right Bus, Wrong Stop! | Travel English | Slow Family Comedy: storyboard gallery
 
-The [creator approval record](../Shared_Resources/Archive/CURRENT_PRODUCTION_STATUS.md) identifies reviewed panels. Individual motion first frames require separate approval.
+The [creator approval record (historical reference)](https://github.com/pujahalder34675-creator/ai-story-building/blob/8362bf7a5ec009104a53857e9bee314a843c1a14/CURRENT_PRODUCTION_STATUS.md) identifies reviewed panels. Individual motion first frames require separate approval.
 
-[Shot index](../Shared_Resources/Archive/Episode_07/STORYBOARD_INDEX.md) · [HTML gallery](storyboards/index.html) · [Generation notes](storyboards/GENERATION_NOTES.md)
+[Shot index (historical reference)](https://github.com/pujahalder34675-creator/ai-story-building/blob/8362bf7a5ec009104a53857e9bee314a843c1a14/Episode_07/STORYBOARD_INDEX.md) · [HTML gallery](storyboards/index.html) · [Generation notes](storyboards/GENERATION_NOTES.md)
 
 ## BOARD_01 — SHOT_001–SHOT_004
 
@@ -128,24 +128,24 @@ SHOT_077: A quiet place to be honest · SHOT_078: Both parts of the team · SHOT
 
 ### HOME_KITCHEN
 
-![HOME_KITCHEN](../Shared_Resources/Assets/Episode_07/environments/HOME_KITCHEN.jpg)
+![HOME_KITCHEN](../ref/environments/HOME_KITCHEN.jpg)
 
 ### WRONG_STOP
 
-![WRONG_STOP](../Shared_Resources/Assets/Episode_07/environments/WRONG_STOP.png)
+[WRONG_STOP (historical reference)](https://github.com/pujahalder34675-creator/ai-story-building/blob/8362bf7a5ec009104a53857e9bee314a843c1a14/Episode_07/assets/environments/WRONG_STOP.png)
 
 ### CORRECT_STOP
 
-![CORRECT_STOP](../Shared_Resources/Assets/Episode_07/environments/CORRECT_STOP.png)
+[CORRECT_STOP (historical reference)](https://github.com/pujahalder34675-creator/ai-story-building/blob/8362bf7a5ec009104a53857e9bee314a843c1a14/Episode_07/assets/environments/CORRECT_STOP.png)
 
 ### BUS_INTERIOR
 
-![BUS_INTERIOR](../Shared_Resources/Assets/Episode_07/environments/BUS_INTERIOR.png)
+[BUS_INTERIOR (historical reference)](https://github.com/pujahalder34675-creator/ai-story-building/blob/8362bf7a5ec009104a53857e9bee314a843c1a14/Episode_07/assets/environments/BUS_INTERIOR.png)
 
 ### LIBRARY_FOYER
 
-![LIBRARY_FOYER](../Shared_Resources/Assets/Episode_07/environments/LIBRARY_FOYER.png)
+[LIBRARY_FOYER (historical reference)](https://github.com/pujahalder34675-creator/ai-story-building/blob/8362bf7a5ec009104a53857e9bee314a843c1a14/Episode_07/assets/environments/LIBRARY_FOYER.png)
 
 ## Original six family identities
 
-[14 unchanged cast previews](../Shared_Resources/Assets/Episode_07/characters/)
+[14 unchanged cast previews](../ref/characters/)

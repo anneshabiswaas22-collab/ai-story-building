@@ -19,7 +19,7 @@ On a later afternoon, Maya's mother Ruth arrives with six identical packing cube
 
 ## Performance and state rules
 
-The same six W01 identities continue. Maya and Nina have equal agency; Dan's admission is met with help, never humiliation. Ruth is Maya's mother, not Nina's. Her new lavender-cardigan appearance is a provisional cameo design requiring creator review. No silent new family identity, recording or motion generation is implied. Ten seconds is an editorial shot slot; longer loading, walking, storing and handwashing use explicit story-time ellipses. Dialogue stays short enough for action and response. All current socks are clean, dry and paired; no character removes worn clothing. The household washer and dryer remain closed and unused. See [CONTINUITY.md](../Shared_Resources/Archive/Episode_08/CONTINUITY.md) for exact owner, container and shelf ledgers.
+The same six W01 identities continue. Maya and Nina have equal agency; Dan's admission is met with help, never humiliation. Ruth is Maya's mother, not Nina's. Her new lavender-cardigan appearance is a provisional cameo design requiring creator review. No silent new family identity, recording or motion generation is implied. Ten seconds is an editorial shot slot; longer loading, walking, storing and handwashing use explicit story-time ellipses. Dialogue stays short enough for action and response. All current socks are clean, dry and paired; no character removes worn clothing. The household washer and dryer remain closed and unused. See [CONTINUITY.md (historical reference)](https://github.com/pujahalder34675-creator/ai-story-building/blob/8362bf7a5ec009104a53857e9bee314a843c1a14/Episode_08/CONTINUITY.md) for exact owner, container and shelf ledgers.
 
 ## Timed story shots
 

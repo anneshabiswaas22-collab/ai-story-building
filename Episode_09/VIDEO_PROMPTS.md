@@ -4,7 +4,7 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 Written and still-image preproduction draft. Each slot is a planned 10-second editorial shot, 16:9, original warm stylized 3D and natural General American family conversation. No video or voice has been generated. Optional creator-authored practice belongs after the story. Creator visual approval and individual motion first frames remain pending.
 
-Use the unchanged [cast previews](../Shared_Resources/Assets/Episode_09/characters/), [continuity ledger](../Shared_Resources/Archive/Episode_09/CONTINUITY.md) and [scene plan](../Shared_Resources/Archive/Episode_09/SCENE_REFERENCE_PLAN.md). Restore original owner-controlled identity/home PNG masters before separately authorized motion production. No replacement faces, extra family members, wardrobe changes, mirrored watch/pocket sides, watermarks, baked-in subtitles or audience drills. Readable prop text uses the exact [SVG overlays](../Shared_Resources/Assets/Episode_09/overlays/).
+Use the unchanged [cast previews](../ref/characters/), [continuity ledger (historical reference)](https://github.com/pujahalder34675-creator/ai-story-building/blob/8362bf7a5ec009104a53857e9bee314a843c1a14/Episode_09/CONTINUITY.md) and [scene plan (historical reference)](https://github.com/pujahalder34675-creator/ai-story-building/blob/8362bf7a5ec009104a53857e9bee314a843c1a14/Episode_09/SCENE_REFERENCE_PLAN.md). Restore original owner-controlled identity/home PNG masters before separately authorized motion production. No replacement faces, extra family members, wardrobe changes, mirrored watch/pocket sides, watermarks, baked-in subtitles or audience drills. Readable prop text uses the exact [SVG overlays (historical reference)](https://github.com/pujahalder34675-creator/ai-story-building/tree/8362bf7a5ec009104a53857e9bee314a843c1a14/Episode_09/assets/overlays).
 
 ## Episode locks
 
@@ -19,7 +19,7 @@ Use the unchanged [cast previews](../Shared_Resources/Assets/Episode_09/characte
 - BEN is Dan’s brother, a provisional supporting design, visible only SHOT_009–012 for 40 seconds; he delivers empty pots and leaves before planting.
 - No video, recorded voices, creator acceptance or approved individual motion first frames are claimed.
 
-The former sync script and subtitle track are archived in [shared resources](../Shared_Resources/Archive/Episode_09/). They are historical and must be updated before reuse; do not regenerate this document with the old 15-second tooling.
+Legacy sync scripts and subtitle files are not included in this production layout. Retiming must be checked against recorded dialogue before assembly.
 
 ## SHOT_001 | 00:00:00–00:00:10 | A small garden plan
 

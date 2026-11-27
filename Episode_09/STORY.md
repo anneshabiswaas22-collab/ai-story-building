@@ -19,7 +19,7 @@ On a later spring morning after Grandma Ruth’s visit, the family plants one mi
 
 The 100 mL per-pot amounts are records for this scene’s already damp mix and small newly planted pots, not universal watering instructions. The adults check soil, settling and drainage and do not empty the can simply because water remains. Longer filling, settling, carrying and washing actions use explicit elapsed-time dissolves. A ten-second editorial slot is not a completed real-time gardening demonstration.
 
-Read [CONTINUITY.md](../Shared_Resources/Archive/Episode_09/CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PLAN.md](../Shared_Resources/Archive/Episode_09/SCENE_REFERENCE_PLAN.md) for geography. Existing cast previews remain unchanged; Ben is a newly proposed minor supporting design, not a seventh permanent family member. All storyboard and environment art remains pending creator review.
+Read [CONTINUITY.md (historical reference)](https://github.com/pujahalder34675-creator/ai-story-building/blob/8362bf7a5ec009104a53857e9bee314a843c1a14/Episode_09/CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PLAN.md (historical reference)](https://github.com/pujahalder34675-creator/ai-story-building/blob/8362bf7a5ec009104a53857e9bee314a843c1a14/Episode_09/SCENE_REFERENCE_PLAN.md) for geography. Existing cast previews remain unchanged; Ben is a newly proposed minor supporting design, not a seventh permanent family member. All storyboard and environment art remains pending creator review.
 
 ## Timed story shots
 

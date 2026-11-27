@@ -1,8 +1,8 @@
 # Episode 02 — complete illustrated storyboard gallery
 
-**20 sheets / 80 labeled shot illustrations.** Each sheet contains four panels in reading order: top-left, top-right, bottom-left, bottom-right. See the [creator approval record](../Shared_Resources/Archive/CURRENT_PRODUCTION_STATUS.md) for reviewed panels. Individual motion first frames require separate approval.
+**20 sheets / 80 labeled shot illustrations.** Each sheet contains four panels in reading order: top-left, top-right, bottom-left, bottom-right. See the [creator approval record (historical reference)](https://github.com/pujahalder34675-creator/ai-story-building/blob/8362bf7a5ec009104a53857e9bee314a843c1a14/CURRENT_PRODUCTION_STATUS.md) for reviewed panels. Individual motion first frames require separate approval.
 
-[Open HTML gallery](storyboards/index.html) · [Shot-by-shot index](../Shared_Resources/Archive/Episode_02/STORYBOARD_INDEX.md) · [Generation and review notes](storyboards/GENERATION_NOTES.md)
+[Open HTML gallery](storyboards/index.html) · [Shot-by-shot index (historical reference)](https://github.com/pujahalder34675-creator/ai-story-building/blob/8362bf7a5ec009104a53857e9bee314a843c1a14/Episode_02/STORYBOARD_INDEX.md) · [Generation and review notes](storyboards/GENERATION_NOTES.md)
 
 ## BOARD_01 — SHOT_001–SHOT_004
 
@@ -130,24 +130,24 @@ The kitchen preview is shared unchanged with Episode 01; the four new location i
 
 ### HOME_KITCHEN.jpg
 
-![HOME_KITCHEN.jpg](../Shared_Resources/Assets/Episode_02/environments/HOME_KITCHEN.jpg)
+![HOME_KITCHEN.jpg](../ref/environments/HOME_KITCHEN.jpg)
 
 ### FRUIT_SHOP_WIDE.png
 
-![FRUIT_SHOP_WIDE.png](../Shared_Resources/Assets/Episode_02/environments/FRUIT_SHOP_WIDE.png)
+[FRUIT_SHOP_WIDE.png (historical reference)](https://github.com/pujahalder34675-creator/ai-story-building/blob/8362bf7a5ec009104a53857e9bee314a843c1a14/Episode_02/assets/environments/FRUIT_SHOP_WIDE.png)
 
 ### FRUIT_COUNTER.png
 
-![FRUIT_COUNTER.png](../Shared_Resources/Assets/Episode_02/environments/FRUIT_COUNTER.png)
+[FRUIT_COUNTER.png (historical reference)](https://github.com/pujahalder34675-creator/ai-story-building/blob/8362bf7a5ec009104a53857e9bee314a843c1a14/Episode_02/assets/environments/FRUIT_COUNTER.png)
 
 ### FRUIT_CHECKOUT.png
 
-![FRUIT_CHECKOUT.png](../Shared_Resources/Assets/Episode_02/environments/FRUIT_CHECKOUT.png)
+[FRUIT_CHECKOUT.png (historical reference)](https://github.com/pujahalder34675-creator/ai-story-building/blob/8362bf7a5ec009104a53857e9bee314a843c1a14/Episode_02/assets/environments/FRUIT_CHECKOUT.png)
 
 ### HOME_GARDEN.png
 
-![HOME_GARDEN.png](../Shared_Resources/Assets/Episode_02/environments/HOME_GARDEN.png)
+[HOME_GARDEN.png (historical reference)](https://github.com/pujahalder34675-creator/ai-story-building/blob/8362bf7a5ec009104a53857e9bee314a843c1a14/Episode_02/assets/environments/HOME_GARDEN.png)
 
 ## Permanent cast gallery
 
-[All 14 unchanged character previews](../Shared_Resources/Assets/Episode_02/characters/) · [Adult lineup](../Shared_Resources/Assets/Episode_02/characters/ADULTS_lineup.jpg) · [Children’s lineup](../Shared_Resources/Assets/Episode_02/characters/CHILDREN_lineup.jpg)
+[All 14 unchanged character previews](../ref/characters/) · [Adult lineup](../ref/characters/ADULTS_lineup.jpg) · [Children’s lineup](../ref/characters/CHILDREN_lineup.jpg)

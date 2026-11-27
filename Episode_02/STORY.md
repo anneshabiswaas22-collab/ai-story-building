@@ -22,7 +22,7 @@ The morning after Episode 01’s vegetable dinner, all six Brooks family members
 
 Every slot is an editorial 10-second story shot, not a guarantee that any generation service can supply that duration. Speech is sequential, warm General American; allow actions and reactions between lines. Proposed SRT timings must later be conformed to real performances. No background voice or seventh family member is added. Long handwashing, washing, cutting, packing and mealtime work uses explicitly indicated time ellipses rather than impossible real-time demonstrations.
 
-All six keep their original faces, proportions and W01 outfits. Existing kitchen geography and Dan’s LEFT-wrist watch / RIGHT-pocket wallet and card continue. Shop and garden layouts, inventory, prices and food handling are locked in [CONTINUITY.md](../Shared_Resources/Archive/Episode_02/CONTINUITY.md). All five locations still require Episode 02 shot-specific composition/first-frame approvals; existing Episode 01 kitchen/cast previews are reference aids only.
+All six keep their original faces, proportions and W01 outfits. Existing kitchen geography and Dan’s LEFT-wrist watch / RIGHT-pocket wallet and card continue. Shop and garden layouts, inventory, prices and food handling are locked in [CONTINUITY.md (historical reference)](https://github.com/pujahalder34675-creator/ai-story-building/blob/8362bf7a5ec009104a53857e9bee314a843c1a14/Episode_02/CONTINUITY.md). All five locations still require Episode 02 shot-specific composition/first-frame approvals; existing Episode 01 kitchen/cast previews are reference aids only.
 
 ## Timed story shots
 

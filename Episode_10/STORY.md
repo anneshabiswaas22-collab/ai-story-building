@@ -21,7 +21,7 @@ Following the garden episode, the family celebrates a weekend of helping each ot
 
 Actions, waiting, food handling and eating include explicitly marked story-time ellipses where needed;10 seconds is an editorial slot, not a provider-duration guarantee. Original W01 actors/home remain fixed. Rose’s new reference is the provisional draft shared with Episode04, not an approved redesign. Ed never appears onscreen; the neighbor has no face. Dialogue in the Off-screen cast field is audible without inserting an onscreen actor.
 
-Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery messages and times are fictional props. Detailed props, cameo, evidence, food and serving state are in [CONTINUITY.md](../Shared_Resources/Archive/Episode_10/CONTINUITY.md).
+Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery messages and times are fictional props. Detailed props, cameo, evidence, food and serving state are in [CONTINUITY.md (historical reference)](https://github.com/pujahalder34675-creator/ai-story-building/blob/8362bf7a5ec009104a53857e9bee314a843c1a14/Episode_10/CONTINUITY.md).
 
 ## Timed story shots
 

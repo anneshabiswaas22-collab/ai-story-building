@@ -1,8 +1,8 @@
 # Episode 09 — Can Dad Grow Money? | Garden English | Funny Learning Story: storyboard gallery
 
-The [creator approval record](../Shared_Resources/Archive/CURRENT_PRODUCTION_STATUS.md) identifies reviewed panels. Individual motion first frames require separate approval.
+The [creator approval record (historical reference)](https://github.com/pujahalder34675-creator/ai-story-building/blob/8362bf7a5ec009104a53857e9bee314a843c1a14/CURRENT_PRODUCTION_STATUS.md) identifies reviewed panels. Individual motion first frames require separate approval.
 
-[Shot index](../Shared_Resources/Archive/Episode_09/STORYBOARD_INDEX.md) · [HTML gallery](storyboards/index.html) · [Generation notes](storyboards/GENERATION_NOTES.md)
+[Shot index (historical reference)](https://github.com/pujahalder34675-creator/ai-story-building/blob/8362bf7a5ec009104a53857e9bee314a843c1a14/Episode_09/STORYBOARD_INDEX.md) · [HTML gallery](storyboards/index.html) · [Generation notes](storyboards/GENERATION_NOTES.md)
 
 ## BOARD_01 — SHOT_001–SHOT_004
 
@@ -128,24 +128,24 @@ SHOT_077: A very small ambition · SHOT_078: One last honest entry · SHOT_079: 
 
 ### HOME_KITCHEN
 
-![HOME_KITCHEN](../Shared_Resources/Assets/Episode_09/environments/HOME_KITCHEN.jpg)
+![HOME_KITCHEN](../ref/environments/HOME_KITCHEN.jpg)
 
 ### HOME_GARDEN
 
-![HOME_GARDEN](../Shared_Resources/Assets/Episode_09/environments/HOME_GARDEN.png)
+[HOME_GARDEN (historical reference)](https://github.com/pujahalder34675-creator/ai-story-building/blob/8362bf7a5ec009104a53857e9bee314a843c1a14/Episode_09/assets/environments/HOME_GARDEN.png)
 
 ### POTTING_BENCH
 
-![POTTING_BENCH](../Shared_Resources/Assets/Episode_09/environments/POTTING_BENCH.png)
+[POTTING_BENCH (historical reference)](https://github.com/pujahalder34675-creator/ai-story-building/blob/8362bf7a5ec009104a53857e9bee314a843c1a14/Episode_09/assets/environments/POTTING_BENCH.png)
 
 ### GARDEN_POTS
 
-![GARDEN_POTS](../Shared_Resources/Assets/Episode_09/environments/GARDEN_POTS.png)
+[GARDEN_POTS (historical reference)](https://github.com/pujahalder34675-creator/ai-story-building/blob/8362bf7a5ec009104a53857e9bee314a843c1a14/Episode_09/assets/environments/GARDEN_POTS.png)
 
 ### GARDEN_PATH
 
-![GARDEN_PATH](../Shared_Resources/Assets/Episode_09/environments/GARDEN_PATH.png)
+[GARDEN_PATH (historical reference)](https://github.com/pujahalder34675-creator/ai-story-building/blob/8362bf7a5ec009104a53857e9bee314a843c1a14/Episode_09/assets/environments/GARDEN_PATH.png)
 
 ## Original six family identities
 
-[14 unchanged cast previews](../Shared_Resources/Assets/Episode_09/characters/)
+[14 unchanged cast previews](../ref/characters/)

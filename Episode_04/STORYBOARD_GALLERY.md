@@ -1,8 +1,8 @@
 # Episode 04 — Dad Tried On the Wrong Shoes! | Shopping Mall English: storyboard gallery
 
-The [creator approval record](../Shared_Resources/Archive/CURRENT_PRODUCTION_STATUS.md) identifies reviewed panels. Individual motion first frames require separate approval.
+The [creator approval record (historical reference)](https://github.com/pujahalder34675-creator/ai-story-building/blob/8362bf7a5ec009104a53857e9bee314a843c1a14/CURRENT_PRODUCTION_STATUS.md) identifies reviewed panels. Individual motion first frames require separate approval.
 
-[Shot index](../Shared_Resources/Archive/Episode_04/STORYBOARD_INDEX.md) · [HTML gallery](storyboards/index.html) · [Generation notes](storyboards/GENERATION_NOTES.md)
+[Shot index (historical reference)](https://github.com/pujahalder34675-creator/ai-story-building/blob/8362bf7a5ec009104a53857e9bee314a843c1a14/Episode_04/STORYBOARD_INDEX.md) · [HTML gallery](storyboards/index.html) · [Generation notes](storyboards/GENERATION_NOTES.md)
 
 ## BOARD_01 — SHOT_001–SHOT_004
 
@@ -128,24 +128,24 @@ SHOT_077: The joke finds its limit · SHOT_078: A different picnic plan · SHOT_
 
 ### HOME_KITCHEN
 
-![HOME_KITCHEN](../Shared_Resources/Assets/Episode_04/environments/HOME_KITCHEN.jpg)
+![HOME_KITCHEN](../ref/environments/HOME_KITCHEN.jpg)
 
 ### MALL_ENTRANCE
 
-![MALL_ENTRANCE](../Shared_Resources/Assets/Episode_04/environments/MALL_ENTRANCE.png)
+[MALL_ENTRANCE (historical reference)](https://github.com/pujahalder34675-creator/ai-story-building/blob/8362bf7a5ec009104a53857e9bee314a843c1a14/Episode_04/assets/environments/MALL_ENTRANCE.png)
 
 ### MALL_CORRIDOR
 
-![MALL_CORRIDOR](../Shared_Resources/Assets/Episode_04/environments/MALL_CORRIDOR.png)
+[MALL_CORRIDOR (historical reference)](https://github.com/pujahalder34675-creator/ai-story-building/blob/8362bf7a5ec009104a53857e9bee314a843c1a14/Episode_04/assets/environments/MALL_CORRIDOR.png)
 
 ### SHOE_FITTING
 
-![SHOE_FITTING](../Shared_Resources/Assets/Episode_04/environments/SHOE_FITTING.png)
+[SHOE_FITTING (historical reference)](https://github.com/pujahalder34675-creator/ai-story-building/blob/8362bf7a5ec009104a53857e9bee314a843c1a14/Episode_04/assets/environments/SHOE_FITTING.png)
 
 ### SHOE_CHECKOUT
 
-![SHOE_CHECKOUT](../Shared_Resources/Assets/Episode_04/environments/SHOE_CHECKOUT.png)
+[SHOE_CHECKOUT (historical reference)](https://github.com/pujahalder34675-creator/ai-story-building/blob/8362bf7a5ec009104a53857e9bee314a843c1a14/Episode_04/assets/environments/SHOE_CHECKOUT.png)
 
 ## Original six family identities
 
-[14 unchanged cast previews](../Shared_Resources/Assets/Episode_04/characters/)
+[14 unchanged cast previews](../ref/characters/)

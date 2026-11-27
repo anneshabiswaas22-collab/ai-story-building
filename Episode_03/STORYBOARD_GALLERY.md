@@ -1,8 +1,8 @@
 # Episode 03 — complete illustrated storyboard gallery
 
-**20 sheets / 80 labeled shot illustrations.** Each sheet contains four panels in reading order: top-left, top-right, bottom-left, bottom-right. See the [creator approval record](../Shared_Resources/Archive/CURRENT_PRODUCTION_STATUS.md) for reviewed panels. Individual motion first frames require separate approval.
+**20 sheets / 80 labeled shot illustrations.** Each sheet contains four panels in reading order: top-left, top-right, bottom-left, bottom-right. See the [creator approval record (historical reference)](https://github.com/pujahalder34675-creator/ai-story-building/blob/8362bf7a5ec009104a53857e9bee314a843c1a14/CURRENT_PRODUCTION_STATUS.md) for reviewed panels. Individual motion first frames require separate approval.
 
-[Open HTML gallery](storyboards/index.html) · [Shot-by-shot index](../Shared_Resources/Archive/Episode_03/STORYBOARD_INDEX.md) · [Generation and review notes](storyboards/GENERATION_NOTES.md)
+[Open HTML gallery](storyboards/index.html) · [Shot-by-shot index (historical reference)](https://github.com/pujahalder34675-creator/ai-story-building/blob/8362bf7a5ec009104a53857e9bee314a843c1a14/Episode_03/STORYBOARD_INDEX.md) · [Generation and review notes](storyboards/GENERATION_NOTES.md)
 
 ## BOARD_01 — SHOT_001–SHOT_004
 
@@ -130,24 +130,24 @@ Kitchen and table previews are shared unchanged with Episode 01; the three new k
 
 ### HOME_KITCHEN.jpg
 
-![HOME_KITCHEN.jpg](../Shared_Resources/Assets/Episode_03/environments/HOME_KITCHEN.jpg)
+![HOME_KITCHEN.jpg](../ref/environments/HOME_KITCHEN.jpg)
 
 ### PANTRY_SHELF.png
 
-![PANTRY_SHELF.png](../Shared_Resources/Assets/Episode_03/environments/PANTRY_SHELF.png)
+[PANTRY_SHELF.png (historical reference)](https://github.com/pujahalder34675-creator/ai-story-building/blob/8362bf7a5ec009104a53857e9bee314a843c1a14/Episode_03/assets/environments/PANTRY_SHELF.png)
 
 ### PREP_ISLAND.png
 
-![PREP_ISLAND.png](../Shared_Resources/Assets/Episode_03/environments/PREP_ISLAND.png)
+[PREP_ISLAND.png (historical reference)](https://github.com/pujahalder34675-creator/ai-story-building/blob/8362bf7a5ec009104a53857e9bee314a843c1a14/Episode_03/assets/environments/PREP_ISLAND.png)
 
 ### STOVE_STATION.png
 
-![STOVE_STATION.png](../Shared_Resources/Assets/Episode_03/environments/STOVE_STATION.png)
+[STOVE_STATION.png (historical reference)](https://github.com/pujahalder34675-creator/ai-story-building/blob/8362bf7a5ec009104a53857e9bee314a843c1a14/Episode_03/assets/environments/STOVE_STATION.png)
 
 ### HOME_TABLE.jpg
 
-![HOME_TABLE.jpg](../Shared_Resources/Assets/Episode_03/environments/HOME_TABLE.jpg)
+![HOME_TABLE.jpg](../ref/environments/HOME_TABLE.jpg)
 
 ## Permanent cast gallery
 
-[All 14 unchanged character previews](../Shared_Resources/Assets/Episode_03/characters/) · [Adult lineup](../Shared_Resources/Assets/Episode_03/characters/ADULTS_lineup.jpg) · [Children’s lineup](../Shared_Resources/Assets/Episode_03/characters/CHILDREN_lineup.jpg)
+[All 14 unchanged character previews](../ref/characters/) · [Adult lineup](../ref/characters/ADULTS_lineup.jpg) · [Children’s lineup](../ref/characters/CHILDREN_lineup.jpg)

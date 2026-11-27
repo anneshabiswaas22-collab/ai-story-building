@@ -1,8 +1,8 @@
 # Episode 06 — Dad Said HOT… But Meant WARM! | Restaurant English | Funny Family Dinner: storyboard gallery
 
-The [creator approval record](../Shared_Resources/Archive/CURRENT_PRODUCTION_STATUS.md) identifies reviewed panels. Individual motion first frames require separate approval.
+The [creator approval record (historical reference)](https://github.com/pujahalder34675-creator/ai-story-building/blob/8362bf7a5ec009104a53857e9bee314a843c1a14/CURRENT_PRODUCTION_STATUS.md) identifies reviewed panels. Individual motion first frames require separate approval.
 
-[Shot index](../Shared_Resources/Archive/Episode_06/STORYBOARD_INDEX.md) · [HTML gallery](storyboards/index.html) · [Generation notes](storyboards/GENERATION_NOTES.md)
+[Shot index (historical reference)](https://github.com/pujahalder34675-creator/ai-story-building/blob/8362bf7a5ec009104a53857e9bee314a843c1a14/Episode_06/STORYBOARD_INDEX.md) · [HTML gallery](storyboards/index.html) · [Generation notes](storyboards/GENERATION_NOTES.md)
 
 ## BOARD_01 — SHOT_001–SHOT_004
 
@@ -128,24 +128,24 @@ SHOT_077: The whole family leaves together · SHOT_078: The budget has an honest
 
 ### HOME_KITCHEN
 
-![HOME_KITCHEN](../Shared_Resources/Assets/Episode_06/environments/HOME_KITCHEN.jpg)
+![HOME_KITCHEN](../ref/environments/HOME_KITCHEN.jpg)
 
 ### RESTAURANT_ENTRANCE
 
-![RESTAURANT_ENTRANCE](../Shared_Resources/Assets/Episode_06/environments/RESTAURANT_ENTRANCE.png)
+[RESTAURANT_ENTRANCE (historical reference)](https://github.com/pujahalder34675-creator/ai-story-building/blob/8362bf7a5ec009104a53857e9bee314a843c1a14/Episode_06/assets/environments/RESTAURANT_ENTRANCE.png)
 
 ### RESTAURANT_WIDE
 
-![RESTAURANT_WIDE](../Shared_Resources/Assets/Episode_06/environments/RESTAURANT_WIDE.png)
+[RESTAURANT_WIDE (historical reference)](https://github.com/pujahalder34675-creator/ai-story-building/blob/8362bf7a5ec009104a53857e9bee314a843c1a14/Episode_06/assets/environments/RESTAURANT_WIDE.png)
 
 ### RESTAURANT_TABLE
 
-![RESTAURANT_TABLE](../Shared_Resources/Assets/Episode_06/environments/RESTAURANT_TABLE.png)
+[RESTAURANT_TABLE (historical reference)](https://github.com/pujahalder34675-creator/ai-story-building/blob/8362bf7a5ec009104a53857e9bee314a843c1a14/Episode_06/assets/environments/RESTAURANT_TABLE.png)
 
 ### SERVICE_COUNTER
 
-![SERVICE_COUNTER](../Shared_Resources/Assets/Episode_06/environments/SERVICE_COUNTER.png)
+[SERVICE_COUNTER (historical reference)](https://github.com/pujahalder34675-creator/ai-story-building/blob/8362bf7a5ec009104a53857e9bee314a843c1a14/Episode_06/assets/environments/SERVICE_COUNTER.png)
 
 ## Original six family identities
 
-[14 unchanged cast previews](../Shared_Resources/Assets/Episode_06/characters/)
+[14 unchanged cast previews](../ref/characters/)

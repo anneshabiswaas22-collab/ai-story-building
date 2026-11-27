@@ -1,8 +1,8 @@
 # Episode 08 — Grandma's Suitcase Has Everyone's Socks! | Home English | Family Story: storyboard gallery
 
-The [creator approval record](../Shared_Resources/Archive/CURRENT_PRODUCTION_STATUS.md) identifies reviewed panels. Individual motion first frames require separate approval.
+The [creator approval record (historical reference)](https://github.com/pujahalder34675-creator/ai-story-building/blob/8362bf7a5ec009104a53857e9bee314a843c1a14/CURRENT_PRODUCTION_STATUS.md) identifies reviewed panels. Individual motion first frames require separate approval.
 
-[Shot index](../Shared_Resources/Archive/Episode_08/STORYBOARD_INDEX.md) · [HTML gallery](storyboards/index.html) · [Generation notes](storyboards/GENERATION_NOTES.md)
+[Shot index (historical reference)](https://github.com/pujahalder34675-creator/ai-story-building/blob/8362bf7a5ec009104a53857e9bee314a843c1a14/Episode_08/STORYBOARD_INDEX.md) · [HTML gallery](storyboards/index.html) · [Generation notes](storyboards/GENERATION_NOTES.md)
 
 ## BOARD_01 — SHOT_001–SHOT_004
 
@@ -128,24 +128,24 @@ SHOT_077: Tomorrow can wait · SHOT_078: No labels on grandmothers · SHOT_079: 
 
 ### HOME_ENTRY
 
-![HOME_ENTRY](../Shared_Resources/Assets/Episode_08/environments/HOME_ENTRY.png)
+[HOME_ENTRY (historical reference)](https://github.com/pujahalder34675-creator/ai-story-building/blob/8362bf7a5ec009104a53857e9bee314a843c1a14/Episode_08/assets/environments/HOME_ENTRY.png)
 
 ### GUEST_ROOM
 
-![GUEST_ROOM](../Shared_Resources/Assets/Episode_08/environments/GUEST_ROOM.png)
+[GUEST_ROOM (historical reference)](https://github.com/pujahalder34675-creator/ai-story-building/blob/8362bf7a5ec009104a53857e9bee314a843c1a14/Episode_08/assets/environments/GUEST_ROOM.png)
 
 ### LAUNDRY_NOOK
 
-![LAUNDRY_NOOK](../Shared_Resources/Assets/Episode_08/environments/LAUNDRY_NOOK.png)
+[LAUNDRY_NOOK (historical reference)](https://github.com/pujahalder34675-creator/ai-story-building/blob/8362bf7a5ec009104a53857e9bee314a843c1a14/Episode_08/assets/environments/LAUNDRY_NOOK.png)
 
 ### HOME_KITCHEN
 
-![HOME_KITCHEN](../Shared_Resources/Assets/Episode_08/environments/HOME_KITCHEN.jpg)
+![HOME_KITCHEN](../ref/environments/HOME_KITCHEN.jpg)
 
 ### HOME_TABLE
 
-![HOME_TABLE](../Shared_Resources/Assets/Episode_08/environments/HOME_TABLE.jpg)
+![HOME_TABLE](../ref/environments/HOME_TABLE.jpg)
 
 ## Original six family identities
 
-[14 unchanged cast previews](../Shared_Resources/Assets/Episode_08/characters/)
+[14 unchanged cast previews](../ref/characters/)

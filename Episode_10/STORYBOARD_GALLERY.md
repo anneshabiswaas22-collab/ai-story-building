@@ -1,8 +1,8 @@
 # Episode 10 — The Party Cake Went to the Wrong House!: storyboard gallery
 
-The [creator approval record](../Shared_Resources/Archive/CURRENT_PRODUCTION_STATUS.md) identifies reviewed panels. Individual motion first frames require separate approval.
+The [creator approval record (historical reference)](https://github.com/pujahalder34675-creator/ai-story-building/blob/8362bf7a5ec009104a53857e9bee314a843c1a14/CURRENT_PRODUCTION_STATUS.md) identifies reviewed panels. Individual motion first frames require separate approval.
 
-[Shot index](../Shared_Resources/Archive/Episode_10/STORYBOARD_INDEX.md) · [HTML gallery](storyboards/index.html) · [Generation notes](storyboards/GENERATION_NOTES.md)
+[Shot index (historical reference)](https://github.com/pujahalder34675-creator/ai-story-building/blob/8362bf7a5ec009104a53857e9bee314a843c1a14/Episode_10/STORYBOARD_INDEX.md) · [HTML gallery](storyboards/index.html) · [Generation notes](storyboards/GENERATION_NOTES.md)
 
 ## BOARD_01 — SHOT_001–SHOT_004
 
@@ -128,24 +128,24 @@ SHOT_077: A different kind of perfect · SHOT_078: The little assistant retires 
 
 ### HOME_KITCHEN
 
-![HOME_KITCHEN](../Shared_Resources/Assets/Episode_10/environments/HOME_KITCHEN.jpg)
+![HOME_KITCHEN](../ref/environments/HOME_KITCHEN.jpg)
 
 ### HOME_TABLE
 
-![HOME_TABLE](../Shared_Resources/Assets/Episode_10/environments/HOME_TABLE.jpg)
+![HOME_TABLE](../ref/environments/HOME_TABLE.jpg)
 
 ### HOME_PORCH
 
-![HOME_PORCH](../Shared_Resources/Assets/Episode_10/environments/HOME_PORCH.png)
+[HOME_PORCH (historical reference)](https://github.com/pujahalder34675-creator/ai-story-building/blob/8362bf7a5ec009104a53857e9bee314a843c1a14/Episode_10/assets/environments/HOME_PORCH.png)
 
 ### NEIGHBOR_PORCH
 
-![NEIGHBOR_PORCH](../Shared_Resources/Assets/Episode_10/environments/NEIGHBOR_PORCH.png)
+[NEIGHBOR_PORCH (historical reference)](https://github.com/pujahalder34675-creator/ai-story-building/blob/8362bf7a5ec009104a53857e9bee314a843c1a14/Episode_10/assets/environments/NEIGHBOR_PORCH.png)
 
 ### LANE_WALKWAY
 
-![LANE_WALKWAY](../Shared_Resources/Assets/Episode_10/environments/LANE_WALKWAY.png)
+[LANE_WALKWAY (historical reference)](https://github.com/pujahalder34675-creator/ai-story-building/blob/8362bf7a5ec009104a53857e9bee314a843c1a14/Episode_10/assets/environments/LANE_WALKWAY.png)
 
 ## Original six family identities
 
-[14 unchanged cast previews](../Shared_Resources/Assets/Episode_10/characters/)
+[14 unchanged cast previews](../ref/characters/)

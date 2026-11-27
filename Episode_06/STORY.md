@@ -25,7 +25,7 @@ Exactly six main courses are ordered once; no appetizer or dessert is purchased.
 
 Use the unchanged W01 cast and original face/age/body references. Dan's watch is on anatomical LEFT wrist; phone/wallet/rehearsal note remain in his RIGHT pocket. Maya and Nina share decisions and authority. SERVER is explicitly off-screen/hands-only and never appears as a new face. Actual editable overlay text governs prices, not generated lettering.
 
-Mild describes flavor, while warm/hot describe temperature; one does not prove the other. Adults check comfortable temperatures before children eat. There is no burning-mouth gag, forced spicy taste, mistaken cooked order, wasteful return or new allergy plot. Washing/cooking/serving/eating/travel need explicit story-time ellipses. No food duplicates or refills across cuts. See [CONTINUITY.md](../Shared_Resources/Archive/Episode_06/CONTINUITY.md).
+Mild describes flavor, while warm/hot describe temperature; one does not prove the other. Adults check comfortable temperatures before children eat. There is no burning-mouth gag, forced spicy taste, mistaken cooked order, wasteful return or new allergy plot. Washing/cooking/serving/eating/travel need explicit story-time ellipses. No food duplicates or refills across cuts. See [CONTINUITY.md (historical reference)](https://github.com/pujahalder34675-creator/ai-story-building/blob/8362bf7a5ec009104a53857e9bee314a843c1a14/Episode_06/CONTINUITY.md).
 
 ## Timed story shots
 

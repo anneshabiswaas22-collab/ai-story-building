@@ -1,8 +1,8 @@
 # Episode 05 — The Picnic Is on the WRONG Bench! | Park English | Family Adventure: storyboard gallery
 
-The [creator approval record](../Shared_Resources/Archive/CURRENT_PRODUCTION_STATUS.md) identifies reviewed panels. Individual motion first frames require separate approval.
+The [creator approval record (historical reference)](https://github.com/pujahalder34675-creator/ai-story-building/blob/8362bf7a5ec009104a53857e9bee314a843c1a14/CURRENT_PRODUCTION_STATUS.md) identifies reviewed panels. Individual motion first frames require separate approval.
 
-[Shot index](../Shared_Resources/Archive/Episode_05/STORYBOARD_INDEX.md) · [HTML gallery](storyboards/index.html) · [Generation notes](storyboards/GENERATION_NOTES.md)
+[Shot index (historical reference)](https://github.com/pujahalder34675-creator/ai-story-building/blob/8362bf7a5ec009104a53857e9bee314a843c1a14/Episode_05/STORYBOARD_INDEX.md) · [HTML gallery](storyboards/index.html) · [Generation notes](storyboards/GENERATION_NOTES.md)
 
 ## BOARD_01 — SHOT_001–SHOT_004
 
@@ -128,24 +128,24 @@ SHOT_077: The second useful job · SHOT_078: One map, the right way up · SHOT_0
 
 ### HOME_KITCHEN
 
-![HOME_KITCHEN](../Shared_Resources/Assets/Episode_05/environments/HOME_KITCHEN.jpg)
+![HOME_KITCHEN](../ref/environments/HOME_KITCHEN.jpg)
 
 ### PARK_GATE
 
-![PARK_GATE](../Shared_Resources/Assets/Episode_05/environments/PARK_GATE.png)
+[PARK_GATE (historical reference)](https://github.com/pujahalder34675-creator/ai-story-building/blob/8362bf7a5ec009104a53857e9bee314a843c1a14/Episode_05/assets/environments/PARK_GATE.png)
 
 ### PARK_FOUNTAIN
 
-![PARK_FOUNTAIN](../Shared_Resources/Assets/Episode_05/environments/PARK_FOUNTAIN.png)
+[PARK_FOUNTAIN (historical reference)](https://github.com/pujahalder34675-creator/ai-story-building/blob/8362bf7a5ec009104a53857e9bee314a843c1a14/Episode_05/assets/environments/PARK_FOUNTAIN.png)
 
 ### PARK_BENCH_FORK
 
-![PARK_BENCH_FORK](../Shared_Resources/Assets/Episode_05/environments/PARK_BENCH_FORK.png)
+[PARK_BENCH_FORK (historical reference)](https://github.com/pujahalder34675-creator/ai-story-building/blob/8362bf7a5ec009104a53857e9bee314a843c1a14/Episode_05/assets/environments/PARK_BENCH_FORK.png)
 
 ### PARK_OAK_PICNIC
 
-![PARK_OAK_PICNIC](../Shared_Resources/Assets/Episode_05/environments/PARK_OAK_PICNIC.png)
+[PARK_OAK_PICNIC (historical reference)](https://github.com/pujahalder34675-creator/ai-story-building/blob/8362bf7a5ec009104a53857e9bee314a843c1a14/Episode_05/assets/environments/PARK_OAK_PICNIC.png)
 
 ## Original six family identities
 
-[14 unchanged cast previews](../Shared_Resources/Assets/Episode_05/characters/)
+[14 unchanged cast previews](../ref/characters/)
