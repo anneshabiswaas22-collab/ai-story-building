@@ -1,6 +1,8 @@
 # Episode10 — The Party Cake Went to the Wrong House!
 
-> **Format:**80 continuous story shots ×15seconds = **20:00 story runtime**.
+> **Format:**80 continuous story shots × 10 seconds = **13:20 planned story runtime**.
+>
+> **Editing plan:** Plan each shot for 10 editorial seconds to reduce filler pauses and unnecessary movements. Preserve natural dialogue delivery and meaningful actions; confirm timing against recorded performances before final editing rather than adding silence or speeding up speech.
 > **Status:** All 20 storyboard sheets accompany the 80-shot screenplay. Creator sign-off, approved individual motion first frames, recorded voices and a finished film remain pending.
 > **Story-only:**natural General American family conversation; no viewer drills, quiz, recap narrator or timed practice. Optional creator-authored practice belongs after the story.
 
@@ -17,13 +19,13 @@ Following the garden episode, the family celebrates a weekend of helping each ot
 
 ## Timing, identity and geography
 
-Actions, waiting, food handling and eating include explicitly marked story-time ellipses where needed;15seconds is an editorial slot, not a provider-duration guarantee. Original W01 actors/home remain fixed. Rose’s new reference is the provisional draft shared with Episode04, not an approved redesign. Ed never appears onscreen; the neighbor has no face. Dialogue in the Off-screen cast field is audible without inserting an onscreen actor.
+Actions, waiting, food handling and eating include explicitly marked story-time ellipses where needed;10 seconds is an editorial slot, not a provider-duration guarantee. Original W01 actors/home remain fixed. Rose’s new reference is the provisional draft shared with Episode04, not an approved redesign. Ed never appears onscreen; the neighbor has no face. Dialogue in the Off-screen cast field is audible without inserting an onscreen actor.
 
 Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery messages and times are fictional props. Detailed props, cameo, evidence, food and serving state are in [CONTINUITY.md](CONTINUITY.md).
 
 ## Timed story shots
 
-### SHOT_001 | 00:00:00–00:00:15 | A party for our team
+### SHOT_001 | 00:00:00–00:00:10 | A party for our team
 
 **Visible cast:** DAN, MAYA, NINA
 **Location:** HOME_KITCHEN
@@ -43,7 +45,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **DAN:** Could the surprises come after dessert this time, please?
 
-### SHOT_002 | 00:00:15–00:00:30 | Six places, no extra guests
+### SHOT_002 | 00:00:10–00:00:20 | Six places, no extra guests
 
 **Visible cast:** LEO, ELLA, MAX
 **Location:** HOME_TABLE
@@ -63,7 +65,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **LEO:** Then the six places are for us. We can still say hello.
 
-### SHOT_003 | 00:00:30–00:00:45 | The smallest backup dessert
+### SHOT_003 | 00:00:20–00:00:30 | The smallest backup dessert
 
 **Visible cast:** NINA, MAX, DAN
 **Location:** HOME_KITCHEN
@@ -83,7 +85,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **MAX:** Couldn't hurt to keep the little one on standby, though.
 
-### SHOT_004 | 00:00:45–00:01:00 | Aunt Rose brings ribbon
+### SHOT_004 | 00:00:30–00:00:40 | Aunt Rose brings ribbon
 
 **Visible cast:** MAYA, DAN, ROSE
 **Location:** HOME_PORCH
@@ -103,7 +105,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **DAN:** Good. You can see what the ribbon's for before you go.
 
-### SHOT_005 | 00:01:00–00:01:15 | A bow needs a little room
+### SHOT_005 | 00:00:40–00:00:50 | A bow needs a little room
 
 **Visible cast:** ROSE, ELLA, MAYA
 **Location:** HOME_PORCH
@@ -123,7 +125,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **ELLA:** There. It looks more like a bow when I loosen it.
 
-### SHOT_006 | 00:01:15–00:01:30 | Not every mistake is a disaster
+### SHOT_006 | 00:00:50–00:01:00 | Not every mistake is a disaster
 
 **Visible cast:** ROSE, DAN, NINA
 **Location:** HOME_PORCH
@@ -143,7 +145,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **DAN:** I think I'll keep the checklist where I can find it.
 
-### SHOT_007 | 00:01:30–00:01:45 | A short visit, a warm goodbye
+### SHOT_007 | 00:01:00–00:01:10 | A short visit, a warm goodbye
 
 **Visible cast:** ROSE, MAYA, MAX
 **Location:** HOME_PORCH
@@ -163,7 +165,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **MAX:** I'll remember the funny parts to tell you later.
 
-### SHOT_008 | 00:01:45–00:02:00 | The blue door gets its bow
+### SHOT_008 | 00:01:10–00:01:20 | The blue door gets its bow
 
 **Visible cast:** DAN, ELLA, NINA
 **Location:** HOME_PORCH
@@ -183,7 +185,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **ELLA:** Good. We want to hear it when the cake comes.
 
-### SHOT_009 | 00:02:00–00:02:15 | One banner, a clear doorway
+### SHOT_009 | 00:01:20–00:01:30 | One banner, a clear doorway
 
 **Visible cast:** MAYA, LEO, MAX
 **Location:** HOME_PORCH
@@ -203,7 +205,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **LEO:** Good. No one has to step over our decorations.
 
-### SHOT_010 | 00:02:15–00:02:30 | The decoration box closes
+### SHOT_010 | 00:01:30–00:01:40 | The decoration box closes
 
 **Visible cast:** NINA, LEO, ELLA
 **Location:** HOME_KITCHEN
@@ -223,7 +225,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **ELLA:** I can still see the bow from the doorway.
 
-### SHOT_011 | 00:02:30–00:02:45 | A door and a number
+### SHOT_011 | 00:01:40–00:01:50 | A door and a number
 
 **Visible cast:** DAN, MAYA, MAX
 **Location:** HOME_PORCH
@@ -243,7 +245,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **MAX:** I'd like to see the cake try wearing our bow.
 
-### SHOT_012 | 00:02:45–00:03:00 | The confirmation is correct
+### SHOT_012 | 00:01:50–00:02:00 | The confirmation is correct
 
 **Visible cast:** NINA, DAN, LEO
 **Location:** HOME_KITCHEN
@@ -263,7 +265,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **DAN:** Fair. An order number can't ring our bell by itself.
 
-### SHOT_013 | 00:03:00–00:03:15 | A clean cake shelf
+### SHOT_013 | 00:02:00–00:02:10 | A clean cake shelf
 
 **Visible cast:** MAYA, ELLA, MAX
 **Location:** HOME_KITCHEN
@@ -283,7 +285,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **ELLA:** Good. Let's keep that space open till the doorbell rings.
 
-### SHOT_014 | 00:03:15–00:03:30 | The list has a space
+### SHOT_014 | 00:02:10–00:02:20 | The list has a space
 
 **Visible cast:** DAN, NINA, ELLA
 **Location:** HOME_KITCHEN
@@ -303,7 +305,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **DAN:** Then the checkmark waits until the box is actually here.
 
-### SHOT_015 | 00:03:30–00:03:45 | Waiting with company
+### SHOT_015 | 00:02:20–00:02:30 | Waiting with company
 
 **Visible cast:** MAYA, LEO, MAX
 **Location:** HOME_TABLE
@@ -323,7 +325,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **MAX:** Okay. I'll save my welcome speech until it can hear me.
 
-### SHOT_016 | 00:03:45–00:04:00 | A little time passes
+### SHOT_016 | 00:02:30–00:02:40 | A little time passes
 
 **Visible cast:** DAN, MAYA, NINA
 **Location:** HOME_KITCHEN
@@ -343,7 +345,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **DAN:** A message before a doorbell? That's worth a look.
 
-### SHOT_017 | 00:04:00–00:04:15 | Delivered, but not here
+### SHOT_017 | 00:02:40–00:02:50 | Delivered, but not here
 
 **Visible cast:** NINA, DAN, LEO
 **Location:** HOME_KITCHEN
@@ -363,7 +365,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **NINA:** The time tells us when. We still need to know where.
 
-### SHOT_018 | 00:04:15–00:04:30 | Check the doorstep first
+### SHOT_018 | 00:02:50–00:03:00 | Check the doorstep first
 
 **Visible cast:** DAN, MAYA, MAX
 **Location:** HOME_PORCH
@@ -383,7 +385,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **DAN:** Well, at least we're sure it isn't behind our own door.
 
-### SHOT_019 | 00:04:30–00:04:45 | The fridge is not a hiding place
+### SHOT_019 | 00:03:00–00:03:10 | The fridge is not a hiding place
 
 **Visible cast:** NINA, ELLA, LEO
 **Location:** HOME_KITCHEN
@@ -403,7 +405,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **ELLA:** Good. The whole box wouldn't fit inside that little dish anyway.
 
-### SHOT_020 | 00:04:45–00:05:00 | A perfect plan feels smaller
+### SHOT_020 | 00:03:10–00:03:20 | A perfect plan feels smaller
 
 **Visible cast:** DAN, MAYA, NINA
 **Location:** HOME_KITCHEN
@@ -423,7 +425,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **DAN:** All right. I'll start by listening to what we know.
 
-### SHOT_021 | 00:05:00–00:05:15 | What do we actually know?
+### SHOT_021 | 00:03:20–00:03:30 | What do we actually know?
 
 **Visible cast:** LEO, ELLA, DAN
 **Location:** HOME_KITCHEN
@@ -443,7 +445,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **LEO:** Good. We know which order to ask the bakery about.
 
-### SHOT_022 | 00:05:15–00:05:30 | Nobody has to accuse anyone
+### SHOT_022 | 00:03:30–00:03:40 | Nobody has to accuse anyone
 
 **Visible cast:** MAYA, MAX, NINA
 **Location:** HOME_KITCHEN
@@ -463,7 +465,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **MAX:** Let's look. Maybe the step will tell us where it went.
 
-### SHOT_023 | 00:05:30–00:05:45 | The wrong color in the picture
+### SHOT_023 | 00:03:40–00:03:50 | The wrong color in the picture
 
 **Visible cast:** NINA, ELLA, DAN
 **Location:** HOME_KITCHEN
@@ -483,7 +485,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **ELLA:** That's the first clue we can see without reading any numbers.
 
-### SHOT_024 | 00:05:45–00:06:00 | A bow that never went there
+### SHOT_024 | 00:03:50–00:04:00 | A bow that never went there
 
 **Visible cast:** MAYA, LEO, MAX
 **Location:** HOME_KITCHEN
@@ -503,7 +505,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **LEO:** Good. We can describe what's actually in the picture.
 
-### SHOT_025 | 00:06:00–00:06:15 | Read the message completely
+### SHOT_025 | 00:04:00–00:04:10 | Read the message completely
 
 **Visible cast:** DAN, NINA, LEO
 **Location:** HOME_KITCHEN
@@ -523,7 +525,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **DAN:** Fair. Six people don't need two cakes turning up at once.
 
-### SHOT_026 | 00:06:15–00:06:30 | Ask for help with facts
+### SHOT_026 | 00:04:10–00:04:20 | Ask for help with facts
 
 **Visible cast:** NINA, MAYA, DAN
 **Location:** HOME_KITCHEN
@@ -543,7 +545,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **NINA:** Good. That gives support something they can check for us.
 
-### SHOT_027 | 00:06:30–00:06:45 | The small dessert can wait
+### SHOT_027 | 00:04:20–00:04:30 | The small dessert can wait
 
 **Visible cast:** MAX, ELLA, MAYA
 **Location:** HOME_KITCHEN
@@ -563,7 +565,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **MAX:** Good. Cutting one berry six ways sounds like a very small party.
 
-### SHOT_028 | 00:06:45–00:07:00 | Do not follow every green door
+### SHOT_028 | 00:04:30–00:04:40 | Do not follow every green door
 
 **Visible cast:** DAN, LEO, MAYA
 **Location:** HOME_PORCH
@@ -583,7 +585,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **DAN:** Right. A green door is a clue, not an invitation.
 
-### SHOT_029 | 00:07:00–00:07:15 | A detail beside the bell
+### SHOT_029 | 00:04:40–00:04:50 | A detail beside the bell
 
 **Visible cast:** ELLA, NINA, MAX
 **Location:** HOME_KITCHEN
@@ -603,7 +605,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **ELLA:** Good. Lots of leaves look alike from this distance.
 
-### SHOT_030 | 00:07:15–00:07:30 | The full label is blurry
+### SHOT_030 | 00:04:50–00:05:00 | The full label is blurry
 
 **Visible cast:** DAN, MAYA, LEO
 **Location:** HOME_KITCHEN
@@ -623,7 +625,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **DAN:** Fair. One blurry digit isn't enough to knock on someone's door.
 
-### SHOT_031 | 00:07:30–00:07:45 | A reply gives a useful clue
+### SHOT_031 | 00:05:00–00:05:10 | A reply gives a useful clue
 
 **Visible cast:** NINA, DAN, ELLA
 **Location:** HOME_KITCHEN
@@ -643,7 +645,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **NINA:** Good. Eighteen is something we can actually go and check.
 
-### SHOT_032 | 00:07:45–00:08:00 | Keep one question at a time
+### SHOT_032 | 00:05:10–00:05:20 | Keep one question at a time
 
 **Visible cast:** MAYA, MAX, DAN
 **Location:** HOME_KITCHEN
@@ -663,7 +665,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **MAX:** And it sounds friendlier if you're on the other side.
 
-### SHOT_033 | 00:08:00–00:08:15 | Who goes and who stays?
+### SHOT_033 | 00:05:20–00:05:30 | Who goes and who stays?
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX
 **Location:** HOME_PORCH
@@ -683,7 +685,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **DAN:** Good. I'll keep my eyes on the house numbers.
 
-### SHOT_034 | 00:08:15–00:08:30 | The right direction this time
+### SHOT_034 | 00:05:30–00:05:40 | The right direction this time
 
 **Visible cast:** DAN, LEO, MAX
 **Location:** LANE_WALKWAY
@@ -703,7 +705,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **LEO:** It can't read the numbers for us, though, Dad.
 
-### SHOT_035 | 00:08:30–00:08:45 | A familiar low hedge
+### SHOT_035 | 00:05:40–00:05:50 | A familiar low hedge
 
 **Visible cast:** NINA, ELLA, MAX
 **Location:** LANE_WALKWAY
@@ -723,7 +725,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **MAX:** I much prefer hedges. They don't pretend to know directions.
 
-### SHOT_036 | 00:08:45–00:09:00 | The number is eighteen
+### SHOT_036 | 00:05:50–00:06:00 | The number is eighteen
 
 **Visible cast:** MAYA, DAN, LEO
 **Location:** LANE_WALKWAY
@@ -745,7 +747,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **MAYA:** Right. We'll let the neighbor tell us.
 
-### SHOT_037 | 00:09:00–00:09:15 | A private path is not a shortcut
+### SHOT_037 | 00:06:00–00:06:10 | A private path is not a shortcut
 
 **Visible cast:** DAN, ELLA, MAX
 **Location:** LANE_WALKWAY
@@ -765,7 +767,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **MAX:** Good. I'll keep my nose out of that hedge.
 
-### SHOT_038 | 00:09:15–00:09:30 | At the green door
+### SHOT_038 | 00:06:10–00:06:20 | At the green door
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX
 **Location:** NEIGHBOR_PORCH
@@ -785,7 +787,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **ELLA:** And the box in that photo hasn't told us whose it is.
 
-### SHOT_039 | 00:09:30–00:09:45 | One ring is enough
+### SHOT_039 | 00:06:20–00:06:30 | One ring is enough
 
 **Visible cast:** DAN, LEO, ELLA
 **Location:** NEIGHBOR_PORCH
@@ -807,7 +809,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **ELLA:** At least the doorbell doesn't need flipping.
 
-### SHOT_040 | 00:09:45–00:10:00 | The quiet waiting beat
+### SHOT_040 | 00:06:30–00:06:40 | The quiet waiting beat
 
 **Visible cast:** MAYA, NINA, MAX
 **Location:** NEIGHBOR_PORCH
@@ -827,7 +829,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **MAX:** Fine. I'll keep the welcome speech till we have an answer.
 
-### SHOT_041 | 00:10:00–00:10:15 | It is all right to leave a note
+### SHOT_041 | 00:06:40–00:06:50 | It is all right to leave a note
 
 **Visible cast:** DAN, MAYA, LEO
 **Location:** NEIGHBOR_PORCH
@@ -847,7 +849,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **DAN:** Right. We can tell them where the photo was taken.
 
-### SHOT_042 | 00:10:15–00:10:30 | The latch moves
+### SHOT_042 | 00:06:50–00:07:00 | The latch moves
 
 **Visible cast:** DAN, NINA, ELLA
 **Location:** NEIGHBOR_PORCH
@@ -869,7 +871,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **DAN:** We have our order number right here.
 
-### SHOT_043 | 00:10:30–00:10:45 | An introduction, not an accusation
+### SHOT_043 | 00:07:00–00:07:10 | An introduction, not an accusation
 
 **Visible cast:** DAN, MAYA, MAX
 **Location:** NEIGHBOR_PORCH
@@ -889,7 +891,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **DAN:** The photo looks like the step outside your door.
 
-### SHOT_044 | 00:10:45–00:11:00 | Describe the box carefully
+### SHOT_044 | 00:07:10–00:07:20 | Describe the box carefully
 
 **Visible cast:** NINA, LEO, ELLA
 **Location:** NEIGHBOR_PORCH
@@ -909,7 +911,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **NINA:** We can show the matching number if that helps.
 
-### SHOT_045 | 00:11:00–00:11:15 | The question gives room to answer
+### SHOT_045 | 00:07:20–00:07:30 | The question gives room to answer
 
 **Visible cast:** DAN, MAYA, NINA
 **Location:** NEIGHBOR_PORCH
@@ -929,7 +931,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **DAN:** We brought our confirmation if you'd like to compare it.
 
-### SHOT_046 | 00:11:15–00:11:30 | A sound from the kitchen
+### SHOT_046 | 00:07:30–00:07:40 | A sound from the kitchen
 
 **Visible cast:** DAN, MAX, ELLA
 **Location:** NEIGHBOR_PORCH
@@ -949,7 +951,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **ELLA:** Good. A fridge sound can't tell us what's inside.
 
-### SHOT_047 | 00:11:30–00:11:45 | We brought the right information
+### SHOT_047 | 00:07:40–00:07:50 | We brought the right information
 
 **Visible cast:** MAYA, NINA, LEO
 **Location:** NEIGHBOR_PORCH
@@ -969,7 +971,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **LEO:** That'll tell us more than just the color of the door.
 
-### SHOT_048 | 00:11:45–00:12:00 | The whole group stays visible
+### SHOT_048 | 00:07:50–00:08:00 | The whole group stays visible
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX
 **Location:** NEIGHBOR_PORCH
@@ -989,7 +991,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **MAX:** My plate's got a bit more patience than my stomach.
 
-### SHOT_049 | 00:12:00–00:12:15 | A small admission while waiting
+### SHOT_049 | 00:08:00–00:08:10 | A small admission while waiting
 
 **Visible cast:** DAN, MAYA, LEO
 **Location:** NEIGHBOR_PORCH
@@ -1009,7 +1011,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **DAN:** I'm adding that one to the plan in my head.
 
-### SHOT_050 | 00:12:15–00:12:30 | The box is coming
+### SHOT_050 | 00:08:10–00:08:20 | The box is coming
 
 **Visible cast:** NINA, ELLA, MAX
 **Location:** NEIGHBOR_PORCH
@@ -1029,7 +1031,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **ELLA:** Good. A white box alone could hold somebody else's dessert.
 
-### SHOT_051 | 00:12:30–00:12:45 | A note from the bakery
+### SHOT_051 | 00:08:20–00:08:30 | A note from the bakery
 
 **Visible cast:** DAN, MAYA, NINA
 **Location:** NEIGHBOR_PORCH
@@ -1049,7 +1051,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **DAN:** Good. The handwriting and our address still need comparing.
 
-### SHOT_052 | 00:12:45–00:13:00 | Match the order, not just the color
+### SHOT_052 | 00:08:30–00:08:40 | Match the order, not just the color
 
 **Visible cast:** MAYA, NINA, LEO
 **Location:** NEIGHBOR_PORCH
@@ -1069,7 +1071,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **MAYA:** Good. Now let's hear what happened when it arrived.
 
-### SHOT_053 | 00:13:00–00:13:15 | The neighbor explains
+### SHOT_053 | 00:08:40–00:08:50 | The neighbor explains
 
 **Visible cast:** DAN, MAYA
 **Off-screen cast:** NEIGHBOR
@@ -1090,7 +1092,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **MAYA:** I'm glad you heard the delivery. Our bell never rang.
 
-### SHOT_054 | 00:13:15–00:13:30 | Four became an uncertain mark
+### SHOT_054 | 00:08:50–00:09:00 | Four became an uncertain mark
 
 **Visible cast:** NINA, ELLA, DAN
 **Off-screen cast:** NEIGHBOR
@@ -1111,7 +1113,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **NINA:** Good. We can give the bakery the number that caused the mix-up.
 
-### SHOT_055 | 00:13:30–00:13:45 | A seal worth checking
+### SHOT_055 | 00:09:00–00:09:10 | A seal worth checking
 
 **Visible cast:** MAYA, NINA, LEO
 **Off-screen cast:** NEIGHBOR
@@ -1132,7 +1134,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **LEO:** Good. That red seal looks just like the one in the photo.
 
-### SHOT_056 | 00:13:45–00:14:00 | One careful transfer
+### SHOT_056 | 00:09:10–00:09:20 | One careful transfer
 
 **Visible cast:** DAN, MAYA, MAX
 **Off-screen cast:** NEIGHBOR
@@ -1153,7 +1155,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **MAYA:** And a very kind person looked after it. Thank you.
 
-### SHOT_057 | 00:14:00–00:14:15 | Thanks before leaving
+### SHOT_057 | 00:09:20–00:09:30 | Thanks before leaving
 
 **Visible cast:** DAN, MAYA, NINA
 **Location:** NEIGHBOR_PORCH
@@ -1173,7 +1175,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **NINA:** Good. I want the bakery to know which address caused it.
 
-### SHOT_058 | 00:14:15–00:14:30 | Homeward with the right box
+### SHOT_058 | 00:09:30–00:09:40 | Homeward with the right box
 
 **Visible cast:** DAN, LEO, MAX
 **Location:** LANE_WALKWAY
@@ -1193,7 +1195,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **MAX:** Good. My job can be keeping the sidewalk clear.
 
-### SHOT_059 | 00:14:30–00:14:45 | The blue bow welcomes it
+### SHOT_059 | 00:09:40–00:09:50 | The blue bow welcomes it
 
 **Visible cast:** DAN, MAYA, ELLA
 **Location:** HOME_PORCH
@@ -1213,7 +1215,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **DAN:** Understood. This stop is only for dropping off our cold passenger.
 
-### SHOT_060 | 00:14:45–00:15:00 | Cold storage comes first
+### SHOT_060 | 00:09:50–00:10:00 | Cold storage comes first
 
 **Visible cast:** DAN, NINA, MAYA
 **Location:** HOME_KITCHEN
@@ -1233,7 +1235,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **NINA:** And the little strawberry's got its neighbor back at last.
 
-### SHOT_061 | 00:15:00–00:15:15 | Close the delivery question
+### SHOT_061 | 00:10:00–00:10:10 | Close the delivery question
 
 **Visible cast:** NINA, LEO, ELLA
 **Location:** HOME_KITCHEN
@@ -1253,7 +1255,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **NINA:** Good. They'll know they can close the search for our cake.
 
-### SHOT_062 | 00:15:15–00:15:30 | Hands before dessert
+### SHOT_062 | 00:10:10–00:10:20 | Hands before dessert
 
 **Visible cast:** MAYA, NINA, DAN, LEO, ELLA, MAX
 **Location:** HOME_KITCHEN
@@ -1273,7 +1275,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **DAN:** And everybody who handled that box can wash up for dessert.
 
-### SHOT_063 | 00:15:30–00:15:45 | The emergency strawberry earns a job
+### SHOT_063 | 00:10:20–00:10:30 | The emergency strawberry earns a job
 
 **Visible cast:** NINA, MAX, ELLA
 **Location:** HOME_KITCHEN
@@ -1293,7 +1295,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **MAX:** I think it deserves a very good seat on my plate.
 
-### SHOT_064 | 00:15:45–00:16:00 | Open the right box once
+### SHOT_064 | 00:10:30–00:10:40 | Open the right box once
 
 **Visible cast:** DAN, MAYA, LEO
 **Location:** HOME_KITCHEN
@@ -1313,7 +1315,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **LEO:** I'll save my welcome till we actually have our slices.
 
-### SHOT_065 | 00:16:00–00:16:15 | A place for the empty packaging
+### SHOT_065 | 00:10:40–00:10:50 | A place for the empty packaging
 
 **Visible cast:** MAYA, ELLA, NINA
 **Location:** HOME_KITCHEN
@@ -1333,7 +1335,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **NINA:** Good. Every plate has a person waiting for it.
 
-### SHOT_066 | 00:16:15–00:16:30 | Six slices from one cake
+### SHOT_066 | 00:10:50–00:11:00 | Six slices from one cake
 
 **Visible cast:** MAYA, DAN, LEO
 **Location:** HOME_KITCHEN
@@ -1353,7 +1355,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **DAN:** I like this math. Everybody gets the very same share.
 
-### SHOT_067 | 00:16:30–00:16:45 | The first two plates
+### SHOT_067 | 00:11:00–00:11:10 | The first two plates
 
 **Visible cast:** NINA, DAN, LEO
 **Location:** HOME_TABLE
@@ -1373,7 +1375,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **DAN:** Good. I can confirm this slice is at the right address.
 
-### SHOT_068 | 00:16:45–00:17:00 | Two more, not a refill
+### SHOT_068 | 00:11:10–00:11:20 | Two more, not a refill
 
 **Visible cast:** NINA, MAYA, ELLA
 **Location:** HOME_TABLE
@@ -1393,7 +1395,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **ELLA:** Good. I can count them from my own place.
 
-### SHOT_069 | 00:17:00–00:17:15 | The last pair completes the table
+### SHOT_069 | 00:11:20–00:11:30 | The last pair completes the table
 
 **Visible cast:** NINA, MAX, ELLA
 **Location:** HOME_TABLE
@@ -1413,7 +1415,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **MAX:** Good. It was a long trip for this little bit of cake.
 
-### SHOT_070 | 00:17:15–00:17:30 | Sharp tools stay in the kitchen
+### SHOT_070 | 00:11:30–00:11:40 | Sharp tools stay in the kitchen
 
 **Visible cast:** MAYA, DAN
 **Location:** HOME_KITCHEN
@@ -1433,7 +1435,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **MAYA:** Yes. Come sit down and enjoy your slice.
 
-### SHOT_071 | 00:17:30–00:17:45 | One honest box on the list
+### SHOT_071 | 00:11:40–00:11:50 | One honest box on the list
 
 **Visible cast:** DAN, MAYA, NINA
 **Location:** HOME_KITCHEN
@@ -1453,7 +1455,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **DAN:** That's the part I want to remember when we tell it.
 
-### SHOT_072 | 00:17:45–00:18:00 | Six seats, one celebration
+### SHOT_072 | 00:11:50–00:12:00 | Six seats, one celebration
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX
 **Location:** HOME_TABLE
@@ -1473,7 +1475,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **ELLA:** And the person who noticed the green door in the picture.
 
-### SHOT_073 | 00:18:00–00:18:15 | A short hello from Grandpa Ed
+### SHOT_073 | 00:12:00–00:12:10 | A short hello from Grandpa Ed
 
 **Visible cast:** NINA, DAN, MAX
 **Off-screen cast:** ED
@@ -1494,7 +1496,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **DAN:** We'll tell you the whole thing once we taste it, Ed.
 
-### SHOT_074 | 00:18:15–00:18:30 | An address beats a lucky guess
+### SHOT_074 | 00:12:10–00:12:20 | An address beats a lucky guess
 
 **Visible cast:** NINA, DAN, LEO
 **Off-screen cast:** ED
@@ -1515,7 +1517,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **LEO:** Bye, Grandpa. We even read the little print this time.
 
-### SHOT_075 | 00:18:30–00:18:45 | The first bite is finally simple
+### SHOT_075 | 00:12:20–00:12:30 | The first bite is finally simple
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX
 **Location:** HOME_TABLE
@@ -1537,7 +1539,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **DAN:** And I'm glad it found this table.
 
-### SHOT_076 | 00:18:45–00:19:00 | More than the decoration
+### SHOT_076 | 00:12:30–00:12:40 | More than the decoration
 
 **Visible cast:** DAN, MAYA, NINA
 **Location:** HOME_TABLE
@@ -1557,7 +1559,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **NINA:** I'd stay with you even if the strawberry were all we had.
 
-### SHOT_077 | 00:19:00–00:19:15 | A different kind of perfect
+### SHOT_077 | 00:12:40–00:12:50 | A different kind of perfect
 
 **Visible cast:** LEO, ELLA, DAN
 **Location:** HOME_TABLE
@@ -1577,7 +1579,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **ELLA:** A second pair of eyes doesn't take up much room.
 
-### SHOT_078 | 00:19:15–00:19:30 | The little assistant retires
+### SHOT_078 | 00:12:50–00:13:00 | The little assistant retires
 
 **Visible cast:** MAX, NINA, ELLA
 **Location:** HOME_TABLE
@@ -1597,7 +1599,7 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **MAX:** Good. Nobody else had to share one tiny berry six ways.
 
-### SHOT_079 | 00:19:30–00:19:45 | One last useful question
+### SHOT_079 | 00:13:00–00:13:10 | One last useful question
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX
 **Location:** HOME_TABLE
@@ -1617,14 +1619,14 @@ Exact address/phone/checklist text uses editorial SVGs. All addresses, delivery 
 
 **LEO:** Fine by me. I know exactly where my plate is.
 
-### SHOT_080 | 00:19:45–00:20:00 | The right place all along
+### SHOT_080 | 00:13:10–00:13:20 | The right place all along
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX
 **Location:** HOME_TABLE
 **Camera:** Wide six-person eye-level establishing view; keep original heights and clear door/table axis.
 **Action:** Warm wide hold of the six original family members at the canonical table. Fade the editable end-card into the final two seconds inside this shot, keeping the current food states.
 **Opening state:** Six at table with partly eaten single servings; Max’s strawberry gone; no phone call active.
-**End state:** Story closes exactly20:00; family together; no whole cake, seventh guest or practice segment.
+**End state:** Story closes exactly13:20; family together; no whole cake, seventh guest or practice segment.
 **Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 4. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Fixed seats:Dan near-left,Leo left-end,Ella far-left,Maya far-right,Nina right-end,Max near-right. No plate or food refill. W01, LEFT watch, RIGHT pocket.
 
