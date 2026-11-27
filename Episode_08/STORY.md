@@ -1,6 +1,8 @@
 # Episode 08 — Grandma's Suitcase Has Everyone's Socks! | Home English | Family Story
 
-> **Format:** 80 continuous story shots ×15 seconds = **20:00 story runtime**.
+> **Format:** 80 continuous story shots × 10 seconds = **13:20 planned story runtime**.
+>
+> **Editing plan:** Plan each shot for 10 editorial seconds to reduce filler pauses and unnecessary movements. Preserve natural dialogue delivery and meaningful actions; confirm timing against recorded performances before final editing rather than adding silence or speeding up speech.
 > **Status:** All 20 storyboard sheets accompany the 80-shot screenplay. Creator sign-off, approved individual motion first frames, recorded voices and a finished film remain pending.
 > **Story-only:** natural General American family conversation. No drills, quizzes, narrator recaps or viewer countdowns; optional creator practice belongs after the movie.
 
@@ -8,20 +10,20 @@ On a later afternoon, Maya's mother Ruth arrives with six identical packing cube
 
 ## Story arc
 
-- **00:00–02:00:** welcome Ruth, receive six gifts, hear a kindly packing memory and respect her quiet break.
-- **02:00–05:00:** Dan packs six clean pairs into six gray cubes and mistakenly stores them in the guest suitcase; he admits the assumption.
-- **05:00–07:30:** retrieve only family cubes, leave Ruth's closed lavender personal pouch alone and prepare a method.
-- **07:30–12:30:** describe, confirm ownership, label and repack one whole pair at a time.
-- **12:30–15:30:** verify six pairs/twelve socks, then store six labeled cubes in fixed reachable cubbies.
-- **15:30–20:00:** leave the guest room peaceful, wash hands and share an affectionate resolution in the original six seats.
+- **00:00–01:20:** welcome Ruth, receive six gifts, hear a kindly packing memory and respect her quiet break.
+- **01:20–03:20:** Dan packs six clean pairs into six gray cubes and mistakenly stores them in the guest suitcase; he admits the assumption.
+- **03:20–05:00:** retrieve only family cubes, leave Ruth's closed lavender personal pouch alone and prepare a method.
+- **05:00–08:20:** describe, confirm ownership, label and repack one whole pair at a time.
+- **08:20–10:20:** verify six pairs/twelve socks, then store six labeled cubes in fixed reachable cubbies.
+- **10:20–13:20:** leave the guest room peaceful, wash hands and share an affectionate resolution in the original six seats.
 
 ## Performance and state rules
 
-The same six W01 identities continue. Maya and Nina have equal agency; Dan's admission is met with help, never humiliation. Ruth is Maya's mother, not Nina's. Her new lavender-cardigan appearance is a provisional cameo design requiring creator review. No silent new family identity, recording or motion generation is implied. Fifteen seconds is an editorial shot slot; longer loading, walking, storing and handwashing use explicit story-time ellipses. Dialogue stays short enough for action and response. All current socks are clean, dry and paired; no character removes worn clothing. The household washer and dryer remain closed and unused. See [CONTINUITY.md](CONTINUITY.md) for exact owner, container and shelf ledgers.
+The same six W01 identities continue. Maya and Nina have equal agency; Dan's admission is met with help, never humiliation. Ruth is Maya's mother, not Nina's. Her new lavender-cardigan appearance is a provisional cameo design requiring creator review. No silent new family identity, recording or motion generation is implied. Ten seconds is an editorial shot slot; longer loading, walking, storing and handwashing use explicit story-time ellipses. Dialogue stays short enough for action and response. All current socks are clean, dry and paired; no character removes worn clothing. The household washer and dryer remain closed and unused. See [CONTINUITY.md](CONTINUITY.md) for exact owner, container and shelf ledgers.
 
 ## Timed story shots
 
-### SHOT_001 | 00:00:00–00:00:15 | A grandmother at the door
+### SHOT_001 | 00:00:00–00:00:10 | A grandmother at the door
 
 **Visible cast:** MAYA, NINA, RUTH
 
@@ -49,7 +51,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **MAYA:** Come sit by us. The surprise can wait a minute.
 
-### SHOT_002 | 00:00:15–00:00:30 | Six little gifts
+### SHOT_002 | 00:00:10–00:00:20 | Six little gifts
 
 **Visible cast:** RUTH, DAN, ELLA
 
@@ -77,7 +79,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **RUTH:** Then you children can help the apartments find their owners.
 
-### SHOT_003 | 00:00:30–00:00:45 | A familiar travel story
+### SHOT_003 | 00:00:20–00:00:30 | A familiar travel story
 
 **Visible cast:** RUTH, DAN, LEO
 
@@ -105,7 +107,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **DAN:** I never got far enough to try it under my collar.
 
-### SHOT_004 | 00:00:45–00:01:00 | A room ready for a guest
+### SHOT_004 | 00:00:30–00:00:40 | A room ready for a guest
 
 **Visible cast:** RUTH, MAYA, NINA
 
@@ -133,7 +135,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **MAYA:** Good. There's room for you to unpack at your own pace.
 
-### SHOT_005 | 00:01:00–00:01:15 | A useful checklist
+### SHOT_005 | 00:00:40–00:00:50 | A useful checklist
 
 **Visible cast:** RUTH, MAYA, DAN
 
@@ -161,7 +163,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **RUTH:** Thank you. I like finding that one just where I put it.
 
-### SHOT_006 | 00:01:15–00:01:30 | The ending of the sock story
+### SHOT_006 | 00:00:50–00:01:00 | The ending of the sock story
 
 **Visible cast:** RUTH, DAN, MAX
 
@@ -189,7 +191,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **MAX:** I hope it found a shoe with a less formal dress code.
 
-### SHOT_007 | 00:01:30–00:01:45 | Permission and a quiet break
+### SHOT_007 | 00:01:00–00:01:10 | Permission and a quiet break
 
 **Visible cast:** RUTH, MAYA, NINA
 
@@ -217,7 +219,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **RUTH:** Thanks, girls. I'll look forward to hearing how it went.
 
-### SHOT_008 | 00:01:45–00:02:00 | See you after your rest
+### SHOT_008 | 00:01:10–00:01:20 | See you after your rest
 
 **Visible cast:** RUTH, ELLA, NINA
 
@@ -245,7 +247,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **ELLA:** I already have a pair of tenants in mind, Grandma.
 
-### SHOT_009 | 00:02:00–00:02:15 | A clean place to sort
+### SHOT_009 | 00:01:20–00:01:30 | A clean place to sort
 
 **Visible cast:** NINA, LEO, ELLA
 
@@ -273,7 +275,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **LEO:** Good. A gray cube doesn't tell you much by itself.
 
-### SHOT_010 | 00:02:15–00:02:30 | One basket, six owners
+### SHOT_010 | 00:01:30–00:01:40 | One basket, six owners
 
 **Visible cast:** DAN, NINA, MAX
 
@@ -301,7 +303,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **MAX:** I'll know those green bits even with my eyes half shut.
 
-### SHOT_011 | 00:02:30–00:02:45 | Packing before asking
+### SHOT_011 | 00:01:40–00:01:50 | Packing before asking
 
 **Visible cast:** DAN
 
@@ -329,7 +331,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **DAN:** There. Its neighbor gets the next pair.
 
-### SHOT_012 | 00:02:45–00:03:00 | Six zippers, no labels
+### SHOT_012 | 00:01:50–00:02:00 | Six zippers, no labels
 
 **Visible cast:** DAN
 
@@ -357,7 +359,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **DAN:** Ah, they're all snug. I'll sort out names later.
 
-### SHOT_013 | 00:03:00–00:03:15 | The wrong destination
+### SHOT_013 | 00:02:00–00:02:10 | The wrong destination
 
 **Visible cast:** DAN
 
@@ -385,7 +387,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **DAN:** Grandma's case has exactly the right sort of space.
 
-### SHOT_014 | 00:03:15–00:03:30 | Everyone is accidentally packed
+### SHOT_014 | 00:02:10–00:02:20 | Everyone is accidentally packed
 
 **Visible cast:** DAN
 
@@ -413,7 +415,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **DAN:** The lavender pouch can have its own side.
 
-### SHOT_015 | 00:03:30–00:03:45 | A job that looks finished
+### SHOT_015 | 00:02:20–00:02:30 | A job that looks finished
 
 **Visible cast:** DAN
 
@@ -441,7 +443,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **DAN:** Wait till everybody sees how quickly I finished.
 
-### SHOT_016 | 00:03:45–00:04:00 | The empty basket mystery
+### SHOT_016 | 00:02:30–00:02:40 | The empty basket mystery
 
 **Visible cast:** DAN, MAYA, NINA
 
@@ -471,7 +473,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **MAYA:** Dan, whose suitcase did you use?
 
-### SHOT_017 | 00:04:00–00:04:15 | A drawer cannot answer
+### SHOT_017 | 00:02:40–00:02:50 | A drawer cannot answer
 
 **Visible cast:** MAX, LEO, DAN
 
@@ -499,7 +501,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **MAX:** Did you tell my feet? They didn't pack for a trip.
 
-### SHOT_018 | 00:04:15–00:04:30 | The clue left behind
+### SHOT_018 | 00:02:50–00:03:00 | The clue left behind
 
 **Visible cast:** ELLA, NINA, DAN
 
@@ -527,7 +529,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **ELLA:** Which way did you go after you closed the zippers?
 
-### SHOT_019 | 00:04:30–00:04:45 | An honest explanation
+### SHOT_019 | 00:03:00–00:03:10 | An honest explanation
 
 **Visible cast:** DAN, MAYA, LEO
 
@@ -555,7 +557,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **DAN:** Good thing she hasn't taken that suitcase anywhere yet.
 
-### SHOT_020 | 00:04:45–00:05:00 | A small repair together
+### SHOT_020 | 00:03:10–00:03:20 | A small repair together
 
 **Visible cast:** MAYA, NINA, MAX
 
@@ -583,7 +585,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **NINA:** That's right. We'll only move what belongs to us.
 
-### SHOT_021 | 00:05:00–00:05:15 | At the luggage stand
+### SHOT_021 | 00:03:20–00:03:30 | At the luggage stand
 
 **Visible cast:** MAYA, DAN, NINA
 
@@ -611,7 +613,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **DAN:** Got it. I can see the two areas now.
 
-### SHOT_022 | 00:05:15–00:05:30 | Only the family cubes
+### SHOT_022 | 00:03:30–00:03:40 | Only the family cubes
 
 **Visible cast:** DAN, MAYA, ELLA
 
@@ -639,7 +641,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **ELLA:** Just the gray side. Her pouch stays put.
 
-### SHOT_023 | 00:05:30–00:05:45 | Count the containers first
+### SHOT_023 | 00:03:40–00:03:50 | Count the containers first
 
 **Visible cast:** NINA, LEO, DAN
 
@@ -667,7 +669,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **LEO:** And all six came back on the very same trip.
 
-### SHOT_024 | 00:05:45–00:06:00 | Travel-size fashion
+### SHOT_024 | 00:03:50–00:04:00 | Travel-size fashion
 
 **Visible cast:** DAN, MAX, MAYA
 
@@ -695,7 +697,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **DAN:** Okay, Max. What gives this particular pair away?
 
-### SHOT_025 | 00:06:00–00:06:15 | A description worth hearing
+### SHOT_025 | 00:04:00–00:04:10 | A description worth hearing
 
 **Visible cast:** MAX, DAN, MAYA
 
@@ -723,7 +725,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **MAX:** Good. I'd rather my socks stayed the size they are.
 
-### SHOT_026 | 00:06:15–00:06:30 | Privacy is part of helping
+### SHOT_026 | 00:04:10–00:04:20 | Privacy is part of helping
 
 **Visible cast:** ELLA, NINA, MAYA
 
@@ -751,7 +753,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **ELLA:** So we can help her best by leaving that one closed.
 
-### SHOT_027 | 00:06:30–00:06:45 | A method, not a race
+### SHOT_027 | 00:04:20–00:04:30 | A method, not a race
 
 **Visible cast:** MAYA, DAN, LEO
 
@@ -779,7 +781,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **MAYA:** Exactly. No cube goes anywhere till its owner agrees.
 
-### SHOT_028 | 00:06:45–00:07:00 | A list with room for names
+### SHOT_028 | 00:04:30–00:04:40 | A list with room for names
 
 **Visible cast:** NINA, ELLA, LEO
 
@@ -807,7 +809,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **NINA:** Good. We'll write down what belongs to our own family.
 
-### SHOT_029 | 00:07:00–00:07:15 | All six back on the counter
+### SHOT_029 | 00:04:40–00:04:50 | All six back on the counter
 
 **Visible cast:** DAN, ELLA, MAX
 
@@ -835,7 +837,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **MAX:** I'll look at the heels before we guess about sizes.
 
-### SHOT_030 | 00:07:15–00:07:30 | A guest room left tidy
+### SHOT_030 | 00:04:50–00:05:00 | A guest room left tidy
 
 **Visible cast:** MAYA
 
@@ -863,7 +865,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **MAYA:** Sleep well. The sorting can wait outside.
 
-### SHOT_031 | 00:07:30–00:07:45 | Six empty name tabs
+### SHOT_031 | 00:05:00–00:05:10 | Six empty name tabs
 
 **Visible cast:** MAYA, NINA, DAN
 
@@ -891,7 +893,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **MAYA:** Good. I want to know whose pair we're holding first.
 
-### SHOT_032 | 00:07:45–00:08:00 | Green heels first
+### SHOT_032 | 00:05:10–00:05:20 | Green heels first
 
 **Visible cast:** MAX, NINA, DAN
 
@@ -919,7 +921,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **MAX:** Look, both heels are green. I checked the other one.
 
-### SHOT_033 | 00:08:00–00:08:15 | Two socks make this pair
+### SHOT_033 | 00:05:20–00:05:30 | Two socks make this pair
 
 **Visible cast:** MAX, ELLA, NINA
 
@@ -949,7 +951,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **MAX:** Good. I don't want to open six every morning.
 
-### SHOT_034 | 00:08:15–00:08:30 | A name where it belongs
+### SHOT_034 | 00:05:30–00:05:40 | A name where it belongs
 
 **Visible cast:** NINA, MAX, LEO
 
@@ -977,7 +979,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **MAX:** Then I can find it even before school in the morning.
 
-### SHOT_035 | 00:08:30–00:08:45 | One checked home
+### SHOT_035 | 00:05:40–00:05:50 | One checked home
 
 **Visible cast:** MAX, DAN
 
@@ -1005,7 +1007,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **DAN:** Sure can. No need to unzip anything.
 
-### SHOT_036 | 00:08:45–00:09:00 | Coral stars next
+### SHOT_036 | 00:05:50–00:06:00 | Coral stars next
 
 **Visible cast:** ELLA, MAYA, DAN
 
@@ -1035,7 +1037,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **MAYA:** Then I'd better put your name on them.
 
-### SHOT_037 | 00:09:00–00:09:15 | Recognize and ask
+### SHOT_037 | 00:06:00–00:06:10 | Recognize and ask
 
 **Visible cast:** ELLA, MAYA, MAX
 
@@ -1063,7 +1065,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **ELLA:** And my stars can have their own place next door.
 
-### SHOT_038 | 00:09:15–00:09:30 | Ella on the second cube
+### SHOT_038 | 00:06:10–00:06:20 | Ella on the second cube
 
 **Visible cast:** MAYA, ELLA, NINA
 
@@ -1093,7 +1095,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **MAYA:** We can leave the suitcase to Grandma.
 
-### SHOT_039 | 00:09:30–00:09:45 | Orange heels, larger size
+### SHOT_039 | 00:06:20–00:06:30 | Orange heels, larger size
 
 **Visible cast:** LEO, DAN, ELLA
 
@@ -1121,7 +1123,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **LEO:** That's how I can spot them beside his little pair.
 
-### SHOT_040 | 00:09:45–00:10:00 | A question before a label
+### SHOT_040 | 00:06:30–00:06:40 | A question before a label
 
 **Visible cast:** DAN, LEO
 
@@ -1149,7 +1151,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **LEO:** Good. Now I can find them without opening Max's.
 
-### SHOT_041 | 00:10:00–00:10:15 | Leo joins the checked row
+### SHOT_041 | 00:06:40–00:06:50 | Leo joins the checked row
 
 **Visible cast:** DAN, LEO, NINA
 
@@ -1179,7 +1181,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **LEO:** I can see my name from here.
 
-### SHOT_042 | 00:10:15–00:10:30 | Plum dots from cube four
+### SHOT_042 | 00:06:50–00:07:00 | Plum dots from cube four
 
 **Visible cast:** MAYA, DAN, NINA
 
@@ -1207,7 +1209,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **DAN:** Maya, are the plum dots the ones you picked?
 
-### SHOT_043 | 00:10:30–00:10:45 | Each person knows her things
+### SHOT_043 | 00:07:00–00:07:10 | Each person knows her things
 
 **Visible cast:** MAYA, NINA, DAN
 
@@ -1235,7 +1237,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **MAYA:** We can see why guessing would've put them in the wrong cube.
 
-### SHOT_044 | 00:10:45–00:11:00 | Maya gets her own label
+### SHOT_044 | 00:07:10–00:07:20 | Maya gets her own label
 
 **Visible cast:** MAYA, DAN
 
@@ -1265,7 +1267,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **DAN:** Good. That's one search I won't have to make.
 
-### SHOT_045 | 00:11:00–00:11:15 | Plain teal appears
+### SHOT_045 | 00:07:20–00:07:30 | Plain teal appears
 
 **Visible cast:** NINA, ELLA, DAN
 
@@ -1293,7 +1295,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **NINA:** Good. That saves somebody opening the wrong cube tomorrow.
 
-### SHOT_046 | 00:11:15–00:11:30 | Ownership is not a contest
+### SHOT_046 | 00:07:30–00:07:40 | Ownership is not a contest
 
 **Visible cast:** NINA, MAX, MAYA
 
@@ -1321,7 +1323,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **MAX:** Good thing my heels are green. They're quicker to spot.
 
-### SHOT_047 | 00:11:30–00:11:45 | Nina in clear letters
+### SHOT_047 | 00:07:40–00:07:50 | Nina in clear letters
 
 **Visible cast:** NINA, MAYA, LEO
 
@@ -1351,7 +1353,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **NINA:** Let's still ask the person they fit.
 
-### SHOT_048 | 00:11:45–00:12:00 | The largest pair at last
+### SHOT_048 | 00:07:50–00:08:00 | The largest pair at last
 
 **Visible cast:** DAN, LEO, MAX
 
@@ -1381,7 +1383,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **MAX:** That would've been quite a squeeze, Dad.
 
-### SHOT_049 | 00:12:00–00:12:15 | A joke that stays a joke
+### SHOT_049 | 00:08:00–00:08:10 | A joke that stays a joke
 
 **Visible cast:** DAN, MAX, ELLA
 
@@ -1409,7 +1411,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **DAN:** Good. My neck and my feet each get the right outfit.
 
-### SHOT_050 | 00:12:15–00:12:30 | Dad signs his own address
+### SHOT_050 | 00:08:10–00:08:20 | Dad signs his own address
 
 **Visible cast:** DAN, NINA, LEO
 
@@ -1437,7 +1439,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **NINA:** Great. Now let's give all six an address we can find.
 
-### SHOT_051 | 00:12:30–00:12:45 | Read before moving
+### SHOT_051 | 00:08:20–00:08:30 | Read before moving
 
 **Visible cast:** MAYA, NINA, LEO
 
@@ -1465,7 +1467,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **LEO:** Somewhere that makes sense when we're looking in a hurry.
 
-### SHOT_052 | 00:12:45–00:13:00 | Pairs and individual socks
+### SHOT_052 | 00:08:30–00:08:40 | Pairs and individual socks
 
 **Visible cast:** LEO, MAX, DAN
 
@@ -1493,7 +1495,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **MAX:** Good. None of those twelve has to travel by itself.
 
-### SHOT_053 | 00:13:00–00:13:15 | Nothing is missing
+### SHOT_053 | 00:08:40–00:08:50 | Nothing is missing
 
 **Visible cast:** ELLA, DAN, MAYA
 
@@ -1521,7 +1523,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **ELLA:** Good. The basket bottom was the last place I wanted to check.
 
-### SHOT_054 | 00:13:15–00:13:30 | No need to unpack again
+### SHOT_054 | 00:08:50–00:09:00 | No need to unpack again
 
 **Visible cast:** NINA, LEO, MAX
 
@@ -1549,7 +1551,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **MAX:** Okay. I'd rather find mine than count them all again.
 
-### SHOT_055 | 00:13:30–00:13:45 | Six places in the cubby
+### SHOT_055 | 00:09:00–00:09:10 | Six places in the cubby
 
 **Visible cast:** MAYA, NINA, DAN
 
@@ -1577,7 +1579,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **MAYA:** Then keep the names facing this way as they go in.
 
-### SHOT_056 | 00:13:45–00:14:00 | Left means this view
+### SHOT_056 | 00:09:10–00:09:20 | Left means this view
 
 **Visible cast:** DAN, ELLA, LEO
 
@@ -1605,7 +1607,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **DAN:** Good. It matters which way you're standing when you say left.
 
-### SHOT_057 | 00:14:00–00:14:15 | The three adult cubes
+### SHOT_057 | 00:09:20–00:09:30 | The three adult cubes
 
 **Visible cast:** DAN, MAYA, NINA
 
@@ -1633,7 +1635,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **NINA:** And all three labels face the person doing the looking.
 
-### SHOT_058 | 00:14:15–00:14:30 | The three child cubes
+### SHOT_058 | 00:09:30–00:09:40 | The three child cubes
 
 **Visible cast:** LEO, ELLA, MAX, NINA
 
@@ -1663,7 +1665,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **MAX:** I can reach the handle all by myself.
 
-### SHOT_059 | 00:14:30–00:14:45 | Names on the shelf map
+### SHOT_059 | 00:09:40–00:09:50 | Names on the shelf map
 
 **Visible cast:** NINA, MAYA, ELLA
 
@@ -1691,7 +1693,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **ELLA:** Tomorrow I'll only have to open the one with my name.
 
-### SHOT_060 | 00:14:45–00:15:00 | Cap on, job closed
+### SHOT_060 | 00:09:50–00:10:00 | Cap on, job closed
 
 **Visible cast:** DAN, NINA, MAX
 
@@ -1719,7 +1721,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **MAX:** Good. It wouldn't have much to wear on vacation.
 
-### SHOT_061 | 00:15:00–00:15:15 | An empty basket can rest
+### SHOT_061 | 00:10:00–00:10:10 | An empty basket can rest
 
 **Visible cast:** MAYA, DAN
 
@@ -1747,7 +1749,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **DAN:** Yes. That'll make the next load easier.
 
-### SHOT_062 | 00:15:15–00:15:30 | Find it without opening it
+### SHOT_062 | 00:10:10–00:10:20 | Find it without opening it
 
 **Visible cast:** MAX, ELLA, LEO
 
@@ -1775,7 +1777,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **MAX:** I like directions I can use before I'm fully awake.
 
-### SHOT_063 | 00:15:30–00:15:45 | A towel for the guest
+### SHOT_063 | 00:10:20–00:10:30 | A towel for the guest
 
 **Visible cast:** MAYA, NINA
 
@@ -1803,7 +1805,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **NINA:** Right. She gets to choose what goes in her own things.
 
-### SHOT_064 | 00:15:45–00:16:00 | Ask about the place
+### SHOT_064 | 00:10:30–00:10:40 | Ask about the place
 
 **Visible cast:** MAYA, DAN, NINA
 
@@ -1831,7 +1833,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **DAN:** I like asking before I have to carry it back.
 
-### SHOT_065 | 00:16:00–00:16:15 | The towel finds its drawer
+### SHOT_065 | 00:10:40–00:10:50 | The towel finds its drawer
 
 **Visible cast:** NINA, MAYA, DAN
 
@@ -1861,7 +1863,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **MAYA:** Let's leave the rest just how Mom likes it.
 
-### SHOT_066 | 00:16:15–00:16:30 | A blanket already at home
+### SHOT_066 | 00:10:50–00:11:00 | A blanket already at home
 
 **Visible cast:** ELLA, MAYA, DAN
 
@@ -1889,7 +1891,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **ELLA:** Thanks. A folded blanket doesn't really need a new address.
 
-### SHOT_067 | 00:16:30–00:16:45 | An empty hanger can stay empty
+### SHOT_067 | 00:11:00–00:11:10 | An empty hanger can stay empty
 
 **Visible cast:** NINA, MAX, MAYA
 
@@ -1917,7 +1919,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **MAX:** So she can hang them herself if she feels like it.
 
-### SHOT_068 | 00:16:45–00:17:00 | The checklist comes back with us
+### SHOT_068 | 00:11:10–00:11:20 | The checklist comes back with us
 
 **Visible cast:** LEO, DAN, MAYA
 
@@ -1945,7 +1947,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **LEO:** Good. Grandma won't have to hunt for her own list.
 
-### SHOT_069 | 00:17:00–00:17:15 | Clean hands after the job
+### SHOT_069 | 00:11:20–00:11:30 | Clean hands after the job
 
 **Visible cast:** NINA, MAYA, MAX
 
@@ -1973,7 +1975,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **MAX:** Good. My hands can retire from sock duty now.
 
-### SHOT_070 | 00:17:15–00:17:30 | Two good organizers
+### SHOT_070 | 00:11:30–00:11:40 | Two good organizers
 
 **Visible cast:** MAYA, NINA, DAN
 
@@ -2001,7 +2003,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **MAYA:** So tomorrow morning nobody has to ask where their socks went.
 
-### SHOT_071 | 00:17:30–00:17:45 | Helping is more than speed
+### SHOT_071 | 00:11:40–00:11:50 | Helping is more than speed
 
 **Visible cast:** DAN, LEO, ELLA
 
@@ -2029,7 +2031,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **DAN:** Agreed. Even a quick question would've saved two trips.
 
-### SHOT_072 | 00:17:45–00:18:00 | A very short journey
+### SHOT_072 | 00:11:50–00:12:00 | A very short journey
 
 **Visible cast:** MAX, NINA, DAN
 
@@ -2057,7 +2059,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **MAX:** Next time they're staying here without buying a ticket.
 
-### SHOT_073 | 00:18:00–00:18:15 | Six people, familiar seats
+### SHOT_073 | 00:12:00–00:12:10 | Six people, familiar seats
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX
 
@@ -2085,7 +2087,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **ELLA:** My stars are off duty. They know where to go tomorrow.
 
-### SHOT_074 | 00:18:15–00:18:30 | The sock that stayed home
+### SHOT_074 | 00:12:10–00:12:20 | The sock that stayed home
 
 **Visible cast:** DAN, LEO, ELLA
 
@@ -2113,7 +2115,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **DAN:** I'm glad the family remembers the helping part too.
 
-### SHOT_075 | 00:18:30–00:18:45 | Labels do not replace people
+### SHOT_075 | 00:12:20–00:12:30 | Labels do not replace people
 
 **Visible cast:** MAYA, NINA, ELLA
 
@@ -2141,7 +2143,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **ELLA:** Good. My stars won't turn into dots behind a different name.
 
-### SHOT_076 | 00:18:45–00:19:00 | A place we can explain
+### SHOT_076 | 00:12:30–00:12:40 | A place we can explain
 
 **Visible cast:** LEO, MAX, DAN
 
@@ -2169,7 +2171,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **LEO:** Exactly. Turn toward the shelf first and the directions work.
 
-### SHOT_077 | 00:19:00–00:19:15 | Tomorrow can wait
+### SHOT_077 | 00:12:40–00:12:50 | Tomorrow can wait
 
 **Visible cast:** NINA, MAYA, MAX
 
@@ -2197,7 +2199,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **MAX:** I wonder whether Dad will give the pots apartments too.
 
-### SHOT_078 | 00:19:15–00:19:30 | No labels on grandmothers
+### SHOT_078 | 00:12:50–00:13:00 | No labels on grandmothers
 
 **Visible cast:** MAX, DAN, MAYA
 
@@ -2225,7 +2227,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **MAX:** Good. That story was worth bringing along in her suitcase.
 
-### SHOT_079 | 00:19:30–00:19:45 | One record, finished
+### SHOT_079 | 00:13:00–00:13:10 | One record, finished
 
 **Visible cast:** DAN, NINA, LEO
 
@@ -2253,7 +2255,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **NINA:** And she'll wake up to a room that's still hers.
 
-### SHOT_080 | 00:19:45–00:20:00 | An ordinary kind of welcome
+### SHOT_080 | 00:13:10–00:13:20 | An ordinary kind of welcome
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX
 
@@ -2265,7 +2267,7 @@ The same six W01 identities continue. Maya and Nina have equal agency; Dan's adm
 
 **Opening state:** All six in fixed seats; folded family record near Dan; no food or laundry on table.
 
-**End state:** Story ends at20:00 with sorting resolved, guest resting offscreen and no new action begun.
+**End state:** Story ends at13:20 with sorting resolved, guest resting offscreen and no new action begun.
 
 **Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
