@@ -1,6 +1,8 @@
 # Episode 09 — Can Dad Grow Money? | Garden English | Funny Learning Story
 
-> **Format:** 80 continuous story shots × 15 seconds = **20:00 story runtime**.
+> **Format:** 80 continuous story shots × 10 seconds = **13:20 planned story runtime**.
+>
+> **Editing plan:** Plan each shot for 10 editorial seconds to reduce filler pauses and unnecessary movements. Preserve natural dialogue delivery and meaningful actions; confirm timing against recorded performances before final editing rather than adding silence or speeding up speech.
 > **Status:** written and still-image preproduction draft. Creator approval, individual motion first frames, voices and animation remain pending.
 > **Story-only:** natural General American family conversation; no quizzes, audience drills, recap narrator or countdowns. Optional creator practice belongs after the story.
 
@@ -8,20 +10,20 @@ On a later spring morning after Grandma Ruth’s visit, the family plants one mi
 
 ## Story arc
 
-- **00:00–03:00:** plan the small garden, distinguish mint from money, receive Ben’s empty pots.
-- **03:00–05:00:** inspect drainage, establish a safe workbench and record water before using it.
-- **05:00–10:00:** fill three pots, transplant two existing seedlings, sow exactly three radish seeds.
-- **10:00–14:00:** label honestly, water slowly with observation and preserve the remainder.
-- **14:00–17:00:** drain saucers, move pots in fixed order, store tools and wash hands.
-- **17:00–20:00:** keep a true Day 1 journal and enjoy a modest shared beginning.
+- **00:00–02:00:** plan the small garden, distinguish mint from money, receive Ben’s empty pots.
+- **02:00–03:20:** inspect drainage, establish a safe workbench and record water before using it.
+- **03:20–06:40:** fill three pots, transplant two existing seedlings, sow exactly three radish seeds.
+- **06:40–09:20:** label honestly, water slowly with observation and preserve the remainder.
+- **09:20–11:20:** drain saucers, move pots in fixed order, store tools and wash hands.
+- **11:20–13:20:** keep a true Day 1 journal and enjoy a modest shared beginning.
 
-The 100 mL per-pot amounts are records for this scene’s already damp mix and small newly planted pots, not universal watering instructions. The adults check soil, settling and drainage and do not empty the can simply because water remains. Longer filling, settling, carrying and washing actions use explicit elapsed-time dissolves. A fifteen-second editorial slot is not a completed real-time gardening demonstration.
+The 100 mL per-pot amounts are records for this scene’s already damp mix and small newly planted pots, not universal watering instructions. The adults check soil, settling and drainage and do not empty the can simply because water remains. Longer filling, settling, carrying and washing actions use explicit elapsed-time dissolves. A ten-second editorial slot is not a completed real-time gardening demonstration.
 
 Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PLAN.md](SCENE_REFERENCE_PLAN.md) for geography. Existing cast previews remain unchanged; Ben is a newly proposed minor supporting design, not a seventh permanent family member. All storyboard and environment art remains pending creator review.
 
 ## Timed story shots
 
-### SHOT_001 | 00:00:00–00:00:15 | A small garden plan
+### SHOT_001 | 00:00:00–00:00:10 | A small garden plan
 
 **Visible cast:** DAN, MAYA, NINA  
 **Location:** HOME_KITCHEN  
@@ -42,7 +44,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **DAN:** How small are we talking? Can my plan fit on the bench?
 
-### SHOT_002 | 00:00:15–00:00:30 | A word with two jobs
+### SHOT_002 | 00:00:10–00:00:20 | A word with two jobs
 
 **Visible cast:** MAX, DAN, ELLA  
 **Location:** HOME_KITCHEN  
@@ -63,7 +65,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **MAX:** Would we have to water the coins to make change?
 
-### SHOT_003 | 00:00:30–00:00:45 | Leaves instead of change
+### SHOT_003 | 00:00:20–00:00:30 | Leaves instead of change
 
 **Visible cast:** MAYA, MAX, DAN  
 **Location:** HOME_KITCHEN  
@@ -84,7 +86,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **MAX:** Good. I'd rather smell an herb than smell my pocket.
 
-### SHOT_004 | 00:00:45–00:01:00 | Three homes for plants
+### SHOT_004 | 00:00:30–00:00:40 | Three homes for plants
 
 **Visible cast:** NINA, LEO, ELLA  
 **Location:** HOME_KITCHEN  
@@ -105,7 +107,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **NINA:** Good. We'll be able to tell the seed pot from the rest.
 
-### SHOT_005 | 00:01:00–00:01:15 | A delivery we can count
+### SHOT_005 | 00:00:40–00:00:50 | A delivery we can count
 
 **Visible cast:** DAN, LEO, MAYA  
 **Location:** HOME_KITCHEN  
@@ -126,7 +128,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **DAN:** Three is plenty. I haven't even met the mint yet.
 
-### SHOT_006 | 00:01:15–00:01:30 | Tools have places too
+### SHOT_006 | 00:00:50–00:01:00 | Tools have places too
 
 **Visible cast:** NINA, ELLA, MAX  
 **Location:** HOME_KITCHEN  
@@ -147,7 +149,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **MAX:** Mine are bigger than a seed. I can lend a hand.
 
-### SHOT_007 | 00:01:30–00:01:45 | A drink with a different job
+### SHOT_007 | 00:01:00–00:01:10 | A drink with a different job
 
 **Visible cast:** DAN, MAYA, MAX  
 **Location:** HOME_KITCHEN  
@@ -168,7 +170,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **DAN:** Good. I'll wait to see what the soil actually needs.
 
-### SHOT_008 | 00:01:45–00:02:00 | Outside together
+### SHOT_008 | 00:01:10–00:01:20 | Outside together
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX  
 **Location:** GARDEN_PATH  
@@ -189,7 +191,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **MAYA:** Look ahead. There's our bench.
 
-### SHOT_009 | 00:02:00–00:02:15 | Uncle Ben brings empty homes
+### SHOT_009 | 00:01:20–00:01:30 | Uncle Ben brings empty homes
 
 **Visible cast:** BEN, DAN, MAYA  
 **Location:** GARDEN_PATH  
@@ -210,7 +212,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **BEN:** You're welcome. I was careful to bring their saucers too.
 
-### SHOT_010 | 00:02:15–00:02:30 | No hidden forest
+### SHOT_010 | 00:01:30–00:01:40 | No hidden forest
 
 **Visible cast:** BEN, NINA, LEO  
 **Location:** GARDEN_PATH  
@@ -231,7 +233,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **LEO:** I think we can give these three all the attention they need.
 
-### SHOT_011 | 00:02:30–00:02:45 | The family resemblance
+### SHOT_011 | 00:01:40–00:01:50 | The family resemblance
 
 **Visible cast:** BEN, DAN, MAX, MAYA  
 **Location:** GARDEN_PATH  
@@ -252,7 +254,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **MAX:** I bet that box didn't give you much change, Dad.
 
-### SHOT_012 | 00:02:45–00:03:00 | A short visit, a real thank-you
+### SHOT_012 | 00:01:50–00:02:00 | A short visit, a real thank-you
 
 **Visible cast:** BEN, DAN, MAYA, MAX  
 **Location:** GARDEN_PATH  
@@ -261,7 +263,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Opening state:** Ben by gate with empty hands; pots and saucers delivered; no new plants.  
 **End state:** Ben off-screen and departed; gate shut; original six remain in garden.  
 **Picture:** [BOARD_03.png](assets/storyboards/BOARD_03.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
-**Continuity:** Final BEN shot: four 15-second slots, 60 seconds total. No later Ben voice, hand or face.
+**Continuity:** Final BEN shot: four 10-second slots, 40 seconds total. No later Ben voice, hand or face.
 
 **Dialogue:**
 
@@ -273,7 +275,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **MAX:** I'll save you the part about what kind of mint it is.
 
-### SHOT_013 | 00:03:00–00:03:15 | Look under the pot
+### SHOT_013 | 00:02:00–00:02:10 | Look under the pot
 
 **Visible cast:** MAYA, ELLA, DAN  
 **Location:** POTTING_BENCH  
@@ -294,7 +296,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **ELLA:** So the saucer belongs under it before we add anything.
 
-### SHOT_014 | 00:03:15–00:03:30 | The water has a starting line
+### SHOT_014 | 00:02:10–00:02:20 | The water has a starting line
 
 **Visible cast:** NINA, LEO, DAN  
 **Location:** GARDEN_PATH  
@@ -315,7 +317,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **DAN:** Good. I was picturing one very thirsty pot.
 
-### SHOT_015 | 00:03:30–00:03:45 | Seedlings are already plants
+### SHOT_015 | 00:02:20–00:02:30 | Seedlings are already plants
 
 **Visible cast:** NINA, MAYA, MAX  
 **Location:** POTTING_BENCH  
@@ -336,7 +338,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **MAX:** I can see the difference even before the labels go in.
 
-### SHOT_016 | 00:03:45–00:04:00 | A workbench, not a playground
+### SHOT_016 | 00:02:30–00:02:40 | A workbench, not a playground
 
 **Visible cast:** DAN, ELLA, LEO  
 **Location:** POTTING_BENCH  
@@ -357,7 +359,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **DAN:** Understood. Even ambitious gardeners carry their tools down low.
 
-### SHOT_017 | 00:04:00–00:04:15 | Saucers under empty pots
+### SHOT_017 | 00:02:40–00:02:50 | Saucers under empty pots
 
 **Visible cast:** MAYA, NINA, ELLA  
 **Location:** POTTING_BENCH  
@@ -378,7 +380,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **ELLA:** Good. I can find the middle without turning anything around.
 
-### SHOT_018 | 00:04:15–00:04:30 | The pretend coin gets a job
+### SHOT_018 | 00:02:50–00:03:00 | The pretend coin gets a job
 
 **Visible cast:** MAX, LEO, DAN  
 **Location:** POTTING_BENCH  
@@ -399,7 +401,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **MAX:** This coin gets to stay dry in the notebook, right?
 
-### SHOT_019 | 00:04:30–00:04:45 | Six gardeners, one safe plan
+### SHOT_019 | 00:03:00–00:03:10 | Six gardeners, one safe plan
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX  
 **Location:** POTTING_BENCH  
@@ -420,7 +422,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **LEO:** Good. Let's keep the dirt out here.
 
-### SHOT_020 | 00:04:45–00:05:00 | Open gently
+### SHOT_020 | 00:03:10–00:03:20 | Open gently
 
 **Visible cast:** NINA, MAYA, LEO  
 **Location:** POTTING_BENCH  
@@ -441,7 +443,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **NINA:** Let's keep a little space at the rim as we go.
 
-### SHOT_021 | 00:05:00–00:05:15 | Room for roots
+### SHOT_021 | 00:03:20–00:03:30 | Room for roots
 
 **Visible cast:** MAYA, DAN, ELLA  
 **Location:** POTTING_BENCH  
@@ -462,7 +464,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **ELLA:** So the soil stays inside when the water arrives.
 
-### SHOT_022 | 00:05:15–00:05:30 | Check before the pour
+### SHOT_022 | 00:03:30–00:03:40 | Check before the pour
 
 **Visible cast:** NINA, DAN, MAX  
 **Location:** POTTING_BENCH  
@@ -483,7 +485,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **DAN:** All right. I'll put the big splash on hold.
 
-### SHOT_023 | 00:05:30–00:05:45 | Look, do not taste
+### SHOT_023 | 00:03:40–00:03:50 | Look, do not taste
 
 **Visible cast:** MAYA, MAX, ELLA  
 **Location:** POTTING_BENCH  
@@ -504,7 +506,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **MAX:** I'll use my eyes, then. Those leaves have a pretty shape.
 
-### SHOT_024 | 00:05:45–00:06:00 | Find the mint label
+### SHOT_024 | 00:03:50–00:04:00 | Find the mint label
 
 **Visible cast:** LEO, DAN, MAYA  
 **Location:** POTTING_BENCH  
@@ -525,7 +527,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **DAN:** And a better start than planting a coin in that pot.
 
-### SHOT_025 | 00:06:00–00:06:15 | A small root ball
+### SHOT_025 | 00:04:00–00:04:10 | A small root ball
 
 **Visible cast:** MAYA, ELLA, DAN  
 **Location:** POTTING_BENCH  
@@ -546,7 +548,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **ELLA:** The little leaves hardly moved when the roots came out.
 
-### SHOT_026 | 00:06:15–00:06:30 | Mint finds its home
+### SHOT_026 | 00:04:10–00:04:20 | Mint finds its home
 
 **Visible cast:** MAYA, MAX, NINA  
 **Location:** POTTING_BENCH  
@@ -567,7 +569,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **MAX:** Good. It can get comfortable before we give it a drink.
 
-### SHOT_027 | 00:06:30–00:06:45 | Firm, not squashed
+### SHOT_027 | 00:04:20–00:04:30 | Firm, not squashed
 
 **Visible cast:** ELLA, MAYA, LEO  
 **Location:** POTTING_BENCH  
@@ -588,7 +590,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **ELLA:** I can leave a little space around the stem.
 
-### SHOT_028 | 00:06:45–00:07:00 | An empty nursery container
+### SHOT_028 | 00:04:30–00:04:40 | An empty nursery container
 
 **Visible cast:** DAN, NINA, MAX  
 **Location:** POTTING_BENCH  
@@ -609,7 +611,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **MAX:** A house with nobody in it is much easier to stack.
 
-### SHOT_029 | 00:07:00–00:07:15 | A different leaf
+### SHOT_029 | 00:04:40–00:04:50 | A different leaf
 
 **Visible cast:** NINA, ELLA, LEO  
 **Location:** POTTING_BENCH  
@@ -630,7 +632,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **ELLA:** Two plants and two different shapes. I see it now.
 
-### SHOT_030 | 00:07:15–00:07:30 | Support the basil
+### SHOT_030 | 00:04:50–00:05:00 | Support the basil
 
 **Visible cast:** NINA, DAN, MAX  
 **Location:** POTTING_BENCH  
@@ -651,7 +653,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **MAX:** Good. That stem still looks the same after the move.
 
-### SHOT_031 | 00:07:30–00:07:45 | Basil in the middle
+### SHOT_031 | 00:05:00–00:05:10 | Basil in the middle
 
 **Visible cast:** NINA, MAYA, ELLA  
 **Location:** POTTING_BENCH  
@@ -672,7 +674,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **MAYA:** Keep it with us. We'll do the names together in a bit.
 
-### SHOT_032 | 00:07:45–00:08:00 | Leave the leaves room
+### SHOT_032 | 00:05:10–00:05:20 | Leave the leaves room
 
 **Visible cast:** LEO, NINA, DAN  
 **Location:** POTTING_BENCH  
@@ -693,7 +695,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **LEO:** I think that stem would vote for a little elbow room.
 
-### SHOT_033 | 00:08:00–00:08:15 | Two plants, two names
+### SHOT_033 | 00:05:20–00:05:30 | Two plants, two names
 
 **Visible cast:** MAYA, MAX, ELLA  
 **Location:** POTTING_BENCH  
@@ -714,7 +716,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **MAX:** Mint on the left. Got it.
 
-### SHOT_034 | 00:08:15–00:08:30 | A quiet seed bed
+### SHOT_034 | 00:05:30–00:05:40 | A quiet seed bed
 
 **Visible cast:** DAN, MAYA, LEO  
 **Location:** POTTING_BENCH  
@@ -735,7 +737,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **DAN:** How small? I can hardly see them from this side.
 
-### SHOT_035 | 00:08:30–00:08:45 | Only three for this pot
+### SHOT_035 | 00:05:40–00:05:50 | Only three for this pot
 
 **Visible cast:** MAYA, LEO, ELLA  
 **Location:** POTTING_BENCH  
@@ -756,7 +758,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **ELLA:** Good. I'll watch all three spaces on top before we cover them.
 
-### SHOT_036 | 00:08:45–00:09:00 | Room below and beside
+### SHOT_036 | 00:05:50–00:06:00 | Room below and beside
 
 **Visible cast:** NINA, LEO, DAN  
 **Location:** POTTING_BENCH  
@@ -777,7 +779,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **LEO:** I'll use what the packet says for these particular seeds.
 
-### SHOT_037 | 00:09:00–00:09:15 | The first seed
+### SHOT_037 | 00:06:00–00:06:10 | The first seed
 
 **Visible cast:** LEO, MAYA, MAX  
 **Location:** POTTING_BENCH  
@@ -798,7 +800,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **MAX:** Can I keep count while the other two are waiting?
 
-### SHOT_038 | 00:09:15–00:09:30 | The second seed
+### SHOT_038 | 00:06:10–00:06:20 | The second seed
 
 **Visible cast:** ELLA, NINA, DAN  
 **Location:** POTTING_BENCH  
@@ -819,7 +821,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **ELLA:** Good. The last little neighbor has a spot of its own.
 
-### SHOT_039 | 00:09:30–00:09:45 | The third seed
+### SHOT_039 | 00:06:20–00:06:30 | The third seed
 
 **Visible cast:** MAX, MAYA, LEO  
 **Location:** POTTING_BENCH  
@@ -840,7 +842,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **LEO:** Three in their places. Now we can leave them in peace.
 
-### SHOT_040 | 00:09:45–00:10:00 | Covered, not instantly grown
+### SHOT_040 | 00:06:30–00:06:40 | Covered, not instantly grown
 
 **Visible cast:** NINA, ELLA, MAX  
 **Location:** POTTING_BENCH  
@@ -863,7 +865,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **NINA:** Save room for that first shoot.
 
-### SHOT_041 | 00:10:00–00:10:15 | Write before you stick
+### SHOT_041 | 00:06:40–00:06:50 | Write before you stick
 
 **Visible cast:** LEO, ELLA, DAN  
 **Location:** POTTING_BENCH  
@@ -884,7 +886,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **DAN:** I'll read the names with you before they go in.
 
-### SHOT_042 | 00:10:15–00:10:30 | Mint has a nameplate
+### SHOT_042 | 00:06:50–00:07:00 | Mint has a nameplate
 
 **Visible cast:** MAX, MAYA, DAN  
 **Location:** POTTING_BENCH  
@@ -905,7 +907,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **MAX:** Good. It would be a long wait for pocket money.
 
-### SHOT_043 | 00:10:30–00:10:45 | Basil belongs here
+### SHOT_043 | 00:07:00–00:07:10 | Basil belongs here
 
 **Visible cast:** ELLA, NINA, LEO  
 **Location:** POTTING_BENCH  
@@ -926,7 +928,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **ELLA:** Good. I'd like to recognize the leaves as well as the name.
 
-### SHOT_044 | 00:10:45–00:11:00 | A name for an invisible beginning
+### SHOT_044 | 00:07:10–00:07:20 | A name for an invisible beginning
 
 **Visible cast:** LEO, MAYA, MAX  
 **Location:** POTTING_BENCH  
@@ -947,7 +949,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **MAX:** Then I won't think the bare soil means we forgot one.
 
-### SHOT_045 | 00:11:00–00:11:15 | Day one means day one
+### SHOT_045 | 00:07:20–00:07:30 | Day one means day one
 
 **Visible cast:** LEO, NINA, DAN  
 **Location:** POTTING_BENCH  
@@ -968,7 +970,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **DAN:** I'll leave a little room for whatever happens next.
 
-### SHOT_046 | 00:11:15–00:11:30 | The generous gardener pauses
+### SHOT_046 | 00:07:30–00:07:40 | The generous gardener pauses
 
 **Visible cast:** DAN, MAYA, MAX  
 **Location:** POTTING_BENCH  
@@ -989,7 +991,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **DAN:** Good thing we checked. My first offer was rather large.
 
-### SHOT_047 | 00:11:30–00:11:45 | A smaller way to check
+### SHOT_047 | 00:07:40–00:07:50 | A smaller way to check
 
 **Visible cast:** NINA, DAN, ELLA  
 **Location:** POTTING_BENCH  
@@ -1010,7 +1012,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **DAN:** I'll watch the soil while the rest stays in the can.
 
-### SHOT_048 | 00:11:45–00:12:00 | A measured drink for mint
+### SHOT_048 | 00:07:50–00:08:00 | A measured drink for mint
 
 **Visible cast:** DAN, NINA, MAX  
 **Location:** POTTING_BENCH  
@@ -1031,7 +1033,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **MAX:** I can wait. The water doesn't need my help to sink in.
 
-### SHOT_049 | 00:12:00–00:12:15 | Wait for the water
+### SHOT_049 | 00:08:00–00:08:10 | Wait for the water
 
 **Visible cast:** MAYA, ELLA, DAN  
 **Location:** POTTING_BENCH  
@@ -1052,7 +1054,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **MAYA:** Yes. Let's leave that plant in peace and check the next.
 
-### SHOT_050 | 00:12:15–00:12:30 | Measure the next drink
+### SHOT_050 | 00:08:10–00:08:20 | Measure the next drink
 
 **Visible cast:** LEO, DAN, NINA  
 **Location:** POTTING_BENCH  
@@ -1073,7 +1075,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **DAN:** That little cup's easier to control.
 
-### SHOT_051 | 00:12:30–00:12:45 | Basil’s turn
+### SHOT_051 | 00:08:20–00:08:30 | Basil’s turn
 
 **Visible cast:** NINA, ELLA, MAYA  
 **Location:** POTTING_BENCH  
@@ -1094,7 +1096,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **ELLA:** So we write what happened today and check tomorrow for ourselves.
 
-### SHOT_052 | 00:12:45–00:13:00 | The second saucer tells a story
+### SHOT_052 | 00:08:30–00:08:40 | The second saucer tells a story
 
 **Visible cast:** MAYA, LEO, MAX  
 **Location:** POTTING_BENCH  
@@ -1115,7 +1117,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **MAX:** Okay. The pots can have different answers next time.
 
-### SHOT_053 | 00:13:00–00:13:15 | Water for the hidden seeds
+### SHOT_053 | 00:08:40–00:08:50 | Water for the hidden seeds
 
 **Visible cast:** DAN, MAYA, MAX  
 **Location:** POTTING_BENCH  
@@ -1136,7 +1138,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **DAN:** Point taken. I'll keep the pour gentle and close.
 
-### SHOT_054 | 00:13:15–00:13:30 | A gentle final pour
+### SHOT_054 | 00:08:50–00:09:00 | A gentle final pour
 
 **Visible cast:** MAYA, MAX, ELLA  
 **Location:** POTTING_BENCH  
@@ -1157,7 +1159,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **MAX:** Good. I want to see the very first bit of green myself.
 
-### SHOT_055 | 00:13:30–00:13:45 | Enough for this morning
+### SHOT_055 | 00:09:00–00:09:10 | Enough for this morning
 
 **Visible cast:** NINA, DAN, LEO  
 **Location:** POTTING_BENCH  
@@ -1178,7 +1180,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **DAN:** Good. Leaving water in the can feels like helping now.
 
-### SHOT_056 | 00:13:45–00:14:00 | The numbers stay with the work
+### SHOT_056 | 00:09:10–00:09:20 | The numbers stay with the work
 
 **Visible cast:** LEO, NINA, ELLA  
 **Location:** POTTING_BENCH  
@@ -1199,7 +1201,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **ELLA:** I'll write the amount we used, so we remember today.
 
-### SHOT_057 | 00:14:00–00:14:15 | Drainage is not a bath
+### SHOT_057 | 00:09:20–00:09:30 | Drainage is not a bath
 
 **Visible cast:** MAYA, DAN, MAX  
 **Location:** POTTING_BENCH  
@@ -1220,7 +1222,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **MAX:** Good. These little houses won't need lifeboats after all.
 
-### SHOT_058 | 00:14:15–00:14:30 | Sunlight has a place
+### SHOT_058 | 00:09:30–00:09:40 | Sunlight has a place
 
 **Visible cast:** NINA, MAYA, ELLA  
 **Location:** HOME_GARDEN  
@@ -1241,7 +1243,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **ELLA:** We can see all the labels from the path there.
 
-### SHOT_059 | 00:14:30–00:14:45 | One pot at a time
+### SHOT_059 | 00:09:40–00:09:50 | One pot at a time
 
 **Visible cast:** DAN, MAYA, LEO  
 **Location:** GARDEN_POTS  
@@ -1262,7 +1264,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **DAN:** Good. We'll be able to read it without stepping off the path.
 
-### SHOT_060 | 00:14:45–00:15:00 | The middle neighbor
+### SHOT_060 | 00:09:50–00:10:00 | The middle neighbor
 
 **Visible cast:** NINA, ELLA, MAX  
 **Location:** GARDEN_POTS  
@@ -1283,7 +1285,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **ELLA:** Good. We'll still know which one is basil from over here.
 
-### SHOT_061 | 00:15:00–00:15:15 | A place for quiet beginnings
+### SHOT_061 | 00:10:00–00:10:10 | A place for quiet beginnings
 
 **Visible cast:** MAYA, DAN, LEO  
 **Location:** GARDEN_POTS  
@@ -1304,7 +1306,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **DAN:** I can wait. The label's got today's answer on it.
 
-### SHOT_062 | 00:15:15–00:15:30 | A picture that tells the truth
+### SHOT_062 | 00:10:10–00:10:20 | A picture that tells the truth
 
 **Visible cast:** ELLA, LEO, NINA  
 **Location:** GARDEN_POTS  
@@ -1325,7 +1327,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **ELLA:** Then I'll leave off the imaginary leaves.
 
-### SHOT_063 | 00:15:30–00:15:45 | The bench has finished its part
+### SHOT_063 | 00:10:20–00:10:30 | The bench has finished its part
 
 **Visible cast:** DAN, MAYA, MAX  
 **Location:** POTTING_BENCH  
@@ -1346,7 +1348,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **MAX:** Good. Spare seeds stay dry up there.
 
-### SHOT_064 | 00:15:45–00:16:00 | The unused water is still water
+### SHOT_064 | 00:10:30–00:10:40 | The unused water is still water
 
 **Visible cast:** NINA, LEO, DAN  
 **Location:** GARDEN_PATH  
@@ -1367,7 +1369,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **DAN:** Good. Tomorrow the soil can tell us what to do next.
 
-### SHOT_065 | 00:16:00–00:16:15 | Gloves off the right way
+### SHOT_065 | 00:10:40–00:10:50 | Gloves off the right way
 
 **Visible cast:** MAYA, NINA, ELLA  
 **Location:** GARDEN_PATH  
@@ -1388,7 +1390,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **ELLA:** I'll leave my gloves here and go with you to wash.
 
-### SHOT_066 | 00:16:15–00:16:30 | Clean hands before anything else
+### SHOT_066 | 00:10:50–00:11:00 | Clean hands before anything else
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX  
 **Location:** HOME_KITCHEN  
@@ -1397,7 +1399,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Opening state:** Garden gloves and tools outside; bare hands not yet washed; kitchen still free of soil or plants.  
 **End state:** All six hands washed and dried; sink faucet OFF; no garden object on food surface.  
 **Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
-**Continuity:** This is elapsed real washing, not a complete six-person wash in fifteen seconds; no tasting follows gardening.
+**Continuity:** This is elapsed real washing, not a complete six-person wash in ten seconds; no tasting follows gardening.
 
 **Dialogue:**
 
@@ -1409,7 +1411,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **LEO:** Especially me. I handled the pots as well as the numbers.
 
-### SHOT_067 | 00:16:30–00:16:45 | A dry record comes indoors
+### SHOT_067 | 00:11:00–00:11:10 | A dry record comes indoors
 
 **Visible cast:** LEO, MAYA, ELLA  
 **Location:** HOME_KITCHEN  
@@ -1430,7 +1432,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **ELLA:** Good. My pencil doesn't have to grow a radish today.
 
-### SHOT_068 | 00:16:45–00:17:00 | The part that takes longer
+### SHOT_068 | 00:11:10–00:11:20 | The part that takes longer
 
 **Visible cast:** DAN, MAX, NINA  
 **Location:** HOME_KITCHEN  
@@ -1451,7 +1453,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **MAX:** Can we still look if there's nothing new to see?
 
-### SHOT_069 | 00:17:00–00:17:15 | A promise without a timer
+### SHOT_069 | 00:11:20–00:11:30 | A promise without a timer
 
 **Visible cast:** MAYA, ELLA, LEO  
 **Location:** HOME_KITCHEN  
@@ -1472,7 +1474,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **ELLA:** I'll leave a blank spot for the first green bit.
 
-### SHOT_070 | 00:17:15–00:17:30 | What the coin can grow
+### SHOT_070 | 00:11:30–00:11:40 | What the coin can grow
 
 **Visible cast:** DAN, MAX, MAYA  
 **Location:** HOME_KITCHEN  
@@ -1493,7 +1495,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **DAN:** And the only thing we had to spend was a little time.
 
-### SHOT_071 | 00:17:30–00:17:45 | Back to look, not to interfere
+### SHOT_071 | 00:11:40–00:11:50 | Back to look, not to interfere
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX  
 **Location:** GARDEN_PATH  
@@ -1514,7 +1516,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **MAX:** I'll wave from here. The seeds don't need digging up.
 
-### SHOT_072 | 00:17:45–00:18:00 | Room to care
+### SHOT_072 | 00:11:50–00:12:00 | Room to care
 
 **Visible cast:** MAYA, NINA, DAN  
 **Location:** GARDEN_POTS  
@@ -1535,7 +1537,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **DAN:** And I already know all three of these neighbors by name.
 
-### SHOT_073 | 00:18:00–00:18:15 | The quiet pot has company
+### SHOT_073 | 00:12:00–00:12:10 | The quiet pot has company
 
 **Visible cast:** MAX, ELLA, LEO  
 **Location:** GARDEN_POTS  
@@ -1556,7 +1558,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **ELLA:** They can have a quiet afternoon. We did enough today.
 
-### SHOT_074 | 00:18:15–00:18:30 | One question helped more
+### SHOT_074 | 00:12:10–00:12:20 | One question helped more
 
 **Visible cast:** DAN, NINA, MAX  
 **Location:** GARDEN_POTS  
@@ -1577,7 +1579,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **DAN:** Good. It's the first time I've felt proud of leftover water.
 
-### SHOT_075 | 00:18:30–00:18:45 | Everyone left a useful mark
+### SHOT_075 | 00:12:20–00:12:30 | Everyone left a useful mark
 
 **Visible cast:** ELLA, MAYA, LEO  
 **Location:** GARDEN_POTS  
@@ -1598,7 +1600,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **MAYA:** Day one is enough. The rest hasn't happened yet.
 
-### SHOT_076 | 00:18:45–00:19:00 | What grows next is a surprise
+### SHOT_076 | 00:12:30–00:12:40 | What grows next is a surprise
 
 **Visible cast:** DAN, MAYA, NINA  
 **Location:** HOME_GARDEN  
@@ -1619,7 +1621,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **DAN:** I'll tell them who helped instead of promising a harvest.
 
-### SHOT_077 | 00:19:00–00:19:15 | A very small ambition
+### SHOT_077 | 00:12:40–00:12:50 | A very small ambition
 
 **Visible cast:** MAX, DAN, ELLA  
 **Location:** GARDEN_POTS  
@@ -1640,7 +1642,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **MAX:** Good. The only thing that got taller was Dad's plan.
 
-### SHOT_078 | 00:19:15–00:19:30 | One last honest entry
+### SHOT_078 | 00:12:50–00:13:00 | One last honest entry
 
 **Visible cast:** LEO, NINA, DAN  
 **Location:** GARDEN_POTS  
@@ -1661,7 +1663,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **LEO:** Good. I'll leave the page about tomorrow blank for now.
 
-### SHOT_079 | 00:19:30–00:19:45 | A garden does not need applause
+### SHOT_079 | 00:13:00–00:13:10 | A garden does not need applause
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX  
 **Location:** HOME_GARDEN  
@@ -1682,14 +1684,14 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 
 **ELLA:** But the leaves smell better than the inside of a wallet.
 
-### SHOT_080 | 00:19:45–00:20:00 | The next visit can wait
+### SHOT_080 | 00:13:10–00:13:20 | The next visit can wait
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX  
 **Location:** HOME_GARDEN  
 **Camera:** Slow final pullback, house left and maple right; row remains correctly ordered.  
-**Action:** Hold a warm final family moment beside the clear path and the three labeled pots. Add closing editorial artwork inside the final seconds, leaving the garden unchanged at 20:00.  
+**Action:** Hold a warm final family moment beside the clear path and the three labeled pots. Add closing editorial artwork inside the final seconds, leaving the garden unchanged at 13:20.  
 **Opening state:** Same morning; mint LEFT, basil CENTER, bare radish RIGHT; empty saucers; tools stored and can 200 mL.  
-**End state:** Story ends at20:00 with no germination time jump, new planting, new water or party sequence.  
+**End state:** Story ends at13:20 with no germination time jump, new planting, new water or party sequence.  
 **Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Creator practice can follow separately after story; all six retain original W01 faces/clothes.
 
