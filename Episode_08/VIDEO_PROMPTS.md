@@ -1,6 +1,8 @@
 # Episode 08 — Grandma's Suitcase Has Everyone's Socks! | Home English | Family Story: 80 story video prompts
 
-Written and still-image preproduction draft. Each slot is a planned 15-second editorial shot, 16:9, original warm stylized 3D and natural General American family conversation. No video or voice has been generated. Optional creator-authored practice belongs after the story. Creator visual approval and individual motion first frames remain pending.
+Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start dialogue promptly, let meaningful actions and listener reactions occur during speech, and avoid filler silence, prolonged holds or unnatural motion. Speaker windows below are provisional editorial targets, not instructions to rush speech; verify against natural recorded performances. If a line cannot fit naturally, flag the shot for editorial review rather than truncating dialogue or artificially speeding it up.
+
+Written and still-image preproduction draft. Each slot is a planned 10-second editorial shot, 16:9, original warm stylized 3D and natural General American family conversation. No video or voice has been generated. Optional creator-authored practice belongs after the story. Creator visual approval and individual motion first frames remain pending.
 
 Use the unchanged [cast previews](assets/characters/), [continuity ledger](CONTINUITY.md) and [scene plan](SCENE_REFERENCE_PLAN.md). Restore original owner-controlled identity/home PNG masters before separately authorized motion production. No replacement faces, extra family members, wardrobe changes, mirrored watch/pocket sides, watermarks, baked-in subtitles or audience drills. Readable prop text uses the exact [SVG overlays](assets/overlays/).
 
@@ -12,9 +14,9 @@ Use the unchanged [cast previews](assets/characters/), [continuity ledger](CONTI
 - Top cubby row viewed from doorway is DAN, MAYA, NINA; bottom row LEO, ELLA, MAX.
 - All fourteen permanent cast JPGs and original home kitchen/table previews are unchanged Episode01 copies.
 
-Edit STORY.md first; sync.py regenerates this written draft and estimated subtitles, not media.
+Edit STORY.md first; sync.py regenerates this written draft and estimated subtitles, not media. The legacy sync script and existing subtitle track have not been retimed in this change; verify or update their timing before regenerating this document or assembling video.
 
-## SHOT_001 | 00:00:00–00:00:15 | A grandmother at the door
+## SHOT_001 | 00:00:00–00:00:10 | A grandmother at the door
 
 **Characters:** MAYA, NINA, RUTH. **Location:** HOME_ENTRY. **Wardrobe:** W01 only.
 **Composition:** Warm eye-level medium coverage, maintaining established room axis.
@@ -24,7 +26,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_01.png](assets/storyboards/BOARD_01.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth is Maya's mother; permanent cast designs remain unchanged; six family sock pairs are still at the laundry counter.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–1.65s · NINA 1.80–4.96s · RUTH 5.11–9.59s · MAYA 9.74–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.10s · NINA 1.20–3.31s · RUTH 3.41–6.39s · MAYA 6.49–9.48s.
 
 **Dialogue:**
 **MAYA:** Mom! Come in.
@@ -35,7 +37,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAYA:** Come sit by us. The surprise can wait a minute.
 
-## SHOT_002 | 00:00:15–00:00:30 | Six little gifts
+## SHOT_002 | 00:00:10–00:00:20 | Six little gifts
 
 **Characters:** RUTH, DAN, ELLA. **Location:** HOME_ENTRY. **Wardrobe:** W01 only.
 **Composition:** Medium three-quarter coverage with hands and active object visible.
@@ -45,7 +47,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_01.png](assets/storyboards/BOARD_01.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth is Maya's mother; permanent cast designs remain unchanged; six family sock pairs are still at the laundry counter.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): RUTH 0.25–3.85s · DAN 4.00–7.16s · ELLA 7.31–9.15s · RUTH 9.30–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): RUTH 0.17–2.57s · DAN 2.67–4.77s · ELLA 4.87–6.10s · RUTH 6.20–9.19s.
 
 **Dialogue:**
 **RUTH:** Six packing cubes, one for each of you.
@@ -56,7 +58,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **RUTH:** Then you children can help the apartments find their owners.
 
-## SHOT_003 | 00:00:30–00:00:45 | A familiar travel story
+## SHOT_003 | 00:00:20–00:00:30 | A familiar travel story
 
 **Characters:** RUTH, DAN, LEO. **Location:** HOME_ENTRY. **Wardrobe:** W01 only.
 **Composition:** Counter- or child-height medium framing, without adding offscreen characters.
@@ -66,7 +68,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_01.png](assets/storyboards/BOARD_01.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth is Maya's mother; permanent cast designs remain unchanged; six family sock pairs are still at the laundry counter.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): RUTH 0.25–4.61s · DAN 4.76–6.99s · LEO 7.14–9.36s · DAN 9.51–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): RUTH 0.17–3.07s · DAN 3.17–4.66s · LEO 4.76–6.24s · DAN 6.34–9.53s.
 
 **Dialogue:**
 **RUTH:** Once, Dan packed a tiny sock instead of his necktie.
@@ -77,7 +79,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** I never got far enough to try it under my collar.
 
-## SHOT_004 | 00:00:45–00:01:00 | A room ready for a guest
+## SHOT_004 | 00:00:30–00:00:40 | A room ready for a guest
 
 **Characters:** RUTH, MAYA, NINA. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
 **Composition:** Wide-to-medium composition with clear doorway and storage geography.
@@ -87,7 +89,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_01.png](assets/storyboards/BOARD_01.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth is Maya's mother; permanent cast designs remain unchanged; six family sock pairs are still at the laundry counter.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–3.41s · NINA 3.56–6.72s · RUTH 6.87–9.15s · MAYA 9.30–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–2.27s · NINA 2.37–4.48s · RUTH 4.58–6.10s · MAYA 6.20–9.48s.
 
 **Dialogue:**
 **MAYA:** Your suitcase can go on this stand.
@@ -98,7 +100,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAYA:** Good. There's room for you to unpack at your own pace.
 
-## SHOT_005 | 00:01:00–00:01:15 | A useful checklist
+## SHOT_005 | 00:00:40–00:00:50 | A useful checklist
 
 **Characters:** RUTH, MAYA, DAN. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
 **Composition:** Warm eye-level medium coverage, maintaining established room axis.
@@ -108,7 +110,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth is Maya's mother; permanent cast designs remain unchanged; six family sock pairs are still at the laundry counter.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): RUTH 0.25–3.15s · DAN 3.30–4.98s · MAYA 5.13–9.24s · RUTH 9.39–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): RUTH 0.17–2.10s · DAN 2.20–3.32s · MAYA 3.42–6.16s · RUTH 6.26–9.53s.
 
 **Dialogue:**
 **RUTH:** This checklist keeps my own things together.
@@ -119,7 +121,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **RUTH:** Thank you. I like finding that one just where I put it.
 
-## SHOT_006 | 00:01:15–00:01:30 | The ending of the sock story
+## SHOT_006 | 00:00:50–00:01:00 | The ending of the sock story
 
 **Characters:** RUTH, DAN, MAX. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
 **Composition:** Medium three-quarter coverage with hands and active object visible.
@@ -129,7 +131,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth is Maya's mother; permanent cast designs remain unchanged; six family sock pairs are still at the laundry counter.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): RUTH 0.25–4.24s · MAX 4.39–7.59s · DAN 7.74–9.38s · MAX 9.53–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): RUTH 0.17–2.83s · MAX 2.93–5.06s · DAN 5.16–6.25s · MAX 6.35–9.53s.
 
 **Dialogue:**
 **RUTH:** We noticed before he left. He borrowed a proper tie.
@@ -140,7 +142,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** I hope it found a shoe with a less formal dress code.
 
-## SHOT_007 | 00:01:30–00:01:45 | Permission and a quiet break
+## SHOT_007 | 00:01:00–00:01:10 | Permission and a quiet break
 
 **Characters:** RUTH, MAYA, NINA. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
 **Composition:** Counter- or child-height medium framing, without adding offscreen characters.
@@ -150,7 +152,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth is Maya's mother; permanent cast designs remain unchanged; six family sock pairs are still at the laundry counter.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): RUTH 0.25–5.73s · MAYA 5.88–7.20s · NINA 7.35–9.92s · RUTH 10.07–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): RUTH 0.17–3.82s · MAYA 3.92–4.80s · NINA 4.90–6.61s · RUTH 6.71–9.53s.
 
 **Dialogue:**
 **RUTH:** Use the cubes and borrow my checklist idea. I will rest next door.
@@ -161,7 +163,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **RUTH:** Thanks, girls. I'll look forward to hearing how it went.
 
-## SHOT_008 | 00:01:45–00:02:00 | See you after your rest
+## SHOT_008 | 00:01:10–00:01:20 | See you after your rest
 
 **Characters:** RUTH, ELLA, NINA. **Location:** HOME_ENTRY. **Wardrobe:** W01 only.
 **Composition:** Wide-to-medium composition with clear doorway and storage geography.
@@ -171,7 +173,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth is Maya's mother; permanent cast designs remain unchanged; six family sock pairs are still at the laundry counter.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–2.90s · RUTH 3.05–7.41s · NINA 7.56–9.79s · ELLA 9.94–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.93s · RUTH 2.03–4.94s · NINA 5.04–6.53s · ELLA 6.63–9.53s.
 
 **Dialogue:**
 **ELLA:** Thank you for the cubes, Grandma.
@@ -182,7 +184,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **ELLA:** I already have a pair of tenants in mind, Grandma.
 
-## SHOT_009 | 00:02:00–00:02:15 | A clean place to sort
+## SHOT_009 | 00:01:20–00:01:30 | A clean place to sort
 
 **Characters:** NINA, LEO, ELLA. **Location:** LAUNDRY_NOOK. **Wardrobe:** W01 only.
 **Composition:** Warm eye-level medium coverage, maintaining established room axis.
@@ -192,7 +194,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_03.png](assets/storyboards/BOARD_03.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): NINA 0.25–2.97s · LEO 3.12–6.28s · ELLA 6.43–9.15s · LEO 9.30–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–1.98s · LEO 2.08–4.19s · ELLA 4.29–6.10s · LEO 6.20–9.19s.
 
 **Dialogue:**
 **NINA:** These socks are clean and dry.
@@ -203,7 +205,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **LEO:** Good. A gray cube doesn't tell you much by itself.
 
-## SHOT_010 | 00:02:15–00:02:30 | One basket, six owners
+## SHOT_010 | 00:01:30–00:01:40 | One basket, six owners
 
 **Characters:** DAN, NINA, MAX. **Location:** LAUNDRY_NOOK. **Wardrobe:** W01 only.
 **Composition:** Medium three-quarter coverage with hands and active object visible.
@@ -213,7 +215,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_03.png](assets/storyboards/BOARD_03.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–2.97s · DAN 3.12–5.40s · NINA 5.55–9.15s · MAX 9.30–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.98s · DAN 2.08–3.60s · NINA 3.70–6.10s · MAX 6.20–9.48s.
 
 **Dialogue:**
 **MAX:** I can see my green heels.
@@ -224,7 +226,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** I'll know those green bits even with my eyes half shut.
 
-## SHOT_011 | 00:02:30–00:02:45 | Packing before asking
+## SHOT_011 | 00:01:40–00:01:50 | Packing before asking
 
 **Characters:** DAN. **Location:** LAUNDRY_NOOK. **Wardrobe:** W01 only.
 **Composition:** Counter- or child-height medium framing, without adding offscreen characters.
@@ -234,7 +236,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_03.png](assets/storyboards/BOARD_03.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Loading order is green heels, coral stars, orange heels, plum dots, teal plain, navy stripes; no pair is split.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–4.29s · DAN 4.44–8.48s · DAN 8.63–10.91s · DAN 11.06–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.86s · DAN 2.96–5.65s · DAN 5.75–7.27s · DAN 7.37–9.48s.
 
 **Dialogue:**
 **DAN:** Six pairs and six places. I can manage that.
@@ -245,7 +247,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** There. Its neighbor gets the next pair.
 
-## SHOT_012 | 00:02:45–00:03:00 | Six zippers, no labels
+## SHOT_012 | 00:01:50–00:02:00 | Six zippers, no labels
 
 **Characters:** DAN. **Location:** LAUNDRY_NOOK. **Wardrobe:** W01 only.
 **Composition:** Wide-to-medium composition with clear doorway and storage geography.
@@ -255,7 +257,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_03.png](assets/storyboards/BOARD_03.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.33s · DAN 3.48–7.41s · DAN 7.56–10.21s · DAN 10.36–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.22s · DAN 2.32–4.94s · DAN 5.04–6.81s · DAN 6.91–9.53s.
 
 **Dialogue:**
 **DAN:** That zipper went all the way around.
@@ -266,7 +268,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** Ah, they're all snug. I'll sort out names later.
 
-## SHOT_013 | 00:03:00–00:03:15 | The wrong destination
+## SHOT_013 | 00:02:00–00:02:10 | The wrong destination
 
 **Characters:** DAN. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
 **Composition:** Warm eye-level medium coverage, maintaining established room axis.
@@ -276,7 +278,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_04.png](assets/storyboards/BOARD_04.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Ruth is offscreen resting; gifted family cubes are distinct from her lavender personal pouch.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–2.53s · DAN 2.68–6.72s · DAN 6.87–9.15s · DAN 9.30–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.69s · DAN 1.79–4.48s · DAN 4.58–6.10s · DAN 6.20–8.89s.
 
 **Dialogue:**
 **DAN:** Now where should these go?
@@ -287,7 +289,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** Grandma's case has exactly the right sort of space.
 
-## SHOT_014 | 00:03:15–00:03:30 | Everyone is accidentally packed
+## SHOT_014 | 00:02:10–00:02:20 | Everyone is accidentally packed
 
 **Characters:** DAN. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
 **Composition:** Medium three-quarter coverage with hands and active object visible.
@@ -297,7 +299,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_04.png](assets/storyboards/BOARD_04.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No sock remains in basket or appears loose; case has sufficient room, with no crushing.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–2.81s · DAN 2.96–6.00s · DAN 6.15–8.22s · DAN 8.37–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.87s · DAN 1.97–4.00s · DAN 4.10–5.48s · DAN 5.58–8.27s.
 
 **Dialogue:**
 **DAN:** There's room on this side.
@@ -308,7 +310,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** The lavender pouch can have its own side.
 
-## SHOT_015 | 00:03:30–00:03:45 | A job that looks finished
+## SHOT_015 | 00:02:20–00:02:30 | A job that looks finished
 
 **Characters:** DAN. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
 **Composition:** Counter- or child-height medium framing, without adding offscreen characters.
@@ -318,7 +320,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_04.png](assets/storyboards/BOARD_04.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–2.53s · DAN 2.68–5.84s · DAN 5.99–8.71s · DAN 8.86–12.46s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.69s · DAN 1.79–3.89s · DAN 3.99–5.81s · DAN 5.91–8.31s.
 
 **Dialogue:**
 **DAN:** There. The case closes nicely.
@@ -329,7 +331,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** Wait till everybody sees how quickly I finished.
 
-## SHOT_016 | 00:03:45–00:04:00 | The empty basket mystery
+## SHOT_016 | 00:02:30–00:02:40 | The empty basket mystery
 
 **Characters:** DAN, MAYA, NINA. **Location:** LAUNDRY_NOOK. **Wardrobe:** W01 only.
 **Composition:** Wide-to-medium composition with clear doorway and storage geography.
@@ -339,7 +341,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_04.png](assets/storyboards/BOARD_04.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–2.19s · DAN 2.34–3.35s · NINA 3.50–4.98s · DAN 5.13–9.38s · MAYA 9.53–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.46s · DAN 1.56–2.23s · NINA 2.33–3.32s · DAN 3.42–6.25s · MAYA 6.35–8.27s.
 
 **Dialogue:**
 **MAYA:** Where are the socks?
@@ -352,7 +354,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAYA:** Dan, whose suitcase did you use?
 
-## SHOT_017 | 00:04:00–00:04:15 | A drawer cannot answer
+## SHOT_017 | 00:02:40–00:02:50 | A drawer cannot answer
 
 **Characters:** MAX, LEO, DAN. **Location:** LAUNDRY_NOOK. **Wardrobe:** W01 only.
 **Composition:** Warm eye-level medium coverage, maintaining established room axis.
@@ -362,7 +364,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_05.png](assets/storyboards/BOARD_05.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–3.85s · LEO 4.00–5.84s · DAN 5.99–8.27s · MAX 8.42–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.57s · LEO 2.67–3.89s · DAN 3.99–5.51s · MAX 5.61–8.89s.
 
 **Dialogue:**
 **MAX:** My socks are not in their new apartment.
@@ -373,7 +375,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** Did you tell my feet? They didn't pack for a trip.
 
-## SHOT_018 | 00:04:15–00:04:30 | The clue left behind
+## SHOT_018 | 00:02:50–00:03:00 | The clue left behind
 
 **Characters:** ELLA, NINA, DAN. **Location:** LAUNDRY_NOOK. **Wardrobe:** W01 only.
 **Composition:** Medium three-quarter coverage with hands and active object visible.
@@ -383,7 +385,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_05.png](assets/storyboards/BOARD_05.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–2.53s · NINA 2.68–6.28s · DAN 6.43–8.27s · ELLA 8.42–12.90s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.69s · NINA 1.79–4.19s · DAN 4.29–5.51s · ELLA 5.61–8.60s.
 
 **Dialogue:**
 **ELLA:** The labels never went anywhere.
@@ -394,7 +396,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **ELLA:** Which way did you go after you closed the zippers?
 
-## SHOT_019 | 00:04:30–00:04:45 | An honest explanation
+## SHOT_019 | 00:03:00–00:03:10 | An honest explanation
 
 **Characters:** DAN, MAYA, LEO. **Location:** LAUNDRY_NOOK. **Wardrobe:** W01 only.
 **Composition:** Counter- or child-height medium framing, without adding offscreen characters.
@@ -404,7 +406,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_05.png](assets/storyboards/BOARD_05.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–5.57s · MAYA 5.71–7.80s · LEO 7.96–10.45s · DAN 10.60–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–3.71s · MAYA 3.81–5.20s · LEO 5.31–6.97s · DAN 7.07–9.53s.
 
 **Dialogue:**
 **DAN:** I put our six cubes in Ruth's suitcase. I assumed they were hers.
@@ -415,7 +417,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** Good thing she hasn't taken that suitcase anywhere yet.
 
-## SHOT_020 | 00:04:45–00:05:00 | A small repair together
+## SHOT_020 | 00:03:10–00:03:20 | A small repair together
 
 **Characters:** MAYA, NINA, MAX. **Location:** LAUNDRY_NOOK. **Wardrobe:** W01 only.
 **Composition:** Wide-to-medium composition with clear doorway and storage geography.
@@ -425,7 +427,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_05.png](assets/storyboards/BOARD_05.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–4.73s · NINA 4.88–7.60s · MAX 7.75–10.03s · NINA 10.18–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–3.15s · NINA 3.25–5.07s · MAX 5.17–6.69s · NINA 6.79–9.48s.
 
 **Dialogue:**
 **MAYA:** We can retrieve our gifts and leave Grandma's pouch alone.
@@ -436,7 +438,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **NINA:** That's right. We'll only move what belongs to us.
 
-## SHOT_021 | 00:05:00–00:05:15 | At the luggage stand
+## SHOT_021 | 00:03:20–00:03:30 | At the luggage stand
 
 **Characters:** MAYA, DAN, NINA. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
 **Composition:** Warm eye-level medium coverage, maintaining established room axis.
@@ -446,7 +448,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.41s · MAYA 3.56–5.84s · NINA 5.99–8.27s · DAN 8.42–12.46s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.27s · MAYA 2.37–3.89s · NINA 3.99–5.51s · DAN 5.61–8.31s.
 
 **Dialogue:**
 **DAN:** This is exactly where I left them.
@@ -457,7 +459,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** Got it. I can see the two areas now.
 
-## SHOT_022 | 00:05:15–00:05:30 | Only the family cubes
+## SHOT_022 | 00:03:30–00:03:40 | Only the family cubes
 
 **Characters:** DAN, MAYA, ELLA. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
 **Composition:** Medium three-quarter coverage with hands and active object visible.
@@ -467,7 +469,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–4.61s · DAN 4.76–7.84s · MAYA 7.99–10.64s · ELLA 10.79–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–3.07s · DAN 3.17–5.23s · MAYA 5.33–7.09s · ELLA 7.19–9.53s.
 
 **Dialogue:**
 **ELLA:** Gray cubes on the left. Lavender pouch on the right.
@@ -478,7 +480,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **ELLA:** Just the gray side. Her pouch stays put.
 
-## SHOT_023 | 00:05:30–00:05:45 | Count the containers first
+## SHOT_023 | 00:03:40–00:03:50 | Count the containers first
 
 **Characters:** NINA, LEO, DAN. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
 **Composition:** Counter- or child-height medium framing, without adding offscreen characters.
@@ -488,7 +490,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–3.06s · NINA 3.21–4.66s · DAN 4.81–7.62s · LEO 7.77–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.04s · NINA 2.14–3.11s · DAN 3.21–5.08s · LEO 5.18–8.27s.
 
 **Dialogue:**
 **LEO:** One, two, three, four, five, six.
@@ -499,7 +501,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **LEO:** And all six came back on the very same trip.
 
-## SHOT_024 | 00:05:45–00:06:00 | Travel-size fashion
+## SHOT_024 | 00:03:50–00:04:00 | Travel-size fashion
 
 **Characters:** DAN, MAX, MAYA. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
 **Composition:** Wide-to-medium composition with clear doorway and storage geography.
@@ -509,7 +511,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.17s · MAX 3.33–5.30s · MAYA 5.45–8.38s · DAN 8.53–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.11s · MAX 2.22–3.53s · MAYA 3.63–5.59s · DAN 5.69–8.27s.
 
 **Dialogue:**
 **DAN:** My new travel-size socks. Very economical.
@@ -520,7 +522,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** Okay, Max. What gives this particular pair away?
 
-## SHOT_025 | 00:06:00–00:06:15 | A description worth hearing
+## SHOT_025 | 00:04:00–00:04:10 | A description worth hearing
 
 **Characters:** MAX, DAN, MAYA. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
 **Composition:** Warm eye-level medium coverage, maintaining established room axis.
@@ -530,7 +532,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_07.png](assets/storyboards/BOARD_07.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–4.19s · DAN 4.34–6.99s · MAYA 7.14–9.79s · MAX 9.94–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.79s · DAN 2.89–4.66s · MAYA 4.76–6.53s · MAX 6.63–9.53s.
 
 **Dialogue:**
 **MAX:** Mine have green heels, and both socks fit me.
@@ -541,7 +543,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** Good. I'd rather my socks stayed the size they are.
 
-## SHOT_026 | 00:06:15–00:06:30 | Privacy is part of helping
+## SHOT_026 | 00:04:10–00:04:20 | Privacy is part of helping
 
 **Characters:** ELLA, NINA, MAYA. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
 **Composition:** Medium three-quarter coverage with hands and active object visible.
@@ -551,7 +553,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_07.png](assets/storyboards/BOARD_07.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–3.55s · NINA 3.70–6.19s · MAYA 6.34–9.64s · ELLA 9.79–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.37s · NINA 2.47–4.13s · MAYA 4.23–6.43s · ELLA 6.53–9.53s.
 
 **Dialogue:**
 **ELLA:** Do we need to sort Grandma's pouch too?
@@ -562,7 +564,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **ELLA:** So we can help her best by leaving that one closed.
 
-## SHOT_027 | 00:06:30–00:06:45 | A method, not a race
+## SHOT_027 | 00:04:20–00:04:30 | A method, not a race
 
 **Characters:** MAYA, DAN, LEO. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
 **Composition:** Counter- or child-height medium framing, without adding offscreen characters.
@@ -572,7 +574,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_07.png](assets/storyboards/BOARD_07.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–4.73s · DAN 4.88–7.16s · LEO 7.31–9.15s · MAYA 9.30–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–3.15s · DAN 3.25–4.77s · LEO 4.87–6.10s · MAYA 6.20–8.89s.
 
 **Dialogue:**
 **MAYA:** Describe the pair, ask its owner, then add a name.
@@ -583,7 +585,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAYA:** Exactly. No cube goes anywhere till its owner agrees.
 
-## SHOT_028 | 00:06:45–00:07:00 | A list with room for names
+## SHOT_028 | 00:04:30–00:04:40 | A list with room for names
 
 **Characters:** NINA, ELLA, LEO. **Location:** LAUNDRY_NOOK. **Wardrobe:** W01 only.
 **Composition:** Wide-to-medium composition with clear doorway and storage geography.
@@ -593,7 +595,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_07.png](assets/storyboards/BOARD_07.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): NINA 0.25–4.73s · ELLA 4.88–6.72s · LEO 6.87–9.15s · NINA 9.30–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–3.15s · ELLA 3.25–4.48s · LEO 4.58–6.10s · NINA 6.20–9.19s.
 
 **Dialogue:**
 **NINA:** We can borrow the method without copying Grandma's personal list.
@@ -604,7 +606,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **NINA:** Good. We'll write down what belongs to our own family.
 
-## SHOT_029 | 00:07:00–00:07:15 | All six back on the counter
+## SHOT_029 | 00:04:40–00:04:50 | All six back on the counter
 
 **Characters:** DAN, ELLA, MAX. **Location:** LAUNDRY_NOOK. **Wardrobe:** W01 only.
 **Composition:** Warm eye-level medium coverage, maintaining established room axis.
@@ -614,7 +616,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–2.09s · MAX 2.24–4.96s · ELLA 5.11–7.83s · MAX 7.98–12.46s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.39s · MAX 1.49–3.31s · ELLA 3.41–5.22s · MAX 5.32–8.31s.
 
 **Dialogue:**
 **DAN:** No suitcase this time.
@@ -625,7 +627,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** I'll look at the heels before we guess about sizes.
 
-## SHOT_030 | 00:07:15–00:07:30 | A guest room left tidy
+## SHOT_030 | 00:04:50–00:05:00 | A guest room left tidy
 
 **Characters:** MAYA. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
 **Composition:** Medium three-quarter coverage with hands and active object visible.
@@ -635,7 +637,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Ruth neither answers nor reappears; this line is spoken quietly to herself, not a phone or extra cameo.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–3.85s · MAYA 4.00–8.48s · MAYA 8.63–10.91s · MAYA 11.06–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–2.57s · MAYA 2.67–5.65s · MAYA 5.75–7.27s · MAYA 7.37–9.48s.
 
 **Dialogue:**
 **MAYA:** There, that's the last thing back in place.
@@ -646,7 +648,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAYA:** Sleep well. The sorting can wait outside.
 
-## SHOT_031 | 00:07:30–00:07:45 | Six empty name tabs
+## SHOT_031 | 00:05:00–00:05:10 | Six empty name tabs
 
 **Characters:** MAYA, NINA, DAN. **Location:** LAUNDRY_NOOK. **Wardrobe:** W01 only.
 **Composition:** Counter- or child-height medium framing, without adding offscreen characters.
@@ -656,7 +658,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–2.53s · NINA 2.68–5.40s · DAN 5.55–7.83s · MAYA 7.98–12.46s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.69s · NINA 1.79–3.60s · DAN 3.70–5.22s · MAYA 5.32–8.31s.
 
 **Dialogue:**
 **MAYA:** The room is tidy again.
@@ -667,7 +669,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAYA:** Good. I want to know whose pair we're holding first.
 
-## SHOT_032 | 00:07:45–00:08:00 | Green heels first
+## SHOT_032 | 00:05:10–00:05:20 | Green heels first
 
 **Characters:** MAX, NINA, DAN. **Location:** LAUNDRY_NOOK. **Wardrobe:** W01 only.
 **Composition:** Wide-to-medium composition with clear doorway and storage geography.
@@ -677,7 +679,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): NINA 0.25–2.81s · MAX 2.96–5.51s · DAN 5.66–7.23s · MAX 7.38–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–1.87s · MAX 1.97–3.67s · DAN 3.77–4.82s · MAX 4.92–8.27s.
 
 **Dialogue:**
 **NINA:** What makes this pair yours?
@@ -688,7 +690,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** Look, both heels are green. I checked the other one.
 
-## SHOT_033 | 00:08:00–00:08:15 | Two socks make this pair
+## SHOT_033 | 00:05:20–00:05:30 | Two socks make this pair
 
 **Characters:** MAX, ELLA, NINA. **Location:** LAUNDRY_NOOK. **Wardrobe:** W01 only.
 **Composition:** Warm eye-level medium coverage, maintaining established room axis.
@@ -698,7 +700,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–1.65s · MAX 1.80–2.76s · NINA 2.91–5.19s · ELLA 5.34–9.82s · MAX 9.97–14.01s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.10s · MAX 1.20–1.84s · NINA 1.94–3.46s · ELLA 3.56–6.55s · MAX 6.65–9.34s.
 
 **Dialogue:**
 **ELLA:** Two matching socks.
@@ -711,7 +713,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** Good. I don't want to open six every morning.
 
-## SHOT_034 | 00:08:15–00:08:30 | A name where it belongs
+## SHOT_034 | 00:05:30–00:05:40 | A name where it belongs
 
 **Characters:** NINA, MAX, LEO. **Location:** LAUNDRY_NOOK. **Wardrobe:** W01 only.
 **Composition:** Medium three-quarter coverage with hands and active object visible.
@@ -721,7 +723,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–3.76s · MAX 3.91–5.70s · NINA 5.85–9.36s · MAX 9.51–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.51s · MAX 2.61–3.80s · NINA 3.90–6.24s · MAX 6.34–9.53s.
 
 **Dialogue:**
 **LEO:** Name on the cube, not on the sock.
@@ -732,7 +734,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** Then I can find it even before school in the morning.
 
-## SHOT_035 | 00:08:30–00:08:45 | One checked home
+## SHOT_035 | 00:05:40–00:05:50 | One checked home
 
 **Characters:** MAX, DAN. **Location:** LAUNDRY_NOOK. **Wardrobe:** W01 only.
 **Composition:** Counter- or child-height medium framing, without adding offscreen characters.
@@ -742,7 +744,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–1.82s · DAN 1.97–5.02s · MAX 5.17–8.71s · DAN 8.86–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.21s · DAN 1.31–3.35s · MAX 3.45–5.81s · DAN 5.91–8.27s.
 
 **Dialogue:**
 **MAX:** Mine, checked, closed.
@@ -753,7 +755,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** Sure can. No need to unzip anything.
 
-## SHOT_036 | 00:08:45–00:09:00 | Coral stars next
+## SHOT_036 | 00:05:50–00:06:00 | Coral stars next
 
 **Characters:** ELLA, MAYA, DAN. **Location:** LAUNDRY_NOOK. **Wardrobe:** W01 only.
 **Composition:** Wide-to-medium composition with clear doorway and storage geography.
@@ -763,7 +765,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–2.09s · DAN 2.24–4.52s · MAYA 4.67–6.07s · ELLA 6.22–10.26s · MAYA 10.41–14.01s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.39s · DAN 1.49–3.01s · MAYA 3.11–4.05s · ELLA 4.15–6.84s · MAYA 6.94–9.34s.
 
 **Dialogue:**
 **ELLA:** These have coral stars.
@@ -776,7 +778,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAYA:** Then I'd better put your name on them.
 
-## SHOT_037 | 00:09:00–00:09:15 | Recognize and ask
+## SHOT_037 | 00:06:00–00:06:10 | Recognize and ask
 
 **Characters:** ELLA, MAYA, MAX. **Location:** LAUNDRY_NOOK. **Wardrobe:** W01 only.
 **Composition:** Warm eye-level medium coverage, maintaining established room axis.
@@ -786,7 +788,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_10.png](assets/storyboards/BOARD_10.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–3.41s · MAYA 3.56–5.40s · MAX 5.55–8.27s · ELLA 8.42–12.90s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.27s · MAYA 2.37–3.60s · MAX 3.70–5.51s · ELLA 5.61–8.60s.
 
 **Dialogue:**
 **ELLA:** They are mine. I chose the stars.
@@ -797,7 +799,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **ELLA:** And my stars can have their own place next door.
 
-## SHOT_038 | 00:09:15–00:09:30 | Ella on the second cube
+## SHOT_038 | 00:06:10–00:06:20 | Ella on the second cube
 
 **Characters:** MAYA, ELLA, NINA. **Location:** LAUNDRY_NOOK. **Wardrobe:** W01 only.
 **Composition:** Medium three-quarter coverage with hands and active object visible.
@@ -807,7 +809,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_10.png](assets/storyboards/BOARD_10.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–2.09s · ELLA 2.24–3.64s · NINA 3.79–5.19s · ELLA 5.34–9.82s · MAYA 9.97–13.13s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.39s · ELLA 1.49–2.43s · NINA 2.53–3.46s · ELLA 3.56–6.55s · MAYA 6.65–8.75s.
 
 **Dialogue:**
 **MAYA:** Ella, on the handle.
@@ -820,7 +822,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAYA:** We can leave the suitcase to Grandma.
 
-## SHOT_039 | 00:09:30–00:09:45 | Orange heels, larger size
+## SHOT_039 | 00:06:20–00:06:30 | Orange heels, larger size
 
 **Characters:** LEO, DAN, ELLA. **Location:** LAUNDRY_NOOK. **Wardrobe:** W01 only.
 **Composition:** Counter- or child-height medium framing, without adding offscreen characters.
@@ -830,7 +832,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_10.png](assets/storyboards/BOARD_10.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–2.70s · LEO 2.85–4.36s · ELLA 4.51–7.43s · LEO 7.58–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.80s · LEO 1.90–2.91s · ELLA 3.01–4.95s · LEO 5.05–8.27s.
 
 **Dialogue:**
 **DAN:** Orange heels, longer than Max's.
@@ -841,7 +843,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **LEO:** That's how I can spot them beside his little pair.
 
-## SHOT_040 | 00:09:45–00:10:00 | A question before a label
+## SHOT_040 | 00:06:30–00:06:40 | A question before a label
 
 **Characters:** DAN, LEO. **Location:** LAUNDRY_NOOK. **Wardrobe:** W01 only.
 **Composition:** Wide-to-medium composition with clear doorway and storage geography.
@@ -851,7 +853,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_10.png](assets/storyboards/BOARD_10.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–2.97s · LEO 3.12–5.40s · DAN 5.55–8.71s · LEO 8.86–12.90s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.98s · LEO 2.08–3.60s · DAN 3.70–5.81s · LEO 5.91–8.60s.
 
 **Dialogue:**
 **DAN:** May I label this cube Leo?
@@ -862,7 +864,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **LEO:** Good. Now I can find them without opening Max's.
 
-## SHOT_041 | 00:10:00–00:10:15 | Leo joins the checked row
+## SHOT_041 | 00:06:40–00:06:50 | Leo joins the checked row
 
 **Characters:** DAN, LEO, NINA. **Location:** LAUNDRY_NOOK. **Wardrobe:** W01 only.
 **Composition:** Warm eye-level medium coverage, maintaining established room axis.
@@ -872,7 +874,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–1.65s · NINA 1.80–3.20s · DAN 3.35–5.19s · NINA 5.34–9.82s · LEO 9.97–13.13s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.10s · NINA 1.20–2.13s · DAN 2.23–3.46s · NINA 3.56–6.55s · LEO 6.65–8.75s.
 
 **Dialogue:**
 **LEO:** Checked and zipped.
@@ -885,7 +887,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **LEO:** I can see my name from here.
 
-## SHOT_042 | 00:10:15–00:10:30 | Plum dots from cube four
+## SHOT_042 | 00:06:50–00:07:00 | Plum dots from cube four
 
 **Characters:** MAYA, DAN, NINA. **Location:** LAUNDRY_NOOK. **Wardrobe:** W01 only.
 **Composition:** Medium three-quarter coverage with hands and active object visible.
@@ -895,7 +897,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–2.61s · DAN 2.76–4.66s · NINA 4.81–8.07s · DAN 8.22–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.74s · DAN 1.84–3.11s · NINA 3.21–5.38s · DAN 5.48–8.27s.
 
 **Dialogue:**
 **MAYA:** Plum dots. These are mine.
@@ -906,7 +908,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** Maya, are the plum dots the ones you picked?
 
-## SHOT_043 | 00:10:30–00:10:45 | Each person knows her things
+## SHOT_043 | 00:07:00–00:07:10 | Each person knows her things
 
 **Characters:** MAYA, NINA, DAN. **Location:** LAUNDRY_NOOK. **Wardrobe:** W01 only.
 **Composition:** Counter- or child-height medium framing, without adding offscreen characters.
@@ -916,7 +918,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–2.09s · NINA 2.24–4.08s · DAN 4.23–7.83s · MAYA 7.98–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.39s · NINA 1.49–2.72s · DAN 2.82–5.22s · MAYA 5.32–8.89s.
 
 **Dialogue:**
 **MAYA:** I chose the dots.
@@ -927,7 +929,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAYA:** We can see why guessing would've put them in the wrong cube.
 
-## SHOT_044 | 00:10:45–00:11:00 | Maya gets her own label
+## SHOT_044 | 00:07:10–00:07:20 | Maya gets her own label
 
 **Characters:** MAYA, DAN. **Location:** LAUNDRY_NOOK. **Wardrobe:** W01 only.
 **Composition:** Wide-to-medium composition with clear doorway and storage geography.
@@ -937,7 +939,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–2.07s · MAYA 2.22–4.04s · DAN 4.19–6.44s · MAYA 6.59–10.15s · DAN 10.30–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.38s · MAYA 1.48–2.69s · DAN 2.79–4.29s · MAYA 4.39–6.77s · DAN 6.87–9.53s.
 
 **Dialogue:**
 **DAN:** Maya. Plum dots. Confirmed.
@@ -950,7 +952,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** Good. That's one search I won't have to make.
 
-## SHOT_045 | 00:11:00–00:11:15 | Plain teal appears
+## SHOT_045 | 00:07:20–00:07:30 | Plain teal appears
 
 **Characters:** NINA, ELLA, DAN. **Location:** LAUNDRY_NOOK. **Wardrobe:** W01 only.
 **Composition:** Warm eye-level medium coverage, maintaining established room axis.
@@ -960,7 +962,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–2.97s · NINA 3.12–5.40s · DAN 5.55–8.27s · NINA 8.42–12.46s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.98s · NINA 2.08–3.60s · DAN 3.70–5.51s · NINA 5.61–8.31s.
 
 **Dialogue:**
 **ELLA:** These are the plain teal ones.
@@ -971,7 +973,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **NINA:** Good. That saves somebody opening the wrong cube tomorrow.
 
-## SHOT_046 | 00:11:15–00:11:30 | Ownership is not a contest
+## SHOT_046 | 00:07:30–00:07:40 | Ownership is not a contest
 
 **Characters:** NINA, MAX, MAYA. **Location:** LAUNDRY_NOOK. **Wardrobe:** W01 only.
 **Composition:** Medium three-quarter coverage with hands and active object visible.
@@ -981,7 +983,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–2.97s · NINA 3.12–5.84s · MAYA 5.99–7.83s · MAX 7.98–12.46s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.98s · NINA 2.08–3.89s · MAYA 3.99–5.22s · MAX 5.32–8.31s.
 
 **Dialogue:**
 **MAX:** Would six identical pairs be easier?
@@ -992,7 +994,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** Good thing my heels are green. They're quicker to spot.
 
-## SHOT_047 | 00:11:30–00:11:45 | Nina in clear letters
+## SHOT_047 | 00:07:40–00:07:50 | Nina in clear letters
 
 **Characters:** NINA, MAYA, LEO. **Location:** LAUNDRY_NOOK. **Wardrobe:** W01 only.
 **Composition:** Counter- or child-height medium framing, without adding offscreen characters.
@@ -1002,7 +1004,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–1.21s · NINA 1.36–2.32s · LEO 2.47–5.63s · MAYA 5.78–10.26s · NINA 10.41–13.57s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–0.81s · NINA 0.91–1.55s · LEO 1.65–3.75s · MAYA 3.85–6.84s · NINA 6.94–9.05s.
 
 **Dialogue:**
 **MAYA:** Nina, checked.
@@ -1015,7 +1017,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **NINA:** Let's still ask the person they fit.
 
-## SHOT_048 | 00:11:45–00:12:00 | The largest pair at last
+## SHOT_048 | 00:07:50–00:08:00 | The largest pair at last
 
 **Characters:** DAN, LEO, MAX. **Location:** LAUNDRY_NOOK. **Wardrobe:** W01 only.
 **Composition:** Wide-to-medium composition with clear doorway and storage geography.
@@ -1025,7 +1027,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–2.09s · DAN 2.24–4.08s · MAX 4.23–5.63s · DAN 5.78–10.26s · MAX 10.41–13.57s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.39s · DAN 1.49–2.72s · MAX 2.82–3.75s · DAN 3.85–6.84s · MAX 6.94–9.05s.
 
 **Dialogue:**
 **LEO:** Navy stripes. Largest size.
@@ -1038,7 +1040,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** That would've been quite a squeeze, Dad.
 
-## SHOT_049 | 00:12:00–00:12:15 | A joke that stays a joke
+## SHOT_049 | 00:08:00–00:08:10 | A joke that stays a joke
 
 **Characters:** DAN, MAX, ELLA. **Location:** LAUNDRY_NOOK. **Wardrobe:** W01 only.
 **Composition:** Warm eye-level medium coverage, maintaining established room axis.
@@ -1048,7 +1050,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–2.97s · ELLA 3.12–5.40s · MAX 5.55–7.39s · DAN 7.54–12.46s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.98s · ELLA 2.08–3.60s · MAX 3.70–4.93s · DAN 5.03–8.31s.
 
 **Dialogue:**
 **DAN:** Suitable for feet. Unsuitable for meetings.
@@ -1059,7 +1061,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** Good. My neck and my feet each get the right outfit.
 
-## SHOT_050 | 00:12:15–00:12:30 | Dad signs his own address
+## SHOT_050 | 00:08:10–00:08:20 | Dad signs his own address
 
 **Characters:** DAN, NINA, LEO. **Location:** LAUNDRY_NOOK. **Wardrobe:** W01 only.
 **Composition:** Medium three-quarter coverage with hands and active object visible.
@@ -1069,7 +1071,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–2.97s · NINA 3.12–5.40s · LEO 5.55–7.39s · NINA 7.54–12.46s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.98s · NINA 2.08–3.60s · LEO 3.70–4.93s · NINA 5.03–8.31s.
 
 **Dialogue:**
 **DAN:** Dan. Navy stripes. Staying at home.
@@ -1080,7 +1082,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **NINA:** Great. Now let's give all six an address we can find.
 
-## SHOT_051 | 00:12:30–00:12:45 | Read before moving
+## SHOT_051 | 00:08:20–00:08:30 | Read before moving
 
 **Characters:** MAYA, NINA, LEO. **Location:** LAUNDRY_NOOK. **Wardrobe:** W01 only.
 **Composition:** Counter- or child-height medium framing, without adding offscreen characters.
@@ -1090,7 +1092,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–2.53s · MAYA 2.68–4.96s · NINA 5.11–7.83s · LEO 7.98–12.46s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.69s · MAYA 1.79–3.31s · NINA 3.41–5.22s · LEO 5.32–8.31s.
 
 **Dialogue:**
 **LEO:** Six names, with no duplicates.
@@ -1101,7 +1103,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **LEO:** Somewhere that makes sense when we're looking in a hurry.
 
-## SHOT_052 | 00:12:45–00:13:00 | Pairs and individual socks
+## SHOT_052 | 00:08:30–00:08:40 | Pairs and individual socks
 
 **Characters:** LEO, MAX, DAN. **Location:** LAUNDRY_NOOK. **Wardrobe:** W01 only.
 **Composition:** Wide-to-medium composition with clear doorway and storage geography.
@@ -1111,7 +1113,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–2.81s · MAX 2.96–4.03s · DAN 4.18–7.23s · MAX 7.38–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.87s · MAX 1.97–2.69s · DAN 2.79–4.82s · MAX 4.92–8.27s.
 
 **Dialogue:**
 **LEO:** Six pairs means twelve socks.
@@ -1122,7 +1124,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** Good. None of those twelve has to travel by itself.
 
-## SHOT_053 | 00:13:00–00:13:15 | Nothing is missing
+## SHOT_053 | 00:08:40–00:08:50 | Nothing is missing
 
 **Characters:** ELLA, DAN, MAYA. **Location:** LAUNDRY_NOOK. **Wardrobe:** W01 only.
 **Composition:** Warm eye-level medium coverage, maintaining established room axis.
@@ -1132,7 +1134,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–2.53s · DAN 2.68–4.52s · MAYA 4.67–7.39s · ELLA 7.54–12.90s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.69s · DAN 1.79–3.01s · MAYA 3.11–4.93s · ELLA 5.03–8.60s.
 
 **Dialogue:**
 **ELLA:** No lonely socks left here.
@@ -1143,7 +1145,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **ELLA:** Good. The basket bottom was the last place I wanted to check.
 
-## SHOT_054 | 00:13:15–00:13:30 | No need to unpack again
+## SHOT_054 | 00:08:50–00:09:00 | No need to unpack again
 
 **Characters:** NINA, LEO, MAX. **Location:** LAUNDRY_NOOK. **Wardrobe:** W01 only.
 **Composition:** Medium three-quarter coverage with hands and active object visible.
@@ -1153,7 +1155,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–2.97s · NINA 3.12–5.40s · LEO 5.55–9.59s · MAX 9.74–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.98s · NINA 2.08–3.60s · LEO 3.70–6.39s · MAX 6.49–9.48s.
 
 **Dialogue:**
 **MAX:** Should we count one more time?
@@ -1164,7 +1166,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** Okay. I'd rather find mine than count them all again.
 
-## SHOT_055 | 00:13:30–00:13:45 | Six places in the cubby
+## SHOT_055 | 00:09:00–00:09:10 | Six places in the cubby
 
 **Characters:** MAYA, NINA, DAN. **Location:** LAUNDRY_NOOK. **Wardrobe:** W01 only.
 **Composition:** Counter- or child-height medium framing, without adding offscreen characters.
@@ -1174,7 +1176,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–2.97s · NINA 3.12–5.40s · DAN 5.55–8.71s · MAYA 8.86–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.98s · NINA 2.08–3.60s · DAN 3.70–5.81s · MAYA 5.91–9.19s.
 
 **Dialogue:**
 **MAYA:** Adults across the top, children below.
@@ -1185,7 +1187,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAYA:** Then keep the names facing this way as they go in.
 
-## SHOT_056 | 00:13:45–00:14:00 | Left means this view
+## SHOT_056 | 00:09:10–00:09:20 | Left means this view
 
 **Characters:** DAN, ELLA, LEO. **Location:** LAUNDRY_NOOK. **Wardrobe:** W01 only.
 **Composition:** Wide-to-medium composition with clear doorway and storage geography.
@@ -1195,7 +1197,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.41s · ELLA 3.56–5.84s · LEO 5.99–7.83s · DAN 7.98–12.90s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.27s · ELLA 2.37–3.89s · LEO 3.99–5.22s · DAN 5.32–8.60s.
 
 **Dialogue:**
 **DAN:** From where we stand: Dan, Maya, Nina.
@@ -1206,7 +1208,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** Good. It matters which way you're standing when you say left.
 
-## SHOT_057 | 00:14:00–00:14:15 | The three adult cubes
+## SHOT_057 | 00:09:20–00:09:30 | The three adult cubes
 
 **Characters:** DAN, MAYA, NINA. **Location:** LAUNDRY_NOOK. **Wardrobe:** W01 only.
 **Composition:** Warm eye-level medium coverage, maintaining established room axis.
@@ -1216,7 +1218,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–2.53s · NINA 2.68–4.96s · DAN 5.11–8.27s · NINA 8.42–12.90s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.69s · NINA 1.79–3.31s · DAN 3.41–5.51s · NINA 5.61–8.60s.
 
 **Dialogue:**
 **MAYA:** Mine is in the middle.
@@ -1227,7 +1229,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **NINA:** And all three labels face the person doing the looking.
 
-## SHOT_058 | 00:14:15–00:14:30 | The three child cubes
+## SHOT_058 | 00:09:30–00:09:40 | The three child cubes
 
 **Characters:** LEO, ELLA, MAX, NINA. **Location:** LAUNDRY_NOOK. **Wardrobe:** W01 only.
 **Composition:** Medium three-quarter coverage with hands and active object visible.
@@ -1237,7 +1239,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–1.10s · ELLA 1.25–2.10s · MAX 2.25–4.53s · NINA 4.68–9.60s · MAX 9.75–13.35s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–0.73s · ELLA 0.83–1.40s · MAX 1.50–3.02s · NINA 3.12–6.40s · MAX 6.50–8.90s.
 
 **Dialogue:**
 **LEO:** Left.
@@ -1250,7 +1252,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** I can reach the handle all by myself.
 
-## SHOT_059 | 00:14:30–00:14:45 | Names on the shelf map
+## SHOT_059 | 00:09:40–00:09:50 | Names on the shelf map
 
 **Characters:** NINA, MAYA, ELLA. **Location:** LAUNDRY_NOOK. **Wardrobe:** W01 only.
 **Composition:** Counter- or child-height medium framing, without adding offscreen characters.
@@ -1260,7 +1262,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–3.41s · MAYA 3.56–5.84s · NINA 5.99–9.15s · ELLA 9.30–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.27s · MAYA 2.37–3.89s · NINA 3.99–6.10s · ELLA 6.20–9.48s.
 
 **Dialogue:**
 **ELLA:** We can read them before opening anything.
@@ -1271,7 +1273,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **ELLA:** Tomorrow I'll only have to open the one with my name.
 
-## SHOT_060 | 00:14:45–00:15:00 | Cap on, job closed
+## SHOT_060 | 00:09:50–00:10:00 | Cap on, job closed
 
 **Characters:** DAN, NINA, MAX. **Location:** LAUNDRY_NOOK. **Wardrobe:** W01 only.
 **Composition:** Wide-to-medium composition with clear doorway and storage geography.
@@ -1281,7 +1283,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.30s · MAX 3.45–6.00s · NINA 6.15–7.72s · MAX 7.87–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.20s · MAX 2.30–4.00s · NINA 4.10–5.15s · MAX 5.25–8.27s.
 
 **Dialogue:**
 **DAN:** Even the marker has a place.
@@ -1292,7 +1294,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** Good. It wouldn't have much to wear on vacation.
 
-## SHOT_061 | 00:15:00–00:15:15 | An empty basket can rest
+## SHOT_061 | 00:10:00–00:10:10 | An empty basket can rest
 
 **Characters:** MAYA, DAN. **Location:** LAUNDRY_NOOK. **Wardrobe:** W01 only.
 **Composition:** Warm eye-level medium coverage, maintaining established room axis.
@@ -1302,7 +1304,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–3.85s · DAN 4.00–6.72s · MAYA 6.87–10.47s · DAN 10.62–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–2.57s · DAN 2.67–4.48s · MAYA 4.58–6.98s · DAN 7.08–9.19s.
 
 **Dialogue:**
 **MAYA:** This can wait for the next clean load.
@@ -1313,7 +1315,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** Yes. That'll make the next load easier.
 
-## SHOT_062 | 00:15:15–00:15:30 | Find it without opening it
+## SHOT_062 | 00:10:10–00:10:20 | Find it without opening it
 
 **Characters:** MAX, ELLA, LEO. **Location:** LAUNDRY_NOOK. **Wardrobe:** W01 only.
 **Composition:** Medium three-quarter coverage with hands and active object visible.
@@ -1323,7 +1325,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–1.65s · ELLA 1.80–3.64s · LEO 3.79–7.83s · MAX 7.98–12.46s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.10s · ELLA 1.20–2.43s · LEO 2.53–5.22s · MAX 5.32–8.31s.
 
 **Dialogue:**
 **MAX:** Mine is bottom-right.
@@ -1334,7 +1336,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** I like directions I can use before I'm fully awake.
 
-## SHOT_063 | 00:15:30–00:15:45 | A towel for the guest
+## SHOT_063 | 00:10:20–00:10:30 | A towel for the guest
 
 **Characters:** MAYA, NINA. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
 **Composition:** Counter- or child-height medium framing, without adding offscreen characters.
@@ -1344,7 +1346,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–2.40s · NINA 2.55–5.54s · MAYA 5.69–9.50s · NINA 9.65–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.60s · NINA 1.70–3.69s · MAYA 3.79–6.33s · NINA 6.43–9.53s.
 
 **Dialogue:**
 **MAYA:** A clean towel for Mom.
@@ -1355,7 +1357,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **NINA:** Right. She gets to choose what goes in her own things.
 
-## SHOT_064 | 00:15:45–00:16:00 | Ask about the place
+## SHOT_064 | 00:10:30–00:10:40 | Ask about the place
 
 **Characters:** MAYA, DAN, NINA. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
 **Composition:** Wide-to-medium composition with clear doorway and storage geography.
@@ -1365,7 +1367,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–2.97s · MAYA 3.12–5.84s · NINA 5.99–8.27s · DAN 8.42–12.90s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.98s · MAYA 2.08–3.89s · NINA 3.99–5.51s · DAN 5.61–8.60s.
 
 **Dialogue:**
 **DAN:** The towel goes in this drawer?
@@ -1376,7 +1378,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** I like asking before I have to carry it back.
 
-## SHOT_065 | 00:16:00–00:16:15 | The towel finds its drawer
+## SHOT_065 | 00:10:40–00:10:50 | The towel finds its drawer
 
 **Characters:** NINA, MAYA, DAN. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
 **Composition:** Warm eye-level medium coverage, maintaining established room axis.
@@ -1386,7 +1388,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): NINA 0.25–2.01s · DAN 2.16–3.92s · MAYA 4.08–5.84s · NINA 5.99–10.28s · MAYA 10.43–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–1.34s · DAN 1.44–2.61s · MAYA 2.72–3.89s · NINA 3.99–6.85s · MAYA 6.95–9.53s.
 
 **Dialogue:**
 **NINA:** One towel, top drawer.
@@ -1399,7 +1401,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAYA:** Let's leave the rest just how Mom likes it.
 
-## SHOT_066 | 00:16:15–00:16:30 | A blanket already at home
+## SHOT_066 | 00:10:50–00:11:00 | A blanket already at home
 
 **Characters:** ELLA, MAYA, DAN. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
 **Composition:** Medium three-quarter coverage with hands and active object visible.
@@ -1409,7 +1411,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–3.41s · DAN 3.56–6.72s · MAYA 6.87–7.83s · ELLA 7.98–12.46s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.27s · DAN 2.37–4.48s · MAYA 4.58–5.22s · ELLA 5.32–8.31s.
 
 **Dialogue:**
 **ELLA:** The blanket was already where it belongs.
@@ -1420,7 +1422,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **ELLA:** Thanks. A folded blanket doesn't really need a new address.
 
-## SHOT_067 | 00:16:30–00:16:45 | An empty hanger can stay empty
+## SHOT_067 | 00:11:00–00:11:10 | An empty hanger can stay empty
 
 **Characters:** NINA, MAX, MAYA. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
 **Composition:** Counter- or child-height medium framing, without adding offscreen characters.
@@ -1430,7 +1432,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–3.85s · NINA 4.00–6.28s · MAYA 6.43–9.15s · MAX 9.30–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.57s · NINA 2.67–4.19s · MAYA 4.29–6.10s · MAX 6.20–9.48s.
 
 **Dialogue:**
 **MAX:** We did not find any pajamas to hang.
@@ -1441,7 +1443,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** So she can hang them herself if she feels like it.
 
-## SHOT_068 | 00:16:45–00:17:00 | The checklist comes back with us
+## SHOT_068 | 00:11:10–00:11:20 | The checklist comes back with us
 
 **Characters:** LEO, DAN, MAYA. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
 **Composition:** Wide-to-medium composition with clear doorway and storage geography.
@@ -1451,7 +1453,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–2.53s · DAN 2.68–5.40s · MAYA 5.55–7.83s · LEO 7.98–12.46s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.69s · DAN 1.79–3.60s · MAYA 3.70–5.22s · LEO 5.32–8.31s.
 
 **Dialogue:**
 **LEO:** Grandma's list goes back here.
@@ -1462,7 +1464,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **LEO:** Good. Grandma won't have to hunt for her own list.
 
-## SHOT_069 | 00:17:00–00:17:15 | Clean hands after the job
+## SHOT_069 | 00:11:20–00:11:30 | Clean hands after the job
 
 **Characters:** NINA, MAYA, MAX. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Warm eye-level medium coverage, maintaining established room axis.
@@ -1472,7 +1474,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): NINA 0.25–2.09s · MAX 2.24–4.96s · MAYA 5.11–8.71s · MAX 8.86–12.90s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–1.39s · MAX 1.49–3.31s · MAYA 3.41–5.81s · MAX 5.91–8.60s.
 
 **Dialogue:**
 **NINA:** Hands washed after sorting.
@@ -1483,7 +1485,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** Good. My hands can retire from sock duty now.
 
-## SHOT_070 | 00:17:15–00:17:30 | Two good organizers
+## SHOT_070 | 00:11:30–00:11:40 | Two good organizers
 
 **Characters:** MAYA, NINA, DAN. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Medium three-quarter coverage with hands and active object visible.
@@ -1493,7 +1495,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–2.97s · NINA 3.12–6.28s · DAN 6.43–8.71s · MAYA 8.86–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.98s · NINA 2.08–4.19s · DAN 4.29–5.81s · MAYA 5.91–9.19s.
 
 **Dialogue:**
 **MAYA:** Your questions made the sorting easy.
@@ -1504,7 +1506,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAYA:** So tomorrow morning nobody has to ask where their socks went.
 
-## SHOT_071 | 00:17:30–00:17:45 | Helping is more than speed
+## SHOT_071 | 00:11:40–00:11:50 | Helping is more than speed
 
 **Characters:** DAN, LEO, ELLA. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Counter- or child-height medium framing, without adding offscreen characters.
@@ -1514,7 +1516,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–5.04s · LEO 5.19–7.41s · ELLA 7.56–10.21s · DAN 10.36–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–3.36s · LEO 3.46–4.94s · ELLA 5.04–6.81s · DAN 6.91–9.53s.
 
 **Dialogue:**
 **DAN:** I wanted to make the visit easy. I moved too fast.
@@ -1525,7 +1527,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** Agreed. Even a quick question would've saved two trips.
 
-## SHOT_072 | 00:17:45–00:18:00 | A very short journey
+## SHOT_072 | 00:11:50–00:12:00 | A very short journey
 
 **Characters:** MAX, NINA, DAN. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Wide-to-medium composition with clear doorway and storage geography.
@@ -1535,7 +1537,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–2.97s · DAN 3.12–5.84s · NINA 5.99–9.15s · MAX 9.30–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.98s · DAN 2.08–3.89s · NINA 3.99–6.10s · MAX 6.20–8.89s.
 
 **Dialogue:**
 **MAX:** Our socks almost went on vacation.
@@ -1546,7 +1548,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** Next time they're staying here without buying a ticket.
 
-## SHOT_073 | 00:18:00–00:18:15 | Six people, familiar seats
+## SHOT_073 | 00:12:00–00:12:10 | Six people, familiar seats
 
 **Characters:** DAN, MAYA, NINA, LEO, ELLA, MAX. **Location:** HOME_TABLE. **Wardrobe:** W01 only.
 **Composition:** Seated medium coverage from the original dining axis; preserve all six canonical seats.
@@ -1556,7 +1558,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–2.53s · DAN 2.68–4.96s · MAX 5.11–7.83s · ELLA 7.98–12.90s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.69s · DAN 1.79–3.31s · MAX 3.41–5.22s · ELLA 5.32–8.60s.
 
 **Dialogue:**
 **MAYA:** A peaceful table at last.
@@ -1567,7 +1569,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **ELLA:** My stars are off duty. They know where to go tomorrow.
 
-## SHOT_074 | 00:18:15–00:18:30 | The sock that stayed home
+## SHOT_074 | 00:12:10–00:12:20 | The sock that stayed home
 
 **Characters:** DAN, LEO, ELLA. **Location:** HOME_TABLE. **Wardrobe:** W01 only.
 **Composition:** Seated medium coverage from the original dining axis; preserve all six canonical seats.
@@ -1577,7 +1579,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–4.19s · DAN 4.34–7.41s · ELLA 7.56–10.21s · DAN 10.36–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.79s · DAN 2.89–4.94s · ELLA 5.04–6.81s · DAN 6.91–9.53s.
 
 **Dialogue:**
 **LEO:** Did Grandma tease you about that tie for years?
@@ -1588,7 +1590,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** I'm glad the family remembers the helping part too.
 
-## SHOT_075 | 00:18:30–00:18:45 | Labels do not replace people
+## SHOT_075 | 00:12:20–00:12:30 | Labels do not replace people
 
 **Characters:** MAYA, NINA, ELLA. **Location:** HOME_TABLE. **Wardrobe:** W01 only.
 **Composition:** Seated medium coverage from the original dining axis; preserve all six canonical seats.
@@ -1598,7 +1600,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–3.41s · MAYA 3.56–4.41s · NINA 4.56–8.16s · ELLA 8.31–13.23s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.27s · MAYA 2.37–2.94s · NINA 3.04–5.44s · ELLA 5.54–8.82s.
 
 **Dialogue:**
 **ELLA:** The label worked because we asked first.
@@ -1609,7 +1611,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **ELLA:** Good. My stars won't turn into dots behind a different name.
 
-## SHOT_076 | 00:18:45–00:19:00 | A place we can explain
+## SHOT_076 | 00:12:30–00:12:40 | A place we can explain
 
 **Characters:** LEO, MAX, DAN. **Location:** HOME_TABLE. **Wardrobe:** W01 only.
 **Composition:** Seated medium coverage from the original dining axis; preserve all six canonical seats.
@@ -1619,7 +1621,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–3.65s · MAX 3.80–6.78s · DAN 6.93–9.92s · LEO 10.07–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.43s · MAX 2.53–4.52s · DAN 4.62–6.61s · LEO 6.71–9.53s.
 
 **Dialogue:**
 **LEO:** Top row for adults. Bottom row for us.
@@ -1630,7 +1632,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **LEO:** Exactly. Turn toward the shelf first and the directions work.
 
-## SHOT_077 | 00:19:00–00:19:15 | Tomorrow can wait
+## SHOT_077 | 00:12:40–00:12:50 | Tomorrow can wait
 
 **Characters:** NINA, MAYA, MAX. **Location:** HOME_TABLE. **Wardrobe:** W01 only.
 **Composition:** Seated medium coverage from the original dining axis; preserve all six canonical seats.
@@ -1640,7 +1642,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): NINA 0.25–3.85s · MAX 4.00–6.72s · MAYA 6.87–9.15s · MAX 9.30–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–2.57s · MAX 2.67–4.48s · MAYA 4.58–6.10s · MAX 6.20–9.19s.
 
 **Dialogue:**
 **NINA:** Another day, we can organize the garden pots.
@@ -1651,7 +1653,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** I wonder whether Dad will give the pots apartments too.
 
-## SHOT_078 | 00:19:15–00:19:30 | No labels on grandmothers
+## SHOT_078 | 00:12:50–00:13:00 | No labels on grandmothers
 
 **Characters:** MAX, DAN, MAYA. **Location:** HOME_TABLE. **Wardrobe:** W01 only.
 **Composition:** Seated medium coverage from the original dining axis; preserve all six canonical seats.
@@ -1661,7 +1663,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–3.85s · MAYA 4.00–6.28s · DAN 6.43–9.15s · MAX 9.30–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.57s · MAYA 2.67–4.19s · DAN 4.29–6.10s · MAX 6.20–9.19s.
 
 **Dialogue:**
 **MAX:** Grandma does not need a label, does she?
@@ -1672,7 +1674,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** Good. That story was worth bringing along in her suitcase.
 
-## SHOT_079 | 00:19:30–00:19:45 | One record, finished
+## SHOT_079 | 00:13:00–00:13:10 | One record, finished
 
 **Characters:** DAN, NINA, LEO. **Location:** HOME_TABLE. **Wardrobe:** W01 only.
 **Composition:** Seated medium coverage from the original dining axis; preserve all six canonical seats.
@@ -1682,7 +1684,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.85s · NINA 4.00–6.72s · LEO 6.87–9.15s · NINA 9.30–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.57s · NINA 2.67–4.48s · LEO 4.58–6.10s · NINA 6.20–9.19s.
 
 **Dialogue:**
 **DAN:** Six pairs at home. One suitcase correctly packed.
@@ -1693,17 +1695,17 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **NINA:** And she'll wake up to a room that's still hers.
 
-## SHOT_080 | 00:19:45–00:20:00 | An ordinary kind of welcome
+## SHOT_080 | 00:13:10–00:13:20 | An ordinary kind of welcome
 
 **Characters:** DAN, MAYA, NINA, LEO, ELLA, MAX. **Location:** HOME_TABLE. **Wardrobe:** W01 only.
 **Composition:** Wide six-person closing view from the original dining axis, no extra chair or actor.
 **Action:** Hold the warm six-person tableau. Dan sets both empty hands on the table; everyone smiles toward the family, not an audience lesson. Add closing artwork within the existing slot.
 **Starting continuity:** All six in fixed seats; folded family record near Dan; no food or laundry on table.
-**Ending continuity:** Story ends at20:00 with sorting resolved, guest resting offscreen and no new action begun.
+**Ending continuity:** Story ends at13:20 with sorting resolved, guest resting offscreen and no new action begun.
 **Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–4.73s · MAYA 4.88–7.60s · MAX 7.75–9.15s · ELLA 9.30–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–3.15s · MAYA 3.25–5.07s · MAX 5.17–6.10s · ELLA 6.20–9.48s.
 
 **Dialogue:**
 **DAN:** Next time I help, I will ask where things belong.

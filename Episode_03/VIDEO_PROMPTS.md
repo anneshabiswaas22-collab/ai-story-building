@@ -1,14 +1,16 @@
 # Episode 03 — 80 video-generation prompts for STORY ONLY
 
-Written preproduction draft; **no videos have been generated**. Each entry is one planned 15-second editorial shot, 16:9, original stylized 3D, natural General American family conversation. Verify the selected service duration/capabilities/costs before separately authorized Task 5 production. No drills, quiz overlays or viewer-repeat pauses.
+Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start dialogue promptly, let meaningful actions and listener reactions occur during speech, and avoid filler silence, prolonged holds or unnatural motion. Speaker windows below are provisional editorial targets, not instructions to rush speech; verify against natural recorded performances. If a line cannot fit naturally, flag the shot for editorial review rather than truncating dialogue or artificially speeding it up.
+
+Written preproduction draft; **no videos have been generated**. Each entry is one planned 10-second editorial shot, 16:9, original stylized 3D, natural General American family conversation. Verify the selected service duration/capabilities/costs before separately authorized Task 5 production. No drills, quiz overlays or viewer-repeat pauses.
 
 Use the permanent [cast previews](assets/characters/) for discussion; restore the original owner-controlled PNG masters before production. Follow [CONTINUITY.md](CONTINUITY.md) and the [scene-reference plan](SCENE_REFERENCE_PLAN.md). Five location previews and 20 illustrated storyboard sheets covering all 80 shots are available in the [visual gallery](STORYBOARD_GALLERY.md). They are visual drafts; creator approval and individual motion first frames remain pending.
 
 Global negatives: no replacement faces, extra family members, wardrobe changes, mirrored watch/pocket sides, duplicate containers or pancakes, unexplained ingredient transfers, flowers in food, children handling knives/hot pans or the stove, watermarks or baked-in subtitles. Never taste raw flour, egg or batter. One BLUE dry bowl becomes the only batter bowl; the YELLOW wet bowl is emptied into it. The empty vase returns to its decoration shelf. Cook six batches of two pancakes, twelve total, then serve two on each of six plates. Use the exact [editorial SVGs](assets/overlays/) for recipe quantities and labels; do not invent lettering, extra ingredients or raw-food tasting. No automated video or voice render calls are authorized.
 
-This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the screenplay first, then review all derived changes.
+This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the screenplay first, then review all derived changes. The legacy sync script and existing subtitle track have not been retimed in this change; verify or update their timing before regenerating this document or assembling video.
 
-## SHOT_001 | 00:00:00–00:00:15 | The breakfast we promised
+## SHOT_001 | 00:00:00–00:00:10 | The breakfast we promised
 
 **Characters:** DAN, MAYA, NINA. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Medium three-shot across the oak island, Maya left, Nina right, Dan between them.
@@ -18,7 +20,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Picture:** [BOARD_01.png](assets/storyboards/BOARD_01.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Original W01 clothes and home geography continue; no fruit-picnic props or new faces.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–2.09s · DAN 2.24–6.72s · NINA 6.87–9.59s · MAYA 9.74–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.39s · DAN 1.49–4.48s · NINA 4.58–6.39s · MAYA 6.49–9.19s.
 
 **Dialogue:**
 **MAYA:** Pancakes, just as promised.
@@ -29,7 +31,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 
 **MAYA:** Start with the recipe, then. The bowl can wait.
 
-## SHOT_002 | 00:00:15–00:00:30 | One word, two pictures
+## SHOT_002 | 00:00:10–00:00:20 | One word, two pictures
 
 **Characters:** MAYA, DAN, LEO. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Medium Maya by recipe stand, Dan turning toward the shelf, Leo arriving behind.
@@ -39,7 +41,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Picture:** [BOARD_01.png](assets/storyboards/BOARD_01.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Flour and flower are homophones; the sound is not mispronounced.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–2.97s · DAN 3.12–6.28s · LEO 6.43–9.15s · DAN 9.30–12.90s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.98s · DAN 2.08–4.19s · LEO 4.29–6.10s · DAN 6.20–8.60s.
 
 **Dialogue:**
 **MAYA:** Dan, could you get the flour?
@@ -50,7 +52,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 
 **DAN:** I'm picturing something with a nice long stem.
 
-## SHOT_003 | 00:00:30–00:00:45 | A vase joins the team
+## SHOT_003 | 00:00:20–00:00:30 | A vase joins the team
 
 **Characters:** DAN, ELLA, MAX. **Location:** PREP_ISLAND. **Wardrobe:** W01 only.
 **Composition:** Counter-height medium with the empty bowl and clear vase separated in frame.
@@ -60,7 +62,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Picture:** [BOARD_01.png](assets/storyboards/BOARD_01.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** The vase is not a measuring jug or food vessel. Do not show a bouquet, water or flower in it.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.65s · ELLA 3.80–4.83s · MAX 4.98–7.91s · ELLA 8.06–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.43s · ELLA 2.53–3.22s · MAX 3.32–5.27s · ELLA 5.37–8.27s.
 
 **Dialogue:**
 **DAN:** How large a bouquet do pancakes need?
@@ -71,7 +73,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 
 **ELLA:** Dad, what would a bouquet taste like with syrup?
 
-## SHOT_004 | 00:00:45–00:01:00 | Before anything goes in
+## SHOT_004 | 00:00:30–00:00:40 | Before anything goes in
 
 **Characters:** MAYA, DAN, ELLA. **Location:** PREP_ISLAND. **Wardrobe:** W01 only.
 **Composition:** Medium Maya placing an open palm above the still-empty blue bowl.
@@ -81,7 +83,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Picture:** [BOARD_01.png](assets/storyboards/BOARD_01.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** The near-mistake is prevented completely, not corrected after food contamination.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–4.48s · DAN 4.63–8.03s · ELLA 8.18–9.50s · DAN 9.65–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–2.99s · DAN 3.09–5.35s · ELLA 5.45–6.33s · DAN 6.43–9.53s.
 
 **Dialogue:**
 **MAYA:** Flour for baking, Dan. Not a flower from the garden.
@@ -92,7 +94,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 
 **DAN:** I did wonder how we'd get petals out of our teeth.
 
-## SHOT_005 | 00:01:00–00:01:15 | A harmless near-miss
+## SHOT_005 | 00:00:40–00:00:50 | A harmless near-miss
 
 **Characters:** NINA, MAX, DAN. **Location:** PREP_ISLAND. **Wardrobe:** W01 only.
 **Composition:** Child-height three-shot; vase remains at the far edge, away from food tools.
@@ -102,7 +104,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Existing background plants remain background only; no flower is picked, carried or mixed.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–2.97s · NINA 3.12–6.72s · DAN 6.87–10.03s · MAX 10.18–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.98s · NINA 2.08–4.48s · DAN 4.58–6.69s · MAX 6.79–9.48s.
 
 **Dialogue:**
 **MAX:** So the garden keeps its flowers?
@@ -113,7 +115,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 
 **MAX:** It looks awfully pleased to be off the menu.
 
-## SHOT_006 | 00:01:15–00:01:30 | The clue on the card
+## SHOT_006 | 00:00:50–00:01:00 | The clue on the card
 
 **Characters:** MAYA, LEO, DAN. **Location:** PREP_ISLAND. **Wardrobe:** W01 only.
 **Composition:** Over Maya’s shoulder onto the recipe line; faces visible above the card.
@@ -123,7 +125,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Exact FLOUR label and quantity are editorial artwork; no viewer spelling exercise.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–4.48s · MAYA 4.63–7.62s · DAN 7.77–10.33s · MAYA 10.48–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.99s · MAYA 3.09–5.08s · DAN 5.18–6.89s · MAYA 6.99–9.53s.
 
 **Dialogue:**
 **LEO:** The recipe says two cups. That is a useful clue.
@@ -134,7 +136,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 
 **MAYA:** Two cups of the stuff in the pantry, please.
 
-## SHOT_007 | 00:01:30–00:01:45 | An expert asks a better question
+## SHOT_007 | 00:01:00–00:01:10 | An expert asks a better question
 
 **Characters:** DAN, MAYA, NINA. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Quiet medium three-shot, empty vase visible at the island edge.
@@ -144,7 +146,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Maya and Nina are equally respected and share the repair; no ridicule or wife rivalry.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.85s · MAYA 4.00–6.72s · NINA 6.87–9.59s · DAN 9.74–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.57s · MAYA 2.67–4.48s · NINA 4.58–6.39s · DAN 6.49–9.19s.
 
 **Dialogue:**
 **DAN:** I heard one word and guessed the rest.
@@ -155,7 +157,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 
 **DAN:** Okay. Where would you look for the baking kind?
 
-## SHOT_008 | 00:01:45–00:02:00 | A kitchen search
+## SHOT_008 | 00:01:10–00:01:20 | A kitchen search
 
 **Characters:** NINA, LEO, ELLA, MAX. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Wide from cool island toward pantry cupboard; children remain together beside Nina.
@@ -165,7 +167,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** This is an in-story household task, not a timed game, quiz or audience drill.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): NINA 0.25–3.65s · LEO 3.80–5.95s · ELLA 6.10–9.92s · MAX 10.07–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–2.43s · LEO 2.53–3.97s · ELLA 4.07–6.61s · MAX 6.71–9.53s.
 
 **Dialogue:**
 **NINA:** Let us find what the recipe actually needs.
@@ -176,7 +178,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 
 **MAX:** Can I find something that looks like a pancake tool?
 
-## SHOT_009 | 00:02:00–00:02:15 | The right flour
+## SHOT_009 | 00:01:20–00:01:30 | The right flour
 
 **Characters:** MAYA, DAN, LEO. **Location:** PANTRY_SHELF. **Wardrobe:** W01 only.
 **Composition:** Close buyer-side view of the pantry cupboard beside the rear-left fridge.
@@ -186,7 +188,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Picture:** [BOARD_03.png](assets/storyboards/BOARD_03.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Do not add a new room or move the fridge. One flour bag only; label identifies food, not a plant.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–2.53s · MAYA 2.68–4.96s · LEO 5.11–7.83s · DAN 7.98–12.46s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.69s · MAYA 1.79–3.31s · LEO 3.41–5.22s · DAN 5.32–8.31s.
 
 **Dialogue:**
 **DAN:** This flour is for pancakes.
@@ -197,7 +199,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 
 **DAN:** Well, I've never seen a flower come in a bag.
 
-## SHOT_010 | 00:02:15–00:02:30 | The vase returns home
+## SHOT_010 | 00:01:30–00:01:40 | The vase returns home
 
 **Characters:** DAN, MAX. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Medium from island to the original decoration shelf.
@@ -207,7 +209,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Picture:** [BOARD_03.png](assets/storyboards/BOARD_03.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** The vase never becomes a bowl, jug or food container and never reappears at the cooking station.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–1.82s · DAN 1.97–5.41s · MAX 5.55–7.12s · DAN 7.27–10.71s · MAX 10.86–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.21s · DAN 1.31–3.61s · MAX 3.70–4.75s · DAN 4.85–7.14s · MAX 7.24–9.53s.
 
 **Dialogue:**
 **MAX:** Is the vase disappointed?
@@ -220,7 +222,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 
 **MAX:** And I don't have to find it a fork.
 
-## SHOT_011 | 00:02:30–00:02:45 | A bowl with room to work
+## SHOT_011 | 00:01:40–00:01:50 | A bowl with room to work
 
 **Characters:** MAYA, ELLA, MAX. **Location:** PREP_ISLAND. **Wardrobe:** W01 only.
 **Composition:** Medium at the cool island; cobalt blue bowl with white interior clearly visible.
@@ -230,7 +232,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Picture:** [BOARD_03.png](assets/storyboards/BOARD_03.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Blue becomes the only batter bowl later; yellow is emptied into blue once, never a second batter batch.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–3.41s · MAYA 3.56–6.28s · MAX 6.43–9.15s · ELLA 9.30–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.27s · MAYA 2.37–4.19s · MAX 4.29–6.10s · ELLA 6.20–8.89s.
 
 **Dialogue:**
 **ELLA:** A big bowl and a smaller bowl.
@@ -241,7 +243,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 
 **ELLA:** The yellow one's easier for me to see into.
 
-## SHOT_012 | 00:02:45–00:03:00 | The whisk is not a wish
+## SHOT_012 | 00:01:50–00:02:00 | The whisk is not a wish
 
 **Characters:** DAN, MAX, NINA. **Location:** PREP_ISLAND. **Wardrobe:** W01 only.
 **Composition:** Low medium with stainless balloon whisk between Dan and Max.
@@ -251,7 +253,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Picture:** [BOARD_03.png](assets/storyboards/BOARD_03.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** The whisk remains a raw-preparation tool until cleaned; it will not serve cooked pancakes.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–3.33s · DAN 3.48–7.41s · NINA 7.56–10.21s · MAX 10.36–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.22s · DAN 2.32–4.94s · NINA 5.04–6.81s · MAX 6.91–9.53s.
 
 **Dialogue:**
 **MAX:** That spoon has a lot of holes.
@@ -262,7 +264,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 
 **MAX:** I thought our soup would just fall right through.
 
-## SHOT_013 | 00:03:00–00:03:15 | A spoon is not every measure
+## SHOT_013 | 00:02:00–00:02:10 | A spoon is not every measure
 
 **Characters:** MAYA, LEO, ELLA. **Location:** PREP_ISLAND. **Wardrobe:** W01 only.
 **Composition:** Close nested measuring spoons beside an ordinary kitchen spoon.
@@ -272,7 +274,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Picture:** [BOARD_04.png](assets/storyboards/BOARD_04.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Use marked measures for recipe quantities, not a heaped household spoon or guessed size.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–3.85s · ELLA 4.00–6.28s · MAYA 6.43–10.03s · LEO 10.18–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.57s · ELLA 2.67–4.19s · MAYA 4.29–6.69s · LEO 6.79–9.48s.
 
 **Dialogue:**
 **LEO:** A tablespoon and a half teaspoon. Different measures.
@@ -283,7 +285,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 
 **LEO:** Read the handle. That's where the size is marked.
 
-## SHOT_014 | 00:03:15–00:03:30 | A cup that tells the truth
+## SHOT_014 | 00:02:10–00:02:20 | A cup that tells the truth
 
 **Characters:** NINA, ELLA, DAN. **Location:** PREP_ISLAND. **Wardrobe:** W01 only.
 **Composition:** Counter-level measuring-cup insert with Nina and Ella above it.
@@ -293,7 +295,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Picture:** [BOARD_04.png](assets/storyboards/BOARD_04.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Dry flour will be leveled, not packed; milk is read at eye level on a stable surface.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–3.45s · NINA 3.60–7.20s · DAN 7.35–10.55s · ELLA 10.70–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.30s · NINA 2.40–4.80s · DAN 4.90–7.03s · ELLA 7.13–9.53s.
 
 **Dialogue:**
 **ELLA:** The marks are easier to read down here.
@@ -304,7 +306,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 
 **ELLA:** And the milk won't slope away from the mark.
 
-## SHOT_015 | 00:03:30–00:03:45 | The flat helper waits
+## SHOT_015 | 00:02:20–00:02:30 | The flat helper waits
 
 **Characters:** DAN, LEO, MAX. **Location:** PREP_ISLAND. **Wardrobe:** W01 only.
 **Composition:** Medium slate silicone spatula held safely above the cool work surface.
@@ -314,7 +316,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Picture:** [BOARD_04.png](assets/storyboards/BOARD_04.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Only adults will handle the spatula at the hot pan. No pretend flipping toward faces or ceiling.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–3.41s · MAX 3.56–4.96s · DAN 5.11–8.71s · MAX 8.86–12.90s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.27s · MAX 2.37–3.31s · DAN 3.41–5.81s · MAX 5.91–8.60s.
 
 **Dialogue:**
 **LEO:** That is the spatula for turning pancakes.
@@ -325,7 +327,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 
 **MAX:** Right. A whisk would leave funny stripes on breakfast.
 
-## SHOT_016 | 00:03:45–00:04:00 | The pan stays with the adults
+## SHOT_016 | 00:02:30–00:02:40 | The pan stays with the adults
 
 **Characters:** NINA, MAYA, DAN. **Location:** STOVE_STATION. **Wardrobe:** W01 only.
 **Composition:** Medium at rear-right stove; black skillet rests on an unlit back burner.
@@ -335,7 +337,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Picture:** [BOARD_04.png](assets/storyboards/BOARD_04.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Stove remains OFF during this tool check; no batter, flame or steam appears yet.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): NINA 0.25–3.15s · MAYA 3.30–6.59s · DAN 6.75–10.04s · NINA 10.19–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–2.10s · MAYA 2.20–4.39s · DAN 4.50–6.69s · NINA 6.79–9.53s.
 
 **Dialogue:**
 **NINA:** The pan and stove are adult jobs.
@@ -346,7 +348,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 
 **NINA:** Let's keep that space open once the pan gets warm.
 
-## SHOT_017 | 00:04:00–00:04:15 | Ingredients, not decorations
+## SHOT_017 | 00:02:40–00:02:50 | Ingredients, not decorations
 
 **Characters:** MAYA, LEO, DAN. **Location:** PANTRY_SHELF. **Wardrobe:** W01 only.
 **Composition:** Medium open cupboard with flour bag already absent from its shelf.
@@ -356,7 +358,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Picture:** [BOARD_05.png](assets/storyboards/BOARD_05.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No baking soda substitution, extra packet or second flour bag. Labels use exact editorial artwork.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–2.04s · DAN 2.19–4.41s · MAYA 4.56–9.36s · DAN 9.51–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.36s · DAN 1.46–2.94s · MAYA 3.04–6.24s · DAN 6.34–9.53s.
 
 **Dialogue:**
 **LEO:** Sugar, baking powder, salt.
@@ -367,7 +369,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 
 **DAN:** These names look similar when you grab them in a hurry.
 
-## SHOT_018 | 00:04:15–00:04:30 | The cold ingredients
+## SHOT_018 | 00:02:50–00:03:00 | The cold ingredients
 
 **Characters:** NINA, ELLA, MAX. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Medium rear-left fridge; Nina handles food while children stand clear of door.
@@ -377,7 +379,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Picture:** [BOARD_05.png](assets/storyboards/BOARD_05.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Only the two eggs allocated to this recipe are presented; no fruit, syrup or new side dish.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–3.41s · MAX 3.56–7.16s · NINA 7.31–9.59s · ELLA 9.74–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.27s · MAX 2.37–4.77s · NINA 4.87–6.39s · ELLA 6.49–9.19s.
 
 **Dialogue:**
 **ELLA:** Milk, eggs and butter. Everything from home.
@@ -388,7 +390,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 
 **ELLA:** Good. I'm hungry enough to stay in this kitchen.
 
-## SHOT_019 | 00:04:30–00:04:45 | Twelve means two each
+## SHOT_019 | 00:03:00–00:03:10 | Twelve means two each
 
 **Characters:** LEO, DAN, MAYA. **Location:** PREP_ISLAND. **Wardrobe:** W01 only.
 **Composition:** Over-shoulder recipe yield insert, then family reaction.
@@ -398,7 +400,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Picture:** [BOARD_05.png](assets/storyboards/BOARD_05.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No recipe doubling, giant pancake contest or extra seventh serving. Plates will move to HOME_TABLE later.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–3.41s · DAN 3.56–6.28s · MAYA 6.43–9.15s · DAN 9.30–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.27s · DAN 2.37–4.19s · MAYA 4.29–6.10s · DAN 6.20–8.89s.
 
 **Dialogue:**
 **LEO:** Twelve pancakes. Two each for six people.
@@ -409,7 +411,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 
 **DAN:** Two each sounds much better than one enormous one.
 
-## SHOT_020 | 00:04:45–00:05:00 | Read before reaching
+## SHOT_020 | 00:03:10–00:03:20 | Read before reaching
 
 **Characters:** DAN, NINA, ELLA. **Location:** PREP_ISLAND. **Wardrobe:** W01 only.
 **Composition:** Medium Dan at recipe stand with both empty bowls in lower frame.
@@ -419,7 +421,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Picture:** [BOARD_05.png](assets/storyboards/BOARD_05.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** One recipe and one batch. The empty vase stays on its decoration shelf, away from food.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.85s · NINA 4.00–6.28s · ELLA 6.43–9.59s · DAN 9.74–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.57s · NINA 2.67–4.19s · ELLA 4.29–6.39s · DAN 6.49–9.19s.
 
 **Dialogue:**
 **DAN:** Before I reach for anything, what comes first?
@@ -430,7 +432,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 
 **DAN:** Then my very first ingredient is a little patience.
 
-## SHOT_021 | 00:05:00–00:05:15 | Everyone starts with clean hands
+## SHOT_021 | 00:03:20–00:03:30 | Everyone starts with clean hands
 
 **Characters:** MAYA, NINA, DAN, LEO, ELLA, MAX. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Wide rear-window sink, followed by a restrained washing-time dissolve.
@@ -438,9 +440,9 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Starting continuity:** Ingredients closed, bowls empty, stove OFF; preparation has not begun.
 **Ending continuity:** All six have washed and dried their hands; water off; ingredients still unmeasured.
 **Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
-**Continuity:** The longer handwashing is an explicit story-time ellipsis, not a fifteen-second demonstration.
+**Continuity:** The longer handwashing is an explicit story-time ellipsis, not a ten-second demonstration.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–3.41s · NINA 3.56–5.84s · DAN 5.99–9.59s · MAX 9.74–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.27s · NINA 2.37–3.89s · DAN 3.99–6.39s · MAX 6.49–9.19s.
 
 **Dialogue:**
 **MAX:** Even the helpers who only carry napkins?
@@ -451,7 +453,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 
 **MAX:** Mine smell like soap. They're ready for napkin duty.
 
-## SHOT_022 | 00:05:15–00:05:30 | Two bowls, two clear jobs
+## SHOT_022 | 00:03:30–00:03:40 | Two bowls, two clear jobs
 
 **Characters:** MAYA, LEO, ELLA. **Location:** PREP_ISLAND. **Wardrobe:** W01 only.
 **Composition:** Medium overhead-angled island view, blue and yellow bowls separate.
@@ -461,7 +463,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Both bowls have WHITE interiors. The blue bowl will become the only batter bowl; yellow is not a second batch.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–3.41s · LEO 3.56–5.40s · ELLA 5.55–8.71s · MAYA 8.86–12.90s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–2.27s · LEO 2.37–3.60s · ELLA 3.70–5.81s · MAYA 5.91–8.60s.
 
 **Dialogue:**
 **MAYA:** Blue for dry ingredients. Yellow for wet.
@@ -472,7 +474,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 
 **MAYA:** Leo, can you read the first amount for us?
 
-## SHOT_023 | 00:05:30–00:05:45 | The first level cup
+## SHOT_023 | 00:03:40–00:03:50 | The first level cup
 
 **Characters:** MAYA, LEO, DAN. **Location:** PREP_ISLAND. **Wardrobe:** W01 only.
 **Composition:** Close flour measure above blue bowl, with all three faces in upper frame.
@@ -482,7 +484,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Do not pack the flour, heap the cup or show an extra measured cup already in the bowl.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–3.41s · DAN 3.56–5.40s · MAYA 5.55–8.71s · DAN 8.86–12.90s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.27s · DAN 2.37–3.60s · MAYA 3.70–5.81s · DAN 5.91–8.60s.
 
 **Dialogue:**
 **LEO:** A level cup, not a little mountain.
@@ -493,7 +495,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 
 **DAN:** Flat across, then. No snowy peaks on this breakfast.
 
-## SHOT_024 | 00:05:45–00:06:00 | Two cups means stop at two
+## SHOT_024 | 00:03:50–00:04:00 | Two cups means stop at two
 
 **Characters:** MAYA, LEO, MAX. **Location:** PREP_ISLAND. **Wardrobe:** W01 only.
 **Composition:** Counter-level second-cup transfer, Max watching from the cool side.
@@ -503,7 +505,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Only the measured flour is batch inventory. Flour remaining in its closed bag is pantry stock, not a duplicate purchase.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–2.53s · MAYA 2.68–4.52s · LEO 4.67–8.27s · MAX 8.42–12.46s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.69s · MAYA 1.79–3.01s · LEO 3.11–5.51s · MAX 5.61–8.31s.
 
 **Dialogue:**
 **MAX:** One cup, then another. Two.
@@ -514,7 +516,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 
 **MAX:** I liked counting the mountains better than carrying them.
 
-## SHOT_025 | 00:06:00–00:06:15 | Sugar has a smaller measure
+## SHOT_025 | 00:04:00–00:04:10 | Sugar has a smaller measure
 
 **Characters:** MAYA, ELLA, DAN. **Location:** PREP_ISLAND. **Wardrobe:** W01 only.
 **Composition:** Medium tablespoon insert with the closed flour bag behind the recipe stand.
@@ -524,7 +526,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Picture:** [BOARD_07.png](assets/storyboards/BOARD_07.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Use tablespoons, not cups. Keep the clean sugar measure separate from the later raw-egg tools.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–2.09s · DAN 2.24–5.40s · MAYA 5.55–8.27s · ELLA 8.42–12.46s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.39s · DAN 1.49–3.60s · MAYA 3.70–5.51s · ELLA 5.61–8.31s.
 
 **Dialogue:**
 **ELLA:** Two tablespoons of sugar.
@@ -535,7 +537,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 
 **ELLA:** Two cups of sugar would make an interesting morning.
 
-## SHOT_026 | 00:06:15–00:06:30 | A powder with its own name
+## SHOT_026 | 00:04:10–00:04:20 | A powder with its own name
 
 **Characters:** NINA, LEO, MAYA. **Location:** PREP_ISLAND. **Wardrobe:** W01 only.
 **Composition:** Medium recipe-to-baking-powder tin comparison, no ingredient poured yet.
@@ -545,7 +547,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Picture:** [BOARD_07.png](assets/storyboards/BOARD_07.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** This is baking powder, never baking soda. Use the editorial recipe/label SVG for readable text.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–2.53s · NINA 2.68–4.96s · MAYA 5.11–8.71s · LEO 8.86–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.69s · NINA 1.79–3.31s · MAYA 3.41–5.81s · LEO 5.91–8.89s.
 
 **Dialogue:**
 **LEO:** Baking powder. The names matter.
@@ -556,7 +558,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 
 **LEO:** I'll keep my finger on that line while you do.
 
-## SHOT_027 | 00:06:30–00:06:45 | One tablespoon, three teaspoons
+## SHOT_027 | 00:04:20–00:04:30 | One tablespoon, three teaspoons
 
 **Characters:** MAYA, LEO, DAN. **Location:** PREP_ISLAND. **Wardrobe:** W01 only.
 **Composition:** Close level tablespoon over BLUE, recipe stand visible beyond it.
@@ -566,7 +568,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Picture:** [BOARD_07.png](assets/storyboards/BOARD_07.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** The three-teaspoon equivalent describes the same single tablespoon, not an extra addition.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–2.53s · DAN 2.68–5.40s · MAYA 5.55–8.71s · DAN 8.86–12.90s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.69s · DAN 1.79–3.60s · MAYA 3.70–5.81s · DAN 5.91–8.60s.
 
 **Dialogue:**
 **LEO:** One tablespoon is three teaspoons.
@@ -577,7 +579,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 
 **DAN:** Good. I'd rather count the spoons than start over.
 
-## SHOT_028 | 00:06:45–00:07:00 | Half a teaspoon is enough
+## SHOT_028 | 00:04:30–00:04:40 | Half a teaspoon is enough
 
 **Characters:** MAYA, MAX, ELLA. **Location:** PREP_ISLAND. **Wardrobe:** W01 only.
 **Composition:** Low medium salt measure, adult supervision clearly visible.
@@ -587,7 +589,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Picture:** [BOARD_07.png](assets/storyboards/BOARD_07.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Max stays at the cool side with Maya. Do not substitute a heaped teaspoon or show another salt addition.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–3.85s · MAYA 4.00–6.72s · ELLA 6.87–9.59s · MAX 9.74–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.57s · MAYA 2.67–4.48s · ELLA 4.58–6.39s · MAX 6.49–9.48s.
 
 **Dialogue:**
 **MAX:** Half a teaspoon. This is the tiny helper.
@@ -598,7 +600,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 
 **MAX:** Was that tiny scoop really all the salt it needed?
 
-## SHOT_029 | 00:07:00–00:07:15 | Four tablespoons, divided first
+## SHOT_029 | 00:04:40–00:04:50 | Four tablespoons, divided first
 
 **Characters:** NINA, DAN, LEO. **Location:** PREP_ISLAND. **Wardrobe:** W01 only.
 **Composition:** Medium adult butter-cutting zone, Leo beyond the opposite edge.
@@ -608,7 +610,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Only Nina handles the knife. The reserve is part of the four tablespoons total, not extra butter or a table topping.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.41s · LEO 3.56–4.96s · NINA 5.11–9.59s · DAN 9.74–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.27s · LEO 2.37–3.31s · NINA 3.41–6.39s · DAN 6.49–9.19s.
 
 **Dialogue:**
 **DAN:** Three for batter. One for the pan.
@@ -619,7 +621,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 
 **DAN:** I'll remember. Three go in, one stays back here.
 
-## SHOT_030 | 00:07:15–00:07:30 | Melt with an adult at the stove
+## SHOT_030 | 00:04:50–00:05:00 | Melt with an adult at the stove
 
 **Characters:** NINA, DAN. **Location:** STOVE_STATION. **Wardrobe:** W01 only.
 **Composition:** Medium adult-only rear-right stove, small saucepan handle inward.
@@ -629,7 +631,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No child approaches heat. The black pancake skillet stays on its separate unlit burner; no pancake cooking has started.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.41s · NINA 3.56–6.72s · DAN 6.87–9.59s · NINA 9.74–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.27s · NINA 2.37–4.48s · DAN 4.58–6.39s · NINA 6.49–9.19s.
 
 **Dialogue:**
 **DAN:** A small pan for a small job.
@@ -640,7 +642,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 
 **NINA:** And back from the stove till the butter cools.
 
-## SHOT_031 | 00:07:30–00:07:45 | Warm is different from hot
+## SHOT_031 | 00:05:00–00:05:10 | Warm is different from hot
 
 **Characters:** NINA, MAYA, DAN. **Location:** PREP_ISLAND. **Wardrobe:** W01 only.
 **Composition:** Medium saucepan cooling on adult-side mat, yellow bowl still empty.
@@ -650,7 +652,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Do not pour hot butter onto eggs or show children touching the saucepan. No extra ingredient is added while waiting.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–4.07s · DAN 4.22–8.03s · NINA 8.18–9.92s · MAYA 10.07–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–2.71s · DAN 2.81–5.35s · NINA 5.45–6.61s · MAYA 6.71–9.53s.
 
 **Dialogue:**
 **MAYA:** We can mix the dry ingredients while it cools.
@@ -661,7 +663,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 
 **MAYA:** The blue bowl can have our attention in the meantime.
 
-## SHOT_032 | 00:07:45–00:08:00 | Two eggs, handled by Nina
+## SHOT_032 | 00:05:10–00:05:20 | Two eggs, handled by Nina
 
 **Characters:** NINA, MAYA, MAX. **Location:** PREP_ISLAND. **Wardrobe:** W01 only.
 **Composition:** Medium adult raw-egg station, Max safely across the island.
@@ -671,7 +673,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Only an adult handles raw eggs. No raw taste, egg juggling or shell fragments in batter; household stock is not a third recipe egg.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–3.65s · NINA 3.80–5.95s · MAYA 6.10–9.92s · MAX 10.07–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.43s · NINA 2.53–3.97s · MAYA 4.07–6.61s · MAX 6.71–9.53s.
 
 **Dialogue:**
 **MAX:** Two eggs. No shell seats in the bowl.
@@ -682,7 +684,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 
 **MAX:** Good. Nobody wants a crunchy bit of shell at breakfast.
 
-## SHOT_033 | 00:08:00–00:08:15 | Clean hands after the shells
+## SHOT_033 | 00:05:20–00:05:30 | Clean hands after the shells
 
 **Characters:** NINA, DAN. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Medium sink with raw-egg station visible safely in distant background.
@@ -692,7 +694,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Raw eggs remain in the bowl, not on hands or clean serving utensils. The washing takes real story time.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.41s · NINA 3.56–6.28s · DAN 6.43–10.03s · NINA 10.18–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.27s · NINA 2.37–4.19s · DAN 4.29–6.69s · NINA 6.79–9.48s.
 
 **Dialogue:**
 **DAN:** The shells are away. What is next?
@@ -703,7 +705,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 
 **NINA:** Yes. I'll meet you back here with clean hands.
 
-## SHOT_034 | 00:08:15–00:08:30 | Milk has a line to meet
+## SHOT_034 | 00:05:30–00:05:40 | Milk has a line to meet
 
 **Characters:** NINA, ELLA, MAYA. **Location:** PREP_ISLAND. **Wardrobe:** W01 only.
 **Composition:** Medium liquid measuring jug at eye level on the cool side.
@@ -713,7 +715,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Ella does not touch raw eggs or their bowl. Remaining carton milk is stock, not an extra measured addition.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–3.85s · MAYA 4.00–6.42s · NINA 6.57–10.16s · ELLA 10.31–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.57s · MAYA 2.67–4.28s · NINA 4.38–6.77s · ELLA 6.87–9.53s.
 
 **Dialogue:**
 **ELLA:** One and a half cups, right to the line.
@@ -724,7 +726,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 
 **ELLA:** From up high I thought it needed a little more.
 
-## SHOT_035 | 00:08:30–00:08:45 | The milk goes back cold
+## SHOT_035 | 00:05:40–00:05:50 | The milk goes back cold
 
 **Characters:** MAYA, ELLA, DAN. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Medium rear-left fridge, clear route back to the island.
@@ -734,7 +736,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No extra milk is poured into either bowl. Only the allocated three tablespoons melted butter remain to join the wet mixture.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–4.24s · MAYA 4.39–7.20s · ELLA 7.35–10.16s · DAN 10.31–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.83s · MAYA 2.93–4.80s · ELLA 4.90–6.77s · DAN 6.87–9.53s.
 
 **Dialogue:**
 **DAN:** The rest of the milk goes back in the fridge.
@@ -745,7 +747,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 
 **DAN:** Good thing our fridge is closer than the fruit shop.
 
-## SHOT_036 | 00:08:45–00:09:00 | The wet team comes together
+## SHOT_036 | 00:05:50–00:06:00 | The wet team comes together
 
 **Characters:** NINA, DAN, LEO. **Location:** PREP_ISLAND. **Wardrobe:** W01 only.
 **Composition:** Close three-tablespoon butter transfer, then medium whisking shot.
@@ -755,7 +757,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Whisk the mixture without splashing. The wet bowl remains raw; no spoon tasting, extra egg or second butter portion.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–2.97s · DAN 3.12–7.16s · NINA 7.31–9.59s · DAN 9.74–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.98s · DAN 2.08–4.77s · NINA 4.87–6.39s · DAN 6.49–9.19s.
 
 **Dialogue:**
 **LEO:** Eggs, milk, and the cooled butter.
@@ -766,7 +768,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 
 **DAN:** I like knowing exactly where the fourth spoonful is.
 
-## SHOT_037 | 00:09:00–00:09:15 | Wet joins dry once
+## SHOT_037 | 00:06:00–00:06:10 | Wet joins dry once
 
 **Characters:** NINA, MAYA, DAN. **Location:** PREP_ISLAND. **Wardrobe:** W01 only.
 **Composition:** Medium two-bowl transfer, large BLUE below the smaller YELLOW.
@@ -776,7 +778,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Picture:** [BOARD_10.png](assets/storyboards/BOARD_10.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** One transfer into one batch. Do not show a full wet mixture still inside YELLOW after it has been poured.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): NINA 0.25–2.90s · DAN 3.05–5.70s · MAYA 5.85–9.36s · NINA 9.51–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–1.93s · DAN 2.03–3.80s · MAYA 3.90–6.24s · NINA 6.34–9.53s.
 
 **Dialogue:**
 **NINA:** Wet ingredients into the dry bowl.
@@ -787,7 +789,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 
 **NINA:** A steady bowl is all the help I need right now.
 
-## SHOT_038 | 00:09:15–00:09:30 | An empty bowl is a useful clue
+## SHOT_038 | 00:06:10–00:06:20 | An empty bowl is a useful clue
 
 **Characters:** NINA, MAYA, ELLA. **Location:** PREP_ISLAND. **Wardrobe:** W01 only.
 **Composition:** Close final wet-bowl scrape, yellow interior clearly empty afterward.
@@ -797,7 +799,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Picture:** [BOARD_10.png](assets/storyboards/BOARD_10.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** The raw scraper and wet bowl are separate from clean serving spoons. Yellow does not refill or become another batter batch.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–2.82s · NINA 2.97–5.95s · MAYA 6.10–9.50s · ELLA 9.65–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.88s · NINA 1.98–3.97s · MAYA 4.07–6.33s · ELLA 6.43–9.53s.
 
 **Dialogue:**
 **ELLA:** The yellow bowl is empty now.
@@ -808,7 +810,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 
 **ELLA:** I can see the yellow bowl right down to the bottom.
 
-## SHOT_039 | 00:09:30–00:09:45 | Gentle folds, not a race
+## SHOT_039 | 00:06:20–00:06:30 | Gentle folds, not a race
 
 **Characters:** DAN, MAYA, LEO. **Location:** PREP_ISLAND. **Wardrobe:** W01 only.
 **Composition:** Medium adult mixing hands, Leo observing from the cool side.
@@ -818,7 +820,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Picture:** [BOARD_10.png](assets/storyboards/BOARD_10.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Gentle mixing, no frantic whisking. Small lumps are normal here; do not add extra milk or flour to erase them.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.15s · LEO 3.30–5.38s · MAYA 5.54–10.04s · DAN 10.19–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.10s · LEO 2.20–3.59s · MAYA 3.69–6.69s · DAN 6.79–9.53s.
 
 **Dialogue:**
 **DAN:** A gentle fold. Not a breakfast race.
@@ -829,7 +831,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 
 **DAN:** You're sure? That last little lump is looking at me.
 
-## SHOT_040 | 00:09:45–00:10:00 | Stop when the work is done
+## SHOT_040 | 00:06:30–00:06:40 | Stop when the work is done
 
 **Characters:** MAYA, NINA, DAN. **Location:** PREP_ISLAND. **Wardrobe:** W01 only.
 **Composition:** Medium single BLUE batter bowl, empty YELLOW visible on distant washing tray.
@@ -839,7 +841,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Picture:** [BOARD_10.png](assets/storyboards/BOARD_10.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Do not taste batter or resume stirring in a later reaction shot. Preserve exact recipe amounts and the empty YELLOW bowl.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–2.09s · DAN 2.24–4.08s · NINA 4.23–8.27s · MAYA 8.42–12.46s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.39s · DAN 1.49–2.72s · NINA 2.82–5.51s · MAYA 5.61–8.31s.
 
 **Dialogue:**
 **MAYA:** That is enough mixing.
@@ -850,7 +852,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 
 **MAYA:** See how the batter holds together on its own?
 
-## SHOT_041 | 00:10:00–00:10:15 | Give the batter its quiet minutes
+## SHOT_041 | 00:06:40–00:06:50 | Give the batter its quiet minutes
 
 **Characters:** NINA, DAN, MAX. **Location:** PREP_ISLAND. **Wardrobe:** W01 only.
 **Composition:** Medium covered BLUE bowl with clock in distant background.
@@ -860,7 +862,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** The cover is a clean cloth, not an extra serving plate or second food container.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–2.53s · NINA 2.68–5.40s · DAN 5.55–9.59s · MAX 9.74–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.69s · NINA 1.79–3.60s · DAN 3.70–6.39s · MAX 6.49–9.48s.
 
 **Dialogue:**
 **MAX:** Does breakfast need a nap?
@@ -871,7 +873,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 
 **MAX:** I can be quiet. Do I have to nap too?
 
-## SHOT_042 | 00:10:15–00:10:30 | Six plates find their places
+## SHOT_042 | 00:06:50–00:07:00 | Six plates find their places
 
 **Characters:** MAYA, ELLA. **Location:** HOME_TABLE. **Wardrobe:** W01 only.
 **Composition:** Wide original dining table, window rear and kitchen doorway left.
@@ -881,7 +883,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Dan near-left, Leo left-end, Ella far-left, Maya far-right, Nina right-end, Max near-right. Keep six chairs, not seven.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–2.61s · MAYA 2.76–4.66s · ELLA 4.81–8.07s · MAYA 8.22–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.74s · MAYA 1.84–3.11s · ELLA 3.21–5.38s · MAYA 5.48–8.27s.
 
 **Dialogue:**
 **ELLA:** One plate at every place.
@@ -892,7 +894,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 
 **MAYA:** It can watch from the shelf while we eat.
 
-## SHOT_043 | 00:10:30–00:10:45 | Useful work while we wait
+## SHOT_043 | 00:07:00–00:07:10 | Useful work while we wait
 
 **Characters:** LEO, MAX, MAYA. **Location:** HOME_TABLE. **Wardrobe:** W01 only.
 **Composition:** Medium children arranging forks and napkins, Maya supervising from table side.
@@ -902,7 +904,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No raw whisk, spatula or egg bowl becomes a table utensil. No side dishes or extra food appear.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–3.65s · LEO 3.80–6.37s · MAYA 6.52–9.50s · MAX 9.65–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.43s · LEO 2.53–4.25s · MAYA 4.35–6.33s · MAX 6.43–9.53s.
 
 **Dialogue:**
 **MAX:** I found a job with no hot pan.
@@ -913,7 +915,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 
 **MAX:** Napkins don't need flipping, do they? That's my kind of job.
 
-## SHOT_044 | 00:10:45–00:11:00 | The hardest job is not poking it
+## SHOT_044 | 00:07:10–00:07:20 | The hardest job is not poking it
 
 **Characters:** DAN, LEO, NINA. **Location:** PREP_ISLAND. **Wardrobe:** W01 only.
 **Composition:** Quiet medium Dan beside covered bowl; clock stays in background.
@@ -923,7 +925,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** This is character restraint during the rest, not a timed audience pause. No countdown graphic or new batter appears.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–4.07s · LEO 4.22–6.37s · NINA 6.52–9.92s · DAN 10.07–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.71s · LEO 2.81–4.25s · NINA 4.35–6.61s · DAN 6.71–9.53s.
 
 **Dialogue:**
 **DAN:** I am resisting a very small urge to stir.
@@ -934,7 +936,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 
 **DAN:** My hands didn't know they could be useful like this.
 
-## SHOT_045 | 00:11:00–00:11:15 | Five minutes later
+## SHOT_045 | 00:07:20–00:07:30 | Five minutes later
 
 **Characters:** NINA, MAYA, DAN. **Location:** PREP_ISLAND. **Wardrobe:** W01 only.
 **Composition:** Same bowl-and-clock composition with an explicit five-minute time dissolve.
@@ -942,9 +944,9 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Starting continuity:** One covered raw batch resting; table set for six; pan reserve untouched.
 **Ending continuity:** Five story-time minutes have elapsed; batter uncovered and ready; no pancakes cooked yet.
 **Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
-**Continuity:** Do not imply five minutes passed in one continuous fifteen-second real-time action. Batter remains the same single batch.
+**Continuity:** Do not imply five minutes passed in one continuous ten-second real-time action. Batter remains the same single batch.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): NINA 0.25–3.41s · MAYA 3.56–5.84s · DAN 5.99–10.03s · NINA 10.18–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–2.27s · MAYA 2.37–3.89s · DAN 3.99–6.69s · NINA 6.79–9.48s.
 
 **Dialogue:**
 **NINA:** Five minutes later, our batter is ready.
@@ -955,7 +957,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 
 **NINA:** Just think how many extra stirs we saved you.
 
-## SHOT_046 | 00:11:15–00:11:30 | Heat belongs in the adult zone
+## SHOT_046 | 00:07:30–00:07:40 | Heat belongs in the adult zone
 
 **Characters:** NINA, DAN. **Location:** STOVE_STATION. **Wardrobe:** W01 only.
 **Composition:** Medium rear-right stove, black skillet handle pointing inward.
@@ -965,7 +967,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No child reaches heat, knobs or spatula. Raw ladle and batter bowl stay separate from the clean cooked-food tray.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–2.97s · NINA 3.12–5.84s · DAN 5.99–9.59s · NINA 9.74–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.98s · NINA 2.08–3.89s · DAN 3.99–6.39s · NINA 6.49–9.48s.
 
 **Dialogue:**
 **DAN:** Handle inward. Clear space beside us.
@@ -976,7 +978,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 
 **NINA:** Good. Stay beside me where you can see the edges.
 
-## SHOT_047 | 00:11:30–00:11:45 | A little butter across six batches
+## SHOT_047 | 00:07:40–00:07:50 | A little butter across six batches
 
 **Characters:** NINA, DAN, MAYA. **Location:** STOVE_STATION. **Wardrobe:** W01 only.
 **Composition:** Close thin pan-greasing pass, then adult three-shot.
@@ -986,7 +988,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Use that one tablespoon incrementally across all six batches. Do not add a new butter stick, table butter or extra batter butter.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–3.85s · DAN 4.00–6.28s · NINA 6.43–10.03s · DAN 10.18–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–2.57s · DAN 2.67–4.19s · NINA 4.29–6.69s · DAN 6.79–9.19s.
 
 **Dialogue:**
 **MAYA:** This one tablespoon is for all the batches.
@@ -997,7 +999,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 
 **DAN:** Our pancakes can swim some other morning, then.
 
-## SHOT_048 | 00:11:45–00:12:00 | Twelve portions, one bowl
+## SHOT_048 | 00:07:50–00:08:00 | Twelve portions, one bowl
 
 **Characters:** NINA, DAN. **Location:** STOVE_STATION. **Wardrobe:** W01 only.
 **Composition:** Medium BLUE batter bowl on adult prep ledge, quarter-cup measure beside pan.
@@ -1007,7 +1009,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** The guide helps divide the actual batch into twelve small pancakes; adjust the final scrape instead of inventing a thirteenth portion.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.41s · NINA 3.56–6.72s · DAN 6.87–9.15s · NINA 9.30–12.90s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.27s · NINA 2.37–4.48s · DAN 4.58–6.10s · NINA 6.20–8.60s.
 
 **Dialogue:**
 **DAN:** Two pancakes at a time, six batches.
@@ -1018,7 +1020,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 
 **NINA:** That tray has exactly enough room for breakfast.
 
-## SHOT_049 | 00:12:00–00:12:15 | The first pair takes shape
+## SHOT_049 | 00:08:00–00:08:10 | The first pair takes shape
 
 **Characters:** DAN, NINA. **Location:** STOVE_STATION. **Wardrobe:** W01 only.
 **Composition:** Close two separate batter pools in black skillet, adult hands only.
@@ -1028,7 +1030,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No flower shape, air toss, third pool or dropped food. These two pancakes are not counted cooked yet.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.76s · NINA 3.91–6.99s · DAN 7.14–10.21s · NINA 10.36–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.51s · NINA 2.61–4.66s · DAN 4.76–6.81s · NINA 6.91–9.53s.
 
 **Dialogue:**
 **DAN:** One round pancake. One with an adventurous edge.
@@ -1039,7 +1041,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 
 **NINA:** I'll remember. That edge will be easy to recognize.
 
-## SHOT_050 | 00:12:15–00:12:30 | Watch the edges, not the clock alone
+## SHOT_050 | 00:08:10–00:08:20 | Watch the edges, not the clock alone
 
 **Characters:** NINA, DAN. **Location:** STOVE_STATION. **Wardrobe:** W01 only.
 **Composition:** Medium patient adult observation, two first-side pancakes visible below.
@@ -1049,7 +1051,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Bubbles/edges guide turning, not final doneness. Both sides and the center must cook before serving.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–1.10s · NINA 1.25–5.29s · DAN 5.44–9.48s · NINA 9.63–13.67s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–0.73s · NINA 0.83–3.53s · DAN 3.63–6.32s · NINA 6.42–9.11s.
 
 **Dialogue:**
 **DAN:** Now?
@@ -1060,7 +1062,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 
 **NINA:** Look there, Dan. The edge is starting to hold.
 
-## SHOT_051 | 00:12:30–00:12:45 | A low, careful turn
+## SHOT_051 | 00:08:20–00:08:30 | A low, careful turn
 
 **Characters:** NINA, DAN. **Location:** STOVE_STATION. **Wardrobe:** W01 only.
 **Composition:** Close controlled spatula turn near skillet surface, no airborne food.
@@ -1070,7 +1072,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Adults only. No high toss, ceiling joke, burn or spilled batter; each pancake remains a single item after turning.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): NINA 0.25–3.76s · DAN 3.91–5.27s · NINA 5.42–9.36s · DAN 9.51–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–2.51s · DAN 2.61–3.51s · NINA 3.61–6.24s · DAN 6.34–9.53s.
 
 **Dialogue:**
 **NINA:** Slide underneath, then turn close to the pan.
@@ -1081,7 +1083,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 
 **DAN:** The ceiling already has plenty to do holding up the lights.
 
-## SHOT_052 | 00:12:45–00:13:00 | Crooked and properly cooked
+## SHOT_052 | 00:08:30–00:08:40 | Crooked and properly cooked
 
 **Characters:** NINA, DAN. **Location:** STOVE_STATION. **Wardrobe:** W01 only.
 **Composition:** Medium clean cooked tray, with one adult inspection insert.
@@ -1091,7 +1093,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** The two halves are ONE pancake, reserved for Dan with one whole pancake. Do not discard it or count three cooked pancakes.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–4.07s · NINA 4.22–6.78s · DAN 6.93–10.33s · NINA 10.48–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.71s · NINA 2.81–4.52s · DAN 4.62–6.89s · NINA 6.99–9.53s.
 
 **Dialogue:**
 **DAN:** It is cooked through, even with the unusual edge.
@@ -1102,7 +1104,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 
 **NINA:** And you know which one is yours at breakfast.
 
-## SHOT_053 | 00:13:00–00:13:15 | A quieter confidence
+## SHOT_053 | 00:08:40–00:08:50 | A quieter confidence
 
 **Characters:** DAN, NINA. **Location:** STOVE_STATION. **Wardrobe:** W01 only.
 **Composition:** Medium adult two-shot, empty skillet and cooked pair both in view.
@@ -1112,7 +1114,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No pretend airborne pancake or extra portion. The brush uses only the existing one-tablespoon pan reserve.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.41s · NINA 3.56–5.84s · DAN 5.99–8.71s · NINA 8.86–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.27s · NINA 2.37–3.89s · DAN 3.99–5.81s · NINA 5.91–8.89s.
 
 **Dialogue:**
 **DAN:** I thought helping meant doing something impressive.
@@ -1123,7 +1125,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 
 **NINA:** Good. Watch how that first pair lies on the tray.
 
-## SHOT_054 | 00:13:15–00:13:30 | The second pair begins
+## SHOT_054 | 00:08:50–00:09:00 | The second pair begins
 
 **Characters:** DAN, NINA. **Location:** STOVE_STATION. **Wardrobe:** W01 only.
 **Composition:** Close two new batter portions entering the same skillet.
@@ -1133,7 +1135,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** One batch, same pan and bowl. Do not duplicate the first crooked pancake or pour a third pool.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–2.97s · NINA 3.12–5.40s · DAN 5.55–9.15s · NINA 9.30–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.98s · NINA 2.08–3.60s · DAN 3.70–6.10s · NINA 6.20–8.89s.
 
 **Dialogue:**
 **DAN:** Two more. Smaller movements this time.
@@ -1144,7 +1146,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 
 **NINA:** I can tell. Neither pancake is touching its neighbor.
 
-## SHOT_055 | 00:13:30–00:13:45 | Dan follows the useful plan
+## SHOT_055 | 00:09:00–00:09:10 | Dan follows the useful plan
 
 **Characters:** DAN, NINA. **Location:** STOVE_STATION. **Wardrobe:** W01 only.
 **Composition:** Medium low spatula turn, adult shoulders relaxed.
@@ -1154,7 +1156,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Do not use golden first-side color alone as proof of a cooked center. The turning tool remains an adult stove tool.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–2.67s · NINA 2.82–6.03s · DAN 6.17–10.16s · NINA 10.31–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.78s · NINA 1.88–4.02s · DAN 4.11–6.77s · NINA 6.87–9.53s.
 
 **Dialogue:**
 **DAN:** Slide, flip, and keep it low.
@@ -1165,7 +1167,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 
 **NINA:** Good. They'll be ready together if we leave them be.
 
-## SHOT_056 | 00:13:45–00:14:00 | Four cooked pancakes
+## SHOT_056 | 00:09:10–00:09:20 | Four cooked pancakes
 
 **Characters:** NINA, MAYA. **Location:** STOVE_STATION. **Wardrobe:** W01 only.
 **Composition:** Medium clean tray gaining the finished second pair.
@@ -1175,7 +1177,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Tray food is fully cooked. No pancake moves back into the raw batter or disappears during the time transition.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–1.65s · NINA 1.80–4.52s · MAYA 4.67–8.71s · NINA 8.86–12.90s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.10s · NINA 1.20–3.01s · MAYA 3.11–5.81s · NINA 5.91–8.60s.
 
 **Dialogue:**
 **MAYA:** Four pancakes ready.
@@ -1186,7 +1188,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 
 **NINA:** And Dan can still spot the one he's claimed.
 
-## SHOT_057 | 00:14:00–00:14:15 | A third pair, the same method
+## SHOT_057 | 00:09:20–00:09:30 | A third pair, the same method
 
 **Characters:** DAN, NINA. **Location:** STOVE_STATION. **Wardrobe:** W01 only.
 **Composition:** Medium adult stove view, distinct third pair in the pan.
@@ -1196,7 +1198,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No new butter allocation or batter refill. The ellipses cover real cooking time for both sides, not instantaneous browning.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–2.97s · NINA 3.12–6.72s · DAN 6.87–9.59s · NINA 9.74–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.98s · NINA 2.08–4.48s · DAN 4.58–6.39s · NINA 6.49–9.19s.
 
 **Dialogue:**
 **DAN:** Same small portions. Same patient turn.
@@ -1207,7 +1209,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 
 **NINA:** The next pair gets the same amount of space.
 
-## SHOT_058 | 00:14:15–00:14:30 | Halfway is not finished
+## SHOT_058 | 00:09:30–00:09:40 | Halfway is not finished
 
 **Characters:** MAYA, LEO, MAX. **Location:** PREP_ISLAND. **Wardrobe:** W01 only.
 **Composition:** Medium safe landing area, Maya holding the clean cooked tray.
@@ -1217,7 +1219,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Children stay away from the hot pan and do not touch warm tray edges. The first pancake halves count as one.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–2.09s · LEO 2.24–4.52s · MAYA 4.67–8.71s · MAX 8.86–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.39s · LEO 1.49–3.01s · MAYA 3.11–5.81s · MAX 5.91–8.89s.
 
 **Dialogue:**
 **MAX:** Six. Are we finished?
@@ -1228,7 +1230,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 
 **MAX:** So the people waiting get the same breakfast I get.
 
-## SHOT_059 | 00:14:30–00:14:45 | The fourth pair needs the same care
+## SHOT_059 | 00:09:40–00:09:50 | The fourth pair needs the same care
 
 **Characters:** DAN, NINA. **Location:** STOVE_STATION. **Wardrobe:** W01 only.
 **Composition:** Medium skillet and BLUE bowl, remaining batter level visibly lower.
@@ -1238,7 +1240,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Do not skip the second side or introduce a second pan. The single batch is visibly decreasing.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–2.53s · NINA 2.68–4.52s · DAN 4.67–8.71s · NINA 8.86–12.90s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.69s · NINA 1.79–3.01s · DAN 3.11–5.81s · NINA 5.91–8.60s.
 
 **Dialogue:**
 **DAN:** The bowl is getting lower.
@@ -1249,7 +1251,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 
 **NINA:** And the crooked one is still easy to find.
 
-## SHOT_060 | 00:14:45–00:15:00 | Eight ready, four to go
+## SHOT_060 | 00:09:50–00:10:00 | Eight ready, four to go
 
 **Characters:** NINA, MAYA. **Location:** STOVE_STATION. **Wardrobe:** W01 only.
 **Composition:** Close fourth pair joining the clean tray, adults visible above.
@@ -1259,7 +1261,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No pancake is thrown away, doubled or served from the raw zone. Keep the clean cooked tray distinct from the raw batter rest.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–2.82s · NINA 2.97–5.95s · MAYA 6.10–9.92s · NINA 10.07–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.88s · NINA 1.98–3.97s · MAYA 4.07–6.61s · NINA 6.71–9.53s.
 
 **Dialogue:**
 **MAYA:** Eight ready. Four still to come.
@@ -1270,7 +1272,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 
 **NINA:** Dan may be the only one rooting for that edge.
 
-## SHOT_061 | 00:15:00–00:15:15 | Careful is becoming comfortable
+## SHOT_061 | 00:10:00–00:10:10 | Careful is becoming comfortable
 
 **Characters:** DAN, NINA. **Location:** STOVE_STATION. **Wardrobe:** W01 only.
 **Composition:** Medium fifth pair in the same skillet, BLUE bowl visibly near its final portions.
@@ -1280,7 +1282,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No fresh butter stick or second bowl appears. The fifth pair uses the same one-tablespoon total pan-greasing reserve.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–4.48s · NINA 4.63–7.20s · DAN 7.35–9.92s · NINA 10.07–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.99s · NINA 3.09–4.80s · DAN 4.90–6.61s · NINA 6.71–9.53s.
 
 **Dialogue:**
 **DAN:** I do not feel the need to show off now.
@@ -1291,7 +1293,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 
 **NINA:** Keep that easy grip. The pancakes seem to like it.
 
-## SHOT_062 | 00:15:15–00:15:30 | Two spaces are still waiting
+## SHOT_062 | 00:10:10–00:10:20 | Two spaces are still waiting
 
 **Characters:** MAYA, ELLA, LEO. **Location:** PREP_ISLAND. **Wardrobe:** W01 only.
 **Composition:** Medium safe tray check, Maya holding cooked food on the adult side.
@@ -1301,7 +1303,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** The cut first pancake remains one item. Children check from their cool space without touching warm tray edges.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–4.07s · LEO 4.22–6.78s · MAYA 6.93–9.50s · ELLA 9.65–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.71s · LEO 2.81–4.52s · MAYA 4.62–6.33s · ELLA 6.43–9.53s.
 
 **Dialogue:**
 **ELLA:** The table is ready whenever the last two are.
@@ -1312,7 +1314,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 
 **ELLA:** I can hear the pan from my place at the table.
 
-## SHOT_063 | 00:15:30–00:15:45 | The last of the one batch
+## SHOT_063 | 00:10:20–00:10:30 | The last of the one batch
 
 **Characters:** DAN, NINA. **Location:** STOVE_STATION. **Wardrobe:** W01 only.
 **Composition:** Close final two small portions, emptying BLUE without a phantom refill.
@@ -1322,7 +1324,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No thirteenth pancake, extra egg, milk top-up or new bowlful. The recipe butter total remains four tablespoons.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.65s · NINA 3.80–6.78s · DAN 6.93–10.33s · NINA 10.48–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.43s · NINA 2.53–4.52s · DAN 4.62–6.89s · NINA 6.99–9.53s.
 
 **Dialogue:**
 **DAN:** The last two portions, from our one bowl.
@@ -1333,7 +1335,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 
 **NINA:** Tilt it a little. There's your second little scoop.
 
-## SHOT_064 | 00:15:45–00:16:00 | Twelve, cooked all the way through
+## SHOT_064 | 00:10:30–00:10:40 | Twelve, cooked all the way through
 
 **Characters:** NINA, DAN, MAYA. **Location:** STOVE_STATION. **Wardrobe:** W01 only.
 **Composition:** Medium final pair transferring to the clean tray after a cooking-time dissolve.
@@ -1343,7 +1345,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Both sides and centers are cooked before transfer. No leftover raw pool, duplicated stack or discarded crooked pancake.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–2.97s · DAN 3.12–5.40s · NINA 5.55–9.15s · DAN 9.30–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.98s · DAN 2.08–3.60s · NINA 3.70–6.10s · DAN 6.20–9.19s.
 
 **Dialogue:**
 **MAYA:** Twelve small pancakes, ready to share.
@@ -1354,7 +1356,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 
 **DAN:** I know exactly which one I'm looking for on there.
 
-## SHOT_065 | 00:16:00–00:16:15 | The last stove job
+## SHOT_065 | 00:10:40–00:10:50 | The last stove job
 
 **Characters:** NINA, DAN. **Location:** STOVE_STATION. **Wardrobe:** W01 only.
 **Composition:** Close adult hand turning the burner OFF, then wider safe-pan hold.
@@ -1364,7 +1366,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** OFF does not mean the pan is instantly cold. Children do not approach it; no steam or active cooking is added later.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–2.97s · NINA 3.12–5.84s · DAN 5.99–9.15s · NINA 9.30–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.98s · NINA 2.08–3.89s · DAN 3.99–6.10s · NINA 6.20–9.19s.
 
 **Dialogue:**
 **DAN:** Breakfast is cooked. One more job.
@@ -1375,7 +1377,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 
 **NINA:** Yes. We'll leave the handle turned in while it cools.
 
-## SHOT_066 | 00:16:15–00:16:30 | Raw tools finish separately
+## SHOT_066 | 00:10:50–00:11:00 | Raw tools finish separately
 
 **Characters:** NINA, MAYA, DAN. **Location:** PREP_ISLAND. **Wardrobe:** W01 only.
 **Composition:** Medium empty BLUE bowl moving to the raw-preparation washing tray.
@@ -1385,7 +1387,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** A thin residue awaiting washing is not a new portion. No child tastes the bowls or uses a raw ladle to serve cooked pancakes.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–3.85s · DAN 4.00–5.84s · NINA 5.99–10.03s · MAYA 10.18–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–2.57s · DAN 2.67–3.89s · NINA 3.99–6.69s · MAYA 6.79–9.19s.
 
 **Dialogue:**
 **MAYA:** Raw preparation tools here. Clean serving tools there.
@@ -1396,7 +1398,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 
 **MAYA:** Good. I'll take the clean ones for serving.
 
-## SHOT_067 | 00:16:30–00:16:45 | The first pancake keeps its place
+## SHOT_067 | 00:11:00–00:11:10 | The first pancake keeps its place
 
 **Characters:** MAYA, DAN, LEO. **Location:** PREP_ISLAND. **Wardrobe:** W01 only.
 **Composition:** Medium tray count, first pancake halves together at one end.
@@ -1406,7 +1408,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Do not count the halves as separate pancakes. First pancake is cooked through and intentionally kept, not hidden as waste.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–2.82s · DAN 2.97–5.54s · MAYA 5.69–9.92s · DAN 10.07–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.88s · DAN 1.98–3.69s · MAYA 3.79–6.61s · DAN 6.71–9.53s.
 
 **Dialogue:**
 **LEO:** Two halves still make one pancake.
@@ -1417,7 +1419,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 
 **DAN:** I wouldn't trade the crooked edge for a round one.
 
-## SHOT_068 | 00:16:45–00:17:00 | Carry the food, leave the heat
+## SHOT_068 | 00:11:10–00:11:20 | Carry the food, leave the heat
 
 **Characters:** MAYA, NINA, DAN. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Medium kitchen-to-table doorway, cooked tray held level.
@@ -1427,7 +1429,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No hot pan, raw bowl, vase or side dish travels to the table. Preserve the original kitchen doorway and dining geography.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–5.08s · NINA 5.23–6.07s · MAYA 6.22–10.18s · NINA 10.33–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–3.39s · NINA 3.49–4.05s · MAYA 4.15–6.79s · NINA 6.89–9.53s.
 
 **Dialogue:**
 **DAN:** The food goes to the table. The hot pan stays behind.
@@ -1438,7 +1440,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 
 **NINA:** Let's carry the cooked pancakes while they're still warm.
 
-## SHOT_069 | 00:17:00–00:17:15 | The adventurous serving
+## SHOT_069 | 00:11:20–00:11:30 | The adventurous serving
 
 **Characters:** MAYA, DAN. **Location:** HOME_TABLE. **Wardrobe:** W01 only.
 **Composition:** Medium Dan at near-left seat, Maya serving from the table landing side.
@@ -1448,7 +1450,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Dan receives the same pancake amount as everyone else. Three pieces do not mean three pancakes; no extra topping appears.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.41s · MAYA 3.56–5.84s · DAN 5.99–8.71s · MAYA 8.86–12.90s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.27s · MAYA 2.37–3.89s · DAN 3.99–5.81s · MAYA 5.91–8.60s.
 
 **Dialogue:**
 **DAN:** My unusual pancake made it to breakfast.
@@ -1459,7 +1461,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 
 **MAYA:** And a little edge of its own to recognize.
 
-## SHOT_070 | 00:17:15–00:17:30 | Two for Leo, two for Ella
+## SHOT_070 | 00:11:30–00:11:40 | Two for Leo, two for Ella
 
 **Characters:** NINA, LEO, ELLA. **Location:** HOME_TABLE. **Wardrobe:** W01 only.
 **Composition:** Medium left-end and far-left places, clean serving utensil visible.
@@ -1469,7 +1471,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Serve from the clean cooked tray with the clean utensil, never the raw batter measure or personal forks.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–1.21s · ELLA 1.36–5.40s · NINA 5.55–8.71s · ELLA 8.86–12.90s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–0.81s · ELLA 0.91–3.60s · NINA 3.70–5.81s · ELLA 5.91–8.60s.
 
 **Dialogue:**
 **LEO:** Two here.
@@ -1480,7 +1482,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 
 **ELLA:** I can see the crooked one from my place.
 
-## SHOT_071 | 00:17:30–00:17:45 | The final six find their plates
+## SHOT_071 | 00:11:40–00:11:50 | The final six find their plates
 
 **Characters:** NINA, MAYA, MAX. **Location:** HOME_TABLE. **Wardrobe:** W01 only.
 **Composition:** Medium right-end, far-right and near-right places on the same axis.
@@ -1490,7 +1492,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Max's small pancakes are fully cooked. The first cut pancake remains on Dan's plate and is not duplicated here.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–3.85s · MAYA 4.00–5.84s · NINA 5.99–9.15s · MAX 9.30–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.57s · MAYA 2.67–3.89s · NINA 3.99–6.10s · MAX 6.20–8.89s.
 
 **Dialogue:**
 **MAX:** Two for me. Two for each of you.
@@ -1501,7 +1503,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 
 **MAX:** Even the adults got two. We counted them right.
 
-## SHOT_072 | 00:17:45–00:18:00 | All six, ready together
+## SHOT_072 | 00:11:50–00:12:00 | All six, ready together
 
 **Characters:** DAN, MAYA, NINA, LEO, ELLA, MAX. **Location:** HOME_TABLE. **Wardrobe:** W01 only.
 **Composition:** Warm wide original six-seat tableau, plates readable without extra chairs.
@@ -1511,7 +1513,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Dan near-left, Leo left-end, Ella far-left, Maya far-right, Nina right-end, Max near-right; no new relative or seventh plate.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.41s · MAX 3.56–6.28s · NINA 6.43–9.59s · ELLA 9.74–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.27s · MAX 2.37–4.19s · NINA 4.29–6.39s · ELLA 6.49–9.19s.
 
 **Dialogue:**
 **DAN:** Six people. Twelve pancakes. Breakfast is here.
@@ -1522,7 +1524,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 
 **ELLA:** Can we find out what they taste like now?
 
-## SHOT_073 | 00:18:00–00:18:15 | The first bite was worth waiting for
+## SHOT_073 | 00:12:00–00:12:10 | The first bite was worth waiting for
 
 **Characters:** DAN, LEO, MAYA. **Location:** HOME_TABLE. **Wardrobe:** W01 only.
 **Composition:** Quiet medium Dan and Leo, Maya visible across the table.
@@ -1532,7 +1534,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No talking while chewing, raw-center gag or food swapping. The only food is the one cooked pancake batch.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–2.47s · DAN 2.62–6.99s · MAYA 7.14–9.79s · DAN 9.94–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.65s · DAN 1.75–4.66s · MAYA 4.76–6.53s · DAN 6.63–9.53s.
 
 **Dialogue:**
 **LEO:** How is the adventurous one?
@@ -1543,7 +1545,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 
 **DAN:** I'm glad we kept it. I'd have missed this bite.
 
-## SHOT_074 | 00:18:15–00:18:30 | Ella's careful line mattered
+## SHOT_074 | 00:12:10–00:12:20 | Ella's careful line mattered
 
 **Characters:** ELLA, MAYA, NINA. **Location:** HOME_TABLE. **Wardrobe:** W01 only.
 **Composition:** Medium Ella at far-left, adults across the fixed table positions.
@@ -1553,7 +1555,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** This is a child's proud observation about breakfast, not a recitation or viewer exercise. Keep Maya and Nina equally respected.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–2.09s · MAYA 2.24–4.08s · NINA 4.23–8.71s · ELLA 8.86–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.39s · MAYA 1.49–2.72s · NINA 2.82–5.81s · ELLA 5.91–8.89s.
 
 **Dialogue:**
 **ELLA:** I helped make these.
@@ -1564,7 +1566,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 
 **ELLA:** Next time I'll know which spoon to pick up first.
 
-## SHOT_075 | 00:18:30–00:18:45 | The empty vase had a quiet morning
+## SHOT_075 | 00:12:20–00:12:30 | The empty vase had a quiet morning
 
 **Characters:** MAX, DAN, NINA. **Location:** HOME_TABLE. **Wardrobe:** W01 only.
 **Composition:** Child-height three-shot, clear vase far away on its decoration shelf if visible.
@@ -1574,7 +1576,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No surprise flower appears in pancakes, vase, ingredients or children's hands. Do not move the vase onto the dining table.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–2.90s · DAN 3.05–6.13s · NINA 6.28–10.21s · MAX 10.36–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.93s · DAN 2.03–4.09s · NINA 4.19–6.81s · MAX 6.91–9.53s.
 
 **Dialogue:**
 **MAX:** The vase did not help much.
@@ -1585,7 +1587,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 
 **MAX:** Maybe it could teach the batter how to nap.
 
-## SHOT_076 | 00:18:45–00:19:00 | A useful kind of help
+## SHOT_076 | 00:12:30–00:12:40 | A useful kind of help
 
 **Characters:** DAN, MAYA, NINA. **Location:** HOME_TABLE. **Wardrobe:** W01 only.
 **Composition:** Steady adult three-shot, warm eyelines across the original table.
@@ -1595,7 +1597,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Keep the emotion proportionate to a small breakfast misunderstanding. No humiliation, wife rivalry or direct-to-viewer moral.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.65s · MAYA 3.80–6.37s · NINA 6.52–9.50s · DAN 9.65–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.43s · MAYA 2.53–4.25s · NINA 4.35–6.33s · DAN 6.43–9.53s.
 
 **Dialogue:**
 **DAN:** I thought asking would make me less helpful.
@@ -1606,7 +1608,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 
 **DAN:** That's a job I can start before I touch a spoon.
 
-## SHOT_077 | 00:19:00–00:19:15 | Pieces and pancakes
+## SHOT_077 | 00:12:40–00:12:50 | Pieces and pancakes
 
 **Characters:** MAX, LEO, DAN. **Location:** HOME_TABLE. **Wardrobe:** W01 only.
 **Composition:** Medium Max near-right looking toward Dan near-left, Leo at left-end.
@@ -1616,7 +1618,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Food may be partly eaten now. Do not refill plates to their original full state for the joke or count small bite pieces as new pancakes.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–2.97s · LEO 3.12–6.72s · DAN 6.87–9.59s · MAX 9.74–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.98s · LEO 2.08–4.48s · DAN 4.58–6.39s · MAX 6.49–9.19s.
 
 **Dialogue:**
 **MAX:** Dad's breakfast came in extra pieces.
@@ -1627,7 +1629,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 
 **MAX:** I think your pancake looks happier that way, Dad.
 
-## SHOT_078 | 00:19:15–00:19:30 | Another day, another useful question
+## SHOT_078 | 00:12:50–00:13:00 | Another day, another useful question
 
 **Characters:** MAX, MAYA, DAN. **Location:** HOME_TABLE. **Wardrobe:** W01 only.
 **Composition:** Warm medium family conversation, feet remain below the table.
@@ -1637,7 +1639,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Keep shoes below/outside the food area. No wrong-box gag, mall scene or new cast is brought into Episode 03.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–2.40s · MAYA 2.55–5.54s · DAN 5.69–9.92s · MAX 10.07–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.60s · MAYA 1.70–3.69s · DAN 3.79–6.61s · MAX 6.71–9.53s.
 
 **Dialogue:**
 **MAX:** My school shoes feel tight.
@@ -1648,7 +1650,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 
 **MAX:** Can I pick a pair with room for my toes?
 
-## SHOT_079 | 00:19:30–00:19:45 | Breakfast finishes together
+## SHOT_079 | 00:13:00–00:13:10 | Breakfast finishes together
 
 **Characters:** MAYA, NINA, DAN, ELLA. **Location:** HOME_TABLE. **Wardrobe:** W01 only.
 **Composition:** Medium table clearing after an explicit mealtime dissolve.
@@ -1658,7 +1660,7 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 **Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Dirty table utensils remain separate from food-preparation tools. The kitchen stove stays OFF; the first pancake was eaten, not discarded.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–4.90s · DAN 5.05–6.78s · NINA 6.93–10.33s · MAYA 10.48–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–3.27s · DAN 3.37–4.52s · NINA 4.62–6.89s · MAYA 6.99–9.53s.
 
 **Dialogue:**
 **ELLA:** We found the tools, made breakfast, and even cleared the plates.
@@ -1669,17 +1671,17 @@ This file is refreshed from STORY.md with `python Episode_03/sync.py`. Edit the 
 
 **MAYA:** Especially the people who knew where the flour was.
 
-## SHOT_080 | 00:19:45–00:20:00 | One breakfast, one family
+## SHOT_080 | 00:13:10–00:13:20 | One breakfast, one family
 
 **Characters:** DAN, MAYA, NINA, LEO, ELLA, MAX. **Location:** HOME_TABLE. **Wardrobe:** W01 only.
-**Composition:** Slow wide pullback on the original six seats, ending within 00:20:00.
+**Composition:** Slow wide pullback on the original six seats, ending within 00:13:20.
 **Action:** All six share a relaxed smile around the now-cleared table. Dan rests his empty hands beside his place; Maya and Nina sit comfortably with the children. The empty vase remains far away on its shelf. Add a modest editorial closing overlay only within the final two seconds.
 **Starting continuity:** Meal finished, plates gathered; all six in fixed places; no cooking active.
-**Ending continuity:** Hold the six-person family tableau through 00:20:00; pancake story complete, with no unresolved cooking or food mistake.
+**Ending continuity:** Hold the six-person family tableau through 00:13:20; pancake story complete, with no unresolved cooking or food mistake.
 **Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
-**Continuity:** No chorus, recap narrator or practice card. Optional creator-designed practice belongs after the completed twenty-minute story.
+**Continuity:** No chorus, recap narrator or practice card. Optional creator-designed practice belongs after the completed 13-minute-20-second story.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–2.97s · MAYA 3.12–4.96s · MAX 5.11–9.15s · ELLA 9.30–12.90s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.98s · MAYA 2.08–3.31s · MAX 3.41–6.10s · ELLA 6.20–8.60s.
 
 **Dialogue:**
 **DAN:** No bouquet. A very good breakfast.

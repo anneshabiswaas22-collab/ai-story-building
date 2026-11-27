@@ -1,6 +1,8 @@
 # Episode 15 — The Book With Two Beginnings!
 
-A Maple House English family comedy in 80 consecutive 15-second shots. Story runtime is 20:00.
+A Maple House English family comedy in 80 consecutive 10-second shots. Planned story runtime is 13:20.
+
+**Editing plan:** Plan each shot for 10 editorial seconds to reduce filler pauses and unnecessary movements. Preserve natural dialogue delivery and meaningful actions; confirm timing against recorded performances before final editing rather than adding silence or speeding up speech.
 
 Maya remembers a girl chasing a yellow hat. Her sister Rose remembers a beetle sailing a yellow boat. With Rose coming over this afternoon, Maya takes their childhood bookmark to the library to settle the argument. Max appoints himself the official stitch counter.
 
@@ -20,18 +22,18 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 | Time | Dramatic action |
 |---|---|
-| 00:00–03:30 | Max finds a boat in Maya’s book about beans. A name on the old bookmark sends the family looking for the hat Maya remembers. |
-| 03:30–08:00 | The librarian points Maya to Q. She opens Rose’s green boat book and follows a beetle and his lunch one page too far. |
-| 08:00–12:00 | Maya turns the book around. From Dot’s height the giant makes sense, and a leaf the width of a finger makes a perfectly good bridge. |
-| 12:00–15:30 | The family leaves the next reader an invitation, saves the middle for Rose and checks out a single book with two front covers. |
-| 15:30–17:00 | Back at the entry bench, Maya remembers how she put a question mark beside Rose’s boat. She leaves space for her sister to answer. |
-| 17:00–20:00 | Rose spots the beetle from the doorway and knows her own drawing by its crooked bow. Six pencil strokes give an old question a new ending, and the sisters finally read shoulder to shoulder. |
+| 00:00–02:20 | Max finds a boat in Maya’s book about beans. A name on the old bookmark sends the family looking for the hat Maya remembers. |
+| 02:20–05:20 | The librarian points Maya to Q. She opens Rose’s green boat book and follows a beetle and his lunch one page too far. |
+| 05:20–08:00 | Maya turns the book around. From Dot’s height the giant makes sense, and a leaf the width of a finger makes a perfectly good bridge. |
+| 08:00–10:20 | The family leaves the next reader an invitation, saves the middle for Rose and checks out a single book with two front covers. |
+| 10:20–11:20 | Back at the entry bench, Maya remembers how she put a question mark beside Rose’s boat. She leaves space for her sister to answer. |
+| 11:20–13:20 | Rose spots the beetle from the doorway and knows her own drawing by its crooked bow. Six pencil strokes give an old question a new ending, and the sisters finally read shoulder to shoulder. |
 
 ## Timed screenplay
 
 <a name="shot-001"></a>
 
-### SHOT_001 | 00:00:00–00:00:15 | A boat in the beans
+### SHOT_001 | 00:00:00–00:00:10 | A boat in the beans
 
 **Visible cast:** MAYA, LEO, MAX
 
@@ -59,7 +61,7 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 <a name="shot-002"></a>
 
-### SHOT_002 | 00:00:15–00:00:30 | Two ends of one bookmark
+### SHOT_002 | 00:00:10–00:00:20 | Two ends of one bookmark
 
 **Visible cast:** MAYA, ELLA, MAX
 
@@ -87,7 +89,7 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 <a name="shot-003"></a>
 
-### SHOT_003 | 00:00:30–00:00:45 | An argument coming to visit
+### SHOT_003 | 00:00:20–00:00:30 | An argument coming to visit
 
 **Visible cast:** DAN, MAYA, NINA, LEO
 
@@ -115,7 +117,7 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 <a name="shot-004"></a>
 
-### SHOT_004 | 00:00:45–00:01:00 | Three little stitches
+### SHOT_004 | 00:00:30–00:00:40 | Three little stitches
 
 **Visible cast:** MAYA, ELLA, MAX
 
@@ -143,7 +145,7 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 <a name="shot-005"></a>
 
-### SHOT_005 | 00:01:00–00:01:15 | The title that won't come
+### SHOT_005 | 00:00:40–00:00:50 | The title that won't come
 
 **Visible cast:** DAN, MAYA, NINA
 
@@ -171,7 +173,7 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 <a name="shot-006"></a>
 
-### SHOT_006 | 00:01:15–00:01:30 | Grandma wrote on the back
+### SHOT_006 | 00:00:50–00:01:00 | Grandma wrote on the back
 
 **Visible cast:** LEO, MAYA, ELLA
 
@@ -199,7 +201,7 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 <a name="shot-007"></a>
 
-### SHOT_007 | 00:01:30–00:01:45 | Pick a beginning
+### SHOT_007 | 00:01:00–00:01:10 | Pick a beginning
 
 **Visible cast:** MAYA, NINA, MAX
 
@@ -227,7 +229,7 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 <a name="shot-008"></a>
 
-### SHOT_008 | 00:01:45–00:02:00 | Who gets to choose today?
+### SHOT_008 | 00:01:10–00:01:20 | Who gets to choose today?
 
 **Visible cast:** DAN, MAYA, LEO, MAX
 
@@ -255,7 +257,7 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 <a name="shot-009"></a>
 
-### SHOT_009 | 00:02:00–00:02:15 | A question for a librarian
+### SHOT_009 | 00:01:20–00:01:30 | A question for a librarian
 
 **Visible cast:** NINA, DAN, MAYA, ELLA
 
@@ -283,7 +285,7 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 <a name="shot-010"></a>
 
-### SHOT_010 | 00:02:15–00:02:30 | A visit this afternoon
+### SHOT_010 | 00:01:30–00:01:40 | A visit this afternoon
 
 **Visible cast:** DAN, MAYA, LEO, MAX
 
@@ -311,7 +313,7 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 <a name="shot-011"></a>
 
-### SHOT_011 | 00:02:30–00:02:45 | Under the blue canopy
+### SHOT_011 | 00:01:40–00:01:50 | Under the blue canopy
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX
 
@@ -339,7 +341,7 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 <a name="shot-012"></a>
 
-### SHOT_012 | 00:02:45–00:03:00 | A boat that stays ashore
+### SHOT_012 | 00:01:50–00:02:00 | A boat that stays ashore
 
 **Visible cast:** NINA, MAYA, MAX
 
@@ -367,7 +369,7 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 <a name="shot-013"></a>
 
-### SHOT_013 | 00:03:00–00:03:15 | Back through the slot
+### SHOT_013 | 00:02:00–00:02:10 | Back through the slot
 
 **Visible cast:** DAN, NINA, MAYA, MAX
 
@@ -395,7 +397,7 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 <a name="shot-014"></a>
 
-### SHOT_014 | 00:03:15–00:03:30 | Somebody who knows the shelves
+### SHOT_014 | 00:02:10–00:02:20 | Somebody who knows the shelves
 
 **Visible cast:** LIBRARIAN, ELLA, MAYA, NINA
 
@@ -423,7 +425,7 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 <a name="shot-015"></a>
 
-### SHOT_015 | 00:03:30–00:03:45 | “I don't know the title”
+### SHOT_015 | 00:02:20–00:02:30 | “I don't know the title”
 
 **Visible cast:** LIBRARIAN, MAYA, ELLA
 
@@ -451,7 +453,7 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 <a name="shot-016"></a>
 
-### SHOT_016 | 00:03:45–00:04:00 | A cover is a clue
+### SHOT_016 | 00:02:30–00:02:40 | A cover is a clue
 
 **Visible cast:** LIBRARIAN, MAYA, LEO, MAX
 
@@ -479,7 +481,7 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 <a name="shot-017"></a>
 
-### SHOT_017 | 00:04:00–00:04:15 | Quill begins with Q
+### SHOT_017 | 00:02:40–00:02:50 | Quill begins with Q
 
 **Visible cast:** LIBRARIAN, MAYA, ELLA, MAX
 
@@ -507,7 +509,7 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 <a name="shot-018"></a>
 
-### SHOT_018 | 00:04:15–00:04:30 | A boat for Rose
+### SHOT_018 | 00:02:50–00:03:00 | A boat for Rose
 
 **Visible cast:** LIBRARIAN, MAYA, LEO, ELLA
 
@@ -535,7 +537,7 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 <a name="shot-019"></a>
 
-### SHOT_019 | 00:04:30–00:04:45 | The book Maya didn't expect
+### SHOT_019 | 00:03:00–00:03:10 | The book Maya didn't expect
 
 **Visible cast:** DAN, MAYA, NINA, MAX
 
@@ -563,7 +565,7 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 <a name="shot-020"></a>
 
-### SHOT_020 | 00:04:45–00:05:00 | Maya's turn to choose
+### SHOT_020 | 00:03:10–00:03:20 | Maya's turn to choose
 
 **Visible cast:** MAYA, NINA, LEO
 
@@ -591,7 +593,7 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 <a name="shot-021"></a>
 
-### SHOT_021 | 00:05:00–00:05:15 | Six readers at one window
+### SHOT_021 | 00:03:20–00:03:30 | Six readers at one window
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX
 
@@ -619,7 +621,7 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 <a name="shot-022"></a>
 
-### SHOT_022 | 00:05:15–00:05:30 | What has the beetle packed?
+### SHOT_022 | 00:03:30–00:03:40 | What has the beetle packed?
 
 **Visible cast:** LEO, ELLA, MAX, MAYA
 
@@ -647,7 +649,7 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 <a name="shot-023"></a>
 
-### SHOT_023 | 00:05:30–00:05:45 | A table across the puddle
+### SHOT_023 | 00:03:40–00:03:50 | A table across the puddle
 
 **Visible cast:** MAYA, NINA, MAX
 
@@ -675,7 +677,7 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 <a name="shot-024"></a>
 
-### SHOT_024 | 00:05:45–00:06:00 | A table with no legs
+### SHOT_024 | 00:03:50–00:04:00 | A table with no legs
 
 **Visible cast:** DAN, NINA, ELLA, MAX
 
@@ -703,7 +705,7 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 <a name="shot-025"></a>
 
-### SHOT_025 | 00:06:00–00:06:15 | The yellow boat bumps the twig
+### SHOT_025 | 00:04:00–00:04:10 | The yellow boat bumps the twig
 
 **Visible cast:** MAYA, LEO, MAX
 
@@ -731,7 +733,7 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 <a name="shot-026"></a>
 
-### SHOT_026 | 00:06:15–00:06:30 | Something on the rim
+### SHOT_026 | 00:04:10–00:04:20 | Something on the rim
 
 **Visible cast:** MAYA, ELLA, MAX
 
@@ -759,7 +761,7 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 <a name="shot-027"></a>
 
-### SHOT_027 | 00:06:30–00:06:45 | One clue and two ideas
+### SHOT_027 | 00:04:20–00:04:30 | One clue and two ideas
 
 **Visible cast:** MAYA, NINA, LEO
 
@@ -787,7 +789,7 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 <a name="shot-028"></a>
 
-### SHOT_028 | 00:06:45–00:07:00 | A giant at the bank
+### SHOT_028 | 00:04:30–00:04:40 | A giant at the bank
 
 **Visible cast:** MAYA, ELLA, MAX
 
@@ -815,7 +817,7 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 <a name="shot-029"></a>
 
-### SHOT_029 | 00:07:00–00:07:15 | What does the giant want?
+### SHOT_029 | 00:04:40–00:04:50 | What does the giant want?
 
 **Visible cast:** DAN, MAYA, NINA, LEO
 
@@ -843,7 +845,7 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 <a name="shot-030"></a>
 
-### SHOT_030 | 00:07:15–00:07:30 | The page with no words
+### SHOT_030 | 00:04:50–00:05:00 | The page with no words
 
 **Visible cast:** MAYA, ELLA, LEO, MAX
 
@@ -871,7 +873,7 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 <a name="shot-031"></a>
 
-### SHOT_031 | 00:07:30–00:07:45 | A finger on the landing
+### SHOT_031 | 00:05:00–00:05:10 | A finger on the landing
 
 **Visible cast:** ELLA, MAYA, NINA
 
@@ -899,7 +901,7 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 <a name="shot-032"></a>
 
-### SHOT_032 | 00:07:45–00:08:00 | One page too far
+### SHOT_032 | 00:05:10–00:05:20 | One page too far
 
 **Visible cast:** DAN, MAYA, LEO, MAX
 
@@ -927,7 +929,7 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 <a name="shot-033"></a>
 
-### SHOT_033 | 00:08:00–00:08:15 | Turn the reader or turn the book?
+### SHOT_033 | 00:05:20–00:05:30 | Turn the reader or turn the book?
 
 **Visible cast:** MAYA, NINA, LEO
 
@@ -955,7 +957,7 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 <a name="shot-034"></a>
 
-### SHOT_034 | 00:08:15–00:08:30 | No place for a back cover
+### SHOT_034 | 00:05:30–00:05:40 | No place for a back cover
 
 **Visible cast:** MAYA, ELLA, MAX
 
@@ -983,7 +985,7 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 <a name="shot-035"></a>
 
-### SHOT_035 | 00:08:30–00:08:45 | A second face
+### SHOT_035 | 00:05:40–00:05:50 | A second face
 
 **Visible cast:** DAN, MAYA, ELLA, MAX
 
@@ -1011,7 +1013,7 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 <a name="shot-036"></a>
 
-### SHOT_036 | 00:08:45–00:09:00 | Come Back, Hat!
+### SHOT_036 | 00:05:50–00:06:00 | Come Back, Hat!
 
 **Visible cast:** MAYA, NINA, LEO, ELLA, MAX
 
@@ -1039,7 +1041,7 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 <a name="shot-037"></a>
 
-### SHOT_037 | 00:09:00–00:09:15 | Grandma's wrist
+### SHOT_037 | 00:06:00–00:06:10 | Grandma's wrist
 
 **Visible cast:** MAYA, DAN, NINA
 
@@ -1067,7 +1069,7 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 <a name="shot-038"></a>
 
-### SHOT_038 | 00:09:15–00:09:30 | That pencil question mark
+### SHOT_038 | 00:06:10–00:06:20 | That pencil question mark
 
 **Visible cast:** LEO, ELLA, MAYA
 
@@ -1095,7 +1097,7 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 <a name="shot-039"></a>
 
-### SHOT_039 | 00:09:30–00:09:45 | The part she might have missed
+### SHOT_039 | 00:06:20–00:06:30 | The part she might have missed
 
 **Visible cast:** DAN, MAYA, NINA, MAX
 
@@ -1123,7 +1125,7 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 <a name="shot-040"></a>
 
-### SHOT_040 | 00:09:45–00:10:00 | A girl, a hat and a breeze
+### SHOT_040 | 00:06:30–00:06:40 | A girl, a hat and a breeze
 
 **Visible cast:** MAYA, ELLA, MAX
 
@@ -1151,7 +1153,7 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 <a name="shot-041"></a>
 
-### SHOT_041 | 00:10:00–00:10:15 | One face of the patch
+### SHOT_041 | 00:06:40–00:06:50 | One face of the patch
 
 **Visible cast:** LEO, MAYA, ELLA, MAX
 
@@ -1179,7 +1181,7 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 <a name="shot-042"></a>
 
-### SHOT_042 | 00:10:15–00:10:30 | A hat in the puddle
+### SHOT_042 | 00:06:50–00:07:00 | A hat in the puddle
 
 **Visible cast:** MAYA, DAN, ELLA, MAX
 
@@ -1207,7 +1209,7 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 <a name="shot-043"></a>
 
-### SHOT_043 | 00:10:30–00:10:45 | The road around the puddle
+### SHOT_043 | 00:07:00–00:07:10 | The road around the puddle
 
 **Visible cast:** ELLA, MAYA, NINA, LEO
 
@@ -1235,7 +1237,7 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 <a name="shot-044"></a>
 
-### SHOT_044 | 00:10:45–00:11:00 | What the giant saw
+### SHOT_044 | 00:07:10–00:07:20 | What the giant saw
 
 **Visible cast:** MAYA, LEO, MAX
 
@@ -1263,7 +1265,7 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 <a name="shot-045"></a>
 
-### SHOT_045 | 00:11:00–00:11:15 | The part Maya forgot
+### SHOT_045 | 00:07:20–00:07:30 | The part Maya forgot
 
 **Visible cast:** MAYA, NINA, ELLA
 
@@ -1291,7 +1293,7 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 <a name="shot-046"></a>
 
-### SHOT_046 | 00:11:15–00:11:30 | Same landing, other way up
+### SHOT_046 | 00:07:30–00:07:40 | Same landing, other way up
 
 **Visible cast:** MAYA, LEO, ELLA, MAX
 
@@ -1319,7 +1321,7 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 <a name="shot-047"></a>
 
-### SHOT_047 | 00:11:30–00:11:45 | What the finger holds
+### SHOT_047 | 00:07:40–00:07:50 | What the finger holds
 
 **Visible cast:** MAYA, NINA, MAX
 
@@ -1347,7 +1349,7 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 <a name="shot-048"></a>
 
-### SHOT_048 | 00:11:45–00:12:00 | Everybody gets something back
+### SHOT_048 | 00:07:50–00:08:00 | Everybody gets something back
 
 **Visible cast:** DAN, MAYA, LEO, ELLA
 
@@ -1375,7 +1377,7 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 <a name="shot-049"></a>
 
-### SHOT_049 | 00:12:00–00:12:15 | Something to tell Rose
+### SHOT_049 | 00:08:00–00:08:10 | Something to tell Rose
 
 **Visible cast:** MAYA, NINA, ELLA
 
@@ -1403,7 +1405,7 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 <a name="shot-050"></a>
 
-### SHOT_050 | 00:12:15–00:12:30 | Did you find your book?
+### SHOT_050 | 00:08:10–00:08:20 | Did you find your book?
 
 **Visible cast:** LIBRARIAN, MAYA, LEO, MAX
 
@@ -1431,7 +1433,7 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 <a name="shot-051"></a>
 
-### SHOT_051 | 00:12:30–00:12:45 | Save the landing
+### SHOT_051 | 00:08:20–00:08:30 | Save the landing
 
 **Visible cast:** MAYA, NINA, ELLA, LEO
 
@@ -1459,7 +1461,7 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 <a name="shot-052"></a>
 
-### SHOT_052 | 00:12:45–00:13:00 | A card for the next reader
+### SHOT_052 | 00:08:30–00:08:40 | A card for the next reader
 
 **Visible cast:** LIBRARIAN, MAYA, NINA, ELLA
 
@@ -1487,7 +1489,7 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 <a name="shot-053"></a>
 
-### SHOT_053 | 00:13:00–00:13:15 | A slash between friends
+### SHOT_053 | 00:08:40–00:08:50 | A slash between friends
 
 **Visible cast:** MAYA, LEO, ELLA, MAX
 
@@ -1515,7 +1517,7 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 <a name="shot-054"></a>
 
-### SHOT_054 | 00:13:15–00:13:30 | One line without the ending
+### SHOT_054 | 00:08:50–00:09:00 | One line without the ending
 
 **Visible cast:** DAN, MAYA, NINA, MAX
 
@@ -1543,7 +1545,7 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 <a name="shot-055"></a>
 
-### SHOT_055 | 00:13:30–00:13:45 | Meet in the middle
+### SHOT_055 | 00:09:00–00:09:10 | Meet in the middle
 
 **Visible cast:** LIBRARIAN, MAYA, ELLA
 
@@ -1571,7 +1573,7 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 <a name="shot-056"></a>
 
-### SHOT_056 | 00:13:45–00:14:00 | One book for the bag
+### SHOT_056 | 00:09:10–00:09:20 | One book for the bag
 
 **Visible cast:** DAN, MAYA, NINA, MAX
 
@@ -1599,7 +1601,7 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 <a name="shot-057"></a>
 
-### SHOT_057 | 00:14:00–00:14:15 | Maya's own card
+### SHOT_057 | 00:09:20–00:09:30 | Maya's own card
 
 **Visible cast:** DAN, MAYA, LEO, MAX
 
@@ -1627,7 +1629,7 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 <a name="shot-058"></a>
 
-### SHOT_058 | 00:14:15–00:14:30 | Card first
+### SHOT_058 | 00:09:30–00:09:40 | Card first
 
 **Visible cast:** MAYA, NINA, MAX
 
@@ -1655,7 +1657,7 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 <a name="shot-059"></a>
 
-### SHOT_059 | 00:14:30–00:14:45 | Inside the green cover
+### SHOT_059 | 00:09:40–00:09:50 | Inside the green cover
 
 **Visible cast:** ELLA, MAYA, LEO
 
@@ -1683,7 +1685,7 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 <a name="shot-060"></a>
 
-### SHOT_060 | 00:14:45–00:15:00 | Proof that a beetle can travel
+### SHOT_060 | 00:09:50–00:10:00 | Proof that a beetle can travel
 
 **Visible cast:** DAN, MAYA, NINA, LEO
 
@@ -1711,7 +1713,7 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 <a name="shot-061"></a>
 
-### SHOT_061 | 00:15:00–00:15:15 | A place for both bits of paper
+### SHOT_061 | 00:10:00–00:10:10 | A place for both bits of paper
 
 **Visible cast:** MAYA, DAN, ELLA, MAX
 
@@ -1739,7 +1741,7 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 <a name="shot-062"></a>
 
-### SHOT_062 | 00:15:15–00:15:30 | One look over the shoulder
+### SHOT_062 | 00:10:10–00:10:20 | One look over the shoulder
 
 **Visible cast:** NINA, MAYA, MAX
 
@@ -1767,7 +1769,7 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 <a name="shot-063"></a>
 
-### SHOT_063 | 00:15:30–00:15:45 | The turn in Grandma's wrist
+### SHOT_063 | 00:10:20–00:10:30 | The turn in Grandma's wrist
 
 **Visible cast:** DAN, MAYA, LEO
 
@@ -1795,7 +1797,7 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 <a name="shot-064"></a>
 
-### SHOT_064 | 00:15:45–00:16:00 | A space by the door
+### SHOT_064 | 00:10:30–00:10:40 | A space by the door
 
 **Visible cast:** MAYA, NINA, ELLA, MAX
 
@@ -1823,7 +1825,7 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 <a name="shot-065"></a>
 
-### SHOT_065 | 00:16:00–00:16:15 | What kind of question was it?
+### SHOT_065 | 00:10:40–00:10:50 | What kind of question was it?
 
 **Visible cast:** MAYA, ELLA, MAX
 
@@ -1851,7 +1853,7 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 <a name="shot-066"></a>
 
-### SHOT_066 | 00:16:15–00:16:30 | Room for an answer
+### SHOT_066 | 00:10:50–00:11:00 | Room for an answer
 
 **Visible cast:** MAYA, NINA, LEO
 
@@ -1879,7 +1881,7 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 <a name="shot-067"></a>
 
-### SHOT_067 | 00:16:30–00:16:45 | Boat end showing
+### SHOT_067 | 00:11:00–00:11:10 | Boat end showing
 
 **Visible cast:** DAN, LEO, MAYA, MAX
 
@@ -1907,7 +1909,7 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 <a name="shot-068"></a>
 
-### SHOT_068 | 00:16:45–00:17:00 | Someone on the porch
+### SHOT_068 | 00:11:10–00:11:20 | Someone on the porch
 
 **Visible cast:** NINA, MAYA, ELLA, MAX
 
@@ -1935,7 +1937,7 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 <a name="shot-069"></a>
 
-### SHOT_069 | 00:17:00–00:17:15 | Rose sees a familiar boat
+### SHOT_069 | 00:11:20–00:11:30 | Rose sees a familiar boat
 
 **Visible cast:** ROSE, MAYA, NINA, MAX
 
@@ -1963,7 +1965,7 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 <a name="shot-070"></a>
 
-### SHOT_070 | 00:17:15–00:17:30 | The other artist
+### SHOT_070 | 00:11:30–00:11:40 | The other artist
 
 **Visible cast:** ROSE, MAYA, ELLA
 
@@ -1991,7 +1993,7 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 <a name="shot-071"></a>
 
-### SHOT_071 | 00:17:30–00:17:45 | “Show me where you started”
+### SHOT_071 | 00:11:40–00:11:50 | “Show me where you started”
 
 **Visible cast:** ROSE, MAYA, LEO, MAX
 
@@ -2019,7 +2021,7 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 <a name="shot-072"></a>
 
-### SHOT_072 | 00:17:45–00:18:00 | The move their mother made
+### SHOT_072 | 00:11:50–00:12:00 | The move their mother made
 
 **Visible cast:** ROSE, MAYA, NINA, LEO
 
@@ -2047,7 +2049,7 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 <a name="shot-073"></a>
 
-### SHOT_073 | 00:18:00–00:18:15 | What Maya wanted to say
+### SHOT_073 | 00:12:00–00:12:10 | What Maya wanted to say
 
 **Visible cast:** MAYA, ROSE, MAX
 
@@ -2075,7 +2077,7 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 <a name="shot-074"></a>
 
-### SHOT_074 | 00:18:15–00:18:30 | Find me the crossing
+### SHOT_074 | 00:12:10–00:12:20 | Find me the crossing
 
 **Visible cast:** ROSE, MAYA, ELLA, LEO
 
@@ -2103,7 +2105,7 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 <a name="shot-075"></a>
 
-### SHOT_075 | 00:18:30–00:18:45 | What one sister saw first
+### SHOT_075 | 00:12:20–00:12:30 | What one sister saw first
 
 **Visible cast:** ROSE, MAYA, NINA, MAX
 
@@ -2131,7 +2133,7 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 <a name="shot-076"></a>
 
-### SHOT_076 | 00:18:45–00:19:00 | Can I change my question?
+### SHOT_076 | 00:12:30–00:12:40 | Can I change my question?
 
 **Visible cast:** DAN, ROSE, MAYA, ELLA
 
@@ -2159,7 +2161,7 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 <a name="shot-077"></a>
 
-### SHOT_077 | 00:19:00–00:19:15 | Six little legs
+### SHOT_077 | 00:12:40–00:12:50 | Six little legs
 
 **Visible cast:** ROSE, MAYA, LEO, MAX
 
@@ -2187,7 +2189,7 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 <a name="shot-078"></a>
 
-### SHOT_078 | 00:19:15–00:19:30 | A question for a beetle
+### SHOT_078 | 00:12:50–00:13:00 | A question for a beetle
 
 **Visible cast:** DAN, NINA, ROSE, MAYA, MAX
 
@@ -2215,7 +2217,7 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 <a name="shot-079"></a>
 
-### SHOT_079 | 00:19:30–00:19:45 | Save us the middle
+### SHOT_079 | 00:13:00–00:13:10 | Save us the middle
 
 **Visible cast:** ROSE, MAYA, ELLA, LEO
 
@@ -2243,7 +2245,7 @@ The sisters’ cream bookmark has Rose’s boat at one end and Maya’s hat at t
 
 <a name="shot-080"></a>
 
-### SHOT_080 | 00:19:45–00:20:00 | The beginning Maya missed
+### SHOT_080 | 00:13:10–00:13:20 | The beginning Maya missed
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX, ROSE
 

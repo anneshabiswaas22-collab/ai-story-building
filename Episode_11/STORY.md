@@ -1,6 +1,8 @@
 # Episode 11 — The Mouse That Ate the Moon!
 
-A Maple House English family comedy in 80 consecutive 15-second shots. Story runtime is 20:00.
+A Maple House English family comedy in 80 consecutive 10-second shots. Planned story runtime is 13:20.
+
+**Editing plan:** Plan each shot for 10 editorial seconds to reduce filler pauses and unnecessary movements. Preserve natural dialogue delivery and meaningful actions; confirm timing against recorded performances before final editing rather than adding silence or speeding up speech.
 
 Max wants to put on a shadow play about Pip, a mouse with a question for the moon. Ella asks Dan to bring Pip closer. Dan takes a perfectly reasonable step in the wrong direction, and his mouse appears to eat the one character Max needs for his ending.
 
@@ -14,18 +16,18 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 | Time | Dramatic action |
 |---|---|
-| 00:00–04:00 | A mouse peeks around Dan’s coffee mug. When a cloud cancels their porch show, the family builds a tabletop theater indoors. |
-| 04:00–07:00 | “Closer” sends Pip toward the lamp. Everybody laughs at the enormous ear until Maya notices the storyteller has gone quiet. |
-| 07:00–12:00 | A hand shadow shows how to control size. Max takes the stick and learns to give directions both sides of the screen can follow. |
-| 12:00–14:00 | A misplaced knock becomes Pip’s cue. The family opens its one-ticket theater. |
-| 14:00–17:00 | Pip and the moon meet halfway. Max gets to finish his invitation in his ordinary voice. |
-| 17:00–20:00 | Max invites Dan back for one giant bow. The little mouse returns to the coffee mug for company. |
+| 00:00–02:40 | A mouse peeks around Dan’s coffee mug. When a cloud cancels their porch show, the family builds a tabletop theater indoors. |
+| 02:40–04:40 | “Closer” sends Pip toward the lamp. Everybody laughs at the enormous ear until Maya notices the storyteller has gone quiet. |
+| 04:40–08:00 | A hand shadow shows how to control size. Max takes the stick and learns to give directions both sides of the screen can follow. |
+| 08:00–09:20 | A misplaced knock becomes Pip’s cue. The family opens its one-ticket theater. |
+| 09:20–11:20 | Pip and the moon meet halfway. Max gets to finish his invitation in his ordinary voice. |
+| 11:20–13:20 | Max invites Dan back for one giant bow. The little mouse returns to the coffee mug for company. |
 
 ## Timed screenplay
 
 <a name="shot-001"></a>
 
-### SHOT_001 | 00:00:00–00:00:15 | A nose by the mug
+### SHOT_001 | 00:00:00–00:00:10 | A nose by the mug
 
 **Visible cast:** DAN, MAX
 **Location:** HOME_KITCHEN
@@ -47,7 +49,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 <a name="shot-002"></a>
 
-### SHOT_002 | 00:00:15–00:00:30 | The search party
+### SHOT_002 | 00:00:10–00:00:20 | The search party
 
 **Visible cast:** DAN, MAX
 **Location:** HOME_KITCHEN
@@ -69,7 +71,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 <a name="shot-003"></a>
 
-### SHOT_003 | 00:00:30–00:00:45 | A banana in the sky
+### SHOT_003 | 00:00:20–00:00:30 | A banana in the sky
 
 **Visible cast:** DAN, ELLA, MAX
 **Location:** HOME_KITCHEN
@@ -91,7 +93,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 <a name="shot-004"></a>
 
-### SHOT_004 | 00:00:45–00:01:00 | A story of his own
+### SHOT_004 | 00:00:30–00:00:40 | A story of his own
 
 **Visible cast:** NINA, MAX
 **Location:** HOME_KITCHEN
@@ -113,7 +115,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 <a name="shot-005"></a>
 
-### SHOT_005 | 00:01:00–00:01:15 | One piece of paper
+### SHOT_005 | 00:00:40–00:00:50 | One piece of paper
 
 **Visible cast:** MAYA, MAX
 **Location:** HOME_TABLE
@@ -135,7 +137,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 <a name="shot-006"></a>
 
-### SHOT_006 | 00:01:15–00:01:30 | Where the moon lives
+### SHOT_006 | 00:00:50–00:01:00 | Where the moon lives
 
 **Visible cast:** LEO, ELLA, MAX
 **Location:** HOME_TABLE
@@ -157,7 +159,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 <a name="shot-007"></a>
 
-### SHOT_007 | 00:01:30–00:01:45 | The fancy bow
+### SHOT_007 | 00:01:00–00:01:10 | The fancy bow
 
 **Visible cast:** DAN, ELLA, MAX
 **Location:** HOME_TABLE
@@ -179,7 +181,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 <a name="shot-008"></a>
 
-### SHOT_008 | 00:01:45–00:02:00 | Little steps
+### SHOT_008 | 00:01:10–00:01:20 | Little steps
 
 **Visible cast:** DAN, NINA, MAX
 **Location:** HOME_TABLE
@@ -201,7 +203,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 <a name="shot-009"></a>
 
-### SHOT_009 | 00:02:00–00:02:15 | The unpaid understudy
+### SHOT_009 | 00:01:20–00:01:30 | The unpaid understudy
 
 **Visible cast:** DAN, MAX
 **Location:** HOME_PORCH
@@ -223,7 +225,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 <a name="shot-010"></a>
 
-### SHOT_010 | 00:02:15–00:02:30 | Pip's very long walk
+### SHOT_010 | 00:01:30–00:01:40 | Pip's very long walk
 
 **Visible cast:** DAN, ELLA, MAX
 **Location:** HOME_PORCH
@@ -245,7 +247,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 <a name="shot-011"></a>
 
-### SHOT_011 | 00:02:30–00:02:45 | The sun misses its cue
+### SHOT_011 | 00:01:40–00:01:50 | The sun misses its cue
 
 **Visible cast:** DAN, NINA, MAX
 **Location:** HOME_PORCH
@@ -267,7 +269,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 <a name="shot-012"></a>
 
-### SHOT_012 | 00:02:45–00:03:00 | An indoor sun
+### SHOT_012 | 00:01:50–00:02:00 | An indoor sun
 
 **Visible cast:** NINA, ELLA, DAN
 **Location:** HOME_PORCH
@@ -289,7 +291,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 <a name="shot-013"></a>
 
-### SHOT_013 | 00:03:00–00:03:15 | The screen on the bench
+### SHOT_013 | 00:02:00–00:02:10 | The screen on the bench
 
 **Visible cast:** MAYA, LEO
 **Location:** HOME_ENTRY
@@ -311,7 +313,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 <a name="shot-014"></a>
 
-### SHOT_014 | 00:03:15–00:03:30 | The light department
+### SHOT_014 | 00:02:10–00:02:20 | The light department
 
 **Visible cast:** NINA, MAX
 **Location:** HOME_ENTRY
@@ -333,7 +335,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 <a name="shot-015"></a>
 
-### SHOT_015 | 00:03:30–00:03:45 | The job nobody wants
+### SHOT_015 | 00:02:20–00:02:30 | The job nobody wants
 
 **Visible cast:** DAN, ELLA, LEO, MAX
 **Location:** HOME_ENTRY
@@ -355,7 +357,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 <a name="shot-016"></a>
 
-### SHOT_016 | 00:03:45–00:04:00 | Two sides of one stage
+### SHOT_016 | 00:02:30–00:02:40 | Two sides of one stage
 
 **Visible cast:** MAYA, NINA, LEO
 **Location:** GUEST_ROOM
@@ -377,7 +379,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 <a name="shot-017"></a>
 
-### SHOT_017 | 00:04:00–00:04:15 | Hanging the moon
+### SHOT_017 | 00:02:40–00:02:50 | Hanging the moon
 
 **Visible cast:** ELLA, MAYA
 **Location:** GUEST_ROOM
@@ -399,7 +401,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 <a name="shot-018"></a>
 
-### SHOT_018 | 00:04:15–00:04:30 | One small traveler
+### SHOT_018 | 00:02:50–00:03:00 | One small traveler
 
 **Visible cast:** DAN, MAX, LEO
 **Location:** GUEST_ROOM
@@ -421,7 +423,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 <a name="shot-019"></a>
 
-### SHOT_019 | 00:04:30–00:04:45 | Two voices for one mouse
+### SHOT_019 | 00:03:00–00:03:10 | Two voices for one mouse
 
 **Visible cast:** DAN, MAX
 **Location:** GUEST_ROOM
@@ -443,7 +445,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 <a name="shot-020"></a>
 
-### SHOT_020 | 00:04:45–00:05:00 | One voice is plenty
+### SHOT_020 | 00:03:10–00:03:20 | One voice is plenty
 
 **Visible cast:** DAN, MAX, NINA
 **Location:** GUEST_ROOM
@@ -465,7 +467,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 <a name="shot-021"></a>
 
-### SHOT_021 | 00:05:00–00:05:15 | Closer to what?
+### SHOT_021 | 00:03:20–00:03:30 | Closer to what?
 
 **Visible cast:** ELLA, DAN, MAX
 **Location:** GUEST_ROOM
@@ -487,7 +489,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 <a name="shot-022"></a>
 
-### SHOT_022 | 00:05:15–00:05:30 | The ear that kept going
+### SHOT_022 | 00:03:30–00:03:40 | The ear that kept going
 
 **Visible cast:** DAN, LEO
 **Location:** GUEST_ROOM
@@ -509,7 +511,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 <a name="shot-023"></a>
 
-### SHOT_023 | 00:05:30–00:05:45 | Where did the sky go?
+### SHOT_023 | 00:03:40–00:03:50 | Where did the sky go?
 
 **Visible cast:** MAYA, LEO
 **Off-screen cast:** DAN
@@ -532,7 +534,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 <a name="shot-024"></a>
 
-### SHOT_024 | 00:05:45–00:06:00 | A very small burp
+### SHOT_024 | 00:03:50–00:04:00 | A very small burp
 
 **Visible cast:** DAN, ELLA, MAX
 **Location:** GUEST_ROOM
@@ -554,7 +556,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 <a name="shot-025"></a>
 
-### SHOT_025 | 00:06:00–00:06:15 | Still on its peg
+### SHOT_025 | 00:04:00–00:04:10 | Still on its peg
 
 **Visible cast:** ELLA, DAN
 **Location:** GUEST_ROOM
@@ -576,7 +578,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 <a name="shot-026"></a>
 
-### SHOT_026 | 00:06:15–00:06:30 | A moon on its own
+### SHOT_026 | 00:04:10–00:04:20 | A moon on its own
 
 **Visible cast:** NINA
 **Off-screen cast:** DAN
@@ -599,7 +601,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 <a name="shot-027"></a>
 
-### SHOT_027 | 00:06:30–00:06:45 | Folded small
+### SHOT_027 | 00:04:20–00:04:30 | Folded small
 
 **Visible cast:** MAX, LEO
 **Location:** GUEST_ROOM
@@ -621,7 +623,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 <a name="shot-028"></a>
 
-### SHOT_028 | 00:06:45–00:07:00 | Nobody left to invite
+### SHOT_028 | 00:04:30–00:04:40 | Nobody left to invite
 
 **Visible cast:** MAYA, MAX
 **Location:** GUEST_ROOM
@@ -643,7 +645,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 <a name="shot-029"></a>
 
-### SHOT_029 | 00:07:00–00:07:15 | A hand at the screen
+### SHOT_029 | 00:04:40–00:04:50 | A hand at the screen
 
 **Visible cast:** LEO, NINA
 **Location:** GUEST_ROOM
@@ -665,7 +667,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 <a name="shot-030"></a>
 
-### SHOT_030 | 00:07:15–00:07:30 | Five enormous reasons
+### SHOT_030 | 00:04:50–00:05:00 | Five enormous reasons
 
 **Visible cast:** LEO, DAN
 **Location:** GUEST_ROOM
@@ -687,7 +689,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 <a name="shot-031"></a>
 
-### SHOT_031 | 00:07:30–00:07:45 | A better look
+### SHOT_031 | 00:05:00–00:05:10 | A better look
 
 **Visible cast:** NINA, LEO, MAX
 **Location:** GUEST_ROOM
@@ -709,7 +711,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 <a name="shot-032"></a>
 
-### SHOT_032 | 00:07:45–00:08:00 | The rest of the sentence
+### SHOT_032 | 00:05:10–00:05:20 | The rest of the sentence
 
 **Visible cast:** ELLA, DAN, MAX
 **Location:** GUEST_ROOM
@@ -731,7 +733,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 <a name="shot-033"></a>
 
-### SHOT_033 | 00:08:00–00:08:15 | The blue path
+### SHOT_033 | 00:05:20–00:05:30 | The blue path
 
 **Visible cast:** LEO, ELLA
 **Location:** GUEST_ROOM
@@ -753,7 +755,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 <a name="shot-034"></a>
 
-### SHOT_034 | 00:08:15–00:08:30 | Save the big spot
+### SHOT_034 | 00:05:30–00:05:40 | Save the big spot
 
 **Visible cast:** MAX, LEO
 **Off-screen cast:** NINA
@@ -776,7 +778,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 <a name="shot-035"></a>
 
-### SHOT_035 | 00:08:30–00:08:45 | Small again
+### SHOT_035 | 00:05:40–00:05:50 | Small again
 
 **Visible cast:** DAN, MAX
 **Location:** GUEST_ROOM
@@ -798,7 +800,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 <a name="shot-036"></a>
 
-### SHOT_036 | 00:08:45–00:09:00 | Across, not back
+### SHOT_036 | 00:05:50–00:06:00 | Across, not back
 
 **Visible cast:** DAN, ELLA, MAX
 **Location:** GUEST_ROOM
@@ -820,7 +822,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 <a name="shot-037"></a>
 
-### SHOT_037 | 00:09:00–00:09:15 | A mouse with stage fright
+### SHOT_037 | 00:06:00–00:06:10 | A mouse with stage fright
 
 **Visible cast:** DAN, MAX
 **Location:** GUEST_ROOM
@@ -842,7 +844,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 <a name="shot-038"></a>
 
-### SHOT_038 | 00:09:15–00:09:30 | The big voice
+### SHOT_038 | 00:06:10–00:06:20 | The big voice
 
 **Visible cast:** MAX, ELLA
 **Location:** GUEST_ROOM
@@ -864,7 +866,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 <a name="shot-039"></a>
 
-### SHOT_039 | 00:09:30–00:09:45 | Through the cloth
+### SHOT_039 | 00:06:20–00:06:30 | Through the cloth
 
 **Visible cast:** MAYA, MAX
 **Location:** GUEST_ROOM
@@ -886,7 +888,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 <a name="shot-040"></a>
 
-### SHOT_040 | 00:09:45–00:10:00 | Taking the stick
+### SHOT_040 | 00:06:30–00:06:40 | Taking the stick
 
 **Visible cast:** MAX, DAN
 **Location:** GUEST_ROOM
@@ -908,7 +910,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 <a name="shot-041"></a>
 
-### SHOT_041 | 00:10:00–00:10:15 | Changing hands
+### SHOT_041 | 00:06:40–00:06:50 | Changing hands
 
 **Visible cast:** DAN, MAX
 **Location:** GUEST_ROOM
@@ -930,7 +932,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 <a name="shot-042"></a>
 
-### SHOT_042 | 00:10:15–00:10:30 | A lookout for Pip
+### SHOT_042 | 00:06:50–00:07:00 | A lookout for Pip
 
 **Visible cast:** MAX, LEO
 **Location:** GUEST_ROOM
@@ -952,7 +954,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 <a name="shot-043"></a>
 
-### SHOT_043 | 00:10:30–00:10:45 | Just the tail
+### SHOT_043 | 00:07:00–00:07:10 | Just the tail
 
 **Visible cast:** NINA, ELLA
 **Off-screen cast:** MAX
@@ -975,7 +977,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 <a name="shot-044"></a>
 
-### SHOT_044 | 00:10:45–00:11:00 | Who can see the stage?
+### SHOT_044 | 00:07:10–00:07:20 | Who can see the stage?
 
 **Visible cast:** MAX, DAN
 **Location:** GUEST_ROOM
@@ -997,7 +999,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 <a name="shot-045"></a>
 
-### SHOT_045 | 00:11:00–00:11:15 | Two different lefts
+### SHOT_045 | 00:07:20–00:07:30 | Two different lefts
 
 **Visible cast:** ELLA, MAX
 **Location:** GUEST_ROOM
@@ -1019,7 +1021,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 <a name="shot-046"></a>
 
-### SHOT_046 | 00:11:15–00:11:30 | Which pair of shoes?
+### SHOT_046 | 00:07:30–00:07:40 | Which pair of shoes?
 
 **Visible cast:** DAN, ELLA, MAX
 **Location:** GUEST_ROOM
@@ -1041,7 +1043,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 <a name="shot-047"></a>
 
-### SHOT_047 | 00:11:30–00:11:45 | A direction that works
+### SHOT_047 | 00:07:40–00:07:50 | A direction that works
 
 **Visible cast:** ELLA, MAX, LEO
 **Location:** GUEST_ROOM
@@ -1063,7 +1065,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 <a name="shot-048"></a>
 
-### SHOT_048 | 00:11:45–00:12:00 | A place for the giant
+### SHOT_048 | 00:07:50–00:08:00 | A place for the giant
 
 **Visible cast:** MAX, NINA
 **Location:** GUEST_ROOM
@@ -1085,7 +1087,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 <a name="shot-049"></a>
 
-### SHOT_049 | 00:12:00–00:12:15 | One knock too soon
+### SHOT_049 | 00:08:00–00:08:10 | One knock too soon
 
 **Visible cast:** LEO, MAX, ELLA
 **Location:** GUEST_ROOM
@@ -1107,7 +1109,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 <a name="shot-050"></a>
 
-### SHOT_050 | 00:12:15–00:12:30 | An unexpected door
+### SHOT_050 | 00:08:10–00:08:20 | An unexpected door
 
 **Visible cast:** MAYA, LEO, MAX
 **Location:** GUEST_ROOM
@@ -1129,7 +1131,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 <a name="shot-051"></a>
 
-### SHOT_051 | 00:12:30–00:12:45 | Who's at the moon?
+### SHOT_051 | 00:08:20–00:08:30 | Who's at the moon?
 
 **Visible cast:** MAX, ELLA
 **Location:** GUEST_ROOM
@@ -1151,7 +1153,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 <a name="shot-052"></a>
 
-### SHOT_052 | 00:12:45–00:13:00 | Leave a little room
+### SHOT_052 | 00:08:30–00:08:40 | Leave a little room
 
 **Visible cast:** MAX, ELLA, NINA
 **Location:** GUEST_ROOM
@@ -1173,7 +1175,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 <a name="shot-053"></a>
 
-### SHOT_053 | 00:13:00–00:13:15 | House opens in a minute
+### SHOT_053 | 00:08:40–00:08:50 | House opens in a minute
 
 **Visible cast:** MAYA, DAN, LEO
 **Off-screen cast:** MAX, ELLA
@@ -1196,7 +1198,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 <a name="shot-054"></a>
 
-### SHOT_054 | 00:13:15–00:13:30 | The elbow policy
+### SHOT_054 | 00:08:50–00:09:00 | The elbow policy
 
 **Visible cast:** LEO, DAN, MAYA, NINA
 **Location:** HOME_ENTRY
@@ -1218,7 +1220,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 <a name="shot-055"></a>
 
-### SHOT_055 | 00:13:30–00:13:45 | A crumb behind the ear
+### SHOT_055 | 00:09:00–00:09:10 | A crumb behind the ear
 
 **Visible cast:** MAYA, DAN, LEO
 **Location:** HOME_ENTRY
@@ -1240,7 +1242,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 <a name="shot-056"></a>
 
-### SHOT_056 | 00:13:45–00:14:00 | A full house
+### SHOT_056 | 00:09:10–00:09:20 | A full house
 
 **Visible cast:** NINA, MAYA, DAN, LEO
 **Location:** GUEST_ROOM
@@ -1262,7 +1264,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 <a name="shot-057"></a>
 
-### SHOT_057 | 00:14:00–00:14:15 | Once, down here
+### SHOT_057 | 00:09:20–00:09:30 | Once, down here
 
 **Visible cast:** MAX, DAN, NINA
 **Location:** GUEST_ROOM
@@ -1284,7 +1286,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 <a name="shot-058"></a>
 
-### SHOT_058 | 00:14:15–00:14:30 | Knock twice
+### SHOT_058 | 00:09:30–00:09:40 | Knock twice
 
 **Visible cast:** MAX, ELLA, LEO
 **Location:** GUEST_ROOM
@@ -1306,7 +1308,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 <a name="shot-059"></a>
 
-### SHOT_059 | 00:14:30–00:14:45 | The cheese rumor
+### SHOT_059 | 00:09:40–00:09:50 | The cheese rumor
 
 **Visible cast:** MAYA
 **Off-screen cast:** MAX, ELLA
@@ -1329,7 +1331,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 <a name="shot-060"></a>
 
-### SHOT_060 | 00:14:45–00:15:00 | The part Dad leaves in
+### SHOT_060 | 00:09:50–00:10:00 | The part Dad leaves in
 
 **Visible cast:** DAN, NINA, MAX
 **Location:** GUEST_ROOM
@@ -1351,7 +1353,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 <a name="shot-061"></a>
 
-### SHOT_061 | 00:15:00–00:15:15 | One very short jump
+### SHOT_061 | 00:10:00–00:10:10 | One very short jump
 
 **Visible cast:** MAX, ELLA
 **Location:** GUEST_ROOM
@@ -1373,7 +1375,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 <a name="shot-062"></a>
 
-### SHOT_062 | 00:15:15–00:15:30 | Halfway
+### SHOT_062 | 00:10:10–00:10:20 | Halfway
 
 **Visible cast:** MAX, ELLA, NINA
 **Location:** GUEST_ROOM
@@ -1395,7 +1397,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 <a name="shot-063"></a>
 
-### SHOT_063 | 00:15:30–00:15:45 | The moon comes down
+### SHOT_063 | 00:10:20–00:10:30 | The moon comes down
 
 **Visible cast:** ELLA, MAX
 **Location:** GUEST_ROOM
@@ -1417,7 +1419,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 <a name="shot-064"></a>
 
-### SHOT_064 | 00:15:45–00:16:00 | A whisker of space
+### SHOT_064 | 00:10:30–00:10:40 | A whisker of space
 
 **Visible cast:** LEO, MAYA
 **Off-screen cast:** MAX, ELLA
@@ -1440,7 +1442,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 <a name="shot-065"></a>
 
-### SHOT_065 | 00:16:00–00:16:15 | The question
+### SHOT_065 | 00:10:40–00:10:50 | The question
 
 **Visible cast:** MAX, ELLA
 **Location:** GUEST_ROOM
@@ -1462,7 +1464,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 <a name="shot-066"></a>
 
-### SHOT_066 | 00:16:15–00:16:30 | Dinner for two
+### SHOT_066 | 00:10:50–00:11:00 | Dinner for two
 
 **Visible cast:** MAX, ELLA, DAN
 **Location:** GUEST_ROOM
@@ -1484,7 +1486,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 <a name="shot-067"></a>
 
-### SHOT_067 | 00:16:30–00:16:45 | The quiet seat
+### SHOT_067 | 00:11:00–00:11:10 | The quiet seat
 
 **Visible cast:** NINA, MAYA
 **Off-screen cast:** MAX, ELLA
@@ -1507,7 +1509,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 <a name="shot-068"></a>
 
-### SHOT_068 | 00:16:45–00:17:00 | A finish you can hear
+### SHOT_068 | 00:11:10–00:11:20 | A finish you can hear
 
 **Visible cast:** LEO, DAN, MAYA, NINA
 **Off-screen cast:** MAX, ELLA
@@ -1530,7 +1532,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 <a name="shot-069"></a>
 
-### SHOT_069 | 00:17:00–00:17:15 | An invitation for Dad
+### SHOT_069 | 00:11:20–00:11:30 | An invitation for Dad
 
 **Visible cast:** MAX, DAN, ELLA
 **Location:** GUEST_ROOM
@@ -1552,7 +1554,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 <a name="shot-070"></a>
 
-### SHOT_070 | 00:17:15–00:17:30 | Back by invitation
+### SHOT_070 | 00:11:30–00:11:40 | Back by invitation
 
 **Visible cast:** MAX, DAN, ELLA
 **Location:** GUEST_ROOM
@@ -1574,7 +1576,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 <a name="shot-071"></a>
 
-### SHOT_071 | 00:17:30–00:17:45 | The return of the ears
+### SHOT_071 | 00:11:40–00:11:50 | The return of the ears
 
 **Visible cast:** MAX, DAN, NINA
 **Location:** GUEST_ROOM
@@ -1596,7 +1598,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 <a name="shot-072"></a>
 
-### SHOT_072 | 00:17:45–00:18:00 | The bow that lands
+### SHOT_072 | 00:11:50–00:12:00 | The bow that lands
 
 **Visible cast:** MAX, DAN, ELLA
 **Location:** GUEST_ROOM
@@ -1618,7 +1620,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 <a name="shot-073"></a>
 
-### SHOT_073 | 00:18:00–00:18:15 | The room comes back
+### SHOT_073 | 00:12:00–00:12:10 | The room comes back
 
 **Visible cast:** NINA, DAN, ELLA
 **Location:** GUEST_ROOM
@@ -1640,7 +1642,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 <a name="shot-074"></a>
 
-### SHOT_074 | 00:18:15–00:18:30 | The smallest stagehand
+### SHOT_074 | 00:12:10–00:12:20 | The smallest stagehand
 
 **Visible cast:** MAX, LEO, NINA
 **Location:** GUEST_ROOM
@@ -1662,7 +1664,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 <a name="shot-075"></a>
 
-### SHOT_075 | 00:18:30–00:18:45 | What to tell Rose
+### SHOT_075 | 00:12:20–00:12:30 | What to tell Rose
 
 **Visible cast:** DAN, ELLA, MAX
 **Location:** HOME_ENTRY
@@ -1684,7 +1686,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 <a name="shot-076"></a>
 
-### SHOT_076 | 00:18:45–00:19:00 | The mug gets a visitor
+### SHOT_076 | 00:12:30–00:12:40 | The mug gets a visitor
 
 **Visible cast:** MAYA, DAN, MAX
 **Location:** HOME_KITCHEN
@@ -1706,7 +1708,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 <a name="shot-077"></a>
 
-### SHOT_077 | 00:19:00–00:19:15 | Six seats and a moon
+### SHOT_077 | 00:12:40–00:12:50 | Six seats and a moon
 
 **Visible cast:** MAYA, ELLA, DAN, MAX
 **Location:** HOME_TABLE
@@ -1728,7 +1730,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 <a name="shot-078"></a>
 
-### SHOT_078 | 00:19:15–00:19:30 | A rather important review
+### SHOT_078 | 00:12:50–00:13:00 | A rather important review
 
 **Visible cast:** LEO, ELLA, NINA, MAX
 **Location:** HOME_TABLE
@@ -1750,7 +1752,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 <a name="shot-079"></a>
 
-### SHOT_079 | 00:19:30–00:19:45 | Closer to whom?
+### SHOT_079 | 00:13:00–00:13:10 | Closer to whom?
 
 **Visible cast:** DAN, MAX, NINA
 **Location:** HOME_TABLE
@@ -1772,14 +1774,14 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 
 <a name="shot-080"></a>
 
-### SHOT_080 | 00:19:45–00:20:00 | Company for coffee
+### SHOT_080 | 00:13:10–00:13:20 | Company for coffee
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX
 **Location:** HOME_TABLE
 **Camera:** Warm wide from the fixed seating master. Finish on the mug, little mouse and Dan's smile within the last two seconds.
 **Action:** Dan turns the mug handle aside to make more room for Pip. Max rests the mouse beside it. Ella nudges the paper moon within visiting distance. The six stay for the quiet beat they made room for.
 **Opening state:** All six are in their fixed seats. Max holds Pip by Dan's upright mug. The crescent is at center.
-**End state:** One mug, two paper characters and six people share the table as the 20-minute story ends.
+**End state:** One mug, two paper characters and six people share the table as the 13-minute-20-second story ends.
 **Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 4 (bottom right). Creator and individual first-frame approval pending.
 **Continuity:** Fixed family seats. One mug, one mouse, one crescent, one yellow ticket. Max opens the ticket in 078. His final answer comes before a quiet hold.
 
