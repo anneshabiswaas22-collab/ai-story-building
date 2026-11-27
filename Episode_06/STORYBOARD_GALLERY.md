@@ -2,7 +2,7 @@
 
 The [creator approval record (historical reference)](https://github.com/pujahalder34675-creator/ai-story-building/blob/8362bf7a5ec009104a53857e9bee314a843c1a14/CURRENT_PRODUCTION_STATUS.md) identifies reviewed panels. Individual motion first frames require separate approval.
 
-[Shot index (historical reference)](https://github.com/pujahalder34675-creator/ai-story-building/blob/8362bf7a5ec009104a53857e9bee314a843c1a14/Episode_06/STORYBOARD_INDEX.md) · [HTML gallery](storyboards/index.html) · [Generation notes](storyboards/GENERATION_NOTES.md)
+[Screenplay](STORY.md) · [Video prompts](VIDEO_PROMPTS.md)
 
 ## BOARD_01 — SHOT_001–SHOT_004
 

@@ -2,7 +2,7 @@
 
 20 of 20 sheets illustrated. Read each sheet across the top row, then across the bottom row. Each panel covers one 10-second shot.
 
-[Screenplay](STORY.md) · [Image references and checksums](storyboards/GENERATION_NOTES.md)
+[Screenplay](STORY.md) · [Video prompts](VIDEO_PROMPTS.md)
 
 | Sheet | Episode time | Shot range | Opening beat |
 |---|---|---|---|

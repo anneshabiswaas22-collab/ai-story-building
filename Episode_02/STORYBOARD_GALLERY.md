@@ -2,7 +2,7 @@
 
 **20 sheets / 80 labeled shot illustrations.** Each sheet contains four panels in reading order: top-left, top-right, bottom-left, bottom-right. See the [creator approval record (historical reference)](https://github.com/pujahalder34675-creator/ai-story-building/blob/8362bf7a5ec009104a53857e9bee314a843c1a14/CURRENT_PRODUCTION_STATUS.md) for reviewed panels. Individual motion first frames require separate approval.
 
-[Open HTML gallery](storyboards/index.html) · [Shot-by-shot index (historical reference)](https://github.com/pujahalder34675-creator/ai-story-building/blob/8362bf7a5ec009104a53857e9bee314a843c1a14/Episode_02/STORYBOARD_INDEX.md) · [Generation and review notes](storyboards/GENERATION_NOTES.md)
+[Screenplay](STORY.md) · [Video prompts](VIDEO_PROMPTS.md)
 
 ## BOARD_01 — SHOT_001–SHOT_004
 
