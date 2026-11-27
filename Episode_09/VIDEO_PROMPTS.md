@@ -1,6 +1,8 @@
 # Episode 09 — Can Dad Grow Money? | Garden English | Funny Learning Story: 80 story video prompts
 
-Written and still-image preproduction draft. Each slot is a planned 15-second editorial shot, 16:9, original warm stylized 3D and natural General American family conversation. No video or voice has been generated. Optional creator-authored practice belongs after the story. Creator visual approval and individual motion first frames remain pending.
+Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start dialogue promptly, let meaningful actions and listener reactions occur during speech, and avoid filler silence, prolonged holds or unnatural motion. Speaker windows below are provisional editorial targets, not instructions to rush speech; verify against natural recorded performances. If a line cannot fit naturally, flag the shot for editorial review rather than truncating dialogue or artificially speeding it up.
+
+Written and still-image preproduction draft. Each slot is a planned 10-second editorial shot, 16:9, original warm stylized 3D and natural General American family conversation. No video or voice has been generated. Optional creator-authored practice belongs after the story. Creator visual approval and individual motion first frames remain pending.
 
 Use the unchanged [cast previews](assets/characters/), [continuity ledger](CONTINUITY.md) and [scene plan](SCENE_REFERENCE_PLAN.md). Restore original owner-controlled identity/home PNG masters before separately authorized motion production. No replacement faces, extra family members, wardrobe changes, mirrored watch/pocket sides, watermarks, baked-in subtitles or audience drills. Readable prop text uses the exact [SVG overlays](assets/overlays/).
 
@@ -14,12 +16,12 @@ Use the unchanged [cast previews](assets/characters/), [continuity ledger](CONTI
 - Green watering can begins with 500 mL; each of three pots receives 100 mL in already damp mix; 300 mL used, 200 mL stored. These are scene observations, not universal watering instructions.
 - Adults check soil and drainage, empty saucers after settling, handle heavy pots, soil bag and water pours; children supervised, no plant/seed/soil tasting; tools stay outside and all six wash hands.
 - House door LEFT, maple tree REAR-RIGHT, bench at rear fence LEFT of tree; sunny level pot strip adjacent, viewed from path in fixed mint/basil/radish order.
-- BEN is Dan’s brother, a provisional supporting design, visible only SHOT_009–012 for 60 seconds; he delivers empty pots and leaves before planting.
+- BEN is Dan’s brother, a provisional supporting design, visible only SHOT_009–012 for 40 seconds; he delivers empty pots and leaves before planting.
 - No video, recorded voices, creator acceptance or approved individual motion first frames are claimed.
 
-Edit STORY.md first; sync.py regenerates this written draft and estimated subtitles, not media.
+Edit STORY.md first; sync.py regenerates this written draft and estimated subtitles, not media. The legacy sync script and existing subtitle track have not been retimed in this change; verify or update their timing before regenerating this document or assembling video.
 
-## SHOT_001 | 00:00:00–00:00:15 | A small garden plan
+## SHOT_001 | 00:00:00–00:00:10 | A small garden plan
 
 **Characters:** DAN, MAYA, NINA. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Medium three-shot across the familiar oak island.
@@ -29,7 +31,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_01.png](assets/storyboards/BOARD_01.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Same W01 wardrobe and kitchen; no harvested food or new plant growth.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–4.24s · DAN 4.39–6.03s · NINA 6.17–9.38s · DAN 9.53–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–2.83s · DAN 2.93–4.02s · NINA 4.11–6.25s · DAN 6.35–9.53s.
 
 **Dialogue:**
 **MAYA:** A small garden today. Mint, basil, and a few radishes.
@@ -40,7 +42,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** How small are we talking? Can my plan fit on the bench?
 
-## SHOT_002 | 00:00:15–00:00:30 | A word with two jobs
+## SHOT_002 | 00:00:10–00:00:20 | A word with two jobs
 
 **Characters:** MAX, DAN, ELLA. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Child-height medium view of Max and a scrap of paper.
@@ -50,7 +52,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_01.png](assets/storyboards/BOARD_01.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** The drawing is pretend paper, never currency or a seed.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–2.53s · DAN 2.68–5.84s · ELLA 5.99–8.71s · MAX 8.86–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.69s · DAN 1.79–3.89s · ELLA 3.99–5.81s · MAX 5.91–8.89s.
 
 **Dialogue:**
 **MAX:** Mint? Are we growing money?
@@ -61,7 +63,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** Would we have to water the coins to make change?
 
-## SHOT_003 | 00:00:30–00:00:45 | Leaves instead of change
+## SHOT_003 | 00:00:20–00:00:30 | Leaves instead of change
 
 **Characters:** MAYA, MAX, DAN. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Close three-shot with the mint seedling between faces.
@@ -71,7 +73,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_01.png](assets/storyboards/BOARD_01.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No coin enters a pot; no claim money can grow.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–4.61s · MAX 4.76–6.56s · DAN 6.71–9.79s · MAX 9.94–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–3.07s · MAX 3.17–4.37s · DAN 4.47–6.53s · MAX 6.63–9.53s.
 
 **Dialogue:**
 **MAYA:** This mint is an herb. The other mint makes coins.
@@ -82,7 +84,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** Good. I'd rather smell an herb than smell my pocket.
 
-## SHOT_004 | 00:00:45–00:01:00 | Three homes for plants
+## SHOT_004 | 00:00:30–00:00:40 | Three homes for plants
 
 **Characters:** NINA, LEO, ELLA. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Over Nina’s shoulder onto the open notebook; text added as SVG.
@@ -92,7 +94,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_01.png](assets/storyboards/BOARD_01.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Positions are viewed from the path facing the fence: mint LEFT, basil CENTER, radish RIGHT.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): NINA 0.25–4.36s · LEO 4.51–6.19s · ELLA 6.34–9.24s · NINA 9.39–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–2.91s · LEO 3.01–4.13s · ELLA 4.23–6.16s · NINA 6.26–9.53s.
 
 **Dialogue:**
 **NINA:** Mint left, basil in the middle, radishes on the right.
@@ -103,7 +105,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **NINA:** Good. We'll be able to tell the seed pot from the rest.
 
-## SHOT_005 | 00:01:00–00:01:15 | A delivery we can count
+## SHOT_005 | 00:00:40–00:00:50 | A delivery we can count
 
 **Characters:** DAN, LEO, MAYA. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Medium Dan beside Leo’s notebook.
@@ -113,7 +115,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Ben is Dan’s brother and a brief supporting visitor; not a seventh family member.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.41s · LEO 3.56–4.52s · MAYA 4.67–9.15s · DAN 9.30–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.27s · LEO 2.37–3.01s · MAYA 3.11–6.10s · DAN 6.20–9.19s.
 
 **Dialogue:**
 **DAN:** My brother Ben is bringing the pots.
@@ -124,7 +126,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** Three is plenty. I haven't even met the mint yet.
 
-## SHOT_006 | 00:01:15–00:01:30 | Tools have places too
+## SHOT_006 | 00:00:50–00:01:00 | Tools have places too
 
 **Characters:** NINA, ELLA, MAX. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Medium near the garden doorway, clean supply tray in foreground.
@@ -134,7 +136,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Garden tools and soil will remain outdoors; no food utensils borrowed.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–2.53s · MAX 2.68–5.40s · NINA 5.55–7.83s · MAX 7.98–12.90s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.69s · MAX 1.79–3.60s · NINA 3.70–5.22s · MAX 5.32–8.60s.
 
 **Dialogue:**
 **ELLA:** Labels and gloves are ready.
@@ -145,7 +147,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** Mine are bigger than a seed. I can lend a hand.
 
-## SHOT_007 | 00:01:30–00:01:45 | A drink with a different job
+## SHOT_007 | 00:01:00–00:01:10 | A drink with a different job
 
 **Characters:** DAN, MAYA, MAX. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Medium two-shot with Max at frame edge; a green watering can by the door.
@@ -155,7 +157,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** The later 100 mL garden measure is a dedicated marked garden cup, never a drinking cup.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–2.47s · MAYA 2.62–6.99s · MAX 7.14–9.79s · DAN 9.94–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.65s · MAYA 1.75–4.66s · MAX 4.76–6.53s · DAN 6.63–9.53s.
 
 **Dialogue:**
 **DAN:** I will bring their drink.
@@ -166,7 +168,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** Good. I'll wait to see what the soil actually needs.
 
-## SHOT_008 | 00:01:45–00:02:00 | Outside together
+## SHOT_008 | 00:01:10–00:01:20 | Outside together
 
 **Characters:** DAN, MAYA, NINA, LEO, ELLA, MAX. **Location:** GARDEN_PATH. **Wardrobe:** W01 only.
 **Composition:** Wide doorway-to-path move, house left and tree right.
@@ -176,7 +178,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Carry supplies without blocking the path; nursery seedlings are existing plants, not newly germinated seeds.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): NINA 0.25–5.17s · DAN 5.32–8.48s · LEO 8.63–11.35s · MAYA 11.50–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–3.45s · DAN 3.55–5.65s · LEO 5.75–7.57s · MAYA 7.67–9.19s.
 
 **Dialogue:**
 **NINA:** Stay on the clear path with your hands free of soil.
@@ -187,7 +189,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAYA:** Look ahead. There's our bench.
 
-## SHOT_009 | 00:02:00–00:02:15 | Uncle Ben brings empty homes
+## SHOT_009 | 00:01:20–00:01:30 | Uncle Ben brings empty homes
 
 **Characters:** BEN, DAN, MAYA. **Location:** GARDEN_PATH. **Wardrobe:** W01 only.
 **Composition:** Medium at the garden gate; Ben faces Dan without obscuring the path.
@@ -197,7 +199,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_03.png](assets/storyboards/BOARD_03.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** BEN cameo begins; provisional olive overshirt/cream tee/brown trousers/beard design. Three pots only.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): BEN 0.25–2.53s · DAN 2.68–5.84s · MAYA 5.99–9.15s · BEN 9.30–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): BEN 0.17–1.69s · DAN 1.79–3.89s · MAYA 3.99–6.10s · BEN 6.20–9.19s.
 
 **Dialogue:**
 **BEN:** Three empty homes, as promised.
@@ -208,7 +210,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **BEN:** You're welcome. I was careful to bring their saucers too.
 
-## SHOT_010 | 00:02:15–00:02:30 | No hidden forest
+## SHOT_010 | 00:01:30–00:01:40 | No hidden forest
 
 **Characters:** BEN, NINA, LEO. **Location:** GARDEN_PATH. **Wardrobe:** W01 only.
 **Composition:** Medium saucer handoff; empty pot rims visible on bench behind.
@@ -218,7 +220,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_03.png](assets/storyboards/BOARD_03.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** All delivered vessels are EMPTY; no seedling or coin concealed in the stack.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–3.76s · BEN 3.91–6.13s · NINA 6.28–8.93s · LEO 9.08–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.51s · BEN 2.61–4.09s · NINA 4.19–5.95s · LEO 6.05–9.53s.
 
 **Dialogue:**
 **LEO:** Three pots and three saucers. Nothing growing yet.
@@ -229,7 +231,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **LEO:** I think we can give these three all the attention they need.
 
-## SHOT_011 | 00:02:30–00:02:45 | The family resemblance
+## SHOT_011 | 00:01:40–00:01:50 | The family resemblance
 
 **Characters:** BEN, DAN, MAX, MAYA. **Location:** GARDEN_PATH. **Wardrobe:** W01 only.
 **Composition:** Warm medium three-shot by the gate, bench kept on the same screen side.
@@ -239,7 +241,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_03.png](assets/storyboards/BOARD_03.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** A joke about mint never becomes a magical money plant; Ben does not solve the planting task.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–2.97s · BEN 3.12–6.28s · DAN 6.43–8.71s · MAX 8.86–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.98s · BEN 2.08–4.19s · DAN 4.29–5.81s · MAX 5.91–8.89s.
 
 **Dialogue:**
 **MAX:** We nearly ordered a money plant.
@@ -250,7 +252,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** I bet that box didn't give you much change, Dad.
 
-## SHOT_012 | 00:02:45–00:03:00 | A short visit, a real thank-you
+## SHOT_012 | 00:01:50–00:02:00 | A short visit, a real thank-you
 
 **Characters:** BEN, DAN, MAYA, MAX. **Location:** GARDEN_PATH. **Wardrobe:** W01 only.
 **Composition:** Medium farewell at open gate; family remains inside.
@@ -258,9 +260,9 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Starting continuity:** Ben by gate with empty hands; pots and saucers delivered; no new plants.
 **Ending continuity:** Ben off-screen and departed; gate shut; original six remain in garden.
 **Picture:** [BOARD_03.png](assets/storyboards/BOARD_03.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
-**Continuity:** Final BEN shot: four 15-second slots, 60 seconds total. No later Ben voice, hand or face.
+**Continuity:** Final BEN shot: four 10-second slots, 40 seconds total. No later Ben voice, hand or face.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): BEN 0.25–3.15s · DAN 3.30–5.79s · MAYA 5.94–9.24s · MAX 9.39–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): BEN 0.17–2.10s · DAN 2.20–3.86s · MAYA 3.96–6.16s · MAX 6.26–9.53s.
 
 **Dialogue:**
 **BEN:** Enjoy your garden. Label first, guess later.
@@ -271,7 +273,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** I'll save you the part about what kind of mint it is.
 
-## SHOT_013 | 00:03:00–00:03:15 | Look under the pot
+## SHOT_013 | 00:02:00–00:02:10 | Look under the pot
 
 **Characters:** MAYA, ELLA, DAN. **Location:** POTTING_BENCH. **Wardrobe:** W01 only.
 **Composition:** Close low angle on an adult-held empty pot; faces above the rim.
@@ -281,7 +283,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_04.png](assets/storyboards/BOARD_04.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Adults lift heavy terracotta; no pot is broken or dropped.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–3.41s · MAYA 3.56–6.28s · DAN 6.43–9.59s · ELLA 9.74–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.27s · MAYA 2.37–4.19s · DAN 4.29–6.39s · ELLA 6.49–9.48s.
 
 **Dialogue:**
 **ELLA:** There is a hole in the bottom.
@@ -292,7 +294,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **ELLA:** So the saucer belongs under it before we add anything.
 
-## SHOT_014 | 00:03:15–00:03:30 | The water has a starting line
+## SHOT_014 | 00:02:10–00:02:20 | The water has a starting line
 
 **Characters:** NINA, LEO, DAN. **Location:** GARDEN_PATH. **Wardrobe:** W01 only.
 **Composition:** Medium at the outdoor tap; marked garden jug and green can visible.
@@ -302,7 +304,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_04.png](assets/storyboards/BOARD_04.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Numbers supplied by WATER_RECORD.svg; no additional water is drawn during this episode.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–2.97s · DAN 3.12–4.96s · NINA 5.11–10.03s · DAN 10.18–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.98s · DAN 2.08–3.31s · NINA 3.41–6.69s · DAN 6.79–9.19s.
 
 **Dialogue:**
 **LEO:** Five hundred milliliters in the can.
@@ -313,7 +315,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** Good. I was picturing one very thirsty pot.
 
-## SHOT_015 | 00:03:30–00:03:45 | Seedlings are already plants
+## SHOT_015 | 00:02:20–00:02:30 | Seedlings are already plants
 
 **Characters:** NINA, MAYA, MAX. **Location:** POTTING_BENCH. **Wardrobe:** W01 only.
 **Composition:** Medium down the bench; two nursery plants framed separately.
@@ -323,7 +325,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_04.png](assets/storyboards/BOARD_04.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Seedling foliage exists before planting; radish pot must stay bare until a later real day.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–2.47s · MAYA 2.62–6.56s · NINA 6.71–9.36s · MAX 9.51–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.65s · MAYA 1.75–4.37s · NINA 4.47–6.24s · MAX 6.34–9.53s.
 
 **Dialogue:**
 **MAX:** Those two already have leaves.
@@ -334,7 +336,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** I can see the difference even before the labels go in.
 
-## SHOT_016 | 00:03:45–00:04:00 | A workbench, not a playground
+## SHOT_016 | 00:02:30–00:02:40 | A workbench, not a playground
 
 **Characters:** DAN, ELLA, LEO. **Location:** POTTING_BENCH. **Wardrobe:** W01 only.
 **Composition:** Medium with clear hand space around three pots.
@@ -344,7 +346,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_04.png](assets/storyboards/BOARD_04.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No sharp shovel, kitchen spoon, climbing on bench or tool swinging.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–2.81s · ELLA 2.96–5.51s · LEO 5.66–7.72s · DAN 7.87–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.87s · ELLA 1.97–3.67s · LEO 3.77–5.15s · DAN 5.25–8.27s.
 
 **Dialogue:**
 **DAN:** Tools here. Clear path there.
@@ -355,7 +357,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** Understood. Even ambitious gardeners carry their tools down low.
 
-## SHOT_017 | 00:04:00–00:04:15 | Saucers under empty pots
+## SHOT_017 | 00:02:40–00:02:50 | Saucers under empty pots
 
 **Characters:** MAYA, NINA, ELLA. **Location:** POTTING_BENCH. **Wardrobe:** W01 only.
 **Composition:** Bench-height three-shot; all three pot positions visible.
@@ -365,7 +367,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_05.png](assets/storyboards/BOARD_05.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Saucers catch drainage, not permanent pools; their final empty state will be shown.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–4.07s · NINA 4.22–6.78s · MAYA 6.93–9.92s · ELLA 10.07–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.71s · NINA 2.81–4.52s · MAYA 4.62–6.61s · ELLA 6.71–9.53s.
 
 **Dialogue:**
 **ELLA:** Left for mint, middle for basil, right for radishes.
@@ -376,7 +378,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **ELLA:** Good. I can find the middle without turning anything around.
 
-## SHOT_018 | 00:04:15–00:04:30 | The pretend coin gets a job
+## SHOT_018 | 00:02:50–00:03:00 | The pretend coin gets a job
 
 **Characters:** MAX, LEO, DAN. **Location:** POTTING_BENCH. **Wardrobe:** W01 only.
 **Composition:** Close notebook insert, then Max’s pleased reaction.
@@ -386,7 +388,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_05.png](assets/storyboards/BOARD_05.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Paper coin is never buried, watered, used as fertilizer or exchanged as real money.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–2.09s · LEO 2.24–5.84s · DAN 5.99–8.71s · MAX 8.86–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.39s · LEO 1.49–3.89s · DAN 3.99–5.81s · MAX 5.91–8.89s.
 
 **Dialogue:**
 **MAX:** Can my coin help?
@@ -397,7 +399,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** This coin gets to stay dry in the notebook, right?
 
-## SHOT_019 | 00:04:30–00:04:45 | Six gardeners, one safe plan
+## SHOT_019 | 00:03:00–00:03:10 | Six gardeners, one safe plan
 
 **Characters:** DAN, MAYA, NINA, LEO, ELLA, MAX. **Location:** POTTING_BENCH. **Wardrobe:** W01 only.
 **Composition:** Wide six-person bench setup; no seventh actor.
@@ -407,7 +409,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_05.png](assets/storyboards/BOARD_05.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Hands kept away from mouths; no dust play, tasting, fertilizer or pesticide.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): NINA 0.25–2.97s · MAYA 3.12–6.28s · DAN 6.43–10.91s · LEO 11.06–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–1.98s · MAYA 2.08–4.19s · DAN 4.29–7.27s · LEO 7.37–9.48s.
 
 **Dialogue:**
 **NINA:** Gloves on, hands away from mouths.
@@ -418,7 +420,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **LEO:** Good. Let's keep the dirt out here.
 
-## SHOT_020 | 00:04:45–00:05:00 | Open gently
+## SHOT_020 | 00:03:10–00:03:20 | Open gently
 
 **Characters:** NINA, MAYA, LEO. **Location:** POTTING_BENCH. **Wardrobe:** W01 only.
 **Composition:** Medium adult hands at the low-opened soil bag, Leo beyond arm’s reach.
@@ -428,7 +430,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_05.png](assets/storyboards/BOARD_05.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Damp potting mix is not food; adult opens and handles bag, no airborne dust.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–2.90s · NINA 3.05–6.13s · MAYA 6.28–9.36s · NINA 9.51–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.93s · NINA 2.03–4.09s · MAYA 4.19–6.24s · NINA 6.34–9.53s.
 
 **Dialogue:**
 **LEO:** It is already a little damp.
@@ -439,7 +441,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **NINA:** Let's keep a little space at the rim as we go.
 
-## SHOT_021 | 00:05:00–00:05:15 | Room for roots
+## SHOT_021 | 00:03:20–00:03:30 | Room for roots
 
 **Characters:** MAYA, DAN, ELLA. **Location:** POTTING_BENCH. **Wardrobe:** W01 only.
 **Composition:** Medium over the three pot rims from the path-facing side.
@@ -449,7 +451,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** One work ellipsis, no instant soil teleport; no fourth pot.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–2.53s · MAYA 2.68–5.84s · DAN 5.99–9.59s · ELLA 9.74–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.69s · MAYA 1.79–3.89s · DAN 3.99–6.39s · ELLA 6.49–9.19s.
 
 **Dialogue:**
 **ELLA:** Leave room at the top?
@@ -460,7 +462,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **ELLA:** So the soil stays inside when the water arrives.
 
-## SHOT_022 | 00:05:15–00:05:30 | Check before the pour
+## SHOT_022 | 00:03:30–00:03:40 | Check before the pour
 
 **Characters:** NINA, DAN, MAX. **Location:** POTTING_BENCH. **Wardrobe:** W01 only.
 **Composition:** Close adult finger checking mix at the right pot’s rim.
@@ -470,7 +472,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** The oversized watering idea is stopped before overwatering or plant harm.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–2.40s · NINA 2.55–6.37s · MAX 6.52–10.33s · DAN 10.48–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.60s · NINA 1.70–4.25s · MAX 4.35–6.89s · DAN 6.99–9.53s.
 
 **Dialogue:**
 **DAN:** One generous drink for everyone?
@@ -481,7 +483,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** All right. I'll put the big splash on hold.
 
-## SHOT_023 | 00:05:30–00:05:45 | Look, do not taste
+## SHOT_023 | 00:03:40–00:03:50 | Look, do not taste
 
 **Characters:** MAYA, MAX, ELLA. **Location:** POTTING_BENCH. **Wardrobe:** W01 only.
 **Composition:** Child-height medium; Maya holds the mint nursery pot securely.
@@ -491,7 +493,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No tasting plants, soil or seeds; gardening and food preparation remain separate.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–2.97s · MAYA 3.12–5.84s · ELLA 5.99–9.15s · MAX 9.30–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.98s · MAYA 2.08–3.89s · ELLA 3.99–6.10s · MAX 6.20–9.48s.
 
 **Dialogue:**
 **MAX:** It looks much greener than money.
@@ -502,7 +504,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** I'll use my eyes, then. Those leaves have a pretty shape.
 
-## SHOT_024 | 00:05:45–00:06:00 | Find the mint label
+## SHOT_024 | 00:03:50–00:04:00 | Find the mint label
 
 **Characters:** LEO, DAN, MAYA. **Location:** POTTING_BENCH. **Wardrobe:** W01 only.
 **Composition:** Over Leo’s shoulder onto nursery tag; readable word added editorially.
@@ -512,7 +514,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Mint remains LEFT throughout bench and final ground arrangement; never swap labels to fit camera.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–2.97s · DAN 3.12–5.84s · MAYA 5.99–9.15s · DAN 9.30–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.98s · DAN 2.08–3.89s · MAYA 3.99–6.10s · DAN 6.20–9.48s.
 
 **Dialogue:**
 **LEO:** The tag says mint. Left pot.
@@ -523,7 +525,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** And a better start than planting a coin in that pot.
 
-## SHOT_025 | 00:06:00–00:06:15 | A small root ball
+## SHOT_025 | 00:04:00–00:04:10 | A small root ball
 
 **Characters:** MAYA, ELLA, DAN. **Location:** POTTING_BENCH. **Wardrobe:** W01 only.
 **Composition:** Close Maya’s gloved hands supporting mint over the empty hollow.
@@ -533,7 +535,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_07.png](assets/storyboards/BOARD_07.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Only adults release root balls; do not turn mint into bare seeds or duplicate a plant.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–4.29s · MAYA 4.44–6.28s · DAN 6.43–9.59s · ELLA 9.74–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.86s · MAYA 2.96–4.19s · DAN 4.29–6.39s · ELLA 6.49–9.48s.
 
 **Dialogue:**
 **ELLA:** You are holding the roots, not tugging the leaves.
@@ -544,7 +546,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **ELLA:** The little leaves hardly moved when the roots came out.
 
-## SHOT_026 | 00:06:15–00:06:30 | Mint finds its home
+## SHOT_026 | 00:04:10–00:04:20 | Mint finds its home
 
 **Characters:** MAYA, MAX, NINA. **Location:** POTTING_BENCH. **Wardrobe:** W01 only.
 **Composition:** Bench-level medium on the left terracotta pot.
@@ -554,7 +556,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_07.png](assets/storyboards/BOARD_07.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Same one mint plant, not a second seedling; can water remains 500 mL.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–2.09s · NINA 2.24–4.08s · MAYA 4.23–7.39s · MAX 7.54–12.46s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.39s · NINA 1.49–2.72s · MAYA 2.82–4.93s · MAX 5.03–8.31s.
 
 **Dialogue:**
 **MAX:** It has moved house.
@@ -565,7 +567,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** Good. It can get comfortable before we give it a drink.
 
-## SHOT_027 | 00:06:30–00:06:45 | Firm, not squashed
+## SHOT_027 | 00:04:20–00:04:30 | Firm, not squashed
 
 **Characters:** ELLA, MAYA, LEO. **Location:** POTTING_BENCH. **Wardrobe:** W01 only.
 **Composition:** Close Ella’s supervised gloved fingertips around the mint soil edge.
@@ -575,7 +577,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_07.png](assets/storyboards/BOARD_07.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No hard tamping; keep stem at original planting depth and foliage intact.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–2.81s · MAYA 2.96–6.00s · LEO 6.15–7.72s · ELLA 7.87–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.87s · MAYA 1.97–4.00s · LEO 4.10–5.15s · ELLA 5.25–8.27s.
 
 **Dialogue:**
 **ELLA:** Like tucking in a blanket?
@@ -586,7 +588,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **ELLA:** I can leave a little space around the stem.
 
-## SHOT_028 | 00:06:45–00:07:00 | An empty nursery container
+## SHOT_028 | 00:04:30–00:04:40 | An empty nursery container
 
 **Characters:** DAN, NINA, MAX. **Location:** POTTING_BENCH. **Wardrobe:** W01 only.
 **Composition:** Medium Dan setting the empty nursery pot in the carrying crate.
@@ -596,7 +598,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_07.png](assets/storyboards/BOARD_07.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Empty packaging is not a fourth garden pot or a duplicate mint.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.95s · MAX 4.10–7.80s · NINA 7.96–9.64s · MAX 9.79–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.63s · MAX 2.73–5.20s · NINA 5.31–6.43s · MAX 6.53–9.53s.
 
 **Dialogue:**
 **DAN:** One empty nursery pot, ready to use another day.
@@ -607,7 +609,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** A house with nobody in it is much easier to stack.
 
-## SHOT_029 | 00:07:00–00:07:15 | A different leaf
+## SHOT_029 | 00:04:40–00:04:50 | A different leaf
 
 **Characters:** NINA, ELLA, LEO. **Location:** POTTING_BENCH. **Wardrobe:** W01 only.
 **Composition:** Close basil leaves and nursery tag, both children behind the pot.
@@ -617,7 +619,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Basil and mint are distinct existing seedlings; no edible sampling.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–2.09s · NINA 2.24–4.96s · LEO 5.11–7.83s · ELLA 7.98–12.46s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.39s · NINA 1.49–3.31s · LEO 3.41–5.22s · ELLA 5.32–8.31s.
 
 **Dialogue:**
 **ELLA:** The leaves look different.
@@ -628,7 +630,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **ELLA:** Two plants and two different shapes. I see it now.
 
-## SHOT_030 | 00:07:15–00:07:30 | Support the basil
+## SHOT_030 | 00:04:50–00:05:00 | Support the basil
 
 **Characters:** NINA, DAN, MAX. **Location:** POTTING_BENCH. **Wardrobe:** W01 only.
 **Composition:** Close adult hands above the center pot, Max in soft background.
@@ -638,7 +640,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Adults handle root ball; no extra basil plant or leaf picking.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–1.82s · NINA 1.97–4.52s · DAN 4.67–7.23s · MAX 7.38–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.21s · NINA 1.31–3.01s · DAN 3.11–4.82s · MAX 4.92–8.27s.
 
 **Dialogue:**
 **MAX:** Another moving day.
@@ -649,7 +651,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** Good. That stem still looks the same after the move.
 
-## SHOT_031 | 00:07:30–00:07:45 | Basil in the middle
+## SHOT_031 | 00:05:00–00:05:10 | Basil in the middle
 
 **Characters:** NINA, MAYA, ELLA. **Location:** POTTING_BENCH. **Wardrobe:** W01 only.
 **Composition:** Medium on the center pot with mint visible at frame left.
@@ -659,7 +661,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** One mint and one basil only; two empty nursery containers now in crate.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): NINA 0.25–2.09s · MAYA 2.24–5.40s · ELLA 5.55–8.71s · MAYA 8.86–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–1.39s · MAYA 1.49–3.60s · ELLA 3.70–5.81s · MAYA 5.91–9.48s.
 
 **Dialogue:**
 **NINA:** Basil in the middle.
@@ -670,7 +672,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAYA:** Keep it with us. We'll do the names together in a bit.
 
-## SHOT_032 | 00:07:45–00:08:00 | Leave the leaves room
+## SHOT_032 | 00:05:10–00:05:20 | Leave the leaves room
 
 **Characters:** LEO, NINA, DAN. **Location:** POTTING_BENCH. **Wardrobe:** W01 only.
 **Composition:** Close supervised hands around basil soil; Dan framed at bench end.
@@ -680,7 +682,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Both leafy plants remain upright; radish bed still bare; no water used.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–2.90s · NINA 3.05–6.13s · DAN 6.28–9.36s · LEO 9.51–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.93s · NINA 2.03–4.09s · DAN 4.19–6.24s · LEO 6.34–9.53s.
 
 **Dialogue:**
 **LEO:** Not too tight around the stem.
@@ -691,7 +693,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **LEO:** I think that stem would vote for a little elbow room.
 
-## SHOT_033 | 00:08:00–00:08:15 | Two plants, two names
+## SHOT_033 | 00:05:20–00:05:30 | Two plants, two names
 
 **Characters:** MAYA, MAX, ELLA. **Location:** POTTING_BENCH. **Wardrobe:** W01 only.
 **Composition:** Medium view across left and center pots, right pot visible bare.
@@ -701,7 +703,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** The question serves the family’s planting task, no viewer repetition or quiz overlay.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–2.97s · MAX 3.12–7.60s · ELLA 7.75–10.91s · MAX 11.06–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.98s · MAX 2.08–5.07s · ELLA 5.17–7.27s · MAX 7.37–9.19s.
 
 **Dialogue:**
 **MAYA:** Which plant is in the middle?
@@ -712,7 +714,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** Mint on the left. Got it.
 
-## SHOT_034 | 00:08:15–00:08:30 | A quiet seed bed
+## SHOT_034 | 00:05:30–00:05:40 | A quiet seed bed
 
 **Characters:** DAN, MAYA, LEO. **Location:** POTTING_BENCH. **Wardrobe:** W01 only.
 **Composition:** Close top-down view of the right pot from the path side.
@@ -722,7 +724,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Do not show sprouts, roots through pot or second sowing tray.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–2.61s · MAYA 2.76–5.11s · LEO 5.26–7.62s · DAN 7.77–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.74s · MAYA 1.84–3.41s · LEO 3.51–5.08s · DAN 5.18–8.27s.
 
 **Dialogue:**
 **DAN:** This pot looks rather empty.
@@ -733,7 +735,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** How small? I can hardly see them from this side.
 
-## SHOT_035 | 00:08:30–00:08:45 | Only three for this pot
+## SHOT_035 | 00:05:40–00:05:50 | Only three for this pot
 
 **Characters:** MAYA, LEO, ELLA. **Location:** POTTING_BENCH. **Wardrobe:** W01 only.
 **Composition:** Close garden seed dish with exactly three small round seeds.
@@ -743,7 +745,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Stock packet is not additional sown inventory; no seeds eaten or spilled.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–2.34s · MAYA 2.49–5.38s · LEO 5.54–9.24s · ELLA 9.39–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.56s · MAYA 1.66–3.59s · LEO 3.69–6.16s · ELLA 6.26–9.53s.
 
 **Dialogue:**
 **ELLA:** Three seeds for this pot.
@@ -754,7 +756,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **ELLA:** Good. I'll watch all three spaces on top before we cover them.
 
-## SHOT_036 | 00:08:45–00:09:00 | Room below and beside
+## SHOT_036 | 00:05:50–00:06:00 | Room below and beside
 
 **Characters:** NINA, LEO, DAN. **Location:** POTTING_BENCH. **Wardrobe:** W01 only.
 **Composition:** Top-down adult-guided placement view of the right seed bed.
@@ -764,7 +766,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Illustrative variety-specific spacing, not a universal gardening prescription; exact diagram is editorial SVG.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–3.41s · NINA 3.56–7.16s · DAN 7.31–9.15s · LEO 9.30–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.27s · NINA 2.37–4.77s · DAN 4.87–6.10s · LEO 6.20–9.19s.
 
 **Dialogue:**
 **LEO:** Space between them, and not too deep.
@@ -775,7 +777,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **LEO:** I'll use what the packet says for these particular seeds.
 
-## SHOT_037 | 00:09:00–00:09:15 | The first seed
+## SHOT_037 | 00:06:00–00:06:10 | The first seed
 
 **Characters:** LEO, MAYA, MAX. **Location:** POTTING_BENCH. **Wardrobe:** W01 only.
 **Composition:** Close Leo’s supervised glove placing one seed.
@@ -785,7 +787,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_10.png](assets/storyboards/BOARD_10.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Seed count in soil 1; packet remains shut; no sprout appears.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–2.23s · MAX 2.38–3.88s · MAYA 4.03–7.43s · MAX 7.58–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.49s · MAX 1.59–2.59s · MAYA 2.69–4.95s · MAX 5.05–8.27s.
 
 **Dialogue:**
 **LEO:** One in the back.
@@ -796,7 +798,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** Can I keep count while the other two are waiting?
 
-## SHOT_038 | 00:09:15–00:09:30 | The second seed
+## SHOT_038 | 00:06:10–00:06:20 | The second seed
 
 **Characters:** ELLA, NINA, DAN. **Location:** POTTING_BENCH. **Wardrobe:** W01 only.
 **Composition:** Close Ella placing a seed in the front-left hole.
@@ -806,7 +808,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_10.png](assets/storyboards/BOARD_10.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Do not duplicate seeds between hands, dish and soil.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–2.15s · DAN 2.30–4.20s · NINA 4.35–7.17s · ELLA 7.32–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.43s · DAN 1.53–2.80s · NINA 2.90–4.78s · ELLA 4.88–8.27s.
 
 **Dialogue:**
 **ELLA:** One for this space.
@@ -817,7 +819,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **ELLA:** Good. The last little neighbor has a spot of its own.
 
-## SHOT_039 | 00:09:30–00:09:45 | The third seed
+## SHOT_039 | 00:06:20–00:06:30 | The third seed
 
 **Characters:** MAX, MAYA, LEO. **Location:** POTTING_BENCH. **Wardrobe:** W01 only.
 **Composition:** Low close view over the right pot rim with Maya’s hand nearby.
@@ -827,7 +829,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_10.png](assets/storyboards/BOARD_10.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Max uses no sharp tool and does not bring gloves near mouth.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–2.53s · LEO 2.68–4.96s · MAYA 5.11–8.27s · LEO 8.42–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.69s · LEO 1.79–3.31s · MAYA 3.41–5.51s · LEO 5.61–8.89s.
 
 **Dialogue:**
 **MAX:** The last neighbor has arrived.
@@ -838,7 +840,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **LEO:** Three in their places. Now we can leave them in peace.
 
-## SHOT_040 | 00:09:45–00:10:00 | Covered, not instantly grown
+## SHOT_040 | 00:06:30–00:06:40 | Covered, not instantly grown
 
 **Characters:** NINA, ELLA, MAX. **Location:** POTTING_BENCH. **Wardrobe:** W01 only.
 **Composition:** Close adult glove drawing a thin layer of soil over all three holes.
@@ -848,7 +850,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_10.png](assets/storyboards/BOARD_10.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No time jump or sprouts; all planting still the same spring morning.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–2.09s · NINA 2.24–4.96s · ELLA 5.11–9.15s · MAX 9.30–11.14s · NINA 11.29–14.01s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.39s · NINA 1.49–3.31s · ELLA 3.41–6.10s · MAX 6.20–7.43s · NINA 7.53–9.34s.
 
 **Dialogue:**
 **MAX:** Where are the radishes?
@@ -861,7 +863,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **NINA:** Save room for that first shoot.
 
-## SHOT_041 | 00:10:00–00:10:15 | Write before you stick
+## SHOT_041 | 00:06:40–00:06:50 | Write before you stick
 
 **Characters:** LEO, ELLA, DAN. **Location:** POTTING_BENCH. **Wardrobe:** W01 only.
 **Composition:** Over Leo’s shoulder onto three label stakes on the dry tray.
@@ -871,7 +873,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Exact words from PLANT_LABELS.svg; paper coin never substitutes for a buried marker.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.85s · ELLA 4.00–5.84s · LEO 5.99–9.15s · DAN 9.30–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.57s · ELLA 2.67–3.89s · LEO 3.99–6.10s · DAN 6.20–9.19s.
 
 **Dialogue:**
 **DAN:** Label first, guess later. Ben had a point.
@@ -882,7 +884,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** I'll read the names with you before they go in.
 
-## SHOT_042 | 00:10:15–00:10:30 | Mint has a nameplate
+## SHOT_042 | 00:06:50–00:07:00 | Mint has a nameplate
 
 **Characters:** MAX, MAYA, DAN. **Location:** POTTING_BENCH. **Wardrobe:** W01 only.
 **Composition:** Medium close view of LEFT pot and one mint label.
@@ -892,7 +894,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Do not bury the paper coin drawing or stab through the root ball.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–2.09s · MAYA 2.24–4.96s · DAN 5.11–8.27s · MAX 8.42–12.90s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.39s · MAYA 1.49–3.31s · DAN 3.41–5.51s · MAX 5.61–8.60s.
 
 **Dialogue:**
 **MAX:** Mint. The leafy kind.
@@ -903,7 +905,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** Good. It would be a long wait for pocket money.
 
-## SHOT_043 | 00:10:30–00:10:45 | Basil belongs here
+## SHOT_043 | 00:07:00–00:07:10 | Basil belongs here
 
 **Characters:** ELLA, NINA, LEO. **Location:** POTTING_BENCH. **Wardrobe:** W01 only.
 **Composition:** Medium close on CENTER pot; left MINT label stays visible.
@@ -913,7 +915,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Nursery tags kept as reference, not extra planted stakes.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–2.09s · NINA 2.24–4.08s · LEO 4.23–7.39s · ELLA 7.54–12.90s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.39s · NINA 1.49–2.72s · LEO 2.82–4.93s · ELLA 5.03–8.60s.
 
 **Dialogue:**
 **ELLA:** Basil in the middle.
@@ -924,7 +926,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **ELLA:** Good. I'd like to recognize the leaves as well as the name.
 
-## SHOT_044 | 00:10:45–00:11:00 | A name for an invisible beginning
+## SHOT_044 | 00:07:10–00:07:20 | A name for an invisible beginning
 
 **Characters:** LEO, MAYA, MAX. **Location:** POTTING_BENCH. **Wardrobe:** W01 only.
 **Composition:** Close RIGHT label insertion from path side, soil surface bare.
@@ -934,7 +936,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Right pot remains bare; the label identifies a sowing, not a visible crop.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–3.41s · LEO 3.56–4.52s · MAYA 4.67–8.27s · MAX 8.42–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.27s · LEO 2.37–3.01s · MAYA 3.11–5.51s · MAX 5.61–8.89s.
 
 **Dialogue:**
 **MAX:** The name is taller than the plant.
@@ -945,7 +947,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** Then I won't think the bare soil means we forgot one.
 
-## SHOT_045 | 00:11:00–00:11:15 | Day one means day one
+## SHOT_045 | 00:07:20–00:07:30 | Day one means day one
 
 **Characters:** LEO, NINA, DAN. **Location:** POTTING_BENCH. **Wardrobe:** W01 only.
 **Composition:** Close dry notebook page; garden behind remains same morning.
@@ -955,7 +957,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No invented growth measurement or later-day entry; readable journal text comes from GROWTH_JOURNAL.svg.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–3.41s · DAN 3.56–6.72s · NINA 6.87–10.03s · DAN 10.18–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.27s · DAN 2.37–4.48s · NINA 4.58–6.69s · DAN 6.79–9.48s.
 
 **Dialogue:**
 **LEO:** Day one: planted. No radish shoots yet.
@@ -966,7 +968,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** I'll leave a little room for whatever happens next.
 
-## SHOT_046 | 00:11:15–00:11:30 | The generous gardener pauses
+## SHOT_046 | 00:07:30–00:07:40 | The generous gardener pauses
 
 **Characters:** DAN, MAYA, MAX. **Location:** POTTING_BENCH. **Wardrobe:** W01 only.
 **Composition:** Medium Dan lifting can no higher than waist; Maya between can and pots.
@@ -976,7 +978,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No actual flood, plant damage or water magically removed.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.15s · MAYA 3.30–7.00s · MAX 7.15–10.04s · DAN 10.19–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.10s · MAYA 2.20–4.67s · MAX 4.77–6.69s · DAN 6.79–9.53s.
 
 **Dialogue:**
 **DAN:** Perhaps the mint wants the whole can.
@@ -987,7 +989,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** Good thing we checked. My first offer was rather large.
 
-## SHOT_047 | 00:11:30–00:11:45 | A smaller way to check
+## SHOT_047 | 00:07:40–00:07:50 | A smaller way to check
 
 **Characters:** NINA, DAN, ELLA. **Location:** POTTING_BENCH. **Wardrobe:** W01 only.
 **Composition:** Close dedicated 100 mL garden measure beside can.
@@ -997,7 +999,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Transferred water counted once; water cup is dedicated garden equipment, never drinking glass.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): NINA 0.25–3.85s · DAN 4.00–5.84s · ELLA 5.99–9.15s · DAN 9.30–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–2.57s · DAN 2.67–3.89s · ELLA 3.99–6.10s · DAN 6.20–9.48s.
 
 **Dialogue:**
 **NINA:** Start with one small measured amount, then observe.
@@ -1008,7 +1010,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** I'll watch the soil while the rest stays in the can.
 
-## SHOT_048 | 00:11:45–00:12:00 | A measured drink for mint
+## SHOT_048 | 00:07:50–00:08:00 | A measured drink for mint
 
 **Characters:** DAN, NINA, MAX. **Location:** POTTING_BENCH. **Wardrobe:** W01 only.
 **Composition:** Close low spout pour around soil, leaves and label clear.
@@ -1018,7 +1020,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Example amount for this observed damp mix only, not universal plant advice; adult-controlled slow pour.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–2.97s · MAX 3.12–4.52s · NINA 4.67–7.83s · MAX 7.98–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.98s · MAX 2.08–3.01s · NINA 3.11–5.22s · MAX 5.32–8.89s.
 
 **Dialogue:**
 **DAN:** A small drink, around the roots.
@@ -1029,7 +1031,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** I can wait. The water doesn't need my help to sink in.
 
-## SHOT_049 | 00:12:00–00:12:15 | Wait for the water
+## SHOT_049 | 00:08:00–00:08:10 | Wait for the water
 
 **Characters:** MAYA, ELLA, DAN. **Location:** POTTING_BENCH. **Wardrobe:** W01 only.
 **Composition:** Close saucer beneath mint with adult hands clear.
@@ -1039,7 +1041,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Drainage is not a new water source; do not refill pot just because the shot changes.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–2.82s · MAYA 2.97–6.78s · DAN 6.93–9.50s · MAYA 9.65–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.88s · MAYA 1.98–4.52s · DAN 4.62–6.33s · MAYA 6.43–9.53s.
 
 **Dialogue:**
 **ELLA:** A little came through the bottom.
@@ -1050,7 +1052,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAYA:** Yes. Let's leave that plant in peace and check the next.
 
-## SHOT_050 | 00:12:15–00:12:30 | Measure the next drink
+## SHOT_050 | 00:08:10–00:08:20 | Measure the next drink
 
 **Characters:** LEO, DAN, NINA. **Location:** POTTING_BENCH. **Wardrobe:** W01 only.
 **Composition:** Medium marked measure refilled above tray, basil center behind.
@@ -1060,7 +1062,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Water ledger: 100 mL applied plus 100 in measure plus 300 in can equals initial 500.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–4.61s · DAN 4.76–8.27s · NINA 8.42–11.50s · DAN 11.65–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–3.07s · DAN 3.17–5.51s · NINA 5.61–7.67s · DAN 7.77–9.53s.
 
 **Dialogue:**
 **LEO:** Three hundred in the can, one hundred in the cup.
@@ -1071,7 +1073,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** That little cup's easier to control.
 
-## SHOT_051 | 00:12:30–00:12:45 | Basil’s turn
+## SHOT_051 | 00:08:20–00:08:30 | Basil’s turn
 
 **Characters:** NINA, ELLA, MAYA. **Location:** POTTING_BENCH. **Wardrobe:** W01 only.
 **Composition:** Medium close CENTER pot as Nina pours slowly at soil level.
@@ -1081,7 +1083,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** One watering per pot; do not pour onto leaves or create a second basil.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–2.34s · NINA 2.49–4.98s · MAYA 5.13–9.64s · ELLA 9.79–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.56s · NINA 1.66–3.32s · MAYA 3.42–6.43s · ELLA 6.53–9.53s.
 
 **Dialogue:**
 **ELLA:** Same small measure, different plant.
@@ -1092,7 +1094,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **ELLA:** So we write what happened today and check tomorrow for ourselves.
 
-## SHOT_052 | 00:12:45–00:13:00 | The second saucer tells a story
+## SHOT_052 | 00:08:30–00:08:40 | The second saucer tells a story
 
 **Characters:** MAYA, LEO, MAX. **Location:** POTTING_BENCH. **Wardrobe:** W01 only.
 **Composition:** Low insert of center saucer, then children looking from safe distance.
@@ -1102,7 +1104,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No wilt-to-recovery magic; plants were healthy before transplanting.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–3.65s · MAYA 3.80–7.62s · LEO 7.77–10.33s · MAX 10.48–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.43s · MAYA 2.53–5.08s · LEO 5.18–6.89s · MAX 6.99–9.53s.
 
 **Dialogue:**
 **MAX:** Do all pots want the same drink forever?
@@ -1113,7 +1115,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** Okay. The pots can have different answers next time.
 
-## SHOT_053 | 00:13:00–00:13:15 | Water for the hidden seeds
+## SHOT_053 | 00:08:40–00:08:50 | Water for the hidden seeds
 
 **Characters:** DAN, MAYA, MAX. **Location:** POTTING_BENCH. **Wardrobe:** W01 only.
 **Composition:** Close garden measure filled above dry tray; RIGHT pot bare behind.
@@ -1123,7 +1125,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** This is the third and final draw; no additional tap filling.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.41s · MAYA 3.56–7.60s · MAX 7.75–10.03s · DAN 10.18–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.27s · MAYA 2.37–5.07s · MAX 5.17–6.69s · DAN 6.79–9.48s.
 
 **Dialogue:**
 **DAN:** One hundred for the seed pot, gently.
@@ -1134,7 +1136,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** Point taken. I'll keep the pour gentle and close.
 
-## SHOT_054 | 00:13:15–00:13:30 | A gentle final pour
+## SHOT_054 | 00:08:50–00:09:00 | A gentle final pour
 
 **Characters:** MAYA, MAX, ELLA. **Location:** POTTING_BENCH. **Wardrobe:** W01 only.
 **Composition:** Close adult pour onto RIGHT soil surface away from label.
@@ -1144,7 +1146,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Seeds stay covered; no exposed floating seed, added seed or immediate shoot.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–1.61s · MAYA 1.76–5.70s · ELLA 5.85–8.93s · MAX 9.08–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.07s · MAYA 1.17–3.80s · ELLA 3.90–5.95s · MAX 6.05–9.53s.
 
 **Dialogue:**
 **MAX:** Nothing green yet.
@@ -1155,7 +1157,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** Good. I want to see the very first bit of green myself.
 
-## SHOT_055 | 00:13:30–00:13:45 | Enough for this morning
+## SHOT_055 | 00:09:00–00:09:10 | Enough for this morning
 
 **Characters:** NINA, DAN, LEO. **Location:** POTTING_BENCH. **Wardrobe:** W01 only.
 **Composition:** Medium along all three pots; low light catches a little right-saucer drainage.
@@ -1165,7 +1167,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No standing-water maintenance implied; adult will empty drainage saucers before final placement.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–4.36s · NINA 4.51–7.00s · LEO 7.15–10.04s · DAN 10.19–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.91s · NINA 3.01–4.67s · LEO 4.77–6.69s · DAN 6.79–9.53s.
 
 **Dialogue:**
 **DAN:** Two hundred left. I do not have to spend it.
@@ -1176,7 +1178,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** Good. Leaving water in the can feels like helping now.
 
-## SHOT_056 | 00:13:45–00:14:00 | The numbers stay with the work
+## SHOT_056 | 00:09:10–00:09:20 | The numbers stay with the work
 
 **Characters:** LEO, NINA, ELLA. **Location:** POTTING_BENCH. **Wardrobe:** W01 only.
 **Composition:** Notebook insert with three pot sketches and exact record overlay.
@@ -1186,7 +1188,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Five hundred equals three hundred plus two hundred; record is specific to today’s conditions.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–2.97s · ELLA 3.12–4.52s · NINA 4.67–9.15s · ELLA 9.30–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.98s · ELLA 2.08–3.01s · NINA 3.11–6.10s · ELLA 6.20–9.19s.
 
 **Dialogue:**
 **LEO:** Three hundred used. Two hundred left.
@@ -1197,7 +1199,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **ELLA:** I'll write the amount we used, so we remember today.
 
-## SHOT_057 | 00:14:00–00:14:15 | Drainage is not a bath
+## SHOT_057 | 00:09:20–00:09:30 | Drainage is not a bath
 
 **Characters:** MAYA, DAN, MAX. **Location:** POTTING_BENCH. **Wardrobe:** W01 only.
 **Composition:** Medium adult lifting one pot just above its saucer; children behind bench.
@@ -1207,7 +1209,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Adults lift terracotta; water remainder still 200 mL in can; waste drainage does not refill it.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–2.53s · MAYA 2.68–5.84s · DAN 5.99–8.71s · MAX 8.86–12.90s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.69s · MAYA 1.79–3.89s · DAN 3.99–5.81s · MAX 5.91–8.60s.
 
 **Dialogue:**
 **MAX:** No pools under the houses.
@@ -1218,7 +1220,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** Good. These little houses won't need lifeboats after all.
 
-## SHOT_058 | 00:14:15–00:14:30 | Sunlight has a place
+## SHOT_058 | 00:09:30–00:09:40 | Sunlight has a place
 
 **Characters:** NINA, MAYA, ELLA. **Location:** HOME_GARDEN. **Wardrobe:** W01 only.
 **Composition:** Wide established garden: house door left, tree right, sunny fence strip left of canopy.
@@ -1228,7 +1230,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Existing rear-right maple stays put; do not invent a separate public park or move the house.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–2.74s · NINA 2.89–5.38s · MAYA 5.54–10.04s · ELLA 10.19–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.83s · NINA 1.93–3.59s · MAYA 3.69–6.69s · ELLA 6.79–9.53s.
 
 **Dialogue:**
 **ELLA:** The tree makes shade over there.
@@ -1239,7 +1241,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **ELLA:** We can see all the labels from the path there.
 
-## SHOT_059 | 00:14:30–00:14:45 | One pot at a time
+## SHOT_059 | 00:09:40–00:09:50 | One pot at a time
 
 **Characters:** DAN, MAYA, LEO. **Location:** GARDEN_POTS. **Wardrobe:** W01 only.
 **Composition:** Low medium view of LEFT marked ground position, empty strip beyond.
@@ -1249,7 +1251,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Adults carry pots; no duplicated mint left on bench or extra saucer.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–2.09s · LEO 2.24–4.52s · MAYA 4.67–7.39s · DAN 7.54–12.90s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.39s · LEO 1.49–3.01s · MAYA 3.11–4.93s · DAN 5.03–8.60s.
 
 **Dialogue:**
 **DAN:** Left pot, left place.
@@ -1260,7 +1262,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** Good. We'll be able to read it without stepping off the path.
 
-## SHOT_060 | 00:14:45–00:15:00 | The middle neighbor
+## SHOT_060 | 00:09:50–00:10:00 | The middle neighbor
 
 **Characters:** NINA, ELLA, MAX. **Location:** GARDEN_POTS. **Wardrobe:** W01 only.
 **Composition:** Medium ground-level shot with mint LEFT visible.
@@ -1270,7 +1272,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Same left-center-right order as notebook; no swapping for composition.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–2.53s · MAX 2.68–4.96s · NINA 5.11–9.15s · ELLA 9.30–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.69s · MAX 1.79–3.31s · NINA 3.41–6.10s · ELLA 6.20–9.48s.
 
 **Dialogue:**
 **ELLA:** Basil in the middle again.
@@ -1281,7 +1283,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **ELLA:** Good. We'll still know which one is basil from over here.
 
-## SHOT_061 | 00:15:00–00:15:15 | A place for quiet beginnings
+## SHOT_061 | 00:10:00–00:10:10 | A place for quiet beginnings
 
 **Characters:** MAYA, DAN, LEO. **Location:** GARDEN_POTS. **Wardrobe:** W01 only.
 **Composition:** Low shot toward RIGHT ground position; both leafy pots remain frame left.
@@ -1291,7 +1293,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No fourth pot, extra seed tray or radish leaf; all labels face the same path.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–2.09s · DAN 2.24–5.40s · MAYA 5.55–9.59s · DAN 9.74–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.39s · DAN 1.49–3.60s · MAYA 3.70–6.39s · DAN 6.49–9.48s.
 
 **Dialogue:**
 **LEO:** Radishes on the right.
@@ -1302,7 +1304,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** I can wait. The label's got today's answer on it.
 
-## SHOT_062 | 00:15:15–00:15:30 | A picture that tells the truth
+## SHOT_062 | 00:10:10–00:10:20 | A picture that tells the truth
 
 **Characters:** ELLA, LEO, NINA. **Location:** GARDEN_POTS. **Wardrobe:** W01 only.
 **Composition:** Over Ella’s shoulder onto simple notebook sketch, three real pots beyond.
@@ -1312,7 +1314,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No transparent pot fantasy or false growth photo; drawings are planning records.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–3.85s · LEO 4.00–7.16s · NINA 7.31–10.03s · ELLA 10.18–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.57s · LEO 2.67–4.77s · NINA 4.87–6.69s · ELLA 6.79–8.89s.
 
 **Dialogue:**
 **ELLA:** Two leafy plants and one pot of waiting.
@@ -1323,7 +1325,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **ELLA:** Then I'll leave off the imaginary leaves.
 
-## SHOT_063 | 00:15:30–00:15:45 | The bench has finished its part
+## SHOT_063 | 00:10:20–00:10:30 | The bench has finished its part
 
 **Characters:** DAN, MAYA, MAX. **Location:** POTTING_BENCH. **Wardrobe:** W01 only.
 **Composition:** Medium clean-up view; planted pots visible only in distant established strip.
@@ -1333,7 +1335,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No seeds or soil carried into kitchen; no extra watering; can 200 mL by bench.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–3.85s · MAYA 4.00–7.60s · DAN 7.75–10.91s · MAX 11.06–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.57s · MAYA 2.67–5.07s · DAN 5.17–7.27s · MAX 7.37–9.48s.
 
 **Dialogue:**
 **MAX:** Can the seeds stay out of the rain?
@@ -1344,7 +1346,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** Good. Spare seeds stay dry up there.
 
-## SHOT_064 | 00:15:45–00:16:00 | The unused water is still water
+## SHOT_064 | 00:10:30–00:10:40 | The unused water is still water
 
 **Characters:** NINA, LEO, DAN. **Location:** GARDEN_PATH. **Wardrobe:** W01 only.
 **Composition:** Medium green can moved from beside bench to safe sheltered storage.
@@ -1354,7 +1356,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Water remainder not drinking water; avoid dangling handles or containers blocking the route.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–2.97s · DAN 3.12–5.40s · NINA 5.55–9.15s · DAN 9.30–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.98s · DAN 2.08–3.60s · NINA 3.70–6.10s · DAN 6.20–9.48s.
 
 **Dialogue:**
 **LEO:** Two hundred saved, not secretly added.
@@ -1365,7 +1367,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** Good. Tomorrow the soil can tell us what to do next.
 
-## SHOT_065 | 00:16:00–00:16:15 | Gloves off the right way
+## SHOT_065 | 00:10:40–00:10:50 | Gloves off the right way
 
 **Characters:** MAYA, NINA, ELLA. **Location:** GARDEN_PATH. **Wardrobe:** W01 only.
 **Composition:** Medium at outdoor glove tray beside doorway; garden soil stays outside.
@@ -1375,7 +1377,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Removal does not replace handwashing; dirty gloves remain outside.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–1.94s · MAYA 2.09–4.58s · NINA 4.73–9.64s · ELLA 9.79–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.29s · MAYA 1.39–3.05s · NINA 3.15–6.43s · ELLA 6.53–9.53s.
 
 **Dialogue:**
 **ELLA:** Gloves stay out here.
@@ -1386,7 +1388,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **ELLA:** I'll leave my gloves here and go with you to wash.
 
-## SHOT_066 | 00:16:15–00:16:30 | Clean hands before anything else
+## SHOT_066 | 00:10:50–00:11:00 | Clean hands before anything else
 
 **Characters:** DAN, MAYA, NINA, LEO, ELLA, MAX. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Wide sink-side sequence linked by a clear handwashing-time dissolve.
@@ -1394,9 +1396,9 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Starting continuity:** Garden gloves and tools outside; bare hands not yet washed; kitchen still free of soil or plants.
 **Ending continuity:** All six hands washed and dried; sink faucet OFF; no garden object on food surface.
 **Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
-**Continuity:** This is elapsed real washing, not a complete six-person wash in fifteen seconds; no tasting follows gardening.
+**Continuity:** This is elapsed real washing, not a complete six-person wash in ten seconds; no tasting follows gardening.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–2.97s · MAX 3.12–4.96s · NINA 5.11–8.27s · LEO 8.42–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.98s · MAX 2.08–3.31s · NINA 3.41–5.51s · LEO 5.61–8.89s.
 
 **Dialogue:**
 **DAN:** Before a snack, a proper wash.
@@ -1407,7 +1409,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **LEO:** Especially me. I handled the pots as well as the numbers.
 
-## SHOT_067 | 00:16:30–00:16:45 | A dry record comes indoors
+## SHOT_067 | 00:11:00–00:11:10 | A dry record comes indoors
 
 **Characters:** LEO, MAYA, ELLA. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Medium oak island view, only dry notebook and pencil on clean surface.
@@ -1417,7 +1419,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No dirty garden measure reused as a cup; no sudden harvest on the island.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–2.09s · ELLA 2.24–5.84s · MAYA 5.99–8.71s · ELLA 8.86–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.39s · ELLA 1.49–3.89s · MAYA 3.99–5.81s · ELLA 5.91–8.89s.
 
 **Dialogue:**
 **LEO:** Day one is complete.
@@ -1428,7 +1430,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **ELLA:** Good. My pencil doesn't have to grow a radish today.
 
-## SHOT_068 | 00:16:45–00:17:00 | The part that takes longer
+## SHOT_068 | 00:11:10–00:11:20 | The part that takes longer
 
 **Characters:** DAN, MAX, NINA. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Medium Max looking through garden doorway, Dan beside him.
@@ -1438,7 +1440,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Never show overnight harvest or promise a fixed germination date; actual weather/variety determine it.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–3.23s · NINA 3.38–6.78s · DAN 6.93–9.92s · MAX 10.07–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.15s · NINA 2.25–4.52s · DAN 4.62–6.61s · MAX 6.71–9.53s.
 
 **Dialogue:**
 **MAX:** Will the radishes be ready after lunch?
@@ -1449,7 +1451,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** Can we still look if there's nothing new to see?
 
-## SHOT_069 | 00:17:00–00:17:15 | A promise without a timer
+## SHOT_069 | 00:11:20–00:11:30 | A promise without a timer
 
 **Characters:** MAYA, ELLA, LEO. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Close journal tomorrow line left blank, faces above.
@@ -1459,7 +1461,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No audience countdown, practice slot or fast-growth montage.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–3.15s · LEO 3.30–5.79s · MAYA 5.94–10.04s · ELLA 10.19–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.10s · LEO 2.20–3.86s · MAYA 3.96–6.69s · ELLA 6.79–9.53s.
 
 **Dialogue:**
 **ELLA:** I will leave room for what changes.
@@ -1470,7 +1472,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **ELLA:** I'll leave a blank spot for the first green bit.
 
-## SHOT_070 | 00:17:15–00:17:30 | What the coin can grow
+## SHOT_070 | 00:11:30–00:11:40 | What the coin can grow
 
 **Characters:** DAN, MAX, MAYA. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Medium playful reaction with paper coin on notebook cover.
@@ -1480,7 +1482,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Metaphor stays spoken, not a literal animated money tree.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–4.29s · MAX 4.44–5.84s · MAYA 5.99–7.83s · DAN 7.98–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.86s · MAX 2.96–3.89s · MAYA 3.99–5.22s · DAN 5.32–8.89s.
 
 **Dialogue:**
 **DAN:** Your paper coin grew into a very good joke.
@@ -1491,7 +1493,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** And the only thing we had to spend was a little time.
 
-## SHOT_071 | 00:17:30–00:17:45 | Back to look, not to interfere
+## SHOT_071 | 00:11:40–00:11:50 | Back to look, not to interfere
 
 **Characters:** DAN, MAYA, NINA, LEO, ELLA, MAX. **Location:** GARDEN_PATH. **Wardrobe:** W01 only.
 **Composition:** Wide six-person return to doorway and clear path.
@@ -1501,7 +1503,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Same morning light; brief return is observation only, no second planting or watering.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): NINA 0.25–2.97s · DAN 3.12–5.84s · LEO 5.99–8.71s · MAX 8.86–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–1.98s · DAN 2.08–3.89s · LEO 3.99–5.81s · MAX 5.91–8.89s.
 
 **Dialogue:**
 **NINA:** A last look from the path.
@@ -1512,7 +1514,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** I'll wave from here. The seeds don't need digging up.
 
-## SHOT_072 | 00:17:45–00:18:00 | Room to care
+## SHOT_072 | 00:11:50–00:12:00 | Room to care
 
 **Characters:** MAYA, NINA, DAN. **Location:** GARDEN_POTS. **Wardrobe:** W01 only.
 **Composition:** Medium adults beside the fixed three-pot row, no pot lifted.
@@ -1522,7 +1524,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Leaf silhouettes and seed-bed state identical to earlier placement; no growth claimed.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–2.47s · MAYA 2.62–6.13s · NINA 6.28–9.36s · DAN 9.51–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.65s · MAYA 1.75–4.09s · NINA 4.19–6.24s · DAN 6.34–9.53s.
 
 **Dialogue:**
 **DAN:** I nearly wanted a forest.
@@ -1533,7 +1535,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** And I already know all three of these neighbors by name.
 
-## SHOT_073 | 00:18:00–00:18:15 | The quiet pot has company
+## SHOT_073 | 00:12:00–00:12:10 | The quiet pot has company
 
 **Characters:** MAX, ELLA, LEO. **Location:** GARDEN_POTS. **Wardrobe:** W01 only.
 **Composition:** Child-height three-shot on path with bare right pot in foreground.
@@ -1543,7 +1545,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Personification is a family joke, not talking or sentient plants.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–2.90s · ELLA 3.05–5.70s · LEO 5.85–9.79s · ELLA 9.94–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.93s · ELLA 2.03–3.80s · LEO 3.90–6.53s · ELLA 6.63–9.53s.
 
 **Dialogue:**
 **MAX:** We will visit again, tiny neighbors.
@@ -1554,7 +1556,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **ELLA:** They can have a quiet afternoon. We did enough today.
 
-## SHOT_074 | 00:18:15–00:18:30 | One question helped more
+## SHOT_074 | 00:12:10–00:12:20 | One question helped more
 
 **Characters:** DAN, NINA, MAX. **Location:** GARDEN_POTS. **Wardrobe:** W01 only.
 **Composition:** Warm medium Dan at Max’s height, Nina beside the row.
@@ -1564,7 +1566,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Affectionate admission, no humiliation or rivalry between parents.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–4.48s · NINA 4.63–7.20s · MAX 7.35–9.50s · DAN 9.65–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.99s · NINA 3.09–4.80s · MAX 4.90–6.33s · DAN 6.43–9.53s.
 
 **Dialogue:**
 **DAN:** I wanted to be helpful. Checking helped more than pouring.
@@ -1575,7 +1577,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** Good. It's the first time I've felt proud of leftover water.
 
-## SHOT_075 | 00:18:30–00:18:45 | Everyone left a useful mark
+## SHOT_075 | 00:12:20–00:12:30 | Everyone left a useful mark
 
 **Characters:** ELLA, MAYA, LEO. **Location:** GARDEN_POTS. **Wardrobe:** W01 only.
 **Composition:** Medium label-and-notebook composition with actual pots in correct order.
@@ -1585,7 +1587,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Each child contributed practical work; adults retain equal active roles.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–3.85s · ELLA 4.00–7.60s · LEO 7.75–10.03s · MAYA 10.18–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–2.57s · ELLA 2.67–5.07s · LEO 5.17–6.69s · MAYA 6.79–9.48s.
 
 **Dialogue:**
 **MAYA:** Labels, a drawing, a water record. Everyone helped.
@@ -1596,7 +1598,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAYA:** Day one is enough. The rest hasn't happened yet.
 
-## SHOT_076 | 00:18:45–00:19:00 | What grows next is a surprise
+## SHOT_076 | 00:12:30–00:12:40 | What grows next is a surprise
 
 **Characters:** DAN, MAYA, NINA. **Location:** HOME_GARDEN. **Wardrobe:** W01 only.
 **Composition:** Wide adult three-shot with established doorway and tree on same sides.
@@ -1606,7 +1608,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No harvest promised for party; plants do not become party food in this shot.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–4.24s · MAYA 4.39–6.81s · NINA 6.96–10.16s · DAN 10.31–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.83s · MAYA 2.93–4.54s · NINA 4.64–6.77s · DAN 6.87–9.53s.
 
 **Dialogue:**
 **DAN:** We can tell everyone about our garden at the gathering.
@@ -1617,7 +1619,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** I'll tell them who helped instead of promising a harvest.
 
-## SHOT_077 | 00:19:00–00:19:15 | A very small ambition
+## SHOT_077 | 00:12:40–00:12:50 | A very small ambition
 
 **Characters:** MAX, DAN, ELLA. **Location:** GARDEN_POTS. **Wardrobe:** W01 only.
 **Composition:** Low medium across the three pots, Dan and children on path.
@@ -1627,7 +1629,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Small ambition payoff replaces size contest; no repeated Episode02 shopping mechanics.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–3.85s · DAN 4.00–5.40s · ELLA 5.55–9.59s · MAX 9.74–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.57s · DAN 2.67–3.60s · ELLA 3.70–6.39s · MAX 6.49–9.48s.
 
 **Dialogue:**
 **MAX:** Our garden is not bigger than the house.
@@ -1638,7 +1640,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** Good. The only thing that got taller was Dad's plan.
 
-## SHOT_078 | 00:19:15–00:19:30 | One last honest entry
+## SHOT_078 | 00:12:50–00:13:00 | One last honest entry
 
 **Characters:** LEO, NINA, DAN. **Location:** GARDEN_POTS. **Wardrobe:** W01 only.
 **Composition:** Notebook insert matched to the real row beyond.
@@ -1648,7 +1650,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Exact journal text from GROWTH_JOURNAL.svg; record matches all physical states.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–3.41s · DAN 3.56–5.40s · NINA 5.55–8.27s · LEO 8.42–12.90s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.27s · DAN 2.37–3.60s · NINA 3.70–5.51s · LEO 5.61–8.60s.
 
 **Dialogue:**
 **LEO:** Herbs upright. Radish soil bare. Saucers empty.
@@ -1659,7 +1661,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **LEO:** Good. I'll leave the page about tomorrow blank for now.
 
-## SHOT_079 | 00:19:30–00:19:45 | A garden does not need applause
+## SHOT_079 | 00:13:00–00:13:10 | A garden does not need applause
 
 **Characters:** DAN, MAYA, NINA, LEO, ELLA, MAX. **Location:** HOME_GARDEN. **Wardrobe:** W01 only.
 **Composition:** Warm wide six-person tableau on path, three pots small but readable.
@@ -1669,7 +1671,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No synchronized group chant, narrator recap or extra relative reappears.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.41s · MAYA 3.56–5.84s · MAX 5.99–9.15s · ELLA 9.30–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.27s · MAYA 2.37–3.89s · MAX 3.99–6.10s · ELLA 6.20–9.48s.
 
 **Dialogue:**
 **DAN:** Three pots, six helpers, one better plan.
@@ -1680,17 +1682,17 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **ELLA:** But the leaves smell better than the inside of a wallet.
 
-## SHOT_080 | 00:19:45–00:20:00 | The next visit can wait
+## SHOT_080 | 00:13:10–00:13:20 | The next visit can wait
 
 **Characters:** DAN, MAYA, NINA, LEO, ELLA, MAX. **Location:** HOME_GARDEN. **Wardrobe:** W01 only.
 **Composition:** Slow final pullback, house left and maple right; row remains correctly ordered.
-**Action:** Hold a warm final family moment beside the clear path and the three labeled pots. Add closing editorial artwork inside the final seconds, leaving the garden unchanged at 20:00.
+**Action:** Hold a warm final family moment beside the clear path and the three labeled pots. Add closing editorial artwork inside the final seconds, leaving the garden unchanged at 13:20.
 **Starting continuity:** Same morning; mint LEFT, basil CENTER, bare radish RIGHT; empty saucers; tools stored and can 200 mL.
-**Ending continuity:** Story ends at20:00 with no germination time jump, new planting, new water or party sequence.
+**Ending continuity:** Story ends at13:20 with no germination time jump, new planting, new water or party sequence.
 **Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Creator practice can follow separately after story; all six retain original W01 faces/clothes.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): NINA 0.25–3.87s · DAN 4.01–4.87s · MAX 5.02–6.87s · MAYA 7.02–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–2.58s · DAN 2.67–3.25s · MAX 3.35–4.58s · MAYA 4.68–8.27s.
 
 **Dialogue:**
 **NINA:** We will come back and see what changes.

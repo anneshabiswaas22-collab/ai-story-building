@@ -1,14 +1,16 @@
 # Episode 02 — 80 video-generation prompts for STORY ONLY
 
-Written preproduction draft; **no videos have been generated**. Each entry is one planned 15-second editorial shot, 16:9, original stylized 3D, natural General American family conversation. Verify the selected service duration/capabilities/costs before separately authorized Task 5 production. No drills, quiz overlays or viewer-repeat pauses.
+Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start dialogue promptly, let meaningful actions and listener reactions occur during speech, and avoid filler silence, prolonged holds or unnatural motion. Speaker windows below are provisional editorial targets, not instructions to rush speech; verify against natural recorded performances. If a line cannot fit naturally, flag the shot for editorial review rather than truncating dialogue or artificially speeding it up.
+
+Written preproduction draft; **no videos have been generated**. Each entry is one planned 10-second editorial shot, 16:9, original stylized 3D, natural General American family conversation. Verify the selected service duration/capabilities/costs before separately authorized Task 5 production. No drills, quiz overlays or viewer-repeat pauses.
 
 Use the permanent [cast previews](assets/characters/) for discussion; restore the original owner-controlled PNG masters before production. Follow [CONTINUITY.md](CONTINUITY.md) and the [scene-reference plan](SCENE_REFERENCE_PLAN.md). Five location previews and 20 illustrated storyboard sheets covering all 80 shots are available in the [visual gallery](STORYBOARD_GALLERY.md). They are visual drafts; creator approval and individual motion first frames remain pending.
 
 Global negatives: no replacement faces, extra family members, wardrobe changes, mirrored watch/pocket sides, duplicate containers or fruit, unexplained inventory transfers, whole grapes for Max, children handling knives, watermarks or baked-in subtitles. Keep sample stock separate from purchases. Use the exact [editorial SVGs](assets/overlays/) for text/prices; do not generate lettering or invent money. No automated render calls are authorized.
 
-This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the screenplay first, then review all derived changes.
+This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the screenplay first, then review all derived changes. The legacy sync script and existing subtitle track have not been retimed in this change; verify or update their timing before regenerating this document or assembling video.
 
-## SHOT_001 | 00:00:00–00:00:15 | One card, two colors
+## SHOT_001 | 00:00:00–00:00:10 | One card, two colors
 
 **Characters:** DAN, MAYA, NINA. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Medium three-shot across the oak island; Maya left, Nina right, Dan between them.
@@ -18,7 +20,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Picture:** [BOARD_01.png](assets/storyboards/BOARD_01.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** This is one card, not the two old vegetable notes. Home fridge rear-left, sink rear, stove rear-right remain fixed.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–3.23s · DAN 3.38–6.37s · NINA 6.52–9.50s · MAYA 9.65–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–2.15s · DAN 2.25–4.25s · NINA 4.35–6.33s · MAYA 6.43–9.53s.
 
 **Dialogue:**
 **MAYA:** One list, two colors. Just as promised.
@@ -29,7 +31,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **MAYA:** Good. I want to hear how you explain those colors, Dan.
 
-## SHOT_002 | 00:00:15–00:00:30 | A picnic close to home
+## SHOT_002 | 00:00:10–00:00:20 | A picnic close to home
 
 **Characters:** MAYA, ELLA, MAX. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Low medium shot from the island toward the garden door.
@@ -39,7 +41,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Picture:** [BOARD_01.png](assets/storyboards/BOARD_01.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** All six will shop together. The picnic is in HOME_GARDEN, not the later park episode.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–3.45s · MAYA 3.60–6.42s · MAX 6.57–10.16s · ELLA 10.31–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.30s · MAYA 2.40–4.28s · MAX 4.38–6.77s · ELLA 6.87–9.53s.
 
 **Dialogue:**
 **ELLA:** Can we have our picnic under our tree?
@@ -50,7 +52,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **ELLA:** The shade under that tree is just the right size.
 
-## SHOT_003 | 00:00:30–00:00:45 | A real limit
+## SHOT_003 | 00:00:20–00:00:30 | A real limit
 
 **Characters:** DAN, LEO, NINA. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Over Dan’s shoulder onto the single card; readable amount is an editorial overlay.
@@ -60,7 +62,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Picture:** [BOARD_01.png](assets/storyboards/BOARD_01.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** The spending limit is $16 even though the payment bill is $20. Prices later include any tax.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–3.76s · DAN 3.91–5.70s · NINA 5.85–10.21s · DAN 10.36–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.51s · DAN 2.61–3.80s · NINA 3.90–6.81s · DAN 6.91–9.53s.
 
 **Dialogue:**
 **LEO:** Sixteen dollars for fruit. That is our limit.
@@ -71,7 +73,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **DAN:** Four stays out. Sixteen is what we can spend.
 
-## SHOT_004 | 00:00:45–00:01:00 | What we already own
+## SHOT_004 | 00:00:30–00:00:40 | What we already own
 
 **Characters:** NINA, ELLA, MAX. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Medium cooler insert with the three faces above the open lid.
@@ -81,7 +83,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Picture:** [BOARD_01.png](assets/storyboards/BOARD_01.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** One cooler and one woven basket only. Household picnic supplies do not use the $16 fruit budget.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–3.59s · MAX 3.74–6.27s · NINA 6.42–9.36s · ELLA 9.51–11.62s · MAX 11.77–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.39s · MAX 2.49–4.18s · NINA 4.28–6.24s · ELLA 6.34–7.75s · MAX 7.85–9.53s.
 
 **Dialogue:**
 **ELLA:** Plates, forks, napkins, water. We have these already.
@@ -94,7 +96,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **MAX:** Good. Grass makes my knees itch.
 
-## SHOT_005 | 00:01:00–00:01:15 | The size champion
+## SHOT_005 | 00:00:40–00:00:50 | The size champion
 
 **Characters:** DAN, MAYA, LEO. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Medium Dan with the empty basket lifted only to waist height.
@@ -104,7 +106,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Dan’s dark watch stays on anatomical LEFT wrist. No fruit appears in the basket during the gesture.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–4.29s · MAYA 4.44–6.72s · LEO 6.87–9.59s · DAN 9.74–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.86s · MAYA 2.96–4.48s · LEO 4.58–6.39s · DAN 6.49–9.19s.
 
 **Dialogue:**
 **DAN:** I will choose the biggest fruit in the shop.
@@ -115,7 +117,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **DAN:** You're taking all the fun out of showing off.
 
-## SHOT_006 | 00:01:15–00:01:30 | The basket has an opinion
+## SHOT_006 | 00:00:50–00:01:00 | The basket has an opinion
 
 **Characters:** DAN, MAX. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Child-height two-shot with empty basket rim between them.
@@ -125,7 +127,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** The basket has a fixed size throughout; it will never stretch to accommodate the rejected watermelon.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–4.36s · DAN 4.51–7.00s · MAX 7.15–10.04s · DAN 10.19–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.91s · DAN 3.01–4.67s · MAX 4.77–6.69s · DAN 6.79–9.53s.
 
 **Dialogue:**
 **MAX:** What if the biggest fruit is bigger than our basket?
@@ -136,7 +138,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **DAN:** Let's look at the basket before we choose a winner.
 
-## SHOT_007 | 00:01:30–00:01:45 | Everyone has a job
+## SHOT_007 | 00:01:00–00:01:10 | Everyone has a job
 
 **Characters:** MAYA, NINA, LEO, ELLA, DAN, MAX. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Wide six-person kitchen shot; no extra relatives or doubled children.
@@ -146,7 +148,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Maya and Nina share decisions as equals. No shopping role sends a child away from the group.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–3.41s · NINA 3.56–6.28s · LEO 6.43–10.03s · DAN 10.18–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–2.27s · NINA 2.37–4.19s · LEO 4.29–6.69s · DAN 6.79–9.19s.
 
 **Dialogue:**
 **MAYA:** Ella and I will check the fruit.
@@ -157,7 +159,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **DAN:** Listening. That's a shopping job I haven't tried.
 
-## SHOT_008 | 00:01:45–00:02:00 | Out together
+## SHOT_008 | 00:01:10–00:01:20 | Out together
 
 **Characters:** DAN, MAYA, NINA, LEO, ELLA, MAX. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Wide toward the exit, holding all six until the final movement.
@@ -167,7 +169,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Cut after departure to compress the uneventful walk. Do not imply the picnic has already happened.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.85s · MAX 4.00–6.72s · DAN 6.87–8.71s · LEO 8.86–12.90s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.57s · MAX 2.67–4.48s · DAN 4.58–5.81s · LEO 5.91–8.60s.
 
 **Dialogue:**
 **DAN:** Six family members. One list. One modest basket.
@@ -178,7 +180,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **LEO:** It's a trial position. Let's see what you choose.
 
-## SHOT_009 | 00:02:00–00:02:15 | The fruit shop
+## SHOT_009 | 00:01:20–00:01:30 | The fruit shop
 
 **Characters:** DAN, MAYA, NINA, LEO, ELLA, MAX. **Location:** FRUIT_SHOP_WIDE. **Wardrobe:** W01 only.
 **Composition:** Sunny wide establishing shot; group enters screen-left and moves right.
@@ -188,7 +190,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Picture:** [BOARD_03.png](assets/storyboards/BOARD_03.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** New fruit-shop visual draft is available in assets/environments/; creator approval is pending. Do not reuse a vegetable stall image as if approved for this shop.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–2.97s · DAN 3.12–5.40s · MAYA 5.55–9.59s · NINA 9.74–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.98s · DAN 2.08–3.60s · MAYA 3.70–6.39s · NINA 6.49–9.48s.
 
 **Dialogue:**
 **ELLA:** Apples, peaches, strawberries. It smells wonderful.
@@ -199,7 +201,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **NINA:** Are we handing out medals before we've seen the prices?
 
-## SHOT_010 | 00:02:15–00:02:30 | A champion in a cradle
+## SHOT_010 | 00:01:30–00:01:40 | A champion in a cradle
 
 **Characters:** DAN, LEO, MAX. **Location:** FRUIT_COUNTER. **Wardrobe:** W01 only.
 **Composition:** Medium at the watermelon cradle; buyer-side camera with checkout to right.
@@ -209,7 +211,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Picture:** [BOARD_03.png](assets/storyboards/BOARD_03.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** The $8 melon is never selected, weighed, cut, purchased or eaten. No child lifts it.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.41s · LEO 3.56–5.40s · MAX 5.55–8.71s · DAN 8.86–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.27s · LEO 2.37–3.60s · MAX 3.70–5.81s · DAN 5.91–8.89s.
 
 **Dialogue:**
 **DAN:** That watermelon could feed a whole picnic.
@@ -220,7 +222,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **DAN:** Half our money on one fruit? That's quite a table.
 
-## SHOT_011 | 00:02:30–00:02:45 | No room at the rim
+## SHOT_011 | 00:01:40–00:01:50 | No room at the rim
 
 **Characters:** DAN, MAYA, MAX. **Location:** FRUIT_COUNTER. **Wardrobe:** W01 only.
 **Composition:** Counter-level comparison of fixed basket opening and supported melon.
@@ -230,7 +232,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Picture:** [BOARD_03.png](assets/storyboards/BOARD_03.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** One supported size comparison only. Keep counter clear and children’s fingers away from the cradle edge.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–2.31s · DAN 2.46–3.54s · MAX 3.69–7.72s · DAN 7.87–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.54s · DAN 1.64–2.36s · MAX 2.46–5.15s · DAN 5.25–8.27s.
 
 **Dialogue:**
 **MAYA:** It will not fit.
@@ -241,7 +243,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **DAN:** It does seem to be winning against the basket.
 
-## SHOT_012 | 00:02:45–00:03:00 | The little yellow orange
+## SHOT_012 | 00:01:50–00:02:00 | The little yellow orange
 
 **Characters:** DAN, ELLA, NINA. **Location:** FRUIT_COUNTER. **Wardrobe:** W01 only.
 **Composition:** Medium on separate orange, lemon and lime crates; none in basket.
@@ -251,7 +253,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Picture:** [BOARD_03.png](assets/storyboards/BOARD_03.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Whole display lemon will be returned before sampling. Its identity is a lemon even while Dan guesses incorrectly.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.41s · ELLA 3.56–5.40s · NINA 5.55–9.59s · ELLA 9.74–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.27s · ELLA 2.37–3.60s · NINA 3.70–6.39s · ELLA 6.49–9.19s.
 
 **Dialogue:**
 **DAN:** A tiny yellow orange. Finally, something basket-sized.
@@ -262,7 +264,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **ELLA:** A real orange doesn't usually have that little nose.
 
-## SHOT_013 | 00:03:00–00:03:15 | More than one clue
+## SHOT_013 | 00:02:00–00:02:10 | More than one clue
 
 **Characters:** MAYA, ELLA, DAN. **Location:** FRUIT_COUNTER. **Wardrobe:** W01 only.
 **Composition:** Close two-shot of Ella and Maya, Dan’s hand and whole lemon in foreground.
@@ -272,7 +274,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Picture:** [BOARD_04.png](assets/storyboards/BOARD_04.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Use exact editorial labels for fruit names. Shape, label and intended use matter; size alone does not establish taste.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–3.85s · MAYA 4.00–5.84s · DAN 5.99–9.59s · MAYA 9.74–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.57s · MAYA 2.67–3.89s · DAN 3.99–6.39s · MAYA 6.49–9.19s.
 
 **Dialogue:**
 **ELLA:** The oranges are rounder. This one looks different.
@@ -283,7 +285,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **MAYA:** That name might explain why it smells so different.
 
-## SHOT_014 | 00:03:15–00:03:30 | An invitation to compare
+## SHOT_014 | 00:02:10–00:02:20 | An invitation to compare
 
 **Characters:** NINA, MAX, DAN. **Location:** FRUIT_COUNTER. **Wardrobe:** W01 only.
 **Composition:** Medium at covered sample trays, with customer sink clearly separate from food.
@@ -293,7 +295,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Picture:** [BOARD_04.png](assets/storyboards/BOARD_04.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Samples belong to a separate free tasting supply, not the nine purchase lines. No visible or voiced vendor is introduced.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): NINA 0.25–4.73s · MAX 4.88–6.28s · NINA 6.43–9.59s · MAX 9.74–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–3.15s · MAX 3.25–4.19s · NINA 4.29–6.39s · MAX 6.49–9.19s.
 
 **Dialogue:**
 **NINA:** We can compare a lemon sample with an orange sample.
@@ -304,7 +306,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **MAX:** Okay. I want to see Dad's face first, though.
 
-## SHOT_015 | 00:03:30–00:03:45 | A little hesitation
+## SHOT_015 | 00:02:20–00:02:30 | A little hesitation
 
 **Characters:** DAN, LEO, MAYA. **Location:** FRUIT_COUNTER. **Wardrobe:** W01 only.
 **Composition:** Quiet medium three-shot beside lemon crate, away from sample food.
@@ -314,7 +316,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Picture:** [BOARD_04.png](assets/storyboards/BOARD_04.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** The misunderstanding is small and repairable. No ridicule, argument or pressure to taste.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.85s · LEO 4.00–6.28s · MAYA 6.43–9.15s · DAN 9.30–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.57s · LEO 2.67–4.19s · MAYA 4.29–6.10s · DAN 6.20–9.19s.
 
 **Dialogue:**
 **DAN:** I was rather sure about my tiny orange.
@@ -325,7 +327,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **DAN:** Right. You can all help me pick a better name.
 
-## SHOT_016 | 00:03:45–00:04:00 | Putting a guess down
+## SHOT_016 | 00:02:30–00:02:40 | Putting a guess down
 
 **Characters:** DAN, ELLA. **Location:** FRUIT_COUNTER. **Wardrobe:** W01 only.
 **Composition:** Close on lemon returning to its original crate, then a gentle tilt to faces.
@@ -335,7 +337,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Picture:** [BOARD_04.png](assets/storyboards/BOARD_04.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** The later purchased lemon is selected at SHOT_031. Sampling never removes or cuts this display lemon.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.95s · ELLA 4.10–8.61s · DAN 8.76–11.25s · ELLA 11.40–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.63s · ELLA 2.73–5.74s · DAN 5.84–7.50s · ELLA 7.60–9.53s.
 
 **Dialogue:**
 **DAN:** Back you go. I should have asked your name.
@@ -346,7 +348,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **ELLA:** Let's find out before you guess again.
 
-## SHOT_017 | 00:04:00–00:04:15 | A proper washing pause
+## SHOT_017 | 00:02:40–00:02:50 | A proper washing pause
 
 **Characters:** NINA, MAX, MAYA, ELLA, DAN, LEO. **Location:** FRUIT_COUNTER. **Wardrobe:** W01 only.
 **Composition:** Wide at customer sink, then one restrained time dissolve on the same axis.
@@ -354,9 +356,9 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Starting continuity:** No samples eaten; basket on dry counter, cooler closed beside it; card placed on dry ledge.
 **Ending continuity:** All six have washed and dried hands; water off; card retrieved by Dan after drying.
 **Picture:** [BOARD_05.png](assets/storyboards/BOARD_05.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
-**Continuity:** The handwashing takes longer in story time than this 15-second slot. Sink is a designated customer handwashing sink, not a fruit display.
+**Continuity:** The handwashing takes longer in story time than this 10-second slot. Sink is a designated customer handwashing sink, not a fruit display.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–3.85s · NINA 4.00–8.04s · DAN 8.19–10.03s · ELLA 10.18–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.57s · NINA 2.67–5.36s · DAN 5.46–6.69s · ELLA 6.79–8.89s.
 
 **Dialogue:**
 **MAX:** Do lemons need us to wash our hands?
@@ -367,7 +369,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **ELLA:** Even experts touch baskets and door handles.
 
-## SHOT_018 | 00:04:15–00:04:30 | Two separate sample plates
+## SHOT_018 | 00:02:50–00:03:00 | Two separate sample plates
 
 **Characters:** NINA, DAN, MAX. **Location:** FRUIT_COUNTER. **Wardrobe:** W01 only.
 **Composition:** Counter-level sample insert, adult hands and three faces visible.
@@ -377,7 +379,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Picture:** [BOARD_05.png](assets/storyboards/BOARD_05.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No shared bites or double dipping. Samples have no peel, seeds or dangerous large pieces; no cutting tools enter the frame.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): NINA 0.25–4.73s · MAX 4.88–6.28s · DAN 6.43–9.15s · MAX 9.30–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–3.15s · MAX 3.25–4.19s · DAN 4.29–6.10s · MAX 6.20–8.89s.
 
 **Dialogue:**
 **NINA:** These are fresh lemon samples. A small taste is enough.
@@ -388,7 +390,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **MAX:** I'm watching your eyebrows. They always give you away.
 
-## SHOT_019 | 00:04:30–00:04:45 | The sour surprise
+## SHOT_019 | 00:03:00–00:03:10 | The sour surprise
 
 **Characters:** DAN, MAX, NINA. **Location:** FRUIT_COUNTER. **Wardrobe:** W01 only.
 **Composition:** Medium Dan; hold a reaction beat before the second line.
@@ -398,7 +400,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Picture:** [BOARD_05.png](assets/storyboards/BOARD_05.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Play the pucker gently, without choking, spitting food, throwing fruit or suggesting injury.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.85s · MAX 4.00–5.84s · DAN 5.99–8.71s · NINA 8.86–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.57s · MAX 2.67–3.89s · DAN 3.99–5.81s · NINA 5.91–8.89s.
 
 **Dialogue:**
 **DAN:** Oh! That is definitely not a tiny orange.
@@ -409,7 +411,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **NINA:** Those eyebrows just told us exactly how strong it is.
 
-## SHOT_020 | 00:04:45–00:05:00 | Is sour the same as bad?
+## SHOT_020 | 00:03:10–00:03:20 | Is sour the same as bad?
 
 **Characters:** MAX, NINA, DAN. **Location:** FRUIT_COUNTER. **Wardrobe:** W01 only.
 **Composition:** Close Max with Nina at his level, Dan listening behind them.
@@ -419,7 +421,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Picture:** [BOARD_05.png](assets/storyboards/BOARD_05.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** This is a question about normal lemon flavor, never an instruction to taste suspect or spoiled food.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–3.41s · NINA 3.56–6.28s · DAN 6.43–9.59s · NINA 9.74–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.27s · NINA 2.37–4.19s · DAN 4.29–6.39s · NINA 6.49–9.19s.
 
 **Dialogue:**
 **MAX:** If it is sour, is it spoiled?
@@ -430,7 +432,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **NINA:** Your nose certainly had something to say about it.
 
-## SHOT_021 | 00:05:00–00:05:15 | A reassuring difference
+## SHOT_021 | 00:03:20–00:03:30 | A reassuring difference
 
 **Characters:** NINA, MAX, MAYA. **Location:** FRUIT_COUNTER. **Wardrobe:** W01 only.
 **Composition:** Steady three-shot with samples below chest height.
@@ -440,7 +442,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Suspect food is rejected without tasting. A normally sour fresh lemon is not a spoiled orange.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): NINA 0.25–3.95s · MAYA 4.10–8.21s · MAX 8.36–10.45s · NINA 10.60–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–2.63s · MAYA 2.73–5.47s · MAX 5.57–6.97s · NINA 7.07–9.53s.
 
 **Dialogue:**
 **NINA:** Sour describes this lemon’s taste. Spoiled food is different.
@@ -451,7 +453,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **NINA:** That's fine, Max. You can smell the orange instead.
 
-## SHOT_022 | 00:05:15–00:05:30 | An orange on its own terms
+## SHOT_022 | 00:03:30–00:03:40 | An orange on its own terms
 
 **Characters:** MAYA, DAN, MAX. **Location:** FRUIT_COUNTER. **Wardrobe:** W01 only.
 **Composition:** Medium from the same buyer-side axis; individual orange portions visible.
@@ -461,7 +463,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No fork crosses between trays. These are small prepared free samples, not whole purchased oranges.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–2.82s · MAYA 2.97–6.37s · MAX 6.52–9.92s · DAN 10.07–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.88s · MAYA 1.98–4.25s · MAX 4.35–6.61s · DAN 6.71–9.53s.
 
 **Dialogue:**
 **DAN:** This orange is sweet and juicy.
@@ -472,7 +474,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **DAN:** My eyebrows prefer this one. Did you see them relax?
 
-## SHOT_023 | 00:05:30–00:05:45 | A choice without a dare
+## SHOT_023 | 00:03:40–00:03:50 | A choice without a dare
 
 **Characters:** MAX, NINA, ELLA. **Location:** FRUIT_COUNTER. **Wardrobe:** W01 only.
 **Composition:** Child-height medium, Nina beside Max and Ella just beyond.
@@ -482,7 +484,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** All sample utensils and rejected portions go to designated waste afterward. No unused sample is returned from a customer plate to a communal tray.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–2.53s · ELLA 2.68–4.96s · MAX 5.11–9.15s · NINA 9.30–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.69s · ELLA 1.79–3.31s · MAX 3.41–6.10s · NINA 6.20–8.89s.
 
 **Dialogue:**
 **MAX:** Sweet. And a little tangy.
@@ -493,7 +495,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **NINA:** I'd know exactly which sample you meant from that.
 
-## SHOT_024 | 00:05:45–00:06:00 | The expert changes the rule
+## SHOT_024 | 00:03:50–00:04:00 | The expert changes the rule
 
 **Characters:** DAN, MAYA, NINA, LEO, ELLA, MAX. **Location:** FRUIT_COUNTER. **Wardrobe:** W01 only.
 **Composition:** Wide six-person counter shot; sample nook remains at left edge.
@@ -503,7 +505,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Samples do not change purchase quantities or budget. The family stays on the buyer side of the counter.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–5.61s · MAYA 5.76–7.16s · LEO 7.31–10.03s · ELLA 10.18–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–3.74s · MAYA 3.84–4.77s · LEO 4.87–6.69s · ELLA 6.79–9.48s.
 
 **Dialogue:**
 **DAN:** New rule. We choose by what we need, not what looks impressive.
@@ -514,7 +516,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **ELLA:** I'll help you find a pair that looks good.
 
-## SHOT_025 | 00:06:00–00:06:15 | An apple is not a trophy
+## SHOT_025 | 00:04:00–00:04:10 | An apple is not a trophy
 
 **Characters:** MAYA, ELLA, DAN. **Location:** FRUIT_COUNTER. **Wardrobe:** W01 only.
 **Composition:** Medium over the apple display; no crushing close-up.
@@ -524,7 +526,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Picture:** [BOARD_07.png](assets/storyboards/BOARD_07.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Inspect gently; no hard squeezing, biting shop stock or presenting size as proof of sweetness.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–3.65s · DAN 3.80–6.78s · MAYA 6.93–9.92s · DAN 10.07–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.43s · DAN 2.53–4.52s · MAYA 4.62–6.61s · DAN 6.71–9.53s.
 
 **Dialogue:**
 **ELLA:** These apples are firm, with no damaged spots.
@@ -535,7 +537,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **DAN:** Then those two get the first seats in the basket.
 
-## SHOT_026 | 00:06:15–00:06:30 | Two apples, two dollars
+## SHOT_026 | 00:04:10–00:04:20 | Two apples, two dollars
 
 **Characters:** DAN, MAYA, LEO. **Location:** FRUIT_COUNTER. **Wardrobe:** W01 only.
 **Composition:** Close on two apples entering basket separately; Leo in background with card.
@@ -545,7 +547,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Picture:** [BOARD_07.png](assets/storyboards/BOARD_07.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Apples cost $1 each. Remaining display apples are unselected shop stock; cooler still holds only household supplies.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–4.29s · DAN 4.44–5.84s · MAYA 5.99–9.15s · LEO 9.30–12.90s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.86s · DAN 2.96–3.89s · MAYA 3.99–6.10s · LEO 6.20–8.60s.
 
 **Dialogue:**
 **LEO:** Two apples, one dollar each. Two dollars so far.
@@ -556,7 +558,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **LEO:** And fourteen dollars still gives us choices, Dad.
 
-## SHOT_027 | 00:06:30–00:06:45 | A bunch is one purchase
+## SHOT_027 | 00:04:20–00:04:30 | A bunch is one purchase
 
 **Characters:** DAN, MAX, NINA. **Location:** FRUIT_COUNTER. **Wardrobe:** W01 only.
 **Composition:** Medium banana display with one four-banana bunch clearly countable.
@@ -566,7 +568,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Picture:** [BOARD_07.png](assets/storyboards/BOARD_07.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Price is $2 for this entire four-banana bunch, not $2 per banana. No loose fifth banana appears.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–4.29s · DAN 4.44–6.28s · NINA 6.43–9.59s · MAX 9.74–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.86s · DAN 2.96–4.19s · NINA 4.29–6.39s · MAX 6.49–9.48s.
 
 **Dialogue:**
 **MAX:** One, two, three, four. Four bananas in one bunch.
@@ -577,7 +579,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **MAX:** Did they have to hold hands all the way here?
 
-## SHOT_028 | 00:06:45–00:07:00 | No banana passengers
+## SHOT_028 | 00:04:30–00:04:40 | No banana passengers
 
 **Characters:** DAN, NINA, LEO. **Location:** FRUIT_COUNTER. **Wardrobe:** W01 only.
 **Composition:** Counter insert and soft tilt toward Leo’s total.
@@ -587,7 +589,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Picture:** [BOARD_07.png](assets/storyboards/BOARD_07.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Paper cushion is packing material, not a new purchase line. All bananas remain connected until home preparation.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–4.29s · DAN 4.44–5.84s · NINA 5.99–9.15s · DAN 9.30–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.86s · DAN 2.96–3.89s · NINA 3.99–6.10s · DAN 6.20–8.89s.
 
 **Dialogue:**
 **LEO:** The whole bunch is two dollars. Four dollars altogether.
@@ -598,7 +600,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **DAN:** Who gets the next invitation? Something round, I hope.
 
-## SHOT_029 | 00:07:00–00:07:15 | Oranges with their own name
+## SHOT_029 | 00:04:40–00:04:50 | Oranges with their own name
 
 **Characters:** DAN, ELLA, LEO. **Location:** FRUIT_COUNTER. **Wardrobe:** W01 only.
 **Composition:** Medium three-shot at orange crate; lemon crate separately visible.
@@ -608,7 +610,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Oranges cost $0.75 each. Free sample portions have already been discarded or eaten and are not counted here.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.85s · ELLA 4.00–5.40s · LEO 5.55–9.59s · DAN 9.74–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.57s · ELLA 2.67–3.60s · LEO 3.70–6.39s · DAN 6.49–9.19s.
 
 **Dialogue:**
 **DAN:** Two oranges. I checked the name this time.
@@ -619,7 +621,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **DAN:** Two oranges, one price each. I'm following the total.
 
-## SHOT_030 | 00:07:15–00:07:30 | A reason for a lemon
+## SHOT_030 | 00:04:50–00:05:00 | A reason for a lemon
 
 **Characters:** NINA, DAN, MAX. **Location:** FRUIT_COUNTER. **Wardrobe:** W01 only.
 **Composition:** Medium lemon and lime crates with Nina between Dan and Max.
@@ -629,7 +631,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** The dressing uses half of each purchased citrus fruit later. No sugar, salt or extra ingredient is introduced.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.23s · NINA 3.38–6.78s · MAX 6.93–9.92s · NINA 10.07–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.15s · NINA 2.25–4.52s · MAX 4.62–6.61s · NINA 6.71–9.53s.
 
 **Dialogue:**
 **DAN:** Why buy a lemon after that surprise?
@@ -640,7 +642,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **NINA:** Just enough for the juice to reach all the fruit.
 
-## SHOT_031 | 00:07:30–00:07:45 | Two different citrus fruits
+## SHOT_031 | 00:05:00–00:05:10 | Two different citrus fruits
 
 **Characters:** DAN, NINA, LEO. **Location:** FRUIT_COUNTER. **Wardrobe:** W01 only.
 **Composition:** Close on one lemon and one lime entering basket, distinct colors.
@@ -650,7 +652,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Only one purchased lemon and one purchased lime. Dan deliberately buys a lemon now; the title’s purchase is real, not an accidental spoiled-fruit sale.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.65s · LEO 3.80–6.37s · NINA 6.52–10.33s · DAN 10.48–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.43s · LEO 2.53–4.25s · NINA 4.35–6.89s · DAN 6.99–9.53s.
 
 **Dialogue:**
 **DAN:** One lemon. One lime. Different names, different jobs.
@@ -661,7 +663,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **DAN:** Good. My mouth remembers which one it met first.
 
-## SHOT_032 | 00:07:45–00:08:00 | A pound is a weight
+## SHOT_032 | 00:05:10–00:05:20 | A pound is a weight
 
 **Characters:** LEO, DAN, MAYA. **Location:** FRUIT_COUNTER. **Wardrobe:** W01 only.
 **Composition:** Scale insert; clean paper-lined grape tray on tared scale.
@@ -671,7 +673,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Editorial scale reading must be 1.00 lb net. No whole grapes are eaten; all will be quartered lengthwise by an adult at home.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–2.74s · LEO 2.89–7.00s · MAYA 7.15–9.64s · DAN 9.79–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.83s · LEO 1.93–4.67s · MAYA 4.77–6.43s · DAN 6.53–9.53s.
 
 **Dialogue:**
 **DAN:** How many grapes make a pound?
@@ -682,7 +684,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **DAN:** I'm glad you said weight. I'd be here counting all day.
 
-## SHOT_033 | 00:08:00–00:08:15 | Weight, then price
+## SHOT_033 | 00:05:20–00:05:30 | Weight, then price
 
 **Characters:** MAYA, LEO, DAN. **Location:** FRUIT_COUNTER. **Wardrobe:** W01 only.
 **Composition:** Counter-level protected tray placement; card total visible editorially.
@@ -692,7 +694,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Grapes cost $3 per pound. Keep their tray distinguishable from shop stock and the later strawberry punnet.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–4.61s · DAN 4.76–7.84s · MAYA 7.99–10.21s · LEO 10.36–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–3.07s · DAN 3.17–5.23s · MAYA 5.33–6.81s · LEO 6.91–9.53s.
 
 **Dialogue:**
 **LEO:** One pound at three dollars a pound. Nine fifty altogether.
@@ -703,7 +705,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **LEO:** And it doesn't care how impressive a grape looks.
 
-## SHOT_034 | 00:08:15–00:08:30 | Strawberries under a lid
+## SHOT_034 | 00:05:30–00:05:40 | Strawberries under a lid
 
 **Characters:** ELLA, MAYA, LEO. **Location:** FRUIT_COUNTER. **Wardrobe:** W01 only.
 **Composition:** Medium at strawberry shelf, label and fruit read separately.
@@ -713,7 +715,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No opening, tasting or squeezing purchased berries in the shop. One pound net in the punnet; no second punnet selected.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–4.07s · MAYA 4.22–5.95s · LEO 6.10–10.33s · ELLA 10.48–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.71s · MAYA 2.81–3.97s · LEO 4.07–6.89s · ELLA 6.99–9.53s.
 
 **Dialogue:**
 **ELLA:** These strawberries look good, and the lid protects them.
@@ -724,7 +726,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **ELLA:** Can we keep the lid clear when we pack?
 
-## SHOT_035 | 00:08:30–00:08:45 | A safe place for soft fruit
+## SHOT_035 | 00:05:40–00:05:50 | A safe place for soft fruit
 
 **Characters:** DAN, NINA, ELLA. **Location:** FRUIT_COUNTER. **Wardrobe:** W01 only.
 **Composition:** Close basket rim, then medium Dan and Nina.
@@ -734,7 +736,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Apples/citrus below, soft fruit protected above. This is a packing correction, not a new selection or replacement purchase.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.23s · NINA 3.38–5.95s · DAN 6.10–9.92s · ELLA 10.07–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.15s · NINA 2.25–3.97s · DAN 4.07–6.61s · ELLA 6.71–9.53s.
 
 **Dialogue:**
 **DAN:** The biggest fruit should go on top.
@@ -745,7 +747,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **ELLA:** The berries would like to thank you for changing it.
 
-## SHOT_036 | 00:08:45–00:09:00 | Ready today
+## SHOT_036 | 00:05:50–00:06:00 | Ready today
 
 **Characters:** MAYA, ELLA, DAN. **Location:** FRUIT_COUNTER. **Wardrobe:** W01 only.
 **Composition:** Medium peach display; palm support and gentle inspection visible.
@@ -755,7 +757,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Ripeness depends on the fruit and when it will be eaten. Do not crush peaches or treat a bruise as a desirable ripeness sign.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–2.97s · MAYA 3.12–6.28s · ELLA 6.43–10.03s · DAN 10.18–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.98s · MAYA 2.08–4.19s · ELLA 4.29–6.69s · DAN 6.79–9.48s.
 
 **Dialogue:**
 **DAN:** Should we take the firmest peaches?
@@ -766,7 +768,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **DAN:** I can hold the basket steady while you choose.
 
-## SHOT_037 | 00:09:00–00:09:15 | Peaches need protection
+## SHOT_037 | 00:06:00–00:06:10 | Peaches need protection
 
 **Characters:** MAYA, ELLA, LEO. **Location:** FRUIT_COUNTER. **Wardrobe:** W01 only.
 **Composition:** Close two peaches placed into a small reusable protective tray.
@@ -776,7 +778,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Picture:** [BOARD_10.png](assets/storyboards/BOARD_10.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Tray is packing material. Peach pits are intact until adult preparation at home; no biting or pit exposure in the shop.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–3.33s · ELLA 3.48–5.70s · MAYA 5.85–10.21s · ELLA 10.36–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.22s · ELLA 2.32–3.80s · MAYA 3.90–6.81s · ELLA 6.91–9.53s.
 
 **Dialogue:**
 **LEO:** Two peaches at seventy-five cents. Fourteen dollars.
@@ -787,7 +789,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **ELLA:** I'll leave their spot clear while you finish counting.
 
-## SHOT_038 | 00:09:15–00:09:30 | The pear comparison
+## SHOT_038 | 00:06:10–00:06:20 | The pear comparison
 
 **Characters:** NINA, MAX, DAN. **Location:** FRUIT_COUNTER. **Wardrobe:** W01 only.
 **Composition:** Child-height medium at pear crate; larger unselected pear in background.
@@ -797,7 +799,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Picture:** [BOARD_10.png](assets/storyboards/BOARD_10.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Pears will be cored and cut by adults. No child bites a whole unwashed pear to test ripeness.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–2.40s · DAN 2.55–4.29s · NINA 4.44–10.75s · MAX 10.90–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.60s · DAN 1.70–2.86s · NINA 2.96–7.17s · MAX 7.27–9.53s.
 
 **Dialogue:**
 **MAX:** These two fit our hands.
@@ -808,7 +810,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **MAX:** My hands vote for the little team, too.
 
-## SHOT_039 | 00:09:30–00:09:45 | The last fruit line
+## SHOT_039 | 00:06:20–00:06:30 | The last fruit line
 
 **Characters:** NINA, LEO, DAN. **Location:** FRUIT_COUNTER. **Wardrobe:** W01 only.
 **Composition:** Close two pears placed in lower protected basket space.
@@ -818,7 +820,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Picture:** [BOARD_10.png](assets/storyboards/BOARD_10.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Pears cost $0.75 each. No watermelon in basket, on the card’s purchase lines or in the cooler.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–3.41s · DAN 3.56–4.52s · NINA 4.67–9.15s · DAN 9.30–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.27s · DAN 2.37–3.01s · NINA 3.11–6.10s · DAN 6.20–8.89s.
 
 **Dialogue:**
 **LEO:** Two pears, one fifty. Fifteen fifty altogether.
@@ -829,7 +831,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **DAN:** Just under. That's close enough to check it twice.
 
-## SHOT_040 | 00:09:45–00:10:00 | Enough is a useful amount
+## SHOT_040 | 00:06:30–00:06:40 | Enough is a useful amount
 
 **Characters:** DAN, MAYA, NINA, LEO, ELLA, MAX. **Location:** FRUIT_COUNTER. **Wardrobe:** W01 only.
 **Composition:** Wide family inventory check with basket in stable foreground.
@@ -839,7 +841,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Picture:** [BOARD_10.png](assets/storyboards/BOARD_10.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Nothing is added during this check. Full selected total $15.50; checkout has not begun.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–4.29s · MAX 4.44–7.60s · NINA 7.75–9.59s · LEO 9.74–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–2.86s · MAX 2.96–5.07s · NINA 5.17–6.39s · LEO 6.49–9.19s.
 
 **Dialogue:**
 **MAYA:** We have everything for the salad, and it fits.
@@ -850,7 +852,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **LEO:** The melon can stay on its very own shelf.
 
-## SHOT_041 | 00:10:00–00:10:15 | Reading the total
+## SHOT_041 | 00:06:40–00:06:50 | Reading the total
 
 **Characters:** LEO, DAN, ELLA. **Location:** FRUIT_COUNTER. **Wardrobe:** W01 only.
 **Composition:** Over-shoulder card insert; exact nine-line arithmetic supplied as overlay.
@@ -860,7 +862,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Tax is included in this fictional shop’s marked prices. Do not add an unseen fee or round $15.50 to $16.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–6.49s · DAN 6.64–9.80s · ELLA 9.95–11.79s · LEO 11.94–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–4.33s · DAN 4.43–6.53s · ELLA 6.63–7.86s · LEO 7.96–8.89s.
 
 **Dialogue:**
 **LEO:** Two, two, one fifty, fifty cents, fifty cents, three, three, one fifty, one fifty.
@@ -871,7 +873,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **LEO:** By fifty cents.
 
-## SHOT_042 | 00:10:15–00:10:30 | A little breathing room
+## SHOT_042 | 00:06:50–00:07:00 | A little breathing room
 
 **Characters:** DAN, LEO, NINA. **Location:** FRUIT_COUNTER. **Wardrobe:** W01 only.
 **Composition:** Medium three-shot with budget line in lower frame.
@@ -881,7 +883,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Budget headroom is not change from the $20 bill. That separate calculation happens at checkout.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.65s · LEO 3.80–8.45s · NINA 8.60–9.92s · DAN 10.07–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.43s · LEO 2.53–5.63s · NINA 5.73–6.61s · DAN 6.71–9.53s.
 
 **Dialogue:**
 **DAN:** So we have fifty cents left to spend.
@@ -892,7 +894,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **DAN:** Ah, the change starts with the twenty in my wallet.
 
-## SHOT_043 | 00:10:30–00:10:45 | The champion asks too much
+## SHOT_043 | 00:07:00–00:07:10 | The champion asks too much
 
 **Characters:** DAN, LEO, MAX. **Location:** FRUIT_COUNTER. **Wardrobe:** W01 only.
 **Composition:** Medium across basket toward distant watermelon cradle; nobody touches melon.
@@ -902,7 +904,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** The $23.50 is a rejected what-if, never a checkout total or extra transaction.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–2.97s · LEO 3.12–6.28s · MAX 6.43–9.59s · DAN 9.74–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.98s · LEO 2.08–4.19s · MAX 4.29–6.39s · DAN 6.49–9.19s.
 
 **Dialogue:**
 **DAN:** What if we added the watermelon?
@@ -913,7 +915,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **DAN:** I don't think my elbows can afford that either.
 
-## SHOT_044 | 00:10:45–00:11:00 | Leaving it for another picnic
+## SHOT_044 | 00:07:10–00:07:20 | Leaving it for another picnic
 
 **Characters:** DAN, MAYA, LEO. **Location:** FRUIT_COUNTER. **Wardrobe:** W01 only.
 **Composition:** Medium Dan turning away from melon toward his family.
@@ -923,7 +925,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No discarded paid fruit and no refund. The melon is healthy shop stock for another customer, not a bad or unwanted-food prop.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–5.31s · MAYA 5.46–7.62s · DAN 7.77–10.33s · LEO 10.48–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–3.54s · MAYA 3.64–5.08s · DAN 5.18–6.89s · LEO 6.99–9.53s.
 
 **Dialogue:**
 **DAN:** No watermelon today. Bigger would leave us with less of everything else.
@@ -934,7 +936,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **LEO:** Choosing on purpose? You might get good at that.
 
-## SHOT_045 | 00:11:00–00:11:15 | One remaining worry
+## SHOT_045 | 00:07:20–00:07:30 | One remaining worry
 
 **Characters:** MAX, DAN, NINA. **Location:** FRUIT_COUNTER. **Wardrobe:** W01 only.
 **Composition:** Quiet child-height three-shot; lemon visible in basket, no tasting.
@@ -944,7 +946,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** This worry motivates the later small-dressing choice. Do not force a child to taste straight lemon or promise he must like it.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–3.85s · DAN 4.00–6.28s · NINA 6.43–9.59s · MAX 9.74–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.57s · DAN 2.67–4.19s · NINA 4.29–6.39s · MAX 6.49–9.48s.
 
 **Dialogue:**
 **MAX:** Will the whole salad make that face happen?
@@ -955,7 +957,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **MAX:** I'll watch the spoon. My cheeks are counting on you.
 
-## SHOT_046 | 00:11:15–00:11:30 | A small job for a strong flavor
+## SHOT_046 | 00:07:30–00:07:40 | A small job for a strong flavor
 
 **Characters:** NINA, MAX, DAN. **Location:** FRUIT_COUNTER. **Wardrobe:** W01 only.
 **Composition:** Medium on Nina’s small pinch gesture above, not touching, the basket.
@@ -965,7 +967,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No syrup, extra fruit or hidden sweetener. Prepared fruit will be tasted only after proper washing and adult cutting at home.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): NINA 0.25–4.90s · MAX 5.05–7.62s · DAN 7.77–9.92s · NINA 10.07–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–3.27s · MAX 3.37–5.08s · DAN 5.18–6.61s · NINA 6.71–9.53s.
 
 **Dialogue:**
 **NINA:** Half a lemon and half a lime for the whole bowl.
@@ -976,7 +978,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **NINA:** Just wait until you smell the orange in there, too.
 
-## SHOT_047 | 00:11:30–00:11:45 | Sharing the important jobs
+## SHOT_047 | 00:07:40–00:07:50 | Sharing the important jobs
 
 **Characters:** MAYA, NINA, DAN, ELLA. **Location:** FRUIT_COUNTER. **Wardrobe:** W01 only.
 **Composition:** Medium four-shot over basket and closed cooler.
@@ -986,7 +988,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Only adults use knives or remove pits. Household water/plates/forks/napkins/blanket remain separate from fruit purchase arithmetic.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–3.76s · NINA 3.91–6.99s · ELLA 7.14–10.21s · DAN 10.36–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–2.51s · NINA 2.61–4.66s · ELLA 4.76–6.81s · DAN 6.91–9.53s.
 
 **Dialogue:**
 **MAYA:** I will cut the apples, pears and peaches.
@@ -997,7 +999,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **DAN:** Sounds like the picnic crew is already on duty.
 
-## SHOT_048 | 00:11:45–00:12:00 | A plan worth carrying
+## SHOT_048 | 00:07:50–00:08:00 | A plan worth carrying
 
 **Characters:** DAN, LEO, ELLA, MAX. **Location:** FRUIT_COUNTER. **Wardrobe:** W01 only.
 **Composition:** Medium family with basket lifted just clear of counter.
@@ -1007,7 +1009,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Keep fruit trays level. The family moves screen-right on the established buyer-side axis, never behind the counter.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–5.17s · LEO 5.32–8.48s · MAX 8.63–10.47s · ELLA 10.62–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–3.45s · LEO 3.55–5.65s · MAX 5.75–6.98s · ELLA 7.08–9.48s.
 
 **Dialogue:**
 **DAN:** We have fruit for everyone, and a plan for every fruit.
@@ -1018,7 +1020,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **ELLA:** Easier to share, too. Everybody helped pick something.
 
-## SHOT_049 | 00:12:00–00:12:15 | The real checkout
+## SHOT_049 | 00:08:00–00:08:10 | The real checkout
 
 **Characters:** DAN, LEO, MAYA. **Location:** FRUIT_CHECKOUT. **Wardrobe:** W01 only.
 **Composition:** Medium at far-right register; clerk remains off-screen or hands-only.
@@ -1028,7 +1030,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Only the six family voices exist in this episode. No visible face, named vendor or extra voice at checkout; tax already included.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–3.30s · DAN 3.45–6.00s · MAYA 6.15–7.72s · DAN 7.87–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.20s · DAN 2.30–4.00s · MAYA 4.10–5.15s · DAN 5.25–8.27s.
 
 **Dialogue:**
 **LEO:** Fifteen fifty. It matches our card.
@@ -1039,7 +1041,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **DAN:** That makes me feel better about handing over twenty.
 
-## SHOT_050 | 00:12:15–00:12:30 | One twenty-dollar bill
+## SHOT_050 | 00:08:10–00:08:20 | One twenty-dollar bill
 
 **Characters:** DAN, LEO. **Location:** FRUIT_CHECKOUT. **Wardrobe:** W01 only.
 **Composition:** Close wallet-to-counter movement; Dan’s left-wrist watch remains visible.
@@ -1049,7 +1051,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** One payment only. Do not leave another twenty-dollar bill on the counter after the clerk accepts it.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–2.53s · LEO 2.68–6.72s · DAN 6.87–9.15s · LEO 9.30–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.69s · LEO 1.79–4.48s · DAN 4.58–6.10s · LEO 6.20–8.89s.
 
 **Dialogue:**
 **DAN:** Here you go. Twenty dollars.
@@ -1060,7 +1062,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **LEO:** Four fifty back. I'll watch while you count it.
 
-## SHOT_051 | 00:12:30–00:12:45 | Four dollars and two quarters
+## SHOT_051 | 00:08:20–00:08:30 | Four dollars and two quarters
 
 **Characters:** DAN, MAX, NINA. **Location:** FRUIT_CHECKOUT. **Wardrobe:** W01 only.
 **Composition:** Counter insert on four one-dollar bills, two quarters and receipt.
@@ -1070,7 +1072,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Do not substitute Episode 01’s $1.50 change. Change is returned payment money, not extra shopping budget. Leo retains the card just off-frame.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.41s · MAX 3.56–6.72s · NINA 6.87–9.15s · DAN 9.30–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.27s · MAX 2.37–4.48s · NINA 4.58–6.10s · DAN 6.20–8.89s.
 
 **Dialogue:**
 **DAN:** Four dollars, and two quarters. Four fifty.
@@ -1081,7 +1083,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **DAN:** Let's start with the bill I actually handed over.
 
-## SHOT_052 | 00:12:45–00:13:00 | Two different remainders
+## SHOT_052 | 00:08:30–00:08:40 | Two different remainders
 
 **Characters:** LEO, MAX, DAN. **Location:** FRUIT_CHECKOUT. **Wardrobe:** W01 only.
 **Composition:** Medium three-shot with card and receipt kept out of fruit basket.
@@ -1091,7 +1093,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** $20.00 − $15.50 = $4.50 change; $16.00 − $15.50 = $0.50 budget remaining. Both calculations stay visible only as editorial graphics.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–4.76s · MAX 4.91–7.80s · DAN 7.96–10.45s · MAX 10.60–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–3.17s · MAX 3.27–5.20s · DAN 5.31–6.97s · MAX 7.07–9.53s.
 
 **Dialogue:**
 **LEO:** Twenty paid gives four fifty back. Sixteen budgeted leaves fifty cents.
@@ -1102,7 +1104,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **MAX:** Even the ones that never wanted to go shopping.
 
-## SHOT_053 | 00:13:00–00:13:15 | Gentle seats for the journey
+## SHOT_053 | 00:08:40–00:08:50 | Gentle seats for the journey
 
 **Characters:** MAYA, NINA, DAN, ELLA. **Location:** FRUIT_CHECKOUT. **Wardrobe:** W01 only.
 **Composition:** Wide packing view; one basket, one open cooler, no duplicate fruit.
@@ -1112,7 +1114,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** The transfer removes exactly those three fragile lines from basket. No duplicate trays remain on counter or in basket; no extra bags appear.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): NINA 0.25–3.85s · ELLA 4.00–5.40s · DAN 5.55–9.59s · ELLA 9.74–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–2.57s · ELLA 2.67–3.60s · DAN 3.70–6.39s · ELLA 6.49–9.48s.
 
 **Dialogue:**
 **NINA:** The soft fruit can travel in the cooler.
@@ -1123,7 +1125,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **ELLA:** I can give the soft ones a little elbow room.
 
-## SHOT_054 | 00:13:15–00:13:30 | Everything accounted for
+## SHOT_054 | 00:08:50–00:09:00 | Everything accounted for
 
 **Characters:** DAN, LEO, MAX. **Location:** FRUIT_CHECKOUT. **Wardrobe:** W01 only.
 **Composition:** Medium Dan putting wallet away; basket handle in lower foreground.
@@ -1133,7 +1135,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No second change handoff or extra payment. The receipt stays in the wallet for the rest of the story.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–2.53s · MAX 2.68–4.08s · DAN 4.23–9.15s · MAX 9.30–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.69s · MAX 1.79–2.72s · DAN 2.82–6.10s · MAX 6.20–9.19s.
 
 **Dialogue:**
 **LEO:** Fruit, receipt, change. All checked.
@@ -1144,7 +1146,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **MAX:** And lunch has six people who would like to sit.
 
-## SHOT_055 | 00:13:30–00:13:45 | A smaller victory
+## SHOT_055 | 00:09:00–00:09:10 | A smaller victory
 
 **Characters:** DAN, MAYA, NINA, LEO, ELLA, MAX. **Location:** FRUIT_SHOP_WIDE. **Wardrobe:** W01 only.
 **Composition:** Wide exit view on established axis; watermelon distant in its cradle.
@@ -1154,7 +1156,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Exit direction reversal is shown, not an unexplained camera-axis flip. Keep every child between the adults.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–2.09s · DAN 2.24–6.28s · MAX 6.43–9.59s · LEO 9.74–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.39s · DAN 1.49–4.19s · MAX 4.29–6.39s · LEO 6.49–9.19s.
 
 **Dialogue:**
 **MAYA:** Happy with our choices?
@@ -1165,7 +1167,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **LEO:** That giant table still had an eight-dollar price tag.
 
-## SHOT_056 | 00:13:45–00:14:00 | Home, with the right fruit
+## SHOT_056 | 00:09:10–00:09:20 | Home, with the right fruit
 
 **Characters:** DAN, MAYA, NINA, LEO, ELLA, MAX. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Wide return to original kitchen; clear travel cut, same room geometry.
@@ -1175,7 +1177,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Transferred peach tray moves from cooler to Maya’s station. No leftover fruit stays hidden in basket; receipt/change remain in wallet.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–2.97s · MAYA 3.12–4.96s · MAX 5.11–8.27s · NINA 8.42–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.98s · MAYA 2.08–3.31s · MAX 3.41–5.51s · NINA 5.61–8.89s.
 
 **Dialogue:**
 **DAN:** All fruit delivered. No champion required.
@@ -1186,7 +1188,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **NINA:** Wait until it's mixed in. Then tell me what you taste.
 
-## SHOT_057 | 00:14:00–00:14:15 | Clean hands again
+## SHOT_057 | 00:09:20–00:09:30 | Clean hands again
 
 **Characters:** MAYA, NINA, DAN, LEO, ELLA, MAX. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Wide at sink with restrained time dissolve, keeping blades out of frame.
@@ -1194,9 +1196,9 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Starting continuity:** Purchased fruit unwashed on clean trays; cooler and basket empty of fruit.
 **Ending continuity:** All six hands washed/dried; water off briefly; fruit still awaiting rinse; children away from cutting stations.
 **Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
-**Continuity:** Handwashing is not compressed into a false fifteen-second real-time demonstration. Never wash food with hand soap.
+**Continuity:** Handwashing is not compressed into a false ten-second real-time demonstration. Never wash food with hand soap.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–2.53s · ELLA 2.68–4.08s · NINA 4.23–9.59s · LEO 9.74–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.69s · ELLA 1.79–2.72s · NINA 2.82–6.39s · LEO 6.49–9.19s.
 
 **Dialogue:**
 **MAYA:** Hands first, after our trip.
@@ -1207,7 +1209,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **LEO:** Good. I'll keep the plates clear while we're washing.
 
-## SHOT_058 | 00:14:15–00:14:30 | Rinse before preparing
+## SHOT_058 | 00:09:30–00:09:40 | Rinse before preparing
 
 **Characters:** NINA, MAYA, ELLA. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Medium sink view, then short explicit preparation-time dissolve.
@@ -1217,7 +1219,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Running water only for produce, no soap. Grapes remain whole but uneaten until adult quartering; berries retain exact purchased quantity.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–2.97s · NINA 3.12–5.40s · MAYA 5.55–8.71s · ELLA 8.86–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.98s · NINA 2.08–3.60s · MAYA 3.70–5.81s · ELLA 5.91–8.89s.
 
 **Dialogue:**
 **ELLA:** Even the lemon peel gets washed?
@@ -1228,7 +1230,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **ELLA:** I can wait. I like the way that peel smells.
 
-## SHOT_059 | 00:14:30–00:14:45 | Adults take the cutting jobs
+## SHOT_059 | 00:09:40–00:09:50 | Adults take the cutting jobs
 
 **Characters:** MAYA, DAN, LEO. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Medium adult prep zone; children beyond the opposite island edge.
@@ -1238,7 +1240,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Adults only handle knives. No whole duplicate apples, pears or peaches remain after their flesh enters the bowl; skins may stay on where suitable.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–3.95s · MAYA 4.10–7.00s · DAN 7.15–10.04s · MAYA 10.19–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.63s · MAYA 2.73–4.67s · DAN 4.77–6.69s · MAYA 6.79–9.53s.
 
 **Dialogue:**
 **LEO:** We can put out the plates while you cut.
@@ -1249,7 +1251,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **MAYA:** Thank you. A clear counter gives me room to work.
 
-## SHOT_060 | 00:14:45–00:15:00 | Grapes take the long cut
+## SHOT_060 | 00:09:50–00:10:00 | Grapes take the long cut
 
 **Characters:** NINA, DAN, MAX. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Close adult hands on board, then Nina and Max with safe distance.
@@ -1259,7 +1261,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Never show Max or another child eating a whole grape. Keep knife with Nina and waste stems separate from edible pieces.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–2.90s · NINA 3.05–6.56s · DAN 6.71–10.21s · MAX 10.36–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.93s · NINA 2.03–4.37s · DAN 4.47–6.81s · MAX 6.91–9.53s.
 
 **Dialogue:**
 **MAX:** Four little pieces from one grape?
@@ -1270,7 +1272,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **MAX:** Little boats. I can see all four of them.
 
-## SHOT_061 | 00:15:00–00:15:15 | Strawberries join the colors
+## SHOT_061 | 00:10:00–00:10:10 | Strawberries join the colors
 
 **Characters:** NINA, ELLA, MAYA. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Medium berry preparation station with Ella at utensil area.
@@ -1280,7 +1282,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No extra berry punnet or whole strawberry stock appears. Do not place waste, money or used sample utensils on the clean preparation surface.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–4.36s · MAYA 4.51–7.80s · NINA 7.96–10.04s · MAYA 10.19–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.91s · MAYA 3.01–5.20s · NINA 5.31–6.69s · MAYA 6.79–9.53s.
 
 **Dialogue:**
 **ELLA:** The red strawberries make it look like a picnic already.
@@ -1291,7 +1293,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **MAYA:** We can spot the red ones from across the island.
 
-## SHOT_062 | 00:15:15–00:15:30 | Two oranges, no surprises
+## SHOT_062 | 00:10:10–00:10:20 | Two oranges, no surprises
 
 **Characters:** DAN, MAYA, MAX. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Medium adult peeling station, Max beyond island edge.
@@ -1301,7 +1303,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Children do not chew skins or handle cutting tools. Lemon and lime remain separate and identifiable.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.41s · MAX 3.56–5.84s · MAYA 5.99–9.59s · DAN 9.74–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.27s · MAX 2.37–3.89s · MAYA 3.99–6.39s · DAN 6.49–9.19s.
 
 **Dialogue:**
 **DAN:** Two oranges. Round, sweet, and correctly introduced.
@@ -1312,7 +1314,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **DAN:** My face will wait. My hands are busy anyway.
 
-## SHOT_063 | 00:15:30–00:15:45 | The bunch becomes four
+## SHOT_063 | 00:10:20–00:10:30 | The bunch becomes four
 
 **Characters:** DAN, NINA, LEO. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Medium bananas and adult hands; clean knife stays inside adult zone.
@@ -1322,7 +1324,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Prepare bananas near the end, then dress promptly. No hidden fifth banana or new fruit appears.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–2.53s · DAN 2.68–5.84s · NINA 5.99–9.59s · DAN 9.74–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.69s · DAN 1.79–3.89s · NINA 3.99–6.39s · DAN 6.49–9.48s.
 
 **Dialogue:**
 **LEO:** Four bananas. One empty bunch.
@@ -1333,7 +1335,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **DAN:** Remember my lemon face? Let's give it a smaller job.
 
-## SHOT_064 | 00:15:45–00:16:00 | Half of each
+## SHOT_064 | 00:10:30–00:10:40 | Half of each
 
 **Characters:** NINA, DAN, MAX. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Close citrus halves on adult board; bowl of sweet fruit behind.
@@ -1343,7 +1345,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Adults handle knife and strainer. Do not juice both halves or add extra citrus. Reserved halves are food, not waste.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–4.29s · MAX 4.44–7.60s · NINA 7.75–10.03s · MAX 10.18–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.86s · MAX 2.96–5.07s · NINA 5.17–6.69s · MAX 6.79–9.48s.
 
 **Dialogue:**
 **DAN:** Half a lemon. Half a lime. I am checking.
@@ -1354,7 +1356,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **MAX:** Good. My tongue would like a little warning today.
 
-## SHOT_065 | 00:16:00–00:16:15 | Saving the other halves
+## SHOT_065 | 00:10:40–00:10:50 | Saving the other halves
 
 **Characters:** MAYA, ELLA, NINA. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Medium fridge rear-left; maintain original kitchen geography.
@@ -1364,7 +1366,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** These are the only uneaten citrus portions saved. Never place the squeezed waste halves or pits back in the refrigerator.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–2.09s · MAYA 2.24–5.40s · NINA 5.55–8.71s · ELLA 8.86–12.90s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.39s · MAYA 1.49–3.60s · NINA 3.70–5.81s · ELLA 5.91–8.60s.
 
 **Dialogue:**
 **ELLA:** We are saving those?
@@ -1375,7 +1377,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **ELLA:** I like that we didn't need a whole one.
 
-## SHOT_066 | 00:16:15–00:16:30 | A small amount, a shared bowl
+## SHOT_066 | 00:10:50–00:11:00 | A small amount, a shared bowl
 
 **Characters:** NINA, DAN, MAYA, MAX. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Medium bowl with adult serving spoons, Max at safe edge.
@@ -1385,7 +1387,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No added sugar, syrup or surprise ingredient. The only whole fruit remaining is unselected shop stock, not food at home.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.33s · NINA 3.48–6.13s · MAX 6.28–10.64s · NINA 10.79–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.22s · NINA 2.32–4.09s · MAX 4.19–7.09s · NINA 7.19–9.53s.
 
 **Dialogue:**
 **DAN:** A little sour with all this sweet.
@@ -1396,7 +1398,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **NINA:** Deal. Tell me which flavor you notice first.
 
-## SHOT_067 | 00:16:30–00:16:45 | Cool until lunch
+## SHOT_067 | 00:11:00–00:11:10 | Cool until lunch
 
 **Characters:** MAYA, NINA, ELLA. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Medium lidded bowl moving into cooler; lid pocket stays distinct.
@@ -1406,7 +1408,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Keep prepared fruit cold until shaded service. No claim of an exact chilling temperature or elapsed refrigeration time.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–3.85s · ELLA 4.00–5.84s · NINA 5.99–8.71s · MAYA 8.86–12.90s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–2.57s · ELLA 2.67–3.89s · NINA 3.99–5.81s · MAYA 5.91–8.60s.
 
 **Dialogue:**
 **MAYA:** Lid on. Into the cooler until we eat.
@@ -1417,7 +1419,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **MAYA:** Luckily the shade is only a few steps away.
 
-## SHOT_068 | 00:16:45–00:17:00 | Only a few steps away
+## SHOT_068 | 00:11:10–00:11:20 | Only a few steps away
 
 **Characters:** DAN, MAYA, NINA, LEO, ELLA, MAX. **Location:** HOME_GARDEN. **Wardrobe:** W01 only.
 **Composition:** Wide through rear-left house doorway into shaded backyard.
@@ -1427,7 +1429,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Setup ellipsis explicitly unrolls blanket; utensils already transferred into basket in the kitchen. House door rear-left, shade tree rear-right; no park journey or extra guest.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–2.53s · DAN 2.68–4.52s · MAYA 4.67–9.15s · LEO 9.30–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.69s · DAN 1.79–3.01s · MAYA 3.11–6.10s · LEO 6.20–9.48s.
 
 **Dialogue:**
 **MAX:** Lunch has reached its destination.
@@ -1438,7 +1440,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **LEO:** Best trip yet. Nobody had to check the price of shade.
 
-## SHOT_069 | 00:17:00–00:17:15 | Six places in the shade
+## SHOT_069 | 00:11:20–00:11:30 | Six places in the shade
 
 **Characters:** DAN, MAYA, NINA, LEO, ELLA, MAX. **Location:** HOME_GARDEN. **Wardrobe:** W01 only.
 **Composition:** Wide fixed-axis blanket tableau; keep all six positions readable.
@@ -1448,7 +1450,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Relative family order echoes HOME_TABLE but these are blanket places, not new dining chairs. No seventh plate or person.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–2.04s · ELLA 2.19–5.70s · DAN 5.85–8.93s · MAX 9.08–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.36s · ELLA 1.46–3.80s · DAN 3.90–5.95s · MAX 6.05–9.53s.
 
 **Dialogue:**
 **LEO:** Six places. Everyone here.
@@ -1459,7 +1461,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **MAX:** I think that melon would have rolled right out from under me.
 
-## SHOT_070 | 00:17:15–00:17:30 | The bowl finally opens
+## SHOT_070 | 00:11:30–00:11:40 | The bowl finally opens
 
 **Characters:** NINA, MAYA, MAX, DAN. **Location:** HOME_GARDEN. **Wardrobe:** W01 only.
 **Composition:** Medium from near blanket edge; shaded food and clean serving spoons.
@@ -1469,7 +1471,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Serve promptly in shade. Max’s portion contains only small fruit pieces and lengthwise-quartered grapes; no whole grapes.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): NINA 0.25–2.53s · MAX 2.68–5.40s · DAN 5.55–9.15s · NINA 9.30–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–1.69s · MAX 1.79–3.60s · DAN 3.70–6.10s · NINA 6.20–9.19s.
 
 **Dialogue:**
 **NINA:** Fruit salad, ready at last.
@@ -1480,7 +1482,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **NINA:** Give it a sniff before you pick your first bite.
 
-## SHOT_071 | 00:17:30–00:17:45 | Max makes his own choice
+## SHOT_071 | 00:11:40–00:11:50 | Max makes his own choice
 
 **Characters:** MAX, NINA, DAN. **Location:** HOME_GARDEN. **Wardrobe:** W01 only.
 **Composition:** Child-height close Max, with Nina at right and Dan across blanket.
@@ -1490,7 +1492,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No dare, countdown or demand to finish. No talking while chewing or whole-grape eating.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–2.97s · NINA 3.12–4.96s · MAX 5.11–8.71s · DAN 8.86–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.98s · NINA 2.08–3.31s · MAX 3.41–5.81s · DAN 5.91–8.89s.
 
 **Dialogue:**
 **MAX:** Sweet first. Then a little tangy.
@@ -1501,7 +1503,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **DAN:** I wish it'd learned that before I met the sample.
 
-## SHOT_072 | 00:17:45–00:18:00 | What Dad wanted
+## SHOT_072 | 00:11:50–00:12:00 | What Dad wanted
 
 **Characters:** DAN, LEO, MAYA. **Location:** HOME_GARDEN. **Wardrobe:** W01 only.
 **Composition:** Quiet medium across Dan’s near-left place toward Leo and Maya.
@@ -1511,7 +1513,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Keep emotion proportionate to a small shopping mistake. Nobody calls Dan foolish or undermines either parent.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–5.90s · LEO 6.05–6.99s · MAYA 7.14–10.21s · DAN 10.36–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–3.93s · LEO 4.03–4.66s · MAYA 4.76–6.81s · DAN 6.91–9.53s.
 
 **Dialogue:**
 **DAN:** I wanted the biggest fruit because I wanted this picnic to feel special.
@@ -1522,7 +1524,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **DAN:** Oh. I could've asked what felt special to you.
 
-## SHOT_073 | 00:18:00–00:18:15 | Already special
+## SHOT_073 | 00:12:00–00:12:10 | Already special
 
 **Characters:** MAX, DAN, NINA. **Location:** HOME_GARDEN. **Wardrobe:** W01 only.
 **Composition:** Medium Max near-right looking across to Dan near-left.
@@ -1532,7 +1534,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** One person speaks at a time. Preserve all six original faces and relationships in reactions.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–3.97s · DAN 4.12–6.02s · NINA 6.17–8.07s · MAX 8.22–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.65s · DAN 2.75–4.01s · NINA 4.11–5.38s · MAX 5.48–8.27s.
 
 **Dialogue:**
 **MAX:** We all came. That was the special part.
@@ -1543,7 +1545,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **MAX:** I'd still come sit under the tree with you.
 
-## SHOT_074 | 00:18:15–00:18:30 | A better kind of champion
+## SHOT_074 | 00:12:10–00:12:20 | A better kind of champion
 
 **Characters:** ELLA, MAYA, DAN. **Location:** HOME_GARDEN. **Wardrobe:** W01 only.
 **Composition:** Medium Ella far-left and Maya far-right, Dan at near-left edge.
@@ -1553,7 +1555,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Keep this an exchange between characters about their picnic, not a direct-to-viewer lesson or vocabulary recap.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–2.97s · MAYA 3.12–5.84s · DAN 5.99–9.15s · ELLA 9.30–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.98s · MAYA 2.08–3.89s · DAN 3.99–6.10s · ELLA 6.20–9.48s.
 
 **Dialogue:**
 **ELLA:** No fruit won the size contest.
@@ -1564,7 +1566,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **ELLA:** Good. There's room under this tree for all six of us.
 
-## SHOT_075 | 00:18:30–00:18:45 | Both mothers, one good plan
+## SHOT_075 | 00:12:20–00:12:30 | Both mothers, one good plan
 
 **Characters:** MAYA, NINA, DAN. **Location:** HOME_GARDEN. **Wardrobe:** W01 only.
 **Composition:** Medium across the far and right sides of the blanket, Dan in foreground.
@@ -1574,7 +1576,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No wife rivalry, ranking or servant framing. Keep the same voice identity and wardrobe for both women.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–3.41s · NINA 3.56–8.04s · DAN 8.19–10.03s · MAYA 10.18–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–2.27s · NINA 2.37–5.36s · DAN 5.46–6.69s · MAYA 6.79–9.19s.
 
 **Dialogue:**
 **MAYA:** The samples helped us understand the difference.
@@ -1585,7 +1587,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **MAYA:** You made picking two little pears feel important.
 
-## SHOT_076 | 00:18:45–00:19:00 | The face stays unfolded
+## SHOT_076 | 00:12:30–00:12:40 | The face stays unfolded
 
 **Characters:** MAX, ELLA, DAN. **Location:** HOME_GARDEN. **Wardrobe:** W01 only.
 **Composition:** Close Max’s relaxed smile, then gentle pan to Dan’s response.
@@ -1595,7 +1597,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No exaggerated distress, food spitting or repeated sour tasting. Used personal forks never enter the serving bowl.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–2.97s · ELLA 3.12–4.96s · DAN 5.11–7.83s · MAX 7.98–12.46s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.98s · ELLA 2.08–3.31s · DAN 3.41–5.22s · MAX 5.32–8.31s.
 
 **Dialogue:**
 **MAX:** Dad, your face is staying unfolded.
@@ -1606,7 +1608,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **MAX:** Then I guess we gave the lemon just enough work.
 
-## SHOT_077 | 00:19:00–00:19:15 | A card worth keeping
+## SHOT_077 | 00:12:40–00:12:50 | A card worth keeping
 
 **Characters:** DAN, LEO, ELLA. **Location:** HOME_GARDEN. **Wardrobe:** W01 only.
 **Composition:** Medium card held beside Dan’s own place, away from shared food.
@@ -1616,7 +1618,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** This is the same single card introduced in SHOT_001. No new shopping list, extra receipt or changed budget.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–2.09s · ELLA 2.24–4.52s · DAN 4.67–8.71s · ELLA 8.86–12.90s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.39s · ELLA 1.49–3.01s · DAN 3.11–5.81s · ELLA 5.91–8.60s.
 
 **Dialogue:**
 **LEO:** We stayed under sixteen.
@@ -1627,7 +1629,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **ELLA:** And nobody had to carry a picnic table home.
 
-## SHOT_078 | 00:19:15–00:19:30 | Tomorrow can wait
+## SHOT_078 | 00:12:50–00:13:00 | Tomorrow can wait
 
 **Characters:** MAYA, NINA, DAN, MAX. **Location:** HOME_GARDEN. **Wardrobe:** W01 only.
 **Composition:** Warm medium adults and Max; shaded house visible rear-left.
@@ -1637,7 +1639,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Do not introduce flour/flower mix-up, Episode 03 script, new props or a new task here.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–2.47s · DAN 2.62–6.56s · NINA 6.71–9.79s · MAX 9.94–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.65s · DAN 1.75–4.37s · NINA 4.47–6.53s · MAX 6.63–9.53s.
 
 **Dialogue:**
 **MAYA:** Maybe pancakes for breakfast tomorrow.
@@ -1648,7 +1650,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **MAX:** If it's breakfast, I vote for something we can flip.
 
-## SHOT_079 | 00:19:30–00:19:45 | Keeping what we made
+## SHOT_079 | 00:13:00–00:13:10 | Keeping what we made
 
 **Characters:** NINA, MAYA, LEO, ELLA. **Location:** HOME_GARDEN. **Wardrobe:** W01 only.
 **Composition:** Medium bowl returning to cooler; children at supply side of blanket.
@@ -1658,7 +1660,7 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 **Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No used personal fork enters leftover food. The cooler protects the prepared fruit; waste and dirty dishes stay separate.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–3.85s · LEO 4.00–5.84s · NINA 5.99–9.15s · MAYA 9.30–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.57s · LEO 2.67–3.89s · NINA 3.99–6.10s · MAYA 6.20–8.89s.
 
 **Dialogue:**
 **ELLA:** The basket carried fruit out and dishes back.
@@ -1669,17 +1671,17 @@ This file is refreshed from STORY.md with `python Episode_02/sync.py`. Edit the 
 
 **MAYA:** Let's carry the dishes level on the way inside.
 
-## SHOT_080 | 00:19:45–00:20:00 | Enough for a happy ending
+## SHOT_080 | 00:13:10–00:13:20 | Enough for a happy ending
 
 **Characters:** DAN, MAYA, NINA, LEO, ELLA, MAX. **Location:** HOME_GARDEN. **Wardrobe:** W01 only.
-**Composition:** Slow wide pullback on all six fixed blanket places; end within 20:00.
+**Composition:** Slow wide pullback on all six fixed blanket places; end within 13:20.
 **Action:** All six share a relaxed smile in the tree’s shade. Dan rests his empty hands on his knees; Maya and Nina sit comfortably with the children. The closed cooler and basket remain beside the blanket. A modest editorial ending overlay fits the final two seconds without extending runtime.
 **Starting continuity:** Picnic finished; leftovers chilled, dishes gathered, card/wallet pocketed; all six remain seated.
-**Ending continuity:** Hold the six-person family tableau through 00:20:00; completed fruit story, no unresolved errand or new character.
+**Ending continuity:** Hold the six-person family tableau through 00:13:20; completed fruit story, no unresolved errand or new character.
 **Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
-**Continuity:** No chorus or recap narrator. Any creator-designed practice belongs after the finished 20-minute movie, outside this story.
+**Continuity:** No chorus or recap narrator. Any creator-designed practice belongs after the finished 13-minute-20-second movie, outside this story.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.76s · MAYA 3.91–6.13s · MAX 6.28–9.79s · ELLA 9.94–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.51s · MAYA 2.61–4.09s · MAX 4.19–6.53s · ELLA 6.63–9.53s.
 
 **Dialogue:**
 **DAN:** Not the biggest fruit. A very happy picnic.

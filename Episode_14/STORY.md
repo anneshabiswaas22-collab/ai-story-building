@@ -1,6 +1,8 @@
 # Episode 14 — Can You Mail a Hug?
 
-A Maple House English family comedy in 80 consecutive 15-second shots. Story runtime is 20:00.
+A Maple House English family comedy in 80 consecutive 10-second shots. Planned story runtime is 13:20.
+
+**Editing plan:** Plan each shot for 10 editorial seconds to reduce filler pauses and unnecessary movements. Preserve natural dialogue delivery and meaningful actions; confirm timing against recorded performances before final editing rather than adding silence or speeding up speech.
 
 Grandpa Ed sends Nina a drawing of the fridge in his new apartment. His tomato magnet is ready for work, but it has nothing to hold. Max would send him a hug if he could. He has an envelope, two perfectly good arms, and a strong objection to making the hug any shorter.
 
@@ -18,18 +20,18 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 | Time | Dramatic action |
 |---|---|
-| 00:00–04:00 | A refrigerator arrives in the mail. Max measures out a hug that will reach as far as he does. |
-| 04:00–08:00 | A loose roll is too fat, and a packet folded in half three times takes too many moves to open. Max and Ella try a zigzag. |
-| 08:00–10:00 | Nina hides a line about a stolen corner of toast in the middle. Maya tries the opening instructions. The whole hug fits. |
-| 10:00–13:00 | Max hears “return address” and worries Grandpa will have to give his hug back. The incoming card helps him address the reply. |
-| 13:00–17:30 | The family walks to the post office. Max buys postage with Nina, says goodbye to a small green leaf and sends the letter on its way. |
-| 17:30–20:00 | Several breakfasts later, Ed calls. Max hears the hug open, Nina hears her own words, and the tomato finally has a job. |
+| 00:00–02:40 | A refrigerator arrives in the mail. Max measures out a hug that will reach as far as he does. |
+| 02:40–05:20 | A loose roll is too fat, and a packet folded in half three times takes too many moves to open. Max and Ella try a zigzag. |
+| 05:20–06:40 | Nina hides a line about a stolen corner of toast in the middle. Maya tries the opening instructions. The whole hug fits. |
+| 06:40–08:40 | Max hears “return address” and worries Grandpa will have to give his hug back. The incoming card helps him address the reply. |
+| 08:40–11:40 | The family walks to the post office. Max buys postage with Nina, says goodbye to a small green leaf and sends the letter on its way. |
+| 11:40–13:20 | Several breakfasts later, Ed calls. Max hears the hug open, Nina hears her own words, and the tomato finally has a job. |
 
 ## Timed screenplay
 
 <a name="shot-001"></a>
 
-### SHOT_001 | 00:00:00–00:00:15 | A refrigerator in the mail
+### SHOT_001 | 00:00:00–00:00:10 | A refrigerator in the mail
 
 **Visible cast:** DAN, MAX, ELLA
 
@@ -57,7 +59,7 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 <a name="shot-002"></a>
 
-### SHOT_002 | 00:00:15–00:00:30 | Who gets to turn it over?
+### SHOT_002 | 00:00:10–00:00:20 | Who gets to turn it over?
 
 **Visible cast:** NINA, MAX, ELLA
 
@@ -85,7 +87,7 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 <a name="shot-003"></a>
 
-### SHOT_003 | 00:00:30–00:00:45 | One very patient tomato
+### SHOT_003 | 00:00:20–00:00:30 | One very patient tomato
 
 **Visible cast:** NINA, MAYA, MAX
 
@@ -113,7 +115,7 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 <a name="shot-004"></a>
 
-### SHOT_004 | 00:00:45–00:01:00 | A job for the magnet
+### SHOT_004 | 00:00:30–00:00:40 | A job for the magnet
 
 **Visible cast:** NINA, LEO, MAX
 
@@ -141,7 +143,7 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 <a name="shot-005"></a>
 
-### SHOT_005 | 00:01:00–00:01:15 | A corner goes missing
+### SHOT_005 | 00:00:40–00:00:50 | A corner goes missing
 
 **Visible cast:** NINA, DAN, MAX
 
@@ -169,7 +171,7 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 <a name="shot-006"></a>
 
-### SHOT_006 | 00:01:15–00:01:30 | What Grandpa used to say
+### SHOT_006 | 00:00:50–00:01:00 | What Grandpa used to say
 
 **Visible cast:** NINA, ELLA, MAX
 
@@ -197,7 +199,7 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 <a name="shot-007"></a>
 
-### SHOT_007 | 00:01:30–00:01:45 | Something a magnet could hold
+### SHOT_007 | 00:01:00–00:01:10 | Something a magnet could hold
 
 **Visible cast:** MAYA, NINA, LEO, MAX
 
@@ -225,7 +227,7 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 <a name="shot-008"></a>
 
-### SHOT_008 | 00:01:45–00:02:00 | How wide is a hug?
+### SHOT_008 | 00:01:10–00:01:20 | How wide is a hug?
 
 **Visible cast:** DAN, NINA, MAX
 
@@ -253,7 +255,7 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 <a name="shot-009"></a>
 
-### SHOT_009 | 00:02:00–00:02:15 | One cream envelope
+### SHOT_009 | 00:01:20–00:01:30 | One cream envelope
 
 **Visible cast:** MAYA, LEO, MAX
 
@@ -281,7 +283,7 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 <a name="shot-010"></a>
 
-### SHOT_010 | 00:02:15–00:02:30 | A road made of yellow paper
+### SHOT_010 | 00:01:30–00:01:40 | A road made of yellow paper
 
 **Visible cast:** ELLA, MAYA, MAX
 
@@ -309,7 +311,7 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 <a name="shot-011"></a>
 
-### SHOT_011 | 00:02:30–00:02:45 | Start at this fingertip
+### SHOT_011 | 00:01:40–00:01:50 | Start at this fingertip
 
 **Visible cast:** NINA, LEO, MAX
 
@@ -337,7 +339,7 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 <a name="shot-012"></a>
 
-### SHOT_012 | 00:02:45–00:03:00 | The wandering pencil mark
+### SHOT_012 | 00:01:50–00:02:00 | The wandering pencil mark
 
 **Visible cast:** ELLA, LEO, MAX
 
@@ -365,7 +367,7 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 <a name="shot-013"></a>
 
-### SHOT_013 | 00:03:00–00:03:15 | One whole Max
+### SHOT_013 | 00:02:00–00:02:10 | One whole Max
 
 **Visible cast:** MAYA, NINA, LEO, MAX
 
@@ -393,7 +395,7 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 <a name="shot-014"></a>
 
-### SHOT_014 | 00:03:15–00:03:30 | The blue hand on the left
+### SHOT_014 | 00:02:10–00:02:20 | The blue hand on the left
 
 **Visible cast:** ELLA, MAX, DAN
 
@@ -421,7 +423,7 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 <a name="shot-015"></a>
 
-### SHOT_015 | 00:03:30–00:03:45 | A hand for the other end
+### SHOT_015 | 00:02:20–00:02:30 | A hand for the other end
 
 **Visible cast:** LEO, ELLA, MAX
 
@@ -449,7 +451,7 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 <a name="shot-016"></a>
 
-### SHOT_016 | 00:03:45–00:04:00 | A problem for the dining table
+### SHOT_016 | 00:02:30–00:02:40 | A problem for the dining table
 
 **Visible cast:** MAYA, NINA, LEO, ELLA, MAX
 
@@ -477,7 +479,7 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 <a name="shot-017"></a>
 
-### SHOT_017 | 00:04:00–00:04:15 | Dinner for a piece of paper
+### SHOT_017 | 00:02:40–00:02:50 | Dinner for a piece of paper
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX
 
@@ -505,7 +507,7 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 <a name="shot-018"></a>
 
-### SHOT_018 | 00:04:15–00:04:30 | Dad rolls up his sleeves
+### SHOT_018 | 00:02:50–00:03:00 | Dad rolls up his sleeves
 
 **Visible cast:** DAN, LEO, MAX
 
@@ -533,7 +535,7 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 <a name="shot-019"></a>
 
-### SHOT_019 | 00:04:30–00:04:45 | A flap that won't lie down
+### SHOT_019 | 00:03:00–00:03:10 | A flap that won't lie down
 
 **Visible cast:** MAYA, ELLA, MAX, DAN
 
@@ -561,7 +563,7 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 <a name="shot-020"></a>
 
-### SHOT_020 | 00:04:45–00:05:00 | Once in half
+### SHOT_020 | 00:03:10–00:03:20 | Once in half
 
 **Visible cast:** MAYA, LEO, MAX
 
@@ -589,7 +591,7 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 <a name="shot-021"></a>
 
-### SHOT_021 | 00:05:00–00:05:15 | Half of half
+### SHOT_021 | 00:03:20–00:03:30 | Half of half
 
 **Visible cast:** ELLA, LEO, MAX
 
@@ -617,7 +619,7 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 <a name="shot-022"></a>
 
-### SHOT_022 | 00:05:15–00:05:30 | Eight layers, one little packet
+### SHOT_022 | 00:03:30–00:03:40 | Eight layers, one little packet
 
 **Visible cast:** MAYA, NINA, MAX
 
@@ -645,7 +647,7 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 <a name="shot-023"></a>
 
-### SHOT_023 | 00:05:30–00:05:45 | Too many little doors
+### SHOT_023 | 00:03:40–00:03:50 | Too many little doors
 
 **Visible cast:** DAN, NINA, MAX
 
@@ -673,7 +675,7 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 <a name="shot-024"></a>
 
-### SHOT_024 | 00:05:45–00:06:00 | One pull
+### SHOT_024 | 00:03:50–00:04:00 | One pull
 
 **Visible cast:** MAYA, LEO, MAX
 
@@ -701,7 +703,7 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 <a name="shot-025"></a>
 
-### SHOT_025 | 00:06:00–00:06:15 | Roads across the yellow
+### SHOT_025 | 00:04:00–00:04:10 | Roads across the yellow
 
 **Visible cast:** LEO, ELLA, MAX
 
@@ -729,7 +731,7 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 <a name="shot-026"></a>
 
-### SHOT_026 | 00:06:15–00:06:30 | Seven lines, eight places
+### SHOT_026 | 00:04:10–00:04:20 | Seven lines, eight places
 
 **Visible cast:** NINA, ELLA, MAX
 
@@ -757,7 +759,7 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 <a name="shot-027"></a>
 
-### SHOT_027 | 00:06:30–00:06:45 | The first turn
+### SHOT_027 | 00:04:20–00:04:30 | The first turn
 
 **Visible cast:** ELLA, LEO, MAX
 
@@ -785,7 +787,7 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 <a name="shot-028"></a>
 
-### SHOT_028 | 00:06:45–00:07:00 | Out and back
+### SHOT_028 | 00:04:30–00:04:40 | Out and back
 
 **Visible cast:** DAN, ELLA, LEO, MAX
 
@@ -813,7 +815,7 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 <a name="shot-029"></a>
 
-### SHOT_029 | 00:07:00–00:07:15 | A pocket accordion
+### SHOT_029 | 00:04:40–00:04:50 | A pocket accordion
 
 **Visible cast:** MAYA, NINA, ELLA, MAX
 
@@ -841,7 +843,7 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 <a name="shot-030"></a>
 
-### SHOT_030 | 00:07:15–00:07:30 | The hug opens
+### SHOT_030 | 00:04:50–00:05:00 | The hug opens
 
 **Visible cast:** NINA, LEO, MAX
 
@@ -869,7 +871,7 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 <a name="shot-031"></a>
 
-### SHOT_031 | 00:07:30–00:07:45 | Room in the middle
+### SHOT_031 | 00:05:00–00:05:10 | Room in the middle
 
 **Visible cast:** ELLA, NINA, MAX
 
@@ -897,7 +899,7 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 <a name="shot-032"></a>
 
-### SHOT_032 | 00:07:45–00:08:00 | What a refrigerator would say
+### SHOT_032 | 00:05:10–00:05:20 | What a refrigerator would say
 
 **Visible cast:** DAN, MAYA, NINA
 
@@ -925,7 +927,7 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 <a name="shot-033"></a>
 
-### SHOT_033 | 00:08:00–00:08:15 | Breakfast words
+### SHOT_033 | 00:05:20–00:05:30 | Breakfast words
 
 **Visible cast:** NINA, MAYA, MAX
 
@@ -953,7 +955,7 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 <a name="shot-034"></a>
 
-### SHOT_034 | 00:08:15–00:08:30 | I still owe you a corner
+### SHOT_034 | 00:05:30–00:05:40 | I still owe you a corner
 
 **Visible cast:** NINA, MAX, ELLA
 
@@ -981,7 +983,7 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 <a name="shot-035"></a>
 
-### SHOT_035 | 00:08:30–00:08:45 | A small name under a small hand
+### SHOT_035 | 00:05:40–00:05:50 | A small name under a small hand
 
 **Visible cast:** DAN, LEO, MAX
 
@@ -1009,7 +1011,7 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 <a name="shot-036"></a>
 
-### SHOT_036 | 00:08:45–00:09:00 | Can you find the message?
+### SHOT_036 | 00:05:50–00:06:00 | Can you find the message?
 
 **Visible cast:** ELLA, LEO, MAYA, MAX
 
@@ -1037,7 +1039,7 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 <a name="shot-037"></a>
 
-### SHOT_037 | 00:09:00–00:09:15 | Open wide
+### SHOT_037 | 00:06:00–00:06:10 | Open wide
 
 **Visible cast:** MAYA, NINA, MAX
 
@@ -1065,7 +1067,7 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 <a name="shot-038"></a>
 
-### SHOT_038 | 00:09:15–00:09:30 | One hand and the other
+### SHOT_038 | 00:06:10–00:06:20 | One hand and the other
 
 **Visible cast:** MAYA, NINA, MAX
 
@@ -1093,7 +1095,7 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 <a name="shot-039"></a>
 
-### SHOT_039 | 00:09:30–00:09:45 | A quiet test
+### SHOT_039 | 00:06:20–00:06:30 | A quiet test
 
 **Visible cast:** MAYA, ELLA, MAX
 
@@ -1121,7 +1123,7 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 <a name="shot-040"></a>
 
-### SHOT_040 | 00:09:45–00:10:00 | The whole hug goes in
+### SHOT_040 | 00:06:30–00:06:40 | The whole hug goes in
 
 **Visible cast:** MAYA, NINA, LEO, MAX
 
@@ -1149,7 +1151,7 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 <a name="shot-041"></a>
 
-### SHOT_041 | 00:10:00–00:10:15 | On the outside
+### SHOT_041 | 00:06:40–00:06:50 | On the outside
 
 **Visible cast:** NINA, LEO, MAX
 
@@ -1177,7 +1179,7 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 <a name="shot-042"></a>
 
-### SHOT_042 | 00:10:15–00:10:30 | The trip the postcard took
+### SHOT_042 | 00:06:50–00:07:00 | The trip the postcard took
 
 **Visible cast:** ELLA, NINA, MAX
 
@@ -1205,7 +1207,7 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 <a name="shot-043"></a>
 
-### SHOT_043 | 00:10:30–00:10:45 | Return it?
+### SHOT_043 | 00:07:00–00:07:10 | Return it?
 
 **Visible cast:** MAYA, NINA, MAX
 
@@ -1233,7 +1235,7 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 <a name="shot-044"></a>
 
-### SHOT_044 | 00:10:45–00:11:00 | What comes back?
+### SHOT_044 | 00:07:10–00:07:20 | What comes back?
 
 **Visible cast:** MAYA, NINA, MAX
 
@@ -1261,7 +1263,7 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 <a name="shot-045"></a>
 
-### SHOT_045 | 00:11:00–00:11:15 | Two trips across a table
+### SHOT_045 | 00:07:20–00:07:30 | Two trips across a table
 
 **Visible cast:** DAN, LEO, MAX
 
@@ -1289,7 +1291,7 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 <a name="shot-046"></a>
 
-### SHOT_046 | 00:11:15–00:11:30 | Home in the little corner
+### SHOT_046 | 00:07:30–00:07:40 | Home in the little corner
 
 **Visible cast:** MAYA, NINA, MAX
 
@@ -1317,7 +1319,7 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 <a name="shot-047"></a>
 
-### SHOT_047 | 00:11:30–00:11:45 | A name Ed will answer to
+### SHOT_047 | 00:07:40–00:07:50 | A name Ed will answer to
 
 **Visible cast:** NINA, ELLA, MAX
 
@@ -1345,7 +1347,7 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 <a name="shot-048"></a>
 
-### SHOT_048 | 00:11:45–00:12:00 | Lane here, Court there
+### SHOT_048 | 00:07:50–00:08:00 | Lane here, Court there
 
 **Visible cast:** LEO, NINA, MAX
 
@@ -1373,7 +1375,7 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 <a name="shot-049"></a>
 
-### SHOT_049 | 00:12:00–00:12:15 | One more door
+### SHOT_049 | 00:08:00–00:08:10 | One more door
 
 **Visible cast:** ELLA, NINA, MAX
 
@@ -1401,7 +1403,7 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 <a name="shot-050"></a>
 
-### SHOT_050 | 00:12:15–00:12:30 | Two addresses get a finger each
+### SHOT_050 | 00:08:10–00:08:20 | Two addresses get a finger each
 
 **Visible cast:** MAYA, NINA, LEO, MAX
 
@@ -1429,7 +1431,7 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 <a name="shot-051"></a>
 
-### SHOT_051 | 00:12:30–00:12:45 | Ready on the inside
+### SHOT_051 | 00:08:20–00:08:30 | Ready on the inside
 
 **Visible cast:** DAN, ELLA, MAX
 
@@ -1457,7 +1459,7 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 <a name="shot-052"></a>
 
-### SHOT_052 | 00:12:45–00:13:00 | The envelope closes
+### SHOT_052 | 00:08:30–00:08:40 | The envelope closes
 
 **Visible cast:** MAYA, NINA, MAX
 
@@ -1485,7 +1487,7 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 <a name="shot-053"></a>
 
-### SHOT_053 | 00:13:00–00:13:15 | Which piece stays home?
+### SHOT_053 | 00:08:40–00:08:50 | Which piece stays home?
 
 **Visible cast:** NINA, LEO, ELLA, MAX
 
@@ -1513,7 +1515,7 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 <a name="shot-054"></a>
 
-### SHOT_054 | 00:13:15–00:13:30 | Two refrigerators
+### SHOT_054 | 00:08:50–00:09:00 | Two refrigerators
 
 **Visible cast:** NINA, DAN, ELLA, MAX
 
@@ -1541,7 +1543,7 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 <a name="shot-055"></a>
 
-### SHOT_055 | 00:13:30–00:13:45 | What are you carrying?
+### SHOT_055 | 00:09:00–00:09:10 | What are you carrying?
 
 **Visible cast:** MAYA, LEO, MAX
 
@@ -1569,7 +1571,7 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 <a name="shot-056"></a>
 
-### SHOT_056 | 00:13:45–00:14:00 | Fourteen from the outside
+### SHOT_056 | 00:09:10–00:09:20 | Fourteen from the outside
 
 **Visible cast:** DAN, NINA, MAX
 
@@ -1597,7 +1599,7 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 <a name="shot-057"></a>
 
-### SHOT_057 | 00:14:00–00:14:15 | The slot and the counter
+### SHOT_057 | 00:09:20–00:09:30 | The slot and the counter
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX
 
@@ -1625,7 +1627,7 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 <a name="shot-058"></a>
 
-### SHOT_058 | 00:14:15–00:14:30 | What to ask for
+### SHOT_058 | 00:09:30–00:09:40 | What to ask for
 
 **Visible cast:** MAYA, NINA, LEO, MAX
 
@@ -1653,7 +1655,7 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 <a name="shot-059"></a>
 
-### SHOT_059 | 00:14:30–00:14:45 | Dad's very long introduction
+### SHOT_059 | 00:09:40–00:09:50 | Dad's very long introduction
 
 **Visible cast:** DAN, ELLA, MAX
 
@@ -1681,7 +1683,7 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 <a name="shot-060"></a>
 
-### SHOT_060 | 00:14:45–00:15:00 | A letter, please
+### SHOT_060 | 00:09:50–00:10:00 | A letter, please
 
 **Visible cast:** CLERK, NINA, MAX
 
@@ -1709,7 +1711,7 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 <a name="shot-061"></a>
 
-### SHOT_061 | 00:15:00–00:15:15 | For someone with a new kitchen
+### SHOT_061 | 00:10:00–00:10:10 | For someone with a new kitchen
 
 **Visible cast:** CLERK, MAX, NINA
 
@@ -1737,7 +1739,7 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 <a name="shot-062"></a>
 
-### SHOT_062 | 00:15:15–00:15:30 | Does a hug weigh anything?
+### SHOT_062 | 00:10:10–00:10:20 | Does a hug weigh anything?
 
 **Visible cast:** CLERK, MAYA, MAX
 
@@ -1765,7 +1767,7 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 <a name="shot-063"></a>
 
-### SHOT_063 | 00:15:30–00:15:45 | One stamp for the whole thing
+### SHOT_063 | 00:10:20–00:10:30 | One stamp for the whole thing
 
 **Visible cast:** CLERK, NINA, MAX
 
@@ -1793,7 +1795,7 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 <a name="shot-064"></a>
 
-### SHOT_064 | 00:15:45–00:16:00 | A leaf with somewhere to go
+### SHOT_064 | 00:10:30–00:10:40 | A leaf with somewhere to go
 
 **Visible cast:** CLERK, ELLA, MAX
 
@@ -1821,7 +1823,7 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 <a name="shot-065"></a>
 
-### SHOT_065 | 00:16:00–00:16:15 | The price of a leaf
+### SHOT_065 | 00:10:40–00:10:50 | The price of a leaf
 
 **Visible cast:** CLERK, NINA, MAX
 
@@ -1849,7 +1851,7 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 <a name="shot-066"></a>
 
-### SHOT_066 | 00:16:15–00:16:30 | A corner that stays put
+### SHOT_066 | 00:10:50–00:11:00 | A corner that stays put
 
 **Visible cast:** CLERK, LEO, MAX
 
@@ -1877,7 +1879,7 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 <a name="shot-067"></a>
 
-### SHOT_067 | 00:16:30–00:16:45 | Does it go today?
+### SHOT_067 | 00:11:00–00:11:10 | Does it go today?
 
 **Visible cast:** CLERK, NINA, MAX
 
@@ -1905,7 +1907,7 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 <a name="shot-068"></a>
 
-### SHOT_068 | 00:16:45–00:17:00 | The last little hold
+### SHOT_068 | 00:11:10–00:11:20 | The last little hold
 
 **Visible cast:** DAN, NINA, MAX
 
@@ -1933,7 +1935,7 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 <a name="shot-069"></a>
 
-### SHOT_069 | 00:17:00–00:17:15 | Off to Lantern Court
+### SHOT_069 | 00:11:20–00:11:30 | Off to Lantern Court
 
 **Visible cast:** CLERK, NINA, MAX
 
@@ -1961,7 +1963,7 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 <a name="shot-070"></a>
 
-### SHOT_070 | 00:17:15–00:17:30 | Two empty hands
+### SHOT_070 | 00:11:30–00:11:40 | Two empty hands
 
 **Visible cast:** MAYA, LEO, ELLA, MAX
 
@@ -1989,7 +1991,7 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 <a name="shot-071"></a>
 
-### SHOT_071 | 00:17:30–00:17:45 | One familiar thing
+### SHOT_071 | 00:11:40–00:11:50 | One familiar thing
 
 **Visible cast:** DAN, NINA, LEO
 
@@ -2017,7 +2019,7 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 <a name="shot-072"></a>
 
-### SHOT_072 | 00:17:45–00:18:00 | Waiting for the middle
+### SHOT_072 | 00:11:50–00:12:00 | Waiting for the middle
 
 **Visible cast:** MAYA, NINA, ELLA, MAX
 
@@ -2045,7 +2047,7 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 <a name="shot-073"></a>
 
-### SHOT_073 | 00:18:00–00:18:15 | Several breakfasts later
+### SHOT_073 | 00:12:00–00:12:10 | Several breakfasts later
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX
 
@@ -2073,7 +2075,7 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 <a name="shot-074"></a>
 
-### SHOT_074 | 00:18:15–00:18:30 | Put him where we can hear
+### SHOT_074 | 00:12:10–00:12:20 | Put him where we can hear
 
 **Visible cast:** NINA, LEO, MAX
 
@@ -2101,7 +2103,7 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 <a name="shot-075"></a>
 
-### SHOT_075 | 00:18:30–00:18:45 | A letter with two hands
+### SHOT_075 | 00:12:20–00:12:30 | A letter with two hands
 
 **Visible cast:** NINA, ELLA, MAX
 
@@ -2131,7 +2133,7 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 <a name="shot-076"></a>
 
-### SHOT_076 | 00:18:45–00:19:00 | One pull from far away
+### SHOT_076 | 00:12:30–00:12:40 | One pull from far away
 
 **Visible cast:** MAYA, NINA, MAX
 
@@ -2161,7 +2163,7 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 <a name="shot-077"></a>
 
-### SHOT_077 | 00:19:00–00:19:15 | A debt comes due
+### SHOT_077 | 00:12:40–00:12:50 | A debt comes due
 
 **Visible cast:** NINA, DAN, MAX
 
@@ -2191,7 +2193,7 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 <a name="shot-078"></a>
 
-### SHOT_078 | 00:19:15–00:19:30 | The fridge grows arms
+### SHOT_078 | 00:12:50–00:13:00 | The fridge grows arms
 
 **Visible cast:** NINA, LEO, ELLA, MAX
 
@@ -2223,7 +2225,7 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 <a name="shot-079"></a>
 
-### SHOT_079 | 00:19:30–00:19:45 | A corner finally returned
+### SHOT_079 | 00:13:00–00:13:10 | A corner finally returned
 
 **Visible cast:** NINA, MAYA, DAN, MAX
 
@@ -2251,7 +2253,7 @@ Maya cuts the pale-yellow strip at Leo’s pencil mark. From then on, it stays i
 
 <a name="shot-080"></a>
 
-### SHOT_080 | 00:19:45–00:20:00 | The right address
+### SHOT_080 | 00:13:10–00:13:20 | The right address
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX
 

@@ -1,6 +1,8 @@
 # Episode 03 — Flowers in the Pancakes?! | Kitchen English | Family Comedy
 
-> **Format:** 80 continuous story shots × 15 seconds = **20:00 story runtime**
+> **Format:** 80 continuous story shots × 10 seconds = **13:20 planned story runtime**
+>
+> **Editing plan:** Plan each shot for 10 editorial seconds to reduce filler pauses and unnecessary movements. Preserve natural dialogue delivery and meaningful actions; confirm timing against recorded performances before final editing rather than adding silence or speeding up speech.
 >
 > **Status:** complete written preproduction draft, with picture links mapping 20 four-panel storyboard sheets. Creator approval, individual motion first frames, performed voices and a finished movie remain pending.
 >
@@ -10,12 +12,12 @@ The morning after the fruit picnic, Dan is ready to help with the promised panca
 
 ## Story arc
 
-- **00:00–02:30 — A bouquet for breakfast?** An empty vase reveals Dan's flour/flower misunderstanding; labels and the recipe supply the missing context.
-- **02:30–05:00 — Find the right helpers:** Nina turns the search for a bowl, whisk, spoon, measuring cup, spatula and pan into a practical family job.
-- **05:00–10:00 — One careful batch:** wash hands, level and measure the dry ingredients, prepare the wet mixture, then fold it gently into the blue bowl.
-- **10:00–12:00 — Waiting is part of cooking:** the batter rests for about five story-time minutes while the family sets the table and the adults prepare the stove.
-- **12:00–16:00 — Crooked can still be good:** adults cook six batches of two pancakes, learning a controlled flip and keeping every properly cooked pancake.
-- **16:00–20:00 — Two each, one team:** stove off, twelve pancakes shared between six places, a warm breakfast and an honest, funny ending.
+- **00:00–01:40 — A bouquet for breakfast?** An empty vase reveals Dan's flour/flower misunderstanding; labels and the recipe supply the missing context.
+- **01:40–03:20 — Find the right helpers:** Nina turns the search for a bowl, whisk, spoon, measuring cup, spatula and pan into a practical family job.
+- **03:20–06:40 — One careful batch:** wash hands, level and measure the dry ingredients, prepare the wet mixture, then fold it gently into the blue bowl.
+- **06:40–08:00 — Waiting is part of cooking:** the batter rests for about five story-time minutes while the family sets the table and the adults prepare the stove.
+- **08:00–10:40 — Crooked can still be good:** adults cook six batches of two pancakes, learning a controlled flip and keeping every properly cooked pancake.
+- **10:40–13:20 — Two each, one team:** stove off, twelve pancakes shared between six places, a warm breakfast and an honest, funny ending.
 
 ## Performance and continuity rules
 
@@ -25,11 +27,11 @@ The ONE batch contains 2 cups flour, 2 tablespoons sugar, 1 tablespoon baking po
 
 The clear narrow glass vase stays EMPTY and returns to its decoration shelf in SHOT_010. No flower is picked, brought into the food area or added to any bowl. Flour and flower sound the same in American English; the misunderstanding is resolved through meaning and context, not a fake pronunciation difference.
 
-Handwashing, melting/cooling, the five-minute batter rest and cooking each side need explicit story-time ellipses. A 15-second editorial slot does not imply a full cooking task occurs in fifteen real seconds. Adults handle raw eggs, knives, heat, pan and spatula; children stay in the cool preparation/table areas. Nobody tastes raw flour, eggs or batter. Raw-preparation tools stay separate from clean cooked-food serving utensils. Exact quantities and readable labels use editorial SVGs, not invented image lettering. See [CONTINUITY.md](CONTINUITY.md) for the ledger and [STORYBOARD_INDEX.md](STORYBOARD_INDEX.md) for illustrated coverage and approval status.
+Handwashing, melting/cooling, the five-minute batter rest and cooking each side need explicit story-time ellipses. A 10-second editorial slot does not imply a full cooking task occurs in ten real seconds. Adults handle raw eggs, knives, heat, pan and spatula; children stay in the cool preparation/table areas. Nobody tastes raw flour, eggs or batter. Raw-preparation tools stay separate from clean cooked-food serving utensils. Exact quantities and readable labels use editorial SVGs, not invented image lettering. See [CONTINUITY.md](CONTINUITY.md) for the ledger and [STORYBOARD_INDEX.md](STORYBOARD_INDEX.md) for illustrated coverage and approval status.
 
 ## Timed story shots
 
-### SHOT_001 | 00:00:00–00:00:15 | The breakfast we promised
+### SHOT_001 | 00:00:00–00:00:10 | The breakfast we promised
 
 **Visible cast:** DAN, MAYA, NINA
 
@@ -57,7 +59,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **MAYA:** Start with the recipe, then. The bowl can wait.
 
-### SHOT_002 | 00:00:15–00:00:30 | One word, two pictures
+### SHOT_002 | 00:00:10–00:00:20 | One word, two pictures
 
 **Visible cast:** MAYA, DAN, LEO
 
@@ -85,7 +87,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **DAN:** I'm picturing something with a nice long stem.
 
-### SHOT_003 | 00:00:30–00:00:45 | A vase joins the team
+### SHOT_003 | 00:00:20–00:00:30 | A vase joins the team
 
 **Visible cast:** DAN, ELLA, MAX
 
@@ -113,7 +115,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **ELLA:** Dad, what would a bouquet taste like with syrup?
 
-### SHOT_004 | 00:00:45–00:01:00 | Before anything goes in
+### SHOT_004 | 00:00:30–00:00:40 | Before anything goes in
 
 **Visible cast:** MAYA, DAN, ELLA
 
@@ -141,7 +143,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **DAN:** I did wonder how we'd get petals out of our teeth.
 
-### SHOT_005 | 00:01:00–00:01:15 | A harmless near-miss
+### SHOT_005 | 00:00:40–00:00:50 | A harmless near-miss
 
 **Visible cast:** NINA, MAX, DAN
 
@@ -169,7 +171,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **MAX:** It looks awfully pleased to be off the menu.
 
-### SHOT_006 | 00:01:15–00:01:30 | The clue on the card
+### SHOT_006 | 00:00:50–00:01:00 | The clue on the card
 
 **Visible cast:** MAYA, LEO, DAN
 
@@ -197,7 +199,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **MAYA:** Two cups of the stuff in the pantry, please.
 
-### SHOT_007 | 00:01:30–00:01:45 | An expert asks a better question
+### SHOT_007 | 00:01:00–00:01:10 | An expert asks a better question
 
 **Visible cast:** DAN, MAYA, NINA
 
@@ -225,7 +227,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **DAN:** Okay. Where would you look for the baking kind?
 
-### SHOT_008 | 00:01:45–00:02:00 | A kitchen search
+### SHOT_008 | 00:01:10–00:01:20 | A kitchen search
 
 **Visible cast:** NINA, LEO, ELLA, MAX
 
@@ -253,7 +255,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **MAX:** Can I find something that looks like a pancake tool?
 
-### SHOT_009 | 00:02:00–00:02:15 | The right flour
+### SHOT_009 | 00:01:20–00:01:30 | The right flour
 
 **Visible cast:** MAYA, DAN, LEO
 
@@ -281,7 +283,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **DAN:** Well, I've never seen a flower come in a bag.
 
-### SHOT_010 | 00:02:15–00:02:30 | The vase returns home
+### SHOT_010 | 00:01:30–00:01:40 | The vase returns home
 
 **Visible cast:** DAN, MAX
 
@@ -311,7 +313,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **MAX:** And I don't have to find it a fork.
 
-### SHOT_011 | 00:02:30–00:02:45 | A bowl with room to work
+### SHOT_011 | 00:01:40–00:01:50 | A bowl with room to work
 
 **Visible cast:** MAYA, ELLA, MAX
 
@@ -339,7 +341,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **ELLA:** The yellow one's easier for me to see into.
 
-### SHOT_012 | 00:02:45–00:03:00 | The whisk is not a wish
+### SHOT_012 | 00:01:50–00:02:00 | The whisk is not a wish
 
 **Visible cast:** DAN, MAX, NINA
 
@@ -367,7 +369,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **MAX:** I thought our soup would just fall right through.
 
-### SHOT_013 | 00:03:00–00:03:15 | A spoon is not every measure
+### SHOT_013 | 00:02:00–00:02:10 | A spoon is not every measure
 
 **Visible cast:** MAYA, LEO, ELLA
 
@@ -395,7 +397,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **LEO:** Read the handle. That's where the size is marked.
 
-### SHOT_014 | 00:03:15–00:03:30 | A cup that tells the truth
+### SHOT_014 | 00:02:10–00:02:20 | A cup that tells the truth
 
 **Visible cast:** NINA, ELLA, DAN
 
@@ -423,7 +425,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **ELLA:** And the milk won't slope away from the mark.
 
-### SHOT_015 | 00:03:30–00:03:45 | The flat helper waits
+### SHOT_015 | 00:02:20–00:02:30 | The flat helper waits
 
 **Visible cast:** DAN, LEO, MAX
 
@@ -451,7 +453,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **MAX:** Right. A whisk would leave funny stripes on breakfast.
 
-### SHOT_016 | 00:03:45–00:04:00 | The pan stays with the adults
+### SHOT_016 | 00:02:30–00:02:40 | The pan stays with the adults
 
 **Visible cast:** NINA, MAYA, DAN
 
@@ -479,7 +481,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **NINA:** Let's keep that space open once the pan gets warm.
 
-### SHOT_017 | 00:04:00–00:04:15 | Ingredients, not decorations
+### SHOT_017 | 00:02:40–00:02:50 | Ingredients, not decorations
 
 **Visible cast:** MAYA, LEO, DAN
 
@@ -507,7 +509,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **DAN:** These names look similar when you grab them in a hurry.
 
-### SHOT_018 | 00:04:15–00:04:30 | The cold ingredients
+### SHOT_018 | 00:02:50–00:03:00 | The cold ingredients
 
 **Visible cast:** NINA, ELLA, MAX
 
@@ -535,7 +537,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **ELLA:** Good. I'm hungry enough to stay in this kitchen.
 
-### SHOT_019 | 00:04:30–00:04:45 | Twelve means two each
+### SHOT_019 | 00:03:00–00:03:10 | Twelve means two each
 
 **Visible cast:** LEO, DAN, MAYA
 
@@ -563,7 +565,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **DAN:** Two each sounds much better than one enormous one.
 
-### SHOT_020 | 00:04:45–00:05:00 | Read before reaching
+### SHOT_020 | 00:03:10–00:03:20 | Read before reaching
 
 **Visible cast:** DAN, NINA, ELLA
 
@@ -591,7 +593,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **DAN:** Then my very first ingredient is a little patience.
 
-### SHOT_021 | 00:05:00–00:05:15 | Everyone starts with clean hands
+### SHOT_021 | 00:03:20–00:03:30 | Everyone starts with clean hands
 
 **Visible cast:** MAYA, NINA, DAN, LEO, ELLA, MAX
 
@@ -607,7 +609,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
-**Continuity:** The longer handwashing is an explicit story-time ellipsis, not a fifteen-second demonstration.
+**Continuity:** The longer handwashing is an explicit story-time ellipsis, not a ten-second demonstration.
 
 **Dialogue:**
 
@@ -620,7 +622,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 **MAX:** Mine smell like soap. They're ready for napkin duty.
 
 
-### SHOT_022 | 00:05:15–00:05:30 | Two bowls, two clear jobs
+### SHOT_022 | 00:03:30–00:03:40 | Two bowls, two clear jobs
 
 **Visible cast:** MAYA, LEO, ELLA
 
@@ -649,7 +651,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 **MAYA:** Leo, can you read the first amount for us?
 
 
-### SHOT_023 | 00:05:30–00:05:45 | The first level cup
+### SHOT_023 | 00:03:40–00:03:50 | The first level cup
 
 **Visible cast:** MAYA, LEO, DAN
 
@@ -678,7 +680,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 **DAN:** Flat across, then. No snowy peaks on this breakfast.
 
 
-### SHOT_024 | 00:05:45–00:06:00 | Two cups means stop at two
+### SHOT_024 | 00:03:50–00:04:00 | Two cups means stop at two
 
 **Visible cast:** MAYA, LEO, MAX
 
@@ -707,7 +709,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 **MAX:** I liked counting the mountains better than carrying them.
 
 
-### SHOT_025 | 00:06:00–00:06:15 | Sugar has a smaller measure
+### SHOT_025 | 00:04:00–00:04:10 | Sugar has a smaller measure
 
 **Visible cast:** MAYA, ELLA, DAN
 
@@ -736,7 +738,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 **ELLA:** Two cups of sugar would make an interesting morning.
 
 
-### SHOT_026 | 00:06:15–00:06:30 | A powder with its own name
+### SHOT_026 | 00:04:10–00:04:20 | A powder with its own name
 
 **Visible cast:** NINA, LEO, MAYA
 
@@ -765,7 +767,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 **LEO:** I'll keep my finger on that line while you do.
 
 
-### SHOT_027 | 00:06:30–00:06:45 | One tablespoon, three teaspoons
+### SHOT_027 | 00:04:20–00:04:30 | One tablespoon, three teaspoons
 
 **Visible cast:** MAYA, LEO, DAN
 
@@ -794,7 +796,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 **DAN:** Good. I'd rather count the spoons than start over.
 
 
-### SHOT_028 | 00:06:45–00:07:00 | Half a teaspoon is enough
+### SHOT_028 | 00:04:30–00:04:40 | Half a teaspoon is enough
 
 **Visible cast:** MAYA, MAX, ELLA
 
@@ -823,7 +825,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 **MAX:** Was that tiny scoop really all the salt it needed?
 
 
-### SHOT_029 | 00:07:00–00:07:15 | Four tablespoons, divided first
+### SHOT_029 | 00:04:40–00:04:50 | Four tablespoons, divided first
 
 **Visible cast:** NINA, DAN, LEO
 
@@ -852,7 +854,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 **DAN:** I'll remember. Three go in, one stays back here.
 
 
-### SHOT_030 | 00:07:15–00:07:30 | Melt with an adult at the stove
+### SHOT_030 | 00:04:50–00:05:00 | Melt with an adult at the stove
 
 **Visible cast:** NINA, DAN
 
@@ -881,7 +883,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 **NINA:** And back from the stove till the butter cools.
 
 
-### SHOT_031 | 00:07:30–00:07:45 | Warm is different from hot
+### SHOT_031 | 00:05:00–00:05:10 | Warm is different from hot
 
 **Visible cast:** NINA, MAYA, DAN
 
@@ -910,7 +912,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 **MAYA:** The blue bowl can have our attention in the meantime.
 
 
-### SHOT_032 | 00:07:45–00:08:00 | Two eggs, handled by Nina
+### SHOT_032 | 00:05:10–00:05:20 | Two eggs, handled by Nina
 
 **Visible cast:** NINA, MAYA, MAX
 
@@ -939,7 +941,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 **MAX:** Good. Nobody wants a crunchy bit of shell at breakfast.
 
 
-### SHOT_033 | 00:08:00–00:08:15 | Clean hands after the shells
+### SHOT_033 | 00:05:20–00:05:30 | Clean hands after the shells
 
 **Visible cast:** NINA, DAN
 
@@ -968,7 +970,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 **NINA:** Yes. I'll meet you back here with clean hands.
 
 
-### SHOT_034 | 00:08:15–00:08:30 | Milk has a line to meet
+### SHOT_034 | 00:05:30–00:05:40 | Milk has a line to meet
 
 **Visible cast:** NINA, ELLA, MAYA
 
@@ -997,7 +999,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 **ELLA:** From up high I thought it needed a little more.
 
 
-### SHOT_035 | 00:08:30–00:08:45 | The milk goes back cold
+### SHOT_035 | 00:05:40–00:05:50 | The milk goes back cold
 
 **Visible cast:** MAYA, ELLA, DAN
 
@@ -1026,7 +1028,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 **DAN:** Good thing our fridge is closer than the fruit shop.
 
 
-### SHOT_036 | 00:08:45–00:09:00 | The wet team comes together
+### SHOT_036 | 00:05:50–00:06:00 | The wet team comes together
 
 **Visible cast:** NINA, DAN, LEO
 
@@ -1055,7 +1057,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 **DAN:** I like knowing exactly where the fourth spoonful is.
 
 
-### SHOT_037 | 00:09:00–00:09:15 | Wet joins dry once
+### SHOT_037 | 00:06:00–00:06:10 | Wet joins dry once
 
 **Visible cast:** NINA, MAYA, DAN
 
@@ -1084,7 +1086,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 **NINA:** A steady bowl is all the help I need right now.
 
 
-### SHOT_038 | 00:09:15–00:09:30 | An empty bowl is a useful clue
+### SHOT_038 | 00:06:10–00:06:20 | An empty bowl is a useful clue
 
 **Visible cast:** NINA, MAYA, ELLA
 
@@ -1113,7 +1115,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 **ELLA:** I can see the yellow bowl right down to the bottom.
 
 
-### SHOT_039 | 00:09:30–00:09:45 | Gentle folds, not a race
+### SHOT_039 | 00:06:20–00:06:30 | Gentle folds, not a race
 
 **Visible cast:** DAN, MAYA, LEO
 
@@ -1142,7 +1144,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 **DAN:** You're sure? That last little lump is looking at me.
 
 
-### SHOT_040 | 00:09:45–00:10:00 | Stop when the work is done
+### SHOT_040 | 00:06:30–00:06:40 | Stop when the work is done
 
 **Visible cast:** MAYA, NINA, DAN
 
@@ -1170,7 +1172,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **MAYA:** See how the batter holds together on its own?
 
-### SHOT_041 | 00:10:00–00:10:15 | Give the batter its quiet minutes
+### SHOT_041 | 00:06:40–00:06:50 | Give the batter its quiet minutes
 
 **Visible cast:** NINA, DAN, MAX
 
@@ -1199,7 +1201,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 **MAX:** I can be quiet. Do I have to nap too?
 
 
-### SHOT_042 | 00:10:15–00:10:30 | Six plates find their places
+### SHOT_042 | 00:06:50–00:07:00 | Six plates find their places
 
 **Visible cast:** MAYA, ELLA
 
@@ -1228,7 +1230,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 **MAYA:** It can watch from the shelf while we eat.
 
 
-### SHOT_043 | 00:10:30–00:10:45 | Useful work while we wait
+### SHOT_043 | 00:07:00–00:07:10 | Useful work while we wait
 
 **Visible cast:** LEO, MAX, MAYA
 
@@ -1257,7 +1259,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 **MAX:** Napkins don't need flipping, do they? That's my kind of job.
 
 
-### SHOT_044 | 00:10:45–00:11:00 | The hardest job is not poking it
+### SHOT_044 | 00:07:10–00:07:20 | The hardest job is not poking it
 
 **Visible cast:** DAN, LEO, NINA
 
@@ -1286,7 +1288,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 **DAN:** My hands didn't know they could be useful like this.
 
 
-### SHOT_045 | 00:11:00–00:11:15 | Five minutes later
+### SHOT_045 | 00:07:20–00:07:30 | Five minutes later
 
 **Visible cast:** NINA, MAYA, DAN
 
@@ -1302,7 +1304,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
-**Continuity:** Do not imply five minutes passed in one continuous fifteen-second real-time action. Batter remains the same single batch.
+**Continuity:** Do not imply five minutes passed in one continuous ten-second real-time action. Batter remains the same single batch.
 
 **Dialogue:**
 
@@ -1315,7 +1317,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 **NINA:** Just think how many extra stirs we saved you.
 
 
-### SHOT_046 | 00:11:15–00:11:30 | Heat belongs in the adult zone
+### SHOT_046 | 00:07:30–00:07:40 | Heat belongs in the adult zone
 
 **Visible cast:** NINA, DAN
 
@@ -1344,7 +1346,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 **NINA:** Good. Stay beside me where you can see the edges.
 
 
-### SHOT_047 | 00:11:30–00:11:45 | A little butter across six batches
+### SHOT_047 | 00:07:40–00:07:50 | A little butter across six batches
 
 **Visible cast:** NINA, DAN, MAYA
 
@@ -1373,7 +1375,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 **DAN:** Our pancakes can swim some other morning, then.
 
 
-### SHOT_048 | 00:11:45–00:12:00 | Twelve portions, one bowl
+### SHOT_048 | 00:07:50–00:08:00 | Twelve portions, one bowl
 
 **Visible cast:** NINA, DAN
 
@@ -1402,7 +1404,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 **NINA:** That tray has exactly enough room for breakfast.
 
 
-### SHOT_049 | 00:12:00–00:12:15 | The first pair takes shape
+### SHOT_049 | 00:08:00–00:08:10 | The first pair takes shape
 
 **Visible cast:** DAN, NINA
 
@@ -1431,7 +1433,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 **NINA:** I'll remember. That edge will be easy to recognize.
 
 
-### SHOT_050 | 00:12:15–00:12:30 | Watch the edges, not the clock alone
+### SHOT_050 | 00:08:10–00:08:20 | Watch the edges, not the clock alone
 
 **Visible cast:** NINA, DAN
 
@@ -1460,7 +1462,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 **NINA:** Look there, Dan. The edge is starting to hold.
 
 
-### SHOT_051 | 00:12:30–00:12:45 | A low, careful turn
+### SHOT_051 | 00:08:20–00:08:30 | A low, careful turn
 
 **Visible cast:** NINA, DAN
 
@@ -1489,7 +1491,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 **DAN:** The ceiling already has plenty to do holding up the lights.
 
 
-### SHOT_052 | 00:12:45–00:13:00 | Crooked and properly cooked
+### SHOT_052 | 00:08:30–00:08:40 | Crooked and properly cooked
 
 **Visible cast:** NINA, DAN
 
@@ -1518,7 +1520,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 **NINA:** And you know which one is yours at breakfast.
 
 
-### SHOT_053 | 00:13:00–00:13:15 | A quieter confidence
+### SHOT_053 | 00:08:40–00:08:50 | A quieter confidence
 
 **Visible cast:** DAN, NINA
 
@@ -1547,7 +1549,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 **NINA:** Good. Watch how that first pair lies on the tray.
 
 
-### SHOT_054 | 00:13:15–00:13:30 | The second pair begins
+### SHOT_054 | 00:08:50–00:09:00 | The second pair begins
 
 **Visible cast:** DAN, NINA
 
@@ -1576,7 +1578,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 **NINA:** I can tell. Neither pancake is touching its neighbor.
 
 
-### SHOT_055 | 00:13:30–00:13:45 | Dan follows the useful plan
+### SHOT_055 | 00:09:00–00:09:10 | Dan follows the useful plan
 
 **Visible cast:** DAN, NINA
 
@@ -1605,7 +1607,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 **NINA:** Good. They'll be ready together if we leave them be.
 
 
-### SHOT_056 | 00:13:45–00:14:00 | Four cooked pancakes
+### SHOT_056 | 00:09:10–00:09:20 | Four cooked pancakes
 
 **Visible cast:** NINA, MAYA
 
@@ -1634,7 +1636,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 **NINA:** And Dan can still spot the one he's claimed.
 
 
-### SHOT_057 | 00:14:00–00:14:15 | A third pair, the same method
+### SHOT_057 | 00:09:20–00:09:30 | A third pair, the same method
 
 **Visible cast:** DAN, NINA
 
@@ -1663,7 +1665,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 **NINA:** The next pair gets the same amount of space.
 
 
-### SHOT_058 | 00:14:15–00:14:30 | Halfway is not finished
+### SHOT_058 | 00:09:30–00:09:40 | Halfway is not finished
 
 **Visible cast:** MAYA, LEO, MAX
 
@@ -1692,7 +1694,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 **MAX:** So the people waiting get the same breakfast I get.
 
 
-### SHOT_059 | 00:14:30–00:14:45 | The fourth pair needs the same care
+### SHOT_059 | 00:09:40–00:09:50 | The fourth pair needs the same care
 
 **Visible cast:** DAN, NINA
 
@@ -1721,7 +1723,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 **NINA:** And the crooked one is still easy to find.
 
 
-### SHOT_060 | 00:14:45–00:15:00 | Eight ready, four to go
+### SHOT_060 | 00:09:50–00:10:00 | Eight ready, four to go
 
 **Visible cast:** NINA, MAYA
 
@@ -1749,7 +1751,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **NINA:** Dan may be the only one rooting for that edge.
 
-### SHOT_061 | 00:15:00–00:15:15 | Careful is becoming comfortable
+### SHOT_061 | 00:10:00–00:10:10 | Careful is becoming comfortable
 
 **Visible cast:** DAN, NINA
 
@@ -1778,7 +1780,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 **NINA:** Keep that easy grip. The pancakes seem to like it.
 
 
-### SHOT_062 | 00:15:15–00:15:30 | Two spaces are still waiting
+### SHOT_062 | 00:10:10–00:10:20 | Two spaces are still waiting
 
 **Visible cast:** MAYA, ELLA, LEO
 
@@ -1807,7 +1809,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 **ELLA:** I can hear the pan from my place at the table.
 
 
-### SHOT_063 | 00:15:30–00:15:45 | The last of the one batch
+### SHOT_063 | 00:10:20–00:10:30 | The last of the one batch
 
 **Visible cast:** DAN, NINA
 
@@ -1836,7 +1838,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 **NINA:** Tilt it a little. There's your second little scoop.
 
 
-### SHOT_064 | 00:15:45–00:16:00 | Twelve, cooked all the way through
+### SHOT_064 | 00:10:30–00:10:40 | Twelve, cooked all the way through
 
 **Visible cast:** NINA, DAN, MAYA
 
@@ -1865,7 +1867,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 **DAN:** I know exactly which one I'm looking for on there.
 
 
-### SHOT_065 | 00:16:00–00:16:15 | The last stove job
+### SHOT_065 | 00:10:40–00:10:50 | The last stove job
 
 **Visible cast:** NINA, DAN
 
@@ -1894,7 +1896,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 **NINA:** Yes. We'll leave the handle turned in while it cools.
 
 
-### SHOT_066 | 00:16:15–00:16:30 | Raw tools finish separately
+### SHOT_066 | 00:10:50–00:11:00 | Raw tools finish separately
 
 **Visible cast:** NINA, MAYA, DAN
 
@@ -1923,7 +1925,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 **MAYA:** Good. I'll take the clean ones for serving.
 
 
-### SHOT_067 | 00:16:30–00:16:45 | The first pancake keeps its place
+### SHOT_067 | 00:11:00–00:11:10 | The first pancake keeps its place
 
 **Visible cast:** MAYA, DAN, LEO
 
@@ -1952,7 +1954,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 **DAN:** I wouldn't trade the crooked edge for a round one.
 
 
-### SHOT_068 | 00:16:45–00:17:00 | Carry the food, leave the heat
+### SHOT_068 | 00:11:10–00:11:20 | Carry the food, leave the heat
 
 **Visible cast:** MAYA, NINA, DAN
 
@@ -1981,7 +1983,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 **NINA:** Let's carry the cooked pancakes while they're still warm.
 
 
-### SHOT_069 | 00:17:00–00:17:15 | The adventurous serving
+### SHOT_069 | 00:11:20–00:11:30 | The adventurous serving
 
 **Visible cast:** MAYA, DAN
 
@@ -2010,7 +2012,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 **MAYA:** And a little edge of its own to recognize.
 
 
-### SHOT_070 | 00:17:15–00:17:30 | Two for Leo, two for Ella
+### SHOT_070 | 00:11:30–00:11:40 | Two for Leo, two for Ella
 
 **Visible cast:** NINA, LEO, ELLA
 
@@ -2039,7 +2041,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 **ELLA:** I can see the crooked one from my place.
 
 
-### SHOT_071 | 00:17:30–00:17:45 | The final six find their plates
+### SHOT_071 | 00:11:40–00:11:50 | The final six find their plates
 
 **Visible cast:** NINA, MAYA, MAX
 
@@ -2068,7 +2070,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 **MAX:** Even the adults got two. We counted them right.
 
 
-### SHOT_072 | 00:17:45–00:18:00 | All six, ready together
+### SHOT_072 | 00:11:50–00:12:00 | All six, ready together
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX
 
@@ -2097,7 +2099,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 **ELLA:** Can we find out what they taste like now?
 
 
-### SHOT_073 | 00:18:00–00:18:15 | The first bite was worth waiting for
+### SHOT_073 | 00:12:00–00:12:10 | The first bite was worth waiting for
 
 **Visible cast:** DAN, LEO, MAYA
 
@@ -2126,7 +2128,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 **DAN:** I'm glad we kept it. I'd have missed this bite.
 
 
-### SHOT_074 | 00:18:15–00:18:30 | Ella's careful line mattered
+### SHOT_074 | 00:12:10–00:12:20 | Ella's careful line mattered
 
 **Visible cast:** ELLA, MAYA, NINA
 
@@ -2155,7 +2157,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 **ELLA:** Next time I'll know which spoon to pick up first.
 
 
-### SHOT_075 | 00:18:30–00:18:45 | The empty vase had a quiet morning
+### SHOT_075 | 00:12:20–00:12:30 | The empty vase had a quiet morning
 
 **Visible cast:** MAX, DAN, NINA
 
@@ -2184,7 +2186,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 **MAX:** Maybe it could teach the batter how to nap.
 
 
-### SHOT_076 | 00:18:45–00:19:00 | A useful kind of help
+### SHOT_076 | 00:12:30–00:12:40 | A useful kind of help
 
 **Visible cast:** DAN, MAYA, NINA
 
@@ -2213,7 +2215,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 **DAN:** That's a job I can start before I touch a spoon.
 
 
-### SHOT_077 | 00:19:00–00:19:15 | Pieces and pancakes
+### SHOT_077 | 00:12:40–00:12:50 | Pieces and pancakes
 
 **Visible cast:** MAX, LEO, DAN
 
@@ -2242,7 +2244,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 **MAX:** I think your pancake looks happier that way, Dad.
 
 
-### SHOT_078 | 00:19:15–00:19:30 | Another day, another useful question
+### SHOT_078 | 00:12:50–00:13:00 | Another day, another useful question
 
 **Visible cast:** MAX, MAYA, DAN
 
@@ -2271,7 +2273,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 **MAX:** Can I pick a pair with room for my toes?
 
 
-### SHOT_079 | 00:19:30–00:19:45 | Breakfast finishes together
+### SHOT_079 | 00:13:00–00:13:10 | Breakfast finishes together
 
 **Visible cast:** MAYA, NINA, DAN, ELLA
 
@@ -2300,23 +2302,23 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 **MAYA:** Especially the people who knew where the flour was.
 
 
-### SHOT_080 | 00:19:45–00:20:00 | One breakfast, one family
+### SHOT_080 | 00:13:10–00:13:20 | One breakfast, one family
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX
 
 **Location:** HOME_TABLE
 
-**Camera:** Slow wide pullback on the original six seats, ending within 00:20:00.
+**Camera:** Slow wide pullback on the original six seats, ending within 00:13:20.
 
 **Action:** All six share a relaxed smile around the now-cleared table. Dan rests his empty hands beside his place; Maya and Nina sit comfortably with the children. The empty vase remains far away on its shelf. Add a modest editorial closing overlay only within the final two seconds.
 
 **Opening state:** Meal finished, plates gathered; all six in fixed places; no cooking active.
 
-**End state:** Hold the six-person family tableau through 00:20:00; pancake story complete, with no unresolved cooking or food mistake.
+**End state:** Hold the six-person family tableau through 00:13:20; pancake story complete, with no unresolved cooking or food mistake.
 
 **Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
-**Continuity:** No chorus, recap narrator or practice card. Optional creator-designed practice belongs after the completed twenty-minute story.
+**Continuity:** No chorus, recap narrator or practice card. Optional creator-designed practice belongs after the completed 13-minute-20-second story.
 
 **Dialogue:**
 

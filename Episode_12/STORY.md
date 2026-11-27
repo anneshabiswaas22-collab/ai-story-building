@@ -1,6 +1,8 @@
 # Episode 12 — Dad’s Shoe Is Going to School!
 
-A Maple House English family comedy in 80 consecutive 15-second shots. Story runtime is 20:00.
+A Maple House English family comedy in 80 consecutive 10-second shots. Planned story runtime is 13:20.
+
+**Editing plan:** Plan each shot for 10 editorial seconds to reduce filler pauses and unnecessary movements. Preserve natural dialogue delivery and meaningful actions; confirm timing against recorded performances before final editing rather than adding silence or speeding up speech.
 
 Leo wants two pictures for a page he’s taking to school. The first is easy. At four, he photographed the first bow he ever tied. Dad had to stand very still inside the shoe. For the second, Leo wants all six Brookses in the frame. A yellow cushion gets into the family portrait before he does.
 
@@ -16,19 +18,19 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 | Time | Dramatic action |
 |---|---|
-| 00:00–03:00 | A lopsided bow explains why Dan kept a picture of one shoe. Leo wants to take a new family portrait and be in it himself. |
-| 03:00–06:00 | The family sets up in the garden. Leo takes a test shot. Cousin Cushion makes a splendid first impression. |
-| 06:00–09:00 | A two-second timer captures Leo’s elbow. He asks Dan to save his place and tries the walk at his own pace. |
-| 09:00–12:00 | All six make it into a formal portrait. Max is the only one looking sideways. Leo wants to know why. |
-| 12:00–15:00 | Max asks for help with the loop that keeps slipping out of his shoelace. Ella sees a photograph from the other side of the lawn. |
-| 15:00–17:00 | The shutter clicks before Max finishes his own bow. This time Leo is right beside him to see what happens next. |
-| 17:00–20:00 | The brothers pick the picture that goes beside Dan’s shoe. Max reserves Leo’s company for tomorrow. |
+| 00:00–02:00 | A lopsided bow explains why Dan kept a picture of one shoe. Leo wants to take a new family portrait and be in it himself. |
+| 02:00–04:00 | The family sets up in the garden. Leo takes a test shot. Cousin Cushion makes a splendid first impression. |
+| 04:00–06:00 | A two-second timer captures Leo’s elbow. He asks Dan to save his place and tries the walk at his own pace. |
+| 06:00–08:00 | All six make it into a formal portrait. Max is the only one looking sideways. Leo wants to know why. |
+| 08:00–10:00 | Max asks for help with the loop that keeps slipping out of his shoelace. Ella sees a photograph from the other side of the lawn. |
+| 10:00–11:20 | The shutter clicks before Max finishes his own bow. This time Leo is right beside him to see what happens next. |
+| 11:20–13:20 | The brothers pick the picture that goes beside Dan’s shoe. Max reserves Leo’s company for tomorrow. |
 
 ## Timed screenplay
 
 <a name="shot-001"></a>
 
-### SHOT_001 | 00:00:00–00:00:15 | Somebody framed a shoe
+### SHOT_001 | 00:00:00–00:00:10 | Somebody framed a shoe
 
 **Visible cast:** DAN, LEO, MAX
 
@@ -56,7 +58,7 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 <a name="shot-002"></a>
 
-### SHOT_002 | 00:00:15–00:00:30 | The part that made the cut
+### SHOT_002 | 00:00:10–00:00:20 | The part that made the cut
 
 **Visible cast:** MAYA, LEO, MAX
 
@@ -84,7 +86,7 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 <a name="shot-003"></a>
 
-### SHOT_003 | 00:00:30–00:00:45 | Of Dad and by Leo
+### SHOT_003 | 00:00:20–00:00:30 | Of Dad and by Leo
 
 **Visible cast:** DAN, LEO, ELLA
 
@@ -112,7 +114,7 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 <a name="shot-004"></a>
 
-### SHOT_004 | 00:00:45–00:01:00 | A rabbit with one good ear
+### SHOT_004 | 00:00:30–00:00:40 | A rabbit with one good ear
 
 **Visible cast:** DAN, MAYA, LEO, MAX
 
@@ -140,7 +142,7 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 <a name="shot-005"></a>
 
-### SHOT_005 | 00:01:00–00:01:15 | A very quiet sock
+### SHOT_005 | 00:00:40–00:00:50 | A very quiet sock
 
 **Visible cast:** NINA, DAN, LEO, MAX
 
@@ -168,7 +170,7 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 <a name="shot-006"></a>
 
-### SHOT_006 | 00:01:15–00:01:30 | The first pocket
+### SHOT_006 | 00:00:50–00:01:00 | The first pocket
 
 **Visible cast:** DAN, LEO, MAYA
 
@@ -196,7 +198,7 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 <a name="shot-007"></a>
 
-### SHOT_007 | 00:01:30–00:01:45 | Tomorrow's page
+### SHOT_007 | 00:01:00–00:01:10 | Tomorrow's page
 
 **Visible cast:** LEO, MAYA, ELLA, MAX
 
@@ -224,7 +226,7 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 <a name="shot-008"></a>
 
-### SHOT_008 | 00:01:45–00:02:00 | The photographer's trick
+### SHOT_008 | 00:01:10–00:01:20 | The photographer's trick
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX
 
@@ -252,7 +254,7 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 <a name="shot-009"></a>
 
-### SHOT_009 | 00:02:00–00:02:15 | Both jobs
+### SHOT_009 | 00:01:20–00:01:30 | Both jobs
 
 **Visible cast:** MAYA, LEO, ELLA
 
@@ -280,7 +282,7 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 <a name="shot-010"></a>
 
-### SHOT_010 | 00:02:15–00:02:30 | The long-arm solution
+### SHOT_010 | 00:01:30–00:01:40 | The long-arm solution
 
 **Visible cast:** DAN, NINA, LEO, MAX
 
@@ -308,7 +310,7 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 <a name="shot-011"></a>
 
-### SHOT_011 | 00:02:30–00:02:45 | A place to come back to
+### SHOT_011 | 00:01:40–00:01:50 | A place to come back to
 
 **Visible cast:** ELLA, LEO, MAX
 
@@ -336,7 +338,7 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 <a name="shot-012"></a>
 
-### SHOT_012 | 00:02:45–00:03:00 | Something that stands on three legs
+### SHOT_012 | 00:01:50–00:02:00 | Something that stands on three legs
 
 **Visible cast:** MAYA, NINA, LEO, MAX
 
@@ -364,7 +366,7 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 <a name="shot-013"></a>
 
-### SHOT_013 | 00:03:00–00:03:15 | Which side of the glass?
+### SHOT_013 | 00:02:00–00:02:10 | Which side of the glass?
 
 **Visible cast:** LEO, ELLA, MAX
 
@@ -392,7 +394,7 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 <a name="shot-014"></a>
 
-### SHOT_014 | 00:03:15–00:03:30 | A spot where eyes can open
+### SHOT_014 | 00:02:10–00:02:20 | A spot where eyes can open
 
 **Visible cast:** DAN, MAYA, LEO
 
@@ -420,7 +422,7 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 <a name="shot-015"></a>
 
-### SHOT_015 | 00:03:30–00:03:45 | Three feet on the lawn
+### SHOT_015 | 00:02:20–00:02:30 | Three feet on the lawn
 
 **Visible cast:** NINA, LEO, ELLA
 
@@ -448,7 +450,7 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 <a name="shot-016"></a>
 
-### SHOT_016 | 00:03:45–00:04:00 | A branch through Dad's head
+### SHOT_016 | 00:02:30–00:02:40 | A branch through Dad's head
 
 **Visible cast:** DAN, MAYA, LEO
 
@@ -476,7 +478,7 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 <a name="shot-017"></a>
 
-### SHOT_017 | 00:04:00–00:04:15 | A gap with a name
+### SHOT_017 | 00:02:40–00:02:50 | A gap with a name
 
 **Visible cast:** DAN, MAYA, NINA, ELLA, MAX, LEO
 
@@ -504,7 +506,7 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 <a name="shot-018"></a>
 
-### SHOT_018 | 00:04:15–00:04:30 | A stand-in with a dent
+### SHOT_018 | 00:02:50–00:03:00 | A stand-in with a dent
 
 **Visible cast:** ELLA, MAX, LEO
 
@@ -532,7 +534,7 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 <a name="shot-019"></a>
 
-### SHOT_019 | 00:04:30–00:04:45 | The first request
+### SHOT_019 | 00:03:00–00:03:10 | The first request
 
 **Visible cast:** DAN, MAYA, NINA, ELLA, MAX, LEO
 
@@ -560,7 +562,7 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 <a name="shot-020"></a>
 
-### SHOT_020 | 00:04:45–00:05:00 | Picture one
+### SHOT_020 | 00:03:10–00:03:20 | Picture one
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX
 
@@ -588,7 +590,7 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 <a name="shot-021"></a>
 
-### SHOT_021 | 00:05:00–00:05:15 | Meet Cousin Cushion
+### SHOT_021 | 00:03:20–00:03:30 | Meet Cousin Cushion
 
 **Visible cast:** DAN, MAX, ELLA, LEO
 
@@ -616,7 +618,7 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 <a name="shot-022"></a>
 
-### SHOT_022 | 00:05:15–00:05:30 | What a camera shows
+### SHOT_022 | 00:03:30–00:03:40 | What a camera shows
 
 **Visible cast:** MAYA, NINA, LEO
 
@@ -644,7 +646,7 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 <a name="shot-023"></a>
 
-### SHOT_023 | 00:05:30–00:05:45 | What the cushion can do
+### SHOT_023 | 00:03:40–00:03:50 | What the cushion can do
 
 **Visible cast:** LEO, MAX, NINA
 
@@ -674,7 +676,7 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 <a name="shot-024"></a>
 
-### SHOT_024 | 00:05:45–00:06:00 | Directions from his own spot
+### SHOT_024 | 00:03:50–00:04:00 | Directions from his own spot
 
 **Visible cast:** MAYA, LEO, ELLA, MAX
 
@@ -702,7 +704,7 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 <a name="shot-025"></a>
 
-### SHOT_025 | 00:06:00–00:06:15 | A clock the size of a pea
+### SHOT_025 | 00:04:00–00:04:10 | A clock the size of a pea
 
 **Visible cast:** LEO, NINA
 
@@ -730,7 +732,7 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 <a name="shot-026"></a>
 
-### SHOT_026 | 00:06:15–00:06:30 | Two steps and a bit
+### SHOT_026 | 00:04:10–00:04:20 | Two steps and a bit
 
 **Visible cast:** LEO, MAYA
 
@@ -758,7 +760,7 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 <a name="shot-027"></a>
 
-### SHOT_027 | 00:06:30–00:06:45 | Leave a lane
+### SHOT_027 | 00:04:20–00:04:30 | Leave a lane
 
 **Visible cast:** DAN, MAYA, NINA, ELLA, MAX
 
@@ -786,7 +788,7 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 <a name="shot-028"></a>
 
-### SHOT_028 | 00:06:45–00:07:00 | Who listens for the click?
+### SHOT_028 | 00:04:30–00:04:40 | Who listens for the click?
 
 **Visible cast:** DAN, NINA, LEO, MAX
 
@@ -814,7 +816,7 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 <a name="shot-029"></a>
 
-### SHOT_029 | 00:07:00–00:07:15 | Picture two
+### SHOT_029 | 00:04:40–00:04:50 | Picture two
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX
 
@@ -842,7 +844,7 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 <a name="shot-030"></a>
 
-### SHOT_030 | 00:07:15–00:07:30 | A perfect pose for nobody
+### SHOT_030 | 00:04:50–00:05:00 | A perfect pose for nobody
 
 **Visible cast:** DAN, LEO, ELLA, MAX
 
@@ -870,7 +872,7 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 <a name="shot-031"></a>
 
-### SHOT_031 | 00:07:30–00:07:45 | A very small portrait of Leo
+### SHOT_031 | 00:05:00–00:05:10 | A very small portrait of Leo
 
 **Visible cast:** MAYA, NINA, LEO, ELLA, MAX
 
@@ -898,7 +900,7 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 <a name="shot-032"></a>
 
-### SHOT_032 | 00:07:45–00:08:00 | No votes from the elbow
+### SHOT_032 | 00:05:10–00:05:20 | No votes from the elbow
 
 **Visible cast:** DAN, NINA, LEO
 
@@ -926,7 +928,7 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 <a name="shot-033"></a>
 
-### SHOT_033 | 00:08:00–00:08:15 | A different kind of help
+### SHOT_033 | 00:05:20–00:05:30 | A different kind of help
 
 **Visible cast:** DAN, MAYA, LEO
 
@@ -954,7 +956,7 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 <a name="shot-034"></a>
 
-### SHOT_034 | 00:08:15–00:08:30 | Ten instead of two
+### SHOT_034 | 00:05:30–00:05:40 | Ten instead of two
 
 **Visible cast:** LEO, MAYA
 
@@ -982,7 +984,7 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 <a name="shot-035"></a>
 
-### SHOT_035 | 00:08:30–00:08:45 | The walk, including the turn
+### SHOT_035 | 00:05:40–00:05:50 | The walk, including the turn
 
 **Visible cast:** MAYA, LEO, MAX
 
@@ -1010,7 +1012,7 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 <a name="shot-036"></a>
 
-### SHOT_036 | 00:08:45–00:09:00 | What to look at
+### SHOT_036 | 00:05:50–00:06:00 | What to look at
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX
 
@@ -1038,7 +1040,7 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 <a name="shot-037"></a>
 
-### SHOT_037 | 00:09:00–00:09:15 | A smile Max can keep
+### SHOT_037 | 00:06:00–00:06:10 | A smile Max can keep
 
 **Visible cast:** ELLA, MAX, NINA
 
@@ -1066,7 +1068,7 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 <a name="shot-038"></a>
 
-### SHOT_038 | 00:09:15–00:09:30 | The family chin
+### SHOT_038 | 00:06:10–00:06:20 | The family chin
 
 **Visible cast:** DAN, MAYA, LEO
 
@@ -1094,7 +1096,7 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 <a name="shot-039"></a>
 
-### SHOT_039 | 00:09:30–00:09:45 | Who calls it?
+### SHOT_039 | 00:06:20–00:06:30 | Who calls it?
 
 **Visible cast:** LEO, ELLA, MAYA, MAX
 
@@ -1122,7 +1124,7 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 <a name="shot-040"></a>
 
-### SHOT_040 | 00:09:45–00:10:00 | One less job to carry
+### SHOT_040 | 00:06:30–00:06:40 | One less job to carry
 
 **Visible cast:** NINA, LEO
 
@@ -1150,7 +1152,7 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 <a name="shot-041"></a>
 
-### SHOT_041 | 00:10:00–00:10:15 | The space stays open
+### SHOT_041 | 00:06:40–00:06:50 | The space stays open
 
 **Visible cast:** DAN, ELLA, MAX
 
@@ -1178,7 +1180,7 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 <a name="shot-042"></a>
 
-### SHOT_042 | 00:10:15–00:10:30 | Picture three
+### SHOT_042 | 00:06:50–00:07:00 | Picture three
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX
 
@@ -1206,7 +1208,7 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 <a name="shot-043"></a>
 
-### SHOT_043 | 00:10:30–00:10:45 | All the air comes out
+### SHOT_043 | 00:07:00–00:07:10 | All the air comes out
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX
 
@@ -1234,7 +1236,7 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 <a name="shot-044"></a>
 
-### SHOT_044 | 00:10:45–00:11:00 | Six actual noses
+### SHOT_044 | 00:07:10–00:07:20 | Six actual noses
 
 **Visible cast:** NINA, LEO, ELLA, MAX
 
@@ -1262,7 +1264,7 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 <a name="shot-045"></a>
 
-### SHOT_045 | 00:11:00–00:11:15 | The look from the dentist
+### SHOT_045 | 00:07:20–00:07:30 | The look from the dentist
 
 **Visible cast:** DAN, MAYA, LEO, ELLA
 
@@ -1290,7 +1292,7 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 <a name="shot-046"></a>
 
-### SHOT_046 | 00:11:15–00:11:30 | Who Max was watching
+### SHOT_046 | 00:07:30–00:07:40 | Who Max was watching
 
 **Visible cast:** NINA, LEO, MAX
 
@@ -1318,7 +1320,7 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 <a name="shot-047"></a>
 
-### SHOT_047 | 00:11:30–00:11:45 | One they could use
+### SHOT_047 | 00:07:40–00:07:50 | One they could use
 
 **Visible cast:** LEO, MAYA, DAN
 
@@ -1346,7 +1348,7 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 <a name="shot-048"></a>
 
-### SHOT_048 | 00:11:45–00:12:00 | A little ear in the grass
+### SHOT_048 | 00:07:50–00:08:00 | A little ear in the grass
 
 **Visible cast:** ELLA, MAX, LEO
 
@@ -1374,7 +1376,7 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 <a name="shot-049"></a>
 
-### SHOT_049 | 00:12:00–00:12:15 | The part under the bow
+### SHOT_049 | 00:08:00–00:08:10 | The part under the bow
 
 **Visible cast:** NINA, LEO, MAX
 
@@ -1404,7 +1406,7 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 <a name="shot-050"></a>
 
-### SHOT_050 | 00:12:15–00:12:30 | Permission to get it wrong
+### SHOT_050 | 00:08:10–00:08:20 | Permission to get it wrong
 
 **Visible cast:** LEO, MAX, ELLA
 
@@ -1432,7 +1434,7 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 <a name="shot-051"></a>
 
-### SHOT_051 | 00:12:30–00:12:45 | Two ends, one loop
+### SHOT_051 | 00:08:20–00:08:30 | Two ends, one loop
 
 **Visible cast:** LEO, MAX
 
@@ -1460,7 +1462,7 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 <a name="shot-052"></a>
 
-### SHOT_052 | 00:12:45–00:13:00 | The escaping ear
+### SHOT_052 | 00:08:30–00:08:40 | The escaping ear
 
 **Visible cast:** ELLA, LEO, MAX
 
@@ -1488,7 +1490,7 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 <a name="shot-053"></a>
 
-### SHOT_053 | 00:13:00–00:13:15 | Whose fingers?
+### SHOT_053 | 00:08:40–00:08:50 | Whose fingers?
 
 **Visible cast:** LEO, MAX, NINA
 
@@ -1516,7 +1518,7 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 <a name="shot-054"></a>
 
-### SHOT_054 | 00:13:15–00:13:30 | Just this bit
+### SHOT_054 | 00:08:50–00:09:00 | Just this bit
 
 **Visible cast:** LEO, MAX, NINA
 
@@ -1544,7 +1546,7 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 <a name="shot-055"></a>
 
-### SHOT_055 | 00:13:30–00:13:45 | A bow that can hear
+### SHOT_055 | 00:09:00–00:09:10 | A bow that can hear
 
 **Visible cast:** DAN, ELLA, LEO, MAX
 
@@ -1572,7 +1574,7 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 <a name="shot-056"></a>
 
-### SHOT_056 | 00:13:45–00:14:00 | An honest credit
+### SHOT_056 | 00:09:10–00:09:20 | An honest credit
 
 **Visible cast:** DAN, MAYA, LEO, MAX
 
@@ -1600,7 +1602,7 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 <a name="shot-057"></a>
 
-### SHOT_057 | 00:14:00–00:14:15 | One more, by myself
+### SHOT_057 | 00:09:20–00:09:30 | One more, by myself
 
 **Visible cast:** LEO, MAX
 
@@ -1628,7 +1630,7 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 <a name="shot-058"></a>
 
-### SHOT_058 | 00:14:15–00:14:30 | What Ella sees
+### SHOT_058 | 00:09:30–00:09:40 | What Ella sees
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX
 
@@ -1656,7 +1658,7 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 <a name="shot-059"></a>
 
-### SHOT_059 | 00:14:30–00:14:45 | There's the picture
+### SHOT_059 | 00:09:40–00:09:50 | There's the picture
 
 **Visible cast:** LEO, ELLA
 
@@ -1684,7 +1686,7 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 <a name="shot-060"></a>
 
-### SHOT_060 | 00:14:45–00:15:00 | Ask the person in the picture
+### SHOT_060 | 00:09:50–00:10:00 | Ask the person in the picture
 
 **Visible cast:** LEO, MAX, NINA
 
@@ -1712,7 +1714,7 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 <a name="shot-061"></a>
 
-### SHOT_061 | 00:15:00–00:15:15 | Make room for a shoe
+### SHOT_061 | 00:10:00–00:10:10 | Make room for a shoe
 
 **Visible cast:** LEO, ELLA, MAYA
 
@@ -1740,7 +1742,7 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 <a name="shot-062"></a>
 
-### SHOT_062 | 00:15:15–00:15:30 | A particular kind of seat
+### SHOT_062 | 00:10:10–00:10:20 | A particular kind of seat
 
 **Visible cast:** DAN, MAYA, NINA, ELLA, MAX
 
@@ -1768,7 +1770,7 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 <a name="shot-063"></a>
 
-### SHOT_063 | 00:15:30–00:15:45 | On Max's time
+### SHOT_063 | 00:10:20–00:10:30 | On Max's time
 
 **Visible cast:** LEO, MAX
 
@@ -1796,7 +1798,7 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 <a name="shot-064"></a>
 
-### SHOT_064 | 00:15:45–00:16:00 | Picture four
+### SHOT_064 | 00:10:30–00:10:40 | Picture four
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX
 
@@ -1824,7 +1826,7 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 <a name="shot-065"></a>
 
-### SHOT_065 | 00:16:00–00:16:15 | After the click
+### SHOT_065 | 00:10:40–00:10:50 | After the click
 
 **Visible cast:** LEO, MAX, ELLA
 
@@ -1852,7 +1854,7 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 <a name="shot-066"></a>
 
-### SHOT_066 | 00:16:15–00:16:30 | Two ears that stay
+### SHOT_066 | 00:10:50–00:11:00 | Two ears that stay
 
 **Visible cast:** DAN, LEO, MAX, NINA
 
@@ -1880,7 +1882,7 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 <a name="shot-067"></a>
 
-### SHOT_067 | 00:16:30–00:16:45 | What the photographer saw
+### SHOT_067 | 00:11:00–00:11:10 | What the photographer saw
 
 **Visible cast:** LEO, MAX, MAYA
 
@@ -1908,7 +1910,7 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 <a name="shot-068"></a>
 
-### SHOT_068 | 00:16:45–00:17:00 | A noise the knot can make
+### SHOT_068 | 00:11:10–00:11:20 | A noise the knot can make
 
 **Visible cast:** DAN, ELLA, MAX, LEO
 
@@ -1936,7 +1938,7 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 <a name="shot-069"></a>
 
-### SHOT_069 | 00:17:00–00:17:15 | The one where we're all looking
+### SHOT_069 | 00:11:20–00:11:30 | The one where we're all looking
 
 **Visible cast:** MAYA, LEO, ELLA
 
@@ -1964,7 +1966,7 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 <a name="shot-070"></a>
 
-### SHOT_070 | 00:17:15–00:17:30 | Leo's empty hands
+### SHOT_070 | 00:11:30–00:11:40 | Leo's empty hands
 
 **Visible cast:** NINA, LEO, MAX
 
@@ -1994,7 +1996,7 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 <a name="shot-071"></a>
 
-### SHOT_071 | 00:17:30–00:17:45 | Folding up the crew
+### SHOT_071 | 00:11:40–00:11:50 | Folding up the crew
 
 **Visible cast:** DAN, NINA, LEO, ELLA, MAX
 
@@ -2022,7 +2024,7 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 <a name="shot-072"></a>
 
-### SHOT_072 | 00:17:45–00:18:00 | One copy
+### SHOT_072 | 00:11:50–00:12:00 | One copy
 
 **Visible cast:** MAYA, NINA, LEO, ELLA
 
@@ -2050,7 +2052,7 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 <a name="shot-073"></a>
 
-### SHOT_073 | 00:18:00–00:18:15 | Toe first
+### SHOT_073 | 00:12:00–00:12:10 | Toe first
 
 **Visible cast:** DAN, MAYA, LEO, MAX
 
@@ -2078,7 +2080,7 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 <a name="shot-074"></a>
 
-### SHOT_074 | 00:18:15–00:18:30 | Now the faces
+### SHOT_074 | 00:12:10–00:12:20 | Now the faces
 
 **Visible cast:** NINA, LEO, MAX
 
@@ -2106,7 +2108,7 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 <a name="shot-075"></a>
 
-### SHOT_075 | 00:18:30–00:18:45 | A yellow cushion comes home
+### SHOT_075 | 00:12:20–00:12:30 | A yellow cushion comes home
 
 **Visible cast:** ELLA, LEO, MAYA
 
@@ -2134,7 +2136,7 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 <a name="shot-076"></a>
 
-### SHOT_076 | 00:18:45–00:19:00 | What belongs on the right
+### SHOT_076 | 00:12:30–00:12:40 | What belongs on the right
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX
 
@@ -2162,7 +2164,7 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 <a name="shot-077"></a>
 
-### SHOT_077 | 00:19:00–00:19:15 | The rest of that old story
+### SHOT_077 | 00:12:40–00:12:50 | The rest of that old story
 
 **Visible cast:** DAN, MAYA, LEO
 
@@ -2190,7 +2192,7 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 <a name="shot-078"></a>
 
-### SHOT_078 | 00:19:15–00:19:30 | Max tries the question
+### SHOT_078 | 00:12:50–00:13:00 | Max tries the question
 
 **Visible cast:** DAN, LEO, ELLA, MAX
 
@@ -2218,7 +2220,7 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 <a name="shot-079"></a>
 
-### SHOT_079 | 00:19:30–00:19:45 | A place in the bag
+### SHOT_079 | 00:13:00–00:13:10 | A place in the bag
 
 **Visible cast:** MAYA, NINA, LEO, MAX
 
@@ -2246,7 +2248,7 @@ The four new pictures are digital. The compact stays attached to the tripod from
 
 <a name="shot-080"></a>
 
-### SHOT_080 | 00:19:45–00:20:00 | A job for the other foot
+### SHOT_080 | 00:13:10–00:13:20 | A job for the other foot
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX
 

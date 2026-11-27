@@ -1,6 +1,8 @@
 # Episode 06 — Dad Said HOT… But Meant WARM! | Restaurant English | Funny Family Dinner
 
-> **Format:** 80 continuous story shots × 15 seconds = **20:00 story runtime**
+> **Format:** 80 continuous story shots × 10 seconds = **13:20 planned story runtime**
+>
+> **Editing plan:** Plan each shot for 10 editorial seconds to reduce filler pauses and unnecessary movements. Preserve natural dialogue delivery and meaningful actions; confirm timing against recorded performances before final editing rather than adding silence or speeding up speech.
 >
 > **Status:** written and illustrated preproduction draft. Creator approval, individual motion first frames, performed voices and video remain pending.
 >
@@ -10,12 +12,12 @@ After their park outing, the Brooks family has a relaxed restaurant dinner. Dan 
 
 ## Story arc
 
-- **00:00–02:00:** plan dinner and an all-in $80 limit; Dan rehearses too much.
-- **02:00–04:00:** arrive together, keep six fixed places, ask simply for water.
-- **04:00–09:00:** choose six mains; distinguish warm temperature from spicy flavor before submitting one ticket.
-- **09:00–12:00:** give cooking real time, receive the correct dishes and check comfortable temperatures.
-- **12:00–16:00:** enjoy dinner, pack only Max's existing remainder, ask for the check.
-- **16:00–20:00:** verify $63.80, pay $80, receive $16.20, leave $10 tip, retain $6.20 and depart together.
+- **00:00–01:20:** plan dinner and an all-in $80 limit; Dan rehearses too much.
+- **01:20–02:40:** arrive together, keep six fixed places, ask simply for water.
+- **02:40–06:00:** choose six mains; distinguish warm temperature from spicy flavor before submitting one ticket.
+- **06:00–08:00:** give cooking real time, receive the correct dishes and check comfortable temperatures.
+- **08:00–10:40:** enjoy dinner, pack only Max's existing remainder, ask for the check.
+- **10:40–13:20:** verify $63.80, pay $80, receive $16.20, leave $10 tip, retain $6.20 and depart together.
 
 ## Performance and continuity rules
 
@@ -27,7 +29,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 ## Timed story shots
 
-### SHOT_001 | 00:00:00–00:00:15 | A dinner invitation
+### SHOT_001 | 00:00:00–00:00:10 | A dinner invitation
 
 **Visible cast:** DAN, MAYA, NINA
 
@@ -55,7 +57,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **MAYA:** Will you be prepared to let us order for ourselves?
 
-### SHOT_002 | 00:00:15–00:00:30 | A place for six
+### SHOT_002 | 00:00:10–00:00:20 | A place for six
 
 **Visible cast:** LEO, ELLA, MAX, NINA
 
@@ -83,7 +85,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **MAX:** I want a seat where I can hear everybody order.
 
-### SHOT_003 | 00:00:30–00:00:45 | The speech in his pocket
+### SHOT_003 | 00:00:20–00:00:30 | The speech in his pocket
 
 **Visible cast:** DAN, MAYA
 
@@ -111,7 +113,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **MAYA:** Try that sentence in your regular dinner voice, Dan.
 
-### SHOT_004 | 00:00:45–00:01:00 | What Max wants to know
+### SHOT_004 | 00:00:30–00:00:40 | What Max wants to know
 
 **Visible cast:** MAX, NINA, DAN
 
@@ -139,7 +141,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **MAX:** I want to know before my tongue finds out.
 
-### SHOT_005 | 00:01:00–00:01:15 | Room in the dinner budget
+### SHOT_005 | 00:00:40–00:00:50 | Room in the dinner budget
 
 **Visible cast:** MAYA, DAN, LEO
 
@@ -167,7 +169,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **LEO:** That's my favorite part to know before we sit down.
 
-### SHOT_006 | 00:01:15–00:01:30 | No menu in the imagination
+### SHOT_006 | 00:00:50–00:01:00 | No menu in the imagination
 
 **Visible cast:** ELLA, DAN, MAYA
 
@@ -195,7 +197,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **DAN:** Fair. My eyes can order all the imaginary dessert they like.
 
-### SHOT_007 | 00:01:30–00:01:45 | Everyone brings a question
+### SHOT_007 | 00:01:00–00:01:10 | Everyone brings a question
 
 **Visible cast:** LEO, ELLA, MAX, NINA
 
@@ -223,7 +225,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **MAX:** I know that one already. Can I try it there?
 
-### SHOT_008 | 00:01:45–00:02:00 | The short version
+### SHOT_008 | 00:01:10–00:01:20 | The short version
 
 **Visible cast:** DAN, MAYA, NINA
 
@@ -251,7 +253,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **NINA:** Let's see if dinner fits through with you.
 
-### SHOT_009 | 00:02:00–00:02:15 | A welcoming doorway
+### SHOT_009 | 00:01:20–00:01:30 | A welcoming doorway
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX
 
@@ -279,7 +281,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **LEO:** So far, nobody's needed a dictionary to understand Dad.
 
-### SHOT_010 | 00:02:15–00:02:30 | A table please
+### SHOT_010 | 00:01:30–00:01:40 | A table please
 
 **Visible cast:** DAN, MAYA, NINA
 
@@ -309,7 +311,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **DAN:** The window sounds good. We'll all be able to see.
 
-### SHOT_011 | 00:02:30–00:02:45 | The aisle is a working path
+### SHOT_011 | 00:01:40–00:01:50 | The aisle is a working path
 
 **Visible cast:** MAYA, LEO, ELLA, MAX
 
@@ -337,7 +339,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **LEO:** I'll tuck in here. Ella, there's room for you now.
 
-### SHOT_012 | 00:02:45–00:03:00 | Six places in order
+### SHOT_012 | 00:01:50–00:02:00 | Six places in order
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX
 
@@ -365,7 +367,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **NINA:** Good. We can hear one another from both sides.
 
-### SHOT_013 | 00:03:00–00:03:15 | Menus arrive before meals
+### SHOT_013 | 00:02:00–00:02:10 | Menus arrive before meals
 
 **Visible cast:** MAYA, NINA, DAN
 
@@ -395,7 +397,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **DAN:** I'll start with the part that actually looks like dinner.
 
-### SHOT_014 | 00:03:15–00:03:30 | Not a book to finish
+### SHOT_014 | 00:02:10–00:02:20 | Not a book to finish
 
 **Visible cast:** MAX, NINA, LEO
 
@@ -423,7 +425,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **MAX:** A book where I get to choose the ending!
 
-### SHOT_015 | 00:03:30–00:03:45 | Water without a speech
+### SHOT_015 | 00:02:20–00:02:30 | Water without a speech
 
 **Visible cast:** DAN, MAX, NINA
 
@@ -453,7 +455,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **MAX:** Good. My mouth was dry just listening to yours.
 
-### SHOT_016 | 00:03:45–00:04:00 | The water landing
+### SHOT_016 | 00:02:30–00:02:40 | The water landing
 
 **Visible cast:** MAYA, NINA, MAX
 
@@ -483,7 +485,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **NINA:** Leave it there, Max. There's room beside your menu.
 
-### SHOT_017 | 00:04:00–00:04:15 | A menu has neighborhoods
+### SHOT_017 | 00:02:40–00:02:50 | A menu has neighborhoods
 
 **Visible cast:** LEO, ELLA, DAN
 
@@ -511,7 +513,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **ELLA:** Great. I don't think my stomach wants an introduction.
 
-### SHOT_018 | 00:04:15–00:04:30 | Maya chooses vegetables
+### SHOT_018 | 00:02:50–00:03:00 | Maya chooses vegetables
 
 **Visible cast:** MAYA, ELLA, NINA
 
@@ -539,7 +541,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **NINA:** I can see why you picked that one, Maya.
 
-### SHOT_019 | 00:04:30–00:04:45 | Nina knows her dinner
+### SHOT_019 | 00:03:00–00:03:10 | Nina knows her dinner
 
 **Visible cast:** NINA, MAX, DAN
 
@@ -567,7 +569,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **DAN:** Good. I was about to count the rice twice.
 
-### SHOT_020 | 00:04:45–00:05:00 | Leo's comfortable choice
+### SHOT_020 | 00:03:10–00:03:20 | Leo's comfortable choice
 
 **Visible cast:** LEO, MAYA, DAN
 
@@ -595,7 +597,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **LEO:** I'd like to do the asking for my own sandwich.
 
-### SHOT_021 | 00:05:00–00:05:15 | Ella asks what comes with it
+### SHOT_021 | 00:03:20–00:03:30 | Ella asks what comes with it
 
 **Visible cast:** ELLA, NINA, MAYA
 
@@ -625,7 +627,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **NINA:** Good question, Ella. Now you know exactly what comes with it.
 
-### SHOT_022 | 00:05:15–00:05:30 | Max chooses his size
+### SHOT_022 | 00:03:30–00:03:40 | Max chooses his size
 
 **Visible cast:** MAX, NINA, LEO
 
@@ -653,7 +655,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **LEO:** We can spot yours next to Nina's when it comes.
 
-### SHOT_023 | 00:05:30–00:05:45 | Dan finds his soup
+### SHOT_023 | 00:03:40–00:03:50 | Dan finds his soup
 
 **Visible cast:** DAN, MAYA, LEO
 
@@ -681,7 +683,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **LEO:** Hot like a pepper, or hot like the pan?
 
-### SHOT_024 | 00:05:45–00:06:00 | One word makes two paths
+### SHOT_024 | 00:03:50–00:04:00 | One word makes two paths
 
 **Visible cast:** DAN, NINA, MAX
 
@@ -711,7 +713,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **NINA:** Listen to the question, Dan. Which did you mean?
 
-### SHOT_025 | 00:06:00–00:06:15 | The little pepper picture
+### SHOT_025 | 00:04:00–00:04:10 | The little pepper picture
 
 **Visible cast:** DAN, LEO, MAYA
 
@@ -739,7 +741,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **DAN:** Right. My tongue had one temperature in mind.
 
-### SHOT_026 | 00:06:15–00:06:30 | The water is not a rescue
+### SHOT_026 | 00:04:10–00:04:20 | The water is not a rescue
 
 **Visible cast:** MAX, NINA, DAN
 
@@ -767,7 +769,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **MAX:** I'll save my water for drinking with my dinner.
 
-### SHOT_027 | 00:06:30–00:06:45 | A smaller and clearer request
+### SHOT_027 | 00:04:20–00:04:30 | A smaller and clearer request
 
 **Visible cast:** DAN, MAYA, NINA
 
@@ -797,7 +799,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **DAN:** Yes. That sounds like the soup I came here for.
 
-### SHOT_028 | 00:06:45–00:07:00 | A change before the kitchen
+### SHOT_028 | 00:04:30–00:04:40 | A change before the kitchen
 
 **Visible cast:** DAN, LEO, MAYA
 
@@ -827,7 +829,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **MAYA:** That's one note I'm glad we checked in time.
 
-### SHOT_029 | 00:07:00–00:07:15 | All six dishes in one place
+### SHOT_029 | 00:04:40–00:04:50 | All six dishes in one place
 
 **Visible cast:** MAYA, NINA, DAN
 
@@ -855,7 +857,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **NINA:** Six mains, then. Let's see how that adds up.
 
-### SHOT_030 | 00:07:15–00:07:30 | Prices before promises
+### SHOT_030 | 00:04:50–00:05:00 | Prices before promises
 
 **Visible cast:** LEO, DAN, MAYA
 
@@ -883,7 +885,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **LEO:** Let's get that part right before the check comes.
 
-### SHOT_031 | 00:07:30–00:07:45 | The posted tax
+### SHOT_031 | 00:05:00–00:05:10 | The posted tax
 
 **Visible cast:** NINA, LEO, DAN
 
@@ -911,7 +913,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **NINA:** Good. The tip still needs its own place in there.
 
-### SHOT_032 | 00:07:45–00:08:00 | Leave room for thanks
+### SHOT_032 | 00:05:10–00:05:20 | Leave room for thanks
 
 **Visible cast:** MAYA, DAN, NINA
 
@@ -939,7 +941,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **MAYA:** Good. We can enjoy dinner without guessing at the end.
 
-### SHOT_033 | 00:08:00–00:08:15 | Everyone says their own order
+### SHOT_033 | 00:05:20–00:05:30 | Everyone says their own order
 
 **Visible cast:** LEO, ELLA, MAX
 
@@ -967,7 +969,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **ELLA:** Good thing we each got to say our own part.
 
-### SHOT_034 | 00:08:15–00:08:30 | Both partners finish the order
+### SHOT_034 | 00:05:30–00:05:40 | Both partners finish the order
 
 **Visible cast:** MAYA, NINA, DAN
 
@@ -995,7 +997,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **MAYA:** That's all three of us. Thanks for checking the soup.
 
-### SHOT_035 | 00:08:30–00:08:45 | Ask about needs before cooking
+### SHOT_035 | 00:05:40–00:05:50 | Ask about needs before cooking
 
 **Visible cast:** MAYA, NINA, DAN
 
@@ -1025,7 +1027,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **DAN:** Just the soup the way we agreed, please.
 
-### SHOT_036 | 00:08:45–00:09:00 | One ticket leaves the table
+### SHOT_036 | 00:05:50–00:06:00 | One ticket leaves the table
 
 **Visible cast:** DAN, MAYA, NINA
 
@@ -1055,7 +1057,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **SERVER:** Yes, exactly as you asked.
 
-### SHOT_037 | 00:09:00–00:09:15 | A wait with an ending
+### SHOT_037 | 00:06:00–00:06:10 | A wait with an ending
 
 **Visible cast:** DAN, MAX, NINA
 
@@ -1083,7 +1085,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **MAX:** Good. I think my fork is less patient than the batter.
 
-### SHOT_038 | 00:09:15–00:09:30 | The fork is not a microphone
+### SHOT_038 | 00:06:10–00:06:20 | The fork is not a microphone
 
 **Visible cast:** ELLA, LEO, MAYA
 
@@ -1111,7 +1113,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **ELLA:** Listen. It's doing a very good job of waiting.
 
-### SHOT_039 | 00:09:30–00:09:45 | Two meanings can share a word
+### SHOT_039 | 00:06:20–00:06:30 | Two meanings can share a word
 
 **Visible cast:** MAX, DAN, NINA
 
@@ -1139,7 +1141,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **MAX:** So I'll still give mine a minute if it steams.
 
-### SHOT_040 | 00:09:45–00:10:00 | A useful memory of flour
+### SHOT_040 | 00:06:30–00:06:40 | A useful memory of flour
 
 **Visible cast:** DAN, MAYA, ELLA
 
@@ -1167,7 +1169,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **DAN:** One little question is cheaper than another whole dinner.
 
-### SHOT_041 | 00:10:00–00:10:15 | An appetizer stays on the menu
+### SHOT_041 | 00:06:40–00:06:50 | An appetizer stays on the menu
 
 **Visible cast:** LEO, MAX, NINA
 
@@ -1195,7 +1197,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **MAX:** Good. My smaller plate is a whole dinner for me.
 
-### SHOT_042 | 00:10:15–00:10:30 | A very ordinary request
+### SHOT_042 | 00:06:50–00:07:00 | A very ordinary request
 
 **Visible cast:** DAN, MAYA, NINA
 
@@ -1223,7 +1225,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **NINA:** Your glass appreciates a little peace and quiet too.
 
-### SHOT_043 | 00:10:30–00:10:45 | Clear space for the plates
+### SHOT_043 | 00:07:00–00:07:10 | Clear space for the plates
 
 **Visible cast:** MAYA, ELLA, MAX
 
@@ -1251,7 +1253,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **ELLA:** I'll keep my elbows in. There's room on this side.
 
-### SHOT_044 | 00:10:45–00:11:00 | The first two meals arrive
+### SHOT_044 | 00:07:10–00:07:20 | The first two meals arrive
 
 **Visible cast:** MAYA, NINA, DAN
 
@@ -1281,7 +1283,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **DAN:** That chicken looks like the size Nina asked for.
 
-### SHOT_045 | 00:11:00–00:11:15 | Two children recognize dinner
+### SHOT_045 | 00:07:20–00:07:30 | Two children recognize dinner
 
 **Visible cast:** LEO, ELLA, MAYA
 
@@ -1309,7 +1311,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **ELLA:** The middle still looks steamy. I'll give it time.
 
-### SHOT_046 | 00:11:15–00:11:30 | A small plate and a warm bowl
+### SHOT_046 | 00:07:30–00:07:40 | A small plate and a warm bowl
 
 **Visible cast:** DAN, MAX, NINA
 
@@ -1339,7 +1341,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **MAX:** I see mine. The chicken's on the smaller plate.
 
-### SHOT_047 | 00:11:30–00:11:45 | Six choices meet the table
+### SHOT_047 | 00:07:40–00:07:50 | Six choices meet the table
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX
 
@@ -1367,7 +1369,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **LEO:** And nobody had to send a single dinner back.
 
-### SHOT_048 | 00:11:45–00:12:00 | Warm is checked, not guessed
+### SHOT_048 | 00:07:50–00:08:00 | Warm is checked, not guessed
 
 **Visible cast:** DAN, NINA, MAX
 
@@ -1395,7 +1397,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **DAN:** Good point. Those are two different checks for my soup.
 
-### SHOT_049 | 00:12:00–00:12:15 | The soup gets its sentence
+### SHOT_049 | 00:08:00–00:08:10 | The soup gets its sentence
 
 **Visible cast:** DAN, MAYA, LEO
 
@@ -1423,7 +1425,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **DAN:** A word can have a very tiring day at dinner.
 
-### SHOT_050 | 00:12:15–00:12:30 | Not a hot-food competition
+### SHOT_050 | 00:08:10–00:08:20 | Not a hot-food competition
 
 **Visible cast:** ELLA, MAYA, NINA
 
@@ -1451,7 +1453,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **ELLA:** Then the center of my potato can take its time.
 
-### SHOT_051 | 00:12:30–00:12:45 | The napkin earns its place
+### SHOT_051 | 00:08:20–00:08:30 | The napkin earns its place
 
 **Visible cast:** MAX, NINA, DAN
 
@@ -1479,7 +1481,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **MAX:** I bet my napkin never rehearsed a single word.
 
-### SHOT_052 | 00:12:45–00:13:00 | A fork and a choice
+### SHOT_052 | 00:08:30–00:08:40 | A fork and a choice
 
 **Visible cast:** LEO, MAYA, ELLA
 
@@ -1507,7 +1509,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **LEO:** It's nice when the person taking the order hears you.
 
-### SHOT_053 | 00:13:00–00:13:15 | Two meanings, no lecture
+### SHOT_053 | 00:08:40–00:08:50 | Two meanings, no lecture
 
 **Visible cast:** DAN, MAYA, NINA
 
@@ -1535,7 +1537,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **DAN:** I'd have got something very different without that question.
 
-### SHOT_054 | 00:13:15–00:13:30 | The quiet speech finally rests
+### SHOT_054 | 00:08:50–00:09:00 | The quiet speech finally rests
 
 **Visible cast:** DAN, ELLA, MAX
 
@@ -1563,7 +1565,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **ELLA:** Good. It can listen while we finish ours.
 
-### SHOT_055 | 00:13:30–00:13:45 | The window has other plans
+### SHOT_055 | 00:09:00–00:09:10 | The window has other plans
 
 **Visible cast:** MAYA, NINA, LEO
 
@@ -1591,7 +1593,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **LEO:** Deal. The books will still be there after dinner.
 
-### SHOT_056 | 00:13:45–00:14:00 | Water belongs to its place
+### SHOT_056 | 00:09:10–00:09:20 | Water belongs to its place
 
 **Visible cast:** MAX, NINA, ELLA
 
@@ -1619,7 +1621,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **MAX:** Right beside my plate, where my elbow can miss it.
 
-### SHOT_057 | 00:14:00–00:14:15 | A pause in the middle
+### SHOT_057 | 00:09:20–00:09:30 | A pause in the middle
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX
 
@@ -1647,7 +1649,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **DAN:** Saving a little sounds better than eating past full.
 
-### SHOT_058 | 00:14:15–00:14:30 | A box for what already exists
+### SHOT_058 | 00:09:30–00:09:40 | A box for what already exists
 
 **Visible cast:** MAX, NINA, DAN
 
@@ -1677,7 +1679,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **MAX:** Good. I'd like my own dinner again another day.
 
-### SHOT_059 | 00:14:30–00:14:45 | The box arrives empty
+### SHOT_059 | 00:09:40–00:09:50 | The box arrives empty
 
 **Visible cast:** NINA, MAX, MAYA
 
@@ -1707,7 +1709,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **NINA:** I'll hold it right beside your plate while we pack.
 
-### SHOT_060 | 00:14:45–00:15:00 | One portion changes containers
+### SHOT_060 | 00:09:50–00:10:00 | One portion changes containers
 
 **Visible cast:** NINA, MAX, MAYA
 
@@ -1735,7 +1737,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **NINA:** Exactly. You'll be able to recognize your own supper.
 
-### SHOT_061 | 00:15:00–00:15:15 | The box has a destination
+### SHOT_061 | 00:10:00–00:10:10 | The box has a destination
 
 **Visible cast:** NINA, DAN, MAX
 
@@ -1763,7 +1765,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **NINA:** And it'll have somebody beside it all the way home.
 
-### SHOT_062 | 00:15:15–00:15:30 | Finish without a disappearing dish
+### SHOT_062 | 00:10:10–00:10:20 | Finish without a disappearing dish
 
 **Visible cast:** MAYA, LEO, ELLA
 
@@ -1791,7 +1793,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **ELLA:** I'm ready. My fork can take the evening off.
 
-### SHOT_063 | 00:15:30–00:15:45 | Dessert can remain a possibility
+### SHOT_063 | 00:10:20–00:10:30 | Dessert can remain a possibility
 
 **Visible cast:** DAN, MAYA, NINA
 
@@ -1819,7 +1821,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **DAN:** My imaginary dessert didn't cost the budget a cent.
 
-### SHOT_064 | 00:15:45–00:16:00 | Could we have the check
+### SHOT_064 | 00:10:30–00:10:40 | Could we have the check
 
 **Visible cast:** DAN, MAYA, NINA
 
@@ -1849,7 +1851,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **NINA:** Let's look it over together when it gets here.
 
-### SHOT_065 | 00:16:00–00:16:15 | A clear table keeps one box
+### SHOT_065 | 00:10:40–00:10:50 | A clear table keeps one box
 
 **Visible cast:** MAYA, NINA, DAN
 
@@ -1879,7 +1881,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **NINA:** Yes, the little chicken dinner is traveling with me.
 
-### SHOT_066 | 00:16:15–00:16:30 | The bill is smaller than the speech
+### SHOT_066 | 00:10:50–00:11:00 | The bill is smaller than the speech
 
 **Visible cast:** DAN, LEO, MAYA
 
@@ -1911,7 +1913,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **LEO:** I'll start at the top of the check.
 
-### SHOT_067 | 00:16:30–00:16:45 | Six lines mean six meals
+### SHOT_067 | 00:11:00–00:11:10 | Six lines mean six meals
 
 **Visible cast:** LEO, DAN, MAYA
 
@@ -1939,7 +1941,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **LEO:** Good. Now let's check what happens after the subtotal.
 
-### SHOT_068 | 00:16:45–00:17:00 | Tax stays separate
+### SHOT_068 | 00:11:10–00:11:20 | Tax stays separate
 
 **Visible cast:** NINA, LEO, DAN
 
@@ -1967,7 +1969,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **NINA:** Right. We can still see both amounts separately.
 
-### SHOT_069 | 00:17:00–00:17:15 | A choice for the end
+### SHOT_069 | 00:11:20–00:11:30 | A choice for the end
 
 **Visible cast:** MAYA, DAN, NINA
 
@@ -1995,7 +1997,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **MAYA:** Good. I want to thank them for asking about the soup.
 
-### SHOT_070 | 00:17:15–00:17:30 | Wallet on the right
+### SHOT_070 | 00:11:30–00:11:40 | Wallet on the right
 
 **Visible cast:** DAN, MAX, MAYA
 
@@ -2023,7 +2025,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **DAN:** It hasn't earned a tip for all that talking.
 
-### SHOT_071 | 00:17:30–00:17:45 | Ask where to pay
+### SHOT_071 | 00:11:40–00:11:50 | Ask where to pay
 
 **Visible cast:** DAN, NINA, MAYA
 
@@ -2053,7 +2055,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **DAN:** I'll take the check over. You keep the box here.
 
-### SHOT_072 | 00:17:45–00:18:00 | One person uses the clear aisle
+### SHOT_072 | 00:11:50–00:12:00 | One person uses the clear aisle
 
 **Visible cast:** DAN, MAYA, NINA
 
@@ -2081,7 +2083,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **MAYA:** Good. We'll have everything together when you come back.
 
-### SHOT_073 | 00:18:00–00:18:15 | Eighty to settle the meal
+### SHOT_073 | 00:12:00–00:12:10 | Eighty to settle the meal
 
 **Visible cast:** DAN
 
@@ -2111,7 +2113,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **SERVER:** Yes. The check itself was sixty-three eighty.
 
-### SHOT_074 | 00:18:15–00:18:30 | The first change is not the remainder
+### SHOT_074 | 00:12:10–00:12:20 | The first change is not the remainder
 
 **Visible cast:** DAN
 
@@ -2143,7 +2145,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **DAN:** Good. I'll keep the tip separate.
 
-### SHOT_075 | 00:18:30–00:18:45 | Ten dollars for the service
+### SHOT_075 | 00:12:20–00:12:30 | Ten dollars for the service
 
 **Visible cast:** DAN
 
@@ -2173,7 +2175,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **SERVER:** I'm glad the soup came the way you wanted.
 
-### SHOT_076 | 00:18:45–00:19:00 | Receipt in its own place
+### SHOT_076 | 00:12:30–00:12:40 | Receipt in its own place
 
 **Visible cast:** DAN
 
@@ -2203,7 +2205,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **SERVER:** Exactly. That's your receipt to take home.
 
-### SHOT_077 | 00:19:00–00:19:15 | The whole family leaves together
+### SHOT_077 | 00:12:40–00:12:50 | The whole family leaves together
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX
 
@@ -2231,7 +2233,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **LEO:** Good. The little chicken dinner is coming home with us.
 
-### SHOT_078 | 00:19:15–00:19:30 | The budget has an honest ending
+### SHOT_078 | 00:12:50–00:13:00 | The budget has an honest ending
 
 **Visible cast:** DAN, LEO, MAYA
 
@@ -2259,7 +2261,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **DAN:** Good thing we counted from the eighty we actually brought.
 
-### SHOT_079 | 00:19:30–00:19:45 | A sentence worth keeping
+### SHOT_079 | 00:13:00–00:13:10 | A sentence worth keeping
 
 **Visible cast:** MAX, NINA, DAN
 
@@ -2287,7 +2289,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **MAX:** Good. At least the box doesn't need a menu.
 
-### SHOT_080 | 00:19:45–00:20:00 | A warm evening, clearly said
+### SHOT_080 | 00:13:10–00:13:20 | A warm evening, clearly said
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX
 
@@ -2295,7 +2297,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **Camera:** Wide pullback from open doorway with all six leaving together.
 
-**Action:** All six exchange a final smile before leaving the doorway together. Dan holds the door; Nina carries the one closed box. Closing overlay occupies only the final two seconds, ending at twenty minutes.
+**Action:** All six exchange a final smile before leaving the doorway together. Dan holds the door; Nina carries the one closed box. Closing overlay occupies only the final two seconds, ending at 13:20.
 
 **Opening state:** Dinner and payment complete; family together at entrance; no one eating while walking.
 

@@ -1,6 +1,8 @@
 # Episode 05 — The Picnic Is on the WRONG Bench! | Park English | Family Adventure: 80 story video prompts
 
-Written and still-image preproduction draft. Each slot is a planned 15-second editorial shot, 16:9, original warm stylized 3D and natural General American family conversation. No video or voice has been generated. Optional creator-authored practice belongs after the story. Creator visual approval and individual motion first frames remain pending.
+Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start dialogue promptly, let meaningful actions and listener reactions occur during speech, and avoid filler silence, prolonged holds or unnatural motion. Speaker windows below are provisional editorial targets, not instructions to rush speech; verify against natural recorded performances. If a line cannot fit naturally, flag the shot for editorial review rather than truncating dialogue or artificially speeding it up.
+
+Written and still-image preproduction draft. Each slot is a planned 10-second editorial shot, 16:9, original warm stylized 3D and natural General American family conversation. No video or voice has been generated. Optional creator-authored practice belongs after the story. Creator visual approval and individual motion first frames remain pending.
 
 Use the unchanged [cast previews](assets/characters/), [continuity ledger](CONTINUITY.md) and [scene plan](SCENE_REFERENCE_PLAN.md). Restore original owner-controlled identity/home PNG masters before separately authorized motion production. No replacement faces, extra family members, wardrobe changes, mirrored watch/pocket sides, watermarks, baked-in subtitles or audience drills. Readable prop text uses the exact [SVG overlays](assets/overlays/).
 
@@ -11,9 +13,9 @@ Use the unchanged [cast previews](assets/characters/), [continuity ledger](CONTI
 - Six sandwiches are served once, one per person.
 - Both child subgroups remain with adults on mutually visible safe paths.
 
-Edit STORY.md first; sync.py regenerates this written draft and estimated subtitles, not media.
+Edit STORY.md first; sync.py regenerates this written draft and estimated subtitles, not media. The legacy sync script and existing subtitle track have not been retimed in this change; verify or update their timing before regenerating this document or assembling video.
 
-## SHOT_001 | 00:00:00–00:00:15 | A picnic beyond our gate
+## SHOT_001 | 00:00:00–00:00:10 | A picnic beyond our gate
 
 **Characters:** MAYA, NINA, DAN. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Medium three-shot across the familiar oak island.
@@ -23,7 +25,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_01.png](assets/storyboards/BOARD_01.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** A new public-park picnic, not Episode 02 backyard lunch; identical permanent W01 cast.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–4.76s · DAN 4.91–8.21s · NINA 8.36–10.45s · MAYA 10.60–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–3.17s · DAN 3.27–5.47s · NINA 5.57–6.97s · MAYA 7.07–9.53s.
 
 **Dialogue:**
 **MAYA:** Today, the park. Our picnic is going farther than the backyard.
@@ -34,7 +36,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAYA:** It would also appreciate arriving before we get hungry.
 
-## SHOT_002 | 00:00:15–00:00:30 | What travels with us
+## SHOT_002 | 00:00:10–00:00:20 | What travels with us
 
 **Characters:** ELLA, LEO, MAX. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Child-height medium on basket and rolled blanket.
@@ -44,7 +46,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_01.png](assets/storyboards/BOARD_01.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No purchased fruit, recipe bowls or shoe boxes travel to the park.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–2.09s · LEO 2.24–4.96s · MAX 5.11–7.83s · ELLA 7.98–12.46s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.39s · LEO 1.49–3.31s · MAX 3.41–5.22s · ELLA 5.32–8.31s.
 
 **Dialogue:**
 **ELLA:** Six plates. Six napkins.
@@ -55,7 +57,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **ELLA:** Roll it tight, Max. It has a long walk today.
 
-## SHOT_003 | 00:00:30–00:00:45 | One place to meet
+## SHOT_003 | 00:00:20–00:00:30 | One place to meet
 
 **Characters:** MAYA, DAN, LEO. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Over Maya shoulder on map; lettering added from exact SVG.
@@ -65,7 +67,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_01.png](assets/storyboards/BOARD_01.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Map north at top; public park pond remains behind a rail beyond west path.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–3.65s · LEO 3.80–6.78s · DAN 6.93–9.92s · LEO 10.07–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–2.43s · LEO 2.53–4.52s · DAN 4.62–6.61s · LEO 6.71–9.53s.
 
 **Dialogue:**
 **MAYA:** Past the fountain, right toward the big oak.
@@ -76,7 +78,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **LEO:** Dad, remember the tree part. The park has other benches.
 
-## SHOT_004 | 00:00:45–00:01:00 | A bench needs a neighbor
+## SHOT_004 | 00:00:30–00:00:40 | A bench needs a neighbor
 
 **Characters:** NINA, MAX, DAN. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Medium three-shot, Nina pointing to two bench symbols.
@@ -86,7 +88,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_01.png](assets/storyboards/BOARD_01.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** A matching bench alone is insufficient; landmark identifies the meeting point.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): NINA 0.25–2.53s · MAX 2.68–4.96s · DAN 5.11–9.15s · MAX 9.30–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–1.69s · MAX 1.79–3.31s · DAN 3.41–6.10s · MAX 6.20–9.19s.
 
 **Dialogue:**
 **NINA:** There are two green benches.
@@ -97,7 +99,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** Does the squirrel get a sandwich if we choose wrong?
 
-## SHOT_005 | 00:01:00–00:01:15 | Cold passengers
+## SHOT_005 | 00:00:40–00:00:50 | Cold passengers
 
 **Characters:** NINA, MAYA, ELLA. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Medium cooler inspection without moving food onto island.
@@ -107,7 +109,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Keep food chilled and wrapped until clean hands and serving; no sandwiches in basket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): NINA 0.25–2.97s · MAYA 3.12–4.52s · ELLA 4.67–8.27s · MAYA 8.42–12.90s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–1.98s · MAYA 2.08–3.01s · ELLA 3.11–5.51s · MAYA 5.61–8.60s.
 
 **Dialogue:**
 **NINA:** Sandwiches stay cool until we eat.
@@ -118,7 +120,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAYA:** Good. We can share the carrying as well as lunch.
 
-## SHOT_006 | 00:01:15–00:01:30 | Our direction expert
+## SHOT_006 | 00:00:50–00:01:00 | Our direction expert
 
 **Characters:** DAN, MAX, LEO. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Medium Dan lifting basket; Max at his side.
@@ -128,7 +130,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Dan watch anatomical LEFT wrist; map and phone right pocket when stowed.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–4.48s · MAX 4.63–6.37s · LEO 6.52–9.92s · DAN 10.07–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.99s · MAX 3.09–4.25s · LEO 4.35–6.61s · DAN 6.71–9.53s.
 
 **Dialogue:**
 **DAN:** I have the basket and a remarkable sense of direction.
@@ -139,7 +141,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** The direction that gets these plates to lunch, I hope.
 
-## SHOT_007 | 00:01:30–00:01:45 | Six leave together
+## SHOT_007 | 00:01:00–00:01:10 | Six leave together
 
 **Characters:** DAN, MAYA, NINA, LEO, ELLA, MAX. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Wide toward exit, all six spaced naturally.
@@ -149,7 +151,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Travel cut follows; no child sent ahead alone and no extra relatives.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–1.21s · MAX 1.36–4.52s · NINA 4.67–8.27s · ELLA 8.42–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–0.81s · MAX 0.91–3.01s · NINA 3.11–5.51s · ELLA 5.61–8.89s.
 
 **Dialogue:**
 **MAYA:** Everybody ready?
@@ -160,7 +162,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **ELLA:** I'll look for the big oak when we reach the gate.
 
-## SHOT_008 | 00:01:45–00:02:00 | The small drawing
+## SHOT_008 | 00:01:10–00:01:20 | The small drawing
 
 **Characters:** DAN, LEO, ELLA. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Brief doorway close-up on folded map and amused faces.
@@ -170,7 +172,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** This final doorway beat precedes an explicit uneventful walk ellipsis.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.41s · ELLA 3.56–5.84s · LEO 5.99–9.15s · DAN 9.30–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.27s · ELLA 2.37–3.89s · LEO 3.99–6.10s · DAN 6.20–9.19s.
 
 **Dialogue:**
 **DAN:** Such a small tree. Easy to spot.
@@ -181,7 +183,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** Good. We won't have to eat under a pencil mark.
 
-## SHOT_009 | 00:02:00–00:02:15 | A gate to somewhere new
+## SHOT_009 | 00:01:20–00:01:30 | A gate to somewhere new
 
 **Characters:** DAN, MAYA, NINA, LEO, ELLA, MAX. **Location:** PARK_GATE. **Wardrobe:** W01 only.
 **Composition:** Wide from south gate looking north into public park.
@@ -191,7 +193,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_03.png](assets/storyboards/BOARD_03.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Gate south, fountain center, west statue bench left, east oak bench right.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–2.09s · NINA 2.24–4.96s · DAN 5.11–9.15s · LEO 9.30–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.39s · NINA 1.49–3.31s · DAN 3.41–6.10s · LEO 6.20–9.19s.
 
 **Dialogue:**
 **ELLA:** There is the fountain.
@@ -202,7 +204,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **LEO:** Can you match them to the drawing from here, Dad?
 
-## SHOT_010 | 00:02:15–00:02:30 | Look before the turn
+## SHOT_010 | 00:01:30–00:01:40 | Look before the turn
 
 **Characters:** MAYA, DAN, MAX. **Location:** PARK_GATE. **Wardrobe:** W01 only.
 **Composition:** Medium facing north with landmarks in background.
@@ -212,7 +214,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_03.png](assets/storyboards/BOARD_03.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Do not cross lawns or pond rail; both branches are ordinary pedestrian paths.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–4.19s · MAX 4.34–7.41s · DAN 7.56–9.79s · MAX 9.94–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–2.79s · MAX 2.89–4.94s · DAN 5.04–6.53s · MAX 6.63–9.53s.
 
 **Dialogue:**
 **MAYA:** Our place is under that oak, on the right.
@@ -223,7 +225,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** If he looks like a squirrel, we've gone too far.
 
-## SHOT_011 | 00:02:30–00:02:45 | A short head start
+## SHOT_011 | 00:01:40–00:01:50 | A short head start
 
 **Characters:** MAYA, NINA, DAN, ELLA. **Location:** PARK_GATE. **Wardrobe:** W01 only.
 **Composition:** Medium four-shot, children close within group.
@@ -233,7 +235,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_03.png](assets/storyboards/BOARD_03.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No lost-child plot: Dan stays with both boys; Maya and Nina with Ella; no street crossing.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–3.76s · NINA 3.91–6.99s · DAN 7.14–9.79s · ELLA 9.94–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–2.51s · NINA 2.61–4.66s · DAN 4.76–6.53s · ELLA 6.63–9.53s.
 
 **Dialogue:**
 **MAYA:** We will spread the blanket under the oak.
@@ -244,7 +246,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **ELLA:** Just look for us when you come round the fountain.
 
-## SHOT_012 | 00:02:45–00:03:00 | The sensible route
+## SHOT_012 | 00:01:50–00:02:00 | The sensible route
 
 **Characters:** MAYA, NINA, ELLA. **Location:** PARK_FOUNTAIN. **Wardrobe:** W01 only.
 **Composition:** Wide south-side view as three follow the right branch.
@@ -254,7 +256,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_03.png](assets/storyboards/BOARD_03.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Same screen direction east/right from south view; pond is not on route.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–2.09s · MAYA 2.24–4.96s · NINA 5.11–8.27s · MAYA 8.42–12.46s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.39s · MAYA 1.49–3.31s · NINA 3.41–5.51s · MAYA 5.61–8.31s.
 
 **Dialogue:**
 **ELLA:** Right at the fountain.
@@ -265,7 +267,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAYA:** They'd better come. Lunch needs something to land on.
 
-## SHOT_013 | 00:03:00–00:03:15 | The map takes a turn
+## SHOT_013 | 00:02:00–00:02:10 | The map takes a turn
 
 **Characters:** DAN, LEO, MAX. **Location:** PARK_FOUNTAIN. **Wardrobe:** W01 only.
 **Composition:** Over Dan shoulder, map rotated during unfolding.
@@ -275,7 +277,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_04.png](assets/storyboards/BOARD_04.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Error is page orientation, not reversed geography. Do not show compass moving.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–2.53s · LEO 2.68–4.96s · DAN 5.11–8.27s · MAX 8.42–12.46s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.69s · LEO 1.79–3.31s · DAN 3.41–5.51s · MAX 5.61–8.31s.
 
 **Dialogue:**
 **DAN:** There. Tree on the left.
@@ -286,7 +288,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** Dad, the trees on paper look funny from here.
 
-## SHOT_014 | 00:03:15–00:03:30 | A very convincing green bench
+## SHOT_014 | 00:02:10–00:02:20 | A very convincing green bench
 
 **Characters:** DAN, MAX, LEO. **Location:** PARK_FOUNTAIN. **Wardrobe:** W01 only.
 **Composition:** Medium toward left branch, fountain right edge.
@@ -296,7 +298,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_04.png](assets/storyboards/BOARD_04.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Wrong conclusion remains harmless; keep oak group in distant sight, no isolated children.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–2.09s · DAN 2.24–3.64s · LEO 3.79–5.63s · DAN 5.78–9.82s · MAX 9.97–12.69s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.39s · DAN 1.49–2.43s · LEO 2.53–3.75s · DAN 3.85–6.55s · MAX 6.65–8.46s.
 
 **Dialogue:**
 **MAX:** That bench is green.
@@ -309,7 +311,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** Shouldn't our tree be bigger, too?
 
-## SHOT_015 | 00:03:30–00:03:45 | A tree is nearly everywhere
+## SHOT_015 | 00:02:20–00:02:30 | A tree is nearly everywhere
 
 **Characters:** DAN, LEO, MAX. **Location:** PARK_FOUNTAIN. **Wardrobe:** W01 only.
 **Composition:** Walking medium tracking only a few steps on west path.
@@ -319,7 +321,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_04.png](assets/storyboards/BOARD_04.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No running, shortcuts or child approaching water; leaves do not prove oak identity.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–2.97s · LEO 3.12–5.84s · MAX 5.99–8.71s · LEO 8.86–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.98s · LEO 2.08–3.89s · MAX 3.99–5.81s · LEO 5.91–8.89s.
 
 **Dialogue:**
 **DAN:** There is a tree beside it.
@@ -330,7 +332,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **LEO:** But only one of those trees is our big oak.
 
-## SHOT_016 | 00:03:45–00:04:00 | The first bench wins too soon
+## SHOT_016 | 00:02:30–00:02:40 | The first bench wins too soon
 
 **Characters:** DAN, LEO, MAX. **Location:** PARK_BENCH_FORK. **Wardrobe:** W01 only.
 **Composition:** Wide west bench and squirrel statue, fountain beyond right.
@@ -340,7 +342,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_04.png](assets/storyboards/BOARD_04.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Same matching green bench design as oak bench; food/cooler never at this west bench.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–1.21s · MAX 1.36–5.84s · LEO 5.99–7.39s · DAN 7.54–12.46s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–0.81s · MAX 0.91–3.89s · LEO 3.99–4.93s · DAN 5.03–8.31s.
 
 **Dialogue:**
 **DAN:** Destination reached.
@@ -351,7 +353,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** Ah. That's quite a lot for a picnic to be missing.
 
-## SHOT_017 | 00:04:00–00:04:15 | Three places too few
+## SHOT_017 | 00:02:40–00:02:50 | Three places too few
 
 **Characters:** DAN, MAX, LEO. **Location:** PARK_BENCH_FORK. **Wardrobe:** W01 only.
 **Composition:** Medium on basket atop bench and three faces.
@@ -361,7 +363,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_05.png](assets/storyboards/BOARD_05.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** There are six permanent family members, not a new three-person picnic.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–3.41s · DAN 3.56–6.72s · LEO 6.87–9.15s · MAX 9.30–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.27s · DAN 2.37–4.48s · LEO 4.58–6.10s · MAX 6.20–8.89s.
 
 **Dialogue:**
 **MAX:** One, two, three. We ordered six people.
@@ -372,7 +374,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** I still count three. Nobody's hiding behind you, Dad.
 
-## SHOT_018 | 00:04:15–00:04:30 | The silent local expert
+## SHOT_018 | 00:02:50–00:03:00 | The silent local expert
 
 **Characters:** MAX, DAN, LEO. **Location:** PARK_BENCH_FORK. **Wardrobe:** W01 only.
 **Composition:** Child-height medium with stone squirrel safely in background.
@@ -382,7 +384,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_05.png](assets/storyboards/BOARD_05.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Squirrel is a fixed stone landmark, not an animal or extra speaking character.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–3.52s · DAN 3.67–5.57s · LEO 5.72–8.53s · DAN 8.68–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.35s · DAN 2.45–3.71s · LEO 3.81–5.69s · DAN 5.79–8.27s.
 
 **Dialogue:**
 **MAX:** Excuse me. Have you seen our picnic?
@@ -393,7 +395,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** And apparently terrible at giving directions out loud.
 
-## SHOT_019 | 00:04:30–00:04:45 | A bench without a blanket
+## SHOT_019 | 00:03:00–00:03:10 | A bench without a blanket
 
 **Characters:** DAN, LEO, MAX. **Location:** PARK_BENCH_FORK. **Wardrobe:** W01 only.
 **Composition:** Medium down to bare bench then back to faces.
@@ -403,7 +405,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_05.png](assets/storyboards/BOARD_05.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Blanket stays with Maya until east setup; do not duplicate it at wrong bench.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–2.15s · MAX 2.30–4.20s · DAN 4.35–8.07s · MAX 8.22–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.43s · MAX 1.53–2.80s · DAN 2.90–5.38s · MAX 5.48–8.27s.
 
 **Dialogue:**
 **LEO:** There is no blanket.
@@ -414,7 +416,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** Same green paint, though. I see why you stopped.
 
-## SHOT_020 | 00:04:45–00:05:00 | A call would be allowed
+## SHOT_020 | 00:03:10–00:03:20 | A call would be allowed
 
 **Characters:** DAN, LEO, MAX. **Location:** PARK_BENCH_FORK. **Wardrobe:** W01 only.
 **Composition:** Medium Dan with hand near right pocket, square visible beyond.
@@ -424,7 +426,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_05.png](assets/storyboards/BOARD_05.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Calling an adult remains available; comedy never depends on children hiding or losing contact.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.65s · LEO 3.80–6.78s · MAX 6.93–9.92s · DAN 10.07–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.43s · LEO 2.53–4.52s · MAX 4.62–6.61s · DAN 6.71–9.53s.
 
 **Dialogue:**
 **DAN:** I can call them if we need help.
@@ -435,7 +437,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** Good point. The map might have an opinion on this.
 
-## SHOT_021 | 00:05:00–00:05:15 | One color, two places
+## SHOT_021 | 00:03:20–00:03:30 | One color, two places
 
 **Characters:** LEO, DAN, MAX. **Location:** PARK_BENCH_FORK. **Wardrobe:** W01 only.
 **Composition:** Over Leo shoulder toward two benches across square.
@@ -445,7 +447,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Wide open sightlines connect both bench paths; no children cross alone.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–2.61s · DAN 2.76–4.66s · MAX 4.81–8.07s · LEO 8.22–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.74s · DAN 1.84–3.11s · MAX 3.21–5.38s · LEO 5.48–8.27s.
 
 **Dialogue:**
 **LEO:** There is another green bench.
@@ -456,7 +458,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **LEO:** Worth checking which one's got the oak beside it.
 
-## SHOT_022 | 00:05:15–00:05:30 | A landmark is more than a seat
+## SHOT_022 | 00:03:30–00:03:40 | A landmark is more than a seat
 
 **Characters:** DAN, MAX, LEO. **Location:** PARK_BENCH_FORK. **Wardrobe:** W01 only.
 **Composition:** Close on stone squirrel then gentle tilt to Dan.
@@ -466,7 +468,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Do not turn statue into oak or move it across park between views.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–2.53s · LEO 2.68–4.52s · DAN 4.67–7.83s · MAX 7.98–12.46s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.69s · LEO 1.79–3.01s · DAN 3.11–5.22s · MAX 5.32–8.31s.
 
 **Dialogue:**
 **MAX:** Our neighbor is a squirrel.
@@ -477,7 +479,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** The squirrel hasn't got much to say in its defense.
 
-## SHOT_023 | 00:05:30–00:05:45 | The upside-down oak
+## SHOT_023 | 00:03:40–00:03:50 | The upside-down oak
 
 **Characters:** LEO, DAN, MAX. **Location:** PARK_BENCH_FORK. **Wardrobe:** W01 only.
 **Composition:** Close map insert; north arrow and gate editorial SVG.
@@ -487,7 +489,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Exact text comes from PARK_MAP.svg; map world never changes.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–2.53s · DAN 2.68–5.84s · MAX 5.99–8.71s · DAN 8.86–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.69s · DAN 1.79–3.89s · MAX 3.99–5.81s · DAN 5.91–8.89s.
 
 **Dialogue:**
 **LEO:** Dad, the arrow points down.
@@ -498,7 +500,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** That would certainly save us from turning the park around.
 
-## SHOT_024 | 00:05:45–00:06:00 | Turn the page, keep the park
+## SHOT_024 | 00:03:50–00:04:00 | Turn the page, keep the park
 
 **Characters:** DAN, LEO, MAX. **Location:** PARK_BENCH_FORK. **Wardrobe:** W01 only.
 **Composition:** Medium hands rotate one map half-turn, no walking.
@@ -508,7 +510,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Only paper rotates; bench/fountain/geography retain established positions.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–2.97s · LEO 3.12–6.72s · MAX 6.87–10.03s · DAN 10.18–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.98s · LEO 2.08–4.48s · MAX 4.58–6.69s · DAN 6.79–9.48s.
 
 **Dialogue:**
 **DAN:** That would explain the adventurous tree.
@@ -519,7 +521,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** So that's where we should be taking these plates.
 
-## SHOT_025 | 00:06:00–00:06:15 | A small admission
+## SHOT_025 | 00:04:00–00:04:10 | A small admission
 
 **Characters:** DAN, LEO, MAX. **Location:** PARK_BENCH_FORK. **Wardrobe:** W01 only.
 **Composition:** Quiet eye-level three-shot beside bench.
@@ -529,7 +531,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_07.png](assets/storyboards/BOARD_07.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Error admission is warm and brief, not humiliation or children assuming adult responsibility.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.41s · LEO 3.56–4.96s · MAX 5.11–8.27s · LEO 8.42–12.46s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.27s · LEO 2.37–3.31s · MAX 3.41–5.51s · LEO 5.61–8.31s.
 
 **Dialogue:**
 **DAN:** I saw a bench and stopped checking.
@@ -540,7 +542,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **LEO:** Actually, he's the part that gave this place away.
 
-## SHOT_026 | 00:06:15–00:06:30 | The better question
+## SHOT_026 | 00:04:10–00:04:20 | The better question
 
 **Characters:** MAX, DAN, LEO. **Location:** PARK_BENCH_FORK. **Wardrobe:** W01 only.
 **Composition:** Medium Max framing tree with empty hands.
@@ -550,7 +552,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_07.png](assets/storyboards/BOARD_07.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Do not introduce a third matching bench or a new family member.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–1.65s · DAN 1.80–4.96s · LEO 5.11–8.71s · MAX 8.86–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.10s · DAN 1.20–3.31s · LEO 3.41–5.81s · MAX 5.91–8.89s.
 
 **Dialogue:**
 **MAX:** Which bench, Dad?
@@ -561,7 +563,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** And if we see the squirrel, we've already checked him.
 
-## SHOT_027 | 00:06:30–00:06:45 | Our quiet friend has a job
+## SHOT_027 | 00:04:20–00:04:30 | Our quiet friend has a job
 
 **Characters:** DAN, MAX, LEO. **Location:** PARK_BENCH_FORK. **Wardrobe:** W01 only.
 **Composition:** Two-shot with fixed statue, no contact or climbing.
@@ -571,7 +573,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_07.png](assets/storyboards/BOARD_07.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Landmark identity remains stone squirrel; no animation, talking or magical movement.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.06s · MAX 3.21–6.02s · LEO 6.17–8.07s · DAN 8.22–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.04s · MAX 2.14–4.01s · LEO 4.11–5.38s · DAN 5.48–8.27s.
 
 **Dialogue:**
 **DAN:** We are beside the squirrel statue.
@@ -582,7 +584,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** That's more help than I got from guessing green.
 
-## SHOT_028 | 00:06:45–00:07:00 | Two landmarks agree
+## SHOT_028 | 00:04:30–00:04:40 | Two landmarks agree
 
 **Characters:** LEO, DAN, MAX. **Location:** PARK_BENCH_FORK. **Wardrobe:** W01 only.
 **Composition:** Over Leo shoulder comparing map and fountain.
@@ -592,7 +594,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_07.png](assets/storyboards/BOARD_07.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Orientation uses gate and statue, not guessing right from a reversed camera.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–4.07s · DAN 4.22–6.78s · MAX 6.93–9.92s · LEO 10.07–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.71s · DAN 2.81–4.52s · MAX 4.62–6.61s · LEO 6.71–9.53s.
 
 **Dialogue:**
 **LEO:** Gate behind us, fountain ahead, squirrel to the west.
@@ -603,7 +605,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **LEO:** Let's keep them that way until we get to lunch.
 
-## SHOT_029 | 00:07:00–00:07:15 | Do not move the picnic
+## SHOT_029 | 00:04:40–00:04:50 | Do not move the picnic
 
 **Characters:** DAN, LEO, MAX. **Location:** PARK_BENCH_FORK. **Wardrobe:** W01 only.
 **Composition:** Medium Dan closing basket with map held above.
@@ -613,7 +615,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Leave public fixtures and plants untouched; walk on approved paths.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–3.41s · DAN 3.56–6.28s · LEO 6.43–8.71s · DAN 8.86–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.27s · DAN 2.37–4.19s · LEO 4.29–5.81s · DAN 5.91–8.89s.
 
 **Dialogue:**
 **MAX:** Could we bring this bench to lunch?
@@ -624,7 +626,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** Fair point. The plates are lighter than a whole bench.
 
-## SHOT_030 | 00:07:15–00:07:30 | No shortcuts through flowers
+## SHOT_030 | 00:04:50–00:05:00 | No shortcuts through flowers
 
 **Characters:** DAN, MAX, LEO. **Location:** PARK_BENCH_FORK. **Wardrobe:** W01 only.
 **Composition:** Wide showing flowerbed separating branches.
@@ -634,7 +636,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Never cross flowerbed, rail, fountain rim or pond edge to correct a mistake.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–2.97s · DAN 3.12–6.28s · LEO 6.43–9.15s · MAX 9.30–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.98s · DAN 2.08–4.19s · LEO 4.29–6.10s · MAX 6.20–8.89s.
 
 **Dialogue:**
 **MAX:** It looks closer across the flowers.
@@ -645,7 +647,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** Okay. We'll walk round and leave them to it.
 
-## SHOT_031 | 00:07:30–00:07:45 | A wave across the square
+## SHOT_031 | 00:05:00–00:05:10 | A wave across the square
 
 **Characters:** DAN, LEO, MAX. **Location:** PARK_BENCH_FORK. **Wardrobe:** W01 only.
 **Composition:** Wide with distant oak group kept small and recognizable.
@@ -655,7 +657,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Distant family figures are the existing three, never extra crowd people.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.79s · LEO 3.94–6.00s · MAX 6.15–8.22s · DAN 8.37–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.53s · LEO 2.63–4.00s · MAX 4.10–5.48s · DAN 5.58–8.27s.
 
 **Dialogue:**
 **DAN:** There they are. They can see us.
@@ -666,7 +668,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** Better company, too. No offense to our squirrel.
 
-## SHOT_032 | 00:07:45–00:08:00 | Carry the useful things
+## SHOT_032 | 00:05:10–00:05:20 | Carry the useful things
 
 **Characters:** DAN, LEO, MAX. **Location:** PARK_BENCH_FORK. **Wardrobe:** W01 only.
 **Composition:** Medium basket lift and feet prepared to walk.
@@ -676,7 +678,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No picnic property, child or litter left behind; same six plate/napkin count.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–1.82s · DAN 1.97–4.52s · MAX 4.67–7.72s · LEO 7.87–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.21s · DAN 1.31–3.01s · MAX 3.11–5.15s · LEO 5.25–8.27s.
 
 **Dialogue:**
 **LEO:** Nothing left behind.
@@ -687,7 +689,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **LEO:** Come on, Dad. Lunch won't find us sitting here.
 
-## SHOT_033 | 00:08:00–00:08:15 | Back to a known point
+## SHOT_033 | 00:05:20–00:05:30 | Back to a known point
 
 **Characters:** DAN, LEO, MAX. **Location:** PARK_FOUNTAIN. **Wardrobe:** W01 only.
 **Composition:** Wide tracking west path toward south side of fountain.
@@ -697,7 +699,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Children stay beside adult; fountain is a landmark, never climbing/play equipment.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.76s · LEO 3.91–6.99s · MAX 7.14–10.21s · DAN 10.36–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.51s · LEO 2.61–4.66s · MAX 4.76–6.81s · DAN 6.91–9.53s.
 
 **Dialogue:**
 **DAN:** Back to the fountain. Then we check again.
@@ -708,7 +710,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** Good. I don't want another trip to the statue.
 
-## SHOT_034 | 00:08:15–00:08:30 | Face the way we came in
+## SHOT_034 | 00:05:30–00:05:40 | Face the way we came in
 
 **Characters:** DAN, LEO, MAX. **Location:** PARK_FOUNTAIN. **Wardrobe:** W01 only.
 **Composition:** Medium from south of fountain looking north.
@@ -718,7 +720,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Screen directions are anchored to facing north, not every future camera.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–2.53s · LEO 2.68–4.96s · MAX 5.11–8.71s · LEO 8.86–12.90s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.69s · LEO 1.79–3.31s · MAX 3.41–5.81s · LEO 5.91–8.60s.
 
 **Dialogue:**
 **DAN:** Gate behind us. Fountain ahead.
@@ -729,7 +731,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **LEO:** It's easier to see now that we're facing it.
 
-## SHOT_035 | 00:08:30–00:08:45 | Listen to the landmark
+## SHOT_035 | 00:05:40–00:05:50 | Listen to the landmark
 
 **Characters:** DAN, MAX, LEO. **Location:** PARK_FOUNTAIN. **Wardrobe:** W01 only.
 **Composition:** Close Max listening to fountain before eye contact.
@@ -739,7 +741,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No fountain water drinking, splashing or climbing; sealed water is in cooler.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–2.97s · DAN 3.12–6.28s · LEO 6.43–9.59s · MAX 9.74–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.98s · DAN 2.08–4.19s · LEO 4.29–6.39s · MAX 6.49–9.48s.
 
 **Dialogue:**
 **MAX:** The fountain sounds different up close.
@@ -750,7 +752,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** And we can hear it without looking at a map.
 
-## SHOT_036 | 00:08:45–00:09:00 | Right means this turn
+## SHOT_036 | 00:05:50–00:06:00 | Right means this turn
 
 **Characters:** DAN, LEO, MAX. **Location:** PARK_FOUNTAIN. **Wardrobe:** W01 only.
 **Composition:** Low wide of three taking east branch; oak visible ahead.
@@ -760,7 +762,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** One clear right turn, not repeated left/right reversal across edits.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.41s · MAX 3.56–6.28s · LEO 6.43–9.59s · DAN 9.74–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.27s · MAX 2.37–4.19s · LEO 4.29–6.39s · DAN 6.49–9.19s.
 
 **Dialogue:**
 **DAN:** Right at the fountain, toward the oak.
@@ -771,7 +773,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** At least we won't have to thank him twice.
 
-## SHOT_037 | 00:09:00–00:09:15 | The bench with the people
+## SHOT_037 | 00:06:00–00:06:10 | The bench with the people
 
 **Characters:** DAN, LEO, MAX. **Location:** PARK_OAK_PICNIC. **Wardrobe:** W01 only.
 **Composition:** Medium approach to oak bench, family beyond crop.
@@ -781,7 +783,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_10.png](assets/storyboards/BOARD_10.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Blanket is blue-white check; no sandwiches opened or served yet.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–2.81s · DAN 2.96–5.51s · LEO 5.66–7.23s · MAX 7.38–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.87s · DAN 1.97–3.67s · LEO 3.77–4.82s · MAX 4.92–8.27s.
 
 **Dialogue:**
 **MAX:** That bench has our people.
@@ -792,7 +794,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** And an oak. We can finally tick off all three.
 
-## SHOT_038 | 00:09:15–00:09:30 | Already saving places
+## SHOT_038 | 00:06:10–00:06:20 | Already saving places
 
 **Characters:** MAYA, NINA, ELLA. **Location:** PARK_OAK_PICNIC. **Wardrobe:** W01 only.
 **Composition:** Medium three-shot at blanket beside oak bench.
@@ -802,7 +804,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_10.png](assets/storyboards/BOARD_10.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Maya and Nina jointly set up; no one angry or frightened by visible detour.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–2.53s · MAYA 2.68–5.40s · NINA 5.55–8.27s · MAYA 8.42–12.90s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.69s · MAYA 1.79–3.60s · NINA 3.70–5.51s · MAYA 5.61–8.60s.
 
 **Dialogue:**
 **ELLA:** We saved all six places.
@@ -813,7 +815,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAYA:** I hope the boys have an appetite after that walk.
 
-## SHOT_039 | 00:09:30–00:09:45 | The destination is complete
+## SHOT_039 | 00:06:20–00:06:30 | The destination is complete
 
 **Characters:** DAN, MAYA, NINA, LEO, ELLA, MAX. **Location:** PARK_OAK_PICNIC. **Wardrobe:** W01 only.
 **Composition:** Wide all six reunited beside oak bench and blanket.
@@ -823,7 +825,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_10.png](assets/storyboards/BOARD_10.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No seventh character; public park remains distinct from home garden.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–2.53s · MAYA 2.68–4.96s · MAX 5.11–7.83s · LEO 7.98–12.46s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.69s · MAYA 1.79–3.31s · MAX 3.41–5.22s · LEO 5.32–8.31s.
 
 **Dialogue:**
 **DAN:** Six people. One correct bench.
@@ -834,7 +836,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **LEO:** All the way around, Dad. Tell them about the arrow.
 
-## SHOT_040 | 00:09:45–00:10:00 | A helpful explanation
+## SHOT_040 | 00:06:30–00:06:40 | A helpful explanation
 
 **Characters:** DAN, MAYA, LEO. **Location:** PARK_OAK_PICNIC. **Wardrobe:** W01 only.
 **Composition:** Quiet medium with map held north-up.
@@ -844,7 +846,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_10.png](assets/storyboards/BOARD_10.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Dan remains responsible adult; children contributed observations, not rescue.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–5.04s · MAYA 5.19–6.99s · LEO 7.14–10.21s · DAN 10.36–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–3.36s · MAYA 3.46–4.66s · LEO 4.76–6.81s · DAN 6.91–9.53s.
 
 **Dialogue:**
 **DAN:** I held the map upside down and trusted the first bench.
@@ -855,7 +857,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** I owe that squirrel a thank-you. You two, too.
 
-## SHOT_041 | 00:10:00–00:10:15 | Good information, better directions
+## SHOT_041 | 00:06:40–00:06:50 | Good information, better directions
 
 **Characters:** NINA, ELLA, DAN. **Location:** PARK_OAK_PICNIC. **Wardrobe:** W01 only.
 **Composition:** Medium Nina using map while Ella points to landmark.
@@ -865,7 +867,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Natural conversation only; no audience repetition or vocabulary lesson.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): NINA 0.25–3.41s · ELLA 3.56–7.16s · DAN 7.31–9.15s · ELLA 9.30–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–2.27s · ELLA 2.37–4.77s · DAN 4.87–6.10s · ELLA 6.20–8.89s.
 
 **Dialogue:**
 **NINA:** A bench alone was not enough information.
@@ -876,7 +878,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **ELLA:** Especially when the other bench has a stone squirrel.
 
-## SHOT_042 | 00:10:15–00:10:30 | Both sides of the misunderstanding
+## SHOT_042 | 00:06:50–00:07:00 | Both sides of the misunderstanding
 
 **Characters:** MAYA, DAN, MAX. **Location:** PARK_OAK_PICNIC. **Wardrobe:** W01 only.
 **Composition:** Medium Maya and Dan at Max height.
@@ -886,7 +888,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Equal adult respect; no jealousy, putdowns or incompetent-parent caricature.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–3.33s · DAN 3.48–6.56s · MAX 6.71–11.07s · DAN 11.22–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–2.22s · DAN 2.32–4.37s · MAX 4.47–7.38s · DAN 7.48–9.53s.
 
 **Dialogue:**
 **MAYA:** I could have pointed out both benches.
@@ -897,7 +899,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** Next time let's point it out together.
 
-## SHOT_043 | 00:10:30–00:10:45 | Map gets a clear home
+## SHOT_043 | 00:07:00–00:07:10 | Map gets a clear home
 
 **Characters:** ELLA, DAN, LEO. **Location:** PARK_OAK_PICNIC. **Wardrobe:** W01 only.
 **Composition:** Close dry basket lid and map sleeve.
@@ -907,7 +909,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Sleeve introduced as packed dry-supply item; no additional map copy.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–2.53s · DAN 2.68–6.72s · LEO 6.87–8.71s · ELLA 8.86–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.69s · DAN 1.79–4.48s · LEO 4.58–5.81s · ELLA 5.91–8.89s.
 
 **Dialogue:**
 **ELLA:** This sleeve keeps it dry.
@@ -918,7 +920,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **ELLA:** And we can see it without getting sandwich on it.
 
-## SHOT_044 | 00:10:45–00:11:00 | Food can wait a moment
+## SHOT_044 | 00:07:10–00:07:20 | Food can wait a moment
 
 **Characters:** NINA, MAX, ELLA. **Location:** PARK_OAK_PICNIC. **Wardrobe:** W01 only.
 **Composition:** Medium cooler shaded by oak, lid closed.
@@ -928,7 +930,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Outdoor play/map handling precedes handwashing; no hand gel replacing visible wash needed.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–2.47s · NINA 2.62–6.13s · ELLA 6.28–9.79s · MAX 9.94–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.65s · NINA 1.75–4.09s · ELLA 4.19–6.53s · MAX 6.63–9.53s.
 
 **Dialogue:**
 **MAX:** Can we open lunch now?
@@ -939,7 +941,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** Good. Even from here I can tell those roofs apart.
 
-## SHOT_045 | 00:11:00–00:11:15 | A short wash trip together
+## SHOT_045 | 00:07:20–00:07:30 | A short wash trip together
 
 **Characters:** DAN, MAYA, NINA, LEO, ELLA, MAX. **Location:** PARK_OAK_PICNIC. **Wardrobe:** W01 only.
 **Composition:** Wide along dry path toward red-roof pavilion; same oak environment.
@@ -947,9 +949,9 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Starting continuity:** Blanket spread; cooler closed; all possessions at oak.
 **Ending continuity:** After explicit elapsed time, six return with clean dry hands and all belongings.
 **Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
-**Continuity:** Pavilion visible from oak; nobody guards bags alone; use montage rather than six washes in 15 seconds.
+**Continuity:** Pavilion visible from oak; nobody guards bags alone; use montage rather than six washes in 10 seconds.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–2.97s · DAN 3.12–6.28s · MAX 6.43–8.71s · NINA 8.86–12.90s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.98s · DAN 2.08–4.19s · MAX 4.29–5.81s · NINA 5.91–8.60s.
 
 **Dialogue:**
 **MAYA:** We will take everything with us.
@@ -960,7 +962,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **NINA:** Come on, then. Nobody needs to guard lunch alone.
 
-## SHOT_046 | 00:11:15–00:11:30 | Our picnic returns once
+## SHOT_046 | 00:07:30–00:07:40 | Our picnic returns once
 
 **Characters:** MAYA, DAN, ELLA. **Location:** PARK_OAK_PICNIC. **Wardrobe:** W01 only.
 **Composition:** Medium blanket unfolding, basket on clean bench pad.
@@ -970,7 +972,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** One blanket, no duplicate setup left behind; no touching dirty statue after washing.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–2.23s · DAN 2.38–4.36s · MAYA 4.51–6.96s · ELLA 7.11–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.49s · DAN 1.59–2.91s · MAYA 3.01–4.64s · ELLA 4.74–8.27s.
 
 **Dialogue:**
 **ELLA:** Same blanket, right place.
@@ -981,7 +983,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **ELLA:** Let's leave a little room at the blanket edge for me.
 
-## SHOT_047 | 00:11:30–00:11:45 | Six places, fixed and comfortable
+## SHOT_047 | 00:07:40–00:07:50 | Six places, fixed and comfortable
 
 **Characters:** DAN, MAYA, NINA, LEO, ELLA, MAX. **Location:** PARK_OAK_PICNIC. **Wardrobe:** W01 only.
 **Composition:** Wide fixed-axis blanket tableau from south edge.
@@ -991,7 +993,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Canonical six-place order continues across every later close-up.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–2.09s · MAX 2.24–7.16s · DAN 7.31–9.59s · MAX 9.74–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.39s · MAX 1.49–4.77s · DAN 4.87–6.39s · MAX 6.49–9.48s.
 
 **Dialogue:**
 **LEO:** Everyone found a place.
@@ -1002,7 +1004,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** Did your research discover that sandwiches taste better over here?
 
-## SHOT_048 | 00:11:45–00:12:00 | Room for everyone
+## SHOT_048 | 00:07:50–00:08:00 | Room for everyone
 
 **Characters:** MAX, NINA, MAYA. **Location:** PARK_OAK_PICNIC. **Wardrobe:** W01 only.
 **Composition:** Medium from near-right blanket edge, green oak bench behind Nina.
@@ -1012,7 +1014,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Bench is a meeting landmark, not seating for all six; no seventh place or extra chair.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–3.65s · NINA 3.80–6.37s · MAYA 6.52–10.33s · MAX 10.48–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.43s · NINA 2.53–4.25s · MAYA 4.35–6.89s · MAX 6.99–9.53s.
 
 **Dialogue:**
 **MAX:** Would all of us fit on that bench?
@@ -1023,7 +1025,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** Good. My knees were hoping for some blanket space.
 
-## SHOT_049 | 00:12:00–00:12:15 | The clean plates arrive
+## SHOT_049 | 00:08:00–00:08:10 | The clean plates arrive
 
 **Characters:** ELLA, MAYA, DAN. **Location:** PARK_OAK_PICNIC. **Wardrobe:** W01 only.
 **Composition:** Medium hands handing plates without covering faces.
@@ -1033,7 +1035,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Plate transfers once; hands remain clean; no plate placed on bench or ground.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–3.06s · MAYA 3.21–4.20s · DAN 4.35–8.07s · MAYA 8.22–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.04s · MAYA 2.14–2.80s · DAN 2.90–5.38s · MAYA 5.48–8.27s.
 
 **Dialogue:**
 **ELLA:** One plate for each of us.
@@ -1044,7 +1046,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAYA:** They can put in for a rest after lunch.
 
-## SHOT_050 | 00:12:15–00:12:30 | Napkins know where to go
+## SHOT_050 | 00:08:10–00:08:20 | Napkins know where to go
 
 **Characters:** LEO, MAX, NINA. **Location:** PARK_OAK_PICNIC. **Wardrobe:** W01 only.
 **Composition:** Medium across right side of fixed blanket axis.
@@ -1054,7 +1056,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No forks required for wrapped sandwiches; dry supplies count preserved.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–3.15s · LEO 3.30–6.19s · NINA 6.34–10.04s · MAX 10.19–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.10s · LEO 2.20–4.13s · NINA 4.23–6.69s · MAX 6.79–9.53s.
 
 **Dialogue:**
 **MAX:** My napkin is on the right side.
@@ -1065,7 +1067,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** Beside my plate makes sense. My elbow can find it.
 
-## SHOT_051 | 00:12:30–00:12:45 | The cold lid opens
+## SHOT_051 | 00:08:20–00:08:30 | The cold lid opens
 
 **Characters:** NINA, MAYA, DAN. **Location:** PARK_OAK_PICNIC. **Wardrobe:** W01 only.
 **Composition:** Medium cooler on Nina right, bench/oak behind.
@@ -1075,7 +1077,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Do not duplicate sandwiches on blanket while all six still in cooler.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): NINA 0.25–3.52s · DAN 3.67–6.02s · MAYA 6.17–8.07s · NINA 8.22–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–2.35s · DAN 2.45–4.01s · MAYA 4.11–5.38s · NINA 5.48–8.27s.
 
 **Dialogue:**
 **NINA:** Still cool. Six sandwiches, ready to share.
@@ -1086,7 +1088,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **NINA:** Let's hand them out while they're nice and cool.
 
-## SHOT_052 | 00:12:45–00:13:00 | One parcel for each person
+## SHOT_052 | 00:08:30–00:08:40 | One parcel for each person
 
 **Characters:** NINA, MAYA, ELLA. **Location:** PARK_OAK_PICNIC. **Wardrobe:** W01 only.
 **Composition:** Medium serving hands with plates aligned in safe reach.
@@ -1096,7 +1098,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Six total, one each; keep wrappers closed until each person opens their own.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–2.23s · MAYA 2.38–3.88s · NINA 4.03–7.43s · ELLA 7.58–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.49s · MAYA 1.59–2.59s · NINA 2.69–4.95s · ELLA 5.05–8.27s.
 
 **Dialogue:**
 **ELLA:** Six plates, six sandwiches.
@@ -1107,7 +1109,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **ELLA:** I think the squirrel would just sit on his anyway.
 
-## SHOT_053 | 00:13:00–00:13:15 | Water follows the same plan
+## SHOT_053 | 00:08:40–00:08:50 | Water follows the same plan
 
 **Characters:** DAN, MAX, LEO. **Location:** PARK_OAK_PICNIC. **Wardrobe:** W01 only.
 **Composition:** Medium Dan passing sealed bottles across near blanket edge.
@@ -1117,7 +1119,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Bottle caps kept with owners/waste pouch, never scattered; no fountain drinking.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–1.65s · MAX 1.80–5.40s · LEO 5.55–9.59s · MAX 9.74–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.10s · MAX 1.20–3.60s · LEO 3.70–6.39s · MAX 6.49–9.48s.
 
 **Dialogue:**
 **DAN:** One bottle each.
@@ -1128,7 +1130,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** Good. I prefer the kind that comes in a bottle.
 
-## SHOT_054 | 00:13:15–00:13:30 | Wrappers stay with us
+## SHOT_054 | 00:08:50–00:09:00 | Wrappers stay with us
 
 **Characters:** MAYA, MAX, NINA. **Location:** PARK_OAK_PICNIC. **Wardrobe:** W01 only.
 **Composition:** Medium Max seated opening own sandwich over plate.
@@ -1138,7 +1140,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Wind/litter control; no food set on bare blanket or grass.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–2.53s · MAX 2.68–4.96s · NINA 5.11–7.83s · MAX 7.98–12.46s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.69s · MAX 1.79–3.31s · NINA 3.41–5.22s · MAX 5.32–8.31s.
 
 **Dialogue:**
 **MAYA:** Open it over your plate.
@@ -1149,7 +1151,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** Got it. This wrapper isn't getting its own park tour.
 
-## SHOT_055 | 00:13:30–00:13:45 | The first quiet bite
+## SHOT_055 | 00:09:00–00:09:10 | The first quiet bite
 
 **Characters:** DAN, LEO, MAYA. **Location:** PARK_OAK_PICNIC. **Wardrobe:** W01 only.
 **Composition:** Quiet medium on Dan at near-left, Leo and Maya in established eyelines.
@@ -1159,7 +1161,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Track eaten portions; sequential action before speech within editorial slot.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.30s · LEO 3.45–5.02s · MAYA 5.17–7.23s · DAN 7.38–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.20s · LEO 2.30–3.35s · MAYA 3.45–4.82s · DAN 4.92–8.27s.
 
 **Dialogue:**
 **DAN:** Worth finding the right place for.
@@ -1170,7 +1172,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** The walk gave me quite an appetite for this sandwich.
 
-## SHOT_056 | 00:13:45–00:14:00 | No race to the best shade
+## SHOT_056 | 00:09:10–00:09:20 | No race to the best shade
 
 **Characters:** ELLA, MAX, NINA. **Location:** PARK_OAK_PICNIC. **Wardrobe:** W01 only.
 **Composition:** Medium across far-left to near-right, same blanket axis.
@@ -1180,7 +1182,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No second cooler or newly full food container; public bench behind remains unoccupied.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–3.41s · MAX 3.56–5.40s · NINA 5.55–8.71s · MAX 8.86–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.27s · MAX 2.37–3.60s · NINA 3.70–5.81s · MAX 5.91–8.89s.
 
 **Dialogue:**
 **ELLA:** The sun stopped at our blanket edge.
@@ -1191,7 +1193,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** Can it keep doing that till I finish my lunch?
 
-## SHOT_057 | 00:14:00–00:14:15 | What the other bench taught us
+## SHOT_057 | 00:09:20–00:09:30 | What the other bench taught us
 
 **Characters:** DAN, LEO, MAX. **Location:** PARK_OAK_PICNIC. **Wardrobe:** W01 only.
 **Composition:** Medium near blanket edge, west statue distant across fountain.
@@ -1201,7 +1203,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Do not intercut a second simultaneous Dan group at wrong bench; memories only in dialogue.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–2.53s · LEO 2.68–5.84s · MAX 5.99–8.27s · LEO 8.42–12.46s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.69s · LEO 1.79–3.89s · MAX 3.99–5.51s · LEO 5.61–8.31s.
 
 **Dialogue:**
 **DAN:** That bench looked exactly right.
@@ -1212,7 +1214,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **LEO:** I never thought a statue could answer a question.
 
-## SHOT_058 | 00:14:15–00:14:30 | A kind correction travels farther
+## SHOT_058 | 00:09:30–00:09:40 | A kind correction travels farther
 
 **Characters:** MAYA, DAN, ELLA. **Location:** PARK_OAK_PICNIC. **Wardrobe:** W01 only.
 **Composition:** Quiet medium of Maya, Dan and Ella across fixed places.
@@ -1222,7 +1224,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Children retain distinct voices; no speech addressed to viewers.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–2.04s · DAN 2.19–7.41s · ELLA 7.56–9.79s · DAN 9.94–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.36s · DAN 1.46–4.94s · ELLA 5.04–6.53s · DAN 6.63–9.53s.
 
 **Dialogue:**
 **MAYA:** You helped one another.
@@ -1233,7 +1235,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** A small one is fair. I did ask a squirrel.
 
-## SHOT_059 | 00:14:30–00:14:45 | A map needs a listener
+## SHOT_059 | 00:09:40–00:09:50 | A map needs a listener
 
 **Characters:** NINA, DAN, MAX. **Location:** PARK_OAK_PICNIC. **Wardrobe:** W01 only.
 **Composition:** Medium Nina right-end and Dan near-left with Max near-right.
@@ -1243,7 +1245,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Map is a tool, not infallible magic; adults remain available guides.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–2.47s · DAN 2.62–5.70s · NINA 5.85–10.21s · MAX 10.36–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.65s · DAN 1.75–3.80s · NINA 3.90–6.81s · MAX 6.91–9.53s.
 
 **Dialogue:**
 **MAX:** Can a map hear directions?
@@ -1254,7 +1256,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** I'll listen for the tree part first next time.
 
-## SHOT_060 | 00:14:45–00:15:00 | The oak gets no medal
+## SHOT_060 | 00:09:50–00:10:00 | The oak gets no medal
 
 **Characters:** ELLA, LEO, MAX. **Location:** PARK_OAK_PICNIC. **Wardrobe:** W01 only.
 **Composition:** Child-height three-shot in their fixed positions.
@@ -1264,7 +1266,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No ribbons, nails, litter or climbing added to tree; no visible animal cameo.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–2.97s · ELLA 3.12–5.84s · MAX 5.99–9.15s · LEO 9.30–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.98s · ELLA 2.08–3.89s · MAX 3.99–6.10s · LEO 6.20–8.89s.
 
 **Dialogue:**
 **LEO:** Best shade goes to the oak.
@@ -1275,7 +1277,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **LEO:** The tree definitely had the shortest trip to lunch.
 
-## SHOT_061 | 00:15:00–00:15:15 | A picnic is not a test
+## SHOT_061 | 00:10:00–00:10:10 | A picnic is not a test
 
 **Characters:** DAN, MAYA, NINA. **Location:** PARK_OAK_PICNIC. **Wardrobe:** W01 only.
 **Composition:** Warm adult three-shot across blanket, both mothers equally framed.
@@ -1285,7 +1287,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Core emotional beat differs from Episode02 impressing-through-size: here usefulness versus doing alone.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–4.07s · MAYA 4.22–8.03s · NINA 8.18–9.92s · DAN 10.07–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.71s · MAYA 2.81–5.35s · NINA 5.45–6.61s · DAN 6.71–9.53s.
 
 **Dialogue:**
 **DAN:** I wanted to take care of the directions myself.
@@ -1296,7 +1298,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** I like having two people around who notice different things.
 
-## SHOT_062 | 00:15:15–00:15:30 | Another sort of good guide
+## SHOT_062 | 00:10:10–00:10:20 | Another sort of good guide
 
 **Characters:** DAN, MAX, LEO. **Location:** PARK_OAK_PICNIC. **Wardrobe:** W01 only.
 **Composition:** Medium Dan at child eyeline from seated height.
@@ -1306,7 +1308,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Dan never left children alone; praise describes observation rather than saving a missing family.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–4.29s · MAX 4.44–6.72s · LEO 6.87–8.71s · DAN 8.86–12.90s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.86s · MAX 2.96–4.48s · LEO 4.58–5.81s · DAN 5.91–8.60s.
 
 **Dialogue:**
 **DAN:** Leo found the arrow. Max found the wrong neighbor.
@@ -1317,7 +1319,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** Thanks. I thought I'd only contributed the extra walk.
 
-## SHOT_063 | 00:15:30–00:15:45 | The tiny tree grows up
+## SHOT_063 | 00:10:20–00:10:30 | The tiny tree grows up
 
 **Characters:** ELLA, DAN, MAYA. **Location:** PARK_OAK_PICNIC. **Wardrobe:** W01 only.
 **Composition:** Medium Ella looking from big oak to Dan.
@@ -1327,7 +1329,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** A drawn symbol is not scale measurement; no implausible tree growth.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–2.97s · DAN 3.12–5.84s · MAYA 5.99–8.27s · ELLA 8.42–12.90s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.98s · DAN 2.08–3.89s · MAYA 3.99–5.51s · ELLA 5.61–8.60s.
 
 **Dialogue:**
 **ELLA:** Was the real tree slightly taller?
@@ -1338,7 +1340,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **ELLA:** Plenty of shade for someone with a very small map.
 
-## SHOT_064 | 00:15:45–00:16:00 | A place everyone can describe
+## SHOT_064 | 00:10:30–00:10:40 | A place everyone can describe
 
 **Characters:** MAYA, NINA, MAX. **Location:** PARK_OAK_PICNIC. **Wardrobe:** W01 only.
 **Composition:** Medium Maya and Nina across Max near-right.
@@ -1348,7 +1350,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Story dialogue to family, never an audience drill or prompted repetition.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–4.07s · MAX 4.22–7.62s · NINA 7.77–9.92s · MAX 10.07–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–2.71s · MAX 2.81–5.08s · NINA 5.18–6.61s · MAX 6.71–9.53s.
 
 **Dialogue:**
 **MAYA:** How would you tell us where this picnic is?
@@ -1359,7 +1361,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** And if you see the squirrel, wave across at us.
 
-## SHOT_065 | 00:16:00–00:16:15 | The fountain keeps its voice
+## SHOT_065 | 00:10:40–00:10:50 | The fountain keeps its voice
 
 **Characters:** DAN, MAX, ELLA. **Location:** PARK_OAK_PICNIC. **Wardrobe:** W01 only.
 **Composition:** Quiet medium with soft fountain in distant left background.
@@ -1369,7 +1371,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Diegetic fountain ambience only; no narrator, group chant or added dialogue crowd.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–3.41s · DAN 3.56–5.40s · ELLA 5.55–8.27s · DAN 8.42–12.46s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.27s · DAN 2.37–3.60s · ELLA 3.70–5.51s · DAN 5.61–8.31s.
 
 **Dialogue:**
 **MAX:** The fountain stayed exactly where it was.
@@ -1380,7 +1382,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** Funny how different it looked after just one turn.
 
-## SHOT_066 | 00:16:15–00:16:30 | The last bites take time
+## SHOT_066 | 00:10:50–00:11:00 | The last bites take time
 
 **Characters:** DAN, MAYA, NINA, LEO, ELLA, MAX. **Location:** PARK_OAK_PICNIC. **Wardrobe:** W01 only.
 **Composition:** Wide family tableau with explicit small mealtime dissolve.
@@ -1390,7 +1392,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Do not claim six meals finished in one real-time bite; preserve source count.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–2.81s · NINA 2.96–6.00s · DAN 6.15–7.72s · ELLA 7.87–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.87s · NINA 1.97–4.00s · DAN 4.10–5.15s · ELLA 5.25–8.27s.
 
 **Dialogue:**
 **LEO:** That was a good lunch.
@@ -1401,7 +1403,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **ELLA:** Let's check under the plates when we pack up.
 
-## SHOT_067 | 00:16:30–00:16:45 | The basket changes jobs
+## SHOT_067 | 00:11:00–00:11:10 | The basket changes jobs
 
 **Characters:** ELLA, LEO, DAN. **Location:** PARK_OAK_PICNIC. **Wardrobe:** W01 only.
 **Composition:** Medium clean-up hands over basket, food area clear.
@@ -1411,7 +1413,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Used dishes separated from cooler; no return of untouched sandwiches.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–3.41s · DAN 3.56–6.72s · LEO 6.87–9.15s · DAN 9.30–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.27s · DAN 2.37–4.48s · LEO 4.58–6.10s · DAN 6.20–9.19s.
 
 **Dialogue:**
 **ELLA:** The basket can carry the plates home.
@@ -1422,7 +1424,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** I think the plates would prefer a direct trip home.
 
-## SHOT_068 | 00:16:45–00:17:00 | Leave the shade as we found it
+## SHOT_068 | 00:11:10–00:11:20 | Leave the shade as we found it
 
 **Characters:** MAYA, NINA, MAX. **Location:** PARK_OAK_PICNIC. **Wardrobe:** W01 only.
 **Composition:** Medium ground scan around blanket, children with adult.
@@ -1432,7 +1434,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Do not pick unknown waste; adults handle unfamiliar objects if found; none appears.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–2.53s · MAYA 2.68–5.40s · NINA 5.55–9.15s · MAX 9.30–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.69s · MAYA 1.79–3.60s · NINA 3.70–6.10s · MAX 6.20–9.48s.
 
 **Dialogue:**
 **MAX:** No wrappers on the grass.
@@ -1443,7 +1445,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** I want the next picnic to have a nice spot too.
 
-## SHOT_069 | 00:17:00–00:17:15 | Fold the meeting place
+## SHOT_069 | 00:11:20–00:11:30 | Fold the meeting place
 
 **Characters:** MAYA, ELLA, DAN. **Location:** PARK_OAK_PICNIC. **Wardrobe:** W01 only.
 **Composition:** Medium same blue-white blanket folded with clean empty grass behind.
@@ -1453,7 +1455,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No public bench moved, food abandoned or second blanket left on lawn.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–3.41s · DAN 3.56–5.40s · MAYA 5.55–8.71s · ELLA 8.86–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.27s · DAN 2.37–3.60s · MAYA 3.70–5.81s · ELLA 5.91–8.89s.
 
 **Dialogue:**
 **ELLA:** The place looks different without the blanket.
@@ -1464,7 +1466,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **ELLA:** That's how we'll find it next time, even before lunch.
 
-## SHOT_070 | 00:17:15–00:17:30 | One last landmark check
+## SHOT_070 | 00:11:30–00:11:40 | One last landmark check
 
 **Characters:** DAN, MAYA, NINA, LEO, ELLA, MAX. **Location:** PARK_OAK_PICNIC. **Wardrobe:** W01 only.
 **Composition:** Wide six standing together, fountain at left, oak bench rear-right.
@@ -1474,7 +1476,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Return follows paved east branch, no crossing pond area or flowerbed.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–2.97s · LEO 3.12–5.84s · MAX 5.99–8.27s · NINA 8.42–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.98s · LEO 2.08–3.89s · MAX 3.99–5.51s · NINA 5.61–8.89s.
 
 **Dialogue:**
 **DAN:** Fountain first. Then the south gate.
@@ -1485,7 +1487,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **NINA:** This time the fountain's on our way out of the park.
 
-## SHOT_071 | 00:17:30–00:17:45 | A picture with the top marked
+## SHOT_071 | 00:11:40–00:11:50 | A picture with the top marked
 
 **Characters:** ELLA, DAN, LEO. **Location:** PARK_OAK_PICNIC. **Wardrobe:** W01 only.
 **Composition:** Close map sleeve held upright at chest height.
@@ -1495,7 +1497,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Do not add untracked new drawing, pencil or compass; exact SVG remains unchanged.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–2.97s · DAN 3.12–6.72s · LEO 6.87–9.15s · ELLA 9.30–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.98s · DAN 2.08–4.48s · LEO 4.58–6.10s · ELLA 6.20–8.89s.
 
 **Dialogue:**
 **ELLA:** Keep this arrow at the top.
@@ -1506,7 +1508,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **ELLA:** Just remember to turn yourself when we turn around.
 
-## SHOT_072 | 00:17:45–00:18:00 | The quiet guide receives thanks
+## SHOT_072 | 00:11:50–00:12:00 | The quiet guide receives thanks
 
 **Characters:** DAN, MAX, MAYA. **Location:** PARK_FOUNTAIN. **Wardrobe:** W01 only.
 **Composition:** Wide group passing fountain, statue distant left safely across path.
@@ -1516,7 +1518,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No renewed separation; wave does not create extra visit or animal scene.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–2.09s · DAN 2.24–5.40s · MAYA 5.55–8.71s · MAX 8.86–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.39s · DAN 1.49–3.60s · MAYA 3.70–5.81s · MAX 5.91–8.89s.
 
 **Dialogue:**
 **MAX:** Thank you, quiet guide.
@@ -1527,7 +1529,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** I'll wave for him. His paws look busy staying still.
 
-## SHOT_073 | 00:18:00–00:18:15 | Two benches, one good memory
+## SHOT_073 | 00:12:00–00:12:10 | Two benches, one good memory
 
 **Characters:** DAN, NINA, ELLA. **Location:** PARK_FOUNTAIN. **Wardrobe:** W01 only.
 **Composition:** Medium from south-facing return axis, explicit turn toward gate.
@@ -1537,7 +1539,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Facing south reverses personal left/right; use gate landmark instead of ambiguous screen right.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–2.61s · DAN 2.76–6.48s · NINA 6.63–8.07s · ELLA 8.22–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.74s · DAN 1.84–4.32s · NINA 4.42–5.38s · ELLA 5.48–8.27s.
 
 **Dialogue:**
 **ELLA:** Which bench will you remember?
@@ -1548,7 +1550,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **ELLA:** I'll remember which one has the surprisingly patient squirrel.
 
-## SHOT_074 | 00:18:15–00:18:30 | Through the gate together
+## SHOT_074 | 00:12:10–00:12:20 | Through the gate together
 
 **Characters:** DAN, MAYA, NINA, LEO, ELLA, MAX. **Location:** PARK_GATE. **Wardrobe:** W01 only.
 **Composition:** Wide mint gate departure, fountain behind, no traffic shown.
@@ -1558,7 +1560,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Do not show solo child street crossing; travel home occurs after clear cut.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–1.65s · MAYA 1.80–2.65s · MAX 2.80–4.64s · LEO 4.79–9.27s · DAN 9.42–13.02s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.10s · MAYA 1.20–1.77s · MAX 1.87–3.09s · LEO 3.19–6.18s · DAN 6.28–8.68s.
 
 **Dialogue:**
 **DAN:** Everybody with us?
@@ -1571,7 +1573,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** Somebody should give the squirrel a speaking part.
 
-## SHOT_075 | 00:18:30–00:18:45 | The correct kind of shortcut
+## SHOT_075 | 00:12:20–00:12:30 | The correct kind of shortcut
 
 **Characters:** LEO, DAN, MAX. **Location:** PARK_GATE. **Wardrobe:** W01 only.
 **Composition:** Medium just beyond gate before travel cut.
@@ -1581,7 +1583,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** This is a dialogue payoff, not a new chase or detour scene.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–1.20s · DAN 1.35–4.91s · LEO 5.06–6.44s · MAX 6.59–10.59s · DAN 10.74–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–0.80s · DAN 0.90–3.27s · LEO 3.37–4.29s · MAX 4.39–7.06s · DAN 7.16–9.53s.
 
 **Dialogue:**
 **MAX:** Any shortcuts?
@@ -1594,7 +1596,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** Good. Let's give those feet the last word.
 
-## SHOT_076 | 00:18:45–00:19:00 | Home with a small story
+## SHOT_076 | 00:12:30–00:12:40 | Home with a small story
 
 **Characters:** MAYA, NINA, DAN. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Medium return to original oak island after explicit walk cut.
@@ -1604,7 +1606,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Do not unload used dishes directly onto clean preparation island; mat separates them.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–1.33s · NINA 1.48–3.54s · DAN 3.69–7.23s · MAYA 7.38–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–0.89s · NINA 0.99–2.36s · DAN 2.46–4.82s · MAYA 4.92–8.27s.
 
 **Dialogue:**
 **MAYA:** Home again.
@@ -1615,7 +1617,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAYA:** Next time the directions can travel with a second reader.
 
-## SHOT_077 | 00:19:00–00:19:15 | The second useful job
+## SHOT_077 | 00:12:40–00:12:50 | The second useful job
 
 **Characters:** ELLA, LEO, MAX. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Medium children with safe clean-up tasks and adult hands nearby.
@@ -1625,7 +1627,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No child handles unknown rubbish or cleaning chemicals; kitchen safe tasks only.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–1.65s · LEO 1.80–3.64s · MAX 3.79–5.63s · ELLA 5.78–10.26s · MAX 10.41–13.13s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.10s · LEO 1.20–2.43s · MAX 2.53–3.75s · ELLA 3.85–6.84s · MAX 6.94–8.75s.
 
 **Dialogue:**
 **ELLA:** Blanket to laundry.
@@ -1638,7 +1640,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** Good. They've had quite a day.
 
-## SHOT_078 | 00:19:15–00:19:30 | One map, the right way up
+## SHOT_078 | 00:12:50–00:13:00 | One map, the right way up
 
 **Characters:** DAN, LEO, MAYA. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Over Dan shoulder laying north-up sketch on dry side shelf.
@@ -1648,7 +1650,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Story map is a park plan, not Episode01 shopping lists; original blue/yellow household canon untouched.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–4.19s · LEO 4.34–6.13s · MAYA 6.28–9.79s · DAN 9.94–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.79s · LEO 2.89–4.09s · MAYA 4.19–6.53s · DAN 6.63–9.53s.
 
 **Dialogue:**
 **DAN:** A place for the map. The right way up.
@@ -1659,7 +1661,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** Deal. The park's big enough for more than one navigator.
 
-## SHOT_079 | 00:19:30–00:19:45 | Tomorrow can use a simple question
+## SHOT_079 | 00:13:00–00:13:10 | Tomorrow can use a simple question
 
 **Characters:** NINA, DAN, MAX. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Warm medium three-shot across cleared island.
@@ -1667,9 +1669,9 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Starting continuity:** Park story resolved; no restaurant props or server introduced.
 **Ending continuity:** A brief restaurant-premise hint only; Episode06 not begun.
 **Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
-**Continuity:** Do not create a second location or extend story beyond20:00.
+**Continuity:** Do not create a second location or extend story beyond13:20.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): NINA 0.25–3.33s · DAN 3.48–7.41s · MAX 7.56–10.21s · DAN 10.36–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–2.22s · DAN 2.32–4.94s · MAX 5.04–6.81s · DAN 6.91–9.53s.
 
 **Dialogue:**
 **NINA:** We have our restaurant dinner another evening.
@@ -1680,7 +1682,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** Only if dessert is hiding behind a stone squirrel.
 
-## SHOT_080 | 00:19:45–00:20:00 | The bench with everyone
+## SHOT_080 | 00:13:10–00:13:20 | The bench with everyone
 
 **Characters:** DAN, MAYA, NINA, LEO, ELLA, MAX. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Final wide original kitchen family tableau.
@@ -1688,9 +1690,9 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Starting continuity:** Clean-up completed after elapsed time; map dry on shelf, cooler/basket empty and cleaned.
 **Ending continuity:** Six family members together at home; all picnic equipment put away.
 **Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
-**Continuity:** Exactly20:00 story; no narrator recap, audience drill, voice recording or generated video claimed.
+**Continuity:** Exactly13:20 story; no narrator recap, audience drill, voice recording or generated video claimed.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–4.48s · MAYA 4.63–7.20s · MAX 7.35–9.50s · ELLA 9.65–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.99s · MAYA 3.09–4.80s · MAX 4.90–6.33s · ELLA 6.43–9.53s.
 
 **Dialogue:**
 **DAN:** Next time, I will look for the bench with everyone.
