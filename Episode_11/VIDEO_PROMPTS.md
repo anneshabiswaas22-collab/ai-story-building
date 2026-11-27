@@ -1,14 +1,16 @@
 # Episode 11 — The Mouse That Ate the Moon!
 
-80 video prompts, one per illustrated shot. Copy a single numbered block and use the corresponding panel. Frame a clean 16:9 shot inside its composition. Keep the sheet border and neighboring panels outside the video. Clip-local speaker windows restart at zero in each prompt. Use the full-episode [subtitle track](SUBTITLES.srt) for assembly.
+Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start dialogue promptly, let meaningful actions and listener reactions occur during speech, and avoid filler silence, prolonged holds or unnatural motion. Speaker windows below are provisional editorial targets, not instructions to rush speech; verify against natural recorded performances. If a line cannot fit naturally, flag the shot for editorial review rather than truncating dialogue or artificially speeding it up.
+
+80 video prompts, one per illustrated shot. Copy a single numbered block and use the corresponding panel. Frame a clean 16:9 shot inside its composition. Keep the sheet border and neighboring panels outside the video. Clip-local speaker windows restart at zero in each prompt. Retime the existing full-episode [subtitle track](SUBTITLES.srt) against the recorded performances and revised 10-second timeline before assembly.
 
 [Storyboard gallery](STORYBOARD_INDEX.md) · [Screenplay](STORY.md) · [Cast, set references and edit notes](README.md#video-handoff)
 
 <a name="shot-001"></a>
 
-## SHOT_001 | 00:00:00–00:00:15 | A nose by the mug
+## SHOT_001 | 00:00:00–00:00:10 | A nose by the mug
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** DAN, MAX. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Counter-height close-up along the rim of the island. Rack focus from the cobalt mug to the little black nose.
 **Action:** Max walks a flat cardboard nose around the mug. Dan slides one protective hand toward the mug before he sees the stick.
@@ -17,7 +19,7 @@
 **Picture:** [BOARD_01.png](assets/storyboards/BOARD_01.png), panel 1 (top left). Creator and individual first-frame approval pending.
 **Continuity:** The cobalt mug stays on the island. Pip is a flat black card mouse with a curled tail and one stick. The paper crescent first appears in 003.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–2.86s · MAX 3.01–5.62s · DAN 5.78–8.39s · MAX 8.54–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.91s · MAX 2.01–3.75s · DAN 3.85–5.59s · MAX 5.69–8.27s.
 
 **Dialogue:**
 **DAN:** Something's after my mug.
@@ -30,9 +32,9 @@
 
 <a name="shot-002"></a>
 
-## SHOT_002 | 00:00:15–00:00:30 | The search party
+## SHOT_002 | 00:00:10–00:00:20 | The search party
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** DAN, MAX. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Stay low with Dan as he lifts the mug. Catch Max's eyes above the rim.
 **Action:** Dan lifts the mug to look underneath. Max raises Pip behind it at exactly the same speed. When Dan glances over the rim, they come nose to nose.
@@ -41,7 +43,7 @@
 **Picture:** [BOARD_01.png](assets/storyboards/BOARD_01.png), panel 2 (top right). Creator and individual first-frame approval pending.
 **Continuity:** The cobalt mug stays on the island. Pip is a flat black card mouse with a curled tail and one stick. The paper crescent first appears in 003.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.17s · MAX 3.33–5.33s · DAN 5.48–9.32s · MAX 9.47–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.11s · MAX 2.22–3.55s · DAN 3.65–6.21s · MAX 6.31–8.27s.
 
 **Dialogue:**
 **DAN:** Where'd he go?
@@ -54,9 +56,9 @@
 
 <a name="shot-003"></a>
 
-## SHOT_003 | 00:00:30–00:00:45 | A banana in the sky
+## SHOT_003 | 00:00:20–00:00:30 | A banana in the sky
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** DAN, ELLA, MAX. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Side-on three-shot with clear space between the two flat cutouts.
 **Action:** Ella lifts a dark paper crescent above Pip. Dan tilts his head until the crescent looks like a crooked banana. Ella turns his chin upright with a look.
@@ -65,7 +67,7 @@
 **Picture:** [BOARD_01.png](assets/storyboards/BOARD_01.png), panel 3 (bottom left). Creator and individual first-frame approval pending.
 **Continuity:** The cobalt mug stays on the island. Pip is a flat black card mouse with a curled tail and one stick. The paper crescent first appears in 003.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–2.40s · ELLA 2.55–4.19s · DAN 4.34–8.55s · MAX 8.70–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.60s · ELLA 1.70–2.79s · DAN 2.89–5.70s · MAX 5.80–8.27s.
 
 **Dialogue:**
 **DAN:** Is that his lunch?
@@ -78,9 +80,9 @@
 
 <a name="shot-004"></a>
 
-## SHOT_004 | 00:00:45–00:01:00 | A story of his own
+## SHOT_004 | 00:00:30–00:00:40 | A story of his own
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** NINA, MAX. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Tight two-shot at Max's height. Nina waits through the little bow.
 **Action:** Max makes Pip bow. Nina bends close enough to hear the voice he has been trying out under his breath.
@@ -89,7 +91,7 @@
 **Picture:** [BOARD_01.png](assets/storyboards/BOARD_01.png), panel 4 (bottom right). Creator and individual first-frame approval pending.
 **Continuity:** The cobalt mug stays on the island. Pip is a flat black card mouse with a curled tail and one stick. The paper crescent first appears in 003.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): NINA 0.25–3.43s · MAX 3.58–6.25s · NINA 6.40–8.55s · MAX 8.70–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–2.29s · MAX 2.39–4.17s · NINA 4.27–5.70s · MAX 5.80–8.27s.
 
 **Dialogue:**
 **NINA:** Did Rose like your cake story?
@@ -102,9 +104,9 @@
 
 <a name="shot-005"></a>
 
-## SHOT_005 | 00:01:00–00:01:15 | One piece of paper
+## SHOT_005 | 00:00:40–00:00:50 | One piece of paper
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** MAYA, MAX. **Location:** HOME_TABLE. **Wardrobe:** W01 only.
 **Composition:** From Max's end, frame the yellow card sliding into his reach.
 **Action:** Maya slides the card to Max. He folds it once and holds it up like the grandest ticket in town.
@@ -113,7 +115,7 @@
 **Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 1 (top left). Creator and individual first-frame approval pending.
 **Continuity:** Use the fixed dining-room seats. Dan takes Pip in 007. The folded yellow ticket leaves with Nina in 008. The mug stays in the kitchen.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–3.43s · MAX 3.58–4.71s · MAYA 4.86–7.52s · MAX 7.67–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–2.29s · MAX 2.39–3.14s · MAYA 3.24–5.01s · MAX 5.11–8.27s.
 
 **Dialogue:**
 **MAYA:** How many tickets do you need?
@@ -126,9 +128,9 @@
 
 <a name="shot-006"></a>
 
-## SHOT_006 | 00:01:15–00:01:30 | Where the moon lives
+## SHOT_006 | 00:00:50–00:01:00 | Where the moon lives
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** LEO, ELLA, MAX. **Location:** HOME_TABLE. **Wardrobe:** W01 only.
 **Composition:** Low view from Leo's left end across the tabletop, with the toys in profile.
 **Action:** Ella holds the crescent high. Max walks Pip below it while Leo follows the tiny steps with his chin on the table.
@@ -137,7 +139,7 @@
 **Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 2 (top right). Creator and individual first-frame approval pending.
 **Continuity:** Use the fixed dining-room seats. Dan takes Pip in 007. The folded yellow ticket leaves with Nina in 008. The mug stays in the kitchen.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–4.11s · MAX 4.26–6.25s · ELLA 6.40–9.64s · LEO 9.79–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.74s · MAX 2.84–4.17s · ELLA 4.27–6.43s · LEO 6.53–8.27s.
 
 **Dialogue:**
 **LEO:** Does he live up there too?
@@ -150,9 +152,9 @@
 
 <a name="shot-007"></a>
 
-## SHOT_007 | 00:01:30–00:01:45 | The fancy bow
+## SHOT_007 | 00:01:00–00:01:10 | The fancy bow
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** DAN, ELLA, MAX. **Location:** HOME_TABLE. **Wardrobe:** W01 only.
 **Composition:** Medium across Dan's near-left corner. Tilt down with Pip's overambitious bow.
 **Action:** Dan takes the stick and tries an extravagant bow. Pip's pointy nose bumps the table before the rest of him gets there.
@@ -161,7 +163,7 @@
 **Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 3 (bottom left). Creator and individual first-frame approval pending.
 **Continuity:** Use the fixed dining-room seats. Dan takes Pip in 007. The folded yellow ticket leaves with Nina in 008. The mug stays in the kitchen.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.17s · ELLA 3.33–6.72s · DAN 6.87–8.85s · MAX 9.00–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.11s · ELLA 2.22–4.48s · DAN 4.58–5.90s · MAX 6.00–8.27s.
 
 **Dialogue:**
 **DAN:** Every great actor takes a bow.
@@ -174,9 +176,9 @@
 
 <a name="shot-008"></a>
 
-## SHOT_008 | 00:01:45–00:02:00 | Little steps
+## SHOT_008 | 00:01:10–00:01:20 | Little steps
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** DAN, NINA, MAX. **Location:** HOME_TABLE. **Wardrobe:** W01 only.
 **Composition:** Hold on Dan's hand as the big flourish becomes two tiny steps.
 **Action:** Max shows two finger steps beside the puppet. Dan matches him. Nina slips the folded ticket inside her hand for the trip.
@@ -185,7 +187,7 @@
 **Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 4 (bottom right). Creator and individual first-frame approval pending.
 **Continuity:** Use the fixed dining-room seats. Dan takes Pip in 007. The folded yellow ticket leaves with Nina in 008. The mug stays in the kitchen.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–5.97s · NINA 6.12–7.65s · MAX 7.80–9.32s · DAN 9.47–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–3.98s · NINA 4.08–5.10s · MAX 5.20–6.21s · DAN 6.31–8.27s.
 
 **Dialogue:**
 **MAX:** Little steps, Dad. He's working up to something.
@@ -198,9 +200,9 @@
 
 <a name="shot-009"></a>
 
-## SHOT_009 | 00:02:00–00:02:15 | The unpaid understudy
+## SHOT_009 | 00:01:20–00:01:30 | The unpaid understudy
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** DAN, MAX. **Location:** HOME_PORCH. **Wardrobe:** W01 only.
 **Composition:** Look down across the sunny porch boards. Keep real shoes and their shadows in the same frame.
 **Action:** Dan lets his own long shadow cross the boards. Max puts one green sneaker alongside the shadow of Dan's shoe to measure the difference.
@@ -209,7 +211,7 @@
 **Picture:** [BOARD_03.png](assets/storyboards/BOARD_03.png), panel 1 (top left). Creator and individual first-frame approval pending.
 **Continuity:** Use the blue porch door and low afternoon light. Dan carries Pip, Ella the crescent and Nina the ticket. A passing cloud softens the cast shadows.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–4.30s · DAN 4.45–7.94s · MAX 8.09–9.32s · DAN 9.47–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.87s · DAN 2.97–5.29s · MAX 5.39–6.21s · DAN 6.31–8.27s.
 
 **Dialogue:**
 **MAX:** Dad, your shoe got here before you.
@@ -222,9 +224,9 @@
 
 <a name="shot-010"></a>
 
-## SHOT_010 | 00:02:15–00:02:30 | Pip's very long walk
+## SHOT_010 | 00:01:30–00:01:40 | Pip's very long walk
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** DAN, ELLA, MAX. **Location:** HOME_PORCH. **Wardrobe:** W01 only.
 **Composition:** Low side angle along the boards. Include the small cutout above its long floor shadow.
 **Action:** Dan tips the stick into the slanting sun. The tiny mouse throws a long skinny shadow, and Max follows its tail along one floorboard.
@@ -233,7 +235,7 @@
 **Picture:** [BOARD_03.png](assets/storyboards/BOARD_03.png), panel 2 (top right). Creator and individual first-frame approval pending.
 **Continuity:** Use the blue porch door and low afternoon light. Dan carries Pip, Ella the crescent and Nina the ticket. A passing cloud softens the cast shadows.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–2.31s · MAX 2.46–6.50s · DAN 6.65–9.70s · MAX 9.85–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.54s · MAX 1.64–4.33s · DAN 4.43–6.47s · MAX 6.57–8.27s.
 
 **Dialogue:**
 **ELLA:** Look at that tail!
@@ -246,9 +248,9 @@
 
 <a name="shot-011"></a>
 
-## SHOT_011 | 00:02:30–00:02:45 | The sun misses its cue
+## SHOT_011 | 00:01:40–00:01:50 | The sun misses its cue
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** DAN, NINA, MAX. **Location:** HOME_PORCH. **Wardrobe:** W01 only.
 **Composition:** Medium profile. Hold the pose as cloud shade passes over the porch.
 **Action:** A cloud covers the sun. Pip's sharp shadow fades. Dan freezes with one knee bent, ready for his next grand step, then peeks at Nina.
@@ -257,7 +259,7 @@
 **Picture:** [BOARD_03.png](assets/storyboards/BOARD_03.png), panel 3 (bottom left). Creator and individual first-frame approval pending.
 **Continuity:** Use the blue porch door and low afternoon light. Dan carries Pip, Ella the crescent and Nina the ticket. A passing cloud softens the cast shadows.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.74s · NINA 3.89–6.81s · MAX 6.96–10.45s · DAN 10.60–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.49s · NINA 2.59–4.54s · MAX 4.64–6.97s · DAN 7.07–8.27s.
 
 **Dialogue:**
 **DAN:** I'm ready whenever the sun is.
@@ -270,9 +272,9 @@
 
 <a name="shot-012"></a>
 
-## SHOT_012 | 00:02:45–00:03:00 | An indoor sun
+## SHOT_012 | 00:01:50–00:02:00 | An indoor sun
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** NINA, ELLA, DAN. **Location:** HOME_PORCH. **Wardrobe:** W01 only.
 **Composition:** From the rail, follow Nina's glance back through the blue front door.
 **Action:** Nina opens the door and mimes clicking a switch. Ella leads the way in. Dan follows carefully with Pip tucked close.
@@ -281,7 +283,7 @@
 **Picture:** [BOARD_03.png](assets/storyboards/BOARD_03.png), panel 4 (bottom right). Creator and individual first-frame approval pending.
 **Continuity:** Use the blue porch door and low afternoon light. Dan carries Pip, Ella the crescent and Nina the ticket. A passing cloud softens the cast shadows.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): NINA 0.25–4.30s · ELLA 4.45–6.81s · DAN 6.96–9.32s · NINA 9.47–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–2.87s · ELLA 2.97–4.54s · DAN 4.64–6.21s · NINA 6.31–8.27s.
 
 **Dialogue:**
 **NINA:** We have a light that stays put.
@@ -294,9 +296,9 @@
 
 <a name="shot-013"></a>
 
-## SHOT_013 | 00:03:00–00:03:15 | The screen on the bench
+## SHOT_013 | 00:02:00–00:02:10 | The screen on the bench
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** MAYA, LEO. **Location:** HOME_ENTRY. **Wardrobe:** W01 only.
 **Composition:** Frame the oak bench on the right and the guest passage beyond it.
 **Action:** Maya lifts the frame while Leo unfolds its two feet. He peers through the milky white cloth, hoping to see Maya's face.
@@ -305,7 +307,7 @@
 **Picture:** [BOARD_04.png](assets/storyboards/BOARD_04.png), panel 1 (top left). Creator and individual first-frame approval pending.
 **Continuity:** One oak frame with white translucent cloth, one amber battery desk lamp. The family enters through the hall. The lamp first turns on in 016.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–3.92s · MAYA 4.07–7.14s · LEO 7.29–9.18s · MAYA 9.33–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.61s · MAYA 2.71–4.76s · LEO 4.86–6.12s · MAYA 6.22–8.27s.
 
 **Dialogue:**
 **LEO:** I can see light through it.
@@ -318,9 +320,9 @@
 
 <a name="shot-014"></a>
 
-## SHOT_014 | 00:03:15–00:03:30 | The light department
+## SHOT_014 | 00:02:10–00:02:20 | The light department
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** NINA, MAX. **Location:** HOME_ENTRY. **Wardrobe:** W01 only.
 **Composition:** Close on the small amber battery lamp at the bench. Pan up to Nina's face.
 **Action:** Nina hands Max the ticket, picks up the cordless lamp and angles its head. Max holds the ticket against his green shirt like an important badge.
@@ -329,7 +331,7 @@
 **Picture:** [BOARD_04.png](assets/storyboards/BOARD_04.png), panel 2 (top right). Creator and individual first-frame approval pending.
 **Continuity:** One oak frame with white translucent cloth, one amber battery desk lamp. The family enters through the hall. The lamp first turns on in 016.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–4.30s · NINA 4.45–7.94s · MAX 8.09–9.89s · NINA 10.04–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.87s · NINA 2.97–5.29s · MAX 5.39–6.59s · NINA 6.69–8.27s.
 
 **Dialogue:**
 **MAX:** Can I be in charge of something?
@@ -342,9 +344,9 @@
 
 <a name="shot-015"></a>
 
-## SHOT_015 | 00:03:30–00:03:45 | The job nobody wants
+## SHOT_015 | 00:02:20–00:02:30 | The job nobody wants
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** DAN, ELLA, LEO, MAX. **Location:** HOME_ENTRY. **Wardrobe:** W01 only.
 **Composition:** Medium on the four at the guest-room threshold. Keep the doorway clear.
 **Action:** Leo gestures to imagine an enormous queue outside the empty hall. Max waves the three through with such gravity that Dan straightens his collar.
@@ -353,7 +355,7 @@
 **Picture:** [BOARD_04.png](assets/storyboards/BOARD_04.png), panel 3 (bottom left). Creator and individual first-frame approval pending.
 **Continuity:** One oak frame with white translucent cloth, one amber battery desk lamp. The family enters through the hall. The lamp first turns on in 016.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–3.92s · DAN 4.07–7.14s · ELLA 7.29–10.36s · MAX 10.51–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.61s · DAN 2.71–4.76s · ELLA 4.86–6.91s · MAX 7.01–8.27s.
 
 **Dialogue:**
 **LEO:** Who's going to stand in line?
@@ -366,9 +368,9 @@
 
 <a name="shot-016"></a>
 
-## SHOT_016 | 00:03:45–00:04:00 | Two sides of one stage
+## SHOT_016 | 00:02:30–00:02:40 | Two sides of one stage
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** MAYA, NINA, LEO. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
 **Composition:** Wide side-on master showing the lamp, the space for a puppet, the white screen and the audience side in that order.
 **Action:** Maya plants both screen feet on the door-facing end of the table. Nina sets the lamp at the window end and switches it on. Leo looks at the blank rectangle from the audience side.
@@ -377,7 +379,7 @@
 **Picture:** [BOARD_04.png](assets/storyboards/BOARD_04.png), panel 4 (bottom right). Creator and individual first-frame approval pending.
 **Continuity:** One oak frame with white translucent cloth, one amber battery desk lamp. The family enters through the hall. The lamp first turns on in 016.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–3.58s · NINA 3.73–6.52s · LEO 6.67–9.46s · MAYA 9.61–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.39s · NINA 2.49–4.35s · LEO 4.45–6.31s · MAYA 6.41–8.27s.
 
 **Dialogue:**
 **LEO:** Which side do I sit on?
@@ -390,9 +392,9 @@
 
 <a name="shot-017"></a>
 
-## SHOT_017 | 00:04:00–00:04:15 | Hanging the moon
+## SHOT_017 | 00:02:40–00:02:50 | Hanging the moon
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** ELLA, MAYA. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
 **Composition:** Three-quarter along the frame edge so the clothespin and crescent are distinct.
 **Action:** Ella clips the flat crescent to the lamp side at the upper audience-right corner. Maya checks the single crisp silhouette from in front.
@@ -401,7 +403,7 @@
 **Picture:** [BOARD_05.png](assets/storyboards/BOARD_05.png), panel 1 (top left). Creator and individual first-frame approval pending.
 **Continuity:** Light travels from the window end of the worktable toward the audience at the door. The moon clips high audience-right. Dan moves Pip. Max voices him.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–3.93s · MAYA 4.08–6.34s · ELLA 6.49–7.86s · MAYA 8.01–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.62s · MAYA 2.72–4.23s · ELLA 4.33–5.24s · MAYA 5.34–8.27s.
 
 **Dialogue:**
 **ELLA:** How high is the moon?
@@ -414,9 +416,9 @@
 
 <a name="shot-018"></a>
 
-## SHOT_018 | 00:04:15–00:04:30 | One small traveler
+## SHOT_018 | 00:02:50–00:03:00 | One small traveler
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** DAN, MAX, LEO. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
 **Composition:** From the audience, include the left edge of the frame and the small mouse low in the light.
 **Action:** Dan holds Pip close to the cloth at lower audience-left. Leo crouches in front and frames the little traveler between finger and thumb.
@@ -425,7 +427,7 @@
 **Picture:** [BOARD_05.png](assets/storyboards/BOARD_05.png), panel 2 (top right). Creator and individual first-frame approval pending.
 **Continuity:** Light travels from the window end of the worktable toward the audience at the door. The moon clips high audience-right. Dan moves Pip. Max voices him.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–4.12s · MAX 4.27–7.06s · DAN 7.21–10.54s · MAX 10.69–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.75s · MAX 2.85–4.71s · DAN 4.81–7.03s · MAX 7.13–8.27s.
 
 **Dialogue:**
 **LEO:** He's about as big as my thumb.
@@ -438,9 +440,9 @@
 
 <a name="shot-019"></a>
 
-## SHOT_019 | 00:04:30–00:04:45 | Two voices for one mouse
+## SHOT_019 | 00:03:00–00:03:10 | Two voices for one mouse
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** DAN, MAX. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
 **Composition:** Backstage two-shot, stick in Dan's hand and Max about to speak beside it.
 **Action:** Dan supplies a splendid squeak just as Max opens his mouth. They turn toward each other, each waiting for the other mouse to finish.
@@ -449,7 +451,7 @@
 **Picture:** [BOARD_05.png](assets/storyboards/BOARD_05.png), panel 3 (bottom left). Creator and individual first-frame approval pending.
 **Continuity:** Light travels from the window end of the worktable toward the audience at the door. The moon clips high audience-right. Dan moves Pip. Max voices him.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–5.00s · DAN 5.15–6.63s · MAX 6.78–8.27s · DAN 8.42–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–3.33s · DAN 3.43–4.42s · MAX 4.52–5.51s · DAN 5.61–8.27s.
 
 **Dialogue:**
 **MAX:** Once there was a mouse who—
@@ -462,9 +464,9 @@
 
 <a name="shot-020"></a>
 
-## SHOT_020 | 00:04:45–00:05:00 | One voice is plenty
+## SHOT_020 | 00:03:10–00:03:20 | One voice is plenty
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** DAN, MAX, NINA. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
 **Composition:** Tight on Max and Dan from the open side of the stage. Nina listens at the frame edge.
 **Action:** Max points at his own throat, then at Dan's hand. Dan tests their new arrangement by moving Pip's feet while keeping his mouth politely shut.
@@ -473,7 +475,7 @@
 **Picture:** [BOARD_05.png](assets/storyboards/BOARD_05.png), panel 4 (bottom right). Creator and individual first-frame approval pending.
 **Continuity:** Light travels from the window end of the worktable toward the audience at the door. The moon clips high audience-right. Dan moves Pip. Max voices him.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–3.32s · DAN 3.47–6.55s · NINA 6.70–9.18s · DAN 9.33–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.21s · DAN 2.31–4.37s · NINA 4.47–6.12s · DAN 6.22–8.27s.
 
 **Dialogue:**
 **MAX:** Can I do his voice?
@@ -486,9 +488,9 @@
 
 <a name="shot-021"></a>
 
-## SHOT_021 | 00:05:00–00:05:15 | Closer to what?
+## SHOT_021 | 00:03:20–00:03:30 | Closer to what?
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** ELLA, DAN, MAX. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
 **Composition:** Look from Ella's finger to Dan's eyes. He is watching her face.
 **Action:** Ella points along the cloth toward the crescent. Dan hooks a thumb back toward himself and the lamp, mistaking the direction. Max follows the tip of Ella's finger.
@@ -497,7 +499,7 @@
 **Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 1 (top left). Creator and individual first-frame approval pending.
 **Continuity:** The white screen, amber light and clipped crescent stay fixed. Only the mouse moves in depth. Its projected ear covers the moon as it nears the lamp.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–4.11s · DAN 4.25–5.88s · ELLA 6.03–8.39s · MAX 8.54–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.74s · DAN 2.83–3.92s · ELLA 4.02–5.59s · MAX 5.69–8.27s.
 
 **Dialogue:**
 **ELLA:** Bring him a little closer.
@@ -510,9 +512,9 @@
 
 <a name="shot-022"></a>
 
-## SHOT_022 | 00:05:15–00:05:30 | The ear that kept going
+## SHOT_022 | 00:03:30–00:03:40 | The ear that kept going
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** DAN, LEO. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
 **Composition:** Side profile with the lamp, cutout and screen all legible. Let the growing ear fill the far edge.
 **Action:** Dan draws the small cutout back toward the light. Leo tracks the growing shadow, first with a finger, then with his whole arm.
@@ -521,7 +523,7 @@
 **Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 2 (top right). Creator and individual first-frame approval pending.
 **Continuity:** The white screen, amber light and clipped crescent stay fixed. Only the mouse moves in depth. Its projected ear covers the moon as it nears the lamp.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–4.17s · DAN 4.32–6.72s · LEO 6.87–8.33s · DAN 8.48–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.78s · DAN 2.88–4.48s · LEO 4.58–5.55s · DAN 5.65–8.27s.
 
 **Dialogue:**
 **LEO:** Dad, his ear's getting bigger.
@@ -534,9 +536,9 @@
 
 <a name="shot-023"></a>
 
-## SHOT_023 | 00:05:30–00:05:45 | Where did the sky go?
+## SHOT_023 | 00:03:40–00:03:50 | Where did the sky go?
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** MAYA, LEO. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
 **Off-screen cast:** DAN
 **Composition:** Audience-side close-up of the white screen, with Maya and Leo at its outer edges.
@@ -546,7 +548,7 @@
 **Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 3 (bottom left). Creator and individual first-frame approval pending.
 **Continuity:** The white screen, amber light and clipped crescent stay fixed. Only the mouse moves in depth. Its projected ear covers the moon as it nears the lamp.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–3.17s · MAYA 3.33–6.25s · LEO 6.40–10.02s · MAYA 10.17–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.11s · MAYA 2.22–4.17s · LEO 4.27–6.68s · MAYA 6.78–8.27s.
 
 **Dialogue:**
 **LEO:** Wait. Where's the moon?
@@ -559,9 +561,9 @@
 
 <a name="shot-024"></a>
 
-## SHOT_024 | 00:05:45–00:06:00 | A very small burp
+## SHOT_024 | 00:03:50–00:04:00 | A very small burp
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** DAN, ELLA, MAX. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
 **Composition:** Backstage three-shot. Keep the tiny real cutout and its enormous shadow in the same composition.
 **Action:** Dan looks to Max for the mouse's reaction. Max lets out the tiniest possible burp as Pip. Ella bends double trying to muffle her laugh.
@@ -570,7 +572,7 @@
 **Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 4 (bottom right). Creator and individual first-frame approval pending.
 **Continuity:** The white screen, amber light and clipped crescent stay fixed. Only the mouse moves in depth. Its projected ear covers the moon as it nears the lamp.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.74s · MAX 3.89–5.12s · ELLA 5.27–9.32s · MAX 9.47–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.49s · MAX 2.59–3.41s · ELLA 3.51–6.21s · MAX 6.31–8.27s.
 
 **Dialogue:**
 **DAN:** Anything to say for yourself, Pip?
@@ -583,9 +585,9 @@
 
 <a name="shot-025"></a>
 
-## SHOT_025 | 00:06:00–00:06:15 | Still on its peg
+## SHOT_025 | 00:04:00–00:04:10 | Still on its peg
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** ELLA, DAN. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
 **Composition:** Profile of the upper edge from backstage. Follow Ella's finger to the wooden clip.
 **Action:** Dan starts looking under the table for the moon. Ella touches the crescent on the back of the screen. He stops halfway down.
@@ -594,7 +596,7 @@
 **Picture:** [BOARD_07.png](assets/storyboards/BOARD_07.png), panel 1 (top left). Creator and individual first-frame approval pending.
 **Continuity:** Pip stays in Dan’s hand, then drops below the beam in 026. The crescent remains clipped at the same height. Yellow ticket belongs to Max.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–2.86s · ELLA 3.01–5.00s · DAN 5.15–7.14s · ELLA 7.29–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.91s · ELLA 2.01–3.33s · DAN 3.43–4.76s · ELLA 4.86–8.27s.
 
 **Dialogue:**
 **DAN:** Did it fall off?
@@ -607,9 +609,9 @@
 
 <a name="shot-026"></a>
 
-## SHOT_026 | 00:06:15–00:06:30 | A moon on its own
+## SHOT_026 | 00:04:10–00:04:20 | A moon on its own
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** NINA. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
 **Off-screen cast:** DAN
 **Composition:** Side view across the corner, catching Dan's lowered hand and the audience face of the screen.
@@ -619,7 +621,7 @@
 **Picture:** [BOARD_07.png](assets/storyboards/BOARD_07.png), panel 2 (top right). Creator and individual first-frame approval pending.
 **Continuity:** Pip stays in Dan’s hand, then drops below the beam in 026. The crescent remains clipped at the same height. Yellow ticket belongs to Max.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): NINA 0.25–2.62s · DAN 2.77–5.13s · NINA 5.28–8.39s · DAN 8.54–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–1.75s · DAN 1.85–3.42s · NINA 3.52–5.59s · DAN 5.69–8.27s.
 
 **Dialogue:**
 **NINA:** There's one tip.
@@ -632,9 +634,9 @@
 
 <a name="shot-027"></a>
 
-## SHOT_027 | 00:06:30–00:06:45 | Folded small
+## SHOT_027 | 00:04:20–00:04:30 | Folded small
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** MAX, LEO. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
 **Composition:** Over Leo's shoulder, move focus to Max pressing the yellow paper crease.
 **Action:** Leo tries a little imitation of the burp. He spots Max flattening the ticket with his thumb and lets the joke trail off.
@@ -643,7 +645,7 @@
 **Picture:** [BOARD_07.png](assets/storyboards/BOARD_07.png), panel 3 (bottom left). Creator and individual first-frame approval pending.
 **Continuity:** Pip stays in Dan’s hand, then drops below the beam in 026. The crescent remains clipped at the same height. Yellow ticket belongs to Max.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–3.92s · MAX 4.07–6.55s · LEO 6.70–10.36s · MAX 10.51–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.61s · MAX 2.71–4.37s · LEO 4.47–6.91s · MAX 7.01–8.27s.
 
 **Dialogue:**
 **LEO:** Is he going to burp again?
@@ -656,9 +658,9 @@
 
 <a name="shot-028"></a>
 
-## SHOT_028 | 00:06:45–00:07:00 | Nobody left to invite
+## SHOT_028 | 00:04:30–00:04:40 | Nobody left to invite
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** MAYA, MAX. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
 **Composition:** Hold at their eye level. Give Max time to look up before his last line.
 **Action:** Maya crouches and holds out an open palm. Max rests the folded ticket there without letting go, then tells her what the joke cost his mouse.
@@ -667,7 +669,7 @@
 **Picture:** [BOARD_07.png](assets/storyboards/BOARD_07.png), panel 4 (bottom right). Creator and individual first-frame approval pending.
 **Continuity:** Pip stays in Dan’s hand, then drops below the beam in 026. The crescent remains clipped at the same height. Yellow ticket belongs to Max.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–5.27s · MAX 5.42–6.95s · MAYA 7.10–8.63s · MAX 8.78–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–3.51s · MAX 3.61–4.63s · MAYA 4.73–5.75s · MAX 5.85–8.27s.
 
 **Dialogue:**
 **MAYA:** What happens if he eats the moon?
@@ -680,9 +682,9 @@
 
 <a name="shot-029"></a>
 
-## SHOT_029 | 00:07:00–00:07:15 | A hand at the screen
+## SHOT_029 | 00:04:40–00:04:50 | A hand at the screen
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** LEO, NINA. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
 **Composition:** Backstage side-on close-up of Leo's palm and its sharp outline below the crescent.
 **Action:** Leo slips an open hand into the light, almost touching the cloth. Nina checks the size of its clear five-fingered shadow from the audience side.
@@ -691,7 +693,7 @@
 **Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 1 (top left). Creator and individual first-frame approval pending.
 **Continuity:** Leo tests his own hand with the lamp and screen fixed. Mouse stays below the beam. The crescent stays top right. Hand clears the beam in 031.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–3.32s · NINA 3.47–5.36s · LEO 5.51–9.18s · NINA 9.33–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.21s · NINA 2.31–3.57s · LEO 3.67–6.12s · NINA 6.22–8.27s.
 
 **Dialogue:**
 **LEO:** Can I borrow the light?
@@ -704,9 +706,9 @@
 
 <a name="shot-030"></a>
 
-## SHOT_030 | 00:07:15–00:07:30 | Five enormous reasons
+## SHOT_030 | 00:04:50–00:05:00 | Five enormous reasons
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** LEO, DAN. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
 **Composition:** Audience three-quarter across the lit cloth, with Leo and Dan just past its open edge.
 **Action:** Leo draws the same hand toward the lamp. Its shadow opens into a huge soft-edged fan. Dan offers the shadow a solemn handshake from outside the beam.
@@ -715,7 +717,7 @@
 **Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 2 (top right). Creator and individual first-frame approval pending.
 **Continuity:** Leo tests his own hand with the lamp and screen fixed. Mouse stays below the beam. The crescent stays top right. Hand clears the beam in 031.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–4.11s · LEO 4.26–6.88s · DAN 7.03–9.01s · LEO 9.16–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.74s · LEO 2.84–4.59s · DAN 4.69–6.01s · LEO 6.11–8.27s.
 
 **Dialogue:**
 **DAN:** May I shake your enormous hand?
@@ -728,9 +730,9 @@
 
 <a name="shot-031"></a>
 
-## SHOT_031 | 00:07:30–00:07:45 | A better look
+## SHOT_031 | 00:05:00–00:05:10 | A better look
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** NINA, LEO, MAX. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
 **Composition:** At the open end of the worktable, sight along the beam without reversing the audience axis.
 **Action:** Nina brings Max around to the open side. From there he sees the small hand by the light and the giant hand on the cloth at the same time. Leo pulls his hand clear.
@@ -739,7 +741,7 @@
 **Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 3 (bottom left). Creator and individual first-frame approval pending.
 **Continuity:** Leo tests his own hand with the lamp and screen fixed. Mouse stays below the beam. The crescent stays top right. Hand clears the beam in 031.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–3.17s · LEO 3.33–6.72s · NINA 6.87–8.38s · MAX 8.53–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.11s · LEO 2.22–4.48s · NINA 4.58–5.59s · MAX 5.69–8.27s.
 
 **Dialogue:**
 **MAX:** Your fingers didn't grow at all.
@@ -752,9 +754,9 @@
 
 <a name="shot-032"></a>
 
-## SHOT_032 | 00:07:45–00:08:00 | The rest of the sentence
+## SHOT_032 | 00:05:10–00:05:20 | The rest of the sentence
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** ELLA, DAN, MAX. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
 **Composition:** Medium along the cloth. Ella traces a sideways path in the air, clear of the beam.
 **Action:** Ella comes beside Dan and repeats her gesture where he can see it. He traces her path along the cloth, then points back at the lamp to show her what he heard.
@@ -763,7 +765,7 @@
 **Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 4 (bottom right). Creator and individual first-frame approval pending.
 **Continuity:** Leo tests his own hand with the lamp and screen fixed. Mouse stays below the beam. The crescent stays top right. Hand clears the beam in 031.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–2.97s · DAN 3.12–6.28s · MAX 6.43–9.59s · ELLA 9.74–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.98s · DAN 2.08–4.19s · MAX 4.29–6.39s · ELLA 6.49–8.89s.
 
 **Dialogue:**
 **ELLA:** I meant closer to the moon.
@@ -776,9 +778,9 @@
 
 <a name="shot-033"></a>
 
-## SHOT_033 | 00:08:00–00:08:15 | The blue path
+## SHOT_033 | 00:05:20–00:05:30 | The blue path
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** LEO, ELLA. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
 **Composition:** Overhead insert of the tabletop edge and Leo's hands. Keep the strip parallel to the cloth.
 **Action:** Leo peels off the short blue strip and presses it along the performer's side near the screen. Ella walks two fingers along it from one end to the other.
@@ -787,7 +789,7 @@
 **Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 1 (top left). Creator and individual first-frame approval pending.
 **Continuity:** One blue strip beside the screen marks the small shadow. One orange dot nearer the lamp marks the big shadow. Dan moves Pip along blue in 036.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–3.78s · ELLA 3.93–7.46s · LEO 7.61–8.72s · ELLA 8.87–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.52s · ELLA 2.62–4.97s · LEO 5.07–5.81s · ELLA 5.91–8.27s.
 
 **Dialogue:**
 **LEO:** Here's a path for his feet.
@@ -800,9 +802,9 @@
 
 <a name="shot-034"></a>
 
-## SHOT_034 | 00:08:15–00:08:30 | Save the big spot
+## SHOT_034 | 00:05:30–00:05:40 | Save the big spot
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** MAX, LEO. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
 **Off-screen cast:** NINA
 **Composition:** Low insert along the table. Show the blue strip at one end and the separate orange dot at the other.
@@ -812,7 +814,7 @@
 **Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 2 (top right). Creator and individual first-frame approval pending.
 **Continuity:** One blue strip beside the screen marks the small shadow. One orange dot nearer the lamp marks the big shadow. Dan moves Pip along blue in 036.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–3.49s · NINA 3.64–6.25s · MAX 6.40–9.01s · LEO 9.16–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.33s · NINA 2.43–4.17s · MAX 4.27–6.01s · LEO 6.11–8.27s.
 
 **Dialogue:**
 **MAX:** Keep the giant spot too.
@@ -825,9 +827,9 @@
 
 <a name="shot-035"></a>
 
-## SHOT_035 | 00:08:30–00:08:45 | Small again
+## SHOT_035 | 00:05:40–00:05:50 | Small again
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** DAN, MAX. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
 **Composition:** Backstage profile of the mouse stick at blue and the matching tiny shadow on the cloth.
 **Action:** At Max's direction Dan lifts Pip at lower left, right above the blue strip. Max watches the small, crisp silhouette appear without disturbing the moon.
@@ -836,7 +838,7 @@
 **Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 3 (bottom left). Creator and individual first-frame approval pending.
 **Continuity:** One blue strip beside the screen marks the small shadow. One orange dot nearer the lamp marks the big shadow. Dan moves Pip along blue in 036.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–3.87s · DAN 4.02–6.25s · MAX 6.40–7.93s · DAN 8.08–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.58s · DAN 2.68–4.17s · MAX 4.27–5.29s · DAN 5.39–8.27s.
 
 **Dialogue:**
 **MAX:** Closer to the screen, Dad.
@@ -849,9 +851,9 @@
 
 <a name="shot-036"></a>
 
-## SHOT_036 | 00:08:45–00:09:00 | Across, not back
+## SHOT_036 | 00:05:50–00:06:00 | Across, not back
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** DAN, ELLA, MAX. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
 **Composition:** Audience three-quarter on the gap between two separate silhouettes, faces visible at the open side.
 **Action:** Dan walks the mouse along the blue strip toward the spot below the crescent. Ella watches the gap. Max nods when both shapes still have room.
@@ -860,7 +862,7 @@
 **Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 4 (bottom right). Creator and individual first-frame approval pending.
 **Continuity:** One blue strip beside the screen marks the small shadow. One orange dot nearer the lamp marks the big shadow. Dan moves Pip along blue in 036.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–3.58s · DAN 3.73–5.98s · MAX 6.13–8.92s · DAN 9.07–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.39s · DAN 2.49–3.99s · MAX 4.09–5.95s · DAN 6.05–8.27s.
 
 **Dialogue:**
 **ELLA:** Now slide him toward the moon.
@@ -873,9 +875,9 @@
 
 <a name="shot-037"></a>
 
-## SHOT_037 | 00:09:00–00:09:15 | A mouse with stage fright
+## SHOT_037 | 00:06:00–00:06:10 | A mouse with stage fright
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** DAN, MAX. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
 **Composition:** Tight on the trembling stick, then on Max catching Dan holding his breath.
 **Action:** The mouse wobbles while Dan tries very hard to keep quiet. Max lays a hand on Dan's sleeve and feels the laugh he is holding in.
@@ -884,7 +886,7 @@
 **Picture:** [BOARD_10.png](assets/storyboards/BOARD_10.png), panel 1 (top left). Creator and individual first-frame approval pending.
 **Continuity:** Pip stays close to the cloth and the moon stays clipped. Max sets his ticket at the foot in 040. Dan holds the stick through the end of 040.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–2.48s · DAN 2.63–4.85s · MAX 5.00–7.93s · DAN 8.08–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.65s · DAN 1.75–3.23s · MAX 3.33–5.29s · DAN 5.39–8.27s.
 
 **Dialogue:**
 **MAX:** Is Pip nervous?
@@ -897,9 +899,9 @@
 
 <a name="shot-038"></a>
 
-## SHOT_038 | 00:09:15–00:09:30 | The big voice
+## SHOT_038 | 00:06:10–00:06:20 | The big voice
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** MAX, ELLA. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
 **Composition:** Close backstage on Max puffing himself up. Ella stays low beside him.
 **Action:** Max draws himself to his full small height and tries a booming greeting. Halfway through, his voice trips over the last word and he laughs with Ella.
@@ -908,7 +910,7 @@
 **Picture:** [BOARD_10.png](assets/storyboards/BOARD_10.png), panel 2 (top right). Creator and individual first-frame approval pending.
 **Continuity:** Pip stays close to the cloth and the moon stays clipped. Max sets his ticket at the foot in 040. Dan holds the stick through the end of 040.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–3.21s · ELLA 3.36–5.75s · MAX 5.90–7.00s · ELLA 7.15–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.14s · ELLA 2.24–3.83s · MAX 3.93–4.67s · ELLA 4.77–8.27s.
 
 **Dialogue:**
 **MAX:** Greetings, enormous ball of sky!
@@ -921,9 +923,9 @@
 
 <a name="shot-039"></a>
 
-## SHOT_039 | 00:09:30–00:09:45 | Through the cloth
+## SHOT_039 | 00:06:20–00:06:30 | Through the cloth
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** MAYA, MAX. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
 **Composition:** Across the side edge of the screen so Maya's listening face and Max backstage share the frame.
 **Action:** Maya steps back one pace and cups an ear. Max asks a real question in the voice he uses at home. Maya answers without leaning forward.
@@ -932,7 +934,7 @@
 **Picture:** [BOARD_10.png](assets/storyboards/BOARD_10.png), panel 3 (bottom left). Creator and individual first-frame approval pending.
 **Continuity:** Pip stays close to the cloth and the moon stays clipped. Max sets his ticket at the foot in 040. Dan holds the stick through the end of 040.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–5.16s · MAYA 5.31–7.04s · MAX 7.19–9.72s · MAYA 9.87–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–3.44s · MAYA 3.54–4.69s · MAX 4.79–6.48s · MAYA 6.58–8.27s.
 
 **Dialogue:**
 **MAX:** Can you hear me from there?
@@ -945,9 +947,9 @@
 
 <a name="shot-040"></a>
 
-## SHOT_040 | 00:09:45–00:10:00 | Taking the stick
+## SHOT_040 | 00:06:30–00:06:40 | Taking the stick
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** MAX, DAN. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
 **Composition:** Medium two-shot backstage. Hold on the open hand before the handoff.
 **Action:** Max puts the ticket flat beside the screen foot, then holds out his empty palm. Dan turns the stick handle-first toward him and waits for Max to ask.
@@ -956,7 +958,7 @@
 **Picture:** [BOARD_10.png](assets/storyboards/BOARD_10.png), panel 4 (bottom right). Creator and individual first-frame approval pending.
 **Continuity:** Pip stays close to the cloth and the moon stays clipped. Max sets his ticket at the foot in 040. Dan holds the stick through the end of 040.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–3.74s · DAN 3.89–5.12s · MAX 5.27–9.89s · DAN 10.04–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.49s · DAN 2.59–3.41s · MAX 3.51–6.59s · DAN 6.69–8.27s.
 
 **Dialogue:**
 **MAX:** Could I move him and talk?
@@ -969,9 +971,9 @@
 
 <a name="shot-041"></a>
 
-## SHOT_041 | 00:10:00–00:10:15 | Changing hands
+## SHOT_041 | 00:06:40–00:06:50 | Changing hands
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** DAN, MAX. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
 **Composition:** Insert on one stick between two hands. Widen as Dan steps clear of the light.
 **Action:** Max takes the stick. Dan opens his fingers and steps aside. Max makes Pip pick up one foot, as if checking whether everything still works.
@@ -980,7 +982,7 @@
 **Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 1 (top left). Creator and individual first-frame approval pending.
 **Continuity:** Max takes the stick in 041 and operates from the window side. The mouse exits audience-left. The yellow ticket stays by the screen foot.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–1.69s · MAX 1.84–3.94s · DAN 4.09–7.51s · MAX 7.66–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.13s · MAX 1.23–2.63s · DAN 2.73–5.01s · MAX 5.11–8.27s.
 
 **Dialogue:**
 **DAN:** Got him?
@@ -993,9 +995,9 @@
 
 <a name="shot-042"></a>
 
-## SHOT_042 | 00:10:15–00:10:30 | A lookout for Pip
+## SHOT_042 | 00:06:50–00:07:00 | A lookout for Pip
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** MAX, LEO. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
 **Composition:** Open-side two-shot, one boy backstage and the other peering around from the audience.
 **Action:** Max tries the first little walk at the blue strip. Half the screen is hidden by the frame from where he is standing, so he recruits Leo to watch the path.
@@ -1004,7 +1006,7 @@
 **Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 2 (top right). Creator and individual first-frame approval pending.
 **Continuity:** Max takes the stick in 041 and operates from the window side. The mouse exits audience-left. The yellow ticket stays by the screen foot.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–4.11s · LEO 4.26–6.25s · MAX 6.40–7.76s · LEO 7.91–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.74s · LEO 2.84–4.17s · MAX 4.27–5.17s · LEO 5.27–8.27s.
 
 **Dialogue:**
 **MAX:** How much room do I have?
@@ -1017,9 +1019,9 @@
 
 <a name="shot-043"></a>
 
-## SHOT_043 | 00:10:30–00:10:45 | Just the tail
+## SHOT_043 | 00:07:00–00:07:10 | Just the tail
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** NINA, ELLA. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
 **Off-screen cast:** MAX
 **Composition:** Front close shot of the left edge. Stay on the last curled bit of tail in the light.
@@ -1029,7 +1031,7 @@
 **Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 3 (bottom left). Creator and individual first-frame approval pending.
 **Continuity:** Max takes the stick in 041 and operates from the window side. The mouse exits audience-left. The yellow ticket stays by the screen foot.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): NINA 0.25–2.86s · ELLA 3.01–5.62s · NINA 5.78–8.39s · ELLA 8.54–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–1.91s · ELLA 2.01–3.75s · NINA 3.85–5.59s · ELLA 5.69–8.27s.
 
 **Dialogue:**
 **NINA:** There goes his nose.
@@ -1042,9 +1044,9 @@
 
 <a name="shot-044"></a>
 
-## SHOT_044 | 00:10:45–00:11:00 | Who can see the stage?
+## SHOT_044 | 00:07:10–00:07:20 | Who can see the stage?
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** MAX, DAN. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
 **Composition:** From behind the frame, reveal Max craning to see over it, then Dan at his elbow.
 **Action:** Max tries to peek over the frame without letting go of the stick. Dan offers a palm for him to steady his elbow on. Max settles back on both feet.
@@ -1053,7 +1055,7 @@
 **Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 4 (bottom right). Creator and individual first-frame approval pending.
 **Continuity:** Max takes the stick in 041 and operates from the window side. The mouse exits audience-left. The yellow ticket stays by the screen foot.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–3.92s · DAN 4.07–6.55s · MAX 6.70–9.77s · DAN 9.92–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.61s · DAN 2.71–4.37s · MAX 4.47–6.51s · DAN 6.61–8.27s.
 
 **Dialogue:**
 **MAX:** I can't see where I've gone.
@@ -1066,9 +1068,9 @@
 
 <a name="shot-045"></a>
 
-## SHOT_045 | 00:11:00–00:11:15 | Two different lefts
+## SHOT_045 | 00:07:20–00:07:30 | Two different lefts
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** ELLA, MAX. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
 **Composition:** Sight along the narrow upright from a slightly raised angle. Include both sets of pointing hands across the frame.
 **Action:** Ella points to her left. Max moves to his own left and the last curl slips out. They can see each other's pointing hands at opposite ends of the frame.
@@ -1077,7 +1079,7 @@
 **Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 1 (top left). Creator and individual first-frame approval pending.
 **Continuity:** The front view defines audience-left and audience-right. The fixed crescent high right is a landmark for both actors. Pip stays at blue.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–3.67s · MAX 3.82–5.26s · ELLA 5.41–8.83s · MAX 8.98–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.45s · MAX 2.55–3.51s · ELLA 3.61–5.89s · MAX 5.99–8.27s.
 
 **Dialogue:**
 **ELLA:** A little to your left.
@@ -1090,9 +1092,9 @@
 
 <a name="shot-046"></a>
 
-## SHOT_046 | 00:11:15–00:11:30 | Which pair of shoes?
+## SHOT_046 | 00:07:30–00:07:40 | Which pair of shoes?
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** DAN, ELLA, MAX. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
 **Composition:** At the open stage end, tilt from the opposite pairs of shoes to their faces.
 **Action:** Dan looks down at their shoes. He faces first Ella's way, then Max's, and tries the same left-hand point twice. His two points go opposite ways.
@@ -1101,7 +1103,7 @@
 **Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 2 (top right). Creator and individual first-frame approval pending.
 **Continuity:** The front view defines audience-left and audience-right. The fixed crescent high right is a landmark for both actors. Pip stays at blue.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.17s · ELLA 3.33–5.12s · MAX 5.27–8.20s · DAN 8.35–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.11s · ELLA 2.22–3.41s · MAX 3.51–5.47s · DAN 5.57–8.27s.
 
 **Dialogue:**
 **DAN:** Whose left are we using?
@@ -1114,9 +1116,9 @@
 
 <a name="shot-047"></a>
 
-## SHOT_047 | 00:11:30–00:11:45 | A direction that works
+## SHOT_047 | 00:07:40–00:07:50 | A direction that works
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** ELLA, MAX, LEO. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
 **Composition:** Audience three-quarter. Keep the returning nose and Ella's crescent in one readable picture.
 **Action:** Ella points straight at the moon. Max slides the cutout along the blue strip in that direction. Leo gives a low hand signal as the nose appears.
@@ -1125,7 +1127,7 @@
 **Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 3 (bottom left). Creator and individual first-frame approval pending.
 **Continuity:** The front view defines audience-left and audience-right. The fixed crescent high right is a landmark for both actors. Pip stays at blue.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–2.73s · MAX 2.88–5.95s · LEO 6.10–8.58s · MAX 8.73–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.82s · MAX 1.92–3.97s · LEO 4.07–5.72s · MAX 5.82–8.27s.
 
 **Dialogue:**
 **ELLA:** Toward the moon, Max.
@@ -1138,9 +1140,9 @@
 
 <a name="shot-048"></a>
 
-## SHOT_048 | 00:11:45–00:12:00 | A place for the giant
+## SHOT_048 | 00:07:50–00:08:00 | A place for the giant
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** MAX, NINA. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
 **Composition:** Front medium. Nina watches the little mouse stop with clear space beneath the crescent.
 **Action:** The little mouse walks all the way back into view. Max turns it to face the crescent. Nina glances at the orange dot. Max gives a tiny, deliberate shake of his head.
@@ -1149,7 +1151,7 @@
 **Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 4 (bottom right). Creator and individual first-frame approval pending.
 **Continuity:** The front view defines audience-left and audience-right. The fixed crescent high right is a landmark for both actors. Pip stays at blue.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): NINA 0.25–4.11s · MAX 4.25–6.62s · NINA 6.77–9.14s · MAX 9.29–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–2.74s · MAX 2.83–4.41s · NINA 4.51–6.09s · MAX 6.19–8.27s.
 
 **Dialogue:**
 **NINA:** Any room for that giant?
@@ -1162,9 +1164,9 @@
 
 <a name="shot-049"></a>
 
-## SHOT_049 | 00:12:00–00:12:15 | One knock too soon
+## SHOT_049 | 00:08:00–00:08:10 | One knock too soon
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** LEO, MAX, ELLA. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
 **Composition:** Close on Leo's knuckle at the side rail. Catch Max jumping at the unexpected sound.
 **Action:** Leo tries a single knuckle tap to signal the start. Max jumps and Ella nearly answers before anybody has asked the moon a question.
@@ -1173,7 +1175,7 @@
 **Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 1 (top left). Creator and individual first-frame approval pending.
 **Continuity:** One exploratory knuckle tap in 049. Pip makes two soft knocks with his existing stick in 051. Nina collects the one ticket in 052.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–5.52s · MAX 5.67–7.53s · ELLA 7.68–9.54s · MAX 9.69–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–3.68s · MAX 3.78–5.02s · ELLA 5.12–6.36s · MAX 6.46–8.27s.
 
 **Dialogue:**
 **LEO:** You'll hear this when it's time.
@@ -1186,9 +1188,9 @@
 
 <a name="shot-050"></a>
 
-## SHOT_050 | 00:12:15–00:12:30 | An unexpected door
+## SHOT_050 | 00:08:10–00:08:20 | An unexpected door
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** MAYA, LEO, MAX. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
 **Composition:** Audience-eye-level triangle with Maya listening close to the near rail.
 **Action:** Maya shows the size of the knock she imagined with both arms. Leo holds up his smallest knuckle. Max studies the little wooden handle under Pip.
@@ -1197,7 +1199,7 @@
 **Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 2 (top right). Creator and individual first-frame approval pending.
 **Continuity:** One exploratory knuckle tap in 049. Pip makes two soft knocks with his existing stick in 051. Nina collects the one ticket in 052.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–3.95s · LEO 4.10–6.76s · MAX 6.92–10.61s · MAYA 10.76–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–2.63s · LEO 2.73–4.51s · MAX 4.61–7.07s · MAYA 7.17–8.27s.
 
 **Dialogue:**
 **MAYA:** I thought somebody was at the door.
@@ -1210,9 +1212,9 @@
 
 <a name="shot-051"></a>
 
-## SHOT_051 | 00:12:30–00:12:45 | Who's at the moon?
+## SHOT_051 | 00:08:20–00:08:30 | Who's at the moon?
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** MAX, ELLA. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
 **Composition:** Backstage detail of Pip's stick beside the wooden side rail. Keep Ella's listening face beyond it.
 **Action:** Max taps the side rail twice with the end of the same stick. Two soft knocks. Ella turns to the sound like someone hearing a visitor at a very distant door.
@@ -1221,7 +1223,7 @@
 **Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 3 (bottom left). Creator and individual first-frame approval pending.
 **Continuity:** One exploratory knuckle tap in 049. Pip makes two soft knocks with his existing stick in 051. Nina collects the one ticket in 052.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–3.92s · ELLA 4.07–7.73s · MAX 7.88–10.36s · ELLA 10.51–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.61s · ELLA 2.71–5.15s · MAX 5.25–6.91s · ELLA 7.01–8.27s.
 
 **Dialogue:**
 **MAX:** What does that sound like now?
@@ -1234,9 +1236,9 @@
 
 <a name="shot-052"></a>
 
-## SHOT_052 | 00:12:45–00:13:00 | Leave a little room
+## SHOT_052 | 00:08:30–00:08:40 | Leave a little room
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** MAX, ELLA, NINA. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
 **Composition:** Close two-shot at the screen edge with Nina just beyond, listening.
 **Action:** Ella starts to answer and catches Max still drawing breath. She lifts her eyebrows and waits. Nina sees him find the words on his own and picks up the ticket.
@@ -1245,7 +1247,7 @@
 **Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 4 (bottom right). Creator and individual first-frame approval pending.
 **Continuity:** One exploratory knuckle tap in 049. Pip makes two soft knocks with his existing stick in 051. Nina collects the one ticket in 052.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–4.11s · ELLA 4.26–6.25s · MAX 6.40–10.26s · NINA 10.41–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.74s · ELLA 2.84–4.17s · MAX 4.27–6.84s · NINA 6.94–8.27s.
 
 **Dialogue:**
 **MAX:** After I knock, wait for me.
@@ -1258,9 +1260,9 @@
 
 <a name="shot-053"></a>
 
-## SHOT_053 | 00:13:00–00:13:15 | House opens in a minute
+## SHOT_053 | 00:08:40–00:08:50 | House opens in a minute
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** MAYA, DAN, LEO. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
 **Off-screen cast:** MAX, ELLA
 **Composition:** Look from the glowing screen to the doorway. Follow the audience out with Maya.
@@ -1270,7 +1272,7 @@
 **Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 1 (top left). Creator and individual first-frame approval pending.
 **Continuity:** The screen stays lit in the guest room. Leo receives the folded ticket in the entry and gives it back to Nina at the guest-room door.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–4.11s · DAN 4.26–6.88s · LEO 7.03–9.64s · DAN 9.79–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–2.74s · DAN 2.84–4.59s · LEO 4.69–6.43s · DAN 6.53–8.27s.
 
 **Dialogue:**
 **MAYA:** Shall we give them an entrance?
@@ -1283,9 +1285,9 @@
 
 <a name="shot-054"></a>
 
-## SHOT_054 | 00:13:15–00:13:30 | The elbow policy
+## SHOT_054 | 00:08:50–00:09:00 | The elbow policy
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** LEO, DAN, MAYA, NINA. **Location:** HOME_ENTRY. **Wardrobe:** W01 only.
 **Composition:** At the oak bench, frame Leo straightening the ticket and Dan drawing in his elbows.
 **Action:** Leo receives the single folded ticket. Dan tucks his elbows tight to his ribs to make himself look like an especially small customer. Maya tries the pose too.
@@ -1294,7 +1296,7 @@
 **Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 2 (top right). Creator and individual first-frame approval pending.
 **Continuity:** The screen stays lit in the guest room. Leo receives the folded ticket in the entry and gives it back to Nina at the guest-room door.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–4.11s · DAN 4.26–6.88s · MAYA 7.03–9.64s · DAN 9.79–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.74s · DAN 2.84–4.59s · MAYA 4.69–6.43s · DAN 6.53–8.27s.
 
 **Dialogue:**
 **LEO:** One ticket for the whole family.
@@ -1307,9 +1309,9 @@
 
 <a name="shot-055"></a>
 
-## SHOT_055 | 00:13:30–00:13:45 | A crumb behind the ear
+## SHOT_055 | 00:09:00–00:09:10 | A crumb behind the ear
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** MAYA, DAN, LEO. **Location:** HOME_ENTRY. **Wardrobe:** W01 only.
 **Composition:** Tight mock inspection by the guest-room doorway. Hold on Dan's solemn face.
 **Action:** Maya makes a show of looking behind Dan's ear for smuggled cheese. She presents her perfectly empty palm to Leo, who waves the very innocent Dan through.
@@ -1318,7 +1320,7 @@
 **Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 3 (bottom left). Creator and individual first-frame approval pending.
 **Continuity:** The screen stays lit in the guest room. Leo receives the folded ticket in the entry and gives it back to Nina at the guest-room door.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–3.57s · DAN 3.72–6.25s · LEO 6.40–8.93s · MAYA 9.08–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–2.38s · DAN 2.48–4.17s · LEO 4.27–5.95s · MAYA 6.05–8.27s.
 
 **Dialogue:**
 **MAYA:** Any cheese to declare?
@@ -1331,9 +1333,9 @@
 
 <a name="shot-056"></a>
 
-## SHOT_056 | 00:13:45–00:14:00 | A full house
+## SHOT_056 | 00:09:10–00:09:20 | A full house
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** NINA, MAYA, DAN, LEO. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
 **Composition:** From just inside the guest doorway, follow the ticket back to Nina and pan to the glowing stage.
 **Action:** Nina accepts the ticket and waves everyone to the audience side. Dan obeys Leo's elbow rule for one last squeezed-in step. The paper moon waits in the quiet.
@@ -1342,7 +1344,7 @@
 **Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 4 (bottom right). Creator and individual first-frame approval pending.
 **Continuity:** The screen stays lit in the guest room. Leo receives the folded ticket in the entry and gives it back to Nina at the guest-room door.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): NINA 0.25–3.17s · LEO 3.33–7.38s · DAN 7.53–9.32s · MAYA 9.47–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–2.11s · LEO 2.22–4.92s · DAN 5.02–6.21s · MAYA 6.31–8.27s.
 
 **Dialogue:**
 **NINA:** May I see your ticket?
@@ -1355,9 +1357,9 @@
 
 <a name="shot-057"></a>
 
-## SHOT_057 | 00:14:00–00:14:15 | Once, down here
+## SHOT_057 | 00:09:20–00:09:30 | Once, down here
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** MAX, DAN, NINA. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
 **Composition:** Audience angle on the lower-left corner as Pip steps into the light. Keep the listeners at the sides.
 **Action:** Pip pads into view. Max peeks around the outer edge for one breath, then sinks back into his story. Dan leans toward Nina without speaking over the opening.
@@ -1366,7 +1368,7 @@
 **Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 1 (top left). Creator and individual first-frame approval pending.
 **Continuity:** Four listeners face the screen. Ella voices the moon and Max operates and voices Pip. Dan is in the audience. Two soft wood taps in 058.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–4.78s · NINA 4.93–6.50s · MAX 6.65–10.19s · DAN 10.34–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–3.19s · NINA 3.29–4.33s · MAX 4.43–6.79s · DAN 6.89–8.27s.
 
 **Dialogue:**
 **MAX:** Once there was a mouse who lived down here.
@@ -1379,9 +1381,9 @@
 
 <a name="shot-058"></a>
 
-## SHOT_058 | 00:14:15–00:14:30 | Knock twice
+## SHOT_058 | 00:09:30–00:09:40 | Knock twice
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** MAX, ELLA, LEO. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
 **Composition:** Listen from the side rail. Frame the stick making contact and Leo recognizing the sound.
 **Action:** Max walks Pip to the rail and gives the promised two gentle taps with its stick. Ella lets the second sound die away before the moon answers.
@@ -1390,7 +1392,7 @@
 **Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 2 (top right). Creator and individual first-frame approval pending.
 **Continuity:** Four listeners face the screen. Ella voices the moon and Max operates and voices Pip. Dan is in the audience. Two soft wood taps in 058.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–2.62s · ELLA 2.77–6.62s · MAX 6.77–9.14s · LEO 9.29–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.75s · ELLA 1.85–4.41s · MAX 4.51–6.09s · LEO 6.19–8.27s.
 
 **Dialogue:**
 **MAX:** Is anybody home?
@@ -1403,9 +1405,9 @@
 
 <a name="shot-059"></a>
 
-## SHOT_059 | 00:14:30–00:14:45 | The cheese rumor
+## SHOT_059 | 00:09:40–00:09:50 | The cheese rumor
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** MAYA. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
 **Off-screen cast:** MAX, ELLA
 **Composition:** Audience-side view of the separated silhouettes. Catch Maya trying to keep her laugh small.
@@ -1415,7 +1417,7 @@
 **Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 3 (bottom left). Creator and individual first-frame approval pending.
 **Continuity:** Four listeners face the screen. Ella voices the moon and Max operates and voices Pip. Dan is in the audience. Two soft wood taps in 058.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–4.92s · MAX 5.08–6.18s · ELLA 6.33–8.72s · MAX 8.87–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–3.28s · MAX 3.39–4.12s · ELLA 4.22–5.81s · MAX 5.91–8.27s.
 
 **Dialogue:**
 **ELLA:** If you brought crackers, you can go home.
@@ -1428,9 +1430,9 @@
 
 <a name="shot-060"></a>
 
-## SHOT_060 | 00:14:45–00:15:00 | The part Dad leaves in
+## SHOT_060 | 00:09:50–00:10:00 | The part Dad leaves in
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** DAN, NINA, MAX. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
 **Composition:** Open-side close on Dan in front and Max at the open edge behind. Let the silence land.
 **Action:** Dan sees Max gathering breath. Instead of supplying the next line, he settles back. Max finds it, and Dan's quiet smile comes a beat after the laugh.
@@ -1439,7 +1441,7 @@
 **Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 4 (bottom right). Creator and individual first-frame approval pending.
 **Continuity:** Four listeners face the screen. Ella voices the moon and Max operates and voices Pip. Dan is in the audience. Two soft wood taps in 058.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–3.72s · NINA 3.87–5.16s · MAX 5.31–9.45s · DAN 9.60–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.48s · NINA 2.58–3.44s · MAX 3.54–6.30s · DAN 6.40–8.27s.
 
 **Dialogue:**
 **MAX:** I didn't bring any crackers.
@@ -1452,9 +1454,9 @@
 
 <a name="shot-061"></a>
 
-## SHOT_061 | 00:15:00–00:15:15 | One very short jump
+## SHOT_061 | 00:10:00–00:10:10 | One very short jump
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** MAX, ELLA. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
 **Composition:** Backstage over Max's elbow. The stick goes up at the blue strip while the lamp stays put.
 **Action:** Max makes Pip jump straight up without leaving blue. Pip drops back to exactly where he started. Ella looks down the gap as if peering over a balcony.
@@ -1463,7 +1465,7 @@
 **Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 1 (top left). Creator and individual first-frame approval pending.
 **Continuity:** Max keeps Pip at blue for a small shadow. Ella removes the single clip in 063, leaves it by the foot and holds the crescent against the cloth.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–2.73s · ELLA 2.88–5.95s · MAX 6.10–7.99s · ELLA 8.14–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.82s · ELLA 1.92–3.97s · MAX 4.07–5.33s · ELLA 5.43–8.27s.
 
 **Dialogue:**
 **MAX:** Could I come up?
@@ -1476,9 +1478,9 @@
 
 <a name="shot-062"></a>
 
-## SHOT_062 | 00:15:15–00:15:30 | Halfway
+## SHOT_062 | 00:10:10–00:10:20 | Halfway
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** MAX, ELLA, NINA. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
 **Composition:** Side angle on the vertical gap. Nina watches as Max gives the moon room to answer.
 **Action:** Pip tips his nose toward the open space halfway up. Ella looks at the clip, then at Max. He waits for her nod before he tries another jump.
@@ -1487,7 +1489,7 @@
 **Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 2 (top right). Creator and individual first-frame approval pending.
 **Continuity:** Max keeps Pip at blue for a small shadow. Ella removes the single clip in 063, leaves it by the foot and holds the crescent against the cloth.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–3.17s · ELLA 3.33–6.25s · MAX 6.40–9.32s · NINA 9.47–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.11s · ELLA 2.22–4.17s · MAX 4.27–6.21s · NINA 6.31–8.27s.
 
 **Dialogue:**
 **MAX:** Would you meet me halfway?
@@ -1500,9 +1502,9 @@
 
 <a name="shot-063"></a>
 
-## SHOT_063 | 00:15:30–00:15:45 | The moon comes down
+## SHOT_063 | 00:10:20–00:10:30 | The moon comes down
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** ELLA, MAX. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
 **Composition:** Rear close-up of Ella's hands. Keep the crescent flat on the cloth as the peg comes away.
 **Action:** Ella holds the crescent against the cloth with one hand and removes the peg with the other. She puts the peg beside the frame foot and slides the same crescent lower.
@@ -1511,7 +1513,7 @@
 **Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 3 (bottom left). Creator and individual first-frame approval pending.
 **Continuity:** Max keeps Pip at blue for a small shadow. Ella removes the single clip in 063, leaves it by the foot and holds the crescent against the cloth.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–4.33s · MAX 4.48–6.58s · ELLA 6.73–8.83s · MAX 8.98–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.89s · MAX 2.99–4.39s · ELLA 4.49–5.89s · MAX 5.99–8.27s.
 
 **Dialogue:**
 **ELLA:** I've never been down this far.
@@ -1524,9 +1526,9 @@
 
 <a name="shot-064"></a>
 
-## SHOT_064 | 00:15:45–00:16:00 | A whisker of space
+## SHOT_064 | 00:10:30–00:10:40 | A whisker of space
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** LEO, MAYA. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
 **Off-screen cast:** MAX, ELLA
 **Composition:** Face the audience side straight on. Include Leo and Maya watching two distinct shapes approach.
@@ -1536,7 +1538,7 @@
 **Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 4 (bottom right). Creator and individual first-frame approval pending.
 **Continuity:** Max keeps Pip at blue for a small shadow. Ella removes the single clip in 063, leaves it by the foot and holds the crescent against the cloth.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–2.82s · MAYA 2.97–4.53s · LEO 4.68–9.68s · MAYA 9.83–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.88s · MAYA 1.98–3.02s · LEO 3.12–6.45s · MAYA 6.55–8.27s.
 
 **Dialogue:**
 **LEO:** Up a little.
@@ -1549,9 +1551,9 @@
 
 <a name="shot-065"></a>
 
-## SHOT_065 | 00:16:00–00:16:15 | The question
+## SHOT_065 | 00:10:40–00:10:50 | The question
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** MAX, ELLA. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
 **Composition:** Tight backstage two-shot at the screen edge. Keep the two operators and their two steady hands in view.
 **Action:** Max holds Pip still to ask the question. Ella starts to give the moon a funny voice, sees his face, and answers in her own.
@@ -1560,7 +1562,7 @@
 **Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 1 (top left). Creator and individual first-frame approval pending.
 **Continuity:** Two small shapes sit together with a sliver of white between them. The wooden clip is on the table. The four listeners wait until Max finishes.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–5.65s · ELLA 5.80–7.90s · MAX 8.05–10.81s · ELLA 10.96–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–3.77s · ELLA 3.87–5.27s · MAX 5.37–7.21s · ELLA 7.31–8.27s.
 
 **Dialogue:**
 **MAX:** Does anybody ever sit with you up there?
@@ -1573,9 +1575,9 @@
 
 <a name="shot-066"></a>
 
-## SHOT_066 | 00:16:15–00:16:30 | Dinner for two
+## SHOT_066 | 00:10:50–00:11:00 | Dinner for two
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** MAX, ELLA, DAN. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
 **Composition:** Side-edge two-shot of the puppeteers; let Dan's reaction appear in the audience foreground.
 **Action:** Max makes Pip angle his nose toward an imaginary seat beside him. Ella slides the crescent a little closer at the same depth. Dan beams at the invitation.
@@ -1584,7 +1586,7 @@
 **Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 2 (top right). Creator and individual first-frame approval pending.
 **Continuity:** Two small shapes sit together with a sliver of white between them. The wooden clip is on the table. The four listeners wait until Max finishes.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–3.67s · ELLA 3.82–5.26s · MAX 5.41–8.83s · ELLA 8.98–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.45s · ELLA 2.55–3.51s · MAX 3.61–5.89s · ELLA 5.99–8.27s.
 
 **Dialogue:**
 **MAX:** Would you stay for dinner?
@@ -1597,9 +1599,9 @@
 
 <a name="shot-067"></a>
 
-## SHOT_067 | 00:16:30–00:16:45 | The quiet seat
+## SHOT_067 | 00:11:00–00:11:10 | The quiet seat
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** NINA, MAYA. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
 **Off-screen cast:** MAX, ELLA
 **Composition:** Over the two listeners' shoulders, let the tiny silhouettes sit together in an open pool of white.
@@ -1609,7 +1611,7 @@
 **Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 3 (bottom left). Creator and individual first-frame approval pending.
 **Continuity:** Two small shapes sit together with a sliver of white between them. The wooden clip is on the table. The four listeners wait until Max finishes.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–4.11s · ELLA 4.26–6.88s · MAX 7.03–9.64s · NINA 9.79–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.74s · ELLA 2.84–4.59s · MAX 4.69–6.43s · NINA 6.53–8.27s.
 
 **Dialogue:**
 **MAX:** I saved you the quiet seat.
@@ -1622,9 +1624,9 @@
 
 <a name="shot-068"></a>
 
-## SHOT_068 | 00:16:45–00:17:00 | A finish you can hear
+## SHOT_068 | 00:11:10–00:11:20 | A finish you can hear
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** LEO, DAN, MAYA, NINA. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
 **Off-screen cast:** MAX, ELLA
 **Composition:** Audience reaction from the stage edge. Keep the two tiny paper profiles in the foreground.
@@ -1634,7 +1636,7 @@
 **Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 4 (bottom right). Creator and individual first-frame approval pending.
 **Continuity:** Two small shapes sit together with a sliver of white between them. The wooden clip is on the table. The four listeners wait until Max finishes.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–4.17s · MAYA 4.32–6.13s · MAX 6.28–8.33s · DAN 8.48–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.78s · MAYA 2.88–4.09s · MAX 4.19–5.55s · DAN 5.65–8.27s.
 
 **Dialogue:**
 **LEO:** Is that the end?
@@ -1647,9 +1649,9 @@
 
 <a name="shot-069"></a>
 
-## SHOT_069 | 00:17:00–00:17:15 | An invitation for Dad
+## SHOT_069 | 00:11:20–00:11:30 | An invitation for Dad
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** MAX, DAN, ELLA. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
 **Composition:** Open-side shot as Dan comes from the doorway side to the backstage end.
 **Action:** Max crooks a finger at Dan and points to the orange dot. Dan glances at the cutout, looks back to his son and asks first.
@@ -1658,7 +1660,7 @@
 **Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 1 (top left). Creator and individual first-frame approval pending.
 **Continuity:** Max invites Dan back. Handoff in 070. Dan uses orange deliberately for one large bow. Ella holds the unclipped moon away from the big ear.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–5.27s · DAN 5.42–7.65s · ELLA 7.80–10.72s · DAN 10.87–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–3.51s · DAN 3.61–5.10s · ELLA 5.20–7.15s · DAN 7.25–8.27s.
 
 **Dialogue:**
 **MAX:** Dad, we saved a job for you.
@@ -1671,9 +1673,9 @@
 
 <a name="shot-070"></a>
 
-## SHOT_070 | 00:17:15–00:17:30 | Back by invitation
+## SHOT_070 | 00:11:30–00:11:40 | Back by invitation
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** MAX, DAN, ELLA. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
 **Composition:** Close on the second handoff and the empty orange spot behind the stick.
 **Action:** Max places the handle in Dan's palm. Ella holds the crescent flat at the far upper-right to leave the middle clear. Max points from blue toward orange.
@@ -1682,7 +1684,7 @@
 **Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 2 (top right). Creator and individual first-frame approval pending.
 **Continuity:** Max invites Dan back. Handoff in 070. Dan uses orange deliberately for one large bow. Ella holds the unclipped moon away from the big ear.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–3.58s · DAN 3.73–7.06s · MAX 7.21–8.92s · ELLA 9.07–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.39s · DAN 2.49–4.71s · MAX 4.81–5.95s · ELLA 6.05–8.27s.
 
 **Dialogue:**
 **MAX:** One bow. I'll tell you when.
@@ -1695,9 +1697,9 @@
 
 <a name="shot-071"></a>
 
-## SHOT_071 | 00:17:30–00:17:45 | The return of the ears
+## SHOT_071 | 00:11:40–00:11:50 | The return of the ears
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** MAX, DAN, NINA. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
 **Composition:** Audience three-quarter on the growing silhouette, then find the tiny real mouse by the lamp along the open side.
 **Action:** Dan moves Pip toward orange. The same small mouse throws a huge shadow in the center. Nina ducks under an imaginary ear. Max gives the big visitor a very small voice.
@@ -1706,7 +1708,7 @@
 **Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 3 (bottom left). Creator and individual first-frame approval pending.
 **Continuity:** Max invites Dan back. Handoff in 070. Dan uses orange deliberately for one large bow. Ella holds the unclipped moon away from the big ear.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–1.78s · NINA 1.93–3.45s · MAX 3.60–7.93s · DAN 8.08–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.19s · NINA 1.29–2.30s · MAX 2.40–5.29s · DAN 5.39–8.27s.
 
 **Dialogue:**
 **MAX:** Excuse me.
@@ -1719,9 +1721,9 @@
 
 <a name="shot-072"></a>
 
-## SHOT_072 | 00:17:45–00:18:00 | The bow that lands
+## SHOT_072 | 00:11:50–00:12:00 | The bow that lands
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** MAX, DAN, ELLA. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
 **Composition:** From the audience, hold the mouse profile long enough to see its bow clear the crescent.
 **Action:** Dan makes one elegant bow at orange. Before Pip's nose lands, he guides the stick back toward blue. A tiny mouse finishes the bow and slips below the cloth.
@@ -1730,7 +1732,7 @@
 **Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 4 (bottom right). Creator and individual first-frame approval pending.
 **Continuity:** Max invites Dan back. Handoff in 070. Dan uses orange deliberately for one large bow. Ella holds the unclipped moon away from the big ear.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–2.24s · DAN 2.39–5.00s · MAX 5.15–8.39s · ELLA 8.54–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.49s · DAN 1.59–3.33s · MAX 3.43–5.59s · ELLA 5.69–8.27s.
 
 **Dialogue:**
 **ELLA:** Watch his nose.
@@ -1743,9 +1745,9 @@
 
 <a name="shot-073"></a>
 
-## SHOT_073 | 00:18:00–00:18:15 | The room comes back
+## SHOT_073 | 00:12:00–00:12:10 | The room comes back
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** NINA, DAN, ELLA. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
 **Composition:** Side master returns the stage to ordinary room light.
 **Action:** Ella lifts the crescent clear. Nina switches off the amber lamp. Dan holds the tiny mouse against his open palm for one last look at the size of the actor.
@@ -1754,7 +1756,7 @@
 **Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 1 (top left). Creator and individual first-frame approval pending.
 **Continuity:** Light goes off in 073. Leo lifts both marks, Max gathers them with the peg. Max gets the ticket in 074 and the mouse in 075. Maya carries the mug in 076.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.74s · ELLA 3.89–7.38s · NINA 7.53–9.32s · DAN 9.47–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.49s · ELLA 2.59–4.92s · NINA 5.02–6.21s · DAN 6.31–8.27s.
 
 **Dialogue:**
 **DAN:** That's all there was to him?
@@ -1767,9 +1769,9 @@
 
 <a name="shot-074"></a>
 
-## SHOT_074 | 00:18:15–00:18:30 | The smallest stagehand
+## SHOT_074 | 00:12:10–00:12:20 | The smallest stagehand
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** MAX, LEO, NINA. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
 **Composition:** Overhead insert on the low table with the lamp dark and toys out of the work area.
 **Action:** Leo peels up blue and orange. Max clips the two loose marks to their paper backing with the wooden peg. Nina hands Max his yellow ticket back.
@@ -1778,7 +1780,7 @@
 **Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 2 (top right). Creator and individual first-frame approval pending.
 **Continuity:** Light goes off in 073. Leo lifts both marks, Max gathers them with the peg. Max gets the ticket in 074 and the mouse in 075. Maya carries the mug in 076.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–4.51s · MAX 4.66–5.95s · NINA 6.10–9.18s · MAX 9.33–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–3.01s · MAX 3.11–3.97s · NINA 4.07–6.12s · MAX 6.22–8.27s.
 
 **Dialogue:**
 **LEO:** Can you get the last little corner?
@@ -1791,9 +1793,9 @@
 
 <a name="shot-075"></a>
 
-## SHOT_075 | 00:18:30–00:18:45 | What to tell Rose
+## SHOT_075 | 00:12:20–00:12:30 | What to tell Rose
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** DAN, ELLA, MAX. **Location:** HOME_ENTRY. **Wardrobe:** W01 only.
 **Composition:** Move with the three through the entry, matching the route back toward the kitchen on the left.
 **Action:** Dan starts a booming introduction for an imaginary call to Rose, catches himself, and hands the mouse back to Max. Ella holds the moon up to listen to him.
@@ -1802,7 +1804,7 @@
 **Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 3 (bottom left). Creator and individual first-frame approval pending.
 **Continuity:** Light goes off in 073. Leo lifts both marks, Max gathers them with the peg. Max gets the ticket in 074 and the mouse in 075. Maya carries the mug in 076.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–4.12s · MAX 4.27–6.52s · DAN 6.67–10.00s · MAX 10.15–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.75s · MAX 2.85–4.35s · DAN 4.45–6.67s · MAX 6.77–8.27s.
 
 **Dialogue:**
 **DAN:** Shall I tell Rose about the giant?
@@ -1815,9 +1817,9 @@
 
 <a name="shot-076"></a>
 
-## SHOT_076 | 00:18:45–00:19:00 | The mug gets a visitor
+## SHOT_076 | 00:12:30–00:12:40 | The mug gets a visitor
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** MAYA, DAN, MAX. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Match the opening's counter-level angle, with the same cobalt mug upright where Dan left it.
 **Action:** Max makes Pip peek out beside the mug again. Dan looks the mouse in the eye this time. Maya picks up the mug by its handle and carries it to the dining table.
@@ -1826,7 +1828,7 @@
 **Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 4 (bottom right). Creator and individual first-frame approval pending.
 **Continuity:** Light goes off in 073. Leo lifts both marks, Max gathers them with the peg. Max gets the ticket in 074 and the mouse in 075. Maya carries the mug in 076.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–2.61s · MAX 2.76–5.12s · MAYA 5.27–7.07s · DAN 7.22–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.74s · MAX 1.84–3.41s · MAYA 3.51–4.71s · DAN 4.81–8.27s.
 
 **Dialogue:**
 **DAN:** I know that nose.
@@ -1839,9 +1841,9 @@
 
 <a name="shot-077"></a>
 
-## SHOT_077 | 00:19:00–00:19:15 | Six seats and a moon
+## SHOT_077 | 00:12:40–00:12:50 | Six seats and a moon
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** MAYA, ELLA, DAN, MAX. **Location:** HOME_TABLE. **Wardrobe:** W01 only.
 **Composition:** At the fixed table positions, include Dan's near-left place as Maya sets down the mug before taking her seat.
 **Action:** Maya sets Dan's one blue mug at his place. Ella lays the crescent flat in the middle. Max props Pip beside it for a moment with the stick in his hand.
@@ -1850,7 +1852,7 @@
 **Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 1 (top left). Creator and individual first-frame approval pending.
 **Continuity:** Fixed family seats. One mug, one mouse, one crescent, one yellow ticket. Max opens the ticket in 078. His final answer comes before a quiet hold.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–3.32s · MAYA 3.47–5.95s · DAN 6.10–9.18s · MAX 9.33–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.21s · MAYA 2.31–3.97s · DAN 4.07–6.12s · MAX 6.22–8.27s.
 
 **Dialogue:**
 **ELLA:** Where should the moon sit?
@@ -1863,9 +1865,9 @@
 
 <a name="shot-078"></a>
 
-## SHOT_078 | 00:19:15–00:19:30 | A rather important review
+## SHOT_078 | 00:12:50–00:13:00 | A rather important review
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** LEO, ELLA, NINA, MAX. **Location:** HOME_TABLE. **Wardrobe:** W01 only.
 **Composition:** Around the table from the kitchen-door axis, catch the folded ticket moving only as far as Max's place.
 **Action:** Max opens the ticket and smooths the crease. Leo looks as if he's about to give a grand review, then tells his brother exactly which part he remembers.
@@ -1874,7 +1876,7 @@
 **Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 2 (top right). Creator and individual first-frame approval pending.
 **Continuity:** Fixed family seats. One mug, one mouse, one crescent, one yellow ticket. Max opens the ticket in 078. His final answer comes before a quiet hold.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–2.50s · MAX 2.65–4.90s · LEO 5.05–11.07s · NINA 11.22–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.67s · MAX 1.77–3.27s · LEO 3.37–7.38s · NINA 7.48–8.27s.
 
 **Dialogue:**
 **LEO:** I liked the burp.
@@ -1887,9 +1889,9 @@
 
 <a name="shot-079"></a>
 
-## SHOT_079 | 00:19:30–00:19:45 | Closer to whom?
+## SHOT_079 | 00:13:00–00:13:10 | Closer to whom?
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** DAN, MAX, NINA. **Location:** HOME_TABLE. **Wardrobe:** W01 only.
 **Composition:** From the near table edge, start on Dan's beckoning hand and finish on the mouse beside his mug.
 **Action:** Dan beckons to Pip. Max pauses with the stick in midair. Dan names the place and slides his mug a handspan toward Max. Pip walks the rest of the way along the near edge.
@@ -1898,7 +1900,7 @@
 **Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 3 (bottom left). Creator and individual first-frame approval pending.
 **Continuity:** Fixed family seats. One mug, one mouse, one crescent, one yellow ticket. Max opens the ticket in 078. His final answer comes before a quiet hold.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–4.11s · MAX 4.26–6.25s · DAN 6.40–10.26s · NINA 10.41–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.74s · MAX 2.84–4.17s · DAN 4.27–6.84s · NINA 6.94–8.27s.
 
 **Dialogue:**
 **DAN:** Hey, Pip. Come a little closer.
@@ -1911,18 +1913,18 @@
 
 <a name="shot-080"></a>
 
-## SHOT_080 | 00:19:45–00:20:00 | Company for coffee
+## SHOT_080 | 00:13:10–00:13:20 | Company for coffee
 
-**Clip:** 15 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
+**Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
 **Characters:** DAN, MAYA, NINA, LEO, ELLA, MAX. **Location:** HOME_TABLE. **Wardrobe:** W01 only.
 **Composition:** Warm wide from the fixed seating master. Finish on the mug, little mouse and Dan's smile within the last two seconds.
 **Action:** Dan turns the mug handle aside to make more room for Pip. Max rests the mouse beside it. Ella nudges the paper moon within visiting distance. The six stay for the quiet beat they made room for.
 **Starting continuity:** All six are in their fixed seats. Max holds Pip by Dan's upright mug. The crescent is at center.
-**Ending continuity:** One mug, two paper characters and six people share the table as the 20-minute story ends.
+**Ending continuity:** One mug, two paper characters and six people share the table as the 13-minute-20-second story ends.
 **Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 4 (bottom right). Creator and individual first-frame approval pending.
 **Continuity:** Fixed family seats. One mug, one mouse, one crescent, one yellow ticket. Max opens the ticket in 078. His final answer comes before a quiet hold.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.93s · MAX 4.08–7.76s · ELLA 7.91–10.88s · MAX 11.03–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.62s · MAX 2.72–5.17s · ELLA 5.27–7.25s · MAX 7.35–8.27s.
 
 **Dialogue:**
 **DAN:** Coffee for the little gentleman?
