@@ -19,7 +19,7 @@ On a later spring morning after Grandma Ruth’s visit, the family plants one mi
 
 The 100 mL per-pot amounts are records for this scene’s already damp mix and small newly planted pots, not universal watering instructions. The adults check soil, settling and drainage and do not empty the can simply because water remains. Longer filling, settling, carrying and washing actions use explicit elapsed-time dissolves. A ten-second editorial slot is not a completed real-time gardening demonstration.
 
-Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PLAN.md](SCENE_REFERENCE_PLAN.md) for geography. Existing cast previews remain unchanged; Ben is a newly proposed minor supporting design, not a seventh permanent family member. All storyboard and environment art remains pending creator review.
+Read [CONTINUITY.md (historical reference)](https://github.com/pujahalder34675-creator/ai-story-building/blob/8362bf7a5ec009104a53857e9bee314a843c1a14/Episode_09/CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PLAN.md (historical reference)](https://github.com/pujahalder34675-creator/ai-story-building/blob/8362bf7a5ec009104a53857e9bee314a843c1a14/Episode_09/SCENE_REFERENCE_PLAN.md) for geography. Existing cast previews remain unchanged; Ben is a newly proposed minor supporting design, not a seventh permanent family member. All storyboard and environment art remains pending creator review.
 
 ## Timed story shots
 
@@ -31,7 +31,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** Maya opens a garden notebook beside two nursery seedlings. Nina puts a closed radish packet beside it; Dan makes room for the plan. Add title editorially inside this shot.  
 **Opening state:** Later spring morning after Ruth’s visit; island clean; one mint and one basil nursery seedling, closed radish packet; no soil indoors.  
 **End state:** Open notebook and closed packet on island; both seedlings still in their original nursery pots.  
-**Picture:** [BOARD_01.png](assets/storyboards/BOARD_01.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_01.png](storyboards/BOARD_01.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Same W01 wardrobe and kitchen; no harvested food or new plant growth.
 
 **Dialogue:**
@@ -52,7 +52,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** Max hears mint and draws one pretend coin on a scrap of paper. Ella watches while Dan leans close to understand the drawing.  
 **Opening state:** Two live seedlings remain on island; Max has one blank scrap and a pencil; no real coins present.  
 **End state:** One paper coin drawing lies beside the notebook; no soil or plant has been touched.  
-**Picture:** [BOARD_01.png](assets/storyboards/BOARD_01.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_01.png](storyboards/BOARD_01.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** The drawing is pretend paper, never currency or a seed.
 
 **Dialogue:**
@@ -73,7 +73,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** Maya points to the mint plant’s leaves without picking one. Max compares the plant with his paper coin, then smiles at the two meanings.  
 **Opening state:** Mint seedling untouched in nursery pot; pretend coin drawing flat beside notebook.  
 **End state:** Max understands mint is a plant here; coin drawing remains dry on the island.  
-**Picture:** [BOARD_01.png](assets/storyboards/BOARD_01.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_01.png](storyboards/BOARD_01.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** No coin enters a pot; no claim money can grow.
 
 **Dialogue:**
@@ -94,7 +94,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** Nina sketches three positions. Leo assigns mint left, basil center and radish seeds right; Ella points to each empty circle in turn.  
 **Opening state:** Notebook open; no garden pots delivered; two seedlings and closed seed packet on island.  
 **End state:** Plan has three ordered positions; all plants and packet remain untransferred.  
-**Picture:** [BOARD_01.png](assets/storyboards/BOARD_01.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_01.png](storyboards/BOARD_01.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Positions are viewed from the path facing the fence: mint LEFT, basil CENTER, radish RIGHT.
 
 **Dialogue:**
@@ -115,7 +115,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** Leo checks a note saying Ben will bring three empty pots. Dan checks the clear route to the garden; Maya carries the notebook away from the seedlings.  
 **Opening state:** Ben not yet arrived; no terracotta pots indoors; garden path clear.  
 **End state:** Maya holds notebook; Dan and Leo ready to receive three empty pots outside.  
-**Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_02.png](storyboards/BOARD_02.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Ben is Dan’s brother and a brief supporting visitor; not a seventh family member.
 
 **Dialogue:**
@@ -136,7 +136,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** Nina puts six pairs of gardening gloves, three blank label stakes and a pencil into a clean tray. Ella keeps the unopened seed packet upright beside them.  
 **Opening state:** Supplies clean on island; seed packet closed; seedlings remain in their nursery pots.  
 **End state:** Tray holds gloves, three blank stakes, pencil and closed seed packet; no loose soil inside.  
-**Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_02.png](storyboards/BOARD_02.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Garden tools and soil will remain outdoors; no food utensils borrowed.
 
 **Dialogue:**
@@ -157,7 +157,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** Dan lifts the empty green watering can from the doorway. Maya reminds him that garden water belongs in garden tools, while Max leaves drinking glasses inside.  
 **Opening state:** One empty green watering can by door; no measured water in it yet.  
 **End state:** Dan holds the empty can; all kitchen cups and glasses stay indoors.  
-**Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_02.png](storyboards/BOARD_02.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** The later 100 mL garden measure is a dedicated marked garden cup, never a drinking cup.
 
 **Dialogue:**
@@ -178,7 +178,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** All six go outside together. Nina carries the two nursery seedlings in one shallow crate; Ella carries the supply tray, Maya the notebook with the dry paper drawing tucked inside its cover, and Dan the empty can.  
 **Opening state:** No terracotta pots yet; seedlings in crate; tray packed; clear paved route to bench.  
 **End state:** All six stand near the sunny bench; supplies set on its right end; no potting started.  
-**Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_02.png](storyboards/BOARD_02.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Carry supplies without blocking the path; nursery seedlings are existing plants, not newly germinated seeds.
 
 **Dialogue:**
@@ -199,7 +199,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** Ben arrives carrying one stack of three empty terracotta pots and a separate tied stack of three matching saucers. Dan accepts the pot stack with both hands.  
 **Opening state:** Ben entering gate; Dan empty-handed after setting the empty can by bench; no terracotta pots yet on bench.  
 **End state:** Dan holds three nested empty pots; Ben still holds three saucers; Maya stands clear.  
-**Picture:** [BOARD_03.png](assets/storyboards/BOARD_03.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_03.png](storyboards/BOARD_03.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** BEN cameo begins; provisional olive overshirt/cream tee/brown trousers/beard design. Three pots only.
 
 **Dialogue:**
@@ -220,7 +220,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** After Dan sets the nested pots on the bench, Ben passes three saucers to Nina. Leo counts the three rims without unstacking anything himself.  
 **Opening state:** Three nested pots now on bench; Ben holds three tied saucers; Nina ready to receive.  
 **End state:** Nina holds all three saucers; Ben’s hands empty; three pots remain on bench.  
-**Picture:** [BOARD_03.png](assets/storyboards/BOARD_03.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_03.png](storyboards/BOARD_03.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** All delivered vessels are EMPTY; no seedling or coin concealed in the stack.
 
 **Dialogue:**
@@ -241,7 +241,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** Maya hands Max the dry paper coin drawing from the notebook cover. Max holds it and tells Ben the joke. Dan laughs with his brother; no one takes a coin toward soil.  
 **Opening state:** Delivered pots and saucers on bench; Maya holds the dry notebook with the paper drawing inside; Max’s hands empty; no planting.  
 **End state:** Ben has seen the paper drawing; Max keeps it above waist height and away from the work surface.  
-**Picture:** [BOARD_03.png](assets/storyboards/BOARD_03.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_03.png](storyboards/BOARD_03.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** A joke about mint never becomes a magical money plant; Ben does not solve the planting task.
 
 **Dialogue:**
@@ -262,7 +262,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** Max returns the drawing to Maya’s notebook. Ben waves and leaves through the gate; Dan closes it. Maya carries the notebook and drawing back to the bench.  
 **Opening state:** Ben by gate with empty hands; pots and saucers delivered; no new plants.  
 **End state:** Ben off-screen and departed; gate shut; original six remain in garden.  
-**Picture:** [BOARD_03.png](assets/storyboards/BOARD_03.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_03.png](storyboards/BOARD_03.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Final BEN shot: four 10-second slots, 40 seconds total. No later Ben voice, hand or face.
 
 **Dialogue:**
@@ -283,7 +283,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** Maya un-nests the pots one at a time and shows Ella a drainage hole without putting a finger through it. Dan sets each pot upright on the bench.  
 **Opening state:** Three empty nested pots and three saucers on bench; gloves still in tray.  
 **End state:** Three separate empty pots stand left, center and right; three saucers stacked aside.  
-**Picture:** [BOARD_04.png](assets/storyboards/BOARD_04.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_04.png](storyboards/BOARD_04.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Adults lift heavy terracotta; no pot is broken or dropped.
 
 **Dialogue:**
@@ -304,7 +304,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** Nina measures 500 mL at the outdoor tap in a dedicated marked garden jug and pours it into the empty green can. Leo records the starting amount; tap closes.  
 **Opening state:** Green can empty; garden jug empty; no soil prepared; children stand back from tap.  
 **End state:** Can contains exactly 500 mL water; jug empty; tap OFF; Leo notes 500 mL starting water.  
-**Picture:** [BOARD_04.png](assets/storyboards/BOARD_04.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_04.png](storyboards/BOARD_04.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Numbers supplied by WATER_RECORD.svg; no additional water is drawn during this episode.
 
 **Dialogue:**
@@ -325,7 +325,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** Nina lifts mint and basil from their carrying crate and sets their nursery pots near the matching left and center positions. Maya leaves the radish packet closed at right.  
 **Opening state:** Three empty terracotta pots separate; two seedlings still in crate; closed seed packet in tray.  
 **End state:** Mint nursery pot beside left terracotta pot; basil beside center; closed radish packet beside right; crate empty.  
-**Picture:** [BOARD_04.png](assets/storyboards/BOARD_04.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_04.png](storyboards/BOARD_04.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Seedling foliage exists before planting; radish pot must stay bare until a later real day.
 
 **Dialogue:**
@@ -346,7 +346,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** Dan sets one small blunt garden trowel and one dedicated 100 mL garden measure on the bench. Ella moves the tray away from the edge; Leo checks the path.  
 **Opening state:** Three terracotta pots empty; water can with 500 mL on ground safely beside bench; tool tray closed.  
 **End state:** Blunt trowel and empty marked measure on bench; tray stable; path clear.  
-**Picture:** [BOARD_04.png](assets/storyboards/BOARD_04.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_04.png](storyboards/BOARD_04.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** No sharp shovel, kitchen spoon, climbing on bench or tool swinging.
 
 **Dialogue:**
@@ -367,7 +367,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** Maya and Nina place one saucer under each pot. Ella names the fixed left-to-right order without moving the pots herself.  
 **Opening state:** Three empty pots upright; three saucers stacked aside; two nursery seedlings nearby.  
 **End state:** Three empty terracotta pots each on one saucer in left-center-right order.  
-**Picture:** [BOARD_05.png](assets/storyboards/BOARD_05.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_05.png](storyboards/BOARD_05.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Saucers catch drainage, not permanent pools; their final empty state will be shown.
 
 **Dialogue:**
@@ -388,7 +388,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** Leo clips Max’s dry paper coin drawing to the OUTSIDE of the notebook cover as a joke reminder. Dan points from that drawing to the mint nursery plant.  
 **Opening state:** Paper drawing in notebook cover; notebook dry; no labels written yet; all pots empty.  
 **End state:** Drawing clipped to notebook cover, away from soil; all three blank stakes still in tray.  
-**Picture:** [BOARD_05.png](assets/storyboards/BOARD_05.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_05.png](storyboards/BOARD_05.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Paper coin is never buried, watered, used as fertilizer or exchanged as real money.
 
 **Dialogue:**
@@ -409,7 +409,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** All six put on their own gardening gloves. Maya keeps the seedlings to one side; Nina positions the closed soil bag low on the bench before opening it herself.  
 **Opening state:** Pots empty; gloves in tray; closed soil bag below bench; Ben gone.  
 **End state:** All six gloved; Nina holds closed soil bag low; paper drawing remains on notebook cover.  
-**Picture:** [BOARD_05.png](assets/storyboards/BOARD_05.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_05.png](storyboards/BOARD_05.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Hands kept away from mouths; no dust play, tasting, fertilizer or pesticide.
 
 **Dialogue:**
@@ -430,7 +430,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** Nina opens the bag of already slightly damp potting mix close to the bench. Maya steadies it; Leo waits with the empty blunt trowel until the adults invite him.  
 **Opening state:** Closed damp mix bag low on bench; pots empty; all six gloved; water untouched at 500 mL.  
 **End state:** Soil bag open without visible dust cloud; trowel rests on tray; no pot filled yet.  
-**Picture:** [BOARD_05.png](assets/storyboards/BOARD_05.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_05.png](storyboards/BOARD_05.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Damp potting mix is not food; adult opens and handles bag, no airborne dust.
 
 **Dialogue:**
@@ -451,7 +451,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** Maya and Dan fill the three pots with damp mix, leaving space for the two root balls and a lower watering rim. Ella watches the three levels. Use an explicit work-time dissolve.  
 **Opening state:** Three empty pots on saucers; two nursery seedlings and closed seed packet aside; mix bag open.  
 **End state:** Three pots contain damp mix; left and center have root-ball hollows, right has a level seed bed; no plant transferred.  
-**Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_06.png](storyboards/BOARD_06.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** One work ellipsis, no instant soil teleport; no fourth pot.
 
 **Dialogue:**
@@ -472,7 +472,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** Nina tests the dampness of the mix with a gloved fingertip. Dan lifts the still-closed green can as if to make a generous pour, then pauses when she gestures to check first.  
 **Opening state:** Pots contain damp mix; can still holds all 500 mL; no water added.  
 **End state:** Dan sets can down without pouring; soil remains damp; all 500 mL retained.  
-**Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_06.png](storyboards/BOARD_06.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** The oversized watering idea is stopped before overwatering or plant harm.
 
 **Dialogue:**
@@ -493,7 +493,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** Max leans to look at the mint leaves without touching his mouth or picking a leaf. Maya keeps the plant steady and invites a careful visual comparison.  
 **Opening state:** Mint still in nursery pot; basil still in nursery pot; three soil-filled terracotta pots unplanted.  
 **End state:** Both seedlings intact; Max’s gloved hands rest below the bench edge; no leaf picked.  
-**Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_06.png](storyboards/BOARD_06.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** No tasting plants, soil or seeds; gardening and food preparation remain separate.
 
 **Dialogue:**
@@ -514,7 +514,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** Leo compares the nursery mint tag with the left circle in the notebook. Dan names the match; Maya positions the left pot for transplanting.  
 **Opening state:** Mint and basil still in separate nursery pots; three damp soil beds ready.  
 **End state:** Left terracotta pot is ready beneath Maya’s hands; mint identity verified; basil untouched.  
-**Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_06.png](storyboards/BOARD_06.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Mint remains LEFT throughout bench and final ground arrangement; never swap labels to fit camera.
 
 **Dialogue:**
@@ -535,7 +535,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** Maya gently eases the mint root ball from its nursery pot, supporting the soil rather than pulling leaves. Dan holds the now-empty nursery pot aside.  
 **Opening state:** Mint in its nursery container beside prepared left hollow; basil untouched at center.  
 **End state:** Mint root ball supported in Maya’s hands over left hollow; empty mint nursery pot in Dan’s hand.  
-**Picture:** [BOARD_07.png](assets/storyboards/BOARD_07.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_07.png](storyboards/BOARD_07.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Only adults release root balls; do not turn mint into bare seeds or duplicate a plant.
 
 **Dialogue:**
@@ -556,7 +556,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** Maya lowers the single mint root ball into the left hollow at its original soil level. Nina adds a little mix around it while Max watches clear of the trowel.  
 **Opening state:** Mint root ball above left hollow; left pot not yet planted; center and right soil-filled but bare.  
 **End state:** One mint plant established in LEFT pot; center and right still bare; no water yet.  
-**Picture:** [BOARD_07.png](assets/storyboards/BOARD_07.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_07.png](storyboards/BOARD_07.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Same one mint plant, not a second seedling; can water remains 500 mL.
 
 **Dialogue:**
@@ -577,7 +577,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** With Maya guiding, Ella lightly firms only the soil around the mint root ball. Leo keeps the plant’s leaves clear of their gloves.  
 **Opening state:** Mint in left pot with loose surrounding mix; basil nursery plant waiting; right bare.  
 **End state:** Mint upright and soil gently settled; no crushed leaves, water or label yet.  
-**Picture:** [BOARD_07.png](assets/storyboards/BOARD_07.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_07.png](storyboards/BOARD_07.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** No hard tamping; keep stem at original planting depth and foliage intact.
 
 **Dialogue:**
@@ -598,7 +598,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** Dan checks that the mint nursery container is empty and places it in the crate for later cleaning and reuse. Nina keeps the basil nursery plant separate.  
 **Opening state:** Mint planted left; one empty mint nursery container in Dan’s hand; crate empty.  
 **End state:** Empty mint nursery container in crate; basil nursery container still holds its one plant.  
-**Picture:** [BOARD_07.png](assets/storyboards/BOARD_07.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_07.png](storyboards/BOARD_07.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Empty packaging is not a fourth garden pot or a duplicate mint.
 
 **Dialogue:**
@@ -619,7 +619,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** Nina turns the basil nursery pot so its own tag faces the family. Ella compares the broader leaves without plucking one; Leo checks the center circle.  
 **Opening state:** Mint planted LEFT; basil still in nursery container; center hollow empty; radish bed bare.  
 **End state:** Basil identity confirmed for CENTER; no plant moved yet.  
-**Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_08.png](storyboards/BOARD_08.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Basil and mint are distinct existing seedlings; no edible sampling.
 
 **Dialogue:**
@@ -640,7 +640,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** Nina eases the basil root ball out while Dan takes the empty nursery container. Max points only after Nina’s hands have a secure hold.  
 **Opening state:** Basil in nursery container beside center hollow; mint left; radish bed bare.  
 **End state:** Basil root ball supported above center pot; its empty nursery container in Dan’s hand.  
-**Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_08.png](storyboards/BOARD_08.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Adults handle root ball; no extra basil plant or leaf picking.
 
 **Dialogue:**
@@ -661,7 +661,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** Nina lowers the single basil root ball into the center hollow. Maya adds damp mix around it while Ella keeps the label stakes dry in the tray.  
 **Opening state:** Mint LEFT established; basil root ball above CENTER; RIGHT seed bed bare; water 500 mL.  
 **End state:** One basil plant established CENTER; mint LEFT; RIGHT bare; empty second nursery pot in crate after Dan sets it there.  
-**Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_08.png](storyboards/BOARD_08.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** One mint and one basil only; two empty nursery containers now in crate.
 
 **Dialogue:**
@@ -682,7 +682,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** Leo gently firms the basil’s surrounding soil with Nina’s guidance. Dan shifts the empty crate under the bench, away from the clear path.  
 **Opening state:** Basil planted center with loose surrounding mix; two empty nursery containers in crate atop bench.  
 **End state:** Basil upright and soil settled; crate with two empty nursery containers safely under bench.  
-**Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_08.png](storyboards/BOARD_08.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Both leafy plants remain upright; radish bed still bare; no water used.
 
 **Dialogue:**
@@ -703,7 +703,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** Maya asks Max what belongs where while he checks the notebook. Ella smiles as he names the mint and basil correctly without turning it into an audience exercise.  
 **Opening state:** Mint LEFT and basil CENTER planted; RIGHT pot bare damp seed bed; stakes blank.  
 **End state:** Max identifies both positions; all three pots remain stationary; no labels inserted yet.  
-**Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_09.png](storyboards/BOARD_09.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** The question serves the family’s planting task, no viewer repetition or quiz overlay.
 
 **Dialogue:**
@@ -724,7 +724,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** Maya smooths the right pot’s surface with her glove. Dan rests the trowel on the tray; Leo opens the packet carefully at the adult’s request.  
 **Opening state:** RIGHT pot filled with damp mix but no seeds; radish packet closed; mint and basil planted.  
 **End state:** Right bed level; radish packet opened by Leo with Maya beside him; no seeds counted out yet.  
-**Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_09.png](storyboards/BOARD_09.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Do not show sprouts, roots through pot or second sowing tray.
 
 **Dialogue:**
@@ -745,7 +745,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** Maya tips exactly three radish seeds into a shallow dedicated garden dish. Leo closes the remaining seed packet and returns it to the dry tray.  
 **Opening state:** Radish packet open; no seed in soil; empty small garden dish on tray.  
 **End state:** Three radish seeds in dish; remaining seed stock closed in packet; right pot still unsown.  
-**Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_09.png](storyboards/BOARD_09.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Stock packet is not additional sown inventory; no seeds eaten or spilled.
 
 **Dialogue:**
@@ -766,7 +766,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** Nina makes three small holes about five centimeters apart and one centimeter deep, using the packet’s variety guidance as the story reference. Leo holds a clean garden ruler above the soil.  
 **Opening state:** Three seeds in dish; right bed smooth and bare; no holes yet.  
 **End state:** Three spaced shallow holes in right pot; all three seeds still in dish.  
-**Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_09.png](storyboards/BOARD_09.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Illustrative variety-specific spacing, not a universal gardening prescription; exact diagram is editorial SVG.
 
 **Dialogue:**
@@ -787,7 +787,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** Leo places the first radish seed in the rear hole with Maya beside him. Max watches the dish instead of reaching for another seed.  
 **Opening state:** Three holes empty; dish contains three seeds; right pot otherwise bare.  
 **End state:** One seed in rear hole; two remain in dish; all holes still uncovered.  
-**Picture:** [BOARD_10.png](assets/storyboards/BOARD_10.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_10.png](storyboards/BOARD_10.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Seed count in soil 1; packet remains shut; no sprout appears.
 
 **Dialogue:**
@@ -808,7 +808,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** Ella places the second seed in the front-left hole while Nina steadies the dish on the bench. Dan keeps his hands clear.  
 **Opening state:** One seed in rear hole; two in dish; front-left and front-right holes empty.  
 **End state:** Two seeds in soil; one left in dish; front-right hole still empty.  
-**Picture:** [BOARD_10.png](assets/storyboards/BOARD_10.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_10.png](storyboards/BOARD_10.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Do not duplicate seeds between hands, dish and soil.
 
 **Dialogue:**
@@ -829,7 +829,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** With Maya supervising closely, Max drops the third seed into the front-right hole. Leo shows that the seed dish is now empty.  
 **Opening state:** Two seeds in their holes; one in dish; third hole empty.  
 **End state:** Three radish seeds in three holes; seed dish empty; no seed remains in a hand.  
-**Picture:** [BOARD_10.png](assets/storyboards/BOARD_10.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_10.png](storyboards/BOARD_10.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Max uses no sharp tool and does not bring gloves near mouth.
 
 **Dialogue:**
@@ -850,7 +850,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** Nina covers the three seeds lightly at the planned depth. Ella and Max look at the now-bare soil surface and accept that growth will take real days.  
 **Opening state:** Three seeds lie in separate uncovered holes; dish empty; no germination.  
 **End state:** Three seeds covered in RIGHT pot; surface bare; mint and basil unchanged in their pots.  
-**Picture:** [BOARD_10.png](assets/storyboards/BOARD_10.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_10.png](storyboards/BOARD_10.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** No time jump or sprouts; all planting still the same spring morning.
 
 **Dialogue:**
@@ -873,7 +873,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** Leo writes MINT, Ella writes BASIL and Dan writes RADISH on the three dry stakes, using the exact editorial labels. Max leaves his paper coin on the notebook cover.  
 **Opening state:** Three stakes blank in dry tray; three planted pots unlabeled; paper coin clipped outside notebook.  
 **End state:** Three named stakes lie dry in order; none inserted in soil yet.  
-**Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_11.png](storyboards/BOARD_11.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Exact words from PLANT_LABELS.svg; paper coin never substitutes for a buried marker.
 
 **Dialogue:**
@@ -894,7 +894,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** Maya guides Max’s gloved hand as he inserts the MINT stake near the left pot’s edge, away from the root ball. Dan checks the notebook circle.  
 **Opening state:** Mint LEFT planted but unlabeled; three named stakes on tray; no water used.  
 **End state:** MINT stake inserted at left pot edge; BASIL and RADISH stakes still on tray.  
-**Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_11.png](storyboards/BOARD_11.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Do not bury the paper coin drawing or stab through the root ball.
 
 **Dialogue:**
@@ -915,7 +915,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** With Nina guiding, Ella inserts the BASIL stake near the center pot’s edge. Leo checks it against the nursery tag kept in the notebook.  
 **Opening state:** MINT stake in LEFT; BASIL and RADISH on tray; center pot unlabeled.  
 **End state:** BASIL stake in CENTER; RADISH stake alone on tray; left MINT unchanged.  
-**Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_11.png](storyboards/BOARD_11.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Nursery tags kept as reference, not extra planted stakes.
 
 **Dialogue:**
@@ -936,7 +936,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** Maya guides Leo placing the RADISH stake near the edge away from the three seed sites. Max points to the bare surface without disturbing it.  
 **Opening state:** RIGHT pot has three covered seeds and no label; RADISH stake on tray.  
 **End state:** RADISH stake inserted; all three pots now labeled MINT/BASIL/RADISH in fixed order.  
-**Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_11.png](storyboards/BOARD_11.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Right pot remains bare; the label identifies a sowing, not a visible crop.
 
 **Dialogue:**
@@ -957,7 +957,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** Leo starts the journal with Day 1: planted, two seedlings upright, radish soil bare. Nina checks the honest wording; Dan adds a small outline of three pots.  
 **Opening state:** All three pots planted and labeled; water can still 500 mL; no watering record yet.  
 **End state:** Day 1 planting record written; two leafy seedlings observed, no radish shoots reported.  
-**Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_12.png](storyboards/BOARD_12.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** No invented growth measurement or later-day entry; readable journal text comes from GROWTH_JOURNAL.svg.
 
 **Dialogue:**
@@ -978,7 +978,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** Dan raises the 500 mL can and imagines emptying it over the mint. Maya reminds him of the damp soil; he lowers the spout without pouring.  
 **Opening state:** All three pots labeled; can contains full 500 mL; no water yet applied.  
 **End state:** Dan sets can down intact; soil unchanged; full 500 mL retained.  
-**Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_12.png](storyboards/BOARD_12.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** No actual flood, plant damage or water magically removed.
 
 **Dialogue:**
@@ -999,7 +999,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** Nina shows Dan the dedicated marked garden measure. He carefully fills it to 100 mL from the can over the tray, then pauses before watering.  
 **Opening state:** Green can 500 mL; garden measure empty; all pots unwatered after planting.  
 **End state:** Measure holds 100 mL; can holds 400 mL; no water in a pot yet.  
-**Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_12.png](storyboards/BOARD_12.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Transferred water counted once; water cup is dedicated garden equipment, never drinking glass.
 
 **Dialogue:**
@@ -1020,7 +1020,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** With Nina beside him, Dan slowly pours the measure’s entire 100 mL onto the mint’s already damp mix, around the root ball, keeping the leaves clear.  
 **Opening state:** LEFT mint newly planted and unwatered; measure 100 mL; can 400 mL.  
 **End state:** LEFT mint received 100 mL; measure empty; can 400 mL; other two pots unwatered.  
-**Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_12.png](storyboards/BOARD_12.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Example amount for this observed damp mix only, not universal plant advice; adult-controlled slow pour.
 
 **Dialogue:**
@@ -1041,7 +1041,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** A brief explicit settling-time dissolve shows a little drainage collecting in the mint saucer. Maya checks the soil and decides no extra water is needed.  
 **Opening state:** Mint received 100 mL; some water moving through mix; its saucer initially dry; can 400 mL.  
 **End state:** Mint settled with a small drainage trace in saucer; no more water added; basil and radish still unwatered.  
-**Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_13.png](storyboards/BOARD_13.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Drainage is not a new water source; do not refill pot just because the shot changes.
 
 **Dialogue:**
@@ -1062,7 +1062,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** Dan refills the garden measure to 100 mL. Leo records the amount still in the can before Nina takes the measure for basil.  
 **Opening state:** Can 400 mL; measure empty; mint watered; basil and radish unwatered.  
 **End state:** Measure 100 mL in Nina’s hand; can 300 mL; no second pot watered yet.  
-**Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_13.png](storyboards/BOARD_13.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Water ledger: 100 mL applied plus 100 in measure plus 300 in can equals initial 500.
 
 **Dialogue:**
@@ -1083,7 +1083,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** Nina pours the full 100 mL measure slowly around the basil root ball. Ella keeps her hands clear while Maya steadies the pot’s saucer.  
 **Opening state:** Basil unwatered in CENTER; Nina holds 100 mL; can 300 mL; mint settled.  
 **End state:** Basil received 100 mL; measure empty; can 300 mL; radish not watered.  
-**Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_13.png](storyboards/BOARD_13.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** One watering per pot; do not pour onto leaves or create a second basil.
 
 **Dialogue:**
@@ -1104,7 +1104,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** A settling dissolve reveals a little basil drainage. Maya observes moist soil without adding water; Leo notes both planted herbs are upright.  
 **Opening state:** Basil has just received 100 mL; can 300 mL; no radish water yet.  
 **End state:** Basil settled with small drainage trace; both herbs upright; can remains 300 mL.  
-**Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_13.png](storyboards/BOARD_13.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** No wilt-to-recovery magic; plants were healthy before transplanting.
 
 **Dialogue:**
@@ -1125,7 +1125,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** Dan fills the measure with another 100 mL from the can. Maya shows him how to pour gently so the covered seeds stay in place.  
 **Opening state:** Can 300 mL; measure empty; mint and basil watered; radish bed still unwatered after sowing.  
 **End state:** Measure 100 mL; can 200 mL; right pot not watered yet.  
-**Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_14.png](storyboards/BOARD_14.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** This is the third and final draw; no additional tap filling.
 
 **Dialogue:**
@@ -1146,7 +1146,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** Maya takes the measure and slowly wets the right bed evenly, using all 100 mL. Max watches without handling the can; Ella keeps the label steady by its top.  
 **Opening state:** RIGHT bed has three covered seeds, no shoots; measure 100 mL; can 200 mL.  
 **End state:** RIGHT bed received 100 mL; measure empty; can 200 mL; all three pots watered once.  
-**Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_14.png](storyboards/BOARD_14.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Seeds stay covered; no exposed floating seed, added seed or immediate shoot.
 
 **Dialogue:**
@@ -1167,7 +1167,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** After another settling-time dissolve, Nina checks the right bed and a little drainage. Dan leaves the 200 mL remainder in the can instead of using it just to empty the container.  
 **Opening state:** All pots each received 100 mL; RIGHT water settling; can 200 mL; measure empty.  
 **End state:** All three mixes settled and damp; no further water applied; 200 mL reserved in can.  
-**Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_14.png](storyboards/BOARD_14.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** No standing-water maintenance implied; adult will empty drainage saucers before final placement.
 
 **Dialogue:**
@@ -1188,7 +1188,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** Leo records 100 mL for mint, 100 mL for basil and 100 mL for radish soil. Ella checks that the total used is 300 mL and the can remainder is 200 mL.  
 **Opening state:** All three pots watered once; can 200 mL; no journal water entries yet.  
 **End state:** Journal water record complete: 500 start, 300 used, 200 left; all pots remain unchanged.  
-**Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_14.png](storyboards/BOARD_14.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Five hundred equals three hundred plus two hundred; record is specific to today’s conditions.
 
 **Dialogue:**
@@ -1209,7 +1209,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** Maya and Dan carefully tip the small collected drainage from all three saucers into a separate garden waste-water tub. An explicit work dissolve covers each lift and replacement.  
 **Opening state:** Small drainage traces in three saucers; pots settled; can retains 200 mL untouched.  
 **End state:** All three pots back on their own EMPTY saucers; drainage in waste-water tub, not reused on plants.  
-**Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_15.png](storyboards/BOARD_15.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Adults lift terracotta; water remainder still 200 mL in can; waste drainage does not refill it.
 
 **Dialogue:**
@@ -1230,7 +1230,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** Nina points to the sunny level paving strip along the fence, outside the maple’s deepest shade. Maya checks the packet and seedling tags before agreeing on today’s position.  
 **Opening state:** Three planted pots still on bench; sunny strip clear; all labels intact; can 200 mL.  
 **End state:** Final sunny strip selected; no pot moved yet; children remain on path.  
-**Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_15.png](storyboards/BOARD_15.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Existing rear-right maple stays put; do not invent a separate public park or move the house.
 
 **Dialogue:**
@@ -1251,7 +1251,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** Dan carries the mint pot and its empty saucer together with both hands. Maya keeps the path clear; Leo indicates the left position from the path-facing view.  
 **Opening state:** All three pots on bench; target strip empty; mint LEFT, basil CENTER, radish RIGHT on bench.  
 **End state:** Mint now on ground LEFT position with empty saucer; basil and radish remain on bench.  
-**Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_15.png](storyboards/BOARD_15.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Adults carry pots; no duplicated mint left on bench or extra saucer.
 
 **Dialogue:**
@@ -1272,7 +1272,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** Nina carries basil with its empty saucer and sets it at the center position. Ella and Max stand beside the path rather than helping lift the heavy vessel.  
 **Opening state:** Mint on ground LEFT; basil and radish on bench; center and right positions empty.  
 **End state:** Mint LEFT and basil CENTER on ground; radish alone remains on bench.  
-**Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_15.png](storyboards/BOARD_15.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Same left-center-right order as notebook; no swapping for composition.
 
 **Dialogue:**
@@ -1293,7 +1293,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** Maya carries the radish pot with empty saucer and sets it at right. Dan checks stability without disturbing the soil; Leo reads the label from the path.  
 **Opening state:** Mint LEFT and basil CENTER on ground; radish on bench with three covered seeds and bare surface.  
 **End state:** All three pots on ground in fixed order; bench now free of planted pots; right surface still bare.  
-**Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_16.png](storyboards/BOARD_16.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** No fourth pot, extra seed tray or radish leaf; all labels face the same path.
 
 **Dialogue:**
@@ -1314,7 +1314,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** Ella sketches two leafy seedlings and the bare radish surface. Leo adds three covered-seed dots to a separate planting diagram, never as visible roots through the pot.  
 **Opening state:** All pots placed; journal water record complete; no Day 1 appearance sketch yet.  
 **End state:** Journal honestly shows mint/basil leaves and no radish shoots; planting diagram marked as diagram.  
-**Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_16.png](storyboards/BOARD_16.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** No transparent pot fantasy or false growth photo; drawings are planning records.
 
 **Dialogue:**
@@ -1335,7 +1335,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** Dan closes the soil bag and puts it under the bench. Maya returns the empty seed dish, blunt trowel and empty measure to the garden tray, keeping the closed seed packet dry.  
 **Opening state:** Pots on ground; bench holds open bag, empty dish/measure, trowel, dry packet and notebook.  
 **End state:** Soil bag closed under bench; tools/empty dish/measure in tray; dry packet set on upper dry shelf.  
-**Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_16.png](storyboards/BOARD_16.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** No seeds or soil carried into kitchen; no extra watering; can 200 mL by bench.
 
 **Dialogue:**
@@ -1356,7 +1356,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** Nina puts the green can with its 200 mL remainder on the garden’s sheltered low storage shelf. Dan leaves it there instead of pouring the remainder into the pots.  
 **Opening state:** Can with 200 mL beside bench; all three pots already watered; path clear.  
 **End state:** Can stored safely with 200 mL remaining; none added to plants; outdoor tap still OFF.  
-**Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_16.png](storyboards/BOARD_16.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Water remainder not drinking water; avoid dangling handles or containers blocking the route.
 
 **Dialogue:**
@@ -1377,7 +1377,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** Maya and Nina help the children remove gloves without rubbing dirty surfaces on their faces. Ella lays her pair in the garden tray; a short dissolve covers all six pairs.  
 **Opening state:** All six still wear gardening gloves; tools stored; notebook dry in Maya’s hand.  
 **End state:** Six glove pairs in outdoor tray; all six have bare unwashed hands kept away from faces and kitchen items.  
-**Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_17.png](storyboards/BOARD_17.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Removal does not replace handwashing; dirty gloves remain outside.
 
 **Dialogue:**
@@ -1398,7 +1398,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** Adults open the door and guide all six directly to the sink. An explicit elapsed washing sequence shows soap, rinsing and drying before anyone handles food or touches their face.  
 **Opening state:** Garden gloves and tools outside; bare hands not yet washed; kitchen still free of soil or plants.  
 **End state:** All six hands washed and dried; sink faucet OFF; no garden object on food surface.  
-**Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_17.png](storyboards/BOARD_17.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** This is elapsed real washing, not a complete six-person wash in ten seconds; no tasting follows gardening.
 
 **Dialogue:**
@@ -1419,7 +1419,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** Maya places the dry garden notebook, which she kept separate from soil, on the island after clean hands. Leo opens Day 1 while Ella checks the paper coin clipped outside.  
 **Opening state:** All hands clean; no tools, soil or plant in kitchen; dry notebook in Maya’s hand.  
 **End state:** Notebook on clean island; Day 1 open; paper coin still clipped outside and dry.  
-**Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_17.png](storyboards/BOARD_17.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** No dirty garden measure reused as a cup; no sudden harvest on the island.
 
 **Dialogue:**
@@ -1440,7 +1440,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** Max asks whether the seeds will be ready after lunch. Nina uses the packet’s expected timeline as a future observation, not a guarantee; Dan closes his imaginary stopwatch with a smile.  
 **Opening state:** Same morning; radish pot outside has no shoots; journal open; no meal or time jump shown.  
 **End state:** Max accepts a future check rather than instant results; no plant appearance changes.  
-**Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_17.png](storyboards/BOARD_17.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Never show overnight harvest or promise a fixed germination date; actual weather/variety determine it.
 
 **Dialogue:**
@@ -1461,7 +1461,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** Ella adds a blank next-observation line instead of inventing tomorrow’s height. Maya suggests checking moisture and light; Leo leaves the result empty until they actually return.  
 **Opening state:** Only Day 1 observations recorded; next page blank; no radish growth.  
 **End state:** Future check line exists with no fabricated outcome; today’s record unchanged.  
-**Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_18.png](storyboards/BOARD_18.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** No audience countdown, practice slot or fast-growth montage.
 
 **Dialogue:**
@@ -1482,7 +1482,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** Dan taps the clipped paper drawing and says it has grown into a useful joke. Max agrees while Maya closes the soil-free notebook carefully.  
 **Opening state:** Paper coin dry outside notebook; Day 1 open; all actual plants remain outdoors.  
 **End state:** Notebook closed; paper coin still attached; no real money or new seed.  
-**Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_18.png](storyboards/BOARD_18.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Metaphor stays spoken, not a literal animated money tree.
 
 **Dialogue:**
@@ -1503,7 +1503,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** All six return outside with clean hands; Maya carries the closed notebook. They stop on the path to look at the pots without touching soil or adding water.  
 **Opening state:** Tools stored, gloves outside; all hands clean; pots already placed; can 200 mL on shelf.  
 **End state:** All six on path facing three pots; no one handles soil or tools; notebook held closed.  
-**Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_18.png](storyboards/BOARD_18.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Same morning light; brief return is observation only, no second planting or watering.
 
 **Dialogue:**
@@ -1524,7 +1524,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** Maya and Nina check that leaves have room and saucers remain empty. Dan sees that the modest row is enough work for the family’s first shared garden record.  
 **Opening state:** Mint LEFT, basil CENTER, radish RIGHT; saucers empty; no shoots in right pot.  
 **End state:** All three remain stable; adults agree to keep the plan small; no new supplies appear.  
-**Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_18.png](storyboards/BOARD_18.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Leaf silhouettes and seed-bed state identical to earlier placement; no growth claimed.
 
 **Dialogue:**
@@ -1545,7 +1545,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** Max gives the radish pot a friendly wave without speaking to the audience. Ella and Leo smile at his imagined tiny neighborhood; the soil stays undisturbed.  
 **Opening state:** Right pot bare with three covered seeds; all children on path; notebook with Maya off-frame.  
 **End state:** Children remain on path; no digging, extra water or visible radish leaves.  
-**Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_19.png](storyboards/BOARD_19.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Personification is a family joke, not talking or sentient plants.
 
 **Dialogue:**
@@ -1566,7 +1566,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** Dan kneels on the clean path without touching the pots. He thanks Nina for asking him to check the soil; Max sees that a small correction did not spoil the day.  
 **Opening state:** All pots unchanged; Dan standing on path; no garden tool in hands.  
 **End state:** Dan relaxed at child height; Nina and Max smile; no physical garden state changes.  
-**Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_19.png](storyboards/BOARD_19.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Affectionate admission, no humiliation or rivalry between parents.
 
 **Dialogue:**
@@ -1587,7 +1587,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** Maya opens the notebook to show Ella’s sketch and Leo’s water record. Ella points to the labels from the path without tugging them out.  
 **Opening state:** Day 1 notebook closed; three labels in soil; water record accurate; no seed shoots.  
 **End state:** Notebook open to accurate sketch and water record; all labels remain inserted.  
-**Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_19.png](storyboards/BOARD_19.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Each child contributed practical work; adults retain equal active roles.
 
 **Dialogue:**
@@ -1608,7 +1608,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** Dan looks from the pots toward the house and mentions the coming family gathering. Maya says they already have something to share: a small true story, regardless of how fast seeds grow.  
 **Opening state:** Garden work complete same morning; no party decorations or cake present.  
 **End state:** Future family gathering mentioned only; current gardening problem resolved; no Episode10 action begins.  
-**Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_19.png](storyboards/BOARD_19.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** No harvest promised for party; plants do not become party food in this shot.
 
 **Dialogue:**
@@ -1629,7 +1629,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** Max compares his small hands to the three-pot row without reaching into it. Dan accepts the scale of their project; Ella keeps the notebook edge away from watering tools.  
 **Opening state:** All three pots unchanged; can still stored with 200 mL; notebook open with Maya nearby.  
 **End state:** The family appreciates the small row; no extra pot or seedling joins it.  
-**Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_20.png](storyboards/BOARD_20.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Small ambition payoff replaces size contest; no repeated Episode02 shopping mechanics.
 
 **Dialogue:**
@@ -1650,7 +1650,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** Leo adds the final observation: all labels correct, herbs upright, radish soil bare, saucers empty. Nina checks the can remainder remains recorded as 200 mL, not spent.  
 **Opening state:** Day 1 record has planting and water amounts; final placement note not yet written.  
 **End state:** Day 1 final record complete; no fabricated growth; notebook ready to close.  
-**Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_20.png](storyboards/BOARD_20.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Exact journal text from GROWTH_JOURNAL.svg; record matches all physical states.
 
 **Dialogue:**
@@ -1671,7 +1671,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** All six share an easy smile while the camera gently widens. Maya closes the notebook; Dan leaves his hands relaxed rather than announcing a lesson.  
 **Opening state:** Family together on path; notebook open; pots unchanged in sunlit strip.  
 **End state:** Notebook closed in Maya’s hands; six family members relaxed; all work safely finished.  
-**Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_20.png](storyboards/BOARD_20.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** No synchronized group chant, narrator recap or extra relative reappears.
 
 **Dialogue:**
@@ -1692,7 +1692,7 @@ Read [CONTINUITY.md](CONTINUITY.md) for the exact ledger and [SCENE_REFERENCE_PL
 **Action:** Hold a warm final family moment beside the clear path and the three labeled pots. Add closing editorial artwork inside the final seconds, leaving the garden unchanged at 13:20.  
 **Opening state:** Same morning; mint LEFT, basil CENTER, bare radish RIGHT; empty saucers; tools stored and can 200 mL.  
 **End state:** Story ends at13:20 with no germination time jump, new planting, new water or party sequence.  
-**Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_20.png](storyboards/BOARD_20.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Creator practice can follow separately after story; all six retain original W01 faces/clothes.
 
 **Dialogue:**

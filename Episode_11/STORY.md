@@ -35,7 +35,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** Max walks a flat cardboard nose around the mug. Dan slides one protective hand toward the mug before he sees the stick.
 **Opening state:** Dan's empty blue coffee mug stands upright on the bare oak. Max holds his mouse below the far edge.
 **End state:** Pip peeks out on the mug's right. Dan's fingers stop short of its handle.
-**Picture:** [BOARD_01.png](assets/storyboards/BOARD_01.png), panel 1 (top left). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_01.png](storyboards/BOARD_01.png), panel 1 (top left). Creator and individual first-frame approval pending.
 **Continuity:** The cobalt mug stays on the island. Pip is a flat black card mouse with a curled tail and one stick. The paper crescent first appears in 003.
 
 **Dialogue:**
@@ -57,7 +57,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** Dan lifts the mug to look underneath. Max raises Pip behind it at exactly the same speed. When Dan glances over the rim, they come nose to nose.
 **Opening state:** The puppet is beside the upright mug. Dan can see its nose.
 **End state:** Dan sets the mug upright in its first spot. Max keeps the stick.
-**Picture:** [BOARD_01.png](assets/storyboards/BOARD_01.png), panel 2 (top right). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_01.png](storyboards/BOARD_01.png), panel 2 (top right). Creator and individual first-frame approval pending.
 **Continuity:** The cobalt mug stays on the island. Pip is a flat black card mouse with a curled tail and one stick. The paper crescent first appears in 003.
 
 **Dialogue:**
@@ -79,7 +79,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** Ella lifts a dark paper crescent above Pip. Dan tilts his head until the crescent looks like a crooked banana. Ella turns his chin upright with a look.
 **Opening state:** Pip is in Max's hand. Ella has something behind her back.
 **End state:** The crescent hangs above the mouse. Both cutouts stay in their makers' hands.
-**Picture:** [BOARD_01.png](assets/storyboards/BOARD_01.png), panel 3 (bottom left). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_01.png](storyboards/BOARD_01.png), panel 3 (bottom left). Creator and individual first-frame approval pending.
 **Continuity:** The cobalt mug stays on the island. Pip is a flat black card mouse with a curled tail and one stick. The paper crescent first appears in 003.
 
 **Dialogue:**
@@ -101,7 +101,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** Max makes Pip bow. Nina bends close enough to hear the voice he has been trying out under his breath.
 **Opening state:** The island is clear in front of Max. Nina comes to his side.
 **End state:** Nina accepts his invitation to a show. Max carries Pip toward the dining room.
-**Picture:** [BOARD_01.png](assets/storyboards/BOARD_01.png), panel 4 (bottom right). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_01.png](storyboards/BOARD_01.png), panel 4 (bottom right). Creator and individual first-frame approval pending.
 **Continuity:** The cobalt mug stays on the island. Pip is a flat black card mouse with a curled tail and one stick. The paper crescent first appears in 003.
 
 **Dialogue:**
@@ -123,7 +123,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** Maya slides the card to Max. He folds it once and holds it up like the grandest ticket in town.
 **Opening state:** Maya is at her far-right place. Max brings Pip to his near-right place. A blank yellow card lies by Maya.
 **End state:** Max has the folded yellow family ticket. Pip rests beside him.
-**Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 1 (top left). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_02.png](storyboards/BOARD_02.png), panel 1 (top left). Creator and individual first-frame approval pending.
 **Continuity:** Use the fixed dining-room seats. Dan takes Pip in 007. The folded yellow ticket leaves with Nina in 008. The mug stays in the kitchen.
 
 **Dialogue:**
@@ -145,7 +145,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** Ella holds the crescent high. Max walks Pip below it while Leo follows the tiny steps with his chin on the table.
 **Opening state:** The mouse and crescent have arrived at the table. Max's ticket is beside him.
 **End state:** Ella will play the moon. Pip starts on the ground in their story.
-**Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 2 (top right). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_02.png](storyboards/BOARD_02.png), panel 2 (top right). Creator and individual first-frame approval pending.
 **Continuity:** Use the fixed dining-room seats. Dan takes Pip in 007. The folded yellow ticket leaves with Nina in 008. The mug stays in the kitchen.
 
 **Dialogue:**
@@ -167,7 +167,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** Dan takes the stick and tries an extravagant bow. Pip's pointy nose bumps the table before the rest of him gets there.
 **Opening state:** Max offers Dan the mouse by its stick. Ella holds the crescent.
 **End state:** Dan steadies the one mouse on its stick. Ella holds back a laugh.
-**Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 3 (bottom left). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_02.png](storyboards/BOARD_02.png), panel 3 (bottom left). Creator and individual first-frame approval pending.
 **Continuity:** Use the fixed dining-room seats. Dan takes Pip in 007. The folded yellow ticket leaves with Nina in 008. The mug stays in the kitchen.
 
 **Dialogue:**
@@ -189,7 +189,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** Max shows two finger steps beside the puppet. Dan matches him. Nina slips the folded ticket inside her hand for the trip.
 **Opening state:** Dan still has Pip. The family ticket lies at Max's place.
 **End state:** Dan carries Pip, Nina carries the ticket and Ella takes her crescent to the porch.
-**Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 4 (bottom right). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_02.png](storyboards/BOARD_02.png), panel 4 (bottom right). Creator and individual first-frame approval pending.
 **Continuity:** Use the fixed dining-room seats. Dan takes Pip in 007. The folded yellow ticket leaves with Nina in 008. The mug stays in the kitchen.
 
 **Dialogue:**
@@ -211,7 +211,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** Dan lets his own long shadow cross the boards. Max puts one green sneaker alongside the shadow of Dan's shoe to measure the difference.
 **Opening state:** Low afternoon sunlight reaches the familiar porch. Dan has Pip.
 **End state:** Dan stands in the same pool of sun. Max's sneaker is back under him.
-**Picture:** [BOARD_03.png](assets/storyboards/BOARD_03.png), panel 1 (top left). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_03.png](storyboards/BOARD_03.png), panel 1 (top left). Creator and individual first-frame approval pending.
 **Continuity:** Use the blue porch door and low afternoon light. Dan carries Pip, Ella the crescent and Nina the ticket. A passing cloud softens the cast shadows.
 
 **Dialogue:**
@@ -233,7 +233,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** Dan tips the stick into the slanting sun. The tiny mouse throws a long skinny shadow, and Max follows its tail along one floorboard.
 **Opening state:** Dan holds Pip over the bright patch. Ella keeps the crescent by her side.
 **End state:** Pip and his shadow are both visible. The actual cutout stays palm-sized.
-**Picture:** [BOARD_03.png](assets/storyboards/BOARD_03.png), panel 2 (top right). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_03.png](storyboards/BOARD_03.png), panel 2 (top right). Creator and individual first-frame approval pending.
 **Continuity:** Use the blue porch door and low afternoon light. Dan carries Pip, Ella the crescent and Nina the ticket. A passing cloud softens the cast shadows.
 
 **Dialogue:**
@@ -255,7 +255,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** A cloud covers the sun. Pip's sharp shadow fades. Dan freezes with one knee bent, ready for his next grand step, then peeks at Nina.
 **Opening state:** Dan still holds Pip over the bright boards.
 **End state:** The porch is in soft shade. Dan still holds the real mouse.
-**Picture:** [BOARD_03.png](assets/storyboards/BOARD_03.png), panel 3 (bottom left). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_03.png](storyboards/BOARD_03.png), panel 3 (bottom left). Creator and individual first-frame approval pending.
 **Continuity:** Use the blue porch door and low afternoon light. Dan carries Pip, Ella the crescent and Nina the ticket. A passing cloud softens the cast shadows.
 
 **Dialogue:**
@@ -277,7 +277,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** Nina opens the door and mimes clicking a switch. Ella leads the way in. Dan follows carefully with Pip tucked close.
 **Opening state:** The porch shadow has faded. Ella holds the crescent and Nina the ticket.
 **End state:** Everyone leaves the porch for the entry carrying the same two cutouts and one ticket.
-**Picture:** [BOARD_03.png](assets/storyboards/BOARD_03.png), panel 4 (bottom right). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_03.png](storyboards/BOARD_03.png), panel 4 (bottom right). Creator and individual first-frame approval pending.
 **Continuity:** Use the blue porch door and low afternoon light. Dan carries Pip, Ella the crescent and Nina the ticket. A passing cloud softens the cast shadows.
 
 **Dialogue:**
@@ -299,7 +299,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** Maya lifts the frame while Leo unfolds its two feet. He peers through the milky white cloth, hoping to see Maya's face.
 **Opening state:** A small freestanding wooden puppet screen is stored on the entry bench with its feet folded in.
 **End state:** Maya carries the assembled screen toward the guest room.
-**Picture:** [BOARD_04.png](assets/storyboards/BOARD_04.png), panel 1 (top left). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_04.png](storyboards/BOARD_04.png), panel 1 (top left). Creator and individual first-frame approval pending.
 **Continuity:** One oak frame with white translucent cloth, one amber battery desk lamp. The family enters through the hall. The lamp first turns on in 016.
 
 **Dialogue:**
@@ -321,7 +321,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** Nina hands Max the ticket, picks up the cordless lamp and angles its head. Max holds the ticket against his green shirt like an important badge.
 **Opening state:** The lamp is off on the bench. Nina has the folded ticket.
 **End state:** Nina carries the unlit lamp. Max keeps the only ticket.
-**Picture:** [BOARD_04.png](assets/storyboards/BOARD_04.png), panel 2 (top right). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_04.png](storyboards/BOARD_04.png), panel 2 (top right). Creator and individual first-frame approval pending.
 **Continuity:** One oak frame with white translucent cloth, one amber battery desk lamp. The family enters through the hall. The lamp first turns on in 016.
 
 **Dialogue:**
@@ -343,7 +343,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** Leo gestures to imagine an enormous queue outside the empty hall. Max waves the three through with such gravity that Dan straightens his collar.
 **Opening state:** Dan has Pip. Ella has the crescent and its little wooden clip. Max holds the ticket.
 **End state:** The performers head inside. Max keeps the yellow ticket for opening time.
-**Picture:** [BOARD_04.png](assets/storyboards/BOARD_04.png), panel 3 (bottom left). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_04.png](storyboards/BOARD_04.png), panel 3 (bottom left). Creator and individual first-frame approval pending.
 **Continuity:** One oak frame with white translucent cloth, one amber battery desk lamp. The family enters through the hall. The lamp first turns on in 016.
 
 **Dialogue:**
@@ -365,7 +365,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** Maya plants both screen feet on the door-facing end of the table. Nina sets the lamp at the window end and switches it on. Leo looks at the blank rectangle from the audience side.
 **Opening state:** A low oak worktable stands clear of the bed and doorway. Maya has the screen. Nina has the unlit lamp.
 **End state:** The screen and angled amber lamp are fixed. The beam runs from window toward doorway.
-**Picture:** [BOARD_04.png](assets/storyboards/BOARD_04.png), panel 4 (bottom right). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_04.png](storyboards/BOARD_04.png), panel 4 (bottom right). Creator and individual first-frame approval pending.
 **Continuity:** One oak frame with white translucent cloth, one amber battery desk lamp. The family enters through the hall. The lamp first turns on in 016.
 
 **Dialogue:**
@@ -387,7 +387,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** Ella clips the flat crescent to the lamp side at the upper audience-right corner. Maya checks the single crisp silhouette from in front.
 **Opening state:** The lit screen is bare. Ella holds her crescent and one small wooden clip.
 **End state:** One crescent is clipped high right. Its tips face the open acting space.
-**Picture:** [BOARD_05.png](assets/storyboards/BOARD_05.png), panel 1 (top left). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_05.png](storyboards/BOARD_05.png), panel 1 (top left). Creator and individual first-frame approval pending.
 **Continuity:** Light travels from the window end of the worktable toward the audience at the door. The moon clips high audience-right. Dan moves Pip. Max voices him.
 
 **Dialogue:**
@@ -409,7 +409,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** Dan holds Pip close to the cloth at lower audience-left. Leo crouches in front and frames the little traveler between finger and thumb.
 **Opening state:** The crescent is fixed high right. Dan waits behind the screen with Pip. Max stands beside him.
 **End state:** Pip casts a small crisp shadow low left. The moon stays high right.
-**Picture:** [BOARD_05.png](assets/storyboards/BOARD_05.png), panel 2 (top right). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_05.png](storyboards/BOARD_05.png), panel 2 (top right). Creator and individual first-frame approval pending.
 **Continuity:** Light travels from the window end of the worktable toward the audience at the door. The moon clips high audience-right. Dan moves Pip. Max voices him.
 
 **Dialogue:**
@@ -431,7 +431,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** Dan supplies a splendid squeak just as Max opens his mouth. They turn toward each other, each waiting for the other mouse to finish.
 **Opening state:** Pip is small on the screen. Max draws breath to speak.
 **End state:** Pip goes still. Dan realizes Max already had a voice ready.
-**Picture:** [BOARD_05.png](assets/storyboards/BOARD_05.png), panel 3 (bottom left). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_05.png](storyboards/BOARD_05.png), panel 3 (bottom left). Creator and individual first-frame approval pending.
 **Continuity:** Light travels from the window end of the worktable toward the audience at the door. The moon clips high audience-right. Dan moves Pip. Max voices him.
 
 **Dialogue:**
@@ -453,7 +453,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** Max points at his own throat, then at Dan's hand. Dan tests their new arrangement by moving Pip's feet while keeping his mouth politely shut.
 **Opening state:** Dan holds Pip motionless near the cloth. Max has the folded ticket.
 **End state:** Dan operates the puppet. Max alone supplies Pip's voice.
-**Picture:** [BOARD_05.png](assets/storyboards/BOARD_05.png), panel 4 (bottom right). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_05.png](storyboards/BOARD_05.png), panel 4 (bottom right). Creator and individual first-frame approval pending.
 **Continuity:** Light travels from the window end of the worktable toward the audience at the door. The moon clips high audience-right. Dan moves Pip. Max voices him.
 
 **Dialogue:**
@@ -475,7 +475,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** Ella points along the cloth toward the crescent. Dan hooks a thumb back toward himself and the lamp, mistaking the direction. Max follows the tip of Ella's finger.
 **Opening state:** Pip is low left and small. The crescent is clipped high right.
 **End state:** Dan is about to move the puppet in depth. Neither the lamp nor the screen has moved.
-**Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 1 (top left). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_06.png](storyboards/BOARD_06.png), panel 1 (top left). Creator and individual first-frame approval pending.
 **Continuity:** The white screen, amber light and clipped crescent stay fixed. Only the mouse moves in depth. Its projected ear covers the moon as it nears the lamp.
 
 **Dialogue:**
@@ -497,7 +497,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** Dan draws the small cutout back toward the light. Leo tracks the growing shadow, first with a finger, then with his whole arm.
 **Opening state:** Dan has Pip beside the cloth. The lamp points steadily at the screen.
 **End state:** The mouse itself is unchanged. Its shadow has spread over the middle of the screen.
-**Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 2 (top right). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_06.png](storyboards/BOARD_06.png), panel 2 (top right). Creator and individual first-frame approval pending.
 **Continuity:** The white screen, amber light and clipped crescent stay fixed. Only the mouse moves in depth. Its projected ear covers the moon as it nears the lamp.
 
 **Dialogue:**
@@ -520,7 +520,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** The huge round ear overlaps the crescent. Its two tips disappear into one dark silhouette. Maya leans sideways for a better look and Leo nearly mirrors her out of his seat.
 **Opening state:** The expanding mouse shadow is below the crescent. Dan continues the same movement behind the cloth.
 **End state:** From the front, the moon has disappeared into Pip's shadow.
-**Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 3 (bottom left). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_06.png](storyboards/BOARD_06.png), panel 3 (bottom left). Creator and individual first-frame approval pending.
 **Continuity:** The white screen, amber light and clipped crescent stay fixed. Only the mouse moves in depth. Its projected ear covers the moon as it nears the lamp.
 
 **Dialogue:**
@@ -542,7 +542,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** Dan looks to Max for the mouse's reaction. Max lets out the tiniest possible burp as Pip. Ella bends double trying to muffle her laugh.
 **Opening state:** The physical cutout is still small in Dan's hand near the lamp. The moon is hidden from the audience.
 **End state:** Dan holds the big shadow for the laugh. Max opens his mouth to continue.
-**Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 4 (bottom right). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_06.png](storyboards/BOARD_06.png), panel 4 (bottom right). Creator and individual first-frame approval pending.
 **Continuity:** The white screen, amber light and clipped crescent stay fixed. Only the mouse moves in depth. Its projected ear covers the moon as it nears the lamp.
 
 **Dialogue:**
@@ -564,7 +564,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** Dan starts looking under the table for the moon. Ella touches the crescent on the back of the screen. He stops halfway down.
 **Opening state:** The cutout mouse is near the lamp and the crescent is hidden in its projected outline.
 **End state:** They know the crescent stayed clipped in place.
-**Picture:** [BOARD_07.png](assets/storyboards/BOARD_07.png), panel 1 (top left). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_07.png](storyboards/BOARD_07.png), panel 1 (top left). Creator and individual first-frame approval pending.
 **Continuity:** Pip stays in Dan’s hand, then drops below the beam in 026. The crescent remains clipped at the same height. Yellow ticket belongs to Max.
 
 **Dialogue:**
@@ -587,7 +587,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** Dan lowers the stick below the light. As the oversized ear slips away, Nina watches both sharp crescent tips reappear.
 **Opening state:** Dan holds the mouse in the beam. Nina watches from in front.
 **End state:** Pip is below the beam in Dan's hand. Only the crescent is visible on the screen.
-**Picture:** [BOARD_07.png](assets/storyboards/BOARD_07.png), panel 2 (top right). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_07.png](storyboards/BOARD_07.png), panel 2 (top right). Creator and individual first-frame approval pending.
 **Continuity:** Pip stays in Dan’s hand, then drops below the beam in 026. The crescent remains clipped at the same height. Yellow ticket belongs to Max.
 
 **Dialogue:**
@@ -609,7 +609,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** Leo tries a little imitation of the burp. He spots Max flattening the ticket with his thumb and lets the joke trail off.
 **Opening state:** The audience can see only the moon. Max is still holding the folded ticket.
 **End state:** The room gets quiet. The folded ticket is still in one piece.
-**Picture:** [BOARD_07.png](assets/storyboards/BOARD_07.png), panel 3 (bottom left). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_07.png](storyboards/BOARD_07.png), panel 3 (bottom left). Creator and individual first-frame approval pending.
 **Continuity:** Pip stays in Dan’s hand, then drops below the beam in 026. The crescent remains clipped at the same height. Yellow ticket belongs to Max.
 
 **Dialogue:**
@@ -631,7 +631,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** Maya crouches and holds out an open palm. Max rests the folded ticket there without letting go, then tells her what the joke cost his mouse.
 **Opening state:** The stage is lit and empty except for the crescent. Maya joins Max at the side.
 **End state:** Max takes the ticket back. Maya understands why the moon needs to stay visible.
-**Picture:** [BOARD_07.png](assets/storyboards/BOARD_07.png), panel 4 (bottom right). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_07.png](storyboards/BOARD_07.png), panel 4 (bottom right). Creator and individual first-frame approval pending.
 **Continuity:** Pip stays in Dan’s hand, then drops below the beam in 026. The crescent remains clipped at the same height. Yellow ticket belongs to Max.
 
 **Dialogue:**
@@ -653,7 +653,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** Leo slips an open hand into the light, almost touching the cloth. Nina checks the size of its clear five-fingered shadow from the audience side.
 **Opening state:** Dan holds Pip below the beam. The screen and lamp stay fixed.
 **End state:** Leo's hand shadow is small. The real mouse stays out of the test.
-**Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 1 (top left). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_08.png](storyboards/BOARD_08.png), panel 1 (top left). Creator and individual first-frame approval pending.
 **Continuity:** Leo tests his own hand with the lamp and screen fixed. Mouse stays below the beam. The crescent stays top right. Hand clears the beam in 031.
 
 **Dialogue:**
@@ -675,7 +675,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** Leo draws the same hand toward the lamp. Its shadow opens into a huge soft-edged fan. Dan offers the shadow a solemn handshake from outside the beam.
 **Opening state:** Leo's open hand is beside the screen. The crescent stays high on the right.
 **End state:** Leo keeps his hand near the lamp for one beat. Only its shadow grew.
-**Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 2 (top right). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_08.png](storyboards/BOARD_08.png), panel 2 (top right). Creator and individual first-frame approval pending.
 **Continuity:** Leo tests his own hand with the lamp and screen fixed. Mouse stays below the beam. The crescent stays top right. Hand clears the beam in 031.
 
 **Dialogue:**
@@ -697,7 +697,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** Nina brings Max around to the open side. From there he sees the small hand by the light and the giant hand on the cloth at the same time. Leo pulls his hand clear.
 **Opening state:** Leo's hand is near the lamp. Dan keeps Pip down.
 **End state:** The demonstration is over. Only the clipped crescent remains on the screen.
-**Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 3 (bottom left). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_08.png](storyboards/BOARD_08.png), panel 3 (bottom left). Creator and individual first-frame approval pending.
 **Continuity:** Leo tests his own hand with the lamp and screen fixed. Mouse stays below the beam. The crescent stays top right. Hand clears the beam in 031.
 
 **Dialogue:**
@@ -719,7 +719,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** Ella comes beside Dan and repeats her gesture where he can see it. He traces her path along the cloth, then points back at the lamp to show her what he heard.
 **Opening state:** The moon is high right. Dan holds the mouse by his side.
 **End state:** Both understand that Ella meant closer to the moon along the screen.
-**Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 4 (bottom right). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_08.png](storyboards/BOARD_08.png), panel 4 (bottom right). Creator and individual first-frame approval pending.
 **Continuity:** Leo tests his own hand with the lamp and screen fixed. Mouse stays below the beam. The crescent stays top right. Hand clears the beam in 031.
 
 **Dialogue:**
@@ -741,7 +741,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** Leo peels off the short blue strip and presses it along the performer's side near the screen. Ella walks two fingers along it from one end to the other.
 **Opening state:** The worktable has no marks. Two removable marks, a blue strip and an orange dot, are on Leo's paper backing.
 **End state:** The blue route is fixed beside the cloth. The orange dot is still on the backing.
-**Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 1 (top left). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_09.png](storyboards/BOARD_09.png), panel 1 (top left). Creator and individual first-frame approval pending.
 **Continuity:** One blue strip beside the screen marks the small shadow. One orange dot nearer the lamp marks the big shadow. Dan moves Pip along blue in 036.
 
 **Dialogue:**
@@ -764,7 +764,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** At Nina's question from beside the table, Max takes the orange dot from Leo's backing and presses it a handspan in front of the lamp base. The boys sight the distance to the blue strip and grin.
 **Opening state:** The blue strip is set at the screen. Leo holds the backing with one orange dot.
 **End state:** Blue means small near the screen. Orange marks the big-shadow spot nearer the lamp.
-**Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 2 (top right). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_09.png](storyboards/BOARD_09.png), panel 2 (top right). Creator and individual first-frame approval pending.
 **Continuity:** One blue strip beside the screen marks the small shadow. One orange dot nearer the lamp marks the big shadow. Dan moves Pip along blue in 036.
 
 **Dialogue:**
@@ -786,7 +786,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** At Max's direction Dan lifts Pip at lower left, right above the blue strip. Max watches the small, crisp silhouette appear without disturbing the moon.
 **Opening state:** Both marks are in place. Dan has Pip below the light.
 **End state:** Pip is small at the left end of blue. Dan still holds the stick.
-**Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 3 (bottom left). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_09.png](storyboards/BOARD_09.png), panel 3 (bottom left). Creator and individual first-frame approval pending.
 **Continuity:** One blue strip beside the screen marks the small shadow. One orange dot nearer the lamp marks the big shadow. Dan moves Pip along blue in 036.
 
 **Dialogue:**
@@ -808,7 +808,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** Dan walks the mouse along the blue strip toward the spot below the crescent. Ella watches the gap. Max nods when both shapes still have room.
 **Opening state:** Pip is small at the left end of the blue route. The crescent is high right.
 **End state:** Pip is below the moon, close to the cloth. Both outlines read separately.
-**Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 4 (bottom right). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_09.png](storyboards/BOARD_09.png), panel 4 (bottom right). Creator and individual first-frame approval pending.
 **Continuity:** One blue strip beside the screen marks the small shadow. One orange dot nearer the lamp marks the big shadow. Dan moves Pip along blue in 036.
 
 **Dialogue:**
@@ -830,7 +830,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** The mouse wobbles while Dan tries very hard to keep quiet. Max lays a hand on Dan's sleeve and feels the laugh he is holding in.
 **Opening state:** Dan holds Pip at the right end of blue, just below the moon.
 **End state:** Dan relaxes his grip. The little silhouette steadies.
-**Picture:** [BOARD_10.png](assets/storyboards/BOARD_10.png), panel 1 (top left). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_10.png](storyboards/BOARD_10.png), panel 1 (top left). Creator and individual first-frame approval pending.
 **Continuity:** Pip stays close to the cloth and the moon stays clipped. Max sets his ticket at the foot in 040. Dan holds the stick through the end of 040.
 
 **Dialogue:**
@@ -852,7 +852,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** Max draws himself to his full small height and tries a booming greeting. Halfway through, his voice trips over the last word and he laughs with Ella.
 **Opening state:** The puppets are still. Max is trying to decide how Pip will speak.
 **End state:** Max lets his shoulders drop and tries his ordinary voice.
-**Picture:** [BOARD_10.png](assets/storyboards/BOARD_10.png), panel 2 (top right). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_10.png](storyboards/BOARD_10.png), panel 2 (top right). Creator and individual first-frame approval pending.
 **Continuity:** Pip stays close to the cloth and the moon stays clipped. Max sets his ticket at the foot in 040. Dan holds the stick through the end of 040.
 
 **Dialogue:**
@@ -874,7 +874,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** Maya steps back one pace and cups an ear. Max asks a real question in the voice he uses at home. Maya answers without leaning forward.
 **Opening state:** Max has dropped his booming voice. Maya is in the audience area.
 **End state:** Max knows his ordinary voice carries across the screen.
-**Picture:** [BOARD_10.png](assets/storyboards/BOARD_10.png), panel 3 (bottom left). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_10.png](storyboards/BOARD_10.png), panel 3 (bottom left). Creator and individual first-frame approval pending.
 **Continuity:** Pip stays close to the cloth and the moon stays clipped. Max sets his ticket at the foot in 040. Dan holds the stick through the end of 040.
 
 **Dialogue:**
@@ -896,7 +896,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** Max puts the ticket flat beside the screen foot, then holds out his empty palm. Dan turns the stick handle-first toward him and waits for Max to ask.
 **Opening state:** Dan holds Pip. Max has the ticket in one hand, leaving his other hand free.
 **End state:** The ticket rests beside the foot. Dan still holds the offered stick.
-**Picture:** [BOARD_10.png](assets/storyboards/BOARD_10.png), panel 4 (bottom right). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_10.png](storyboards/BOARD_10.png), panel 4 (bottom right). Creator and individual first-frame approval pending.
 **Continuity:** Pip stays close to the cloth and the moon stays clipped. Max sets his ticket at the foot in 040. Dan holds the stick through the end of 040.
 
 **Dialogue:**
@@ -918,7 +918,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** Max takes the stick. Dan opens his fingers and steps aside. Max makes Pip pick up one foot, as if checking whether everything still works.
 **Opening state:** Dan holds the handle out. The folded ticket is beside the screen foot.
 **End state:** Max holds the mouse himself. Dan's hands are empty.
-**Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 1 (top left). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_11.png](storyboards/BOARD_11.png), panel 1 (top left). Creator and individual first-frame approval pending.
 **Continuity:** Max takes the stick in 041 and operates from the window side. The mouse exits audience-left. The yellow ticket stays by the screen foot.
 
 **Dialogue:**
@@ -940,7 +940,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** Max tries the first little walk at the blue strip. Half the screen is hidden by the frame from where he is standing, so he recruits Leo to watch the path.
 **Opening state:** Max is behind the screen with Pip. Leo watches from the front.
 **End state:** Pip is small and close to the audience-left edge. Leo has accepted lookout duty.
-**Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 2 (top right). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_11.png](storyboards/BOARD_11.png), panel 2 (top right). Creator and individual first-frame approval pending.
 **Continuity:** Max takes the stick in 041 and operates from the window side. The mouse exits audience-left. The yellow ticket stays by the screen foot.
 
 **Dialogue:**
@@ -963,7 +963,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** Pip walks beyond the lit rectangle. Nina and Ella tip their heads left in perfect time with the disappearing mouse. One curl of tail hangs on for a beat.
 **Opening state:** Pip is at the left edge. Ella has come around front to see what Max sees.
 **End state:** Only the tip of Pip's tail is visible. The crescent stays high right.
-**Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 3 (bottom left). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_11.png](storyboards/BOARD_11.png), panel 3 (bottom left). Creator and individual first-frame approval pending.
 **Continuity:** Max takes the stick in 041 and operates from the window side. The mouse exits audience-left. The yellow ticket stays by the screen foot.
 
 **Dialogue:**
@@ -985,7 +985,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** Max tries to peek over the frame without letting go of the stick. Dan offers a palm for him to steady his elbow on. Max settles back on both feet.
 **Opening state:** Max has the mouse just outside the lit rectangle.
 **End state:** Max keeps control of Pip and can hear the lookouts. Dan stays out of the beam.
-**Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 4 (bottom right). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_11.png](storyboards/BOARD_11.png), panel 4 (bottom right). Creator and individual first-frame approval pending.
 **Continuity:** Max takes the stick in 041 and operates from the window side. The mouse exits audience-left. The yellow ticket stays by the screen foot.
 
 **Dialogue:**
@@ -1007,7 +1007,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** Ella points to her left. Max moves to his own left and the last curl slips out. They can see each other's pointing hands at opposite ends of the frame.
 **Opening state:** Ella is on the audience side. Max operates from the other side, facing her.
 **End state:** Pip has disappeared beyond the edge. The performers have identified two different viewpoints.
-**Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 1 (top left). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_12.png](storyboards/BOARD_12.png), panel 1 (top left). Creator and individual first-frame approval pending.
 **Continuity:** The front view defines audience-left and audience-right. The fixed crescent high right is a landmark for both actors. Pip stays at blue.
 
 **Dialogue:**
@@ -1029,7 +1029,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** Dan looks down at their shoes. He faces first Ella's way, then Max's, and tries the same left-hand point twice. His two points go opposite ways.
 **Opening state:** Max still holds Pip beyond the edge. Ella and Max face one another across the screen.
 **End state:** Ella decides to give Max a landmark they can both find.
-**Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 2 (top right). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_12.png](storyboards/BOARD_12.png), panel 2 (top right). Creator and individual first-frame approval pending.
 **Continuity:** The front view defines audience-left and audience-right. The fixed crescent high right is a landmark for both actors. Pip stays at blue.
 
 **Dialogue:**
@@ -1051,7 +1051,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** Ella points straight at the moon. Max slides the cutout along the blue strip in that direction. Leo gives a low hand signal as the nose appears.
 **Opening state:** Pip is outside the audience-left edge. One high crescent is clearly visible to everyone.
 **End state:** The nose has re-entered. Max can find his way using the moon as a landmark.
-**Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 3 (bottom left). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_12.png](storyboards/BOARD_12.png), panel 3 (bottom left). Creator and individual first-frame approval pending.
 **Continuity:** The front view defines audience-left and audience-right. The fixed crescent high right is a landmark for both actors. Pip stays at blue.
 
 **Dialogue:**
@@ -1073,7 +1073,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** The little mouse walks all the way back into view. Max turns it to face the crescent. Nina glances at the orange dot. Max gives a tiny, deliberate shake of his head.
 **Opening state:** Pip's nose has just re-entered. The orange dot is unused.
 **End state:** Pip is back on blue. Max saves the big shadow for after the story.
-**Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 4 (bottom right). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_12.png](storyboards/BOARD_12.png), panel 4 (bottom right). Creator and individual first-frame approval pending.
 **Continuity:** The front view defines audience-left and audience-right. The fixed crescent high right is a landmark for both actors. Pip stays at blue.
 
 **Dialogue:**
@@ -1095,7 +1095,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** Leo tries a single knuckle tap to signal the start. Max jumps and Ella nearly answers before anybody has asked the moon a question.
 **Opening state:** Max is practicing Pip's approach. The room is quiet enough to hear the wooden frame.
 **End state:** All three hear how much one small tap carries.
-**Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 1 (top left). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_13.png](storyboards/BOARD_13.png), panel 1 (top left). Creator and individual first-frame approval pending.
 **Continuity:** One exploratory knuckle tap in 049. Pip makes two soft knocks with his existing stick in 051. Nina collects the one ticket in 052.
 
 **Dialogue:**
@@ -1117,7 +1117,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** Maya shows the size of the knock she imagined with both arms. Leo holds up his smallest knuckle. Max studies the little wooden handle under Pip.
 **Opening state:** Leo's hand is beside the frame. The first tap has died away.
 **End state:** Max has found a use for the sound inside his story.
-**Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 2 (top right). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_13.png](storyboards/BOARD_13.png), panel 2 (top right). Creator and individual first-frame approval pending.
 **Continuity:** One exploratory knuckle tap in 049. Pip makes two soft knocks with his existing stick in 051. Nina collects the one ticket in 052.
 
 **Dialogue:**
@@ -1139,7 +1139,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** Max taps the side rail twice with the end of the same stick. Two soft knocks. Ella turns to the sound like someone hearing a visitor at a very distant door.
 **Opening state:** Max has Pip beside the screen rail. The real crescent stays clipped high.
 **End state:** The two knocks are Pip's signal in the play. Leo can keep his hands quiet.
-**Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 3 (bottom left). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_13.png](storyboards/BOARD_13.png), panel 3 (bottom left). Creator and individual first-frame approval pending.
 **Continuity:** One exploratory knuckle tap in 049. Pip makes two soft knocks with his existing stick in 051. Nina collects the one ticket in 052.
 
 **Dialogue:**
@@ -1161,7 +1161,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** Ella starts to answer and catches Max still drawing breath. She lifts her eyebrows and waits. Nina sees him find the words on his own and picks up the ticket.
 **Opening state:** Max and Ella have agreed on two knocks. The ticket is beside the foot of the screen.
 **End state:** Max has time for his question. Nina takes the ticket toward the door.
-**Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 4 (bottom right). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_13.png](storyboards/BOARD_13.png), panel 4 (bottom right). Creator and individual first-frame approval pending.
 **Continuity:** One exploratory knuckle tap in 049. Pip makes two soft knocks with his existing stick in 051. Nina collects the one ticket in 052.
 
 **Dialogue:**
@@ -1184,7 +1184,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** Maya ushers Dan and Leo into the hall so the performers can begin with an entrance. Dan tiptoes, then looks back to find out if anyone noticed.
 **Opening state:** The stage is ready. The crescent stays clipped on and Max keeps the mouse below the beam.
 **End state:** Dan, Leo and Maya are in the hall. Nina brings the ticket. The two children backstage stay put.
-**Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 1 (top left). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_14.png](storyboards/BOARD_14.png), panel 1 (top left). Creator and individual first-frame approval pending.
 **Continuity:** The screen stays lit in the guest room. Leo receives the folded ticket in the entry and gives it back to Nina at the guest-room door.
 
 **Dialogue:**
@@ -1206,7 +1206,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** Leo receives the single folded ticket. Dan tucks his elbows tight to his ribs to make himself look like an especially small customer. Maya tries the pose too.
 **Opening state:** The audience is waiting in the entry. Nina arrives with the folded ticket.
 **End state:** Leo holds the one family ticket. His two customers are ready to go in.
-**Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 2 (top right). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_14.png](storyboards/BOARD_14.png), panel 2 (top right). Creator and individual first-frame approval pending.
 **Continuity:** The screen stays lit in the guest room. Leo receives the folded ticket in the entry and gives it back to Nina at the guest-room door.
 
 **Dialogue:**
@@ -1228,7 +1228,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** Maya makes a show of looking behind Dan's ear for smuggled cheese. She presents her perfectly empty palm to Leo, who waves the very innocent Dan through.
 **Opening state:** Dan and Maya are at the pretend ticket desk. Leo has the ticket.
 **End state:** Nobody is carrying food. The ticket stays with Leo as they turn toward the show.
-**Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 3 (bottom left). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_14.png](storyboards/BOARD_14.png), panel 3 (bottom left). Creator and individual first-frame approval pending.
 **Continuity:** The screen stays lit in the guest room. Leo receives the folded ticket in the entry and gives it back to Nina at the guest-room door.
 
 **Dialogue:**
@@ -1250,7 +1250,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** Nina accepts the ticket and waves everyone to the audience side. Dan obeys Leo's elbow rule for one last squeezed-in step. The paper moon waits in the quiet.
 **Opening state:** Leo reaches the guest-room door with the ticket. The lit screen shows the lone moon.
 **End state:** Four listeners are in front. Max and Ella are behind the lit screen. Nina holds the ticket.
-**Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 4 (bottom right). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_14.png](storyboards/BOARD_14.png), panel 4 (bottom right). Creator and individual first-frame approval pending.
 **Continuity:** The screen stays lit in the guest room. Leo receives the folded ticket in the entry and gives it back to Nina at the guest-room door.
 
 **Dialogue:**
@@ -1272,7 +1272,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** Pip pads into view. Max peeks around the outer edge for one breath, then sinks back into his story. Dan leans toward Nina without speaking over the opening.
 **Opening state:** Only the crescent shows high right. Max is ready at the blue mark.
 **End state:** The small black mouse stands low left beneath a much higher moon.
-**Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 1 (top left). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_15.png](storyboards/BOARD_15.png), panel 1 (top left). Creator and individual first-frame approval pending.
 **Continuity:** Four listeners face the screen. Ella voices the moon and Max operates and voices Pip. Dan is in the audience. Two soft wood taps in 058.
 
 **Dialogue:**
@@ -1294,7 +1294,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** Max walks Pip to the rail and gives the promised two gentle taps with its stick. Ella lets the second sound die away before the moon answers.
 **Opening state:** Pip is in view and the moon waits above. Leo's hands are in his lap.
 **End state:** The knocks belong to Pip. The moon is awake and listening.
-**Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 2 (top right). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_15.png](storyboards/BOARD_15.png), panel 2 (top right). Creator and individual first-frame approval pending.
 **Continuity:** Four listeners face the screen. Ella voices the moon and Max operates and voices Pip. Dan is in the audience. Two soft wood taps in 058.
 
 **Dialogue:**
@@ -1317,7 +1317,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** Ella gives the high crescent an indignant voice. Pip looks left, then right, as if checking behind him for an enormous sandwich. Maya covers her smile.
 **Opening state:** Pip is near the moon's imagined door. Both shadows are crisp and separate.
 **End state:** The moon has mistaken Pip for a hungry visitor. Pip waits to explain.
-**Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 3 (bottom left). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_15.png](storyboards/BOARD_15.png), panel 3 (bottom left). Creator and individual first-frame approval pending.
 **Continuity:** Four listeners face the screen. Ella voices the moon and Max operates and voices Pip. Dan is in the audience. Two soft wood taps in 058.
 
 **Dialogue:**
@@ -1339,7 +1339,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** Dan sees Max gathering breath. Instead of supplying the next line, he settles back. Max finds it, and Dan's quiet smile comes a beat after the laugh.
 **Opening state:** Pip has a chance to answer. Dan starts to lean in as if to help.
 **End state:** Max has the audience in his own voice. The moon waits to hear his real question.
-**Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 4 (bottom right). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_15.png](storyboards/BOARD_15.png), panel 4 (bottom right). Creator and individual first-frame approval pending.
 **Continuity:** Four listeners face the screen. Ella voices the moon and Max operates and voices Pip. Dan is in the audience. Two soft wood taps in 058.
 
 **Dialogue:**
@@ -1361,7 +1361,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** Max makes Pip jump straight up without leaving blue. Pip drops back to exactly where he started. Ella looks down the gap as if peering over a balcony.
 **Opening state:** The moon is clipped high. Pip stands far below it, close to the cloth.
 **End state:** Even at the top of his jump the little mouse cannot reach the moon.
-**Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 1 (top left). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_16.png](storyboards/BOARD_16.png), panel 1 (top left). Creator and individual first-frame approval pending.
 **Continuity:** Max keeps Pip at blue for a small shadow. Ella removes the single clip in 063, leaves it by the foot and holds the crescent against the cloth.
 
 **Dialogue:**
@@ -1383,7 +1383,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** Pip tips his nose toward the open space halfway up. Ella looks at the clip, then at Max. He waits for her nod before he tries another jump.
 **Opening state:** The two silhouettes are separated by their height on the screen.
 **End state:** The characters have agreed to meet in the middle.
-**Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 2 (top right). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_16.png](storyboards/BOARD_16.png), panel 2 (top right). Creator and individual first-frame approval pending.
 **Continuity:** Max keeps Pip at blue for a small shadow. Ella removes the single clip in 063, leaves it by the foot and holds the crescent against the cloth.
 
 **Dialogue:**
@@ -1405,7 +1405,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** Ella holds the crescent against the cloth with one hand and removes the peg with the other. She puts the peg beside the frame foot and slides the same crescent lower.
 **Opening state:** The crescent is still held by one wooden clip high at the right.
 **End state:** The crescent is halfway down, still against the cloth, now held by Ella. The peg is on the table.
-**Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 3 (bottom left). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_16.png](storyboards/BOARD_16.png), panel 3 (bottom left). Creator and individual first-frame approval pending.
 **Continuity:** Max keeps Pip at blue for a small shadow. Ella removes the single clip in 063, leaves it by the foot and holds the crescent against the cloth.
 
 **Dialogue:**
@@ -1428,7 +1428,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** Pip rises at the blue strip while the crescent holds still. The two noses stop just short of touching. Leo eases his shoulders down as if he'd helped them land.
 **Opening state:** The moon is midway down. Pip is below it, still at the same depth.
 **End state:** A small sliver of white separates mouse and moon at mid-screen.
-**Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 4 (bottom right). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_16.png](storyboards/BOARD_16.png), panel 4 (bottom right). Creator and individual first-frame approval pending.
 **Continuity:** Max keeps Pip at blue for a small shadow. Ella removes the single clip in 063, leaves it by the foot and holds the crescent against the cloth.
 
 **Dialogue:**
@@ -1450,7 +1450,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** Max holds Pip still to ask the question. Ella starts to give the moon a funny voice, sees his face, and answers in her own.
 **Opening state:** Pip and the moon face each other at the same height.
 **End state:** Pip knows the moon sometimes eats alone. Neither puppet has grown.
-**Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 1 (top left). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_17.png](storyboards/BOARD_17.png), panel 1 (top left). Creator and individual first-frame approval pending.
 **Continuity:** Two small shapes sit together with a sliver of white between them. The wooden clip is on the table. The four listeners wait until Max finishes.
 
 **Dialogue:**
@@ -1472,7 +1472,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** Max makes Pip angle his nose toward an imaginary seat beside him. Ella slides the crescent a little closer at the same depth. Dan beams at the invitation.
 **Opening state:** The little moon and Pip are still eye to eye.
 **End state:** The moon accepts supper with Pip. No food or furniture appears on the puppet screen.
-**Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 2 (top right). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_17.png](storyboards/BOARD_17.png), panel 2 (top right). Creator and individual first-frame approval pending.
 **Continuity:** Two small shapes sit together with a sliver of white between them. The wooden clip is on the table. The four listeners wait until Max finishes.
 
 **Dialogue:**
@@ -1495,7 +1495,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** The little mouse settles beside the crescent. In the pause after Pip's answer, Maya slips her hand into Nina's. The moon tilts toward Pip like a friend pulling up a chair.
 **Opening state:** Both puppets are midway up. Their shapes remain distinct.
 **End state:** The two small shapes sit side by side, with a thin light gap.
-**Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 3 (bottom left). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_17.png](storyboards/BOARD_17.png), panel 3 (bottom left). Creator and individual first-frame approval pending.
 **Continuity:** Two small shapes sit together with a sliver of white between them. The wooden clip is on the table. The four listeners wait until Max finishes.
 
 **Dialogue:**
@@ -1518,7 +1518,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** The two silhouettes dip together, then hold. Dan keeps his hands apart through a whole breath to let the ending settle. Leo starts the applause.
 **Opening state:** The mouse and moon are together. The listeners wait for Max to finish.
 **End state:** The story has ended and the four listeners applaud. The lamp stays on for a curtain call.
-**Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 4 (bottom right). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_17.png](storyboards/BOARD_17.png), panel 4 (bottom right). Creator and individual first-frame approval pending.
 **Continuity:** Two small shapes sit together with a sliver of white between them. The wooden clip is on the table. The four listeners wait until Max finishes.
 
 **Dialogue:**
@@ -1540,7 +1540,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** Max crooks a finger at Dan and points to the orange dot. Dan glances at the cutout, looks back to his son and asks first.
 **Opening state:** Max holds Pip. Ella holds the unclipped crescent. The audience has just applauded.
 **End state:** Dan has been invited to operate Pip for a single big bow. Max still holds the stick.
-**Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 1 (top left). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_18.png](storyboards/BOARD_18.png), panel 1 (top left). Creator and individual first-frame approval pending.
 **Continuity:** Max invites Dan back. Handoff in 070. Dan uses orange deliberately for one large bow. Ella holds the unclipped moon away from the big ear.
 
 **Dialogue:**
@@ -1562,7 +1562,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** Max places the handle in Dan's palm. Ella holds the crescent flat at the far upper-right to leave the middle clear. Max points from blue toward orange.
 **Opening state:** The mouse is in Max's hand. The crescent is in Ella's hand at mid-screen.
 **End state:** Dan has the mouse. Ella holds the moon well clear of center. The peg remains on the table.
-**Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 2 (top right). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_18.png](storyboards/BOARD_18.png), panel 2 (top right). Creator and individual first-frame approval pending.
 **Continuity:** Max invites Dan back. Handoff in 070. Dan uses orange deliberately for one large bow. Ella holds the unclipped moon away from the big ear.
 
 **Dialogue:**
@@ -1584,7 +1584,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** Dan moves Pip toward orange. The same small mouse throws a huge shadow in the center. Nina ducks under an imaginary ear. Max gives the big visitor a very small voice.
 **Opening state:** Dan is above blue with the mouse and has Max's signal. The moon is held clear at far upper-right.
 **End state:** The comic giant is back by invitation. The separate crescent is still visible at the far edge.
-**Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 3 (bottom left). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_18.png](storyboards/BOARD_18.png), panel 3 (bottom left). Creator and individual first-frame approval pending.
 **Continuity:** Max invites Dan back. Handoff in 070. Dan uses orange deliberately for one large bow. Ella holds the unclipped moon away from the big ear.
 
 **Dialogue:**
@@ -1606,7 +1606,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** Dan makes one elegant bow at orange. Before Pip's nose lands, he guides the stick back toward blue. A tiny mouse finishes the bow and slips below the cloth.
 **Opening state:** The giant shadow fills the middle. Ella holds the crescent aside.
 **End state:** Pip is out of the beam in Dan's hand. The moon remains, completely uneaten.
-**Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 4 (bottom right). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_18.png](storyboards/BOARD_18.png), panel 4 (bottom right). Creator and individual first-frame approval pending.
 **Continuity:** Max invites Dan back. Handoff in 070. Dan uses orange deliberately for one large bow. Ella holds the unclipped moon away from the big ear.
 
 **Dialogue:**
@@ -1628,7 +1628,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** Ella lifts the crescent clear. Nina switches off the amber lamp. Dan holds the tiny mouse against his open palm for one last look at the size of the actor.
 **Opening state:** The curtain call is over. Only Ella's moon is in the beam. Nina still has the ticket.
 **End state:** The lamp is off. Dan holds the mouse and Ella the loose crescent. There is no shadow on the cloth.
-**Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 1 (top left). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_19.png](storyboards/BOARD_19.png), panel 1 (top left). Creator and individual first-frame approval pending.
 **Continuity:** Light goes off in 073. Leo lifts both marks, Max gathers them with the peg. Max gets the ticket in 074 and the mouse in 075. Maya carries the mug in 076.
 
 **Dialogue:**
@@ -1650,7 +1650,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** Leo peels up blue and orange. Max clips the two loose marks to their paper backing with the wooden peg. Nina hands Max his yellow ticket back.
 **Opening state:** The wooden peg is beside the frame foot. Both tape marks are on the table. The lamp is off.
 **End state:** The two marks and peg are collected. Max keeps the ticket. The dark stage can stay on the worktable.
-**Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 2 (top right). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_19.png](storyboards/BOARD_19.png), panel 2 (top right). Creator and individual first-frame approval pending.
 **Continuity:** Light goes off in 073. Leo lifts both marks, Max gathers them with the peg. Max gets the ticket in 074 and the mouse in 075. Maya carries the mug in 076.
 
 **Dialogue:**
@@ -1672,7 +1672,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** Dan starts a booming introduction for an imaginary call to Rose, catches himself, and hands the mouse back to Max. Ella holds the moon up to listen to him.
 **Opening state:** Dan carries Pip out of the guest room. Ella carries the crescent. Max holds the folded ticket.
 **End state:** Max carries Pip and the ticket. He can choose how to tell Rose next time.
-**Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 3 (bottom left). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_19.png](storyboards/BOARD_19.png), panel 3 (bottom left). Creator and individual first-frame approval pending.
 **Continuity:** Light goes off in 073. Leo lifts both marks, Max gathers them with the peg. Max gets the ticket in 074 and the mouse in 075. Maya carries the mug in 076.
 
 **Dialogue:**
@@ -1694,7 +1694,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** Max makes Pip peek out beside the mug again. Dan looks the mouse in the eye this time. Maya picks up the mug by its handle and carries it to the dining table.
 **Opening state:** The mug is on the island. Max brings the one mouse and ticket back from the show.
 **End state:** Maya has the mug. Max carries Pip and the ticket to the table.
-**Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 4 (bottom right). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_19.png](storyboards/BOARD_19.png), panel 4 (bottom right). Creator and individual first-frame approval pending.
 **Continuity:** Light goes off in 073. Leo lifts both marks, Max gathers them with the peg. Max gets the ticket in 074 and the mouse in 075. Maya carries the mug in 076.
 
 **Dialogue:**
@@ -1716,7 +1716,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** Maya sets Dan's one blue mug at his place. Ella lays the crescent flat in the middle. Max props Pip beside it for a moment with the stick in his hand.
 **Opening state:** Maya has the mug. Ella has the moon. Max has Pip and his ticket.
 **End state:** The family is at its familiar table. Two little paper friends share its middle.
-**Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 1 (top left). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_20.png](storyboards/BOARD_20.png), panel 1 (top left). Creator and individual first-frame approval pending.
 **Continuity:** Fixed family seats. One mug, one mouse, one crescent, one yellow ticket. Max opens the ticket in 078. His final answer comes before a quiet hold.
 
 **Dialogue:**
@@ -1738,7 +1738,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** Max opens the ticket and smooths the crease. Leo looks as if he's about to give a grand review, then tells his brother exactly which part he remembers.
 **Opening state:** The crescent lies flat in the middle. Max has Pip and the folded yellow ticket.
 **End state:** The yellow card lies open at Max's near-right seat. The moon stays put.
-**Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 2 (top right). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_20.png](storyboards/BOARD_20.png), panel 2 (top right). Creator and individual first-frame approval pending.
 **Continuity:** Fixed family seats. One mug, one mouse, one crescent, one yellow ticket. Max opens the ticket in 078. His final answer comes before a quiet hold.
 
 **Dialogue:**
@@ -1760,7 +1760,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** Dan beckons to Pip. Max pauses with the stick in midair. Dan names the place and slides his mug a handspan toward Max. Pip walks the rest of the way along the near edge.
 **Opening state:** Dan's mug is at his near-left place. Max holds the mouse at near-right. The card stays open.
 **End state:** Pip is beside Dan's mug again, still held by Max. The paper moon lies at center.
-**Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 3 (bottom left). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_20.png](storyboards/BOARD_20.png), panel 3 (bottom left). Creator and individual first-frame approval pending.
 **Continuity:** Fixed family seats. One mug, one mouse, one crescent, one yellow ticket. Max opens the ticket in 078. His final answer comes before a quiet hold.
 
 **Dialogue:**
@@ -1782,7 +1782,7 @@ Pip is a palm-sized black card mouse on one craft stick. The crescent is a singl
 **Action:** Dan turns the mug handle aside to make more room for Pip. Max rests the mouse beside it. Ella nudges the paper moon within visiting distance. The six stay for the quiet beat they made room for.
 **Opening state:** All six are in their fixed seats. Max holds Pip by Dan's upright mug. The crescent is at center.
 **End state:** One mug, two paper characters and six people share the table as the 13-minute-20-second story ends.
-**Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 4 (bottom right). Creator and individual first-frame approval pending.
+**Picture:** [BOARD_20.png](storyboards/BOARD_20.png), panel 4 (bottom right). Creator and individual first-frame approval pending.
 **Continuity:** Fixed family seats. One mug, one mouse, one crescent, one yellow ticket. Max opens the ticket in 078. His final answer comes before a quiet hold.
 
 **Dialogue:**
