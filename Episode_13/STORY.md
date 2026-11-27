@@ -1,6 +1,8 @@
 # Episode 13 — Do I Get My Duck Back?
 
-A Maple House English family comedy in 80 consecutive 15-second shots. Story runtime is 20:00.
+A Maple House English family comedy in 80 consecutive 10-second shots. Planned story runtime is 13:20.
+
+**Editing plan:** Plan each shot for 10 editorial seconds to reduce filler pauses and unnecessary movements. Preserve natural dialogue delivery and meaningful actions; confirm timing against recorded performances before final editing rather than adding silence or speeding up speech.
 
 Ella takes two toys to the Saturday swap. Anyone can trade for her striped top. Mabel, the wooden duck with a funny knock, is coming home. Then a girl with a magnifying glass asks, “Want to switch?” Ella is still looking for Mabel’s noisy wheel when the yellow beak disappears into the other girl’s bag.
 
@@ -16,19 +18,19 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 | Time | Dramatic action |
 |---|---|
-| 00:00–03:00 | Dan answers a knock that follows a wooden duck. Ella packs her top for the swap and brings Mabel to find out what makes the noise. |
-| 03:00–06:00 | June wants a mystery sound for her dad. Ella wants a closer look at a wheel. Both girls say yes to a switch. Then June packs the duck. |
-| 06:00–09:00 | At the bench, Ella explains the minute she left out of her sentence. The girls undo the exchange and agree on a short loan. |
-| 09:00–12:00 | A quiet roll on felt and a noisy one on wood lead to a tiny hill of yellow paint. The girls solve Ella’s mystery. June still needs one for her dad. |
-| 12:00–15:30 | A spinning top, two metal lids and a bad guess about a bee give June a sound she can take home. The girls make a trade for keeps. |
-| 15:30–17:30 | Ella offers Mabel a trip of her own. June promises to bring her back to the blue door at three. An empty silver tin finds its owner. |
-| 17:30–20:00 | June keeps her promise and delivers her dad’s worst guess. Back in the kitchen, Dan gets one more chance to recognize a caller. |
+| 00:00–02:00 | Dan answers a knock that follows a wooden duck. Ella packs her top for the swap and brings Mabel to find out what makes the noise. |
+| 02:00–04:00 | June wants a mystery sound for her dad. Ella wants a closer look at a wheel. Both girls say yes to a switch. Then June packs the duck. |
+| 04:00–06:00 | At the bench, Ella explains the minute she left out of her sentence. The girls undo the exchange and agree on a short loan. |
+| 06:00–08:00 | A quiet roll on felt and a noisy one on wood lead to a tiny hill of yellow paint. The girls solve Ella’s mystery. June still needs one for her dad. |
+| 08:00–10:20 | A spinning top, two metal lids and a bad guess about a bee give June a sound she can take home. The girls make a trade for keeps. |
+| 10:20–11:40 | Ella offers Mabel a trip of her own. June promises to bring her back to the blue door at three. An empty silver tin finds its owner. |
+| 11:40–13:20 | June keeps her promise and delivers her dad’s worst guess. Back in the kitchen, Dan gets one more chance to recognize a caller. |
 
 ## Timed screenplay
 
 <a name="shot-001"></a>
 
-### SHOT_001 | 00:00:00–00:00:15 | Someone very short is knocking
+### SHOT_001 | 00:00:00–00:00:10 | Someone very short is knocking
 
 **Visible cast:** DAN, ELLA, MAX
 
@@ -56,7 +58,7 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 <a name="shot-002"></a>
 
-### SHOT_002 | 00:00:15–00:00:30 | It follows her
+### SHOT_002 | 00:00:10–00:00:20 | It follows her
 
 **Visible cast:** NINA, ELLA, MAX
 
@@ -84,7 +86,7 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 <a name="shot-003"></a>
 
-### SHOT_003 | 00:00:30–00:00:45 | Nothing in the duck
+### SHOT_003 | 00:00:20–00:00:30 | Nothing in the duck
 
 **Visible cast:** DAN, MAYA, ELLA
 
@@ -112,7 +114,7 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 <a name="shot-004"></a>
 
-### SHOT_004 | 00:00:45–00:01:00 | A beak with a fingerprint
+### SHOT_004 | 00:00:30–00:00:40 | A beak with a fingerprint
 
 **Visible cast:** MAYA, ELLA, LEO
 
@@ -140,7 +142,7 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 <a name="shot-005"></a>
 
-### SHOT_005 | 00:01:00–00:01:15 | The item on offer
+### SHOT_005 | 00:00:40–00:00:50 | The item on offer
 
 **Visible cast:** LEO, ELLA, MAX
 
@@ -168,7 +170,7 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 <a name="shot-006"></a>
 
-### SHOT_006 | 00:01:15–00:01:30 | May I borrow your tin?
+### SHOT_006 | 00:00:50–00:01:00 | May I borrow your tin?
 
 **Visible cast:** NINA, ELLA, MAYA
 
@@ -196,7 +198,7 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 <a name="shot-007"></a>
 
-### SHOT_007 | 00:01:30–00:01:45 | One goes, one comes along
+### SHOT_007 | 00:01:00–00:01:10 | One goes, one comes along
 
 **Visible cast:** DAN, ELLA, MAX
 
@@ -224,7 +226,7 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 <a name="shot-008"></a>
 
-### SHOT_008 | 00:01:45–00:02:00 | Two bows at the door
+### SHOT_008 | 00:01:10–00:01:20 | Two bows at the door
 
 **Visible cast:** NINA, LEO, ELLA, MAX
 
@@ -252,7 +254,7 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 <a name="shot-009"></a>
 
-### SHOT_009 | 00:02:00–00:02:15 | Through the blue door
+### SHOT_009 | 00:01:20–00:01:30 | Through the blue door
 
 **Visible cast:** DAN, MAYA, NINA, ELLA
 
@@ -280,7 +282,7 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 <a name="shot-010"></a>
 
-### SHOT_010 | 00:02:15–00:02:30 | A table by the window
+### SHOT_010 | 00:01:30–00:01:40 | A table by the window
 
 **Visible cast:** MAYA, NINA, ELLA, LEO
 
@@ -308,7 +310,7 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 <a name="shot-011"></a>
 
-### SHOT_011 | 00:02:30–00:02:45 | A top with stage fright
+### SHOT_011 | 00:01:40–00:01:50 | A top with stage fright
 
 **Visible cast:** LEO, ELLA, MAX
 
@@ -336,7 +338,7 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 <a name="shot-012"></a>
 
-### SHOT_012 | 00:02:45–00:03:00 | The traveling knock
+### SHOT_012 | 00:01:50–00:02:00 | The traveling knock
 
 **Visible cast:** DAN, MAYA, ELLA
 
@@ -364,7 +366,7 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 <a name="shot-013"></a>
 
-### SHOT_013 | 00:03:00–00:03:15 | Someone at the other end
+### SHOT_013 | 00:02:00–00:02:10 | Someone at the other end
 
 **Visible cast:** JUNE, ELLA, MAX
 
@@ -392,7 +394,7 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 <a name="shot-014"></a>
 
-### SHOT_014 | 00:03:15–00:03:30 | What fits in a pencil case
+### SHOT_014 | 00:02:10–00:02:20 | What fits in a pencil case
 
 **Visible cast:** JUNE, ELLA, NINA
 
@@ -420,7 +422,7 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 <a name="shot-015"></a>
 
-### SHOT_015 | 00:03:30–00:03:45 | June's impossible sound
+### SHOT_015 | 00:02:20–00:02:30 | June's impossible sound
 
 **Visible cast:** JUNE, LEO, ELLA, MAX
 
@@ -448,7 +450,7 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 <a name="shot-016"></a>
 
-### SHOT_016 | 00:03:45–00:04:00 | One audition
+### SHOT_016 | 00:02:30–00:02:40 | One audition
 
 **Visible cast:** ELLA, JUNE, MAX
 
@@ -476,7 +478,7 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 <a name="shot-017"></a>
 
-### SHOT_017 | 00:04:00–00:04:15 | A duck with a name
+### SHOT_017 | 00:02:40–00:02:50 | A duck with a name
 
 **Visible cast:** JUNE, ELLA, MAX
 
@@ -504,7 +506,7 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 <a name="shot-018"></a>
 
-### SHOT_018 | 00:04:15–00:04:30 | The wrong end for looking
+### SHOT_018 | 00:02:50–00:03:00 | The wrong end for looking
 
 **Visible cast:** DAN, JUNE, ELLA
 
@@ -532,7 +534,7 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 <a name="shot-019"></a>
 
-### SHOT_019 | 00:04:30–00:04:45 | The word they both hear
+### SHOT_019 | 00:03:00–00:03:10 | The word they both hear
 
 **Visible cast:** ELLA, JUNE
 
@@ -560,7 +562,7 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 <a name="shot-020"></a>
 
-### SHOT_020 | 00:04:45–00:05:00 | The switch
+### SHOT_020 | 00:03:10–00:03:20 | The switch
 
 **Visible cast:** JUNE, ELLA
 
@@ -588,7 +590,7 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 <a name="shot-021"></a>
 
-### SHOT_021 | 00:05:00–00:05:15 | A stripe with a secret
+### SHOT_021 | 00:03:20–00:03:30 | A stripe with a secret
 
 **Visible cast:** LEO, ELLA, MAX
 
@@ -616,7 +618,7 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 <a name="shot-022"></a>
 
-### SHOT_022 | 00:05:15–00:05:30 | A sound worth taking home
+### SHOT_022 | 00:03:30–00:03:40 | A sound worth taking home
 
 **Visible cast:** JUNE, NINA, DAN
 
@@ -644,7 +646,7 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 <a name="shot-023"></a>
 
-### SHOT_023 | 00:05:30–00:05:45 | A very clear view of nothing
+### SHOT_023 | 00:03:40–00:03:50 | A very clear view of nothing
 
 **Visible cast:** ELLA, LEO, MAX
 
@@ -672,7 +674,7 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 <a name="shot-024"></a>
 
-### SHOT_024 | 00:05:45–00:06:00 | Mabel's head goes in
+### SHOT_024 | 00:03:50–00:04:00 | Mabel's head goes in
 
 **Visible cast:** JUNE, ELLA, MAYA
 
@@ -700,7 +702,7 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 <a name="shot-025"></a>
 
-### SHOT_025 | 00:06:00–00:06:15 | The rest of the sentence
+### SHOT_025 | 00:04:00–00:04:10 | The rest of the sentence
 
 **Visible cast:** MAYA, ELLA, LEO
 
@@ -728,7 +730,7 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 <a name="shot-026"></a>
 
-### SHOT_026 | 00:06:15–00:06:30 | A hand at her side
+### SHOT_026 | 00:04:10–00:04:20 | A hand at her side
 
 **Visible cast:** ELLA, NINA, DAN
 
@@ -756,7 +758,7 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 <a name="shot-027"></a>
 
-### SHOT_027 | 00:06:30–00:06:45 | A place on the bench
+### SHOT_027 | 00:04:20–00:04:30 | A place on the bench
 
 **Visible cast:** JUNE, ELLA
 
@@ -784,7 +786,7 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 <a name="shot-028"></a>
 
-### SHOT_028 | 00:06:45–00:07:00 | How long is a switch?
+### SHOT_028 | 00:04:30–00:04:40 | How long is a switch?
 
 **Visible cast:** JUNE, ELLA
 
@@ -812,7 +814,7 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 <a name="shot-029"></a>
 
-### SHOT_029 | 00:07:00–00:07:15 | The word on the door
+### SHOT_029 | 00:04:40–00:04:50 | The word on the door
 
 **Visible cast:** JUNE, ELLA
 
@@ -840,7 +842,7 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 <a name="shot-030"></a>
 
-### SHOT_030 | 00:07:15–00:07:30 | A question with room after it
+### SHOT_030 | 00:04:50–00:05:00 | A question with room after it
 
 **Visible cast:** ELLA, JUNE
 
@@ -868,7 +870,7 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 <a name="shot-031"></a>
 
-### SHOT_031 | 00:07:30–00:07:45 | A quiet second
+### SHOT_031 | 00:05:00–00:05:10 | A quiet second
 
 **Visible cast:** JUNE, ELLA, MAX
 
@@ -896,7 +898,7 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 <a name="shot-032"></a>
 
-### SHOT_032 | 00:07:45–00:08:00 | Two yeses
+### SHOT_032 | 00:05:10–00:05:20 | Two yeses
 
 **Visible cast:** JUNE, ELLA, MAX
 
@@ -924,7 +926,7 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 <a name="shot-033"></a>
 
-### SHOT_033 | 00:08:00–00:08:15 | Back where they belong
+### SHOT_033 | 00:05:20–00:05:30 | Back where they belong
 
 **Visible cast:** ELLA, JUNE, MAX
 
@@ -952,7 +954,7 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 <a name="shot-034"></a>
 
-### SHOT_034 | 00:08:15–00:08:30 | A smaller question
+### SHOT_034 | 00:05:30–00:05:40 | A smaller question
 
 **Visible cast:** ELLA, JUNE
 
@@ -980,7 +982,7 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 <a name="shot-035"></a>
 
-### SHOT_035 | 00:08:30–00:08:45 | Back to the window
+### SHOT_035 | 00:05:40–00:05:50 | Back to the window
 
 **Visible cast:** JUNE, ELLA, MAX
 
@@ -1008,7 +1010,7 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 <a name="shot-036"></a>
 
-### SHOT_036 | 00:08:45–00:09:00 | Take away the tabletop
+### SHOT_036 | 00:05:50–00:06:00 | Take away the tabletop
 
 **Visible cast:** MAYA, ELLA, JUNE, LEO
 
@@ -1036,7 +1038,7 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 <a name="shot-037"></a>
 
-### SHOT_037 | 00:09:00–00:09:15 | A hop you can see
+### SHOT_037 | 00:06:00–00:06:10 | A hop you can see
 
 **Visible cast:** JUNE, ELLA, MAX
 
@@ -1064,7 +1066,7 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 <a name="shot-038"></a>
 
-### SHOT_038 | 00:09:15–00:09:30 | The sound meets the hop
+### SHOT_038 | 00:06:10–00:06:20 | The sound meets the hop
 
 **Visible cast:** JUNE, ELLA, DAN
 
@@ -1092,7 +1094,7 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 <a name="shot-039"></a>
 
-### SHOT_039 | 00:09:30–00:09:45 | The front stays level
+### SHOT_039 | 00:06:20–00:06:30 | The front stays level
 
 **Visible cast:** MAYA, LEO, ELLA, MAX
 
@@ -1120,7 +1122,7 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 <a name="shot-040"></a>
 
-### SHOT_040 | 00:09:45–00:10:00 | Backward duck
+### SHOT_040 | 00:06:30–00:06:40 | Backward duck
 
 **Visible cast:** ELLA, JUNE, DAN
 
@@ -1148,7 +1150,7 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 <a name="shot-041"></a>
 
-### SHOT_041 | 00:10:00–00:10:15 | Which back wheel?
+### SHOT_041 | 00:06:40–00:06:50 | Which back wheel?
 
 **Visible cast:** ELLA, JUNE, NINA
 
@@ -1176,7 +1178,7 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 <a name="shot-042"></a>
 
-### SHOT_042 | 00:10:15–00:10:30 | A yellow hill
+### SHOT_042 | 00:06:50–00:07:00 | A yellow hill
 
 **Visible cast:** JUNE, ELLA, MAX
 
@@ -1204,7 +1206,7 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 <a name="shot-043"></a>
 
-### SHOT_043 | 00:10:30–00:10:45 | The painter remembers
+### SHOT_043 | 00:07:00–00:07:10 | The painter remembers
 
 **Visible cast:** MAYA, ELLA, JUNE
 
@@ -1232,7 +1234,7 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 <a name="shot-044"></a>
 
-### SHOT_044 | 00:10:45–00:11:00 | Once around
+### SHOT_044 | 00:07:10–00:07:20 | Once around
 
 **Visible cast:** JUNE, ELLA, LEO
 
@@ -1260,7 +1262,7 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 <a name="shot-045"></a>
 
-### SHOT_045 | 00:11:00–00:11:15 | A noise she gets to keep
+### SHOT_045 | 00:07:20–00:07:30 | A noise she gets to keep
 
 **Visible cast:** DAN, ELLA, JUNE, MAX
 
@@ -1288,7 +1290,7 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 <a name="shot-046"></a>
 
-### SHOT_046 | 00:11:15–00:11:30 | Glass back, as promised
+### SHOT_046 | 00:07:30–00:07:40 | Glass back, as promised
 
 **Visible cast:** ELLA, JUNE, NINA
 
@@ -1316,7 +1318,7 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 <a name="shot-047"></a>
 
-### SHOT_047 | 00:11:30–00:11:45 | The unsolved part
+### SHOT_047 | 00:07:40–00:07:50 | The unsolved part
 
 **Visible cast:** ELLA, JUNE, MAYA
 
@@ -1344,7 +1346,7 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 <a name="shot-048"></a>
 
-### SHOT_048 | 00:11:45–00:12:00 | The day the zipper won
+### SHOT_048 | 00:07:50–00:08:00 | The day the zipper won
 
 **Visible cast:** JUNE, ELLA, DAN
 
@@ -1372,7 +1374,7 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 <a name="shot-049"></a>
 
-### SHOT_049 | 00:12:00–00:12:15 | A noise that looks pink
+### SHOT_049 | 00:08:00–00:08:10 | A noise that looks pink
 
 **Visible cast:** ELLA, JUNE, LEO, MAX
 
@@ -1400,7 +1402,7 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 <a name="shot-050"></a>
 
-### SHOT_050 | 00:12:15–00:12:30 | A tiny accidental ting
+### SHOT_050 | 00:08:10–00:08:20 | A tiny accidental ting
 
 **Visible cast:** ELLA, JUNE, LEO
 
@@ -1428,7 +1430,7 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 <a name="shot-051"></a>
 
-### SHOT_051 | 00:12:30–00:12:45 | A roof for the music
+### SHOT_051 | 00:08:20–00:08:30 | A roof for the music
 
 **Visible cast:** NINA, ELLA, JUNE
 
@@ -1456,7 +1458,7 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 <a name="shot-052"></a>
 
-### SHOT_052 | 00:12:45–00:13:00 | Somebody lend me an ear
+### SHOT_052 | 00:08:30–00:08:40 | Somebody lend me an ear
 
 **Visible cast:** DAN, MAYA, ELLA, JUNE
 
@@ -1484,7 +1486,7 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 <a name="shot-053"></a>
 
-### SHOT_053 | 00:13:00–00:13:15 | A bee in a lunchbox
+### SHOT_053 | 00:08:40–00:08:50 | A bee in a lunchbox
 
 **Visible cast:** DAN, ELLA, JUNE, MAX
 
@@ -1512,7 +1514,7 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 <a name="shot-054"></a>
 
-### SHOT_054 | 00:13:15–00:13:30 | The bee gets boots
+### SHOT_054 | 00:08:50–00:09:00 | The bee gets boots
 
 **Visible cast:** DAN, JUNE, NINA, ELLA
 
@@ -1540,7 +1542,7 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 <a name="shot-055"></a>
 
-### SHOT_055 | 00:13:30–00:13:45 | May I see the bee?
+### SHOT_055 | 00:09:00–00:09:10 | May I see the bee?
 
 **Visible cast:** DAN, ELLA, JUNE, MAYA
 
@@ -1568,7 +1570,7 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 <a name="shot-056"></a>
 
-### SHOT_056 | 00:13:45–00:14:00 | What comes with the top?
+### SHOT_056 | 00:09:10–00:09:20 | What comes with the top?
 
 **Visible cast:** JUNE, NINA, ELLA
 
@@ -1596,7 +1598,7 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 <a name="shot-057"></a>
 
-### SHOT_057 | 00:14:00–00:14:15 | June's blue roof
+### SHOT_057 | 00:09:20–00:09:30 | June's blue roof
 
 **Visible cast:** JUNE, ELLA, LEO
 
@@ -1624,7 +1626,7 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 <a name="shot-058"></a>
 
-### SHOT_058 | 00:14:15–00:14:30 | June takes a turn
+### SHOT_058 | 00:09:30–00:09:40 | June takes a turn
 
 **Visible cast:** ELLA, JUNE, MAX
 
@@ -1652,7 +1654,7 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 <a name="shot-059"></a>
 
-### SHOT_059 | 00:14:30–00:14:45 | A good wrong answer
+### SHOT_059 | 00:09:40–00:09:50 | A good wrong answer
 
 **Visible cast:** JUNE, ELLA, MAX, LEO
 
@@ -1680,7 +1682,7 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 <a name="shot-060"></a>
 
-### SHOT_060 | 00:14:45–00:15:00 | An offer with names in it
+### SHOT_060 | 00:09:50–00:10:00 | An offer with names in it
 
 **Visible cast:** JUNE, ELLA
 
@@ -1708,7 +1710,7 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 <a name="shot-061"></a>
 
-### SHOT_061 | 00:15:00–00:15:15 | The answer Ella means
+### SHOT_061 | 00:10:00–00:10:10 | The answer Ella means
 
 **Visible cast:** ELLA, JUNE, MAYA
 
@@ -1736,7 +1738,7 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 <a name="shot-062"></a>
 
-### SHOT_062 | 00:15:15–00:15:30 | A swap that sticks
+### SHOT_062 | 00:10:10–00:10:20 | A swap that sticks
 
 **Visible cast:** ELLA, JUNE, LEO
 
@@ -1764,7 +1766,7 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 <a name="shot-063"></a>
 
-### SHOT_063 | 00:15:30–00:15:45 | What fits this afternoon
+### SHOT_063 | 00:10:20–00:10:30 | What fits this afternoon
 
 **Visible cast:** JUNE, MAX, NINA
 
@@ -1792,7 +1794,7 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 <a name="shot-064"></a>
 
-### SHOT_064 | 00:15:45–00:16:00 | What about a second sound?
+### SHOT_064 | 00:10:30–00:10:40 | What about a second sound?
 
 **Visible cast:** ELLA, JUNE, DAN
 
@@ -1820,7 +1822,7 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 <a name="shot-065"></a>
 
-### SHOT_065 | 00:16:00–00:16:15 | Until three
+### SHOT_065 | 00:10:40–00:10:50 | Until three
 
 **Visible cast:** ELLA, JUNE, NINA
 
@@ -1848,7 +1850,7 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 <a name="shot-066"></a>
 
-### SHOT_066 | 00:16:15–00:16:30 | Which blue door?
+### SHOT_066 | 00:10:50–00:11:00 | Which blue door?
 
 **Visible cast:** ELLA, JUNE, MAYA, DAN
 
@@ -1876,7 +1878,7 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 <a name="shot-067"></a>
 
-### SHOT_067 | 00:16:30–00:16:45 | Mabel goes visiting
+### SHOT_067 | 00:11:00–00:11:10 | Mabel goes visiting
 
 **Visible cast:** ELLA, JUNE, MAX
 
@@ -1904,7 +1906,7 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 <a name="shot-068"></a>
 
-### SHOT_068 | 00:16:45–00:17:00 | A wave from the hallway
+### SHOT_068 | 00:11:10–00:11:20 | A wave from the hallway
 
 **Visible cast:** JUNE, ELLA, DAN, LEO
 
@@ -1932,7 +1934,7 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 <a name="shot-069"></a>
 
-### SHOT_069 | 00:17:00–00:17:15 | A tin full of something else
+### SHOT_069 | 00:11:20–00:11:30 | A tin full of something else
 
 **Visible cast:** MAYA, NINA, ELLA, LEO
 
@@ -1960,7 +1962,7 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 <a name="shot-070"></a>
 
-### SHOT_070 | 00:17:15–00:17:30 | Lid and all
+### SHOT_070 | 00:11:30–00:11:40 | Lid and all
 
 **Visible cast:** NINA, ELLA, MAX
 
@@ -1988,7 +1990,7 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 <a name="shot-071"></a>
 
-### SHOT_071 | 00:17:30–00:17:45 | A leaf on the windowsill
+### SHOT_071 | 00:11:40–00:11:50 | A leaf on the windowsill
 
 **Visible cast:** MAYA, ELLA, LEO
 
@@ -2016,7 +2018,7 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 <a name="shot-072"></a>
 
-### SHOT_072 | 00:17:45–00:18:00 | The minute hand
+### SHOT_072 | 00:11:50–00:12:00 | The minute hand
 
 **Visible cast:** DAN, NINA, ELLA, MAX
 
@@ -2044,7 +2046,7 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 <a name="shot-073"></a>
 
-### SHOT_073 | 00:18:00–00:18:15 | An ordinary knock
+### SHOT_073 | 00:12:00–00:12:10 | An ordinary knock
 
 **Visible cast:** DAN, MAYA, ELLA, MAX
 
@@ -2072,7 +2074,7 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 <a name="shot-074"></a>
 
-### SHOT_074 | 00:18:15–00:18:30 | Both of them
+### SHOT_074 | 00:12:10–00:12:20 | Both of them
 
 **Visible cast:** ELLA, JUNE, DAN
 
@@ -2100,7 +2102,7 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 <a name="shot-075"></a>
 
-### SHOT_075 | 00:18:30–00:18:45 | Four familiar wheels
+### SHOT_075 | 00:12:20–00:12:30 | Four familiar wheels
 
 **Visible cast:** ELLA, JUNE, MAX
 
@@ -2128,7 +2130,7 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 <a name="shot-076"></a>
 
-### SHOT_076 | 00:18:45–00:19:00 | What June's dad heard
+### SHOT_076 | 00:12:30–00:12:40 | What June's dad heard
 
 **Visible cast:** JUNE, ELLA, LEO, NINA
 
@@ -2156,7 +2158,7 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 <a name="shot-077"></a>
 
-### SHOT_077 | 00:19:00–00:19:15 | A sound to bring next time
+### SHOT_077 | 00:12:40–00:12:50 | A sound to bring next time
 
 **Visible cast:** ELLA, JUNE, MAYA
 
@@ -2184,7 +2186,7 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 <a name="shot-078"></a>
 
-### SHOT_078 | 00:19:15–00:19:30 | Same table, different view
+### SHOT_078 | 00:12:50–00:13:00 | Same table, different view
 
 **Visible cast:** MAYA, NINA, ELLA, LEO
 
@@ -2212,7 +2214,7 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 <a name="shot-079"></a>
 
-### SHOT_079 | 00:19:30–00:19:45 | A caller with good manners
+### SHOT_079 | 00:13:00–00:13:10 | A caller with good manners
 
 **Visible cast:** DAN, MAYA, ELLA, MAX
 
@@ -2240,7 +2242,7 @@ Mabel is yellow with four red wheels and an old thumbprint on one cheek. A dab o
 
 <a name="shot-080"></a>
 
-### SHOT_080 | 00:19:45–00:20:00 | Come in, Mabel
+### SHOT_080 | 00:13:10–00:13:20 | Come in, Mabel
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX
 
