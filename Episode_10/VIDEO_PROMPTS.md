@@ -1,6 +1,8 @@
 # Episode 10 — The Party Cake Went to the Wrong House!: 80 story video prompts
 
-Written and still-image preproduction draft. Each slot is a planned 15-second editorial shot, 16:9, original warm stylized 3D and natural General American family conversation. No video or voice has been generated. Optional creator-authored practice belongs after the story. Creator visual approval and individual motion first frames remain pending.
+Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start dialogue promptly, let meaningful actions and listener reactions occur during speech, and avoid filler silence, prolonged holds or unnatural motion. Speaker windows below are provisional editorial targets, not instructions to rush speech; verify against natural recorded performances. If a line cannot fit naturally, flag the shot for editorial review rather than truncating dialogue or artificially speeding it up.
+
+Written and still-image preproduction draft. Each slot is a planned 10-second editorial shot, 16:9, original warm stylized 3D and natural General American family conversation. No video or voice has been generated. Optional creator-authored practice belongs after the story. Creator visual approval and individual motion first frames remain pending.
 
 Use the unchanged [cast previews](assets/characters/), [continuity ledger](CONTINUITY.md) and [scene plan](SCENE_REFERENCE_PLAN.md). Restore original owner-controlled identity/home PNG masters before separately authorized motion production. No replacement faces, extra family members, wardrobe changes, mirrored watch/pocket sides, watermarks, baked-in subtitles or audience drills. Readable prop text uses the exact [SVG overlays](assets/overlays/).
 
@@ -11,11 +13,11 @@ Use the unchanged [cast previews](assets/characters/), [continuity ledger](CONTI
 - One prepaid cake order; correct confirmation14, driver recorded18, matching order reference on recovered box. A smudged physical label explains the error. No second order, refund, new payment or theft allegation.
 - One chilled sealed white cake box, red seal intact until Maya opens it at home. Neighbor refrigerates it, adults transfer it once and take it directly to the home fridge.
 - Six equal wedges from one small cake; one per original fixed seat. One washed strawberry belongs to Max; no candles, hot wax, seventh chair or extra cake.
-- Rose appears only004–007 for60seconds and leaves; Ed is an unseen audio caller073–074 for30seconds; neighbor is offscreen/hands-only053–056. Cameos never replace family problem-solving.
+- Rose appears only004–007 for 40 seconds and leaves; Ed is an unseen audio caller073–074 for 20 seconds; neighbor is offscreen/hands-only053–056. Cameos never replace family problem-solving.
 
-Edit STORY.md first; sync.py regenerates this written draft and estimated subtitles, not media.
+Edit STORY.md first; sync.py regenerates this written draft and estimated subtitles, not media. The legacy sync script and existing subtitle track have not been retimed in this change; verify or update their timing before regenerating this document or assembling video.
 
-## SHOT_001 | 00:00:00–00:00:15 | A party for our team
+## SHOT_001 | 00:00:00–00:00:10 | A party for our team
 
 **Characters:** DAN, MAYA, NINA. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Medium eye-level group coverage; camera stays on the established room/porch side.
@@ -25,7 +27,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_01.png](assets/storyboards/BOARD_01.png), panel 1. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Fridge rear-left, sink rear-window, stove rear-right OFF, oak island. No unexplained cake or duplicate packaging. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–2.97s · DAN 3.12–7.60s · NINA 7.75–9.59s · DAN 9.74–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.98s · DAN 2.08–5.07s · NINA 5.17–6.39s · DAN 6.49–9.19s.
 
 **Dialogue:**
 **MAYA:** A little party for our team.
@@ -36,7 +38,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** Could the surprises come after dessert this time, please?
 
-## SHOT_002 | 00:00:15–00:00:30 | Six places, no extra guests
+## SHOT_002 | 00:00:10–00:00:20 | Six places, no extra guests
 
 **Characters:** LEO, ELLA, MAX. **Location:** HOME_TABLE. **Wardrobe:** W01 only.
 **Composition:** Over-shoulder medium with the active prop visible and other actors distinct.
@@ -46,7 +48,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_01.png](assets/storyboards/BOARD_01.png), panel 2. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Fixed seats:Dan near-left,Leo left-end,Ella far-left,Maya far-right,Nina right-end,Max near-right. No plate or food refill. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–2.98s · ELLA 3.13–6.63s · MAX 6.78–9.51s · LEO 9.66–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.99s · ELLA 2.09–4.42s · MAX 4.52–6.34s · LEO 6.44–9.53s.
 
 **Dialogue:**
 **LEO:** Six plates. One for each of us.
@@ -57,7 +59,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **LEO:** Then the six places are for us. We can still say hello.
 
-## SHOT_003 | 00:00:30–00:00:45 | The smallest backup dessert
+## SHOT_003 | 00:00:20–00:00:30 | The smallest backup dessert
 
 **Characters:** NINA, MAX, DAN. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Child-height medium reaction with the adult beside the children, not above their eyeline.
@@ -67,7 +69,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_01.png](assets/storyboards/BOARD_01.png), panel 3. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Fridge rear-left, sink rear-window, stove rear-right OFF, oak island. No unexplained cake or duplicate packaging. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–3.41s · DAN 3.56–5.84s · NINA 5.99–9.15s · MAX 9.30–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.27s · DAN 2.37–3.89s · NINA 3.99–6.10s · MAX 6.20–9.19s.
 
 **Dialogue:**
 **MAX:** We have one strawberry. Just in case.
@@ -78,7 +80,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** Couldn't hurt to keep the little one on standby, though.
 
-## SHOT_004 | 00:00:45–00:01:00 | Aunt Rose brings ribbon
+## SHOT_004 | 00:00:30–00:00:40 | Aunt Rose brings ribbon
 
 **Characters:** MAYA, DAN, ROSE. **Location:** HOME_PORCH. **Wardrobe:** W01 only.
 **Composition:** Medium three-quarter view; leave physical space for the scripted action.
@@ -88,7 +90,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_01.png](assets/storyboards/BOARD_01.png), panel 4. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Home14:blue door,bow after008,banner after009,bell right,number plaque left. Clear front walk and low steps. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ROSE 0.25–3.41s · MAYA 3.56–7.16s · ROSE 7.31–9.15s · DAN 9.30–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ROSE 0.17–2.27s · MAYA 2.37–4.77s · ROSE 4.87–6.10s · DAN 6.20–9.48s.
 
 **Dialogue:**
 **ROSE:** A little ribbon for your family party.
@@ -99,7 +101,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** Good. You can see what the ribbon's for before you go.
 
-## SHOT_005 | 00:01:00–00:01:15 | A bow needs a little room
+## SHOT_005 | 00:00:40–00:00:50 | A bow needs a little room
 
 **Characters:** ROSE, ELLA, MAYA. **Location:** HOME_PORCH. **Wardrobe:** W01 only.
 **Composition:** Medium eye-level group coverage; camera stays on the established room/porch side.
@@ -109,7 +111,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 1. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Home14:blue door,bow after008,banner after009,bell right,number plaque left. Clear front walk and low steps. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–2.53s · ROSE 2.68–5.40s · MAYA 5.55–7.39s · ELLA 7.54–12.46s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.69s · ROSE 1.79–3.60s · MAYA 3.70–4.93s · ELLA 5.03–8.31s.
 
 **Dialogue:**
 **ELLA:** Mine keeps becoming a knot.
@@ -120,7 +122,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **ELLA:** There. It looks more like a bow when I loosen it.
 
-## SHOT_006 | 00:01:15–00:01:30 | Not every mistake is a disaster
+## SHOT_006 | 00:00:50–00:01:00 | Not every mistake is a disaster
 
 **Characters:** ROSE, DAN, NINA. **Location:** HOME_PORCH. **Wardrobe:** W01 only.
 **Composition:** Over-shoulder medium with the active prop visible and other actors distinct.
@@ -130,7 +132,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 2. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Home14:blue door,bow after008,banner after009,bell right,number plaque left. Clear front walk and low steps. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–2.74s · ROSE 2.89–7.00s · NINA 7.15–9.64s · DAN 9.79–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.83s · ROSE 1.93–4.67s · NINA 4.77–6.43s · DAN 6.53–9.53s.
 
 **Dialogue:**
 **DAN:** Today I have checked absolutely everything.
@@ -141,7 +143,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** I think I'll keep the checklist where I can find it.
 
-## SHOT_007 | 00:01:30–00:01:45 | A short visit, a warm goodbye
+## SHOT_007 | 00:01:00–00:01:10 | A short visit, a warm goodbye
 
 **Characters:** ROSE, MAYA, MAX. **Location:** HOME_PORCH. **Wardrobe:** W01 only.
 **Composition:** Child-height medium reaction with the adult beside the children, not above their eyeline.
@@ -151,7 +153,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 3. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Home14:blue door,bow after008,banner after009,bell right,number plaque left. Clear front walk and low steps. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–4.29s · ROSE 4.44–7.16s · MAYA 7.31–9.15s · MAX 9.30–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.86s · ROSE 2.96–4.77s · MAYA 4.87–6.10s · MAX 6.20–8.89s.
 
 **Dialogue:**
 **MAX:** We will save you a story about the party.
@@ -162,7 +164,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** I'll remember the funny parts to tell you later.
 
-## SHOT_008 | 00:01:45–00:02:00 | The blue door gets its bow
+## SHOT_008 | 00:01:10–00:01:20 | The blue door gets its bow
 
 **Characters:** DAN, ELLA, NINA. **Location:** HOME_PORCH. **Wardrobe:** W01 only.
 **Composition:** Medium three-quarter view; leave physical space for the scripted action.
@@ -172,7 +174,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 4. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Home14:blue door,bow after008,banner after009,bell right,number plaque left. Clear front walk and low steps. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–2.90s · ELLA 3.05–6.13s · NINA 6.28–9.79s · ELLA 9.94–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.93s · ELLA 2.03–4.09s · NINA 4.19–6.53s · ELLA 6.63–9.53s.
 
 **Dialogue:**
 **DAN:** A bow at the right address.
@@ -183,7 +185,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **ELLA:** Good. We want to hear it when the cake comes.
 
-## SHOT_009 | 00:02:00–00:02:15 | One banner, a clear doorway
+## SHOT_009 | 00:01:20–00:01:30 | One banner, a clear doorway
 
 **Characters:** MAYA, LEO, MAX. **Location:** HOME_PORCH. **Wardrobe:** W01 only.
 **Composition:** Medium eye-level group coverage; camera stays on the established room/porch side.
@@ -193,7 +195,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_03.png](assets/storyboards/BOARD_03.png), panel 1. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Home14:blue door,bow after008,banner after009,bell right,number plaque left. Clear front walk and low steps. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–2.81s · MAX 2.96–5.51s · MAYA 5.66–7.72s · LEO 7.87–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.87s · MAX 1.97–3.67s · MAYA 3.77–5.15s · LEO 5.25–8.27s.
 
 **Dialogue:**
 **LEO:** The entrance is still clear.
@@ -204,7 +206,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **LEO:** Good. No one has to step over our decorations.
 
-## SHOT_010 | 00:02:15–00:02:30 | The decoration box closes
+## SHOT_010 | 00:01:30–00:01:40 | The decoration box closes
 
 **Characters:** NINA, LEO, ELLA. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Over-shoulder medium with the active prop visible and other actors distinct.
@@ -214,7 +216,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_03.png](assets/storyboards/BOARD_03.png), panel 2. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Fridge rear-left, sink rear-window, stove rear-right OFF, oak island. No unexplained cake or duplicate packaging. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–2.53s · LEO 2.68–5.40s · NINA 5.55–8.27s · ELLA 8.42–12.46s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.69s · LEO 1.79–3.60s · NINA 3.70–5.51s · ELLA 5.61–8.31s.
 
 **Dialogue:**
 **ELLA:** No ribbon under anyone’s feet.
@@ -225,7 +227,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **ELLA:** I can still see the bow from the doorway.
 
-## SHOT_011 | 00:02:30–00:02:45 | A door and a number
+## SHOT_011 | 00:01:40–00:01:50 | A door and a number
 
 **Characters:** DAN, MAYA, MAX. **Location:** HOME_PORCH. **Wardrobe:** W01 only.
 **Composition:** Child-height medium reaction with the adult beside the children, not above their eyeline.
@@ -235,7 +237,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_03.png](assets/storyboards/BOARD_03.png), panel 3. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Home14:blue door,bow after008,banner after009,bell right,number plaque left. Clear front walk and low steps. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–2.97s · MAX 3.12–4.96s · DAN 5.11–9.15s · MAX 9.30–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.98s · MAX 2.08–3.31s · DAN 3.41–6.10s · MAX 6.20–9.19s.
 
 **Dialogue:**
 **MAYA:** Our address is fourteen Maple Lane.
@@ -246,7 +248,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** I'd like to see the cake try wearing our bow.
 
-## SHOT_012 | 00:02:45–00:03:00 | The confirmation is correct
+## SHOT_012 | 00:01:50–00:02:00 | The confirmation is correct
 
 **Characters:** NINA, DAN, LEO. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Medium three-quarter view; leave physical space for the scripted action.
@@ -256,7 +258,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_03.png](assets/storyboards/BOARD_03.png), panel 4. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Fridge rear-left, sink rear-window, stove rear-right OFF, oak island. No unexplained cake or duplicate packaging. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–2.97s · DAN 3.12–4.96s · NINA 5.11–9.59s · DAN 9.74–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.98s · DAN 2.08–3.31s · NINA 3.41–6.39s · DAN 6.49–9.48s.
 
 **Dialogue:**
 **LEO:** Fourteen Maple Lane. Delivery around two.
@@ -267,7 +269,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** Fair. An order number can't ring our bell by itself.
 
-## SHOT_013 | 00:03:00–00:03:15 | A clean cake shelf
+## SHOT_013 | 00:02:00–00:02:10 | A clean cake shelf
 
 **Characters:** MAYA, ELLA, MAX. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Medium eye-level group coverage; camera stays on the established room/porch side.
@@ -277,7 +279,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_04.png](assets/storyboards/BOARD_04.png), panel 1. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Fridge rear-left, sink rear-window, stove rear-right OFF, oak island. No unexplained cake or duplicate packaging. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–2.53s · MAX 2.68–6.28s · MAYA 6.43–8.71s · ELLA 8.86–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.69s · MAX 1.79–4.19s · MAYA 4.29–5.81s · ELLA 5.91–8.89s.
 
 **Dialogue:**
 **ELLA:** A space for the box.
@@ -288,7 +290,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **ELLA:** Good. Let's keep that space open till the doorbell rings.
 
-## SHOT_014 | 00:03:15–00:03:30 | The list has a space
+## SHOT_014 | 00:02:10–00:02:20 | The list has a space
 
 **Characters:** DAN, NINA, ELLA. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Over-shoulder medium with the active prop visible and other actors distinct.
@@ -298,7 +300,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_04.png](assets/storyboards/BOARD_04.png), panel 2. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Fridge rear-left, sink rear-window, stove rear-right OFF, oak island. No unexplained cake or duplicate packaging. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–4.36s · NINA 4.51–7.80s · ELLA 7.96–10.04s · DAN 10.19–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.91s · NINA 3.01–5.20s · ELLA 5.31–6.69s · DAN 6.79–9.53s.
 
 **Dialogue:**
 **DAN:** I will not check the cake until I see it.
@@ -309,7 +311,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** Then the checkmark waits until the box is actually here.
 
-## SHOT_015 | 00:03:30–00:03:45 | Waiting with company
+## SHOT_015 | 00:02:20–00:02:30 | Waiting with company
 
 **Characters:** MAYA, LEO, MAX. **Location:** HOME_TABLE. **Wardrobe:** W01 only.
 **Composition:** Child-height medium reaction with the adult beside the children, not above their eyeline.
@@ -319,7 +321,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_04.png](assets/storyboards/BOARD_04.png), panel 3. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Fixed seats:Dan near-left,Leo left-end,Ella far-left,Maya far-right,Nina right-end,Max near-right. No plate or food refill. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–2.97s · LEO 3.12–5.40s · MAYA 5.55–8.71s · MAX 8.86–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.98s · LEO 2.08–3.60s · MAYA 3.70–5.81s · MAX 5.91–9.19s.
 
 **Dialogue:**
 **MAX:** Dear cake, welcome to our table.
@@ -330,7 +332,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** Okay. I'll save my welcome speech until it can hear me.
 
-## SHOT_016 | 00:03:45–00:04:00 | A little time passes
+## SHOT_016 | 00:02:30–00:02:40 | A little time passes
 
 **Characters:** DAN, MAYA, NINA. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Medium three-quarter view; leave physical space for the scripted action.
@@ -340,7 +342,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_04.png](assets/storyboards/BOARD_04.png), panel 4. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Fridge rear-left, sink rear-window, stove rear-right OFF, oak island. No unexplained cake or duplicate packaging. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–2.23s · NINA 2.38–4.83s · MAYA 4.98–7.91s · DAN 8.06–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.49s · NINA 1.59–3.22s · MAYA 3.32–5.27s · DAN 5.37–8.27s.
 
 **Dialogue:**
 **DAN:** A very punctual napkin.
@@ -351,7 +353,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** A message before a doorbell? That's worth a look.
 
-## SHOT_017 | 00:04:00–00:04:15 | Delivered, but not here
+## SHOT_017 | 00:02:40–00:02:50 | Delivered, but not here
 
 **Characters:** NINA, DAN, LEO. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Medium eye-level group coverage; camera stays on the established room/porch side.
@@ -361,7 +363,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_05.png](assets/storyboards/BOARD_05.png), panel 1. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Fridge rear-left, sink rear-window, stove rear-right OFF, oak island. No unexplained cake or duplicate packaging. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): NINA 0.25–2.53s · DAN 2.68–5.84s · LEO 5.99–8.71s · NINA 8.86–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–1.69s · DAN 1.79–3.89s · LEO 3.99–5.81s · NINA 5.91–9.19s.
 
 **Dialogue:**
 **NINA:** It says delivered at two-oh-six.
@@ -372,7 +374,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **NINA:** The time tells us when. We still need to know where.
 
-## SHOT_018 | 00:04:15–00:04:30 | Check the doorstep first
+## SHOT_018 | 00:02:50–00:03:00 | Check the doorstep first
 
 **Characters:** DAN, MAYA, MAX. **Location:** HOME_PORCH. **Wardrobe:** W01 only.
 **Composition:** Over-shoulder medium with the active prop visible and other actors distinct.
@@ -382,7 +384,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_05.png](assets/storyboards/BOARD_05.png), panel 2. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Home14:blue door,bow after008,banner after009,bell right,number plaque left. Clear front walk and low steps. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–2.53s · MAX 2.68–5.40s · MAYA 5.55–8.27s · DAN 8.42–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.69s · MAX 1.79–3.60s · MAYA 3.70–5.51s · DAN 5.61–8.89s.
 
 **Dialogue:**
 **DAN:** No box on the step.
@@ -393,7 +395,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** Well, at least we're sure it isn't behind our own door.
 
-## SHOT_019 | 00:04:30–00:04:45 | The fridge is not a hiding place
+## SHOT_019 | 00:03:00–00:03:10 | The fridge is not a hiding place
 
 **Characters:** NINA, ELLA, LEO. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Child-height medium reaction with the adult beside the children, not above their eyeline.
@@ -403,7 +405,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_05.png](assets/storyboards/BOARD_05.png), panel 3. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Fridge rear-left, sink rear-window, stove rear-right OFF, oak island. No unexplained cake or duplicate packaging. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–2.40s · LEO 2.55–4.71s · NINA 4.86–9.50s · ELLA 9.65–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.60s · LEO 1.70–3.14s · NINA 3.24–6.33s · ELLA 6.43–9.53s.
 
 **Dialogue:**
 **ELLA:** No cake in the fridge.
@@ -414,7 +416,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **ELLA:** Good. The whole box wouldn't fit inside that little dish anyway.
 
-## SHOT_020 | 00:04:45–00:05:00 | A perfect plan feels smaller
+## SHOT_020 | 00:03:10–00:03:20 | A perfect plan feels smaller
 
 **Characters:** DAN, MAYA, NINA. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Medium three-quarter view; leave physical space for the scripted action.
@@ -424,7 +426,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_05.png](assets/storyboards/BOARD_05.png), panel 4. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Fridge rear-left, sink rear-window, stove rear-right OFF, oak island. No unexplained cake or duplicate packaging. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.33s · MAYA 3.48–6.56s · NINA 6.71–9.79s · DAN 9.94–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.22s · MAYA 2.32–4.37s · NINA 4.47–6.53s · DAN 6.63–9.53s.
 
 **Dialogue:**
 **DAN:** I wanted one afternoon without a mix-up.
@@ -435,7 +437,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** All right. I'll start by listening to what we know.
 
-## SHOT_021 | 00:05:00–00:05:15 | What do we actually know?
+## SHOT_021 | 00:03:20–00:03:30 | What do we actually know?
 
 **Characters:** LEO, ELLA, DAN. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Medium eye-level group coverage; camera stays on the established room/porch side.
@@ -445,7 +447,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 1. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Fridge rear-left, sink rear-window, stove rear-right OFF, oak island. No unexplained cake or duplicate packaging. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–2.09s · ELLA 2.24–5.40s · DAN 5.55–8.71s · LEO 8.86–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.39s · ELLA 1.49–3.60s · DAN 3.70–5.81s · LEO 5.91–8.89s.
 
 **Dialogue:**
 **LEO:** The order numbers match.
@@ -456,7 +458,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **LEO:** Good. We know which order to ask the bakery about.
 
-## SHOT_022 | 00:05:15–00:05:30 | Nobody has to accuse anyone
+## SHOT_022 | 00:03:30–00:03:40 | Nobody has to accuse anyone
 
 **Characters:** MAYA, MAX, NINA. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Over-shoulder medium with the active prop visible and other actors distinct.
@@ -466,7 +468,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 2. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Fridge rear-left, sink rear-window, stove rear-right OFF, oak island. No unexplained cake or duplicate packaging. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–2.40s · MAYA 2.55–7.62s · NINA 7.77–9.50s · MAX 9.65–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.60s · MAYA 1.70–5.08s · NINA 5.18–6.33s · MAX 6.43–9.53s.
 
 **Dialogue:**
 **MAX:** Did somebody steal our party?
@@ -477,7 +479,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** Let's look. Maybe the step will tell us where it went.
 
-## SHOT_023 | 00:05:30–00:05:45 | The wrong color in the picture
+## SHOT_023 | 00:03:40–00:03:50 | The wrong color in the picture
 
 **Characters:** NINA, ELLA, DAN. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Child-height medium reaction with the adult beside the children, not above their eyeline.
@@ -487,7 +489,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 3. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Fridge rear-left, sink rear-window, stove rear-right OFF, oak island. No unexplained cake or duplicate packaging. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–2.15s · DAN 2.30–3.75s · NINA 3.90–7.17s · ELLA 7.32–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.43s · DAN 1.53–2.50s · NINA 2.60–4.78s · ELLA 4.88–8.27s.
 
 **Dialogue:**
 **ELLA:** That door is green.
@@ -498,7 +500,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **ELLA:** That's the first clue we can see without reading any numbers.
 
-## SHOT_024 | 00:05:45–00:06:00 | A bow that never went there
+## SHOT_024 | 00:03:50–00:04:00 | A bow that never went there
 
 **Characters:** MAYA, LEO, MAX. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Medium three-quarter view; leave physical space for the scripted action.
@@ -508,7 +510,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 4. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Fridge rear-left, sink rear-window, stove rear-right OFF, oak island. No unexplained cake or duplicate packaging. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–2.97s · MAX 3.12–5.40s · MAYA 5.55–9.59s · LEO 9.74–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.98s · MAX 2.08–3.60s · MAYA 3.70–6.39s · LEO 6.49–9.19s.
 
 **Dialogue:**
 **LEO:** No bow in the photo either.
@@ -519,7 +521,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **LEO:** Good. We can describe what's actually in the picture.
 
-## SHOT_025 | 00:06:00–00:06:15 | Read the message completely
+## SHOT_025 | 00:04:00–00:04:10 | Read the message completely
 
 **Characters:** DAN, NINA, LEO. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Medium eye-level group coverage; camera stays on the established room/porch side.
@@ -529,7 +531,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_07.png](assets/storyboards/BOARD_07.png), panel 1. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Fridge rear-left, sink rear-window, stove rear-right OFF, oak island. No unexplained cake or duplicate packaging. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–2.09s · NINA 2.24–4.96s · LEO 5.11–8.27s · DAN 8.42–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.39s · NINA 1.49–3.31s · LEO 3.41–5.51s · DAN 5.61–8.89s.
 
 **Dialogue:**
 **DAN:** Should I order another?
@@ -540,7 +542,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** Fair. Six people don't need two cakes turning up at once.
 
-## SHOT_026 | 00:06:15–00:06:30 | Ask for help with facts
+## SHOT_026 | 00:04:10–00:04:20 | Ask for help with facts
 
 **Characters:** NINA, MAYA, DAN. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Over-shoulder medium with the active prop visible and other actors distinct.
@@ -550,7 +552,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_07.png](assets/storyboards/BOARD_07.png), panel 2. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Fridge rear-left, sink rear-window, stove rear-right OFF, oak island. No unexplained cake or duplicate packaging. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): NINA 0.25–5.04s · MAYA 5.19–6.56s · DAN 6.71–9.79s · NINA 9.94–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–3.36s · MAYA 3.46–4.37s · DAN 4.47–6.53s · NINA 6.63–9.53s.
 
 **Dialogue:**
 **NINA:** Our order is marked delivered, but the photo shows another door.
@@ -561,7 +563,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **NINA:** Good. That gives support something they can check for us.
 
-## SHOT_027 | 00:06:30–00:06:45 | The small dessert can wait
+## SHOT_027 | 00:04:20–00:04:30 | The small dessert can wait
 
 **Characters:** MAX, ELLA, MAYA. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Child-height medium reaction with the adult beside the children, not above their eyeline.
@@ -571,7 +573,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_07.png](assets/storyboards/BOARD_07.png), panel 3. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Fridge rear-left, sink rear-window, stove rear-right OFF, oak island. No unexplained cake or duplicate packaging. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–2.40s · ELLA 2.55–5.54s · MAYA 5.69–9.09s · MAX 9.24–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.60s · ELLA 1.70–3.69s · MAYA 3.79–6.06s · MAX 6.16–9.53s.
 
 **Dialogue:**
 **MAX:** The emergency strawberry is ready.
@@ -582,7 +584,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** Good. Cutting one berry six ways sounds like a very small party.
 
-## SHOT_028 | 00:06:45–00:07:00 | Do not follow every green door
+## SHOT_028 | 00:04:30–00:04:40 | Do not follow every green door
 
 **Characters:** DAN, LEO, MAYA. **Location:** HOME_PORCH. **Wardrobe:** W01 only.
 **Composition:** Medium three-quarter view; leave physical space for the scripted action.
@@ -592,7 +594,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_07.png](assets/storyboards/BOARD_07.png), panel 4. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Home14:blue door,bow after008,banner after009,bell right,number plaque left. Clear front walk and low steps. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–2.97s · LEO 3.12–5.84s · MAYA 5.99–9.59s · DAN 9.74–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.98s · LEO 2.08–3.89s · MAYA 3.99–6.39s · DAN 6.49–9.48s.
 
 **Dialogue:**
 **DAN:** There must be several green doors.
@@ -603,7 +605,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** Right. A green door is a clue, not an invitation.
 
-## SHOT_029 | 00:07:00–00:07:15 | A detail beside the bell
+## SHOT_029 | 00:04:40–00:04:50 | A detail beside the bell
 
 **Characters:** ELLA, NINA, MAX. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Medium eye-level group coverage; camera stays on the established room/porch side.
@@ -613,7 +615,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 1. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Fridge rear-left, sink rear-window, stove rear-right OFF, oak island. No unexplained cake or duplicate packaging. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–1.65s · MAX 1.80–5.40s · NINA 5.55–8.27s · ELLA 8.42–12.46s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.10s · MAX 1.20–3.60s · NINA 3.70–5.51s · ELLA 5.61–8.31s.
 
 **Dialogue:**
 **ELLA:** A leaf-shaped knocker.
@@ -624,7 +626,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **ELLA:** Good. Lots of leaves look alike from this distance.
 
-## SHOT_030 | 00:07:15–00:07:30 | The full label is blurry
+## SHOT_030 | 00:04:50–00:05:00 | The full label is blurry
 
 **Characters:** DAN, MAYA, LEO. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Over-shoulder medium with the active prop visible and other actors distinct.
@@ -634,7 +636,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 2. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Fridge rear-left, sink rear-window, stove rear-right OFF, oak island. No unexplained cake or duplicate packaging. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–2.90s · MAYA 3.05–5.27s · LEO 5.42–9.36s · DAN 9.51–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.93s · MAYA 2.03–3.51s · LEO 3.61–6.24s · DAN 6.34–9.53s.
 
 **Dialogue:**
 **DAN:** I cannot read that last digit.
@@ -645,7 +647,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** Fair. One blurry digit isn't enough to knock on someone's door.
 
-## SHOT_031 | 00:07:30–00:07:45 | A reply gives a useful clue
+## SHOT_031 | 00:05:00–00:05:10 | A reply gives a useful clue
 
 **Characters:** NINA, DAN, ELLA. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Child-height medium reaction with the adult beside the children, not above their eyeline.
@@ -655,7 +657,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 3. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Fridge rear-left, sink rear-window, stove rear-right OFF, oak island. No unexplained cake or duplicate packaging. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): NINA 0.25–2.53s · DAN 2.68–4.52s · ELLA 4.67–7.83s · NINA 7.98–12.46s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–1.69s · DAN 1.79–3.01s · ELLA 3.11–5.22s · NINA 5.32–8.31s.
 
 **Dialogue:**
 **NINA:** The driver recorded number eighteen.
@@ -666,7 +668,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **NINA:** Good. Eighteen is something we can actually go and check.
 
-## SHOT_032 | 00:07:45–00:08:00 | Keep one question at a time
+## SHOT_032 | 00:05:10–00:05:20 | Keep one question at a time
 
 **Characters:** MAYA, MAX, DAN. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Medium three-quarter view; leave physical space for the scripted action.
@@ -676,7 +678,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 4. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Fridge rear-left, sink rear-window, stove rear-right OFF, oak island. No unexplained cake or duplicate packaging. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–5.17s · MAX 5.32–8.48s · DAN 8.63–9.59s · MAX 9.74–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–3.45s · MAX 3.55–5.65s · DAN 5.75–6.39s · MAX 6.49–9.48s.
 
 **Dialogue:**
 **MAYA:** We can ask, did a cake for number fourteen arrive here?
@@ -687,7 +689,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** And it sounds friendlier if you're on the other side.
 
-## SHOT_033 | 00:08:00–00:08:15 | Who goes and who stays?
+## SHOT_033 | 00:05:20–00:05:30 | Who goes and who stays?
 
 **Characters:** DAN, MAYA, NINA, LEO, ELLA, MAX. **Location:** HOME_PORCH. **Wardrobe:** W01 only.
 **Composition:** Wide six-person eye-level establishing view; keep original heights and clear door/table axis.
@@ -697,7 +699,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 1. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Home14:blue door,bow after008,banner after009,bell right,number plaque left. Clear front walk and low steps. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–2.53s · NINA 2.68–5.84s · LEO 5.99–8.71s · DAN 8.86–12.90s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.69s · NINA 1.79–3.89s · LEO 3.99–5.81s · DAN 5.91–8.60s.
 
 **Dialogue:**
 **MAYA:** We will all go together.
@@ -708,7 +710,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** Good. I'll keep my eyes on the house numbers.
 
-## SHOT_034 | 00:08:15–00:08:30 | The right direction this time
+## SHOT_034 | 00:05:30–00:05:40 | The right direction this time
 
 **Characters:** DAN, LEO, MAX. **Location:** LANE_WALKWAY. **Wardrobe:** W01 only.
 **Composition:** Over-shoulder medium with the active prop visible and other actors distinct.
@@ -718,7 +720,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 2. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Same-side continuous sidewalk between14 and18. Six travel together with adults; no road crossing or driveway shortcut. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.41s · LEO 3.56–6.28s · MAX 6.43–9.15s · LEO 9.30–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.27s · LEO 2.37–4.19s · MAX 4.29–6.10s · LEO 6.20–8.89s.
 
 **Dialogue:**
 **DAN:** Blue door behind us, green door ahead.
@@ -729,7 +731,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **LEO:** It can't read the numbers for us, though, Dad.
 
-## SHOT_035 | 00:08:30–00:08:45 | A familiar low hedge
+## SHOT_035 | 00:05:40–00:05:50 | A familiar low hedge
 
 **Characters:** NINA, ELLA, MAX. **Location:** LANE_WALKWAY. **Wardrobe:** W01 only.
 **Composition:** Child-height medium reaction with the adult beside the children, not above their eyeline.
@@ -739,7 +741,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 3. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Same-side continuous sidewalk between14 and18. Six travel together with adults; no road crossing or driveway shortcut. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–2.09s · MAX 2.24–5.40s · NINA 5.55–8.27s · MAX 8.42–12.90s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.39s · MAX 1.49–3.60s · NINA 3.70–5.51s · MAX 5.61–8.60s.
 
 **Dialogue:**
 **ELLA:** The same low hedge.
@@ -750,7 +752,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** I much prefer hedges. They don't pretend to know directions.
 
-## SHOT_036 | 00:08:45–00:09:00 | The number is eighteen
+## SHOT_036 | 00:05:50–00:06:00 | The number is eighteen
 
 **Characters:** MAYA, DAN, LEO. **Location:** LANE_WALKWAY. **Wardrobe:** W01 only.
 **Composition:** Medium three-quarter view; leave physical space for the scripted action.
@@ -760,7 +762,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 4. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Same-side continuous sidewalk between14 and18. Six travel together with adults; no road crossing or driveway shortcut. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–1.21s · DAN 1.36–3.20s · LEO 3.35–6.07s · DAN 6.22–10.26s · MAYA 10.41–13.57s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–0.81s · DAN 0.91–2.13s · LEO 2.23–4.05s · DAN 4.15–6.84s · MAYA 6.94–9.05s.
 
 **Dialogue:**
 **MAYA:** Number eighteen.
@@ -773,7 +775,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAYA:** Right. We'll let the neighbor tell us.
 
-## SHOT_037 | 00:09:00–00:09:15 | A private path is not a shortcut
+## SHOT_037 | 00:06:00–00:06:10 | A private path is not a shortcut
 
 **Characters:** DAN, ELLA, MAX. **Location:** LANE_WALKWAY. **Wardrobe:** W01 only.
 **Composition:** Medium eye-level group coverage; camera stays on the established room/porch side.
@@ -783,7 +785,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_10.png](assets/storyboards/BOARD_10.png), panel 1. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Same-side continuous sidewalk between14 and18. Six travel together with adults; no road crossing or driveway shortcut. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–3.17s · DAN 3.33–6.25s · ELLA 6.40–7.91s · MAX 8.06–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.11s · DAN 2.22–4.17s · ELLA 4.27–5.27s · MAX 5.37–8.27s.
 
 **Dialogue:**
 **MAX:** Can we peek through the hedge?
@@ -794,7 +796,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** Good. I'll keep my nose out of that hedge.
 
-## SHOT_038 | 00:09:15–00:09:30 | At the green door
+## SHOT_038 | 00:06:10–00:06:20 | At the green door
 
 **Characters:** DAN, MAYA, NINA, LEO, ELLA, MAX. **Location:** NEIGHBOR_PORCH. **Wardrobe:** W01 only.
 **Composition:** Wide six-person eye-level establishing view; keep original heights and clear door/table axis.
@@ -804,7 +806,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_10.png](assets/storyboards/BOARD_10.png), panel 2. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Neighbor18:green door,leaf knocker,bell right,low hedge. Family stays outside; resident never shows a face. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–3.41s · DAN 3.56–5.40s · NINA 5.55–7.39s · ELLA 7.54–12.90s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–2.27s · DAN 2.37–3.60s · NINA 3.70–4.93s · ELLA 5.03–8.60s.
 
 **Dialogue:**
 **MAYA:** This is the door in the photograph.
@@ -815,7 +817,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **ELLA:** And the box in that photo hasn't told us whose it is.
 
-## SHOT_039 | 00:09:30–00:09:45 | One ring is enough
+## SHOT_039 | 00:06:20–00:06:30 | One ring is enough
 
 **Characters:** DAN, LEO, ELLA. **Location:** NEIGHBOR_PORCH. **Wardrobe:** W01 only.
 **Composition:** Child-height medium reaction with the adult beside the children, not above their eyeline.
@@ -825,7 +827,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_10.png](assets/storyboards/BOARD_10.png), panel 3. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Neighbor18:green door,leaf knocker,bell right,low hedge. Family stays outside; resident never shows a face. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–1.65s · DAN 1.80–3.64s · ELLA 3.79–6.07s · DAN 6.22–10.26s · ELLA 10.41–13.57s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.10s · DAN 1.20–2.43s · ELLA 2.53–4.05s · DAN 4.15–6.84s · ELLA 6.94–9.05s.
 
 **Dialogue:**
 **LEO:** Now we wait.
@@ -838,7 +840,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **ELLA:** At least the doorbell doesn't need flipping.
 
-## SHOT_040 | 00:09:45–00:10:00 | The quiet waiting beat
+## SHOT_040 | 00:06:30–00:06:40 | The quiet waiting beat
 
 **Characters:** MAYA, NINA, MAX. **Location:** NEIGHBOR_PORCH. **Wardrobe:** W01 only.
 **Composition:** Medium three-quarter view; leave physical space for the scripted action.
@@ -848,7 +850,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_10.png](assets/storyboards/BOARD_10.png), panel 4. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Neighbor18:green door,leaf knocker,bell right,low hedge. Family stays outside; resident never shows a face. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–2.97s · NINA 3.12–5.84s · MAYA 5.99–9.15s · MAX 9.30–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.98s · NINA 2.08–3.89s · MAYA 3.99–6.10s · MAX 6.20–9.48s.
 
 **Dialogue:**
 **MAX:** Maybe the cake answered the door.
@@ -859,7 +861,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** Fine. I'll keep the welcome speech till we have an answer.
 
-## SHOT_041 | 00:10:00–00:10:15 | It is all right to leave a note
+## SHOT_041 | 00:06:40–00:06:50 | It is all right to leave a note
 
 **Characters:** DAN, MAYA, LEO. **Location:** NEIGHBOR_PORCH. **Wardrobe:** W01 only.
 **Composition:** Medium eye-level group coverage; camera stays on the established room/porch side.
@@ -869,7 +871,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 1. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Neighbor18:green door,leaf knocker,bell right,low hedge. Family stays outside; resident never shows a face. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–4.24s · MAYA 4.39–7.59s · LEO 7.74–10.16s · DAN 10.31–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.83s · MAYA 2.93–5.06s · LEO 5.16–6.77s · DAN 6.87–9.53s.
 
 **Dialogue:**
 **DAN:** If nobody is home, we will ask the bakery again.
@@ -880,7 +882,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** Right. We can tell them where the photo was taken.
 
-## SHOT_042 | 00:10:15–00:10:30 | The latch moves
+## SHOT_042 | 00:06:50–00:07:00 | The latch moves
 
 **Characters:** DAN, NINA, ELLA. **Location:** NEIGHBOR_PORCH. **Wardrobe:** W01 only.
 **Composition:** Over-shoulder medium with the active prop visible and other actors distinct.
@@ -890,7 +892,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 2. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Neighbor18:green door,leaf knocker,bell right,low hedge. Family stays outside; resident never shows a face. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–1.65s · DAN 1.80–2.76s · NINA 2.91–4.75s · ELLA 4.90–9.38s · DAN 9.53–12.69s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.10s · DAN 1.20–1.84s · NINA 1.94–3.17s · ELLA 3.27–6.25s · DAN 6.35–8.46s.
 
 **Dialogue:**
 **ELLA:** Someone is coming.
@@ -903,7 +905,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** We have our order number right here.
 
-## SHOT_043 | 00:10:30–00:10:45 | An introduction, not an accusation
+## SHOT_043 | 00:07:00–00:07:10 | An introduction, not an accusation
 
 **Characters:** DAN, MAYA, MAX. **Location:** NEIGHBOR_PORCH. **Wardrobe:** W01 only.
 **Composition:** Child-height medium reaction with the adult beside the children, not above their eyeline.
@@ -913,7 +915,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 3. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Neighbor18:green door,leaf knocker,bell right,low hedge. Family stays outside; resident never shows a face. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–2.97s · DAN 3.12–8.48s · MAX 8.63–10.03s · DAN 10.18–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.98s · DAN 2.08–5.65s · MAX 5.75–6.69s · DAN 6.79–9.48s.
 
 **Dialogue:**
 **MAYA:** Hello. We are from number fourteen.
@@ -924,7 +926,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** The photo looks like the step outside your door.
 
-## SHOT_044 | 00:10:45–00:11:00 | Describe the box carefully
+## SHOT_044 | 00:07:10–00:07:20 | Describe the box carefully
 
 **Characters:** NINA, LEO, ELLA. **Location:** NEIGHBOR_PORCH. **Wardrobe:** W01 only.
 **Composition:** Medium three-quarter view; leave physical space for the scripted action.
@@ -934,7 +936,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 4. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Neighbor18:green door,leaf knocker,bell right,low hedge. Family stays outside; resident never shows a face. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): NINA 0.25–3.85s · LEO 4.00–7.16s · ELLA 7.31–9.59s · NINA 9.74–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–2.57s · LEO 2.67–4.77s · ELLA 4.87–6.39s · NINA 6.49–9.19s.
 
 **Dialogue:**
 **NINA:** A white bakery box with a red seal.
@@ -945,7 +947,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **NINA:** We can show the matching number if that helps.
 
-## SHOT_045 | 00:11:00–00:11:15 | The question gives room to answer
+## SHOT_045 | 00:07:20–00:07:30 | The question gives room to answer
 
 **Characters:** DAN, MAYA, NINA. **Location:** NEIGHBOR_PORCH. **Wardrobe:** W01 only.
 **Composition:** Medium eye-level group coverage; camera stays on the established room/porch side.
@@ -955,7 +957,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 1. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Neighbor18:green door,leaf knocker,bell right,low hedge. Family stays outside; resident never shows a face. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.85s · MAYA 4.00–8.04s · NINA 8.19–9.15s · DAN 9.30–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.57s · MAYA 2.67–5.36s · NINA 5.46–6.10s · DAN 6.20–9.19s.
 
 **Dialogue:**
 **DAN:** Did a cake for number fourteen arrive here?
@@ -966,7 +968,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** We brought our confirmation if you'd like to compare it.
 
-## SHOT_046 | 00:11:15–00:11:30 | A sound from the kitchen
+## SHOT_046 | 00:07:30–00:07:40 | A sound from the kitchen
 
 **Characters:** DAN, MAX, ELLA. **Location:** NEIGHBOR_PORCH. **Wardrobe:** W01 only.
 **Composition:** Over-shoulder medium with the active prop visible and other actors distinct.
@@ -976,7 +978,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 2. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Neighbor18:green door,leaf knocker,bell right,low hedge. Family stays outside; resident never shows a face. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–2.53s · ELLA 2.68–5.84s · DAN 5.99–8.71s · ELLA 8.86–12.90s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.69s · ELLA 1.79–3.89s · DAN 3.99–5.81s · ELLA 5.91–8.60s.
 
 **Dialogue:**
 **MAX:** That sounds like a fridge.
@@ -987,7 +989,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **ELLA:** Good. A fridge sound can't tell us what's inside.
 
-## SHOT_047 | 00:11:30–00:11:45 | We brought the right information
+## SHOT_047 | 00:07:40–00:07:50 | We brought the right information
 
 **Characters:** MAYA, NINA, LEO. **Location:** NEIGHBOR_PORCH. **Wardrobe:** W01 only.
 **Composition:** Child-height medium reaction with the adult beside the children, not above their eyeline.
@@ -997,7 +999,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 3. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Neighbor18:green door,leaf knocker,bell right,low hedge. Family stays outside; resident never shows a face. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–2.97s · MAYA 3.12–5.40s · NINA 5.55–7.83s · LEO 7.98–12.90s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.98s · MAYA 2.08–3.60s · NINA 3.70–5.22s · LEO 5.32–8.60s.
 
 **Dialogue:**
 **LEO:** Same order number, same white box.
@@ -1008,7 +1010,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **LEO:** That'll tell us more than just the color of the door.
 
-## SHOT_048 | 00:11:45–00:12:00 | The whole group stays visible
+## SHOT_048 | 00:07:50–00:08:00 | The whole group stays visible
 
 **Characters:** DAN, MAYA, NINA, LEO, ELLA, MAX. **Location:** NEIGHBOR_PORCH. **Wardrobe:** W01 only.
 **Composition:** Wide six-person eye-level establishing view; keep original heights and clear door/table axis.
@@ -1018,7 +1020,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 4. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Neighbor18:green door,leaf knocker,bell right,low hedge. Family stays outside; resident never shows a face. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.85s · MAX 4.00–6.72s · NINA 6.87–8.27s · MAX 8.42–12.90s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.57s · MAX 2.67–4.48s · NINA 4.58–5.51s · MAX 5.61–8.60s.
 
 **Dialogue:**
 **DAN:** Thank you for helping us sort this out.
@@ -1029,7 +1031,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** My plate's got a bit more patience than my stomach.
 
-## SHOT_049 | 00:12:00–00:12:15 | A small admission while waiting
+## SHOT_049 | 00:08:00–00:08:10 | A small admission while waiting
 
 **Characters:** DAN, MAYA, LEO. **Location:** NEIGHBOR_PORCH. **Wardrobe:** W01 only.
 **Composition:** Medium eye-level group coverage; camera stays on the established room/porch side.
@@ -1039,7 +1041,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 1. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Neighbor18:green door,leaf knocker,bell right,low hedge. Family stays outside; resident never shows a face. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.85s · MAYA 4.00–6.81s · LEO 6.96–10.16s · DAN 10.31–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.57s · MAYA 2.67–4.54s · LEO 4.64–6.77s · DAN 6.87–9.53s.
 
 **Dialogue:**
 **DAN:** My perfect plan did not include asking for help.
@@ -1050,7 +1052,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** I'm adding that one to the plan in my head.
 
-## SHOT_050 | 00:12:15–00:12:30 | The box is coming
+## SHOT_050 | 00:08:10–00:08:20 | The box is coming
 
 **Characters:** NINA, ELLA, MAX. **Location:** NEIGHBOR_PORCH. **Wardrobe:** W01 only.
 **Composition:** Over-shoulder medium with the active prop visible and other actors distinct.
@@ -1060,7 +1062,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 2. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Neighbor18:green door,leaf knocker,bell right,low hedge. Family stays outside; resident never shows a face. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–1.65s · MAX 1.80–3.64s · NINA 3.79–7.83s · ELLA 7.98–12.46s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.10s · MAX 1.20–2.43s · NINA 2.53–5.22s · ELLA 5.32–8.31s.
 
 **Dialogue:**
 **ELLA:** A white box.
@@ -1071,7 +1073,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **ELLA:** Good. A white box alone could hold somebody else's dessert.
 
-## SHOT_051 | 00:12:30–00:12:45 | A note from the bakery
+## SHOT_051 | 00:08:20–00:08:30 | A note from the bakery
 
 **Characters:** DAN, MAYA, NINA. **Location:** NEIGHBOR_PORCH. **Wardrobe:** W01 only.
 **Composition:** Child-height medium reaction with the adult beside the children, not above their eyeline.
@@ -1081,7 +1083,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 3. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Neighbor18:green door,leaf knocker,bell right,low hedge. Family stays outside; resident never shows a face. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–2.61s · DAN 2.76–4.66s · NINA 4.81–8.07s · DAN 8.22–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.74s · DAN 1.84–3.11s · NINA 3.21–5.38s · DAN 5.48–8.27s.
 
 **Dialogue:**
 **MAYA:** That is our order number.
@@ -1092,7 +1094,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** Good. The handwriting and our address still need comparing.
 
-## SHOT_052 | 00:12:45–00:13:00 | Match the order, not just the color
+## SHOT_052 | 00:08:30–00:08:40 | Match the order, not just the color
 
 **Characters:** MAYA, NINA, LEO. **Location:** NEIGHBOR_PORCH. **Wardrobe:** W01 only.
 **Composition:** Medium three-quarter view; leave physical space for the scripted action.
@@ -1102,7 +1104,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 4. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Neighbor18:green door,leaf knocker,bell right,low hedge. Family stays outside; resident never shows a face. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–2.53s · NINA 2.68–4.52s · LEO 4.67–10.03s · MAYA 10.18–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.69s · NINA 1.79–3.01s · LEO 3.11–6.69s · MAYA 6.79–9.48s.
 
 **Dialogue:**
 **MAYA:** The order ends in ten-C.
@@ -1113,7 +1115,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAYA:** Good. Now let's hear what happened when it arrived.
 
-## SHOT_053 | 00:13:00–00:13:15 | The neighbor explains
+## SHOT_053 | 00:08:40–00:08:50 | The neighbor explains
 
 **Characters:** DAN, MAYA. **Location:** NEIGHBOR_PORCH. **Wardrobe:** W01 only.
 **Off-screen cast:** NEIGHBOR
@@ -1124,7 +1126,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 1. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Neighbor18:green door,leaf knocker,bell right,low hedge. Family stays outside; resident never shows a face. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): NEIGHBOR 0.25–5.17s · MAYA 5.32–8.04s · DAN 8.19–9.59s · MAYA 9.74–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NEIGHBOR 0.17–3.45s · MAYA 3.55–5.36s · DAN 5.46–6.39s · MAYA 6.49–9.48s.
 
 **Dialogue:**
 **NEIGHBOR:** This came to eighteen. I put it straight in the fridge.
@@ -1135,7 +1137,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAYA:** I'm glad you heard the delivery. Our bell never rang.
 
-## SHOT_054 | 00:13:15–00:13:30 | Four became an uncertain mark
+## SHOT_054 | 00:08:50–00:09:00 | Four became an uncertain mark
 
 **Characters:** NINA, ELLA, DAN. **Location:** NEIGHBOR_PORCH. **Wardrobe:** W01 only.
 **Off-screen cast:** NEIGHBOR
@@ -1146,7 +1148,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 2. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Neighbor18:green door,leaf knocker,bell right,low hedge. Family stays outside; resident never shows a face. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): NEIGHBOR 0.25–3.45s · ELLA 3.60–5.24s · DAN 5.39–9.38s · NINA 9.53–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NEIGHBOR 0.17–2.30s · ELLA 2.40–3.49s · DAN 3.59–6.25s · NINA 6.35–9.53s.
 
 **Dialogue:**
 **NEIGHBOR:** The label looked like eighteen to the driver.
@@ -1157,7 +1159,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **NINA:** Good. We can give the bakery the number that caused the mix-up.
 
-## SHOT_055 | 00:13:30–00:13:45 | A seal worth checking
+## SHOT_055 | 00:09:00–00:09:10 | A seal worth checking
 
 **Characters:** MAYA, NINA, LEO. **Location:** NEIGHBOR_PORCH. **Wardrobe:** W01 only.
 **Off-screen cast:** NEIGHBOR
@@ -1168,7 +1170,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 3. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Neighbor18:green door,leaf knocker,bell right,low hedge. Family stays outside; resident never shows a face. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): NEIGHBOR 0.25–2.53s · MAYA 2.68–4.52s · NINA 4.67–8.27s · LEO 8.42–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NEIGHBOR 0.17–1.69s · MAYA 1.79–3.01s · NINA 3.11–5.51s · LEO 5.61–9.19s.
 
 **Dialogue:**
 **NEIGHBOR:** I have not opened it.
@@ -1179,7 +1181,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **LEO:** Good. That red seal looks just like the one in the photo.
 
-## SHOT_056 | 00:13:45–00:14:00 | One careful transfer
+## SHOT_056 | 00:09:10–00:09:20 | One careful transfer
 
 **Characters:** DAN, MAYA, MAX. **Location:** NEIGHBOR_PORCH. **Wardrobe:** W01 only.
 **Off-screen cast:** NEIGHBOR
@@ -1190,7 +1192,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 4. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Neighbor18:green door,leaf knocker,bell right,low hedge. Family stays outside; resident never shows a face. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): NEIGHBOR 0.25–2.90s · DAN 3.05–6.56s · MAX 6.71–9.79s · MAYA 9.94–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NEIGHBOR 0.17–1.93s · DAN 2.03–4.37s · MAX 4.47–6.53s · MAYA 6.63–9.53s.
 
 **Dialogue:**
 **NEIGHBOR:** Here you are. Enjoy your party.
@@ -1201,7 +1203,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAYA:** And a very kind person looked after it. Thank you.
 
-## SHOT_057 | 00:14:00–00:14:15 | Thanks before leaving
+## SHOT_057 | 00:09:20–00:09:30 | Thanks before leaving
 
 **Characters:** DAN, MAYA, NINA. **Location:** NEIGHBOR_PORCH. **Wardrobe:** W01 only.
 **Composition:** Medium eye-level group coverage; camera stays on the established room/porch side.
@@ -1211,7 +1213,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 1. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Neighbor18:green door,leaf knocker,bell right,low hedge. Family stays outside; resident never shows a face. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–1.61s · NINA 1.76–5.70s · DAN 5.85–9.36s · NINA 9.51–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.07s · NINA 1.17–3.80s · DAN 3.90–6.24s · NINA 6.34–9.53s.
 
 **Dialogue:**
 **MAYA:** Thank you again.
@@ -1222,7 +1224,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **NINA:** Good. I want the bakery to know which address caused it.
 
-## SHOT_058 | 00:14:15–00:14:30 | Homeward with the right box
+## SHOT_058 | 00:09:30–00:09:40 | Homeward with the right box
 
 **Characters:** DAN, LEO, MAX. **Location:** LANE_WALKWAY. **Wardrobe:** W01 only.
 **Composition:** Over-shoulder medium with the active prop visible and other actors distinct.
@@ -1232,7 +1234,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 2. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Same-side continuous sidewalk between14 and18. Six travel together with adults; no road crossing or driveway shortcut. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–2.97s · LEO 3.12–5.84s · DAN 5.99–8.71s · MAX 8.86–12.90s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.98s · LEO 2.08–3.89s · DAN 3.99–5.81s · MAX 5.91–8.60s.
 
 **Dialogue:**
 **MAX:** Does it need a ticket home?
@@ -1243,7 +1245,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** Good. My job can be keeping the sidewalk clear.
 
-## SHOT_059 | 00:14:30–00:14:45 | The blue bow welcomes it
+## SHOT_059 | 00:09:40–00:09:50 | The blue bow welcomes it
 
 **Characters:** DAN, MAYA, ELLA. **Location:** HOME_PORCH. **Wardrobe:** W01 only.
 **Composition:** Child-height medium reaction with the adult beside the children, not above their eyeline.
@@ -1253,7 +1255,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 3. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Home14:blue door,bow after008,banner after009,bell right,number plaque left. Clear front walk and low steps. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–2.15s · DAN 2.30–4.66s · MAYA 4.81–7.17s · DAN 7.32–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.43s · DAN 1.53–3.11s · MAYA 3.21–4.78s · DAN 4.88–8.27s.
 
 **Dialogue:**
 **ELLA:** Blue door, number fourteen.
@@ -1264,7 +1266,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** Understood. This stop is only for dropping off our cold passenger.
 
-## SHOT_060 | 00:14:45–00:15:00 | Cold storage comes first
+## SHOT_060 | 00:09:50–00:10:00 | Cold storage comes first
 
 **Characters:** DAN, NINA, MAYA. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Medium three-quarter view; leave physical space for the scripted action.
@@ -1274,7 +1276,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 4. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Fridge rear-left, sink rear-window, stove rear-right OFF, oak island. No unexplained cake or duplicate packaging. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): NINA 0.25–3.41s · DAN 3.56–6.72s · MAYA 6.87–9.59s · NINA 9.74–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–2.27s · DAN 2.37–4.48s · MAYA 4.58–6.39s · NINA 6.49–9.48s.
 
 **Dialogue:**
 **NINA:** A safe place while we get ready.
@@ -1285,7 +1287,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **NINA:** And the little strawberry's got its neighbor back at last.
 
-## SHOT_061 | 00:15:00–00:15:15 | Close the delivery question
+## SHOT_061 | 00:10:00–00:10:10 | Close the delivery question
 
 **Characters:** NINA, LEO, ELLA. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Medium eye-level group coverage; camera stays on the established room/porch side.
@@ -1295,7 +1297,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 1. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Fridge rear-left, sink rear-window, stove rear-right OFF, oak island. No unexplained cake or duplicate packaging. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): NINA 0.25–4.19s · LEO 4.34–6.56s · ELLA 6.71–9.36s · NINA 9.51–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–2.79s · LEO 2.89–4.37s · ELLA 4.47–6.24s · NINA 6.34–9.53s.
 
 **Dialogue:**
 **NINA:** Recovered safely from number eighteen. Please check the label.
@@ -1306,7 +1308,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **NINA:** Good. They'll know they can close the search for our cake.
 
-## SHOT_062 | 00:15:15–00:15:30 | Hands before dessert
+## SHOT_062 | 00:10:10–00:10:20 | Hands before dessert
 
 **Characters:** MAYA, NINA, DAN, LEO, ELLA, MAX. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Wide six-person eye-level establishing view; keep original heights and clear door/table axis.
@@ -1316,7 +1318,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 2. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Fridge rear-left, sink rear-window, stove rear-right OFF, oak island. No unexplained cake or duplicate packaging. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–2.53s · MAX 2.68–5.84s · NINA 5.99–8.27s · DAN 8.42–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.69s · MAX 1.79–3.89s · NINA 3.99–5.51s · DAN 5.61–8.89s.
 
 **Dialogue:**
 **MAYA:** Clean hands before we serve.
@@ -1327,7 +1329,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** And everybody who handled that box can wash up for dessert.
 
-## SHOT_063 | 00:15:30–00:15:45 | The emergency strawberry earns a job
+## SHOT_063 | 00:10:20–00:10:30 | The emergency strawberry earns a job
 
 **Characters:** NINA, MAX, ELLA. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Child-height medium reaction with the adult beside the children, not above their eyeline.
@@ -1337,7 +1339,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 3. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Fridge rear-left, sink rear-window, stove rear-right OFF, oak island. No unexplained cake or duplicate packaging. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–3.95s · NINA 4.10–7.00s · ELLA 7.15–9.64s · MAX 9.79–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.63s · NINA 2.73–4.67s · ELLA 4.77–6.43s · MAX 6.53–9.53s.
 
 **Dialogue:**
 **MAX:** May I have the emergency strawberry with my slice?
@@ -1348,7 +1350,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** I think it deserves a very good seat on my plate.
 
-## SHOT_064 | 00:15:45–00:16:00 | Open the right box once
+## SHOT_064 | 00:10:30–00:10:40 | Open the right box once
 
 **Characters:** DAN, MAYA, LEO. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Medium three-quarter view; leave physical space for the scripted action.
@@ -1358,7 +1360,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 4. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Fridge rear-left, sink rear-window, stove rear-right OFF, oak island. No unexplained cake or duplicate packaging. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–2.97s · LEO 3.12–4.96s · MAYA 5.11–8.71s · LEO 8.86–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.98s · LEO 2.08–3.31s · MAYA 3.41–5.81s · LEO 5.91–8.89s.
 
 **Dialogue:**
 **DAN:** Here is our guest of honor.
@@ -1369,7 +1371,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **LEO:** I'll save my welcome till we actually have our slices.
 
-## SHOT_065 | 00:16:00–00:16:15 | A place for the empty packaging
+## SHOT_065 | 00:10:40–00:10:50 | A place for the empty packaging
 
 **Characters:** MAYA, ELLA, NINA. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Medium eye-level group coverage; camera stays on the established room/porch side.
@@ -1379,7 +1381,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 1. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Fridge rear-left, sink rear-window, stove rear-right OFF, oak island. No unexplained cake or duplicate packaging. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–2.53s · NINA 2.68–6.28s · MAYA 6.43–8.71s · NINA 8.86–12.90s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.69s · NINA 1.79–4.19s · MAYA 4.29–5.81s · NINA 5.91–8.60s.
 
 **Dialogue:**
 **ELLA:** The box is finally empty.
@@ -1390,7 +1392,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **NINA:** Good. Every plate has a person waiting for it.
 
-## SHOT_066 | 00:16:15–00:16:30 | Six slices from one cake
+## SHOT_066 | 00:10:50–00:11:00 | Six slices from one cake
 
 **Characters:** MAYA, DAN, LEO. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Over-shoulder medium with the active prop visible and other actors distinct.
@@ -1400,7 +1402,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 2. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Fridge rear-left, sink rear-window, stove rear-right OFF, oak island. No unexplained cake or duplicate packaging. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–1.82s · DAN 1.97–4.03s · MAYA 4.18–7.23s · DAN 7.38–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.21s · DAN 1.31–2.69s · MAYA 2.79–4.82s · DAN 4.92–8.27s.
 
 **Dialogue:**
 **LEO:** Six equal slices.
@@ -1411,7 +1413,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** I like this math. Everybody gets the very same share.
 
-## SHOT_067 | 00:16:30–00:16:45 | The first two plates
+## SHOT_067 | 00:11:00–00:11:10 | The first two plates
 
 **Characters:** NINA, DAN, LEO. **Location:** HOME_TABLE. **Wardrobe:** W01 only.
 **Composition:** Child-height medium reaction with the adult beside the children, not above their eyeline.
@@ -1421,7 +1423,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 3. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Fixed seats:Dan near-left,Leo left-end,Ella far-left,Maya far-right,Nina right-end,Max near-right. No plate or food refill. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): NINA 0.25–2.97s · DAN 3.12–4.96s · LEO 5.11–7.83s · DAN 7.98–12.90s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–1.98s · DAN 2.08–3.31s · LEO 3.41–5.22s · DAN 5.32–8.60s.
 
 **Dialogue:**
 **NINA:** One for Dan, one for Leo.
@@ -1432,7 +1434,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** Good. I can confirm this slice is at the right address.
 
-## SHOT_068 | 00:16:45–00:17:00 | Two more, not a refill
+## SHOT_068 | 00:11:10–00:11:20 | Two more, not a refill
 
 **Characters:** NINA, MAYA, ELLA. **Location:** HOME_TABLE. **Wardrobe:** W01 only.
 **Composition:** Medium three-quarter view; leave physical space for the scripted action.
@@ -1442,7 +1444,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 4. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Fixed seats:Dan near-left,Leo left-end,Ella far-left,Maya far-right,Nina right-end,Max near-right. No plate or food refill. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–2.53s · MAYA 2.68–5.40s · NINA 5.55–8.27s · ELLA 8.42–12.46s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.69s · MAYA 1.79–3.60s · NINA 3.70–5.51s · ELLA 5.61–8.31s.
 
 **Dialogue:**
 **ELLA:** Two left on the board.
@@ -1453,7 +1455,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **ELLA:** Good. I can count them from my own place.
 
-## SHOT_069 | 00:17:00–00:17:15 | The last pair completes the table
+## SHOT_069 | 00:11:20–00:11:30 | The last pair completes the table
 
 **Characters:** NINA, MAX, ELLA. **Location:** HOME_TABLE. **Wardrobe:** W01 only.
 **Composition:** Medium eye-level group coverage; camera stays on the established room/porch side.
@@ -1463,7 +1465,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 1. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Fixed seats:Dan near-left,Leo left-end,Ella far-left,Maya far-right,Nina right-end,Max near-right. No plate or food refill. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–2.61s · ELLA 2.76–4.20s · NINA 4.35–6.71s · MAX 6.86–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.74s · ELLA 1.84–2.80s · NINA 2.90–4.47s · MAX 4.57–8.27s.
 
 **Dialogue:**
 **MAX:** My slice has an assistant.
@@ -1474,7 +1476,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** Good. It was a long trip for this little bit of cake.
 
-## SHOT_070 | 00:17:15–00:17:30 | Sharp tools stay in the kitchen
+## SHOT_070 | 00:11:30–00:11:40 | Sharp tools stay in the kitchen
 
 **Characters:** MAYA, DAN. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Over-shoulder medium with the active prop visible and other actors distinct.
@@ -1484,7 +1486,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 2. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Fridge rear-left, sink rear-window, stove rear-right OFF, oak island. No unexplained cake or duplicate packaging. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–4.90s · MAYA 5.05–7.62s · DAN 7.77–10.75s · MAYA 10.90–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–3.27s · MAYA 3.37–5.08s · DAN 5.18–7.17s · MAYA 7.27–9.53s.
 
 **Dialogue:**
 **DAN:** The cake is with the family. The sharp tools stay here.
@@ -1495,7 +1497,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAYA:** Yes. Come sit down and enjoy your slice.
 
-## SHOT_071 | 00:17:30–00:17:45 | One honest box on the list
+## SHOT_071 | 00:11:40–00:11:50 | One honest box on the list
 
 **Characters:** DAN, MAYA, NINA. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Composition:** Child-height medium reaction with the adult beside the children, not above their eyeline.
@@ -1505,7 +1507,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 3. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Fridge rear-left, sink rear-window, stove rear-right OFF, oak island. No unexplained cake or duplicate packaging. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–2.53s · NINA 2.68–5.84s · MAYA 5.99–8.27s · DAN 8.42–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.69s · NINA 1.79–3.89s · MAYA 3.99–5.51s · DAN 5.61–8.89s.
 
 **Dialogue:**
 **DAN:** I wanted a perfect party.
@@ -1516,7 +1518,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** That's the part I want to remember when we tell it.
 
-## SHOT_072 | 00:17:45–00:18:00 | Six seats, one celebration
+## SHOT_072 | 00:11:50–00:12:00 | Six seats, one celebration
 
 **Characters:** DAN, MAYA, NINA, LEO, ELLA, MAX. **Location:** HOME_TABLE. **Wardrobe:** W01 only.
 **Composition:** Wide six-person eye-level establishing view; keep original heights and clear door/table axis.
@@ -1526,7 +1528,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 4. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Fixed seats:Dan near-left,Leo left-end,Ella far-left,Maya far-right,Nina right-end,Max near-right. No plate or food refill. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–2.61s · MAYA 2.76–4.66s · NINA 4.81–7.17s · ELLA 7.32–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.74s · MAYA 1.84–3.11s · NINA 3.21–4.78s · ELLA 4.88–8.27s.
 
 **Dialogue:**
 **DAN:** To this very helpful team.
@@ -1537,7 +1539,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **ELLA:** And the person who noticed the green door in the picture.
 
-## SHOT_073 | 00:18:00–00:18:15 | A short hello from Grandpa Ed
+## SHOT_073 | 00:12:00–00:12:10 | A short hello from Grandpa Ed
 
 **Characters:** NINA, DAN, MAX. **Location:** HOME_TABLE. **Wardrobe:** W01 only.
 **Off-screen cast:** ED
@@ -1548,7 +1550,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 1. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Fixed seats:Dan near-left,Leo left-end,Ella far-left,Maya far-right,Nina right-end,Max near-right. No plate or food refill. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ED 0.25–2.90s · NINA 3.05–6.56s · MAX 6.71–9.36s · DAN 9.51–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ED 0.17–1.93s · NINA 2.03–4.37s · MAX 4.47–6.24s · DAN 6.34–9.53s.
 
 **Dialogue:**
 **ED:** Did the family party start yet?
@@ -1559,7 +1561,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** We'll tell you the whole thing once we taste it, Ed.
 
-## SHOT_074 | 00:18:15–00:18:30 | An address beats a lucky guess
+## SHOT_074 | 00:12:10–00:12:20 | An address beats a lucky guess
 
 **Characters:** NINA, DAN, LEO. **Location:** HOME_TABLE. **Wardrobe:** W01 only.
 **Off-screen cast:** ED
@@ -1570,7 +1572,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 2. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Fixed seats:Dan near-left,Leo left-end,Ella far-left,Maya far-right,Nina right-end,Max near-right. No plate or food refill. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ED 0.25–4.29s · DAN 4.44–7.60s · NINA 7.75–9.59s · LEO 9.74–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ED 0.17–2.86s · DAN 2.96–5.07s · NINA 5.17–6.39s · LEO 6.49–9.48s.
 
 **Dialogue:**
 **ED:** A clear address is better than a lucky guess.
@@ -1581,7 +1583,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **LEO:** Bye, Grandpa. We even read the little print this time.
 
-## SHOT_075 | 00:18:30–00:18:45 | The first bite is finally simple
+## SHOT_075 | 00:12:20–00:12:30 | The first bite is finally simple
 
 **Characters:** DAN, MAYA, NINA, LEO, ELLA, MAX. **Location:** HOME_TABLE. **Wardrobe:** W01 only.
 **Composition:** Wide six-person eye-level establishing view; keep original heights and clear door/table axis.
@@ -1591,7 +1593,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 3. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Fixed seats:Dan near-left,Leo left-end,Ella far-left,Maya far-right,Nina right-end,Max near-right. No plate or food refill. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–1.65s · ELLA 1.80–4.08s · MAYA 4.23–6.51s · LEO 6.66–10.70s · DAN 10.85–14.01s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.10s · ELLA 1.20–2.72s · MAYA 2.82–4.34s · LEO 4.44–7.13s · DAN 7.23–9.34s.
 
 **Dialogue:**
 **MAX:** Sweet. Not sour.
@@ -1604,7 +1606,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **DAN:** And I'm glad it found this table.
 
-## SHOT_076 | 00:18:45–00:19:00 | More than the decoration
+## SHOT_076 | 00:12:30–00:12:40 | More than the decoration
 
 **Characters:** DAN, MAYA, NINA. **Location:** HOME_TABLE. **Wardrobe:** W01 only.
 **Composition:** Medium three-quarter view; leave physical space for the scripted action.
@@ -1614,7 +1616,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 4. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Fixed seats:Dan near-left,Leo left-end,Ella far-left,Maya far-right,Nina right-end,Max near-right. No plate or food refill. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.41s · MAYA 3.56–4.52s · DAN 4.67–8.27s · NINA 8.42–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.27s · MAYA 2.37–3.01s · DAN 3.11–5.51s · NINA 5.61–9.19s.
 
 **Dialogue:**
 **DAN:** The ribbons were not the best part.
@@ -1625,7 +1627,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **NINA:** I'd stay with you even if the strawberry were all we had.
 
-## SHOT_077 | 00:19:00–00:19:15 | A different kind of perfect
+## SHOT_077 | 00:12:40–00:12:50 | A different kind of perfect
 
 **Characters:** LEO, ELLA, DAN. **Location:** HOME_TABLE. **Wardrobe:** W01 only.
 **Composition:** Medium eye-level group coverage; camera stays on the established room/porch side.
@@ -1635,7 +1637,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 1. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Fixed seats:Dan near-left,Leo left-end,Ella far-left,Maya far-right,Nina right-end,Max near-right. No plate or food refill. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–3.52s · ELLA 3.67–6.48s · DAN 6.63–7.62s · ELLA 7.77–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.35s · ELLA 2.45–4.32s · DAN 4.42–5.08s · ELLA 5.18–8.27s.
 
 **Dialogue:**
 **LEO:** You do not have to guess alone.
@@ -1646,7 +1648,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **ELLA:** A second pair of eyes doesn't take up much room.
 
-## SHOT_078 | 00:19:15–00:19:30 | The little assistant retires
+## SHOT_078 | 00:12:50–00:13:00 | The little assistant retires
 
 **Characters:** MAX, NINA, ELLA. **Location:** HOME_TABLE. **Wardrobe:** W01 only.
 **Composition:** Over-shoulder medium with the active prop visible and other actors distinct.
@@ -1656,7 +1658,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 2. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Fixed seats:Dan near-left,Leo left-end,Ella far-left,Maya far-right,Nina right-end,Max near-right. No plate or food refill. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–3.52s · NINA 3.67–5.57s · ELLA 5.72–7.17s · MAX 7.32–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.35s · NINA 2.45–3.71s · ELLA 3.81–4.78s · MAX 4.88–8.27s.
 
 **Dialogue:**
 **MAX:** Emergency strawberry, thank you for your service.
@@ -1667,7 +1669,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **MAX:** Good. Nobody else had to share one tiny berry six ways.
 
-## SHOT_079 | 00:19:30–00:19:45 | One last useful question
+## SHOT_079 | 00:13:00–00:13:10 | One last useful question
 
 **Characters:** DAN, MAYA, NINA, LEO, ELLA, MAX. **Location:** HOME_TABLE. **Wardrobe:** W01 only.
 **Composition:** Wide six-person eye-level establishing view; keep original heights and clear door/table axis.
@@ -1677,7 +1679,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 3. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Fixed seats:Dan near-left,Leo left-end,Ella far-left,Maya far-right,Nina right-end,Max near-right. No plate or food refill. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–4.93s · MAYA 5.08–5.96s · NINA 6.11–7.57s · LEO 7.72–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–3.29s · MAYA 3.39–3.97s · NINA 4.07–5.05s · LEO 5.15–8.27s.
 
 **Dialogue:**
 **DAN:** Would anyone like to stay right here for a while?
@@ -1688,17 +1690,17 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 
 **LEO:** Fine by me. I know exactly where my plate is.
 
-## SHOT_080 | 00:19:45–00:20:00 | The right place all along
+## SHOT_080 | 00:13:10–00:13:20 | The right place all along
 
 **Characters:** DAN, MAYA, NINA, LEO, ELLA, MAX. **Location:** HOME_TABLE. **Wardrobe:** W01 only.
 **Composition:** Wide six-person eye-level establishing view; keep original heights and clear door/table axis.
 **Action:** Warm wide hold of the six original family members at the canonical table. Fade the editable end-card into the final two seconds inside this shot, keeping the current food states.
 **Starting continuity:** Six at table with partly eaten single servings; Max’s strawberry gone; no phone call active.
-**Ending continuity:** Story closes exactly20:00; family together; no whole cake, seventh guest or practice segment.
+**Ending continuity:** Story closes exactly13:20; family together; no whole cake, seventh guest or practice segment.
 **Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 4. Illustrated composition draft; creator approval and individual motion first frame pending.
 **Continuity:** Fixed seats:Dan near-left,Leo left-end,Ella far-left,Maya far-right,Nina right-end,Max near-right. No plate or food refill. W01, LEFT watch, RIGHT pocket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–2.97s · DAN 3.12–6.28s · ELLA 6.43–10.47s · MAX 10.62–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.98s · DAN 2.08–4.19s · ELLA 4.29–6.98s · MAX 7.08–9.19s.
 
 **Dialogue:**
 **MAX:** The party found the right house.
