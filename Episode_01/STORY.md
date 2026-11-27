@@ -22,7 +22,7 @@ Only **SHOT_001–SHOT_080** identify active story slots. BOARD_01 contains SHOT
 
 Keep the permanent six faces, W01 clothing and family roles. Maya and Nina remain home while Dan and the three children shop. Their phone dialogue is heard **off-screen only**, with no home inset or invented market appearance. The vendor is an off-screen/hands-only supporting role. The **Off-screen voices** field names every voice absent from the visible cast; NONE means no such voice.
 
-The BLUE note/tote belongs to Maya's salad: 4 carrots, 3 tomatoes, 1 cucumber, 1 loose-leaf lettuce and 1 red bell pepper. The YELLOW note/tote belongs to Nina's soup: 6 potatoes, 2 onions, 1 broccoli head, 2 ears of corn and 1 bag of spinach. The real headings never change; Dan reverses them in memory. All quantities, wardrobe, geography and safe preparation follow [CONTINUITY.md](CONTINUITY.md).
+The BLUE note/tote belongs to Maya's salad: 4 carrots, 3 tomatoes, 1 cucumber, 1 loose-leaf lettuce and 1 red bell pepper. The YELLOW note/tote belongs to Nina's soup: 6 potatoes, 2 onions, 1 broccoli head, 2 ears of corn and 1 bag of spinach. The real headings never change; Dan reverses them in memory. All quantities, wardrobe, geography and safe preparation follow [CONTINUITY.md (historical reference)](https://github.com/pujahalder34675-creator/ai-story-building/blob/8362bf7a5ec009104a53857e9bee314a843c1a14/Episode_01/CONTINUITY.md).
 
 Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and filler movements. Use natural dialogue pacing and purposeful actions; do not add silence or accelerate speech just to fit the slot. Confirm timing against recorded performances before final editing. Longer washing, sorting, travel, cooking and eating tasks use explicit story-time ellipses. Dialogue is sequential natural General American conversation; subtitle timings are provisional until real performances exist. Use exact SVG artwork for list/receipt lettering and money. No one eats raw soup potatoes, and children stay away from knives and heat.
 
@@ -37,7 +37,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** Maya hands Dan the BLUE salad note and points to its carrot drawing. He accepts it with his left hand. The title is an editorial overlay within the opening two seconds.  
 **Opening state:** Morning; two separate notes on the island; totes folded on a chair; woven basket empty on the floor.  
 **End state:** Dan holds the blue note; Maya has released it; yellow note remains on the island.  
-**Picture:** [BOARD_01.png](assets/storyboards/BOARD_01.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_01.png](storyboards/BOARD_01.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** The blue heading is SALAD throughout. Dan wears the original sky-blue polo and LEFT-wrist watch.
 
 **Dialogue:**
@@ -58,7 +58,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** Nina lifts the YELLOW soup note from the island and gives it to Dan. He stacks it behind the blue paper, keeping both separate sheets intact.  
 **Opening state:** Blue note in Dan's left hand; yellow note on island; no food purchased.  
 **End state:** Dan holds two overlapping notes with blue in front; both tote bags remain folded.  
-**Picture:** [BOARD_01.png](assets/storyboards/BOARD_01.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_01.png](storyboards/BOARD_01.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** The yellow heading is SOUP. Nina and Maya are equal partners with different dishes, not competing requests.
 
 **Dialogue:**
@@ -79,7 +79,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** Dan lays both notes side by side on the island. Maya points to blue and Nina to yellow; he reads their dish names correctly before picking the sheets up again.  
 **Opening state:** Two notes overlap in Dan's hands; the island is clear.  
 **End state:** Dan holds both sheets again, blue in front; no paper is left behind.  
-**Picture:** [BOARD_01.png](assets/storyboards/BOARD_01.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_01.png](storyboards/BOARD_01.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** The audience can see the true assignments. Later confusion changes Dan's memory, never the printed headings.
 
 **Dialogue:**
@@ -100,7 +100,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** Leo, Ella and Max enter together. Dan raises the stacked notes; his thumb partly covers the headings. Leo offers to share the checking job.  
 **Opening state:** Dan holds both notes; children arriving empty-handed; adults' dishes not prepared.  
 **End state:** All three children stand beside Dan; the two notes remain stacked blue-first.  
-**Picture:** [BOARD_01.png](assets/storyboards/BOARD_01.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_01.png](storyboards/BOARD_01.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Only the six permanent family members belong to this home; the shot shows Dan and the three named children.
 
 **Dialogue:**
@@ -121,7 +121,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** Dan folds the two sheets together into his RIGHT trouser pocket. He says their purposes backward; Leo notices the slip without grabbing the papers.  
 **Opening state:** Blue-front notes in Dan's hands; both bags still folded.  
 **End state:** Notes in right pocket; their headings unchanged; Dan's remembered assignments reversed.  
-**Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_02.png](storyboards/BOARD_02.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** No actual salad or soup has been swapped. Keep the watch on LEFT wrist and the paper pocket on RIGHT.
 
 **Dialogue:**
@@ -142,7 +142,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** Ella picks up the two folded empty reusable totes, one BLUE and one YELLOW. Max lifts the single empty woven basket by its blue handle.  
 **Opening state:** Totes folded on chair; empty basket on floor; children have empty hands.  
 **End state:** Ella carries both empty totes; Max carries the empty blue-handled basket.  
-**Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_02.png](storyboards/BOARD_02.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** One basket and exactly two totes. Neither tote contains produce or a second basket.
 
 **Dialogue:**
@@ -163,7 +163,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** Dan checks that the three children are beside him, then leads them out at a walking pace. Ella holds the folded totes and Max the empty basket.  
 **Opening state:** Notes pocketed; all shopping containers empty; Maya and Nina remain home.  
 **End state:** Dan and all three children leave together with the planned containers; no loose paper remains in the kitchen.  
-**Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_02.png](storyboards/BOARD_02.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** The next shot uses a clear travel cut. Nobody goes ahead alone or changes wardrobe.
 
 **Dialogue:**
@@ -184,7 +184,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** After an uneventful-walk cut, Dan and the children enter the market together. They stop beside the vegetable stall on the right, with checkout visible farther right.  
 **Opening state:** Morning; Dan's two notes in right pocket; empty basket with Max and empty totes with Ella.  
 **End state:** All four stand on the buyer side of the same stall; shopping has not started.  
-**Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_02.png](storyboards/BOARD_02.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Maya and Nina remain home. No close-up strangers or extra family members are added. Basket at end: empty. Both colored totes remain empty.
 
 **Dialogue:**
@@ -205,7 +205,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** Max offers the empty basket to Dan. Dan accepts its blue handle with his left hand while Max gently flexes an imaginary strong arm.  
 **Opening state:** Empty basket in Max's hand; folded totes still with Ella off-frame.  
 **End state:** Empty basket transferred to Dan's left hand; Max's hands are empty.  
-**Picture:** [BOARD_03.png](assets/storyboards/BOARD_03.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_03.png](storyboards/BOARD_03.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** The basket is not full or heavy yet. Keep the transfer calm and away from the aisle. Basket at end: empty. Both colored totes remain empty.
 
 **Dialogue:**
@@ -226,7 +226,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** Dan sets the empty basket on a dry counter space. Ella hangs both still-empty totes together on a nearby hook, freeing her hands to help.  
 **Opening state:** Dan holds empty basket; Ella holds folded totes; no selected produce.  
 **End state:** Basket on counter; blue and yellow totes visibly empty on the hook; family stays together.  
-**Picture:** [BOARD_03.png](assets/storyboards/BOARD_03.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_03.png](storyboards/BOARD_03.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Counter and bag hook remain in the same stall area throughout selection. Containers do not multiply between close views. Basket at end: empty. Both colored totes remain empty.
 
 **Dialogue:**
@@ -247,7 +247,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** Dan glances at neighboring shop baskets but keeps his hand on their own blue handle. Leo identifies it, and Dan leaves every other basket untouched.  
 **Opening state:** Their empty basket on counter; neighboring baskets belong to the stall.  
 **End state:** Dan has confirmed their one basket; no container exchange occurs.  
-**Picture:** [BOARD_03.png](assets/storyboards/BOARD_03.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_03.png](storyboards/BOARD_03.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Blue basket handle is a recognition cue, not another blue shopping note or a third tote. Basket at end: empty. Both colored totes remain empty.
 
 **Dialogue:**
@@ -268,7 +268,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** Dan unfolds the notes as a stack and misreads the carrot quantity. Ella points to the single digit. He stops reaching for a large bunch before taking anything.  
 **Opening state:** Basket empty; notes taken from right pocket; carrots remain display stock.  
 **End state:** Dan understands the quantity is four; no carrots selected yet.  
-**Picture:** [BOARD_03.png](assets/storyboards/BOARD_03.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_03.png](storyboards/BOARD_03.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Nobody buys forty carrots, damages produce or wastes food. Exact note lettering is supplied editorially. Basket at end: empty. Both colored totes remain empty.
 
 **Dialogue:**
@@ -289,7 +289,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** Ella selects exactly four loose carrots from shop stock, places them on the counter and counts them. Dan lowers those same four into the basket and folds both notes back into his right pocket.  
 **Opening state:** Basket empty; Dan holds unfolded notes; carrots remain unselected shop stock in their crate.  
 **End state:** Exactly four carrots in basket; no loose selected carrots left outside; notes pocketed.  
-**Picture:** [BOARD_04.png](assets/storyboards/BOARD_04.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_04.png](storyboards/BOARD_04.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Display carrots stay separate from these four selected carrots. Both tote bags remain on their hook. Basket at end: 4 carrots. Both colored totes remain empty.
 
 **Dialogue:**
@@ -310,7 +310,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** Dan looks from the four selected carrots to the remaining carrot stock. Ella gestures toward the next crate instead of adding another handful.  
 **Opening state:** Four carrots in the basket; both notes in Dan's right pocket.  
 **End state:** Carrot quantity unchanged; Dan and Ella turn toward tomatoes.  
-**Picture:** [BOARD_04.png](assets/storyboards/BOARD_04.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_04.png](storyboards/BOARD_04.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** One checked quantity is enough; this is a decision to move on, not a second carrot purchase. Basket at end: 4 carrots. Both colored totes remain empty.
 
 **Dialogue:**
@@ -331,7 +331,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** Leo selects exactly three sound ripe tomatoes and sets them in one shallow paper tray. Dan holds the empty edge of the tray steady while they settle.  
 **Opening state:** Basket contains four carrots; tomato stock untouched before selection.  
 **End state:** Three selected tomatoes in one tray on counter; no tomato has entered basket yet.  
-**Picture:** [BOARD_04.png](assets/storyboards/BOARD_04.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_04.png](storyboards/BOARD_04.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Selected food on the counter and basket contents are separate states; do not duplicate the three tomatoes. Basket at end: 4 carrots. Both colored totes remain empty.
 
 **Dialogue:**
@@ -352,7 +352,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** Dan places the single three-tomato tray beside the four carrots. He checks the item on the stacked notes, then returns both folded papers to his right pocket.  
 **Opening state:** Four carrots in basket; three tomatoes in tray on counter; notes pocketed until the check.  
 **End state:** Basket holds four carrots and the three-tomato tray; counter tray space empty again.  
-**Picture:** [BOARD_04.png](assets/storyboards/BOARD_04.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_04.png](storyboards/BOARD_04.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Tomatoes remain round and protected. Mark the printed note in the edit rather than inventing generated numerals. Basket at end: 4 carrots, 3 protected tomatoes. Both colored totes remain empty.
 
 **Dialogue:**
@@ -373,7 +373,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** Leo points out a lower space for future heavier produce. Dan shifts the basket slightly so the tomato tray stays level, without taking out or adding food.  
 **Opening state:** Four carrots and three protected tomatoes in basket; notes pocketed.  
 **End state:** Selected produce unchanged; basket sits level and stable on counter.  
-**Picture:** [BOARD_05.png](assets/storyboards/BOARD_05.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_05.png](storyboards/BOARD_05.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Protection is planned before the potato sack arrives; no fruit or extra vegetable is introduced. Basket at end: 4 carrots, 3 protected tomatoes. Both colored totes remain empty.
 
 **Dialogue:**
@@ -394,7 +394,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** Dan lifts one zucchini over its own crate and guesses it is a cucumber. Ella points to the bumpy dark-green cucumbers in the next crate, without putting either in the basket.  
 **Opening state:** Carrots and protected tomatoes in basket; no cucumber or zucchini selected.  
 **End state:** Dan still holds one unpurchased zucchini over its crate; cucumber identified nearby.  
-**Picture:** [BOARD_05.png](assets/storyboards/BOARD_05.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_05.png](storyboards/BOARD_05.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** The zucchini is display stock and will be returned. Similar shape does not make it the requested ingredient. Basket at end: 4 carrots, 3 protected tomatoes. Both colored totes remain empty.
 
 **Dialogue:**
@@ -415,7 +415,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** Dan returns the zucchini carefully to its own crate. Ella selects one sound bumpy cucumber, gives it to Dan and he places it beside the carrots.  
 **Opening state:** Dan holds display zucchini; basket has carrots and three protected tomatoes.  
 **End state:** Zucchini returned; exactly one cucumber added to basket; none remain in either traveler's hands.  
-**Picture:** [BOARD_05.png](assets/storyboards/BOARD_05.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_05.png](storyboards/BOARD_05.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** No zucchini is bought or carried away. The true blue-list ingredient is one cucumber. Basket at end: 4 carrots, 3 protected tomatoes, 1 cucumber. Both colored totes remain empty.
 
 **Dialogue:**
@@ -436,7 +436,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** Ella points to the cucumber's bumpy skin while Dan studies it without removing it. He then turns toward the potato section farther along the same counter.  
 **Opening state:** Basket contains four carrots, three tomatoes and one cucumber.  
 **End state:** Cucumber untouched in basket; Dan ready to check the next ingredient.  
-**Picture:** [BOARD_05.png](assets/storyboards/BOARD_05.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_05.png](storyboards/BOARD_05.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Comparison is finished; do not pick up another cucumber or return the already selected one to display stock. Basket at end: 4 carrots, 3 protected tomatoes, 1 cucumber. Both colored totes remain empty.
 
 **Dialogue:**
@@ -457,7 +457,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** Dan takes the notes from his right pocket. Leo notices the yellow heading is covered by blue and asks him to check it before choosing a dish name.  
 **Opening state:** Notes pocketed until Dan opens them; potatoes unselected. Basket: 4 carrots, 3 protected tomatoes, 1 cucumber.  
 **End state:** Dan holds the blue-front stack; yellow heading partly covered; no potato selected. Basket: 4 carrots, 3 protected tomatoes, 1 cucumber.  
-**Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_06.png](storyboards/BOARD_06.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** The two papers remain separate sheets and neither printed heading changes. Both colored totes remain empty.
 
 **Dialogue:**
@@ -478,7 +478,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** Dan reads six potatoes from the yellow item line while calling it the salad note. He supports one potato above its crate; Leo points toward the covered heading.  
 **Opening state:** Notes in Dan's right hand; potatoes still shop stock. Basket: 4 carrots, 3 protected tomatoes, 1 cucumber.  
 **End state:** One shop potato supported above its crate; none in basket; dish assignment uncertain. Basket: 4 carrots, 3 protected tomatoes, 1 cucumber.  
-**Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_06.png](storyboards/BOARD_06.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Dan's remembered dish name is wrong; the yellow note belongs to Nina's soup. No raw potato is eaten. Both colored totes remain empty.
 
 **Dialogue:**
@@ -499,7 +499,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** Leo counts six potatoes into a paper sack. Dan briefly lifts the protected tomato tray, settles the sack low in the basket, and returns that same tray above it.  
 **Opening state:** Dan holds one potato above its bin. Five more must be counted into the sack with it. Basket: 4 carrots, 3 protected tomatoes, 1 cucumber.
 **End state:** Six potatoes in one sack at bottom; tomato tray level above; notes folded into right pocket. Basket: 4 carrots, 3 protected tomatoes, 1 cucumber, 6 potatoes in one paper sack.  
-**Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_06.png](storyboards/BOARD_06.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** The potato already held is included in six, not a seventh. Heavy food goes below tomatoes. Both colored totes remain empty.
 
 **Dialogue:**
@@ -520,7 +520,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** Ella checks that the potato sack is not pressing against the tomatoes. Dan settles the handle outward and leaves all ingredients in place, saving the dish question for both headings together.  
 **Opening state:** Potato sack low, protected tomatoes above, totes on their hook. Basket: 4 carrots, 3 protected tomatoes, 1 cucumber, 6 potatoes in one paper sack.  
 **End state:** Contents unchanged and protected; handle clear of fragile produce. Basket: 4 carrots, 3 protected tomatoes, 1 cucumber, 6 potatoes in one paper sack.  
-**Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_06.png](storyboards/BOARD_06.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Inspection does not add food or move anything to either tote. Both colored totes remain empty.
 
 **Dialogue:**
@@ -541,7 +541,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** Dan supports two intact onions above their crate and pretends to dab an eye with his wrist. Max studies the uncut skins and catches the joke; neither onion is peeled or bitten.  
 **Opening state:** Onions in display before Dan lifts the pair. Basket: 4 carrots, 3 protected tomatoes, 1 cucumber, 6 potatoes in one paper sack.  
 **End state:** Exactly two intact onions in Dan's hands, ready to pack. Basket: 4 carrots, 3 protected tomatoes, 1 cucumber, 6 potatoes in one paper sack.  
-**Picture:** [BOARD_07.png](assets/storyboards/BOARD_07.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_07.png](storyboards/BOARD_07.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Touching whole uncut onions does not cause tears; Dan is deliberately theatrical. Both colored totes remain empty.
 
 **Dialogue:**
@@ -562,7 +562,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** Max counts the two onions while Dan lowers them beside the potato sack. Dan leaves the tomato tray clear and takes no other onion.  
 **Opening state:** Exactly two onions in Dan's hands above counter. Basket: 4 carrots, 3 protected tomatoes, 1 cucumber, 6 potatoes in one paper sack.  
 **End state:** Two onions added; no selected onions left outside basket. Basket: 4 carrots, 3 protected tomatoes, 1 cucumber, 6 potatoes in one paper sack, 2 onions.  
-**Picture:** [BOARD_07.png](assets/storyboards/BOARD_07.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_07.png](storyboards/BOARD_07.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Max points without reaching into other display stock; neither tote is filled. Both colored totes remain empty.
 
 **Dialogue:**
@@ -583,7 +583,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** Leo gestures from packed ingredients to empty totes. Dan agrees to keep all purchases together until both headings can be spread out, instead of guessing a bag assignment now.  
 **Opening state:** Onions packed; notes in right pocket; both totes empty on hook. Basket: 4 carrots, 3 protected tomatoes, 1 cucumber, 6 potatoes in one paper sack, 2 onions.  
 **End state:** No food moved; Dan commits to checking before sorting. Basket: 4 carrots, 3 protected tomatoes, 1 cucumber, 6 potatoes in one paper sack, 2 onions.  
-**Picture:** [BOARD_07.png](assets/storyboards/BOARD_07.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_07.png](storyboards/BOARD_07.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** The dish names are confused, but each requested quantity stays correct. Nobody hides information or mocks Dan. Both colored totes remain empty.
 
 **Dialogue:**
@@ -604,7 +604,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** Dan lifts one sound broccoli head above its crate. Max studies the branching shape like a forest while Dan supports the stalk; it stays outside the basket until quantity is confirmed.  
 **Opening state:** Broccoli unselected before Dan lifts one head. Basket: 4 carrots, 3 protected tomatoes, 1 cucumber, 6 potatoes in one paper sack, 2 onions.  
 **End state:** One broccoli head in Dan's hand; none in basket yet. Basket: 4 carrots, 3 protected tomatoes, 1 cucumber, 6 potatoes in one paper sack, 2 onions.  
-**Picture:** [BOARD_07.png](assets/storyboards/BOARD_07.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_07.png](storyboards/BOARD_07.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** One head means one purchase, not several trees or one floret. No raw tasting. Both colored totes remain empty.
 
 **Dialogue:**
@@ -625,7 +625,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** Ella points to the one-broccoli line on the yellow note. Dan adds the same head without pressing its crown against tomatoes, then pockets both notes again.  
 **Opening state:** One selected broccoli in Dan's hand; notes briefly open for check. Basket: 4 carrots, 3 protected tomatoes, 1 cucumber, 6 potatoes in one paper sack, 2 onions.  
 **End state:** One broccoli head added; both notes folded into right pocket. Basket: 4 carrots, 3 protected tomatoes, 1 cucumber, 6 potatoes in one paper sack, 2 onions, 1 broccoli head.  
-**Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_08.png](storyboards/BOARD_08.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** The broccoli belongs to Nina's soup even while Dan's remembered dish labels are wrong. Both colored totes remain empty.
 
 **Dialogue:**
@@ -646,7 +646,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** Max notices a sound red pepper in its bin. Dan cups an empty hand beside his ear, waiting for it to ring without shaking or touching any pepper.  
 **Opening state:** All peppers still shop stock. Basket: 4 carrots, 3 protected tomatoes, 1 cucumber, 6 potatoes in one paper sack, 2 onions, 1 broccoli head.  
 **End state:** Requested red pepper identified but not selected. Basket: 4 carrots, 3 protected tomatoes, 1 cucumber, 6 potatoes in one paper sack, 2 onions, 1 broccoli head.  
-**Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_08.png](storyboards/BOARD_08.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** The joke is about the word bell. No green or yellow pepper becomes a purchase. Both colored totes remain empty.
 
 **Dialogue:**
@@ -667,7 +667,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** Dan opens the stacked notes. Ella points to the red-pepper drawing on blue; he compares the red bin with neighboring colors without changing either note heading.  
 **Opening state:** Red pepper unselected; notes taken from right pocket. Basket: 4 carrots, 3 protected tomatoes, 1 cucumber, 6 potatoes in one paper sack, 2 onions, 1 broccoli head.  
 **End state:** One RED bell pepper confirmed; papers still overlap blue-first. Basket: 4 carrots, 3 protected tomatoes, 1 cucumber, 6 potatoes in one paper sack, 2 onions, 1 broccoli head.  
-**Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_08.png](storyboards/BOARD_08.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Blue is the paper color and Maya's list; the requested pepper is red. Both colored totes remain empty.
 
 **Dialogue:**
@@ -688,7 +688,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** Dan gently inspects one sound red bell pepper without squeezing it. Leo checks intact skin and the single-item quantity; it is not yet placed in any travel container.  
 **Opening state:** One red pepper lifted over its own bin. Basket: 4 carrots, 3 protected tomatoes, 1 cucumber, 6 potatoes in one paper sack, 2 onions, 1 broccoli head.  
 **End state:** Dan holds one chosen red pepper ready to pack; notes open in other hand. Basket: 4 carrots, 3 protected tomatoes, 1 cucumber, 6 potatoes in one paper sack, 2 onions, 1 broccoli head.  
-**Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_08.png](storyboards/BOARD_08.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Inspect without crushing or tasting unwashed produce. Display stock stays separate. Both colored totes remain empty.
 
 **Dialogue:**
@@ -709,7 +709,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** Dan places the single red pepper in a clear side space. Ella checks its item line using editorial artwork; Dan pockets both folded notes afterward.  
 **Opening state:** One selected red pepper held above basket; notes open. Basket: 4 carrots, 3 protected tomatoes, 1 cucumber, 6 potatoes in one paper sack, 2 onions, 1 broccoli head.  
 **End state:** One red bell pepper added; notes back in right pocket. Basket: 4 carrots, 3 protected tomatoes, 1 cucumber, 6 potatoes in one paper sack, 2 onions, 1 broccoli head, 1 red bell pepper.  
-**Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_09.png](storyboards/BOARD_09.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** No second pepper remains in a hand or another container. Both colored totes remain empty.
 
 **Dialogue:**
@@ -730,7 +730,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** Max points to two ears of corn in their husks. Dan leans as though hearing them, keeping both hands empty while Max wonders about their name.  
 **Opening state:** Corn unselected; seven ingredient lines already chosen. Basket: 4 carrots, 3 protected tomatoes, 1 cucumber, 6 potatoes in one paper sack, 2 onions, 1 broccoli head, 1 red bell pepper.  
 **End state:** Two suitable ears identified in crate; no corn moved. Basket: 4 carrots, 3 protected tomatoes, 1 cucumber, 6 potatoes in one paper sack, 2 onions, 1 broccoli head, 1 red bell pepper.  
-**Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_09.png](storyboards/BOARD_09.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Ears of corn are produce units, not listening organs. No raw biting or husks dropped on floor. Both colored totes remain empty.
 
 **Dialogue:**
@@ -751,7 +751,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** Dan lifts exactly two sound ears. Leo compares their quantity with the yellow note while Dan keeps the cobs clear of the pepper and tomato tray.  
 **Opening state:** Two ears identified in display; notes briefly unfolded. Basket: 4 carrots, 3 protected tomatoes, 1 cucumber, 6 potatoes in one paper sack, 2 onions, 1 broccoli head, 1 red bell pepper.  
 **End state:** Exactly two corn ears held ready for basket. Basket: 4 carrots, 3 protected tomatoes, 1 cucumber, 6 potatoes in one paper sack, 2 onions, 1 broccoli head, 1 red bell pepper.  
-**Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_09.png](storyboards/BOARD_09.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Two ears does not mean two bags or a crate. Husks stay intact at the stall. Both colored totes remain empty.
 
 **Dialogue:**
@@ -772,7 +772,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** Dan places the two ears along the basket side, away from the tomato tray. Max keeps his hands clear and nods politely; notes return to Dan's right pocket.  
 **Opening state:** Two ears above basket; notes open until check ends. Basket: 4 carrots, 3 protected tomatoes, 1 cucumber, 6 potatoes in one paper sack, 2 onions, 1 broccoli head, 1 red bell pepper.  
 **End state:** Exactly two ears added; no corn left in hands; notes pocketed. Basket: 4 carrots, 3 protected tomatoes, 1 cucumber, 6 potatoes in one paper sack, 2 onions, 1 broccoli head, 1 red bell pepper, 2 ears of corn.  
-**Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_09.png](storyboards/BOARD_09.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Corn does not become extra kernels or duplicate ears in another container. Both colored totes remain empty.
 
 **Dialogue:**
@@ -795,7 +795,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** Dan supports one cabbage over its crate and wonders whether it is the requested lettuce. Ella points toward the open leaves in the next bin without selecting another item.  
 **Opening state:** No leafy greens selected; one shop cabbage lifted for comparison. Basket: 4 carrots, 3 protected tomatoes, 1 cucumber, 6 potatoes in one paper sack, 2 onions, 1 broccoli head, 1 red bell pepper, 2 ears of corn.  
 **End state:** Cabbage stays above its crate; correct lettuce bin identified. Basket: 4 carrots, 3 protected tomatoes, 1 cucumber, 6 potatoes in one paper sack, 2 onions, 1 broccoli head, 1 red bell pepper, 2 ears of corn.  
-**Picture:** [BOARD_10.png](assets/storyboards/BOARD_10.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_10.png](storyboards/BOARD_10.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Cabbage is not purchased. Its tight round form differs from loose-leaf lettuce. Both colored totes remain empty.
 
 **Dialogue:**
@@ -816,7 +816,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** Dan returns the intact cabbage to its own crate. Ella supports one sound loose-leaf lettuce above its bin while he compares its open leaves with the cabbage left behind.  
 **Opening state:** Dan holds unpurchased cabbage; no purchased leafy greens yet. Basket: 4 carrots, 3 protected tomatoes, 1 cucumber, 6 potatoes in one paper sack, 2 onions, 1 broccoli head, 1 red bell pepper, 2 ears of corn.  
 **End state:** Cabbage returned; one selected lettuce supported outside basket. Basket: 4 carrots, 3 protected tomatoes, 1 cucumber, 6 potatoes in one paper sack, 2 onions, 1 broccoli head, 1 red bell pepper, 2 ears of corn.  
-**Picture:** [BOARD_10.png](assets/storyboards/BOARD_10.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_10.png](storyboards/BOARD_10.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Returned cabbage remains shop stock. Loose leaves do not become a second lettuce purchase. Both colored totes remain empty.
 
 **Dialogue:**
@@ -837,7 +837,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** Ella gives Dan the selected lettuce. He places it on top without trapping it under the potato sack; Ella checks the protected tomato tray remains level beside it.  
 **Opening state:** One selected lettuce above counter; prior food carefully packed. Basket: 4 carrots, 3 protected tomatoes, 1 cucumber, 6 potatoes in one paper sack, 2 onions, 1 broccoli head, 1 red bell pepper, 2 ears of corn.  
 **End state:** One loose-leaf lettuce added on top; no selected leaves outside. Basket: 4 carrots, 3 protected tomatoes, 1 cucumber, 6 potatoes in one paper sack, 2 onions, 1 broccoli head, 1 red bell pepper, 2 ears of corn, 1 loose-leaf lettuce.  
-**Picture:** [BOARD_10.png](assets/storyboards/BOARD_10.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_10.png](storyboards/BOARD_10.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** No cabbage, second lettuce or extra bag appears. Heavy produce stays low. Both colored totes remain empty.
 
 **Dialogue:**
@@ -858,7 +858,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** Leo scans purchases without unloading them. Max notices the unchecked spinach-bag drawing when Dan opens the stacked notes; both totes remain empty on their hook.  
 **Opening state:** Nine ingredient lines selected; spinach unselected; notes taken from right pocket. Basket: 4 carrots, 3 protected tomatoes, 1 cucumber, 6 potatoes in one paper sack, 2 onions, 1 broccoli head, 1 red bell pepper, 2 ears of corn, 1 loose-leaf lettuce.  
 **End state:** Spinach identified as the last ingredient; no other produce moves. Basket: 4 carrots, 3 protected tomatoes, 1 cucumber, 6 potatoes in one paper sack, 2 onions, 1 broccoli head, 1 red bell pepper, 2 ears of corn, 1 loose-leaf lettuce.  
-**Picture:** [BOARD_10.png](assets/storyboards/BOARD_10.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_10.png](storyboards/BOARD_10.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** A check is not a second purchase. Both real headings remain intact, though yellow is partly covered. Both colored totes remain empty.
 
 **Dialogue:**
@@ -879,7 +879,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** Max identifies one sound bag of spinach and Dan lifts it above the display. They read the spinach line on the partly overlapping yellow note before placing anything else in the basket.  
 **Opening state:** Nine ingredient lines in basket; spinach unselected; notes open in Dan's hand.  
 **End state:** One spinach bag selected in Dan's hand; no spinach in basket yet.  
-**Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_11.png](storyboards/BOARD_11.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Leaves in the single bag are one ingredient line, not another lettuce or an extra tote.
 
 **Dialogue:**
@@ -900,7 +900,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** Dan sets the single spinach bag above the sturdy produce without crushing the lettuce or tomatoes. Leo checks the tenth ingredient line; Dan keeps both notes in hand instead of pocketing them again.  
 **Opening state:** Nine lines selected; one spinach bag in Dan's hand; both totes empty on hook.  
 **End state:** Basket holds all ten ingredient lines; no selected food remains in hands; notes still open.  
-**Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_11.png](storyboards/BOARD_11.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Final basket: 4 carrots, 3 protected tomatoes, 1 cucumber, 6 potatoes, 2 onions, 1 broccoli head, 1 red pepper, 2 corn ears, 1 lettuce and 1 spinach bag.
 
 **Dialogue:**
@@ -921,7 +921,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** Ella points to a dry clear counter space. Dan separates the two notes and lays BLUE on the left and YELLOW on the right, revealing both unchanged headings. Leo waits while he reads.  
 **Opening state:** Full basket; two overlapping notes in Dan's hand; both totes still empty.  
 **End state:** Notes flat and separate: BLUE SALAD left, YELLOW SOUP right; food unchanged.  
-**Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_11.png](storyboards/BOARD_11.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Exact headings are editorial SVG artwork. This is the first full side-by-side check at the stall, not a change to the papers themselves.
 
 **Dialogue:**
@@ -942,7 +942,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** Dan looks from the blue salad heading to the yellow soup heading, then gives a small sheepish smile. Max points to the correctly chosen vegetables, reassuring him that no food must be thrown away.  
 **Opening state:** Both headings revealed; all ten ingredients in one basket; empty totes on hook.  
 **End state:** Dan recognizes he reversed the dish names in memory; correct purchases retained.  
-**Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_11.png](storyboards/BOARD_11.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Both mothers' requests were clear. The family repairs a small misunderstanding without ridicule, blame or changing a printed heading.
 
 **Dialogue:**
@@ -963,7 +963,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** Dan takes his phone from the right pocket and calls home while Leo keeps the full basket steady. Maya answers off-screen; the blue note stays flat beside the yellow on the dry counter.  
 **Opening state:** Notes separate; full basket; empty totes on hook; phone pocketed.  
 **End state:** Call connected; phone at Dan's RIGHT ear; Maya remains home and unseen.  
-**Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_12.png](storyboards/BOARD_12.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Maya is heard only. No woman appears at the market or inside a picture-in-picture. No food changes container during the call.
 
 **Dialogue:**
@@ -984,7 +984,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** Nina takes her turn on the home phone off-screen. Dan listens with his phone still at his right ear and points with his free hand toward the yellow heading. Max watches from the buyer side.  
 **Opening state:** Same connected call; phone at right ear; both notes flat; full basket.  
 **End state:** Nina's soup assignment confirmed; phone call continues; both totes remain empty.  
-**Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_12.png](storyboards/BOARD_12.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Nina stays home and unseen. Yellow belongs to soup: potatoes, onions, broccoli, corn and spinach. No extra purchase occurs.
 
 **Dialogue:**
@@ -1005,7 +1005,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** Dan speaks warmly to both women through the same call. Maya and Nina reassure him in separate off-screen turns. The children exchange relieved smiles without taking the phone or moving produce.  
 **Opening state:** Phone at Dan's right ear; Maya and Nina at home; all purchases still in basket.  
 **End state:** Dan accepts help and knows both correct assignments; call ready to end.  
-**Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_12.png](storyboards/BOARD_12.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Both off-screen voices are the permanent mothers, not new shoppers or narrators. No home cutaway or floating faces.
 
 **Dialogue:**
@@ -1026,7 +1026,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** Dan ends the call and pockets his phone on the right. Leo leaves the two notes side by side so the family can use the clear headings while packing; neither note disappears with the phone.  
 **Opening state:** Connected call finishing; full basket; notes flat; totes empty.  
 **End state:** Call ended; phone in right pocket; both hands free; notes remain on counter.  
-**Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_12.png](storyboards/BOARD_12.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** No off-screen speech continues after the call. Keep the same phone, watch side and two original papers.
 
 **Dialogue:**
@@ -1047,7 +1047,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** Dan admits his mix-up directly to the children. Leo gives a small reassuring nod and Ella gestures toward the two clear notes, inviting him to help solve it rather than stepping aside embarrassed.  
 **Opening state:** Full basket; two notes separated; empty blue/yellow totes on hook.  
 **End state:** Family agrees to sort together; no vegetable wasted or moved yet.  
-**Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_13.png](storyboards/BOARD_13.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** This is an admission and a practical next step, not a punishment or lesson to the audience. The food quantities were already correct.
 
 **Dialogue:**
@@ -1068,7 +1068,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** Ella takes both empty totes from their hook and opens BLUE on the left, YELLOW on the right. Dan steadies the full basket nearby while Max keeps the clear work area free of extra containers.  
 **Opening state:** All ten selected lines in basket, still unpaid; both totes empty on hook; notes flat.
 **End state:** Both totes empty and open on counter; blue beside blue note, yellow beside yellow note.  
-**Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_13.png](storyboards/BOARD_13.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Only two tote bags and one basket. No vegetables appear in the bags before the explicit transfers.
 
 **Dialogue:**
@@ -1089,7 +1089,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** Leo traces Maya's five salad lines, then Nina's five soup lines. Dan identifies their produce in the basket without lifting or duplicating anything. Both empty totes remain open beside their notes.  
 **Opening state:** Full basket; empty open blue/yellow totes; two flat notes.  
 **End state:** All ten ingredients assigned to the correct dish; transfer ready to begin.  
-**Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_13.png](storyboards/BOARD_13.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** BLUE: carrots, tomatoes, cucumber, lettuce, red pepper. YELLOW: potatoes, onions, broccoli, corn, spinach. Headings and colors never swap.
 
 **Dialogue:**
@@ -1110,7 +1110,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** A brief packing ellipsis lets Dan and Ella transfer exactly four carrots, the protected three-tomato tray, one cucumber, one loose-leaf lettuce and one red pepper into the BLUE tote. Lettuce stays on top; the yellow tote remains empty.  
 **Opening state:** All ten ingredient lines in basket; blue/yellow totes empty; notes beside them.  
 **End state:** BLUE contains Maya's five salad lines. Basket retains only 6 potatoes, 2 onions, 1 broccoli head, 2 corn ears and 1 spinach bag; YELLOW empty.  
-**Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_13.png](storyboards/BOARD_13.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** The transferred salad ingredients leave the basket; do not show duplicate carrots, tomatoes or lettuce in both containers. Notes remain flat and separate.
 
 **Dialogue:**
@@ -1131,7 +1131,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** A short packing ellipsis lets Dan move the six-potato sack, two onions, one broccoli head, two ears of corn and one bag of spinach into YELLOW. Leo checks each line; Max shows that the woven basket is now empty.  
 **Opening state:** BLUE full; five soup lines remain in basket; YELLOW empty.  
 **End state:** YELLOW contains all five soup lines; BLUE unchanged; basket completely empty.  
-**Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_14.png](storyboards/BOARD_14.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Heavy potatoes at the bottom of yellow, protected leaves above. No soup food remains in basket or doubles on counter.
 
 **Dialogue:**
@@ -1152,7 +1152,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** Dan reads each real heading beside its correctly filled tote. Ella checks the protected tomato tray at the top of BLUE; Leo checks YELLOW's quantity lines. Dan folds the two original notes into his right pocket afterward.  
 **Opening state:** BLUE salad and YELLOW soup correctly packed; basket empty; notes flat.  
 **End state:** Both filled totes checked; empty basket retained; notes in Dan's right pocket.  
-**Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_14.png](storyboards/BOARD_14.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** No groceries are added or rearranged into another dish. Phone already pocketed; no second call begins.
 
 **Dialogue:**
@@ -1173,7 +1173,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** After a short move along the same counter, Dan sets both filled totes beside the register and the empty basket below their side of the counter. The unseen vendor states the total; Leo watches the exact editorial amount.  
 **Opening state:** Packed BLUE/YELLOW totes ready; empty basket; no payment made; wallet in right pocket.  
 **End state:** Total confirmed at $18.50; both full totes on counter; no payment yet.  
-**Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_14.png](storyboards/BOARD_14.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Vendor has no visible face. The register and receipt use exact SVG lettering, with no invented fee or different total.
 
 **Dialogue:**
@@ -1194,7 +1194,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** Dan takes the wallet from his right pocket, removes one twenty-dollar bill and places it toward the vendor. A hand from behind the counter accepts that same bill; Leo keeps both hands away from the payment.  
 **Opening state:** Amount due $18.50; wallet contains one $20 payment bill; no money on counter.  
 **End state:** $20 accepted; wallet open in Dan's hand; change not yet returned; packed totes unchanged.  
-**Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_14.png](storyboards/BOARD_14.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** One payment only, no duplicate twenty left on the counter. The empty basket is not refilled while money is handled.
 
 **Dialogue:**
@@ -1215,7 +1215,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** The vendor's hand passes the single receipt to Leo. He checks the ten ingredient lines and $18.50 total while Dan keeps his wallet open for change. The original two notes remain pocketed.  
 **Opening state:** Payment accepted; no change yet; Leo's hands empty; wallet open with Dan.  
 **End state:** Leo holds the one receipt; all ten purchase lines confirmed; change still due.  
-**Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_15.png](storyboards/BOARD_15.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Receipt paper does not become a third shopping list or enter the food. Vendor stays unseen apart from hand.
 
 **Dialogue:**
@@ -1236,7 +1236,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** The unseen vendor's hand sets down exactly one $1 bill and two quarters. Dan points to each part without taking a second payment; Max watches from beside him, keeping his hands clear.  
 **Opening state:** $20 accepted for $18.50; receipt with Leo off-frame; no change received yet.  
 **End state:** Exactly $1.50 on counter: one $1 bill and two $0.25 coins; wallet open in Dan's hand.  
-**Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_15.png](storyboards/BOARD_15.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Do not substitute Episode 02's $4.50 change or add another coin. Faces stay limited to the scripted family subset.
 
 **Dialogue:**
@@ -1257,7 +1257,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** Leo hands the checked receipt to Dan. Dan gathers the single dollar and two quarters, puts them with the receipt inside his wallet, closes it and returns it to his RIGHT pocket beside the separately folded notes and phone.  
 **Opening state:** $1.50 on counter; receipt in Leo's hand; wallet open with Dan.  
 **End state:** Receipt and $1.50 stored in closed wallet; wallet in right pocket; counter clear of family papers and money.  
-**Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_15.png](storyboards/BOARD_15.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** No extra change handoff occurs. The two shopping notes are not thrown away or replaced by a different list.
 
 **Dialogue:**
@@ -1278,7 +1278,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** Dan lifts the filled BLUE tote in his left hand and YELLOW in his right. Max takes the empty basket by its blue handle. Leo and Ella check their side of the counter is clear before all four turn toward the exit.  
 **Opening state:** Both full totes on counter; basket empty below; receipt/change/notes/phone pocketed.  
 **End state:** Dan holds both correct totes; Max carries empty basket; Leo and Ella ready beside them; nothing left on counter.  
-**Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_15.png](storyboards/BOARD_15.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Only four family shoppers leave the market. Maya and Nina remain at home, awaiting the same vegetables and children.
 
 **Dialogue:**
@@ -1299,7 +1299,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** Dan and the three children leave together through the same entrance. He carries BLUE and YELLOW filled totes; Max carries the empty basket. Leo and Ella stay beside Dan on the clear inside route as they turn homeward.  
 **Opening state:** Paid produce correctly divided into two totes; basket empty with Max; all four together.  
 **End state:** All four exit; no selected produce or paper left at market; travel home compressed by next location cut.  
-**Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_16.png](storyboards/BOARD_16.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** The direction reversal is shown within the wide view, not an unexplained camera flip. Maya and Nina are still at home.
 
 **Dialogue:**
@@ -1320,7 +1320,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** After the clear walk-home cut, Dan places the BLUE tote beside Maya on the island. Ella confirms its five salad ingredients while keeping her hands outside the produce; Dan still holds YELLOW.  
 **Opening state:** All purchased produce home in correct totes; hands not yet washed after shopping; no preparation started.  
 **End state:** BLUE tote with Maya; YELLOW still with Dan; receipt/change/notes/phone safely pocketed.  
-**Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_16.png](storyboards/BOARD_16.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Blue still contains 4 carrots, 3 protected tomatoes, 1 cucumber, 1 lettuce and 1 red pepper. No whole-food duplicate appears on the counter yet.
 
 **Dialogue:**
@@ -1341,7 +1341,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** Dan places the YELLOW tote beside Nina. Max sets the empty basket on the supply chair and explains the broccoli's safe journey; Nina looks into the tote without removing its contents yet.  
 **Opening state:** BLUE with Maya; YELLOW in Dan's hand; basket empty with Max.  
 **End state:** YELLOW with Nina; basket empty on chair; both filled totes now on separate island areas.  
-**Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_16.png](storyboards/BOARD_16.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Yellow contains 6 potatoes, 2 onions, 1 broccoli, 2 corn ears and 1 spinach bag. The basket remains empty, not a hidden spare vegetable store.
 
 **Dialogue:**
@@ -1362,7 +1362,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** A brief unloading ellipsis puts all five salad lines on Maya's clean tray and all five soup lines on Nina's separate tray. Adults set the empty totes aside; the children clear safe napkin and table tasks away from the cutting area.  
 **Opening state:** All ten unwashed ingredient lines inside their two owner totes; basket empty on chair.  
 **End state:** All purchased produce on two separate preparation trays; both totes empty and set aside; no cutting or cooking yet.  
-**Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_16.png](storyboards/BOARD_16.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** No ingredient is added or duplicated during unloading. Whole purchased food now waits for washing; knife drawer remains closed.
 
 **Dialogue:**
@@ -1383,7 +1383,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** Maya begins washing with soap and running water. An explicit time dissolve allows ALL SIX family members to wash and dry their hands in turn after shopping, while the food waits untouched on separate trays.  
 **Opening state:** All whole produce unwashed; no preparation started; adults control tools.  
 **End state:** All six hands washed and dried; faucet briefly off; produce still awaiting rinse; children in cool work area.  
-**Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_17.png](storyboards/BOARD_17.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Handwashing takes longer in story time than ten seconds. Soap is for hands, not vegetables. Nobody handles a knife or hot pot during the shared washing turn.
 
 **Dialogue:**
@@ -1404,7 +1404,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** With a clear preparation-time ellipsis, Maya and Nina rinse the vegetables under running water and transfer them to clean draining trays. Ella lays clean napkins at the cool island side while adults keep unwashed and washed produce separate.  
 **Opening state:** All hands clean; ten whole ingredient lines on trays; no cutting started.  
 **End state:** All produce washed and drained; water off; adult preparation stations ready; no food cooked yet.  
-**Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_17.png](storyboards/BOARD_17.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Use running water, no soap on food. The bag of spinach is opened for washing; its entire purchased amount stays with the soup ingredients.
 
 **Dialogue:**
@@ -1425,7 +1425,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** Maya and Dan cut the four carrots, three tomatoes, cucumber and red pepper, removing pepper seeds; Maya tears the washed lettuce. Explicit preparation dissolves place the edible salad ingredients in one serving bowl. Ella handles only clean napkins away from blades.  
 **Opening state:** All five washed salad ingredients whole on Maya's tray; soup ingredients still separate; one empty salad bowl.  
 **End state:** Salad prepared in one bowl; carrot/pepper trimmings contained in waste; no duplicate whole salad purchase remains beside it.  
-**Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_17.png](storyboards/BOARD_17.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Adults alone use knives. Quantities change form, not source: 4 carrots, 3 tomatoes, 1 cucumber, 1 lettuce and 1 red pepper make this salad.
 
 **Dialogue:**
@@ -1446,7 +1446,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** Through an explicit preparation ellipsis, Nina and Dan peel/cut the six potatoes and two onions, divide the broccoli, remove corn husks and kernels from both ears, and drain the spinach. Nina starts potatoes and onions simmering with household water; the other prepared soup vegetables wait beside her.  
 **Opening state:** Five washed soup lines unprepared on Nina's tray; salad finished; children away from tools and stove.  
 **End state:** Potatoes/onions cooking in one pot with household water; prepared broccoli, corn and spinach waiting in clean dishes; no soup served yet.  
-**Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_17.png](storyboards/BOARD_17.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Adults control knives, stove and hot pot. Household water is not another market purchase. No whole raw potato reappears as cooked food without time passing.
 
 **Dialogue:**
@@ -1467,7 +1467,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** A clear longer time passage lets the potatoes and onions simmer. Nina adds the prepared broccoli, corn and spinach, then a further cooking ellipsis reveals finished soup. She checks a potato piece is fully tender, switches the burner OFF and covers the pot; Maya keeps the salad ready.  
 **Opening state:** Potatoes/onions simmering; other soup vegetables prepared; salad finished; nobody served.  
 **End state:** All soup vegetables cooked and potato pieces tender; stove OFF; covered pot safely on rear burner; salad ready; no raw soup stock remains on trays.  
-**Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_18.png](storyboards/BOARD_18.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** The full cooking period is an explicit story-time ellipsis. Never use color alone or raw tasting to imply cooked potatoes. Hot cookware stays adult-controlled.
 
 **Dialogue:**
@@ -1488,7 +1488,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** A short table-setting ellipsis lets Dan and Leo place six plates with clean forks and spoons in the canonical seats. Ella finishes the napkins. Six clean soup bowls wait on the adult serving tray by the sideboard, ready to be filled rather than duplicated at the places.  
 **Opening state:** Finished food in kitchen; stove OFF; dining table clear of food; clean table supplies ready.  
 **End state:** Six plates/forks/spoons/napkins set; six empty soup bowls on serving tray; seats reserved in their original arrangement.  
-**Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_18.png](storyboards/BOARD_18.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Dan near-left, Leo left-end, Ella far-left, Maya far-right, Nina right-end, Max near-right. No extra chair, bowl or diner appears. The basket's supply chair stays in the kitchen, never as an additional dining place.
 
 **Dialogue:**
@@ -1509,7 +1509,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** After a brief serving ellipsis, Nina has filled the six soup bowls in the adult serving area and brought those same bowls safely to the six places. Maya portions salad onto the six plates. Dan helps keep the route clear; children wait seated away from hot serving cookware.  
 **Opening state:** Six plates at places; six soup bowls empty on tray; prepared salad and cooked soup ready.  
 **End state:** Six filled soup bowls and six salad portions at the six places; serving tray empty; adults control any remaining food in serving dishes.  
-**Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_18.png](storyboards/BOARD_18.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** No second set of bowls appears. Soup is cooked and served safely; no whole market vegetables sit beside duplicate prepared portions. The stove remains OFF.
 
 **Dialogue:**
@@ -1530,7 +1530,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** Dan waits until his small spoonful is comfortable to eat, tastes the soup, swallows and sets the spoon down before speaking sincerely to Leo. Leo listens without interrupting or turning the moment into another joke.  
 **Opening state:** All six served safely; salad and cooked soup only; notes remain in Dan's right pocket.  
 **End state:** Dan has admitted feeling embarrassed; Leo reassures him; no place or serving changes.  
-**Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_18.png](storyboards/BOARD_18.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Keep the emotion proportionate to a small shopping mistake. No talking while chewing or handing hot cookware to a child.
 
 **Dialogue:**
@@ -1551,7 +1551,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** Maya and Nina exchange an affectionate amused glance over their own dishes. Dan listens with his utensil resting on his plate, accepting their support rather than making another overconfident claim.  
 **Opening state:** Family eating calmly in fixed seats; food fully prepared; no active disagreement.  
 **End state:** Both women appreciate the shared effort; Dan relaxes; meal continues.  
-**Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_19.png](storyboards/BOARD_19.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Maya and Nina are equally respected partners, neither a rival or servant. Their original faces, voices and wardrobe stay distinct.
 
 **Dialogue:**
@@ -1572,7 +1572,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** Max uses his empty hands to imagine the enormous basket forty carrots would need. Dan smiles at the memory while leaving his real plate and spoon still; no extra carrots appear as physical props.  
 **Opening state:** Meal underway; exactly four purchased carrots are already prepared in salad.  
 **End state:** The old quantity mistake gets a gentle laugh; actual food and seating unchanged.  
-**Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_19.png](storyboards/BOARD_19.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** This is an imaginary gesture, not a new purchase, flashback with different quantities or a giant carrot arrival.
 
 **Dialogue:**
@@ -1593,7 +1593,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** Ella remembers how asking questions helped at the stall. Max gives one small respectful nod toward his prepared soup, recalling the ears of corn without picking up whole cobs or repeating the shopping sequence.  
 **Opening state:** Prepared meal underway; no raw display produce or market props at table.  
 **End state:** The children connect their useful questions with the successful meal; no new rule is addressed to viewers.  
-**Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_19.png](storyboards/BOARD_19.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** Corn is now prepared soup food, not two intact ears placed beside a duplicate serving. Keep family dialogue natural rather than a vocabulary recap.
 
 **Dialogue:**
@@ -1614,7 +1614,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** Dan asks both women to help check a future plan when he is unsure. Nina answers warmly and Maya nods; no fresh food list or shopping task starts during the current meal.  
 **Opening state:** Current vegetable meal resolved; family seated; no new paper or food introduced.  
 **End state:** Dan accepts that asking can be part of helping; partners remain equally included.  
-**Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_19.png](storyboards/BOARD_19.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** No scolding, forced lesson, narrator summary or promise that mistakes can never happen again.
 
 **Dialogue:**
@@ -1635,7 +1635,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** Dan takes the two folded notes from his right pocket and opens them side by side above his lap. Ella identifies the blue salad heading and Leo the yellow soup heading. Dan refolds and pockets both notes afterward.  
 **Opening state:** Original two notes pocketed since the market check; wallet/receipt/phone stay pocketed.  
 **End state:** Both notes returned to RIGHT pocket; headings unchanged; no money handled near serving food.  
-**Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_20.png](storyboards/BOARD_20.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** These are the same two separate sheets, not Episode 02's future single two-color card. Exact lettering comes from the saved list SVGs.
 
 **Dialogue:**
@@ -1656,7 +1656,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** Maya takes one blank planning card from the sideboard drawer and sets it on a dry clear sideboard spot while mentioning tomorrow's picnic fruit. Dan pauses with mock seriousness; no fruit shopping begins yet.  
 **Opening state:** Vegetable story complete; two old notes pocketed; no fruit or new groceries at table.  
 **End state:** One blank future planning card on dry sideboard; tomorrow's fruit picnic premise introduced.  
-**Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_20.png](storyboards/BOARD_20.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** The blank card is household stationery for tomorrow, not a third vegetable shopping note or the already completed Episode 02 purchase. Meal stays unchanged.
 
 **Dialogue:**
@@ -1679,7 +1679,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** Nina proposes that all six choose the fruit together. Dan smiles at his three helpers and both partners. The blank future card remains on the sideboard; the current salad-and-soup meal is already a shared success.  
 **Opening state:** All six seated at current meal; no fruit task started; future blank card aside.  
 **End state:** Family agrees on tomorrow's together plan; no new errand or character enters.  
-**Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_20.png](storyboards/BOARD_20.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** This connects to Episode 02's next-morning one-card/two-colors opening without developing its fruit selections, budget or location here.
 
 **Dialogue:**
@@ -1700,7 +1700,7 @@ Every slot is planned for 10 editorial seconds to reduce unnecessary pauses and 
 **Action:** The family shares relaxed smiles over their prepared meal. Dan rests his hands beside his place; the empty market basket remains safely on the supply chair in the kitchen. Add the editorial ending overlay only within the final two seconds.  
 **Opening state:** All six enjoying salad and cooked soup; stove OFF; notes/receipt/phone pocketed; future card on sideboard.  
 **End state:** Hold the same six-person family tableau through 00:13:20; vegetable story complete with no unresolved purchase or cooking mistake.  
-**Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
+**Picture:** [BOARD_20.png](storyboards/BOARD_20.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.  
 **Continuity:** No recap narrator or synchronized chorus. Any optional creator-designed practice begins after this completed story, outside its 13:20 planned runtime.
 
 **Dialogue:**

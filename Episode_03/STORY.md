@@ -27,7 +27,7 @@ The ONE batch contains 2 cups flour, 2 tablespoons sugar, 1 tablespoon baking po
 
 The clear narrow glass vase stays EMPTY and returns to its decoration shelf in SHOT_010. No flower is picked, brought into the food area or added to any bowl. Flour and flower sound the same in American English; the misunderstanding is resolved through meaning and context, not a fake pronunciation difference.
 
-Handwashing, melting/cooling, the five-minute batter rest and cooking each side need explicit story-time ellipses. A 10-second editorial slot does not imply a full cooking task occurs in ten real seconds. Adults handle raw eggs, knives, heat, pan and spatula; children stay in the cool preparation/table areas. Nobody tastes raw flour, eggs or batter. Raw-preparation tools stay separate from clean cooked-food serving utensils. Exact quantities and readable labels use editorial SVGs, not invented image lettering. See [CONTINUITY.md](CONTINUITY.md) for the ledger and [STORYBOARD_INDEX.md](STORYBOARD_INDEX.md) for illustrated coverage and approval status.
+Handwashing, melting/cooling, the five-minute batter rest and cooking each side need explicit story-time ellipses. A 10-second editorial slot does not imply a full cooking task occurs in ten real seconds. Adults handle raw eggs, knives, heat, pan and spatula; children stay in the cool preparation/table areas. Nobody tastes raw flour, eggs or batter. Raw-preparation tools stay separate from clean cooked-food serving utensils. Exact quantities and readable labels use editorial SVGs, not invented image lettering. See [CONTINUITY.md (historical reference)](https://github.com/pujahalder34675-creator/ai-story-building/blob/8362bf7a5ec009104a53857e9bee314a843c1a14/Episode_03/CONTINUITY.md) for the ledger and [STORYBOARD_INDEX.md (historical reference)](https://github.com/pujahalder34675-creator/ai-story-building/blob/8362bf7a5ec009104a53857e9bee314a843c1a14/Episode_03/STORYBOARD_INDEX.md) for illustrated coverage and approval status.
 
 ## Timed story shots
 
@@ -45,7 +45,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** Recipe on stand; empty blue bowl on island; the three adults ready to begin.
 
-**Picture:** [BOARD_01.png](assets/storyboards/BOARD_01.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_01.png](storyboards/BOARD_01.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Original W01 clothes and home geography continue; no fruit-picnic props or new faces.
 
@@ -73,7 +73,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** Dan has turned toward the vase; no ingredient or plant has been moved.
 
-**Picture:** [BOARD_01.png](assets/storyboards/BOARD_01.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_01.png](storyboards/BOARD_01.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Flour and flower are homophones; the sound is not mispronounced.
 
@@ -101,7 +101,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** Vase stands empty beside empty bowl; no flower or other plant has entered the food area.
 
-**Picture:** [BOARD_01.png](assets/storyboards/BOARD_01.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_01.png](storyboards/BOARD_01.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** The vase is not a measuring jug or food vessel. Do not show a bouquet, water or flower in it.
 
@@ -129,7 +129,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** Dan understands there is a misunderstanding; nothing has been added to any bowl.
 
-**Picture:** [BOARD_01.png](assets/storyboards/BOARD_01.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_01.png](storyboards/BOARD_01.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** The near-mistake is prevented completely, not corrected after food contamination.
 
@@ -157,7 +157,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** Vase moved to island edge away from bowl; Max has empty hands.
 
-**Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_02.png](storyboards/BOARD_02.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Existing background plants remain background only; no flower is picked, carried or mixed.
 
@@ -185,7 +185,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** Flour ingredient identified on recipe; Dan ready to read the pantry label.
 
-**Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_02.png](storyboards/BOARD_02.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Exact FLOUR label and quantity are editorial artwork; no viewer spelling exercise.
 
@@ -213,7 +213,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** Dan commits to checking the label; family ready to search together.
 
-**Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_02.png](storyboards/BOARD_02.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Maya and Nina are equally respected and share the repair; no ridicule or wife rivalry.
 
@@ -241,7 +241,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** Three children have safe preparation jobs; Nina leads the shared search.
 
-**Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_02.png](storyboards/BOARD_02.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** This is an in-story household task, not a timed game, quiz or audience drill.
 
@@ -269,7 +269,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** Dan holds the closed flour bag; Leo holds the recipe; no flour measured yet.
 
-**Picture:** [BOARD_03.png](assets/storyboards/BOARD_03.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_03.png](storyboards/BOARD_03.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Do not add a new room or move the fridge. One flour bag only; label identifies food, not a plant.
 
@@ -297,7 +297,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** Empty vase on decoration shelf for rest of episode; blue bowl still empty; no plant near food.
 
-**Picture:** [BOARD_03.png](assets/storyboards/BOARD_03.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_03.png](storyboards/BOARD_03.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** The vase never becomes a bowl, jug or food container and never reappears at the cooking station.
 
@@ -327,7 +327,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** Blue dry bowl left, yellow wet bowl right; neither contains food.
 
-**Picture:** [BOARD_03.png](assets/storyboards/BOARD_03.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_03.png](storyboards/BOARD_03.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Blue becomes the only batter bowl later; yellow is emptied into blue once, never a second batter batch.
 
@@ -355,7 +355,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** Whisk on clean rest by yellow bowl; drawer closed.
 
-**Picture:** [BOARD_03.png](assets/storyboards/BOARD_03.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_03.png](storyboards/BOARD_03.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** The whisk remains a raw-preparation tool until cleaned; it will not serve cooked pancakes.
 
@@ -383,7 +383,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** Correct tablespoon and half-teaspoon measures ready; eating spoon returned to drawer.
 
-**Picture:** [BOARD_04.png](assets/storyboards/BOARD_04.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_04.png](storyboards/BOARD_04.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Use marked measures for recipe quantities, not a heaped household spoon or guessed size.
 
@@ -411,7 +411,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** Dry cup and clear liquid cup ready on flat mat; no quantity changed.
 
-**Picture:** [BOARD_04.png](assets/storyboards/BOARD_04.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_04.png](storyboards/BOARD_04.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Dry flour will be leveled, not packed; milk is read at eye level on a stable surface.
 
@@ -439,7 +439,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** Spatula reserved on adult tray; children remain at cool island.
 
-**Picture:** [BOARD_04.png](assets/storyboards/BOARD_04.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_04.png](storyboards/BOARD_04.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Only adults will handle the spatula at the hot pan. No pretend flipping toward faces or ceiling.
 
@@ -467,7 +467,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** Cool skillet ready with handle inward; adult-only cooking zone established.
 
-**Picture:** [BOARD_04.png](assets/storyboards/BOARD_04.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_04.png](storyboards/BOARD_04.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Stove remains OFF during this tool check; no batter, flame or steam appears yet.
 
@@ -495,7 +495,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** Sugar, baking powder and salt on tray; cupboard closed; nothing measured.
 
-**Picture:** [BOARD_05.png](assets/storyboards/BOARD_05.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_05.png](storyboards/BOARD_05.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** No baking soda substitution, extra packet or second flour bag. Labels use exact editorial artwork.
 
@@ -523,7 +523,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** Cold ingredients on clean tray; fridge closed; eggs intact, butter uncut.
 
-**Picture:** [BOARD_05.png](assets/storyboards/BOARD_05.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_05.png](storyboards/BOARD_05.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Only the two eggs allocated to this recipe are presented; no fruit, syrup or new side dish.
 
@@ -551,7 +551,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** Yield plan agreed: 12 small pancakes, 2 for each of 6 people.
 
-**Picture:** [BOARD_05.png](assets/storyboards/BOARD_05.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_05.png](storyboards/BOARD_05.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** No recipe doubling, giant pancake contest or extra seventh serving. Plates will move to HOME_TABLE later.
 
@@ -579,7 +579,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** All tools found and assigned; family ready for handwashing, then measuring.
 
-**Picture:** [BOARD_05.png](assets/storyboards/BOARD_05.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_05.png](storyboards/BOARD_05.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** One recipe and one batch. The empty vase stays on its decoration shelf, away from food.
 
@@ -607,7 +607,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** All six have washed and dried their hands; water off; ingredients still unmeasured.
 
-**Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_06.png](storyboards/BOARD_06.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** The longer handwashing is an explicit story-time ellipsis, not a ten-second demonstration.
 
@@ -636,7 +636,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** BLUE dry bowl and YELLOW wet bowl assigned; measuring tools separate and ready.
 
-**Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_06.png](storyboards/BOARD_06.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Both bowls have WHITE interiors. The blue bowl will become the only batter bowl; yellow is not a second batch.
 
@@ -665,7 +665,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** BLUE contains exactly 1 cup flour; one-cup measure empty; flour bag remains separate stock.
 
-**Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_06.png](storyboards/BOARD_06.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Do not pack the flour, heap the cup or show an extra measured cup already in the bowl.
 
@@ -694,7 +694,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** BLUE contains exactly 2 cups flour; flour bag closed; no third cup prepared.
 
-**Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_06.png](storyboards/BOARD_06.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Only the measured flour is batch inventory. Flour remaining in its closed bag is pantry stock, not a duplicate purchase.
 
@@ -723,7 +723,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** BLUE holds 2 cups flour plus exactly 2 tablespoons sugar; sugar container closed.
 
-**Picture:** [BOARD_07.png](assets/storyboards/BOARD_07.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_07.png](storyboards/BOARD_07.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Use tablespoons, not cups. Keep the clean sugar measure separate from the later raw-egg tools.
 
@@ -752,7 +752,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** Correct baking-powder tin identified and opened; measured amount still zero.
 
-**Picture:** [BOARD_07.png](assets/storyboards/BOARD_07.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_07.png](storyboards/BOARD_07.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** This is baking powder, never baking soda. Use the editorial recipe/label SVG for readable text.
 
@@ -781,7 +781,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** BLUE adds exactly 1 tablespoon baking powder; tin closed; no additional teaspoon portions added.
 
-**Picture:** [BOARD_07.png](assets/storyboards/BOARD_07.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_07.png](storyboards/BOARD_07.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** The three-teaspoon equivalent describes the same single tablespoon, not an extra addition.
 
@@ -810,7 +810,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** BLUE dry mixture contains 2 cups flour, 2 tablespoons sugar, 1 tablespoon baking powder and 1/2 teaspoon salt.
 
-**Picture:** [BOARD_07.png](assets/storyboards/BOARD_07.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_07.png](storyboards/BOARD_07.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Max stays at the cool side with Maya. Do not substitute a heaped teaspoon or show another salt addition.
 
@@ -839,7 +839,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** 3 tablespoons butter allocated to batter; separate covered 1-tablespoon pan reserve untouched.
 
-**Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_08.png](storyboards/BOARD_08.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Only Nina handles the knife. The reserve is part of the four tablespoons total, not extra butter or a table topping.
 
@@ -868,7 +868,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** Three-tablespoon batter portion melted; Nina switches this burner OFF and moves saucepan onto the heatproof mat.
 
-**Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_08.png](storyboards/BOARD_08.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** No child approaches heat. The black pancake skillet stays on its separate unlit burner; no pancake cooking has started.
 
@@ -897,7 +897,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** Batter butter cooled and ready; BLUE dry mixture evenly combined; YELLOW still empty.
 
-**Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_08.png](storyboards/BOARD_08.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Do not pour hot butter onto eggs or show children touching the saucepan. No extra ingredient is added while waiting.
 
@@ -926,7 +926,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** YELLOW contains exactly 2 raw eggs with no shells; empty shells contained in waste; egg carton empty of recipe eggs.
 
-**Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_08.png](storyboards/BOARD_08.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Only an adult handles raw eggs. No raw taste, egg juggling or shell fragments in batter; household stock is not a third recipe egg.
 
@@ -955,7 +955,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** Nina has washed/dried hands; waste safely set aside; clean liquid measure ready for milk.
 
-**Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_09.png](storyboards/BOARD_09.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Raw eggs remain in the bowl, not on hands or clean serving utensils. The washing takes real story time.
 
@@ -984,7 +984,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** YELLOW contains 2 eggs plus exactly 1 1/2 cups milk; measuring jug empty; milk carton closed.
 
-**Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_09.png](storyboards/BOARD_09.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Ella does not touch raw eggs or their bowl. Remaining carton milk is stock, not an extra measured addition.
 
@@ -1013,7 +1013,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** Remaining milk refrigerated; measuring jug set aside; covered pan reserve still exactly 1 tablespoon.
 
-**Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_09.png](storyboards/BOARD_09.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** No extra milk is poured into either bowl. Only the allocated three tablespoons melted butter remain to join the wet mixture.
 
@@ -1042,7 +1042,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** YELLOW holds the combined wet mixture including all 3 tablespoons batter butter; saucepan empty; pan reserve untouched.
 
-**Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_09.png](storyboards/BOARD_09.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Whisk the mixture without splashing. The wet bowl remains raw; no spoon tasting, extra egg or second butter portion.
 
@@ -1071,7 +1071,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** BLUE receives the wet mixture; YELLOW nearly empty with only a film to scrape; no second batter bowl.
 
-**Picture:** [BOARD_10.png](assets/storyboards/BOARD_10.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_10.png](storyboards/BOARD_10.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** One transfer into one batch. Do not show a full wet mixture still inside YELLOW after it has been poured.
 
@@ -1100,7 +1100,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** YELLOW visibly empty and set aside; all wet ingredients now in BLUE with the dry ingredients.
 
-**Picture:** [BOARD_10.png](assets/storyboards/BOARD_10.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_10.png](storyboards/BOARD_10.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** The raw scraper and wet bowl are separate from clean serving spoons. Yellow does not refill or become another batter batch.
 
@@ -1129,7 +1129,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** One blue bowl of combined batter with small lumps; no spill or lost ingredient.
 
-**Picture:** [BOARD_10.png](assets/storyboards/BOARD_10.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_10.png](storyboards/BOARD_10.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Gentle mixing, no frantic whisking. Small lumps are normal here; do not add extra milk or flour to erase them.
 
@@ -1158,7 +1158,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** Mixing finished; raw spoon set aside; one complete batch ready to rest; no pancakes cooked.
 
-**Picture:** [BOARD_10.png](assets/storyboards/BOARD_10.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_10.png](storyboards/BOARD_10.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Do not taste batter or resume stirring in a later reaction shot. Preserve exact recipe amounts and the empty YELLOW bowl.
 
@@ -1186,7 +1186,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** Batter rest has begun; covered BLUE stays on its mat; no stirring or tasting.
 
-**Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_11.png](storyboards/BOARD_11.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** The cover is a clean cloth, not an extra serving plate or second food container.
 
@@ -1215,7 +1215,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** Exactly six empty plates at the canonical table positions; no plates left on supplies counter.
 
-**Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_11.png](storyboards/BOARD_11.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Dan near-left, Leo left-end, Ella far-left, Maya far-right, Nina right-end, Max near-right. Keep six chairs, not seven.
 
@@ -1244,7 +1244,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** Six places each have one plate, one clean fork and one napkin; children remain away from heat.
 
-**Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_11.png](storyboards/BOARD_11.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** No raw whisk, spatula or egg bowl becomes a table utensil. No side dishes or extra food appear.
 
@@ -1273,7 +1273,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** Covered batter undisturbed; raw tools separate; table supplies finished.
 
-**Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_11.png](storyboards/BOARD_11.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** This is character restraint during the rest, not a timed audience pause. No countdown graphic or new batter appears.
 
@@ -1302,7 +1302,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** Five story-time minutes have elapsed; batter uncovered and ready; no pancakes cooked yet.
 
-**Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_12.png](storyboards/BOARD_12.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Do not imply five minutes passed in one continuous ten-second real-time action. Batter remains the same single batch.
 
@@ -1331,7 +1331,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** Black skillet warmed; handle inward; clean cooked tray empty; adult zone established.
 
-**Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_12.png](storyboards/BOARD_12.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** No child reaches heat, knobs or spatula. Raw ladle and batter bowl stay separate from the clean cooked-food tray.
 
@@ -1360,7 +1360,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** Skillet lightly greased; remaining portion of the same 1-tablespoon reserve held for later batches.
 
-**Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_12.png](storyboards/BOARD_12.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Use that one tablespoon incrementally across all six batches. Do not add a new butter stick, table butter or extra batter butter.
 
@@ -1389,7 +1389,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** Dan ready to portion the first pair; no batter added to skillet yet; all twelve pancakes still uncooked.
 
-**Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_12.png](storyboards/BOARD_12.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** The guide helps divide the actual batch into twelve small pancakes; adjust the final scrape instead of inventing a thirteenth portion.
 
@@ -1418,7 +1418,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** Exactly 2 pancakes cooking on first sides; first crooked, second rounder; batter reduced by two portions.
 
-**Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_13.png](storyboards/BOARD_13.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** No flower shape, air toss, third pool or dropped food. These two pancakes are not counted cooked yet.
 
@@ -1447,7 +1447,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** Both first sides ready to turn after sufficient cooking time; still no finished pancake on tray.
 
-**Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_13.png](storyboards/BOARD_13.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Bubbles/edges guide turning, not final doneness. Both sides and the center must cook before serving.
 
@@ -1476,7 +1476,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** Both pancakes now cooking on second sides; the crooked first pancake stays intact and in the pan.
 
-**Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_13.png](storyboards/BOARD_13.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Adults only. No high toss, ceiling joke, burn or spilled batter; each pancake remains a single item after turning.
 
@@ -1505,7 +1505,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** Cooked count 2: first crooked pancake in 2 halves, plus 1 whole pancake; no raw center; skillet empty.
 
-**Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_13.png](storyboards/BOARD_13.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** The two halves are ONE pancake, reserved for Dan with one whole pancake. Do not discard it or count three cooked pancakes.
 
@@ -1534,7 +1534,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** Controlled turning plan understood; skillet ready for the next two portions; count stays 2.
 
-**Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_14.png](storyboards/BOARD_14.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** No pretend airborne pancake or extra portion. The brush uses only the existing one-tablespoon pan reserve.
 
@@ -1563,7 +1563,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** Exactly 2 more pancakes on first sides; two cooked pancakes remain on tray; batter reduced by four portions total.
 
-**Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_14.png](storyboards/BOARD_14.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** One batch, same pan and bowl. Do not duplicate the first crooked pancake or pour a third pool.
 
@@ -1592,7 +1592,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** Second pair cooking on second sides; neither is served early; cooked count remains 2.
 
-**Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_14.png](storyboards/BOARD_14.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Do not use golden first-side color alone as proof of a cooked center. The turning tool remains an adult stove tool.
 
@@ -1621,7 +1621,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** Cooked count 4: 3 whole pancakes plus the 2 halves of the first pancake; skillet empty.
 
-**Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_14.png](storyboards/BOARD_14.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Tray food is fully cooked. No pancake moves back into the raw batter or disappears during the time transition.
 
@@ -1650,7 +1650,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** Cooked count 6: 5 whole pancakes plus the first pancake halves; third pair fully cooked; skillet empty.
 
-**Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_15.png](storyboards/BOARD_15.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** No new butter allocation or batter refill. The ellipses cover real cooking time for both sides, not instantaneous browning.
 
@@ -1679,7 +1679,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** Cooked count confirmed 6; tray remains with Maya; no pancake eaten or moved to plates yet.
 
-**Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_15.png](storyboards/BOARD_15.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Children stay away from the hot pan and do not touch warm tray edges. The first pancake halves count as one.
 
@@ -1708,7 +1708,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** Fourth pair cooked through in pan, ready to transfer; six earlier pancakes on tray; batter reduced by eight portions total.
 
-**Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_15.png](storyboards/BOARD_15.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Do not skip the second side or introduce a second pan. The single batch is visibly decreasing.
 
@@ -1737,7 +1737,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** Cooked count 8: 7 whole pancakes plus first pancake halves; skillet empty; four pancakes remain uncooked.
 
-**Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_15.png](storyboards/BOARD_15.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** No pancake is thrown away, doubled or served from the raw zone. Keep the clean cooked tray distinct from the raw batter rest.
 
@@ -1765,7 +1765,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** Cooked count 10: 9 whole pancakes plus the first pancake halves; skillet empty; batter remains for two.
 
-**Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_16.png](storyboards/BOARD_16.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** No fresh butter stick or second bowl appears. The fifth pair uses the same one-tablespoon total pan-greasing reserve.
 
@@ -1794,7 +1794,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** Cooked count confirmed 10; tray returns to adult landing area; no one takes an early serving.
 
-**Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_16.png](storyboards/BOARD_16.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** The cut first pancake remains one item. Children check from their cool space without touching warm tray edges.
 
@@ -1823,7 +1823,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** Exactly 2 final pancakes on first sides; BLUE has no remaining portion to cook, only a thin washing residue; pan butter allocation used.
 
-**Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_16.png](storyboards/BOARD_16.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** No thirteenth pancake, extra egg, milk top-up or new bowlful. The recipe butter total remains four tablespoons.
 
@@ -1852,7 +1852,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** Cooked count 12: 11 whole pancakes plus the two halves of the first crooked pancake; skillet empty; all food cooked through.
 
-**Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_16.png](storyboards/BOARD_16.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Both sides and centers are cooked before transfer. No leftover raw pool, duplicated stack or discarded crooked pancake.
 
@@ -1881,7 +1881,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** All stove burners OFF; empty hot skillet cooling safely in adult zone; cooked tray separate.
 
-**Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_17.png](storyboards/BOARD_17.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** OFF does not mean the pan is instantly cold. Children do not approach it; no steam or active cooking is added later.
 
@@ -1910,7 +1910,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** Both mixing bowls empty and in washing area; raw tools contained; cooked food and clean serving utensil remain separate.
 
-**Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_17.png](storyboards/BOARD_17.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** A thin residue awaiting washing is not a new portion. No child tastes the bowls or uses a raw ladle to serve cooked pancakes.
 
@@ -1939,7 +1939,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** Tray count confirmed 12; Dan assigned the first pancake and one whole pancake; ten whole pancakes reserved for the other five.
 
-**Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_17.png](storyboards/BOARD_17.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Do not count the halves as separate pancakes. First pancake is cooked through and intentionally kept, not hidden as waste.
 
@@ -1968,7 +1968,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** Cooked tray at the table landing area; parents ready to distribute two pancakes per person; no food dropped or eaten.
 
-**Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_17.png](storyboards/BOARD_17.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** No hot pan, raw bowl, vase or side dish travels to the table. Preserve the original kitchen doorway and dining geography.
 
@@ -1997,7 +1997,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** Dan has 2 pancakes in 3 pieces; tray holds 10 whole pancakes; other five plates still empty.
 
-**Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_18.png](storyboards/BOARD_18.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Dan receives the same pancake amount as everyone else. Three pieces do not mean three pancakes; no extra topping appears.
 
@@ -2026,7 +2026,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** Leo has 2 pancakes and Ella has 2; tray holds 6 whole pancakes; Nina, Maya and Max still awaiting theirs.
 
-**Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_18.png](storyboards/BOARD_18.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Serve from the clean cooked tray with the clean utensil, never the raw batter measure or personal forks.
 
@@ -2055,7 +2055,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** All 12 pancakes distributed: six plates with 2 pancakes each; cooked tray empty; no one received an extra serving.
 
-**Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_18.png](storyboards/BOARD_18.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Max's small pancakes are fully cooked. The first cut pancake remains on Dan's plate and is not duplicated here.
 
@@ -2084,7 +2084,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** Shared breakfast begins with exactly six family members and two pancakes per person.
 
-**Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_18.png](storyboards/BOARD_18.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Dan near-left, Leo left-end, Ella far-left, Maya far-right, Nina right-end, Max near-right; no new relative or seventh plate.
 
@@ -2113,7 +2113,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** Dan has tasted his serving comfortably; other food remains on its original plates.
 
-**Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_19.png](storyboards/BOARD_19.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** No talking while chewing, raw-center gag or food swapping. The only food is the one cooked pancake batch.
 
@@ -2142,7 +2142,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** Ella sees that her measured contribution helped the real meal; everyone remains comfortably seated.
 
-**Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_19.png](storyboards/BOARD_19.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** This is a child's proud observation about breakfast, not a recitation or viewer exercise. Keep Maya and Nina equally respected.
 
@@ -2171,7 +2171,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** The opening misunderstanding gets a gentle payoff; vase untouched and still empty.
 
-**Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_19.png](storyboards/BOARD_19.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** No surprise flower appears in pancakes, vase, ingredients or children's hands. Do not move the vase onto the dining table.
 
@@ -2200,7 +2200,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** Dan's wish to help resolves into shared effort and listening, with both partners equally included.
 
-**Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_19.png](storyboards/BOARD_19.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Keep the emotion proportionate to a small breakfast misunderstanding. No humiliation, wife rivalry or direct-to-viewer moral.
 
@@ -2229,7 +2229,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** The family laughs gently about the different shapes; no extra pancake or unequal serving is introduced.
 
-**Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_20.png](storyboards/BOARD_20.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Food may be partly eaten now. Do not refill plates to their original full state for the joke or count small bite pieces as new pancakes.
 
@@ -2258,7 +2258,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** Only a small future shoe-shopping seed is introduced; no Episode 04 sequence is developed.
 
-**Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_20.png](storyboards/BOARD_20.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Keep shoes below/outside the food area. No wrong-box gag, mall scene or new cast is brought into Episode 03.
 
@@ -2287,7 +2287,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** Meal finished; used dishes gathered safely; no leftover pancake stack or new food appears; all six still nearby.
 
-**Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_20.png](storyboards/BOARD_20.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Dirty table utensils remain separate from food-preparation tools. The kitchen stove stays OFF; the first pancake was eaten, not discarded.
 
@@ -2316,7 +2316,7 @@ Handwashing, melting/cooling, the five-minute batter rest and cooking each side 
 
 **End state:** Hold the six-person family tableau through 00:13:20; pancake story complete, with no unresolved cooking or food mistake.
 
-**Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_20.png](storyboards/BOARD_20.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** No chorus, recap narrator or practice card. Optional creator-designed practice belongs after the completed 13-minute-20-second story.
 

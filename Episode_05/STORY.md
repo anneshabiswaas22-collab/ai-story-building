@@ -22,7 +22,7 @@ On a later weekend, the Brooks family takes a new picnic to the public park. May
 
 W01 faces, proportions, ages and outfits continue. Maya and Nina have equal agency. No new relative, narrator or speaking stranger appears. The stone squirrel is a statue and never speaks. Dialogue is sequential General American speech with action/reaction time; 10-second slots are editorial estimates, not a provider-duration guarantee. Handwashing, food preparation before the opening, eating, travel and washing dishes have explicit story-time ellipses.
 
-The public park is distinct from Episode02's backyard. From the SOUTH GATE facing north: fountain center, west squirrel bench left, east OAK BENCH right. The pond beyond west path stays behind a rail and is never approached. The return turns south explicitly. One basket holds six plates, six napkins, an empty waste pouch and clear map sleeve; one cooler holds six wrapped refrigerated cheese sandwiches, six sealed waters and ice packs; one blue-white check blanket travels with Maya. Food stays chilled until clean-handed serving. See [CONTINUITY.md](CONTINUITY.md) and exact [park map](assets/overlays/PARK_MAP.svg).
+The public park is distinct from Episode02's backyard. From the SOUTH GATE facing north: fountain center, west squirrel bench left, east OAK BENCH right. The pond beyond west path stays behind a rail and is never approached. The return turns south explicitly. One basket holds six plates, six napkins, an empty waste pouch and clear map sleeve; one cooler holds six wrapped refrigerated cheese sandwiches, six sealed waters and ice packs; one blue-white check blanket travels with Maya. Food stays chilled until clean-handed serving. See [CONTINUITY.md (historical reference)](https://github.com/pujahalder34675-creator/ai-story-building/blob/8362bf7a5ec009104a53857e9bee314a843c1a14/Episode_05/CONTINUITY.md) and exact [park map (historical reference)](https://github.com/pujahalder34675-creator/ai-story-building/blob/8362bf7a5ec009104a53857e9bee314a843c1a14/Episode_05/assets/overlays/PARK_MAP.svg).
 
 ## Timed story shots
 
@@ -40,7 +40,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** Closed cooler ready beside basket; park sketch flat on dry island.
 
-**Picture:** [BOARD_01.png](assets/storyboards/BOARD_01.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_01.png](storyboards/BOARD_01.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** A new public-park picnic, not Episode 02 backyard lunch; identical permanent W01 cast.
 
@@ -68,7 +68,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** Basket holds six plates, six napkins, empty waste pouch and flat transparent map sleeve; Maya holds rolled blanket just off-frame.
 
-**Picture:** [BOARD_01.png](assets/storyboards/BOARD_01.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_01.png](storyboards/BOARD_01.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** No purchased fruit, recipe bowls or shoe boxes travel to the park.
 
@@ -96,7 +96,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** All three have seen south gate, fountain and right-turn route.
 
-**Picture:** [BOARD_01.png](assets/storyboards/BOARD_01.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_01.png](storyboards/BOARD_01.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Map north at top; public park pond remains behind a rail beyond west path.
 
@@ -124,7 +124,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** Dan holds once-folded map; left statue and right oak remain distinct.
 
-**Picture:** [BOARD_01.png](assets/storyboards/BOARD_01.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_01.png](storyboards/BOARD_01.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** A matching bench alone is insufficient; landmark identifies the meeting point.
 
@@ -152,7 +152,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** Cooler sealed with all food; Maya carries blanket; basket secure.
 
-**Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_02.png](storyboards/BOARD_02.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Keep food chilled and wrapped until clean hands and serving; no sandwiches in basket.
 
@@ -180,7 +180,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** Basket with Dan; map right pocket; children beside him.
 
-**Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_02.png](storyboards/BOARD_02.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Dan watch anatomical LEFT wrist; map and phone right pocket when stowed.
 
@@ -208,7 +208,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** All six reach the home exit together with one basket, one cooler and one blanket.
 
-**Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_02.png](storyboards/BOARD_02.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Travel cut follows; no child sent ahead alone and no extra relatives.
 
@@ -236,7 +236,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** Family fully out; folded map pocketed; containers unchanged.
 
-**Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_02.png](storyboards/BOARD_02.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** This final doorway beat precedes an explicit uneventful walk ellipsis.
 
@@ -264,7 +264,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** All six safely inside gate facing north; complete park geography established.
 
-**Picture:** [BOARD_03.png](assets/storyboards/BOARD_03.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_03.png](storyboards/BOARD_03.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Gate south, fountain center, west statue bench left, east oak bench right.
 
@@ -292,7 +292,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** Dan holds map partly open; Maya indicated the right branch.
 
-**Picture:** [BOARD_03.png](assets/storyboards/BOARD_03.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_03.png](storyboards/BOARD_03.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Do not cross lawns or pond rail; both branches are ordinary pedestrian paths.
 
@@ -320,7 +320,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** Two adult-led groups agreed; route short and mutually visible across open fountain square.
 
-**Picture:** [BOARD_03.png](assets/storyboards/BOARD_03.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_03.png](storyboards/BOARD_03.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** No lost-child plot: Dan stays with both boys; Maya and Nina with Ella; no street crossing.
 
@@ -348,7 +348,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** Maya group reaches right branch in clear line of sight; blanket still rolled.
 
-**Picture:** [BOARD_03.png](assets/storyboards/BOARD_03.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_03.png](storyboards/BOARD_03.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Same screen direction east/right from south view; pond is not on route.
 
@@ -376,7 +376,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** Map held upside down; its oak appears left to Dan; no one walking yet.
 
-**Picture:** [BOARD_04.png](assets/storyboards/BOARD_04.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_04.png](storyboards/BOARD_04.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Error is page orientation, not reversed geography. Do not show compass moving.
 
@@ -404,7 +404,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** Dan chooses west branch on bench appearance; boys remain at his side.
 
-**Picture:** [BOARD_04.png](assets/storyboards/BOARD_04.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_04.png](storyboards/BOARD_04.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Wrong conclusion remains harmless; keep oak group in distant sight, no isolated children.
 
@@ -434,7 +434,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** Trio reaches west bench path; Dan holds basket and map.
 
-**Picture:** [BOARD_04.png](assets/storyboards/BOARD_04.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_04.png](storyboards/BOARD_04.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** No running, shortcuts or child approaching water; leaves do not prove oak identity.
 
@@ -462,7 +462,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** Basket and inverted map on wrong bench; boys standing beside Dan.
 
-**Picture:** [BOARD_04.png](assets/storyboards/BOARD_04.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_04.png](storyboards/BOARD_04.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Same matching green bench design as oak bench; food/cooler never at this west bench.
 
@@ -490,7 +490,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** Dan recognizes group is incomplete; no plates laid out or food opened.
 
-**Picture:** [BOARD_05.png](assets/storyboards/BOARD_05.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_05.png](storyboards/BOARD_05.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** There are six permanent family members, not a new three-person picnic.
 
@@ -518,7 +518,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** Max lowers empty hand, accepting the statue cannot answer.
 
-**Picture:** [BOARD_05.png](assets/storyboards/BOARD_05.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_05.png](storyboards/BOARD_05.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Squirrel is a fixed stone landmark, not an animal or extra speaking character.
 
@@ -546,7 +546,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** Basket remains closed; absence of food/blanket becomes useful evidence.
 
-**Picture:** [BOARD_05.png](assets/storyboards/BOARD_05.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_05.png](storyboards/BOARD_05.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Blanket stays with Maya until east setup; do not duplicate it at wrong bench.
 
@@ -574,7 +574,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** Dan agrees to stand still and inspect sketch; both boys beside him.
 
-**Picture:** [BOARD_05.png](assets/storyboards/BOARD_05.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_05.png](storyboards/BOARD_05.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Calling an adult remains available; comedy never depends on children hiding or losing contact.
 
@@ -602,7 +602,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** Dan realizes color and shape fit two possible places.
 
-**Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_06.png](storyboards/BOARD_06.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Wide open sightlines connect both bench paths; no children cross alone.
 
@@ -630,7 +630,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** Mismatch squirrel-versus-oak explicitly identified.
 
-**Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_06.png](storyboards/BOARD_06.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Do not turn statue into oak or move it across park between views.
 
@@ -658,7 +658,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** Leo holds inverted page at chest height; Dan sees its orientation error.
 
-**Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_06.png](storyboards/BOARD_06.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Exact text comes from PARK_MAP.svg; map world never changes.
 
@@ -686,7 +686,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** Map now north-up in Dan right hand; gate bottom, oak right, statue left.
 
-**Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_06.png](storyboards/BOARD_06.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Only paper rotates; bench/fountain/geography retain established positions.
 
@@ -714,7 +714,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** Dan openly accepts wrong-bench mistake and invites help.
 
-**Picture:** [BOARD_07.png](assets/storyboards/BOARD_07.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_07.png](storyboards/BOARD_07.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Error admission is warm and brief, not humiliation or children assuming adult responsibility.
 
@@ -742,7 +742,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** Destination named as east oak bench, not any green bench.
 
-**Picture:** [BOARD_07.png](assets/storyboards/BOARD_07.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_07.png](storyboards/BOARD_07.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Do not introduce a third matching bench or a new family member.
 
@@ -770,7 +770,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** Squirrel becomes a useful location marker rather than a failed guide.
 
-**Picture:** [BOARD_07.png](assets/storyboards/BOARD_07.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_07.png](storyboards/BOARD_07.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Landmark identity remains stone squirrel; no animation, talking or magical movement.
 
@@ -798,7 +798,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** Two independent landmarks confirm orientation before travel.
 
-**Picture:** [BOARD_07.png](assets/storyboards/BOARD_07.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_07.png](storyboards/BOARD_07.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Orientation uses gate and statue, not guessing right from a reversed camera.
 
@@ -826,7 +826,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** Basket secure and ready; no bench touched or moved.
 
-**Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_08.png](storyboards/BOARD_08.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Leave public fixtures and plants untouched; walk on approved paths.
 
@@ -854,7 +854,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** Return route selected along dry path, no foot enters bed.
 
-**Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_08.png](storyboards/BOARD_08.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Never cross flowerbed, rail, fountain rim or pond edge to correct a mistake.
 
@@ -882,7 +882,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** Both groups acknowledge each other; no worry or lost-person implication.
 
-**Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_08.png](storyboards/BOARD_08.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Distant family figures are the existing three, never extra crowd people.
 
@@ -910,7 +910,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** Basket carried by Dan; map right pocket; bench left clean and empty.
 
-**Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_08.png](storyboards/BOARD_08.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** No picnic property, child or litter left behind; same six plate/napkin count.
 
@@ -938,7 +938,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** Trio returns to known south approach and stops to orient.
 
-**Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_09.png](storyboards/BOARD_09.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Children stay beside adult; fountain is a landmark, never climbing/play equipment.
 
@@ -966,7 +966,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** Map north-up in Dan hand; real right/east branch agreed.
 
-**Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_09.png](storyboards/BOARD_09.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Screen directions are anchored to facing north, not every future camera.
 
@@ -994,7 +994,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** They turn their bodies toward east path, staying together.
 
-**Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_09.png](storyboards/BOARD_09.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** No fountain water drinking, splashing or climbing; sealed water is in cooler.
 
@@ -1022,7 +1022,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** All three follow correct east branch at walking pace.
 
-**Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_09.png](storyboards/BOARD_09.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** One clear right turn, not repeated left/right reversal across edits.
 
@@ -1050,7 +1050,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** Dan group stops at blanket edge, still on path.
 
-**Picture:** [BOARD_10.png](assets/storyboards/BOARD_10.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_10.png](storyboards/BOARD_10.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Blanket is blue-white check; no sandwiches opened or served yet.
 
@@ -1078,7 +1078,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** Three warmly welcome arriving trio; six seating spaces kept.
 
-**Picture:** [BOARD_10.png](assets/storyboards/BOARD_10.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_10.png](storyboards/BOARD_10.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Maya and Nina jointly set up; no one angry or frightened by visible detour.
 
@@ -1106,7 +1106,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** One reunited six-person group; no one at west bench.
 
-**Picture:** [BOARD_10.png](assets/storyboards/BOARD_10.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_10.png](storyboards/BOARD_10.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** No seventh character; public park remains distinct from home garden.
 
@@ -1134,7 +1134,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** Maya understands the small mistake; no blame assigned to boys.
 
-**Picture:** [BOARD_10.png](assets/storyboards/BOARD_10.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_10.png](storyboards/BOARD_10.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Dan remains responsible adult; children contributed observations, not rescue.
 
@@ -1162,7 +1162,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** Shared description includes start, turn and destination landmark.
 
-**Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_11.png](storyboards/BOARD_11.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Natural conversation only; no audience repetition or vocabulary lesson.
 
@@ -1190,7 +1190,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** Adults model shared clarification without shifting blame.
 
-**Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_11.png](storyboards/BOARD_11.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Equal adult respect; no jealousy, putdowns or incompetent-parent caricature.
 
@@ -1218,7 +1218,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** Map in sleeve in Dan right pocket; basket still six plates/napkins/waste pouch.
 
-**Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_11.png](storyboards/BOARD_11.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Sleeve introduced as packed dry-supply item; no additional map copy.
 
@@ -1246,7 +1246,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** All agree to wash before lunch; cooler remains sealed.
 
-**Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_11.png](storyboards/BOARD_11.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Outdoor play/map handling precedes handwashing; no hand gel replacing visible wash needed.
 
@@ -1274,7 +1274,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** After explicit elapsed time, six return with clean dry hands and all belongings.
 
-**Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_12.png](storyboards/BOARD_12.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Pavilion visible from oak; nobody guards bags alone; use montage rather than six washes in 10 seconds.
 
@@ -1302,7 +1302,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** Blanket spread again; food and plates still unserved.
 
-**Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_12.png](storyboards/BOARD_12.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** One blanket, no duplicate setup left behind; no touching dirty statue after washing.
 
@@ -1330,7 +1330,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** All six seated in fixed positions; closed cooler beside Nina.
 
-**Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_12.png](storyboards/BOARD_12.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Canonical six-place order continues across every later close-up.
 
@@ -1358,7 +1358,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** All six remain comfortably seated; blanket corner flat; bench remains empty.
 
-**Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_12.png](storyboards/BOARD_12.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Bench is a meeting landmark, not seating for all six; no seventh place or extra chair.
 
@@ -1386,7 +1386,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** Six plates on blanket, one each; basket no plates.
 
-**Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_13.png](storyboards/BOARD_13.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Plate transfers once; hands remain clean; no plate placed on bench or ground.
 
@@ -1414,7 +1414,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** One napkin at each place; basket retains only empty waste pouch.
 
-**Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_13.png](storyboards/BOARD_13.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** No forks required for wrapped sandwiches; dry supplies count preserved.
 
@@ -1442,7 +1442,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** Cooler open under shade; exact six sandwich parcels visible in two rows.
 
-**Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_13.png](storyboards/BOARD_13.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Do not duplicate sandwiches on blanket while all six still in cooler.
 
@@ -1470,7 +1470,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** Six wrapped sandwiches on six plates; no spare sandwich in cooler.
 
-**Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_13.png](storyboards/BOARD_13.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Six total, one each; keep wrappers closed until each person opens their own.
 
@@ -1498,7 +1498,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** Six bottles distributed; cooler holds only ice packs; Max bottle opened once.
 
-**Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_14.png](storyboards/BOARD_14.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Bottle caps kept with owners/waste pouch, never scattered; no fountain drinking.
 
@@ -1526,7 +1526,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** Sandwiches unwrapped on plates; wrappers contained in pouch.
 
-**Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_14.png](storyboards/BOARD_14.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Wind/litter control; no food set on bare blanket or grass.
 
@@ -1554,7 +1554,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** Meal begun; Dan sandwich has one clear bite, not magically whole again.
 
-**Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_14.png](storyboards/BOARD_14.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Track eaten portions; sequential action before speech within editorial slot.
 
@@ -1582,7 +1582,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** Cooler closed beside Nina; food stays on own plates.
 
-**Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_14.png](storyboards/BOARD_14.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** No second cooler or newly full food container; public bench behind remains unoccupied.
 
@@ -1610,7 +1610,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** Trio can laugh about error without leaving picnic.
 
-**Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_15.png](storyboards/BOARD_15.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Do not intercut a second simultaneous Dan group at wrong bench; memories only in dialogue.
 
@@ -1638,7 +1638,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** Family credits patient checking, not superior cleverness.
 
-**Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_15.png](storyboards/BOARD_15.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Children retain distinct voices; no speech addressed to viewers.
 
@@ -1666,7 +1666,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** Map remains pocketed; no new prop introduced during speech.
 
-**Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_15.png](storyboards/BOARD_15.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Map is a tool, not infallible magic; adults remain available guides.
 
@@ -1694,7 +1694,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** Children enjoy landmark as part of place, leaving tree untouched.
 
-**Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_15.png](storyboards/BOARD_15.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** No ribbons, nails, litter or climbing added to tree; no visible animal cameo.
 
@@ -1722,7 +1722,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** Dan relaxes, accepts shared planning without losing adult agency.
 
-**Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_16.png](storyboards/BOARD_16.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Core emotional beat differs from Episode02 impressing-through-size: here usefulness versus doing alone.
 
@@ -1750,7 +1750,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** Each child contribution named specifically; cooperation affirmed.
 
-**Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_16.png](storyboards/BOARD_16.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Dan never left children alone; praise describes observation rather than saving a missing family.
 
@@ -1778,7 +1778,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** Early drawing-size joke pays off without changing geography.
 
-**Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_16.png](storyboards/BOARD_16.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** A drawn symbol is not scale measurement; no implausible tree growth.
 
@@ -1806,7 +1806,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** Max gives destination using two distinctive landmarks.
 
-**Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_16.png](storyboards/BOARD_16.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Story dialogue to family, never an audience drill or prompted repetition.
 
@@ -1834,7 +1834,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** Peaceful reaction moment before closing meal beats.
 
-**Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_17.png](storyboards/BOARD_17.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Diegetic fountain ambience only; no narrator, group chant or added dialogue crowd.
 
@@ -1862,7 +1862,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** All six sandwiches eaten; six used plates/napkins and owned water bottles remain.
 
-**Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_17.png](storyboards/BOARD_17.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Do not claim six meals finished in one real-time bite; preserve source count.
 
@@ -1890,7 +1890,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** Basket holds six used plates and closed waste pouch; blanket clearing.
 
-**Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_17.png](storyboards/BOARD_17.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Used dishes separated from cooler; no return of untouched sandwiches.
 
@@ -1918,7 +1918,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** Six capped bottles in cooler with ice; no litter around blanket.
 
-**Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_17.png](storyboards/BOARD_17.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Do not pick unknown waste; adults handle unfamiliar objects if found; none appears.
 
@@ -1946,7 +1946,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** Same blanket rolled with Maya; basket Dan; cooler Nina.
 
-**Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_18.png](storyboards/BOARD_18.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** No public bench moved, food abandoned or second blanket left on lawn.
 
@@ -1974,7 +1974,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** Six-person group prepared to leave with all belongings.
 
-**Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_18.png](storyboards/BOARD_18.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Return follows paved east branch, no crossing pond area or flowerbed.
 
@@ -2002,7 +2002,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** Map inspected north-up then returned to right pocket.
 
-**Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_18.png](storyboards/BOARD_18.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Do not add untracked new drawing, pencil or compass; exact SVG remains unchanged.
 
@@ -2030,7 +2030,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** Group reaches fountain south side, statue stays distant.
 
-**Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_18.png](storyboards/BOARD_18.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** No renewed separation; wave does not create extra visit or animal scene.
 
@@ -2058,7 +2058,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** All six walking south toward gate, not back toward east/west bench.
 
-**Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_19.png](storyboards/BOARD_19.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Facing south reverses personal left/right; use gate landmark instead of ambiguous screen right.
 
@@ -2086,7 +2086,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** All six outside gate together with all belongings.
 
-**Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_19.png](storyboards/BOARD_19.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Do not show solo child street crossing; travel home occurs after clear cut.
 
@@ -2116,7 +2116,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** Family chooses known pedestrian route, preparing travel ellipsis.
 
-**Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_19.png](storyboards/BOARD_19.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** This is a dialogue payoff, not a new chase or detour scene.
 
@@ -2146,7 +2146,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** Containers placed for washing; kitchen unchanged and stove OFF.
 
-**Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_19.png](storyboards/BOARD_19.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Do not unload used dishes directly onto clean preparation island; mat separates them.
 
@@ -2174,7 +2174,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** Six plates at sink, blanket in laundry, bottles with Nina; basket emptied except closed waste pouch.
 
-**Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_20.png](storyboards/BOARD_20.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** No child handles unknown rubbish or cleaning chemicals; kitchen safe tasks only.
 
@@ -2204,7 +2204,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** One map stored dry north-up; travel complete.
 
-**Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_20.png](storyboards/BOARD_20.png), panel 2. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Story map is a park plan, not Episode01 shopping lists; original blue/yellow household canon untouched.
 
@@ -2232,7 +2232,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** A brief restaurant-premise hint only; Episode06 not begun.
 
-**Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_20.png](storyboards/BOARD_20.png), panel 3. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Do not create a second location or extend story beyond13:20.
 
@@ -2260,7 +2260,7 @@ The public park is distinct from Episode02's backyard. From the SOUTH GATE facin
 
 **End state:** Six family members together at home; all picnic equipment put away.
 
-**Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_20.png](storyboards/BOARD_20.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Exactly13:20 story; no narrator recap, audience drill, voice recording or generated video claimed.
 

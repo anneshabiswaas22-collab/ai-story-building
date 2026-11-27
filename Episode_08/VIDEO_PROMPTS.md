@@ -4,7 +4,7 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 Written and still-image preproduction draft. Each slot is a planned 10-second editorial shot, 16:9, original warm stylized 3D and natural General American family conversation. No video or voice has been generated. Optional creator-authored practice belongs after the story. Creator visual approval and individual motion first frames remain pending.
 
-Use the unchanged [cast previews](assets/characters/), [continuity ledger](CONTINUITY.md) and [scene plan](SCENE_REFERENCE_PLAN.md). Restore original owner-controlled identity/home PNG masters before separately authorized motion production. No replacement faces, extra family members, wardrobe changes, mirrored watch/pocket sides, watermarks, baked-in subtitles or audience drills. Readable prop text uses the exact [SVG overlays](assets/overlays/).
+Use the unchanged [cast previews](../ref/characters/), [continuity ledger (historical reference)](https://github.com/pujahalder34675-creator/ai-story-building/blob/8362bf7a5ec009104a53857e9bee314a843c1a14/Episode_08/CONTINUITY.md) and [scene plan (historical reference)](https://github.com/pujahalder34675-creator/ai-story-building/blob/8362bf7a5ec009104a53857e9bee314a843c1a14/Episode_08/SCENE_REFERENCE_PLAN.md). Restore original owner-controlled identity/home PNG masters before separately authorized motion production. No replacement faces, extra family members, wardrobe changes, mirrored watch/pocket sides, watermarks, baked-in subtitles or audience drills. Readable prop text uses the exact [SVG overlays (historical reference)](https://github.com/pujahalder34675-creator/ai-story-building/tree/8362bf7a5ec009104a53857e9bee314a843c1a14/Episode_08/assets/overlays).
 
 ## Episode locks
 
@@ -14,7 +14,7 @@ Use the unchanged [cast previews](assets/characters/), [continuity ledger](CONTI
 - Top cubby row viewed from doorway is DAN, MAYA, NINA; bottom row LEO, ELLA, MAX.
 - All fourteen permanent cast JPGs and original home kitchen/table previews are unchanged Episode01 copies.
 
-Edit STORY.md first; sync.py regenerates this written draft and estimated subtitles, not media. The legacy sync script and existing subtitle track have not been retimed in this change; verify or update their timing before regenerating this document or assembling video.
+Legacy sync scripts and subtitle files are not included in this production layout. Retiming must be checked against recorded dialogue before assembly.
 
 ## SHOT_001 | 00:00:00–00:00:10 | A grandmother at the door
 
@@ -23,7 +23,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Maya opens the front door and Nina welcomes Ruth, who wheels one closed blue suitcase onto the clear entry mat. Add the title editorially inside the first two seconds.
 **Starting continuity:** Afternoon on a later family day; entry bench clear; six clean sock pairs wait in the laundry basket out of view.
 **Ending continuity:** Ruth stands inside beside her one closed suitcase; Maya has closed the front door.
-**Picture:** [BOARD_01.png](assets/storyboards/BOARD_01.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_01.png](storyboards/BOARD_01.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth is Maya's mother; permanent cast designs remain unchanged; six family sock pairs are still at the laundry counter.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.10s · NINA 1.20–3.31s · RUTH 3.41–6.39s · MAYA 6.49–9.48s.
@@ -44,7 +44,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Ruth opens the suitcase on the bench, takes out six folded empty gray packing cubes and six blank card tabs, and hands the gift stack to Ella. A closed lavender personal pouch stays inside the suitcase.
 **Starting continuity:** Ruth stands beside her closed blue case. The entry bench is clear for her to open it.
 **Ending continuity:** Ella holds six empty gray cubes and six blank tabs; Ruth closes the case; lavender pouch remains inside.
-**Picture:** [BOARD_01.png](assets/storyboards/BOARD_01.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_01.png](storyboards/BOARD_01.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth is Maya's mother; permanent cast designs remain unchanged; six family sock pairs are still at the laundry counter.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): RUTH 0.17–2.57s · DAN 2.67–4.77s · ELLA 4.87–6.10s · RUTH 6.20–9.19s.
@@ -65,7 +65,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Leo joins Dan beside the bench while Ruth recalls an old packing mix-up with an amused smile. Ella has set the six gifts and tabs on the bench; no flashback is illustrated.
 **Starting continuity:** Closed suitcase beside Ruth; six empty cubes and tabs on bench.
 **Ending continuity:** Dan smiles at the memory; gifts remain on bench and suitcase stays closed.
-**Picture:** [BOARD_01.png](assets/storyboards/BOARD_01.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_01.png](storyboards/BOARD_01.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth is Maya's mother; permanent cast designs remain unchanged; six family sock pairs are still at the laundry counter.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): RUTH 0.17–3.07s · DAN 3.17–4.66s · LEO 4.76–6.24s · DAN 6.34–9.53s.
@@ -86,7 +86,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** After an explicit short walk through the entry passage, Maya carries the closed suitcase onto the left-wall luggage stand. Nina shows Ruth the clear bed and dresser.
 **Starting continuity:** Guest room empty; family gifts stay on entry bench; Ruth and both women enter from near-left doorway.
 **Ending continuity:** One closed suitcase on the luggage stand; Ruth beside it; bed, drawers and walking route clear.
-**Picture:** [BOARD_01.png](assets/storyboards/BOARD_01.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_01.png](storyboards/BOARD_01.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth is Maya's mother; permanent cast designs remain unchanged; six family sock pairs are still at the laundry counter.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–2.27s · NINA 2.37–4.48s · RUTH 4.58–6.10s · MAYA 6.20–9.48s.
@@ -107,7 +107,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Ruth opens her case, lifts a folded checklist from its exterior pocket and lays it on the stand beside the case. She points to the closed lavender pouch without opening it.
 **Starting continuity:** The case is closed on the stand with the lavender pouch inside. Six gifted cubes remain at the entry bench.
 **Ending continuity:** Checklist flat beside the open case; lavender pouch remains closed and untouched.
-**Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_02.png](storyboards/BOARD_02.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth is Maya's mother; permanent cast designs remain unchanged; six family sock pairs are still at the laundry counter.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): RUTH 0.17–2.10s · DAN 2.20–3.32s · MAYA 3.42–6.16s · RUTH 6.26–9.53s.
@@ -128,7 +128,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Max joins at the doorway as Ruth finishes the remembered necktie story. Dan taps his own polo collar; nobody produces an old sock or changes clothing.
 **Starting continuity:** Open case on stand; checklist beside it; Ruth has moved no personal clothing.
 **Ending continuity:** Max understands it is an old story; all current sock pairs remain in laundry basket.
-**Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_02.png](storyboards/BOARD_02.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth is Maya's mother; permanent cast designs remain unchanged; six family sock pairs are still at the laundry counter.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): RUTH 0.17–2.83s · MAX 2.93–5.06s · DAN 5.16–6.25s · MAX 6.35–9.53s.
@@ -149,7 +149,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Ruth invites the family to use her checklist method and the gifted cubes. She asks for a quiet rest in the sitting room beyond the hall; both women agree to keep her room tidy.
 **Starting continuity:** Checklist on stand, case open with only lavender personal pouch; gifts still at entry.
 **Ending continuity:** Ruth turns toward doorway; case and lavender pouch left as they are; checklist may be used.
-**Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_02.png](storyboards/BOARD_02.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth is Maya's mother; permanent cast designs remain unchanged; six family sock pairs are still at the laundry counter.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): RUTH 0.17–3.82s · MAYA 3.92–4.80s · NINA 4.90–6.61s · RUTH 6.71–9.53s.
@@ -170,7 +170,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Ruth walks with Nina through the entry, thanks Ella for carrying the gifts, and exits the visible passage toward the offscreen sitting room. Ella stays beside the bench.
 **Starting continuity:** Six empty cubes and six tabs on bench; Ruth walking out of guest room with Nina.
 **Ending continuity:** Ruth fully offscreen for the rest of the episode; six gifts remain on bench.
-**Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_02.png](storyboards/BOARD_02.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth is Maya's mother; permanent cast designs remain unchanged; six family sock pairs are still at the laundry counter.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.93s · RUTH 2.03–4.94s · NINA 5.04–6.53s · ELLA 6.63–9.53s.
@@ -191,7 +191,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Through an explicit carrying transition, Leo brings all six empty cubes and six tabs from the entry bench. Nina sets the clean laundry basket on the folding counter; Ella clears space.
 **Starting continuity:** Six clean paired socks in one basket; laundry machines closed and unused.
 **Ending continuity:** Six empty cubes, six blank tabs and basket of six sock pairs rest on counter.
-**Picture:** [BOARD_03.png](assets/storyboards/BOARD_03.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_03.png](storyboards/BOARD_03.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–1.98s · LEO 2.08–4.19s · ELLA 4.29–6.10s · LEO 6.20–9.19s.
@@ -212,7 +212,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Dan and Max join. Nina shows the six folded pairs without separating the two socks in any pair. Max notices his green heels among the patterns.
 **Starting continuity:** Six empty cubes and tabs on counter; six folded pairs in clean basket.
 **Ending continuity:** Pairs still in basket: navy stripes, plum dots, teal plain, orange heels, coral stars and green heels.
-**Picture:** [BOARD_03.png](assets/storyboards/BOARD_03.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_03.png](storyboards/BOARD_03.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.98s · DAN 2.08–3.60s · NINA 3.70–6.10s · MAX 6.20–9.48s.
@@ -233,7 +233,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** While the others step into the hall to fetch a household marker, Dan quickly loads one complete sock pair into each identical gray cube through a brief sorting ellipsis. He leaves every tab blank.
 **Starting continuity:** Six empty gray cubes beside basket holding six folded pairs; others out of frame in hall.
 **Ending continuity:** Six cubes each hold one complete pair; clean basket empty; six blank tabs untouched.
-**Picture:** [BOARD_03.png](assets/storyboards/BOARD_03.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_03.png](storyboards/BOARD_03.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Loading order is green heels, coral stars, orange heels, plum dots, teal plain, navy stripes; no pair is split.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.86s · DAN 2.96–5.65s · DAN 5.75–7.27s · DAN 7.37–9.48s.
@@ -254,7 +254,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Dan gently closes all six cube zippers, stacking the filled cubes on the counter without attaching the blank tabs.
 **Starting continuity:** Six filled gray cubes open on counter; no loose socks; basket empty.
 **Ending continuity:** Six filled cubes closed in one stack; six blank tabs beside empty basket.
-**Picture:** [BOARD_03.png](assets/storyboards/BOARD_03.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_03.png](storyboards/BOARD_03.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.22s · DAN 2.32–4.94s · DAN 5.04–6.81s · DAN 6.91–9.53s.
@@ -275,7 +275,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Dan carries the six closed cubes into the guest room, mistaking the travel organizers for items to put back in the suitcase. He pauses beside the open case.
 **Starting continuity:** Case open on luggage stand with closed lavender pouch at right; checklist beside stand.
 **Ending continuity:** Dan holds six closed gray cubes above the clear left half of the case.
-**Picture:** [BOARD_04.png](assets/storyboards/BOARD_04.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_04.png](storyboards/BOARD_04.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Ruth is offscreen resting; gifted family cubes are distinct from her lavender personal pouch.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.69s · DAN 1.79–4.48s · DAN 4.58–6.10s · DAN 6.20–8.89s.
@@ -296,7 +296,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Dan places the six gray cubes in the left half of the blue suitcase, neatly beside the untouched lavender pouch.
 **Starting continuity:** Six cubes in Dan's hands; case open, left half clear.
 **Ending continuity:** All six family sock pairs are inside their cubes inside the case; lavender pouch unchanged.
-**Picture:** [BOARD_04.png](assets/storyboards/BOARD_04.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_04.png](storyboards/BOARD_04.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No sock remains in basket or appears loose; case has sufficient room, with no crushing.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.87s · DAN 1.97–4.00s · DAN 4.10–5.48s · DAN 5.58–8.27s.
@@ -317,7 +317,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Dan closes the suitcase and draws its zipper without forcing it. He leaves the checklist flat on the stand beside it.
 **Starting continuity:** Case open with six family cubes left and Ruth's lavender pouch right.
 **Ending continuity:** Blue suitcase zipped on stand; six cubes and lavender pouch inside; checklist outside.
-**Picture:** [BOARD_04.png](assets/storyboards/BOARD_04.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_04.png](storyboards/BOARD_04.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.69s · DAN 1.79–3.89s · DAN 3.99–5.81s · DAN 5.91–8.31s.
@@ -338,7 +338,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Dan returns empty-handed. Maya and Nina stand beside the empty laundry basket and six blank tabs; Nina holds the household marker, cap on.
 **Starting continuity:** Six sock pairs now inside closed suitcase offscreen; basket empty on counter.
 **Ending continuity:** Dan points proudly toward guest-room passage; women look at unused tabs.
-**Picture:** [BOARD_04.png](assets/storyboards/BOARD_04.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_04.png](storyboards/BOARD_04.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.46s · DAN 1.56–2.23s · NINA 2.33–3.32s · DAN 3.42–6.25s · MAYA 6.35–8.27s.
@@ -361,7 +361,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Max looks into an empty lower storage cubby while Leo checks the counter. Dan realizes he has not asked where the cubes belong.
 **Starting continuity:** All six storage cubbies empty; six cubes remain inside suitcase.
 **Ending continuity:** Max closes his hands without reaching into machines; cubbies still empty.
-**Picture:** [BOARD_05.png](assets/storyboards/BOARD_05.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_05.png](storyboards/BOARD_05.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.57s · LEO 2.67–3.89s · DAN 3.99–5.51s · MAX 5.61–8.89s.
@@ -382,7 +382,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Ella lifts the six unused card tabs. Nina compares them with the empty basket, waiting for Dan to explain rather than searching anyone's possessions.
 **Starting continuity:** Six blank tabs on counter; capped marker in Nina's hand.
 **Ending continuity:** Ella holds all six tabs; Dan looks toward guest room and admits the connection.
-**Picture:** [BOARD_05.png](assets/storyboards/BOARD_05.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_05.png](storyboards/BOARD_05.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.69s · NINA 1.79–4.19s · DAN 4.29–5.51s · ELLA 5.61–8.60s.
@@ -403,7 +403,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Dan describes exactly where he placed the cubes. Maya listens; Leo makes no joke while his father admits the error.
 **Starting continuity:** No objects moved since the unused tabs were lifted.
 **Ending continuity:** Family knows all six cubes are inside Ruth's suitcase; no pair declared lost.
-**Picture:** [BOARD_05.png](assets/storyboards/BOARD_05.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_05.png](storyboards/BOARD_05.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–3.71s · MAYA 3.81–5.20s · LEO 5.31–6.97s · DAN 7.07–9.53s.
@@ -424,7 +424,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Maya recalls Ruth's permission to use the gifts and her room. Nina proposes retrieving only the family cubes, leaving the lavender pouch untouched.
 **Starting continuity:** Six tabs in Ella's hands nearby; marker capped; sock cubes in suitcase.
 **Ending continuity:** Maya and Nina lead the way to guest room; children stay with adults.
-**Picture:** [BOARD_05.png](assets/storyboards/BOARD_05.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_05.png](storyboards/BOARD_05.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–3.15s · NINA 3.25–5.07s · MAX 5.17–6.69s · NINA 6.79–9.48s.
@@ -445,7 +445,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** The three adults enter and stand beside the closed blue case; Maya checks the exterior zipper before Dan touches it.
 **Starting continuity:** Blue case closed on stand; checklist alongside; Ruth remains offscreen.
 **Ending continuity:** Dan has hand beside zipper, waiting for Maya's agreement.
-**Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_06.png](storyboards/BOARD_06.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.27s · MAYA 2.37–3.89s · NINA 3.99–5.51s · DAN 5.61–8.31s.
@@ -466,7 +466,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Dan unzips the case. Ella sees six identical gray cubes at left and the closed lavender pouch at right without reaching for it.
 **Starting continuity:** Closed case on stand containing six cubes and one personal pouch.
 **Ending continuity:** Case open; all six gray cubes visible or partly occluded at left; lavender pouch undisturbed.
-**Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_06.png](storyboards/BOARD_06.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–3.07s · DAN 3.17–5.23s · MAYA 5.33–7.09s · ELLA 7.19–9.53s.
@@ -487,7 +487,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Nina lifts the six gray cubes one at a time onto a clean part of the stand. Leo counts containers, not loose socks.
 **Starting continuity:** Six cubes inside open case; checklist outside; lavender pouch closed.
 **Ending continuity:** Six closed gray cubes on stand beside case; no family cube remains inside.
-**Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_06.png](storyboards/BOARD_06.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.04s · NINA 2.14–3.11s · DAN 3.21–5.08s · LEO 5.18–8.27s.
@@ -508,7 +508,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Dan opens the first recovered cube and holds its folded green-heeled sock pair beside his much larger hand, joking without trying it on.
 **Starting continuity:** Six closed cubes recovered; first contains Max's green-heeled pair.
 **Ending continuity:** First cube open; Dan holds one complete folded green-heeled pair; five other cubes closed.
-**Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_06.png](storyboards/BOARD_06.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.11s · MAX 2.22–3.53s · MAYA 3.63–5.59s · DAN 5.69–8.27s.
@@ -529,7 +529,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Max points to the green heels and small size while Dan listens. Dan returns the intact pair to its first cube and closes it.
 **Starting continuity:** Green-heeled pair in Dan's hand above first open cube.
 **Ending continuity:** All six cubes closed again; Max has identified his pair but no label attached yet.
-**Picture:** [BOARD_07.png](assets/storyboards/BOARD_07.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_07.png](storyboards/BOARD_07.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.79s · DAN 2.89–4.66s · MAYA 4.76–6.53s · MAX 6.63–9.53s.
@@ -550,7 +550,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Ella notices the lavender pouch; Nina gently redirects attention to the recovered gifts without opening personal storage.
 **Starting continuity:** Six family cubes on stand outside case; lavender pouch still inside case at right.
 **Ending continuity:** Ella leaves pouch alone; Maya gathers family cubes for the return trip.
-**Picture:** [BOARD_07.png](assets/storyboards/BOARD_07.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_07.png](storyboards/BOARD_07.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.37s · NINA 2.47–4.13s · MAYA 4.23–6.43s · ELLA 6.53–9.53s.
@@ -571,7 +571,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Maya hands the six closed cubes to Dan. Leo takes Ruth's checklist from beside the case with her earlier permission.
 **Starting continuity:** Six closed cubes outside case; checklist flat beside it.
 **Ending continuity:** Dan carries six cubes; Leo carries borrowed checklist; case remains open with only lavender pouch.
-**Picture:** [BOARD_07.png](assets/storyboards/BOARD_07.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_07.png](storyboards/BOARD_07.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–3.15s · DAN 3.25–4.77s · LEO 4.87–6.10s · MAYA 6.20–8.89s.
@@ -592,7 +592,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** After the short walking transition, Ella sets six blank tabs by the counter. Leo lays the borrowed checklist beside a fresh family sorting sheet taken from the adult stationery shelf; Nina uncaps the marker over a protective scrap mat.
 **Starting continuity:** Counter has empty basket; cubes arriving with Dan; all six cubbies empty.
 **Ending continuity:** Borrowed checklist, blank family sorting sheet and six tabs ready on dry counter; marker in Nina's hand.
-**Picture:** [BOARD_07.png](assets/storyboards/BOARD_07.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_07.png](storyboards/BOARD_07.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–3.15s · ELLA 3.25–4.48s · LEO 4.58–6.10s · NINA 6.20–9.19s.
@@ -613,7 +613,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Dan sets the six closed cubes in a line on the clean counter. Max points to the first cube, remembering its green pair.
 **Starting continuity:** Dan carrying six cubes from guest room; tabs and checklist ready.
 **Ending continuity:** Six closed cubes lined up in loading order; empty basket pushed to the side.
-**Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_08.png](storyboards/BOARD_08.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.39s · MAX 1.49–3.31s · ELLA 3.41–5.22s · MAX 5.32–8.31s.
@@ -634,7 +634,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Maya closes the suitcase after confirming only Ruth's closed lavender pouch remains in its main compartment; she leaves it on the stand.
 **Starting continuity:** Case open with lavender pouch only; all family cubes now in laundry nook.
 **Ending continuity:** Case zipped on stand with lavender pouch inside; checklist temporarily borrowed; floor clear.
-**Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_08.png](storyboards/BOARD_08.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Ruth neither answers nor reappears; this line is spoken quietly to herself, not a phone or extra cameo.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–2.57s · MAYA 2.67–5.65s · MAYA 5.75–7.27s · MAYA 7.37–9.48s.
@@ -655,7 +655,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Maya returns to the laundry nook and joins the line of six cubes, six tabs and borrowed checklist. Nina points to the first cube.
 **Starting continuity:** Six filled cubes closed; six tabs blank; six storage cubbies empty.
 **Ending continuity:** All three adults ready to help; no cube has been assigned a final shelf.
-**Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_08.png](storyboards/BOARD_08.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.69s · NINA 1.79–3.60s · DAN 3.70–5.22s · MAYA 5.32–8.31s.
@@ -676,7 +676,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Nina opens the first cube and lets Max lift the complete green-heeled pair onto the dry sorting mat.
 **Starting continuity:** First cube closed with green pair; other five closed in line.
 **Ending continuity:** First cube open and empty; Max holds green-heeled pair together.
-**Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_08.png](storyboards/BOARD_08.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–1.87s · MAX 1.97–3.67s · DAN 3.77–4.82s · MAX 4.92–8.27s.
@@ -697,7 +697,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Max lays the two matching green-heeled socks beside each other, then folds them together. Ella checks they match without borrowing them.
 **Starting continuity:** First cube empty; two green-heeled socks together in Max's hands.
 **Ending continuity:** One refolded green pair ready beside first empty cube; no loose single remains.
-**Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_09.png](storyboards/BOARD_09.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.10s · MAX 1.20–1.84s · NINA 1.94–3.46s · ELLA 3.56–6.55s · MAX 6.65–9.34s.
@@ -720,7 +720,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Nina writes MAX on one tab, using the exact editorial label artwork. Leo clips that tab to the first cube's handle while Max holds his pair.
 **Starting continuity:** Six blank tabs; first cube open empty; green pair in Max's hand.
 **Ending continuity:** First cube has MAX tab; five tabs remain blank; socks not yet repacked.
-**Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_09.png](storyboards/BOARD_09.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.51s · MAX 2.61–3.80s · NINA 3.90–6.24s · MAX 6.34–9.53s.
@@ -741,7 +741,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Max puts both folded green-heeled socks into the MAX cube and closes its zipper. Dan moves the cube to a checked row at the left.
 **Starting continuity:** MAX cube open empty; green pair in Max's hand.
 **Ending continuity:** One closed labeled MAX cube in checked row; five unassigned cubes remain.
-**Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_09.png](storyboards/BOARD_09.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.21s · DAN 1.31–3.35s · MAX 3.45–5.81s · DAN 5.91–8.27s.
@@ -762,7 +762,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Maya opens the second cube. Ella lifts its complete coral-star pair and compares both socks side by side on the mat.
 **Starting continuity:** Second cube closed containing coral-star pair; MAX cube checked aside.
 **Ending continuity:** Second cube open empty; coral-star pair on mat; four later cubes untouched.
-**Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_09.png](storyboards/BOARD_09.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.39s · DAN 1.49–3.01s · MAYA 3.11–4.05s · ELLA 4.15–6.84s · MAYA 6.94–9.34s.
@@ -785,7 +785,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Ella confirms she chose the star pattern, and Maya checks that both socks match. Max points at his own closed cube without opening it.
 **Starting continuity:** Coral pair on mat; second cube empty; MAX cube closed aside.
 **Ending continuity:** Ella has claimed complete coral pair; no sock has changed owner.
-**Picture:** [BOARD_10.png](assets/storyboards/BOARD_10.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_10.png](storyboards/BOARD_10.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.27s · MAYA 2.37–3.60s · MAX 3.70–5.51s · ELLA 5.61–8.60s.
@@ -806,7 +806,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Maya writes ELLA on the next tab, attaches it to the second cube and lets Ella repack and zip her pair.
 **Starting continuity:** Five blank tabs; second cube empty; coral-star pair on mat.
 **Ending continuity:** Closed ELLA cube joins MAX in checked row; four tabs blank and four cubes unassigned.
-**Picture:** [BOARD_10.png](assets/storyboards/BOARD_10.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_10.png](storyboards/BOARD_10.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.39s · ELLA 1.49–2.43s · NINA 2.53–3.46s · ELLA 3.56–6.55s · MAYA 6.65–8.75s.
@@ -829,7 +829,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Dan opens the third cube and lays the orange-heeled medium pair on the mat; Leo studies the cuffs.
 **Starting continuity:** Third cube closed containing orange-heeled pair; MAX and ELLA checked aside.
 **Ending continuity:** Third cube empty; orange-heeled pair on mat; remaining three cubes closed.
-**Picture:** [BOARD_10.png](assets/storyboards/BOARD_10.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_10.png](storyboards/BOARD_10.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.80s · LEO 1.90–2.91s · ELLA 3.01–4.95s · LEO 5.05–8.27s.
@@ -850,7 +850,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Dan asks Leo directly before writing anything. Leo confirms the matching size and orange heels, then folds the pair.
 **Starting continuity:** Orange pair on mat; third cube open empty; four blank tabs.
 **Ending continuity:** Leo holds complete folded orange pair; identity confirmed without stretching or trying on.
-**Picture:** [BOARD_10.png](assets/storyboards/BOARD_10.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_10.png](storyboards/BOARD_10.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.98s · LEO 2.08–3.60s · DAN 3.70–5.81s · LEO 5.91–8.60s.
@@ -871,7 +871,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Dan writes LEO on one tab, attaches it to the third cube and Leo repacks his pair. Nina slides the closed cube beside the first two.
 **Starting continuity:** Third cube open empty; orange pair in Leo's hands.
 **Ending continuity:** Three checked cubes MAX, ELLA and LEO closed; three cubes and three blank tabs remain.
-**Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_11.png](storyboards/BOARD_11.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.10s · NINA 1.20–2.13s · DAN 2.23–3.46s · NINA 3.56–6.55s · LEO 6.65–8.75s.
@@ -894,7 +894,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Maya opens the fourth cube and lifts the plum-dotted adult pair onto the mat. Nina leaves the other two cubes shut.
 **Starting continuity:** Fourth cube closed with plum-dot pair; fifth teal, sixth navy remain closed.
 **Ending continuity:** Fourth cube empty; plum pair on mat; three checked cubes still closed aside.
-**Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_11.png](storyboards/BOARD_11.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.74s · DAN 1.84–3.11s · NINA 3.21–5.38s · DAN 5.48–8.27s.
@@ -915,7 +915,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Maya points to the dots while Nina explains her own pair is plain teal. Dan listens to both women before reaching for a tab.
 **Starting continuity:** Plum pair on mat; fourth cube empty; teal and navy cubes untouched.
 **Ending continuity:** Dan has confirmed Maya owns plum dots; no one opens Nina's cube early.
-**Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_11.png](storyboards/BOARD_11.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.39s · NINA 1.49–2.72s · DAN 2.82–5.22s · MAYA 5.32–8.89s.
@@ -936,7 +936,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Dan writes MAYA on the fourth tab. Maya attaches it, folds her pair into the fourth cube and gently zips it.
 **Starting continuity:** Plum pair on mat; fourth cube empty; three blank tabs.
 **Ending continuity:** Closed MAYA cube joins checked row; two blank tabs and two unassigned cubes remain.
-**Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_11.png](storyboards/BOARD_11.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.38s · MAYA 1.48–2.69s · DAN 2.79–4.29s · MAYA 4.39–6.77s · DAN 6.87–9.53s.
@@ -959,7 +959,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Nina opens the fifth cube and places the complete plain-teal adult pair on the clean mat. Ella compares it with the closed labeled cubes rather than opening them again.
 **Starting continuity:** Fifth cube closed containing teal pair; sixth navy cube untouched.
 **Ending continuity:** Fifth cube empty; plain-teal pair on mat; four checked cubes closed aside.
-**Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_12.png](storyboards/BOARD_12.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.98s · NINA 2.08–3.60s · DAN 3.70–5.51s · NINA 5.61–8.31s.
@@ -980,7 +980,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Nina folds both teal socks together while Max asks why everyone chose different patterns. Maya smiles at the practical variety.
 **Starting continuity:** Teal pair on mat; fifth cube open empty; two tabs blank.
 **Ending continuity:** Nina holds complete folded teal pair; all other pairs stay in their own cubes.
-**Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_12.png](storyboards/BOARD_12.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.98s · NINA 2.08–3.89s · MAYA 3.99–5.22s · MAX 5.32–8.31s.
@@ -1001,7 +1001,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Maya writes NINA on the fifth tab and Nina attaches it before repacking and zipping her teal pair. Leo counts five checked cubes.
 **Starting continuity:** Fifth cube empty; teal pair held by Nina; two blank tabs.
 **Ending continuity:** Five labeled cubes closed; one navy-filled unassigned cube and one blank tab remain.
-**Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_12.png](storyboards/BOARD_12.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–0.81s · NINA 0.91–1.55s · LEO 1.65–3.75s · MAYA 3.85–6.84s · NINA 6.94–9.05s.
@@ -1024,7 +1024,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Leo opens the sixth cube and shows Dan the folded navy-striped adult pair. Dan points to its familiar stripes rather than putting it on.
 **Starting continuity:** Sixth cube closed containing navy stripes; five checked cubes beside it.
 **Ending continuity:** Sixth cube open empty; Dan holds navy-striped pair; no other socks exposed.
-**Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_12.png](storyboards/BOARD_12.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.39s · DAN 1.49–2.72s · MAX 2.82–3.75s · DAN 3.85–6.84s · MAX 6.94–9.05s.
@@ -1047,7 +1047,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Dan holds the folded navy pair below his polo collar as a visual callback, without wearing, stretching or tying it. Ella laughs and points to the proper cube.
 **Starting continuity:** Navy pair in Dan's hands; sixth cube empty; one blank tab.
 **Ending continuity:** Pair remains folded and clean; Dan lowers it toward the cube.
-**Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_13.png](storyboards/BOARD_13.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.98s · ELLA 2.08–3.60s · MAX 3.70–4.93s · DAN 5.03–8.31s.
@@ -1068,7 +1068,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Dan writes DAN on the last blank tab, attaches it and packs the navy pair back into the sixth cube. Nina watches him zip it.
 **Starting continuity:** Sixth cube empty; navy pair in Dan's hands; one blank tab.
 **Ending continuity:** All six cubes labeled and closed; all six pairs packed once; no blank tabs remain.
-**Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_13.png](storyboards/BOARD_13.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.98s · NINA 2.08–3.60s · LEO 3.70–4.93s · NINA 5.03–8.31s.
@@ -1089,7 +1089,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Maya and Nina arrange the six closed cubes in name order while Leo checks each handle against the borrowed checklist method.
 **Starting continuity:** Six closed labeled cubes in checked row; basket empty; mat clear.
 **Ending continuity:** Counter order is DAN, MAYA, NINA, LEO, ELLA, MAX; names correspond to unchanged contents.
-**Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_13.png](storyboards/BOARD_13.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.69s · MAYA 1.79–3.31s · NINA 3.41–5.22s · LEO 5.32–8.31s.
@@ -1110,7 +1110,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Leo marks six pair-check boxes on the family sorting sheet; Max counts on his fingers while every cube stays closed.
 **Starting continuity:** Six labeled cubes on counter; no loose socks.
 **Ending continuity:** Family sheet records six pairs, twelve socks; no inventory has been added.
-**Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_13.png](storyboards/BOARD_13.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.87s · MAX 1.97–2.69s · DAN 2.79–4.82s · MAX 4.92–8.27s.
@@ -1131,7 +1131,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Ella looks inside the empty clean basket and under its rim, not inside appliances or personal pouches. Dan confirms every original pair was recovered.
 **Starting continuity:** Basket empty on counter; six filled labeled cubes still lined up.
 **Ending continuity:** Basket confirmed empty; six cubes remain closed; no mysterious extra sock appears.
-**Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_14.png](storyboards/BOARD_14.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.69s · DAN 1.79–3.01s · MAYA 3.11–4.93s · ELLA 5.03–8.60s.
@@ -1152,7 +1152,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Max starts to reach for a cube to recount. Nina points to the checked name tabs and sheet; he stops before opening it.
 **Starting continuity:** All six pairs verified and zipped; storage cubbies still empty.
 **Ending continuity:** Max's hands empty; cubes remain closed with checked labels visible.
-**Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_14.png](storyboards/BOARD_14.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.98s · NINA 2.08–3.60s · LEO 3.70–6.39s · MAX 6.49–9.48s.
@@ -1173,7 +1173,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Maya indicates the six empty under-counter cubbies. Nina assigns adults across the top row and children across the bottom, using the exact storage diagram editorially.
 **Starting continuity:** Counter holds all six labeled cubes; all six cubbies empty.
 **Ending continuity:** Destination agreed: top DAN, MAYA, NINA; bottom LEO, ELLA, MAX, left-to-right viewed from doorway.
-**Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_14.png](storyboards/BOARD_14.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.98s · NINA 2.08–3.60s · DAN 3.70–5.81s · MAYA 5.91–9.19s.
@@ -1194,7 +1194,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Dan stands facing the cubby beside the children and gestures left-to-right along the top row without moving a cube yet.
 **Starting continuity:** Six named cubes on counter; storage plan agreed from doorway-facing view.
 **Ending continuity:** All three face the same direction; no reversal or mirrored cubby assignment.
-**Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_14.png](storyboards/BOARD_14.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.27s · ELLA 2.37–3.89s · LEO 3.99–5.22s · DAN 5.32–8.60s.
@@ -1215,7 +1215,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Through a short storage ellipsis, the adults put their closed cubes in the top cubbies: DAN left, MAYA middle, NINA right.
 **Starting continuity:** All six cubes on counter; six cubbies empty.
 **Ending continuity:** Top row holds three adult cubes in assigned order; three child cubes remain on counter.
-**Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_15.png](storyboards/BOARD_15.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.69s · NINA 1.79–3.31s · DAN 3.41–5.51s · NINA 5.61–8.60s.
@@ -1236,7 +1236,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Nina supervises at floor level as the children place LEO, ELLA and MAX in the three reachable bottom cubbies, left-to-right.
 **Starting continuity:** Three adult cubes stored top; three child cubes on counter.
 **Ending continuity:** All six cubes stored exactly once; counter now clear of cubes; no child climbs.
-**Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_15.png](storyboards/BOARD_15.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–0.73s · ELLA 0.83–1.40s · MAX 1.50–3.02s · NINA 3.12–6.40s · MAX 6.50–8.90s.
@@ -1259,7 +1259,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Nina pins the family storage map above the cubby at adult height; Maya and Ella compare it with the six handle tabs. Use the exact SVG text.
 **Starting continuity:** Six cubes stored in fixed two-row order; map on counter beside checklist.
 **Ending continuity:** Storage map fixed above cubby; all six name tabs face outward; contents unchanged.
-**Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_15.png](storyboards/BOARD_15.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.27s · MAYA 2.37–3.89s · NINA 3.99–6.10s · ELLA 6.20–9.48s.
@@ -1280,7 +1280,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Nina caps the household marker and stores it on the adult shelf. Dan folds the protective scrap mat; Max keeps his hands away from machine controls.
 **Starting continuity:** Marker in Nina's hand; six cubes stored; six tabs already attached.
 **Ending continuity:** Marker capped on adult shelf; mat put away; no unused name tabs remain.
-**Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_15.png](storyboards/BOARD_15.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.20s · MAX 2.30–4.00s · NINA 4.10–5.15s · MAX 5.25–8.27s.
@@ -1301,7 +1301,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Maya lifts the empty clean basket onto the open counter end, away from the doorway. Dan checks the dry clear floor.
 **Starting continuity:** All socks stored; clean basket empty on sorting counter.
 **Ending continuity:** Empty basket at counter end; six cubbies filled; walking route clear and appliances unused.
-**Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_16.png](storyboards/BOARD_16.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–2.57s · DAN 2.67–4.48s · MAYA 4.58–6.98s · DAN 7.08–9.19s.
@@ -1322,7 +1322,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Max points to his labeled bottom-right cube and Ella points to hers in the middle. Leo points to his bottom-left cube; nobody takes a pair out.
 **Starting continuity:** Six labeled cubes in fixed cubbies; children at reachable floor level.
 **Ending continuity:** All six cubes remain stored; three children can identify their own locations.
-**Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_16.png](storyboards/BOARD_16.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.10s · ELLA 1.20–2.43s · LEO 2.53–5.22s · MAX 5.32–8.31s.
@@ -1343,7 +1343,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** After an explicit hallway transition, Maya brings one folded clean guest towel from the hall linen cupboard; Nina stands beside the closed dresser.
 **Starting continuity:** Case zipped on stand with Ruth's lavender pouch; bed made; top drawer empty.
 **Ending continuity:** Maya holds one clean towel; Nina has not opened Ruth's pouch or suitcase.
-**Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_16.png](storyboards/BOARD_16.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.60s · NINA 1.70–3.69s · MAYA 3.79–6.33s · NINA 6.43–9.53s.
@@ -1364,7 +1364,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Dan arrives without sock cubes and points to the top dresser drawer. Maya confirms its agreed guest use before Nina opens it.
 **Starting continuity:** One clean towel in Maya's hands; top drawer closed and empty.
 **Ending continuity:** Nina has opened only the empty top drawer; case untouched on stand.
-**Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_16.png](storyboards/BOARD_16.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.98s · MAYA 2.08–3.89s · NINA 3.99–5.51s · DAN 5.61–8.60s.
@@ -1385,7 +1385,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Nina places the folded towel into the empty top drawer, then closes it gently. Maya keeps the clear floor route unobstructed.
 **Starting continuity:** Top drawer open empty; Maya holds towel; suitcase remains zipped.
 **Ending continuity:** One towel inside closed top drawer; no socks or cubes in guest room.
-**Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_17.png](storyboards/BOARD_17.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–1.34s · DAN 1.44–2.61s · MAYA 2.72–3.89s · NINA 3.99–6.85s · MAYA 6.95–9.53s.
@@ -1408,7 +1408,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Ella smooths the sage throw already on the bed without lifting the quilt or moving the pillow. Dan resists reorganizing the room further.
 **Starting continuity:** Bed has original pillow, cream quilt and sage throw; towel in closed drawer; case closed.
 **Ending continuity:** Sage throw smooth on bed; all bedding remains in original places.
-**Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_17.png](storyboards/BOARD_17.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.27s · DAN 2.37–4.48s · MAYA 4.58–5.22s · ELLA 5.32–8.31s.
@@ -1429,7 +1429,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Nina points to the empty hanger on the outside wardrobe hook and explains it is ready for Ruth's later use. No one opens the wardrobe.
 **Starting continuity:** Wardrobe closed; one empty household hanger on outer hook; no guest clothes exposed.
 **Ending continuity:** Hanger stays empty on hook; wardrobe, drawer and case closed.
-**Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_17.png](storyboards/BOARD_17.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.57s · NINA 2.67–4.19s · MAYA 4.29–6.10s · MAX 6.20–9.48s.
@@ -1450,7 +1450,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Leo brings the borrowed checklist to the guest-room doorway after reviewing the completed sorting sheet. Maya chooses to leave their family record in the kitchen; Ruth's original checklist is returned beside her case.
 **Starting continuity:** Leo holds borrowed Ruth checklist and family record; case closed on stand.
 **Ending continuity:** Ruth checklist back beside case; Dan holds only new family sorting sheet for the kitchen.
-**Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_17.png](storyboards/BOARD_17.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.69s · DAN 1.79–3.60s · MAYA 3.70–5.22s · LEO 5.32–8.31s.
@@ -1471,7 +1471,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** After the hall transition, Nina and Maya supervise handwashing and drying at the original sink, shown with a short time ellipsis. Dan leaves the family record on the dry island.
 **Starting continuity:** Sorting finished; no food preparation; original kitchen stove OFF and island clear except family record.
 **Ending continuity:** All six have washed and dried hands off and on camera; no socks or cubes enter kitchen.
-**Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_18.png](storyboards/BOARD_18.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–1.39s · MAX 1.49–3.31s · MAYA 3.41–5.81s · MAX 5.91–8.60s.
@@ -1492,7 +1492,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Maya thanks Nina for the owner-by-owner method. Nina credits Maya's clear shelf plan. Dan listens between them at the island.
 **Starting continuity:** Six labeled cubes remain in laundry nook; guest room tidy; family record dry on island.
 **Ending continuity:** Both women share credit; no objects transferred or new household task begun.
-**Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_18.png](storyboards/BOARD_18.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.98s · NINA 2.08–4.19s · DAN 4.29–5.81s · MAYA 5.91–9.19s.
@@ -1513,7 +1513,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Dan admits he wanted the room to look ready before Ruth noticed any work. The children reassure him without mocking his mistake.
 **Starting continuity:** Family record on island; Dan's hands empty; no clothing in kitchen.
 **Ending continuity:** Dan accepts asking first as part of helping; Leo lifts family record for dining room.
-**Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_18.png](storyboards/BOARD_18.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–3.36s · LEO 3.46–4.94s · ELLA 5.04–6.81s · DAN 6.91–9.53s.
@@ -1534,7 +1534,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Max points down the hall toward the laundry nook while Dan holds his palms apart to show the socks' short accidental journey. Leo carries family record toward the table.
 **Starting continuity:** Socks stored in laundry nook; closed guest suitcase contains no family cubes.
 **Ending continuity:** Max heads toward dining doorway beside Nina; kitchen remains clear and stove OFF.
-**Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_18.png](storyboards/BOARD_18.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.98s · DAN 2.08–3.89s · NINA 3.99–6.10s · MAX 6.20–8.89s.
@@ -1555,7 +1555,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** All six settle at the established table for a quiet conversation, not a new meal. Leo puts the family sorting record near the near-left edge for Dan.
 **Starting continuity:** Table cleared of meal dishes; no food served; canonical six chairs ready.
 **Ending continuity:** Dan near-left, Leo left-end, Ella far-left, Maya far-right, Nina right-end, Max near-right; record by Dan.
-**Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_19.png](storyboards/BOARD_19.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.69s · DAN 1.79–3.31s · MAX 3.41–5.22s · ELLA 5.32–8.60s.
@@ -1576,7 +1576,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** In seated coverage, Leo asks about Ruth's old necktie story; Dan explains that asking for help solved that mistake too. No flashback or Ruth voice is added.
 **Starting continuity:** All six remain in fixed seats; family record on table; no socks on table.
 **Ending continuity:** Dan and children smile; old anecdote ends without introducing a new object.
-**Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_19.png](storyboards/BOARD_19.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.79s · DAN 2.89–4.94s · ELLA 5.04–6.81s · DAN 6.91–9.53s.
@@ -1597,7 +1597,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Ella explains why she asked each owner instead of trusting colors alone. Both women affirm her practical respect for personal belongings.
 **Starting continuity:** Fixed seating; record by Dan; all sock cubes stored offscreen.
 **Ending continuity:** Ella understands names follow confirmed ownership; nothing is borrowed without asking.
-**Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_19.png](storyboards/BOARD_19.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.27s · MAYA 2.37–2.94s · NINA 3.04–5.44s · ELLA 5.54–8.82s.
@@ -1618,7 +1618,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Leo describes the two-row shelf from the shared doorway viewpoint. Max checks his bottom-right position aloud without leaving his seat.
 **Starting continuity:** Canonical seats unchanged; shelf remains offscreen with six cubes.
 **Ending continuity:** Family can describe location clearly; no repeated physical sorting or cube removal.
-**Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_19.png](storyboards/BOARD_19.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.43s · MAX 2.53–4.52s · DAN 4.62–6.61s · LEO 6.71–9.53s.
@@ -1639,7 +1639,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Nina mentions a later garden afternoon; Maya agrees it can wait until after Ruth's rest. Max imagines labels for pots without starting the next episode.
 **Starting continuity:** Quiet conversation only; no gardening tools or plants newly introduced.
 **Ending continuity:** Future garden idea remains only a spoken plan; present sock story resolved.
-**Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_20.png](storyboards/BOARD_20.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–2.57s · MAX 2.67–4.48s · MAYA 4.58–6.10s · MAX 6.20–9.19s.
@@ -1660,7 +1660,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Max jokes about whether Ruth needs a name tab. Maya smiles and reminds him people introduce themselves; Dan keeps the record on the table.
 **Starting continuity:** Ruth remains offscreen; no blank tabs or stickers at table.
 **Ending continuity:** Family laughs gently; nobody labels a person or invents a second Ruth.
-**Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_20.png](storyboards/BOARD_20.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.57s · MAYA 2.67–4.19s · DAN 4.29–6.10s · MAX 6.20–9.19s.
@@ -1681,7 +1681,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Dan folds the completed family sorting record and places it beside the table's near-left edge for later filing, ending the job rather than packing again.
 **Starting continuity:** Family record flat by Dan; all six seated in fixed places.
 **Ending continuity:** Record folded on table; all family socks stored at home; Ruth's belongings untouched.
-**Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_20.png](storyboards/BOARD_20.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.57s · NINA 2.67–4.48s · LEO 4.58–6.10s · NINA 6.20–9.19s.
@@ -1702,7 +1702,7 @@ Edit STORY.md first; sync.py regenerates this written draft and estimated subtit
 **Action:** Hold the warm six-person tableau. Dan sets both empty hands on the table; everyone smiles toward the family, not an audience lesson. Add closing artwork within the existing slot.
 **Starting continuity:** All six in fixed seats; folded family record near Dan; no food or laundry on table.
 **Ending continuity:** Story ends at13:20 with sorting resolved, guest resting offscreen and no new action begun.
-**Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_20.png](storyboards/BOARD_20.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–3.15s · MAYA 3.25–5.07s · MAX 5.17–6.10s · ELLA 6.20–9.48s.
