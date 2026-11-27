@@ -1,6 +1,8 @@
 # Episode 04 — Dad Tried On the Wrong Shoes! | Shopping Mall English
 
-> **Format:** 80 continuous story shots × 15 seconds = **20:00 story runtime**
+> **Format:** 80 continuous story shots × 10 seconds = **13:20 planned story runtime**
+>
+> **Editing plan:** Plan each shot for 10 editorial seconds to reduce filler pauses and unnecessary movements. Preserve natural dialogue delivery and meaningful actions; confirm timing against recorded performances before final editing rather than adding silence or speeding up speech.
 >
 > **Status:** written and visual preproduction draft. Creator approval, approved individual motion first frames, recorded voices and a finished film remain pending.
 >
@@ -10,11 +12,11 @@ After the pancake breakfast, the Brooks family visits a small neighborhood mall 
 
 ## Story arc
 
-- **00:00–04:00:** one pair, clear budget, familiar cast, mall landmarks and the first boxes.
-- **04:00–08:00:** wrong shoe comparison, inverted map, a 90-second Rose encounter, and a checked return to the fitting area.
-- **08:00–14:00:** measure both feet, compare tight/loose/comfortable, check a normal walk, and return every rejected trial pair.
-- **14:00–17:00:** one $32 purchase, $40 payment, $8 change, a specific return policy and safe receipt storage.
-- **17:00–20:00:** upright directions home, no wardrobe drift, receipt filed and a warm family payoff.
+- **00:00–02:40:** one pair, clear budget, familiar cast, mall landmarks and the first boxes.
+- **02:40–05:20:** wrong shoe comparison, inverted map, a 60-second Rose encounter, and a checked return to the fitting area.
+- **05:20–09:20:** measure both feet, compare tight/loose/comfortable, check a normal walk, and return every rejected trial pair.
+- **09:20–11:20:** one $32 purchase, $40 payment, $8 change, a specific return policy and safe receipt storage.
+- **11:20–13:20:** upright directions home, no wardrobe drift, receipt filed and a warm family payoff.
 
 ## Performance and continuity rules
 
@@ -24,7 +26,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 ## Timed story shots
 
-### SHOT_001 | 00:00:00–00:00:15 | A pair for school
+### SHOT_001 | 00:00:00–00:00:10 | A pair for school
 
 **Visible cast:** MAYA, DAN, MAX
 
@@ -52,7 +54,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **MAYA:** Only if they start smelling like bananas. Let's try feet.
 
-### SHOT_002 | 00:00:15–00:00:30 | The person inside them
+### SHOT_002 | 00:00:10–00:00:20 | The person inside them
 
 **Visible cast:** NINA, MAX, ELLA
 
@@ -80,7 +82,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **MAX:** Mine would like room to move at recess, too.
 
-### SHOT_003 | 00:00:30–00:00:45 | One clear plan
+### SHOT_003 | 00:00:20–00:00:30 | One clear plan
 
 **Visible cast:** LEO, NINA, DAN
 
@@ -108,7 +110,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **LEO:** Fit first. Max has to wear them all day.
 
-### SHOT_004 | 00:00:45–00:01:00 | Check without guessing
+### SHOT_004 | 00:00:30–00:00:40 | Check without guessing
 
 **Visible cast:** DAN, MAYA, MAX
 
@@ -136,7 +138,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **MAX:** Both? My toes aren't arguing about it.
 
-### SHOT_005 | 00:01:00–00:01:15 | Six people leaving
+### SHOT_005 | 00:00:40–00:00:50 | Six people leaving
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX
 
@@ -152,7 +154,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
-**Continuity:** Rose is Maya sister, visible only shots025–030 (90seconds), a provisional supporting design; she offers orientation clue while family completes task. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
+**Continuity:** Rose is Maya sister, visible only shots025–030 (60 seconds), a provisional supporting design; she offers orientation clue while family completes task. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
 **Dialogue:**
 
@@ -164,7 +166,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **DAN:** Thanks, Max. I'll count the people and trust your feet.
 
-### SHOT_006 | 00:01:15–00:01:30 | The right pocket
+### SHOT_006 | 00:00:50–00:01:00 | The right pocket
 
 **Visible cast:** DAN, LEO
 
@@ -192,7 +194,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **DAN:** Please do. Two sets of eyes this time.
 
-### SHOT_007 | 00:01:30–00:01:45 | Comfort is not a race
+### SHOT_007 | 00:01:00–00:01:10 | Comfort is not a race
 
 **Visible cast:** MAYA, NINA, MAX
 
@@ -220,7 +222,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **MAYA:** You get to tell us when a pair feels right.
 
-### SHOT_008 | 00:01:45–00:02:00 | The mall trip begins
+### SHOT_008 | 00:01:10–00:01:20 | The mall trip begins
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX
 
@@ -248,7 +250,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **LEO:** Lucky for us. They know how to get to the door.
 
-### SHOT_009 | 00:02:00–00:02:15 | Doors and directions
+### SHOT_009 | 00:01:20–00:01:30 | Doors and directions
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX
 
@@ -276,7 +278,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **LEO:** Along this floor. No stairs for us.
 
-### SHOT_010 | 00:02:15–00:02:30 | A moving staircase
+### SHOT_010 | 00:01:30–00:01:40 | A moving staircase
 
 **Visible cast:** DAN, MAX, NINA
 
@@ -304,7 +306,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **DAN:** Saves them a trip. We're staying on this floor anyway.
 
-### SHOT_011 | 00:02:30–00:02:45 | Another way upstairs
+### SHOT_011 | 00:01:40–00:01:50 | Another way upstairs
 
 **Visible cast:** MAYA, ELLA, LEO
 
@@ -332,7 +334,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **ELLA:** Good. I'd rather try shoes than ride past the store.
 
-### SHOT_012 | 00:02:45–00:03:00 | Take a small map
+### SHOT_012 | 00:01:50–00:02:00 | Take a small map
 
 **Visible cast:** DAN, LEO, MAX
 
@@ -360,7 +362,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **MAX:** I know that part. They're right under me.
 
-### SHOT_013 | 00:03:00–00:03:15 | Landmarks agree
+### SHOT_013 | 00:02:00–00:02:10 | Landmarks agree
 
 **Visible cast:** NINA, ELLA, DAN
 
@@ -376,7 +378,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **Picture:** [BOARD_04.png](assets/storyboards/BOARD_04.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
-**Continuity:** Rose is Maya sister, visible only shots025–030 (90seconds), a provisional supporting design; she offers orientation clue while family completes task. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
+**Continuity:** Rose is Maya sister, visible only shots025–030 (60 seconds), a provisional supporting design; she offers orientation clue while family completes task. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
 **Dialogue:**
 
@@ -388,7 +390,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **NINA:** That's our shop. We can put the map away soon.
 
-### SHOT_014 | 00:03:15–00:03:30 | The store window
+### SHOT_014 | 00:02:10–00:02:20 | The store window
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX
 
@@ -416,7 +418,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **DAN:** I hope the bench comes in my size.
 
-### SHOT_015 | 00:03:30–00:03:45 | Ask for a seat
+### SHOT_015 | 00:02:20–00:02:30 | Ask for a seat
 
 **Visible cast:** DAN, NINA, MAX
 
@@ -444,7 +446,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **NINA:** Yes. They get the first turn today.
 
-### SHOT_016 | 00:03:45–00:04:00 | Two boxes nearby
+### SHOT_016 | 00:02:30–00:02:40 | Two boxes nearby
 
 **Visible cast:** DAN, LEO, ELLA
 
@@ -472,7 +474,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **DAN:** Max is. My feet can stay in my shoes.
 
-### SHOT_017 | 00:04:00–00:04:15 | An overconfident comparison
+### SHOT_017 | 00:02:40–00:02:50 | An overconfident comparison
 
 **Visible cast:** DAN, MAX, ELLA
 
@@ -500,7 +502,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **MAX:** Please remember which feet came with me today, Dad.
 
-### SHOT_018 | 00:04:15–00:04:30 | The wrong shoe joke
+### SHOT_018 | 00:02:50–00:03:00 | The wrong shoe joke
 
 **Visible cast:** DAN, MAX, ELLA
 
@@ -528,7 +530,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **MAX:** I can tell without trying. That one's smaller than your sock.
 
-### SHOT_019 | 00:04:30–00:04:45 | Nothing gets forced
+### SHOT_019 | 00:03:00–00:03:10 | Nothing gets forced
 
 **Visible cast:** MAYA, DAN, LEO
 
@@ -556,7 +558,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **DAN:** Max's. My foot is officially off duty.
 
-### SHOT_020 | 00:04:45–00:05:00 | Return and measure first
+### SHOT_020 | 00:03:10–00:03:20 | Return and measure first
 
 **Visible cast:** NINA, DAN, MAX
 
@@ -584,7 +586,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **MAX:** Come on, Dad. They're both right here with me.
 
-### SHOT_021 | 00:05:00–00:05:15 | The little arrow
+### SHOT_021 | 00:03:20–00:03:30 | The little arrow
 
 **Visible cast:** DAN, LEO
 
@@ -600,7 +602,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
-**Continuity:** Rose is Maya sister, visible only shots025–030 (90seconds), a provisional supporting design; she offers orientation clue while family completes task. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
+**Continuity:** Rose is Maya sister, visible only shots025–030 (60 seconds), a provisional supporting design; she offers orientation clue while family completes task. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
 **Dialogue:**
 
@@ -612,7 +614,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **LEO:** Turn the paper first. It's lighter than the building.
 
-### SHOT_022 | 00:05:15–00:05:30 | Together, not wandering
+### SHOT_022 | 00:03:30–00:03:40 | Together, not wandering
 
 **Visible cast:** MAYA, NINA, MAX, ELLA
 
@@ -640,7 +642,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **ELLA:** I'll keep the real signs in sight while you check.
 
-### SHOT_023 | 00:05:30–00:05:45 | The wrong direction stops
+### SHOT_023 | 00:03:40–00:03:50 | The wrong direction stops
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX
 
@@ -668,7 +670,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **DAN:** A sign behind us beats a guess in front of us.
 
-### SHOT_024 | 00:05:45–00:06:00 | Not every room fits
+### SHOT_024 | 00:03:50–00:04:00 | Not every room fits
 
 **Visible cast:** NINA, DAN, MAX
 
@@ -696,7 +698,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **NINA:** Where they measure feet and let us try shoes.
 
-### SHOT_025 | 00:06:00–00:06:15 | A familiar hello
+### SHOT_025 | 00:04:00–00:04:10 | A familiar hello
 
 **Visible cast:** ROSE, MAYA, DAN
 
@@ -724,7 +726,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **ROSE:** Directions I can help with. What were you trying to find?
 
-### SHOT_026 | 00:06:15–00:06:30 | One useful question
+### SHOT_026 | 00:04:10–00:04:20 | One useful question
 
 **Visible cast:** ROSE, DAN, LEO
 
@@ -752,7 +754,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **DAN:** We came from there. Which side should we be on?
 
-### SHOT_027 | 00:06:30–00:06:45 | Turn the map, not the family
+### SHOT_027 | 00:04:20–00:04:30 | Turn the map, not the family
 
 **Visible cast:** ROSE, LEO, DAN
 
@@ -780,7 +782,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **LEO:** It's easier when the doors on both match, Dad.
 
-### SHOT_028 | 00:06:45–00:07:00 | The bench was the clue
+### SHOT_028 | 00:04:30–00:04:40 | The bench was the clue
 
 **Visible cast:** ROSE, ELLA, NINA
 
@@ -808,7 +810,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **ELLA:** So we were closer than that map made us think.
 
-### SHOT_029 | 00:07:00–00:07:15 | A short family update
+### SHOT_029 | 00:04:40–00:04:50 | A short family update
 
 **Visible cast:** ROSE, MAYA, MAX
 
@@ -824,7 +826,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
-**Continuity:** Rose is Maya sister, visible only shots025–030 (90seconds), a provisional supporting design; she offers orientation clue while family completes task. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
+**Continuity:** Rose is Maya sister, visible only shots025–030 (60 seconds), a provisional supporting design; she offers orientation clue while family completes task. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
 **Dialogue:**
 
@@ -836,7 +838,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **MAX:** Good. Mine have plenty to say about school shoes.
 
-### SHOT_030 | 00:07:15–00:07:30 | Rose goes her own way
+### SHOT_030 | 00:04:50–00:05:00 | Rose goes her own way
 
 **Visible cast:** ROSE, MAYA, DAN
 
@@ -864,7 +866,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **ROSE:** Give those toes a vote for me, Max.
 
-### SHOT_031 | 00:07:30–00:07:45 | Read the real sign
+### SHOT_031 | 00:05:00–00:05:10 | Read the real sign
 
 **Visible cast:** DAN, LEO, ELLA
 
@@ -892,7 +894,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **DAN:** This time I'll ask somebody who works with feet.
 
-### SHOT_032 | 00:07:45–00:08:00 | Back without shortcuts
+### SHOT_032 | 00:05:10–00:05:20 | Back without shortcuts
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX
 
@@ -920,7 +922,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **MAX:** Yes. My feet have been looking forward to that bench.
 
-### SHOT_033 | 00:08:00–00:08:15 | Ask before using
+### SHOT_033 | 00:05:20–00:05:30 | Ask before using
 
 **Visible cast:** NINA, MAX, DAN
 
@@ -950,7 +952,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **MAX:** I'll sit still. My toes might have questions, though.
 
-### SHOT_034 | 00:08:15–00:08:30 | One old pair stays together
+### SHOT_034 | 00:05:30–00:05:40 | One old pair stays together
 
 **Visible cast:** NINA, MAX, ELLA
 
@@ -978,7 +980,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **MAX:** My old shoes can watch. They've done enough walking.
 
-### SHOT_035 | 00:08:30–00:08:45 | Both feet, one answer
+### SHOT_035 | 00:05:40–00:05:50 | Both feet, one answer
 
 **Visible cast:** NINA, MAX, DAN
 
@@ -1008,7 +1010,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **MAX:** I want to see how the twos feel.
 
-### SHOT_036 | 00:08:45–00:09:00 | A style he likes
+### SHOT_036 | 00:05:50–00:06:00 | A style he likes
 
 **Visible cast:** MAX, MAYA, LEO
 
@@ -1036,7 +1038,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **MAX:** My toes can tell us once both shoes are on.
 
-### SHOT_037 | 00:09:00–00:09:15 | The nearby size
+### SHOT_037 | 00:06:00–00:06:10 | The nearby size
 
 **Visible cast:** DAN, LEO, MAX
 
@@ -1052,7 +1054,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **Picture:** [BOARD_10.png](assets/storyboards/BOARD_10.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
-**Continuity:** Rose is Maya sister, visible only shots025–030 (90seconds), a provisional supporting design; she offers orientation clue while family completes task. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
+**Continuity:** Rose is Maya sister, visible only shots025–030 (60 seconds), a provisional supporting design; she offers orientation clue while family completes task. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
 **Dialogue:**
 
@@ -1064,7 +1066,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **DAN:** Good. I'll wait for the customer's actual opinion.
 
-### SHOT_038 | 00:09:15–00:09:30 | A brief tight fit
+### SHOT_038 | 00:06:10–00:06:20 | A brief tight fit
 
 **Visible cast:** NINA, MAX, MAYA
 
@@ -1092,7 +1094,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **MAX:** Thanks. That's exactly the part I'd like to skip.
 
-### SHOT_039 | 00:09:30–00:09:45 | Listen and remove
+### SHOT_039 | 00:06:20–00:06:30 | Listen and remove
 
 **Visible cast:** NINA, MAX, DAN
 
@@ -1120,7 +1122,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **DAN:** Let's remember that feeling when we compare the next size.
 
-### SHOT_040 | 00:09:45–00:10:00 | The other extreme
+### SHOT_040 | 00:06:30–00:06:40 | The other extreme
 
 **Visible cast:** DAN, LEO, ELLA
 
@@ -1148,7 +1150,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **LEO:** Let's hear from Max's heel first.
 
-### SHOT_041 | 00:10:00–00:10:15 | Loose is information
+### SHOT_041 | 00:06:40–00:06:50 | Loose is information
 
 **Visible cast:** NINA, MAX, ELLA
 
@@ -1176,7 +1178,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **MAX:** I can feel it every time I lift my heel.
 
-### SHOT_042 | 00:10:15–00:10:30 | Return the loose pair
+### SHOT_042 | 00:06:50–00:07:00 | Return the loose pair
 
 **Visible cast:** NINA, DAN, MAX
 
@@ -1204,7 +1206,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **MAX:** Stay with me when I take a step.
 
-### SHOT_043 | 00:10:30–00:10:45 | The measured size arrives
+### SHOT_043 | 00:07:00–00:07:10 | The measured size arrives
 
 **Visible cast:** LEO, DAN, MAX
 
@@ -1234,7 +1236,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **MAX:** The number matches. My toes get the final say.
 
-### SHOT_044 | 00:10:45–00:11:00 | Make space gently
+### SHOT_044 | 00:07:10–00:07:20 | Make space gently
 
 **Visible cast:** NINA, MAX, MAYA
 
@@ -1262,7 +1264,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **MAX:** Give me a second. I want to feel both.
 
-### SHOT_045 | 00:11:00–00:11:15 | Secure, not squeezed
+### SHOT_045 | 00:07:20–00:07:30 | Secure, not squeezed
 
 **Visible cast:** NINA, MAX, DAN
 
@@ -1278,7 +1280,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
-**Continuity:** Rose is Maya sister, visible only shots025–030 (90seconds), a provisional supporting design; she offers orientation clue while family completes task. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
+**Continuity:** Rose is Maya sister, visible only shots025–030 (60 seconds), a provisional supporting design; she offers orientation clue while family completes task. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
 **Dialogue:**
 
@@ -1290,7 +1292,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **MAX:** Yes. It stays put when I move my foot.
 
-### SHOT_046 | 00:11:15–00:11:30 | His answer matters
+### SHOT_046 | 00:07:30–00:07:40 | His answer matters
 
 **Visible cast:** MAX, MAYA, ELLA
 
@@ -1318,7 +1320,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **MAYA:** And I'll take those answers over a number on a box.
 
-### SHOT_047 | 00:11:30–00:11:45 | Stand before deciding
+### SHOT_047 | 00:07:40–00:07:50 | Stand before deciding
 
 **Visible cast:** NINA, MAX, DAN
 
@@ -1346,7 +1348,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **NINA:** That's why we want to see you stand normally.
 
-### SHOT_048 | 00:11:45–00:12:00 | A short walking test
+### SHOT_048 | 00:07:50–00:08:00 | A short walking test
 
 **Visible cast:** MAX, NINA, LEO
 
@@ -1374,7 +1376,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **MAX:** Steady. I can feel the floor without a hard edge.
 
-### SHOT_049 | 00:12:00–00:12:15 | The mirror is not the judge
+### SHOT_049 | 00:08:00–00:08:10 | The mirror is not the judge
 
 **Visible cast:** MAX, MAYA, DAN
 
@@ -1402,7 +1404,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **DAN:** The mirror doesn't get to make the choice for you.
 
-### SHOT_050 | 00:12:15–00:12:30 | One more careful check
+### SHOT_050 | 00:08:10–00:08:20 | One more careful check
 
 **Visible cast:** NINA, MAX, ELLA
 
@@ -1430,7 +1432,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **NINA:** Good. Trust your feet first.
 
-### SHOT_051 | 00:12:30–00:12:45 | Ask the price plainly
+### SHOT_051 | 00:08:20–00:08:30 | Ask the price plainly
 
 **Visible cast:** DAN, LEO, MAX
 
@@ -1460,7 +1462,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **MAX:** And I can wear them to school without sore toes.
 
-### SHOT_052 | 00:12:45–00:13:00 | No extra pair required
+### SHOT_052 | 00:08:30–00:08:40 | No extra pair required
 
 **Visible cast:** DAN, MAYA, MAX
 
@@ -1488,7 +1490,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **DAN:** Fair enough. The list doesn't need a pair of shoes.
 
-### SHOT_053 | 00:13:00–00:13:15 | Take off the trial pair
+### SHOT_053 | 00:08:40–00:08:50 | Take off the trial pair
 
 **Visible cast:** NINA, MAX, ELLA
 
@@ -1504,7 +1506,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
-**Continuity:** Rose is Maya sister, visible only shots025–030 (90seconds), a provisional supporting design; she offers orientation clue while family completes task. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
+**Continuity:** Rose is Maya sister, visible only shots025–030 (60 seconds), a provisional supporting design; she offers orientation clue while family completes task. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
 **Dialogue:**
 
@@ -1516,7 +1518,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **MAX:** My own green ones. I know how those feel.
 
-### SHOT_054 | 00:13:15–00:13:30 | Old shoes return to work
+### SHOT_054 | 00:08:50–00:09:00 | Old shoes return to work
 
 **Visible cast:** MAX, NINA, DAN
 
@@ -1544,7 +1546,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **MAX:** The navy pair, saving its steps for school.
 
-### SHOT_055 | 00:13:30–00:13:45 | Only the right box
+### SHOT_055 | 00:09:00–00:09:10 | Only the right box
 
 **Visible cast:** LEO, DAN, ELLA
 
@@ -1572,7 +1574,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **DAN:** Good. Let's keep those two together.
 
-### SHOT_056 | 00:13:45–00:14:00 | Ready for the cashier
+### SHOT_056 | 00:09:10–00:09:20 | Ready for the cashier
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX
 
@@ -1600,7 +1602,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **LEO:** And our one good pair stays together in its box.
 
-### SHOT_057 | 00:14:00–00:14:15 | The pair on the counter
+### SHOT_057 | 00:09:20–00:09:30 | The pair on the counter
 
 **Visible cast:** DAN, LEO, MAX
 
@@ -1632,7 +1634,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **MAX:** And it's the one my heel liked.
 
-### SHOT_058 | 00:14:15–00:14:30 | One final look
+### SHOT_058 | 00:09:30–00:09:40 | One final look
 
 **Visible cast:** NINA, MAX, DAN
 
@@ -1662,7 +1664,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **NINA:** Then we can put this pair through checkout.
 
-### SHOT_059 | 00:14:30–00:14:45 | Forty is enough
+### SHOT_059 | 00:09:40–00:09:50 | Forty is enough
 
 **Visible cast:** DAN, LEO
 
@@ -1690,7 +1692,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **DAN:** Eight dollars, if our total's right.
 
-### SHOT_060 | 00:14:45–00:15:00 | Payment stays visible
+### SHOT_060 | 00:09:50–00:10:00 | Payment stays visible
 
 **Visible cast:** DAN, MAX
 
@@ -1718,7 +1720,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **MAX:** Only thirty-two stays, Dad. The rest comes back.
 
-### SHOT_061 | 00:15:00–00:15:15 | Eight dollars back
+### SHOT_061 | 00:10:00–00:10:10 | Eight dollars back
 
 **Visible cast:** DAN, LEO, MAX
 
@@ -1736,7 +1738,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
-**Continuity:** Rose is Maya sister, visible only shots025–030 (90seconds), a provisional supporting design; she offers orientation clue while family completes task. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
+**Continuity:** Rose is Maya sister, visible only shots025–030 (60 seconds), a provisional supporting design; she offers orientation clue while family completes task. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
 **Dialogue:**
 
@@ -1748,7 +1750,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **DAN:** I'll take this kind of change any day, Max.
 
-### SHOT_062 | 00:15:15–00:15:30 | Budget and cash agree
+### SHOT_062 | 00:10:10–00:10:20 | Budget and cash agree
 
 **Visible cast:** MAYA, NINA, LEO
 
@@ -1776,7 +1778,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **MAYA:** Right. One starts with our limit, one with the bills.
 
-### SHOT_063 | 00:15:30–00:15:45 | Keep the receipt
+### SHOT_063 | 00:10:20–00:10:30 | Keep the receipt
 
 **Visible cast:** DAN, ELLA, MAX
 
@@ -1804,7 +1806,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **ELLA:** And the paper actually fits in Dad's wallet.
 
-### SHOT_064 | 00:15:45–00:16:00 | Ask about returning
+### SHOT_064 | 00:10:30–00:10:40 | Ask about returning
 
 **Visible cast:** DAN, NINA, MAX
 
@@ -1834,7 +1836,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **MAX:** Good. We know exactly which box goes with them.
 
-### SHOT_065 | 00:16:00–00:16:15 | A policy is not a refund
+### SHOT_065 | 00:10:40–00:10:50 | A policy is not a refund
 
 **Visible cast:** MAX, MAYA, DAN
 
@@ -1862,7 +1864,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **MAX:** Then my toes can skip the paperwork today.
 
-### SHOT_066 | 00:16:15–00:16:30 | One bag, one purchase
+### SHOT_066 | 00:10:50–00:11:00 | One bag, one purchase
 
 **Visible cast:** DAN, NINA, ELLA
 
@@ -1892,7 +1894,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **NINA:** One box is just right. Thank you for listening to Max.
 
-### SHOT_067 | 00:16:30–00:16:45 | Check the group again
+### SHOT_067 | 00:11:00–00:11:10 | Check the group again
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX
 
@@ -1920,7 +1922,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **LEO:** And the new ones are riding home in their box.
 
-### SHOT_068 | 00:16:45–00:17:00 | A careful carry
+### SHOT_068 | 00:11:10–00:11:20 | A careful carry
 
 **Visible cast:** DAN, MAX, NINA
 
@@ -1948,7 +1950,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **MAX:** This time can we ask before the mall turns around?
 
-### SHOT_069 | 00:17:00–00:17:15 | The correct exit
+### SHOT_069 | 00:11:20–00:11:30 | The correct exit
 
 **Visible cast:** DAN, LEO, ELLA
 
@@ -1964,7 +1966,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
-**Continuity:** Rose is Maya sister, visible only shots025–030 (90seconds), a provisional supporting design; she offers orientation clue while family completes task. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
+**Continuity:** Rose is Maya sister, visible only shots025–030 (60 seconds), a provisional supporting design; she offers orientation clue while family completes task. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
 **Dialogue:**
 
@@ -1976,7 +1978,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **DAN:** After that detour, I'm happy to take a vote.
 
-### SHOT_070 | 00:17:15–00:17:30 | The escalator can wait
+### SHOT_070 | 00:11:30–00:11:40 | The escalator can wait
 
 **Visible cast:** MAX, NINA, MAYA
 
@@ -2004,7 +2006,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **MAX:** Good. My old shoes know how to go straight.
 
-### SHOT_071 | 00:17:30–00:17:45 | Check, then fold
+### SHOT_071 | 00:11:40–00:11:50 | Check, then fold
 
 **Visible cast:** DAN, LEO, MAX
 
@@ -2032,7 +2034,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **LEO:** It's easier when the doors stay on the same side.
 
-### SHOT_072 | 00:17:45–00:18:00 | Out through the same doors
+### SHOT_072 | 00:11:50–00:12:00 | Out through the same doors
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX
 
@@ -2060,7 +2062,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **MAX:** Yes, and the boxed pair comes too.
 
-### SHOT_073 | 00:18:00–00:18:15 | Home, same kitchen
+### SHOT_073 | 00:12:00–00:12:10 | Home, same kitchen
 
 **Visible cast:** DAN, NINA, MAX
 
@@ -2088,7 +2090,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **DAN:** I think the box had the easiest walk of all.
 
-### SHOT_074 | 00:18:15–00:18:30 | A clean place for shoes
+### SHOT_074 | 00:12:10–00:12:20 | A clean place for shoes
 
 **Visible cast:** MAYA, DAN, LEO
 
@@ -2116,7 +2118,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **DAN:** The bench near the door suits this box just fine.
 
-### SHOT_075 | 00:18:30–00:18:45 | Proof of the pair
+### SHOT_075 | 00:12:20–00:12:30 | Proof of the pair
 
 **Visible cast:** DAN, NINA, ELLA
 
@@ -2144,7 +2146,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **ELLA:** Good. Paper stays dry and the toes stay clean.
 
-### SHOT_076 | 00:18:45–00:19:00 | The customer reports
+### SHOT_076 | 00:12:30–00:12:40 | The customer reports
 
 **Visible cast:** MAX, MAYA, NINA
 
@@ -2172,7 +2174,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **MAX:** Next time I can tell you before we even look in the mirror.
 
-### SHOT_077 | 00:19:00–00:19:15 | The joke finds its limit
+### SHOT_077 | 00:12:40–00:12:50 | The joke finds its limit
 
 **Visible cast:** DAN, LEO, ELLA
 
@@ -2188,7 +2190,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
-**Continuity:** Rose is Maya sister, visible only shots025–030 (90seconds), a provisional supporting design; she offers orientation clue while family completes task. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
+**Continuity:** Rose is Maya sister, visible only shots025–030 (60 seconds), a provisional supporting design; she offers orientation clue while family completes task. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
 **Dialogue:**
 
@@ -2200,7 +2202,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **DAN:** Let them know they're safe. These brown ones are mine.
 
-### SHOT_078 | 00:19:15–00:19:30 | A different picnic plan
+### SHOT_078 | 00:12:50–00:13:00 | A different picnic plan
 
 **Visible cast:** MAYA, NINA, MAX
 
@@ -2228,7 +2230,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **NINA:** We can give it a landmark so we'll know it.
 
-### SHOT_079 | 00:19:30–00:19:45 | Everyone helped
+### SHOT_079 | 00:13:00–00:13:10 | Everyone helped
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX
 
@@ -2256,7 +2258,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **MAX:** Everybody heard the bit about my heel. That helped.
 
-### SHOT_080 | 00:19:45–00:20:00 | One family, the right fit
+### SHOT_080 | 00:13:10–00:13:20 | One family, the right fit
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX
 
@@ -2264,11 +2266,11 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **Camera:** Slow closing wide, no extra group speech or outfit change.
 
-**Action:** Max gives a small satisfied toe wiggle inside his original green shoes; the camera holds the family and fades within the fifteen-second slot.
+**Action:** Max gives a small satisfied toe wiggle inside his original green shoes; the camera holds the family and fades within the ten-second slot.
 
 **Opening state:** All six in kitchen; new navy pair boxed at doorway shoe bench; receipt filed; no extra purchase.
 
-**End state:** Story resolved at20:00; optional creator practice begins only after the film if separately authored.
+**End state:** Story resolved at13:20; optional creator practice begins only after the film if separately authored.
 
 **Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
