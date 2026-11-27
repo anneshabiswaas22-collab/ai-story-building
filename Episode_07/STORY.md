@@ -22,7 +22,7 @@ On a later Saturday after the restaurant outing, the Brooks family plans a libra
 
 The fictional transit example has Route 7 NORTHBOUND — LIBRARY and SOUTHBOUND — RIVER, each listing a Saturday09:50 departure at these paired stops. Home09:30, first-stop09:40, corrected-stop09:47, departure09:50, library arrival10:05. Walking, boarding, riding and checkout include explicit time ellipses. These are screenplay clocks, not real transit information or a claim that each task takes ten seconds.
 
-All six preserve their original faces, ages, body ratios and W01 clothes; Dan's watch LEFT and stowed phone/wallet/ticket envelope RIGHT. Ed is Nina's father and is never visible. He speaks only in SHOT_029–032. The family checks the route themselves and uses the marked signal crossing; no child separates, rushes to a bus, crosses midblock or boards while moving. Exact text and amounts come from the editable SVGs. Follow [CONTINUITY.md](CONTINUITY.md) and [SCENE_REFERENCE_PLAN.md](SCENE_REFERENCE_PLAN.md).
+All six preserve their original faces, ages, body ratios and W01 clothes; Dan's watch LEFT and stowed phone/wallet/ticket envelope RIGHT. Ed is Nina's father and is never visible. He speaks only in SHOT_029–032. The family checks the route themselves and uses the marked signal crossing; no child separates, rushes to a bus, crosses midblock or boards while moving. Exact text and amounts come from the editable SVGs. Follow [CONTINUITY.md](../Shared_Resources/Archive/Episode_07/CONTINUITY.md) and [SCENE_REFERENCE_PLAN.md](../Shared_Resources/Archive/Episode_07/SCENE_REFERENCE_PLAN.md).
 
 ## Timed story shots
 
@@ -40,7 +40,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Leaflet, envelope and blue folder lie separately on the dry island.
 
-**Picture:** [BOARD_01.png](assets/storyboards/BOARD_01.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_01.png](storyboards/BOARD_01.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** W01 unchanged; fridge rear-left, sink rear window, stove rear-right; stove OFF.
 
@@ -68,7 +68,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Exactly three old return books in the bag; Max has empty hands.
 
-**Picture:** [BOARD_01.png](assets/storyboards/BOARD_01.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_01.png](storyboards/BOARD_01.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** No borrowing yet; this bag carries books, not fruit or shoes.
 
@@ -96,7 +96,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Six tickets checked and returned to envelope; no ticket used.
 
-**Picture:** [BOARD_01.png](assets/storyboards/BOARD_01.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_01.png](storyboards/BOARD_01.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Three adult tickets at $2 plus three child tickets at $1 total $9; fictional one-way fares.
 
@@ -124,7 +124,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** 09:50 departure marked; NORTHBOUND — LIBRARY line remains visible in the overlay.
 
-**Picture:** [BOARD_01.png](assets/storyboards/BOARD_01.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_01.png](storyboards/BOARD_01.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Route 7 has both directions; this is the library-bound departure, not every Route 7 bus.
 
@@ -152,7 +152,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Single closed yellow umbrella strapped outside navy bag.
 
-**Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_02.png](storyboards/BOARD_02.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Umbrella remains closed throughout; no weather crisis or indoor opening.
 
@@ -180,7 +180,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Nina holds zipped folder; Dan pockets envelope on RIGHT; Leo wears bag on both shoulders.
 
-**Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_02.png](storyboards/BOARD_02.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Dan’s phone and wallet remain in right trouser pocket; tickets in separate envelope there.
 
@@ -208,7 +208,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Family ready at doorway; no new physical book or toy introduced.
 
-**Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_02.png](storyboards/BOARD_02.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Leo is twelve and tallest child; Ella nine, Max seven; no costume or wardrobe changes.
 
@@ -236,7 +236,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** All six depart together; Leo carries bag, Nina folder, Dan leaflet and unused tickets.
 
-**Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_02.png](storyboards/BOARD_02.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Explicit walking-time ellipsis leads to 09:40 at the first stop; no teleporting props.
 
@@ -264,7 +264,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Group stops inside red shelter; no bus boarded.
 
-**Picture:** [BOARD_03.png](assets/storyboards/BOARD_03.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_03.png](storyboards/BOARD_03.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Near red shelter is SOUTHBOUND — RIVER; far blue shelter NORTHBOUND — LIBRARY; road geography never flips.
 
@@ -292,7 +292,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Dan lowers wrist; Maya’s attention turns to stop sign.
 
-**Picture:** [BOARD_03.png](assets/storyboards/BOARD_03.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_03.png](storyboards/BOARD_03.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Watch stays anatomical LEFT; nobody leans into traffic to read the sign.
 
@@ -320,7 +320,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** All three looking at the same sign; Dan’s certainty begins to soften.
 
-**Picture:** [BOARD_03.png](assets/storyboards/BOARD_03.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_03.png](storyboards/BOARD_03.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Exact sign text is supplied editorially; route number alone does not determine direction.
 
@@ -348,7 +348,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Max and Ella seated; Nina standing beside bench; belongings unchanged.
 
-**Picture:** [BOARD_03.png](assets/storyboards/BOARD_03.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_03.png](storyboards/BOARD_03.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Bench has space without displacing other passengers; empty background only.
 
@@ -376,7 +376,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Matching time noticed; destination headings placed side by side.
 
-**Picture:** [BOARD_04.png](assets/storyboards/BOARD_04.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_04.png](storyboards/BOARD_04.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** The southbound timetable also lists 09:50; times alone cannot prove the right stop.
 
@@ -404,7 +404,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** River and library are recognized as different destinations.
 
-**Picture:** [BOARD_04.png](assets/storyboards/BOARD_04.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_04.png](storyboards/BOARD_04.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** This is a direction error, not a missing stop or a changed bus route.
 
@@ -432,7 +432,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Max’s hands return to lap; Nina identifies the far shelter’s blue roof.
 
-**Picture:** [BOARD_04.png](assets/storyboards/BOARD_04.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_04.png](storyboards/BOARD_04.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** No fantasy building, oversized book or extra prop appears in the real scene.
 
@@ -460,7 +460,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Map orientation established; group still at original stop.
 
-**Picture:** [BOARD_04.png](assets/storyboards/BOARD_04.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_04.png](storyboards/BOARD_04.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Street runs north–south; no upside-down map gag repeated from Episode 04.
 
@@ -488,7 +488,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Dan admits the stop stayed where it was; Max reassured.
 
-**Picture:** [BOARD_05.png](assets/storyboards/BOARD_05.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_05.png](storyboards/BOARD_05.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Keep Dan affectionate and capable of correcting a small assumption.
 
@@ -516,7 +516,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Dan articulates the distinction; no rush to cross.
 
-**Picture:** [BOARD_05.png](assets/storyboards/BOARD_05.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_05.png](storyboards/BOARD_05.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** No child leaves the adults to investigate the other stop.
 
@@ -544,7 +544,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Adults agree to check calmly and use signal crossing.
 
-**Picture:** [BOARD_05.png](assets/storyboards/BOARD_05.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_05.png](storyboards/BOARD_05.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Road is not crossed midblock, behind a bus or against a signal; missing a bus is acceptable.
 
@@ -572,7 +572,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Bakery location and library destination confirmed as two separate facts.
 
-**Picture:** [BOARD_05.png](assets/storyboards/BOARD_05.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_05.png](storyboards/BOARD_05.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Observations guide correction; no unsupported shortcut through roads or private property.
 
@@ -600,7 +600,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Phone in Dan’s right hand; Nina ready beside him; not connected yet.
 
-**Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_06.png](storyboards/BOARD_06.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Ed is Nina’s father; no new face, split-screen room or on-screen relative.
 
@@ -628,7 +628,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Dan ready with specific location and destination; leaflet held by Leo.
 
-**Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_06.png](storyboards/BOARD_06.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Watch LEFT; phone RIGHT; avoid invented real phone numbers.
 
@@ -656,7 +656,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Folder still zipped; both younger children seated safely beside Maya.
 
-**Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_06.png](storyboards/BOARD_06.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** No library cards or tickets are lost as a manufactured crisis.
 
@@ -684,7 +684,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Library destination provisionally identified opposite; no group movement yet.
 
-**Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_06.png](storyboards/BOARD_06.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Far sign is editorially legible; observation is not permission to cross here.
 
@@ -714,7 +714,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Map confirms the signal intersection as the crossing route; no one leaves yet.
 
-**Picture:** [BOARD_07.png](assets/storyboards/BOARD_07.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_07.png](storyboards/BOARD_07.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Map is planning information; the actual signal and traffic must still be checked.
 
@@ -742,7 +742,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Max reassured; Dan takes responsibility without exaggerating the risk or shame.
 
-**Picture:** [BOARD_07.png](assets/storyboards/BOARD_07.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_07.png](storyboards/BOARD_07.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Keep gentle emotional drama proportionate; no blame, panic or lost-child suspense.
 
@@ -770,7 +770,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Call connected on speaker; Ed remains unheard until SHOT_029.
 
-**Picture:** [BOARD_07.png](assets/storyboards/BOARD_07.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_07.png](storyboards/BOARD_07.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** No close-up phone UI or invented portrait of Ed; speaker volume modest.
 
@@ -798,7 +798,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Dan ready to ask clearly, supported rather than mocked.
 
-**Picture:** [BOARD_07.png](assets/storyboards/BOARD_07.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_07.png](storyboards/BOARD_07.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** A short pause is natural story business, not a timed audience response.
 
@@ -828,7 +828,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Ed knows bakery-side stop and desired library destination.
 
-**Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_08.png](storyboards/BOARD_08.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Start four-shot 40-second phone cameo; ED off-screen only; no seventh visible person.
 
@@ -858,7 +858,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Dan independently reads NORTHBOUND — LIBRARY from leaflet.
 
-**Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_08.png](storyboards/BOARD_08.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Ed does not remotely see street traffic or tell them when to cross.
 
@@ -888,7 +888,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Max understands both stops can belong to same route; phone not passed to child.
 
-**Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_08.png](storyboards/BOARD_08.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** No real transit rule generalized beyond this fictional two-direction Route 7.
 
@@ -918,7 +918,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Call ended, phone right-pocketed; family ready to walk to crossing.
 
-**Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_08.png](storyboards/BOARD_08.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** ED heard only SHOT_029–032, exactly 40 seconds of editorial presence; no later voice lines.
 
@@ -946,7 +946,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Leaflet with Leo, Dan holding Max’s hand, group organized for walk.
 
-**Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_09.png](storyboards/BOARD_09.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Nina keeps zipped folder; no one carries umbrella separately.
 
@@ -974,7 +974,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** All six reach pedestrian waiting area at signal pole.
 
-**Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_09.png](storyboards/BOARD_09.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Movement stays on sidewalk; red shelter behind them; no south/north reversal.
 
@@ -1002,7 +1002,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Request made, signal still WAIT; everyone remains behind curb.
 
-**Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_09.png](storyboards/BOARD_09.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Button press requests a crossing phase; it never guarantees immediate safety.
 
@@ -1030,7 +1030,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Umbrella strap secured; Max relaxed beside Dan.
 
-**Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_09.png](storyboards/BOARD_09.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** No race, phone use, reading while crossing or child darting ahead.
 
@@ -1058,7 +1058,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Adults confirm clear crossing; group begins first controlled step together.
 
-**Picture:** [BOARD_10.png](assets/storyboards/BOARD_10.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_10.png](storyboards/BOARD_10.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** A walking signal does not replace looking for turning traffic; no traffic moves through family.
 
@@ -1086,7 +1086,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** All six reach far curb without running or separation.
 
-**Picture:** [BOARD_10.png](assets/storyboards/BOARD_10.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_10.png](storyboards/BOARD_10.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Crossing-time ellipsis may compress full safe walk; no signal changes mid-crossing for suspense.
 
@@ -1114,7 +1114,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Group turns south on far sidewalk; no one returns to road.
 
-**Picture:** [BOARD_10.png](assets/storyboards/BOARD_10.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_10.png](storyboards/BOARD_10.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Far shelter lies south of crossing, directly opposite bakery stop; matching route geography.
 
@@ -1142,7 +1142,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Blue shelter reached after short walking cut; return bag and folder unchanged.
 
-**Picture:** [BOARD_10.png](assets/storyboards/BOARD_10.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_10.png](storyboards/BOARD_10.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Do not mirror bakery/tree landmarks to make the far-side view easier.
 
@@ -1170,7 +1170,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Route and direction verified at correct stop; three minutes before departure.
 
-**Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_11.png](storyboards/BOARD_11.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Blue shelter beside tree, bakery/red shelter opposite; preserve orientation.
 
@@ -1198,7 +1198,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** 09:50 library departure confirmed on Saturday row.
 
-**Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_11.png](storyboards/BOARD_11.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Fictional timetable for this screenplay only; no real transit schedule claimed.
 
@@ -1226,7 +1226,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Family waiting comfortably; boarding zone clear.
 
-**Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_11.png](storyboards/BOARD_11.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** No child sits on curb or rail; no invented crowd faces needed.
 
@@ -1254,7 +1254,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Dan holds one fan of six unused tickets; Leo holds envelope.
 
-**Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_11.png](storyboards/BOARD_11.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Do not throw, scatter or turn tickets into money; readable class marks use SVG.
 
@@ -1282,7 +1282,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Fare understanding confirmed; same six tickets still unused.
 
-**Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_12.png](storyboards/BOARD_12.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Adults $6 plus children $3 equals $9; no change or refund due on this prepaid ride.
 
@@ -1310,7 +1310,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Bus destination verified; family remains waiting.
 
-**Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_12.png](storyboards/BOARD_12.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Blue bus is northbound; red-shelter southbound service not boarded; no road entry.
 
@@ -1338,7 +1338,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Bus stationary with front doors open; first boarding space clear.
 
-**Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_12.png](storyboards/BOARD_12.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** No boarding or touching bus while moving; driver is unseen/hands-only and silent.
 
@@ -1366,7 +1366,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Alighting path clear; family now ready for their own orderly boarding.
 
-**Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_12.png](storyboards/BOARD_12.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Any passenger remains an indistinct cropped silhouette, no new speaking supporting role or face.
 
@@ -1394,7 +1394,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Dan at reader, Maya one pace behind; no ticket validated before scan.
 
-**Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_13.png](storyboards/BOARD_13.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** No speaking seventh family member; driver can remain silent and unseen.
 
@@ -1422,7 +1422,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Exactly six tickets validated once; all six tickets still in Dan’s hand.
 
-**Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_13.png](storyboards/BOARD_13.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Validation does not buy new tickets or create a cash receipt; no duplicate scans.
 
@@ -1450,7 +1450,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Max, Ella and Leo aboard beside adults; no child left outside.
 
-**Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_13.png](storyboards/BOARD_13.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Short boarding ellipsis covers all six; bag/umbrella do not block doorway.
 
@@ -1478,7 +1478,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** All six validated tickets in right-pocket envelope; group ready to sit.
 
-**Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_13.png](storyboards/BOARD_13.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** No ticket disappears; remain aboard at stop until seating is complete.
 
@@ -1506,7 +1506,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** All six seated, clear aisle; no one standing or reserving empty seats.
 
-**Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_14.png](storyboards/BOARD_14.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Keep seat plan fixed; never move a child between adults for a close-up.
 
@@ -1534,7 +1534,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Bag secure at Leo’s feet, folder on Nina’s lap; aisle clear.
 
-**Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_14.png](storyboards/BOARD_14.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** No loose umbrella tip extends into aisle; bus stationary until next shot.
 
@@ -1562,7 +1562,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Doors closed, northbound bus moving; family seated.
 
-**Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_14.png](storyboards/BOARD_14.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** No standing wave through window, no open door in motion; sign read before boarding.
 
@@ -1590,7 +1590,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Max observing calmly; no one changes seat or opens window.
 
-**Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_14.png](storyboards/BOARD_14.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** No reaching outside, shouting to driver or playful interference with bus controls.
 
@@ -1618,7 +1618,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Pine Street landmark identified; leaflet stays with Leo.
 
-**Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_15.png](storyboards/BOARD_15.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Do not invent live tracking or a new device; this is the same paper leaflet.
 
@@ -1646,7 +1646,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Later in the ride, after Pine Street; approximately 10:03 story time.
 
-**Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_15.png](storyboards/BOARD_15.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Explicit elapsed-time transition; all tickets already used, no second bus or transfer.
 
@@ -1674,7 +1674,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Family agrees to request next stop; Max reassured.
 
-**Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_15.png](storyboards/BOARD_15.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** No loud chorus or direct-to-viewer lesson; driver remains unseen and undistracted.
 
@@ -1702,7 +1702,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Stop request registered once; all six remain seated.
 
-**Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_15.png](storyboards/BOARD_15.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** No repeated button pressing, standing reach or invented alarm response.
 
@@ -1730,7 +1730,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Family mentally ready; no one standing or reaching for door.
 
-**Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_16.png](storyboards/BOARD_16.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** No stumble gag, moving-bus dismount or emergency stop.
 
@@ -1758,7 +1758,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Library visually identified; no child rises yet.
 
-**Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_16.png](storyboards/BOARD_16.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Library architecture matches LIBRARY_FOYER windows/canopy; no wrong-building second twist.
 
@@ -1786,7 +1786,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Bus stationary, doors open; all six standing in orderly exit group.
 
-**Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_16.png](storyboards/BOARD_16.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Library arrival is 15 minutes after departure; no claim that film runtime equals travel clock.
 
@@ -1814,7 +1814,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** All six on library-side sidewalk; bag/folder with owners; no bus reboarding.
 
-**Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_16.png](storyboards/BOARD_16.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** No one crosses in front of bus; library entrance is on the same sidewalk as arrival.
 
@@ -1842,7 +1842,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Family inside foyer; no borrowed books yet.
 
-**Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_17.png](storyboards/BOARD_17.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Five-view location LIBRARY_FOYER includes threshold, returns, low display and reading nook; no new relative.
 
@@ -1870,7 +1870,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Three returns on counter, bag empty of books; umbrella still attached.
 
-**Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_17.png](storyboards/BOARD_17.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Do not show new chosen books or duplicate return copies in bag.
 
@@ -1898,7 +1898,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Red and blue returned; only yellow remains in Maya’s hand.
 
-**Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_17.png](storyboards/BOARD_17.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Two physical transfers, no throwing; Max stays supervised next to counter, not reaching into slot.
 
@@ -1926,7 +1926,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** All three old books returned; navy bookbag empty; blue folder opened.
 
-**Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_17.png](storyboards/BOARD_17.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Returned books never reappear in browsing or final bag.
 
@@ -1954,7 +1954,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Three candidate titles identified on display, none checked out.
 
-**Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_18.png](storyboards/BOARD_18.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Shelf stock remains library property until checkout; no unseen shopping or money exchange.
 
@@ -1982,7 +1982,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Leo holding one selected atlas, not yet borrowed.
 
-**Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_18.png](storyboards/BOARD_18.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** New atlas distinct from old blue return book; no extra books added.
 
@@ -2010,7 +2010,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Ella holds one plant book; two new selections total.
 
-**Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_18.png](storyboards/BOARD_18.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Only a book is a garden hint; no Episode09 planting or seed props begin here.
 
@@ -2038,7 +2038,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Max holding third selected new book; exact three selections complete.
 
-**Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_18.png](storyboards/BOARD_18.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** No giant fruit, physical dinosaur or new library book appears for the joke.
 
@@ -2066,7 +2066,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Cards and books ready at self-checkout; old returns absent.
 
-**Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_19.png](storyboards/BOARD_19.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Fictional library permits supervised child-card self-checkout; no PIN or personal number shown.
 
@@ -2094,7 +2094,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Atlas, plant book and dinosaur book checked out, one each; single loan receipt printed.
 
-**Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_19.png](storyboards/BOARD_19.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** No cash charge or ticket reuse; checkout receipt records three loans, not three purchases.
 
@@ -2122,7 +2122,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Three new books in bag, cards/receipt in zipped folder, umbrella still closed outside.
 
-**Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_19.png](storyboards/BOARD_19.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** No returned red/blue/yellow books reappear; six used bus tickets stay with Dan.
 
@@ -2150,7 +2150,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Three new books looked at and repacked; all remain the same loans, not new copies.
 
-**Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_19.png](storyboards/BOARD_19.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** One short reading-time ellipsis; books can leave and return to bag once without duplicate inventory.
 
@@ -2178,7 +2178,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Dan relaxed, mistake resolved; no parent blamed or mocked.
 
-**Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_20.png](storyboards/BOARD_20.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Reading nook bench arrangement is episode-specific, not canonical home table seats.
 
@@ -2206,7 +2206,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Adults share credit equally; children remain nearby.
 
-**Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_20.png](storyboards/BOARD_20.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Maya and Nina equally respected partners; no jealousy, competition or servant role.
 
@@ -2234,7 +2234,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Family chooses a story to share later; phone remains pocketed.
 
-**Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_20.png](storyboards/BOARD_20.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Do not extend Ed’s cameo or add performed voices beyond screenplay; no direct audience lesson.
 
@@ -2262,7 +2262,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **End state:** Hold family tableau through 00:13:20; no return journey or new errand begins.
 
-**Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_20.png](storyboards/BOARD_20.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Six one-way tickets used; return tickets will be arranged separately later. Optional creator practice is outside movie.
 

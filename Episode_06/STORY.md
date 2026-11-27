@@ -25,7 +25,7 @@ Exactly six main courses are ordered once; no appetizer or dessert is purchased.
 
 Use the unchanged W01 cast and original face/age/body references. Dan's watch is on anatomical LEFT wrist; phone/wallet/rehearsal note remain in his RIGHT pocket. Maya and Nina share decisions and authority. SERVER is explicitly off-screen/hands-only and never appears as a new face. Actual editable overlay text governs prices, not generated lettering.
 
-Mild describes flavor, while warm/hot describe temperature; one does not prove the other. Adults check comfortable temperatures before children eat. There is no burning-mouth gag, forced spicy taste, mistaken cooked order, wasteful return or new allergy plot. Washing/cooking/serving/eating/travel need explicit story-time ellipses. No food duplicates or refills across cuts. See [CONTINUITY.md](CONTINUITY.md).
+Mild describes flavor, while warm/hot describe temperature; one does not prove the other. Adults check comfortable temperatures before children eat. There is no burning-mouth gag, forced spicy taste, mistaken cooked order, wasteful return or new allergy plot. Washing/cooking/serving/eating/travel need explicit story-time ellipses. No food duplicates or refills across cuts. See [CONTINUITY.md](../Shared_Resources/Archive/Episode_06/CONTINUITY.md).
 
 ## Timed story shots
 
@@ -43,7 +43,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** All three adults agree to a family restaurant dinner.
 
-**Picture:** [BOARD_01.png](assets/storyboards/BOARD_01.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_01.png](storyboards/BOARD_01.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Original kitchen geography and six-person W01 cast. No restaurant food or utensils appear at home.
 
@@ -71,7 +71,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** All six family members included; children ready to leave with adults.
 
-**Picture:** [BOARD_01.png](assets/storyboards/BOARD_01.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_01.png](storyboards/BOARD_01.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Original kitchen geography and six-person W01 cast. No restaurant food or utensils appear at home.
 
@@ -99,7 +99,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** Folded blank note in Dan's right pocket beside his wallet; no meal decisions yet.
 
-**Picture:** [BOARD_01.png](assets/storyboards/BOARD_01.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_01.png](storyboards/BOARD_01.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Original kitchen geography and six-person W01 cast. No restaurant food or utensils appear at home.
 
@@ -127,7 +127,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** Family plans to ask about dishes and let hot food cool before eating.
 
-**Picture:** [BOARD_01.png](assets/storyboards/BOARD_01.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_01.png](storyboards/BOARD_01.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Original kitchen geography and six-person W01 cast. No restaurant food or utensils appear at home.
 
@@ -155,7 +155,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** Shared all-in limit $80; no money paid or withdrawn from that amount.
 
-**Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_02.png](storyboards/BOARD_02.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Original kitchen geography and six-person W01 cast. No restaurant food or utensils appear at home.
 
@@ -183,7 +183,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** No starter or dessert committed; dinner choices remain open.
 
-**Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_02.png](storyboards/BOARD_02.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Original kitchen geography and six-person W01 cast. No restaurant food or utensils appear at home.
 
@@ -211,7 +211,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** Children have their own useful roles; Nina ready to walk with them.
 
-**Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_02.png](storyboards/BOARD_02.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Original kitchen geography and six-person W01 cast. No restaurant food or utensils appear at home.
 
@@ -239,7 +239,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** Family departs together for the nearby restaurant through an explicit travel dissolve.
 
-**Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_02.png](storyboards/BOARD_02.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Original kitchen geography and six-person W01 cast. No restaurant food or utensils appear at home.
 
@@ -267,7 +267,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** All six safely inside beside host stand; no one seated or ordering yet.
 
-**Picture:** [BOARD_03.png](assets/storyboards/BOARD_03.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_03.png](storyboards/BOARD_03.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. No food ordered before the choices and clarification.
 
@@ -297,7 +297,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** Six-seat window table assigned to this family.
 
-**Picture:** [BOARD_03.png](assets/storyboards/BOARD_03.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_03.png](storyboards/BOARD_03.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. No food ordered before the choices and clarification. SERVER is an off-screen voice; only anonymous sleeve-covered hands/forearms may enter.
 
@@ -325,7 +325,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** Children reach assigned chairs without crowding the service route.
 
-**Picture:** [BOARD_03.png](assets/storyboards/BOARD_03.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_03.png](storyboards/BOARD_03.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. No food ordered before the choices and clarification.
 
@@ -353,7 +353,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** All seated at fixed restaurant places; no head chair or seventh place.
 
-**Picture:** [BOARD_03.png](assets/storyboards/BOARD_03.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_03.png](storyboards/BOARD_03.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. No food ordered before the choices and clarification.
 
@@ -383,7 +383,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** Six menus distributed; all plates remain empty.
 
-**Picture:** [BOARD_04.png](assets/storyboards/BOARD_04.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_04.png](storyboards/BOARD_04.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. No food ordered before the choices and clarification. SERVER is an off-screen voice; only anonymous sleeve-covered hands/forearms may enter.
 
@@ -411,7 +411,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** Max knows he can choose from the relevant meal section.
 
-**Picture:** [BOARD_04.png](assets/storyboards/BOARD_04.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_04.png](storyboards/BOARD_04.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. No food ordered before the choices and clarification.
 
@@ -441,7 +441,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** Six plain waters requested, still not served; note back in right pocket.
 
-**Picture:** [BOARD_04.png](assets/storyboards/BOARD_04.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_04.png](storyboards/BOARD_04.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. No food ordered before the choices and clarification. SERVER is an off-screen voice; only anonymous sleeve-covered hands/forearms may enter.
 
@@ -471,7 +471,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** Six water glasses served, one per person; no food yet.
 
-**Picture:** [BOARD_04.png](assets/storyboards/BOARD_04.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_04.png](storyboards/BOARD_04.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. No food ordered before the choices and clarification. SERVER is an off-screen voice; only anonymous sleeve-covered hands/forearms may enter.
 
@@ -499,7 +499,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** Appetizers declined; choices will be six main courses only.
 
-**Picture:** [BOARD_05.png](assets/storyboards/BOARD_05.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_05.png](storyboards/BOARD_05.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. One draft becomes one ticket; soup is corrected before cooking.
 
@@ -527,7 +527,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** Maya's choice recorded mentally as vegetable pasta $12; no plate served.
 
-**Picture:** [BOARD_05.png](assets/storyboards/BOARD_05.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_05.png](storyboards/BOARD_05.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. One draft becomes one ticket; soup is corrected before cooking.
 
@@ -555,7 +555,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** Nina selects one chicken-and-rice main $14; rice included in that price.
 
-**Picture:** [BOARD_05.png](assets/storyboards/BOARD_05.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_05.png](storyboards/BOARD_05.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. One draft becomes one ticket; soup is corrected before cooking.
 
@@ -583,7 +583,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** Leo selects cheese sandwich $8; running food choices total $34.
 
-**Picture:** [BOARD_05.png](assets/storyboards/BOARD_05.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_05.png](storyboards/BOARD_05.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. One draft becomes one ticket; soup is corrected before cooking.
 
@@ -613,7 +613,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** Ella selects one filled baked potato $7, no separately billed side.
 
-**Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_06.png](storyboards/BOARD_06.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. One draft becomes one ticket; soup is corrected before cooking. SERVER is an off-screen voice; only anonymous sleeve-covered hands/forearms may enter.
 
@@ -641,7 +641,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** Max chooses children's chicken-and-rice plate $9; no shared or duplicate meal.
 
-**Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_06.png](storyboards/BOARD_06.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. One draft becomes one ticket; soup is corrected before cooking.
 
@@ -669,7 +669,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** Dan chooses main-course tomato soup $8; all six food choices total $58.
 
-**Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_06.png](storyboards/BOARD_06.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. One draft becomes one ticket; soup is corrected before cooking.
 
@@ -699,7 +699,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** Server has paused for temperature-versus-spice clarification before ordering.
 
-**Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_06.png](storyboards/BOARD_06.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. One draft becomes one ticket; soup is corrected before cooking. SERVER is an off-screen voice; only anonymous sleeve-covered hands/forearms may enter.
 
@@ -727,7 +727,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** Dan recognizes the menu spice option is not a temperature instruction.
 
-**Picture:** [BOARD_07.png](assets/storyboards/BOARD_07.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_07.png](storyboards/BOARD_07.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. One draft becomes one ticket; soup is corrected before cooking.
 
@@ -755,7 +755,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** Max's glass remains at his own place; no spill or false chili reaction.
 
-**Picture:** [BOARD_07.png](assets/storyboards/BOARD_07.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_07.png](storyboards/BOARD_07.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. One draft becomes one ticket; soup is corrected before cooking.
 
@@ -785,7 +785,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** Dan's intended choice is mild tomato soup at comfortable warm serving temperature.
 
-**Picture:** [BOARD_07.png](assets/storyboards/BOARD_07.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_07.png](storyboards/BOARD_07.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. One draft becomes one ticket; soup is corrected before cooking. SERVER is an off-screen voice; only anonymous sleeve-covered hands/forearms may enter.
 
@@ -815,7 +815,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** Draft wording corrected; no duplicate soup, return, waste or extra charge.
 
-**Picture:** [BOARD_07.png](assets/storyboards/BOARD_07.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_07.png](storyboards/BOARD_07.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. One draft becomes one ticket; soup is corrected before cooking. SERVER is an off-screen voice; only anonymous sleeve-covered hands/forearms may enter.
 
@@ -843,7 +843,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** Draft order contains exactly six mains, with both chicken portions distinguished.
 
-**Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_08.png](storyboards/BOARD_08.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. One draft becomes one ticket; soup is corrected before cooking.
 
@@ -871,7 +871,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** Food subtotal verified $58; water free; no starter/dessert included.
 
-**Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_08.png](storyboards/BOARD_08.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. One draft becomes one ticket; soup is corrected before cooking.
 
@@ -899,7 +899,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** Tax $5.80 and meal total $63.80 verified before ordering.
 
-**Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_08.png](storyboards/BOARD_08.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. One draft becomes one ticket; soup is corrected before cooking.
 
@@ -927,7 +927,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** Planned tip $10; planned total cost $73.80; planned remainder $6.20.
 
-**Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_08.png](storyboards/BOARD_08.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. One draft becomes one ticket; soup is corrected before cooking.
 
@@ -955,7 +955,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** Three children's choices confirmed with server; no change to six-item draft.
 
-**Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_09.png](storyboards/BOARD_09.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. One draft becomes one ticket; soup is corrected before cooking.
 
@@ -983,7 +983,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** All six choices verbally confirmed once, still on one ticket.
 
-**Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_09.png](storyboards/BOARD_09.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. One draft becomes one ticket; soup is corrected before cooking.
 
@@ -1013,7 +1013,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** Ingredient-needs check complete; original six meals unchanged.
 
-**Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_09.png](storyboards/BOARD_09.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. One draft becomes one ticket; soup is corrected before cooking. SERVER is an off-screen voice; only anonymous sleeve-covered hands/forearms may enter.
 
@@ -1043,7 +1043,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** Single six-main ticket submitted once; six menus removed; waters remain.
 
-**Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_09.png](storyboards/BOARD_09.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. One draft becomes one ticket; soup is corrected before cooking. SERVER is an off-screen voice; only anonymous sleeve-covered hands/forearms may enter.
 
@@ -1071,7 +1071,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** Family waits calmly; no instant food or extra order appears.
 
-**Picture:** [BOARD_10.png](assets/storyboards/BOARD_10.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_10.png](storyboards/BOARD_10.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Cooking takes elapsed story time; table stays empty of meals until service.
 
@@ -1099,7 +1099,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** Utensils remain safely at places; joke uses voices and empty hands.
 
-**Picture:** [BOARD_10.png](assets/storyboards/BOARD_10.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_10.png](storyboards/BOARD_10.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Cooking takes elapsed story time; table stays empty of meals until service.
 
@@ -1127,7 +1127,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** Max understands that mild flavor does not establish safe eating temperature.
 
-**Picture:** [BOARD_10.png](assets/storyboards/BOARD_10.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_10.png](storyboards/BOARD_10.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Cooking takes elapsed story time; table stays empty of meals until service.
 
@@ -1155,7 +1155,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** Earlier story recalled only in dialogue; present meal and location unchanged.
 
-**Picture:** [BOARD_10.png](assets/storyboards/BOARD_10.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_10.png](storyboards/BOARD_10.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Cooking takes elapsed story time; table stays empty of meals until service.
 
@@ -1183,7 +1183,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** Appetizer discussion complete with no change in food count or bill.
 
-**Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_11.png](storyboards/BOARD_11.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Cooking takes elapsed story time; table stays empty of meals until service.
 
@@ -1211,7 +1211,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** No seventh water or replacement glass; Dan keeps his own glass.
 
-**Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_11.png](storyboards/BOARD_11.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Cooking takes elapsed story time; table stays empty of meals until service.
 
@@ -1239,7 +1239,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** Six settings clear for service; empty placeholder plates ready to be removed.
 
-**Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_11.png](storyboards/BOARD_11.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Cooking takes elapsed story time; table stays empty of meals until service.
 
@@ -1269,7 +1269,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** Maya pasta and Nina adult chicken/rice served; four empty plates remain.
 
-**Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_11.png](storyboards/BOARD_11.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Cooking takes elapsed story time; table stays empty of meals until service. SERVER is an off-screen voice; only anonymous sleeve-covered hands/forearms may enter.
 
@@ -1297,7 +1297,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** Leo sandwich and Ella potato served; only Dan and Max placeholders remain.
 
-**Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_12.png](storyboards/BOARD_12.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Six distinct main dishes decrease only as eaten; mild is not proof of safe temperature.
 
@@ -1327,7 +1327,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** Exactly six ordered mains now served once; no duplicate empty plates or extra meal.
 
-**Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_12.png](storyboards/BOARD_12.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Six distinct main dishes decrease only as eaten; mild is not proof of safe temperature. SERVER is an off-screen voice; only anonymous sleeve-covered hands/forearms may enter.
 
@@ -1355,7 +1355,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** Six correct mains confirmed; fixed seats and dishes established for the meal.
 
-**Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_12.png](storyboards/BOARD_12.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Six distinct main dishes decrease only as eaten; mild is not proof of safe temperature.
 
@@ -1383,7 +1383,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** Dan and Nina have checked comfortable temperatures; no burn or raw food gag.
 
-**Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_12.png](storyboards/BOARD_12.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Six distinct main dishes decrease only as eaten; mild is not proof of safe temperature.
 
@@ -1411,7 +1411,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** Dan confirms mild flavor and comfortable warmth after a small taste.
 
-**Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_13.png](storyboards/BOARD_13.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Six distinct main dishes decrease only as eaten; mild is not proof of safe temperature.
 
@@ -1439,7 +1439,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** Ella's potato opened on plate to cool; no rushed eating or new side dish.
 
-**Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_13.png](storyboards/BOARD_13.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Six distinct main dishes decrease only as eaten; mild is not proof of safe temperature.
 
@@ -1467,7 +1467,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** Max has tasted own meal; napkin used and returned to lap.
 
-**Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_13.png](storyboards/BOARD_13.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Six distinct main dishes decrease only as eaten; mild is not proof of safe temperature.
 
@@ -1495,7 +1495,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** Leo and Ella recognize their own choices; food remains partly eaten.
 
-**Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_13.png](storyboards/BOARD_13.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Six distinct main dishes decrease only as eaten; mild is not proof of safe temperature.
 
@@ -1523,7 +1523,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** Dan accepts his part in the unclear request; no complaint or returned food.
 
-**Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_14.png](storyboards/BOARD_14.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Six distinct main dishes decrease only as eaten; mild is not proof of safe temperature.
 
@@ -1551,7 +1551,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** Note stays pocketed; no paper touches food or becomes an order ticket.
 
-**Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_14.png](storyboards/BOARD_14.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Six distinct main dishes decrease only as eaten; mild is not proof of safe temperature.
 
@@ -1579,7 +1579,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** A small future library seed mentioned; restaurant story remains underway.
 
-**Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_14.png](storyboards/BOARD_14.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Six distinct main dishes decrease only as eaten; mild is not proof of safe temperature.
 
@@ -1607,7 +1607,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** Each glass remains with its original diner; no glass or dish enters aisle.
 
-**Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_14.png](storyboards/BOARD_14.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Six distinct main dishes decrease only as eaten; mild is not proof of safe temperature.
 
@@ -1635,7 +1635,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** Later in meal; Max has one remaining portion suitable for packing; others nearly finished.
 
-**Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_15.png](storyboards/BOARD_15.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Six distinct main dishes decrease only as eaten; mild is not proof of safe temperature.
 
@@ -1665,7 +1665,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** One empty takeout box requested; no food quantity or bill change.
 
-**Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_15.png](storyboards/BOARD_15.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Six distinct main dishes decrease only as eaten; mild is not proof of safe temperature. SERVER is an off-screen voice; only anonymous sleeve-covered hands/forearms may enter.
 
@@ -1695,7 +1695,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** One open empty takeout box ready; Max food still on plate.
 
-**Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_15.png](storyboards/BOARD_15.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Six distinct main dishes decrease only as eaten; mild is not proof of safe temperature. SERVER is an off-screen voice; only anonymous sleeve-covered hands/forearms may enter.
 
@@ -1723,7 +1723,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** Max plate empty; one closed box contains exactly his remaining portion.
 
-**Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_15.png](storyboards/BOARD_15.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Exactly one saved portion transfers once into one box; prompt refrigeration at home.
 
@@ -1751,7 +1751,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** Home refrigeration plan agreed; Nina keeps custody of closed box.
 
-**Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_16.png](storyboards/BOARD_16.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Exactly one saved portion transfers once into one box; prompt refrigeration at home.
 
@@ -1779,7 +1779,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** Meal finished; no new dessert, appetizer or unexplained remaining dish.
 
-**Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_16.png](storyboards/BOARD_16.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Exactly one saved portion transfers once into one box; prompt refrigeration at home.
 
@@ -1807,7 +1807,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** Dessert declined; check should contain only six mains and tax.
 
-**Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_16.png](storyboards/BOARD_16.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Exactly one saved portion transfers once into one box; prompt refrigeration at home.
 
@@ -1837,7 +1837,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** Check requested once; no money paid yet.
 
-**Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_16.png](storyboards/BOARD_16.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Exactly one saved portion transfers once into one box; prompt refrigeration at home. SERVER is an off-screen voice; only anonymous sleeve-covered hands/forearms may enter.
 
@@ -1867,7 +1867,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** Six used dishes cleared; six waters and one box remain; no food plates reappear.
 
-**Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_17.png](storyboards/BOARD_17.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Food $58 + tax $5.80 = $63.80; $10 voluntary tip is separate. SERVER is an off-screen voice; only anonymous sleeve-covered hands/forearms may enter.
 
@@ -1897,7 +1897,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** One actual check delivered, no duplicate ticket or added courses.
 
-**Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_17.png](storyboards/BOARD_17.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Food $58 + tax $5.80 = $63.80; $10 voluntary tip is separate. SERVER is an off-screen voice; only anonymous sleeve-covered hands/forearms may enter.
 
@@ -1927,7 +1927,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** Six correct item lines verified; food subtotal $58, six waters $0.
 
-**Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_17.png](storyboards/BOARD_17.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Food $58 + tax $5.80 = $63.80; $10 voluntary tip is separate.
 
@@ -1955,7 +1955,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** Check total verified $63.80; no service fee or automatic tip on check.
 
-**Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_17.png](storyboards/BOARD_17.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Food $58 + tax $5.80 = $63.80; $10 voluntary tip is separate.
 
@@ -1983,7 +1983,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** Adults confirm $10 tip, final cost $73.80 and eventual retained $6.20.
 
-**Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_18.png](storyboards/BOARD_18.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Food $58 + tax $5.80 = $63.80; $10 voluntary tip is separate.
 
@@ -2011,7 +2011,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** Dan has dinner cash ready in wallet; nothing handed over yet.
 
-**Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_18.png](storyboards/BOARD_18.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Food $58 + tax $5.80 = $63.80; $10 voluntary tip is separate.
 
@@ -2041,7 +2041,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** Dan knows the payment route; family waits together, no child goes to counter.
 
-**Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_18.png](storyboards/BOARD_18.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Food $58 + tax $5.80 = $63.80; $10 voluntary tip is separate. SERVER is an off-screen voice; only anonymous sleeve-covered hands/forearms may enter.
 
@@ -2069,7 +2069,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** Dan reaches counter; his chair tucked in; five family members waiting at table.
 
-**Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_18.png](storyboards/BOARD_18.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Food $58 + tax $5.80 = $63.80; $10 voluntary tip is separate.
 
@@ -2099,7 +2099,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** Server has $80 payment for $63.80 bill; change due $16.20, not yet returned.
 
-**Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_19.png](storyboards/BOARD_19.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. No extra transaction: $80 - $63.80 = $16.20 change; less $10 tip leaves $6.20. SERVER is an off-screen voice; only anonymous sleeve-covered hands/forearms may enter.
 
@@ -2129,7 +2129,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** Dan receives exactly $16.20 change and receipt; dinner bill settled.
 
-**Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_19.png](storyboards/BOARD_19.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. No extra transaction: $80 - $63.80 = $16.20 change; less $10 tip leaves $6.20. SERVER is an off-screen voice; only anonymous sleeve-covered hands/forearms may enter.
 
@@ -2161,7 +2161,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** $10 tip left once; Dan retains $6.20; final cost $73.80.
 
-**Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_19.png](storyboards/BOARD_19.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. No extra transaction: $80 - $63.80 = $16.20 change; less $10 tip leaves $6.20. SERVER is an off-screen voice; only anonymous sleeve-covered hands/forearms may enter.
 
@@ -2191,7 +2191,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** Receipt safely in right-pocket wallet; no unpaid balance or extra cash on counter.
 
-**Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_19.png](storyboards/BOARD_19.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. No extra transaction: $80 - $63.80 = $16.20 change; less $10 tip leaves $6.20. SERVER is an off-screen voice; only anonymous sleeve-covered hands/forearms may enter.
 
@@ -2219,7 +2219,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** All six at entrance together; no belongings left at table.
 
-**Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_20.png](storyboards/BOARD_20.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. No extra transaction: $80 - $63.80 = $16.20 change; less $10 tip leaves $6.20.
 
@@ -2247,7 +2247,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** Budget reconciliation understood; no confusion between returned change and final remainder.
 
-**Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_20.png](storyboards/BOARD_20.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. No extra transaction: $80 - $63.80 = $16.20 change; less $10 tip leaves $6.20.
 
@@ -2275,7 +2275,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** Family starts direct journey home; leftovers remain with Nina for prompt refrigeration.
 
-**Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_20.png](storyboards/BOARD_20.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. No extra transaction: $80 - $63.80 = $16.20 change; less $10 tip leaves $6.20.
 
@@ -2303,7 +2303,7 @@ Mild describes flavor, while warm/hot describe temperature; one does not prove t
 
 **End state:** Restaurant story resolved; direct trip home underway; original six identities and one packed portion preserved.
 
-**Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_20.png](storyboards/BOARD_20.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. No extra transaction: $80 - $63.80 = $16.20 change; less $10 tip leaves $6.20.
 

@@ -22,7 +22,7 @@ After the pancake breakfast, the Brooks family visits a small neighborhood mall 
 
 Use the unchanged six original cast identities, proportions and W01 clothing. Maya and Nina are equally respected and both make decisions; Max describes his own comfort. Dan remains caring and learns to check a new ambiguity. His watch stays on anatomical LEFT wrist and wallet/map/phone use the RIGHT pocket. Rose is Maya’s sister, appears in exactly SHOT_025–SHOT_030, and has a clearly provisional new design recorded in CONTINUITY.md. The clerk is off-screen voice/hands-only, never a seventh permanent family member.
 
-One purchased pair: navy, white soles, white laces, green pull tabs, US kids size2. Size1 and size3 comparison pairs are returned store stock; adult size10 display stock is never purchased or worn by Dan. Max wears his original green sneakers again before checkout and throughout the journey home. Keep the new pair boxed for school. Price $32 including tax; budget/payment $40; $8 change (one five and three ones); no refund occurs. All mall movement stays on the ground floor. Children stay with adults and never play on escalators. See [CONTINUITY.md](CONTINUITY.md) for the full ledger and [SCENE_REFERENCE_PLAN.md](SCENE_REFERENCE_PLAN.md) for geography.
+One purchased pair: navy, white soles, white laces, green pull tabs, US kids size2. Size1 and size3 comparison pairs are returned store stock; adult size10 display stock is never purchased or worn by Dan. Max wears his original green sneakers again before checkout and throughout the journey home. Keep the new pair boxed for school. Price $32 including tax; budget/payment $40; $8 change (one five and three ones); no refund occurs. All mall movement stays on the ground floor. Children stay with adults and never play on escalators. See [CONTINUITY.md](../Shared_Resources/Archive/Episode_04/CONTINUITY.md) for the full ledger and [SCENE_REFERENCE_PLAN.md](../Shared_Resources/Archive/Episode_04/SCENE_REFERENCE_PLAN.md) for geography.
 
 ## Timed story shots
 
@@ -40,7 +40,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** Blue card on island; Max still wears both original green sneakers.
 
-**Picture:** [BOARD_01.png](assets/storyboards/BOARD_01.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_01.png](storyboards/BOARD_01.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Permanent six original Brooks identities and W01 wardrobes; Dan watch anatomical LEFT, phone/wallet RIGHT. Maya and Nina equally respected. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -68,7 +68,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** Max has described the need; Nina holds a pencil above the blue card.
 
-**Picture:** [BOARD_01.png](assets/storyboards/BOARD_01.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_01.png](storyboards/BOARD_01.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** One purchased pair: navy school shoes, white soles, white laces, green pull tabs, US kids size 2; cream teal-band box. Max keeps original green sneakers for travel/home. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -96,7 +96,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** Card reads ONE PAIR, COMFORT FIRST, BUDGET $40 in editorial overlay; pencil set down.
 
-**Picture:** [BOARD_01.png](assets/storyboards/BOARD_01.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_01.png](storyboards/BOARD_01.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** US kids size 1 tight and size 3 loose are returned trial stock; neither is bought. Adult size10 brown display shoe remains store stock; Dan never forces a foot into a child shoe. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -124,7 +124,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** Max says old shoes feel cramped; Dan leaves fit decisions until measurement.
 
-**Picture:** [BOARD_01.png](assets/storyboards/BOARD_01.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_01.png](storyboards/BOARD_01.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Price $32 including tax; budget $40; pay two $20 bills; $8 change is one $5 bill and three $1 bills; no refund processed. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -152,7 +152,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** Dan holds blue card; Maya carries empty cream tote; Nina holds keys; group assembled at doorway.
 
-**Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_02.png](storyboards/BOARD_02.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Rose is Maya sister, visible only shots025–030 (60 seconds), a provisional supporting design; she offers orientation clue while family completes task. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -180,7 +180,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** Folded card and wallet in right pocket; hands free.
 
-**Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_02.png](storyboards/BOARD_02.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** All mall action on ground floor; no elevator/escalator ride; children stay with adults. Map upside down021–026, rotated upright027. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -208,7 +208,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** Max understands he may report discomfort; family begins leaving together.
 
-**Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_02.png](storyboards/BOARD_02.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Store return policy in this fictional story: unworn shoes with receipt within14days; do not imply universal policy. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -236,7 +236,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** Kitchen empty after family exit; next scene is the mall entrance after travel.
 
-**Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_02.png](storyboards/BOARD_02.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Receipt stored once at063, moved to household folder075; $8 stays in wallet. No seventh recurring family member or new wardrobe. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -264,7 +264,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** Six grouped beside directory; shoe store visible to rear-right.
 
-**Picture:** [BOARD_03.png](assets/storyboards/BOARD_03.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_03.png](storyboards/BOARD_03.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Permanent six original Brooks identities and W01 wardrobes; Dan watch anatomical LEFT, phone/wallet RIGHT. Maya and Nina equally respected. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -292,7 +292,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** Escalator identified without anyone boarding it.
 
-**Picture:** [BOARD_03.png](assets/storyboards/BOARD_03.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_03.png](storyboards/BOARD_03.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** One purchased pair: navy school shoes, white soles, white laces, green pull tabs, US kids size 2; cream teal-band box. Max keeps original green sneakers for travel/home. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -320,7 +320,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** Elevator location understood; everyone remains on ground floor.
 
-**Picture:** [BOARD_03.png](assets/storyboards/BOARD_03.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_03.png](storyboards/BOARD_03.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** US kids size 1 tight and size 3 loose are returned trial stock; neither is bought. Adult size10 brown display shoe remains store stock; Dan never forces a foot into a child shoe. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -348,7 +348,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** Dan holds one cream map; north arrow and route added as exact editorial graphics.
 
-**Picture:** [BOARD_03.png](assets/storyboards/BOARD_03.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_03.png](storyboards/BOARD_03.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Price $32 including tax; budget $40; pay two $20 bills; $8 change is one $5 bill and three $1 bills; no refund processed. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -376,7 +376,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** Upright map checked against entrance and shoe-store window.
 
-**Picture:** [BOARD_04.png](assets/storyboards/BOARD_04.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_04.png](storyboards/BOARD_04.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Rose is Maya sister, visible only shots025–030 (60 seconds), a provisional supporting design; she offers orientation clue while family completes task. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -404,7 +404,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** Six at shoe-store doorway; shelves and fitting benches visible inside.
 
-**Picture:** [BOARD_04.png](assets/storyboards/BOARD_04.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_04.png](storyboards/BOARD_04.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** All mall action on ground floor; no elevator/escalator ride; children stay with adults. Map upside down021–026, rotated upright027. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -432,7 +432,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** Max seated; map on far bench end; Dan standing beside him.
 
-**Picture:** [BOARD_04.png](assets/storyboards/BOARD_04.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_04.png](storyboards/BOARD_04.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Store return policy in this fictional story: unworn shoes with receipt within14days; do not imply universal policy. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -460,7 +460,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** Dan lifts charcoal adult box to bench; Leo points at its adult-size label.
 
-**Picture:** [BOARD_04.png](assets/storyboards/BOARD_04.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_04.png](storyboards/BOARD_04.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Receipt stored once at063, moved to household folder075; $8 stays in wallet. No seventh recurring family member or new wardrobe. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -488,7 +488,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** Both boxes open; lids resting separately; one large brown display shoe and one small navy sample visible.
 
-**Picture:** [BOARD_05.png](assets/storyboards/BOARD_05.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_05.png](storyboards/BOARD_05.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Permanent six original Brooks identities and W01 wardrobes; Dan watch anatomical LEFT, phone/wallet RIGHT. Maya and Nina equally respected. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -516,7 +516,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** Small shoe never stretched or worn by Dan; he lowers it onto its own cream box.
 
-**Picture:** [BOARD_05.png](assets/storyboards/BOARD_05.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_05.png](storyboards/BOARD_05.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** One purchased pair: navy school shoes, white soles, white laces, green pull tabs, US kids size 2; cream teal-band box. Max keeps original green sneakers for travel/home. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -544,7 +544,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** Adult box closed with brown sample inside; cream box closed with navy sample inside.
 
-**Picture:** [BOARD_05.png](assets/storyboards/BOARD_05.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_05.png](storyboards/BOARD_05.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** US kids size 1 tight and size 3 loose are returned trial stock; neither is bought. Adult size10 brown display shoe remains store stock; Dan never forces a foot into a child shoe. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -572,7 +572,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** Display boxes on shelf; bench clear except map; Max ready for proper measurement.
 
-**Picture:** [BOARD_05.png](assets/storyboards/BOARD_05.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_05.png](storyboards/BOARD_05.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Price $32 including tax; budget $40; pay two $20 bills; $8 change is one $5 bill and three $1 bills; no refund processed. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -600,7 +600,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** Dan holds inverted map and points toward mall corridor; no one has left yet.
 
-**Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_06.png](storyboards/BOARD_06.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Rose is Maya sister, visible only shots025–030 (60 seconds), a provisional supporting design; she offers orientation clue while family completes task. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -628,7 +628,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** All six at same store doorway; no child separated; fitting bench empty.
 
-**Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_06.png](storyboards/BOARD_06.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** All mall action on ground floor; no elevator/escalator ride; children stay with adults. Map upside down021–026, rotated upright027. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -656,7 +656,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** Six stopped safely beside elevator bay, still ground floor; no lift button pressed.
 
-**Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_06.png](storyboards/BOARD_06.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Store return policy in this fictional story: unworn shoes with receipt within14days; do not imply universal policy. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -684,7 +684,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** Dan recognizes he asked for the wrong kind of place, still needs location confirmed.
 
-**Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_06.png](storyboards/BOARD_06.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Receipt stored once at063, moved to household folder075; $8 stays in wallet. No seventh recurring family member or new wardrobe. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -712,7 +712,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** Rose stops beside Maya, distinct mustard cardigan and loose dark curls; no new purchase props.
 
-**Picture:** [BOARD_07.png](assets/storyboards/BOARD_07.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_07.png](storyboards/BOARD_07.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Permanent six original Brooks identities and W01 wardrobes; Dan watch anatomical LEFT, phone/wallet RIGHT. Maya and Nina equally respected. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -740,7 +740,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** Dan has stated the specific destination; Leo locates entrance symbol on inverted map.
 
-**Picture:** [BOARD_07.png](assets/storyboards/BOARD_07.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_07.png](storyboards/BOARD_07.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** One purchased pair: navy school shoes, white soles, white laces, green pull tabs, US kids size 2; cream teal-band box. Max keeps original green sneakers for travel/home. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -768,7 +768,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** Map upright; entrance and shoe-store symbols agree with real landmarks.
 
-**Picture:** [BOARD_07.png](assets/storyboards/BOARD_07.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_07.png](storyboards/BOARD_07.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** US kids size 1 tight and size 3 loose are returned trial stock; neither is bought. Adult size10 brown display shoe remains store stock; Dan never forces a foot into a child shoe. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -796,7 +796,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** Family knows the fitting bench is the correct place; Rose has given one clue, not chosen shoes.
 
-**Picture:** [BOARD_07.png](assets/storyboards/BOARD_07.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_07.png](storyboards/BOARD_07.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Price $32 including tax; budget $40; pay two $20 bills; $8 change is one $5 bill and three $1 bills; no refund processed. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -824,7 +824,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** Rose understands errand; Max remains with group; map stays upright in Dan's hands.
 
-**Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_08.png](storyboards/BOARD_08.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Rose is Maya sister, visible only shots025–030 (60 seconds), a provisional supporting design; she offers orientation clue while family completes task. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -852,7 +852,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** Rose exits frame; six permanent family members remain together; no promised later appearance.
 
-**Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_08.png](storyboards/BOARD_08.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** All mall action on ground floor; no elevator/escalator ride; children stay with adults. Map upside down021–026, rotated upright027. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -880,7 +880,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** Dan identifies return path to same store; no elevator or escalator ride.
 
-**Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_08.png](storyboards/BOARD_08.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Store return policy in this fictional story: unworn shoes with receipt within14days; do not imply universal policy. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -908,7 +908,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** Max seated again; map in Dan's right pocket; measuring device beside bench.
 
-**Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_08.png](storyboards/BOARD_08.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Receipt stored once at063, moved to household folder075; $8 stays in wallet. No seventh recurring family member or new wardrobe. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -938,7 +938,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** Assistant has agreed to guide measurement; no unsupported size guess written.
 
-**Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_09.png](storyboards/BOARD_09.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Permanent six original Brooks identities and W01 wardrobes; Dan watch anatomical LEFT, phone/wallet RIGHT. Maya and Nina equally respected. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -966,7 +966,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** Max seated in clean white socks; two green old sneakers paired under bench.
 
-**Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_09.png](storyboards/BOARD_09.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** One purchased pair: navy school shoes, white soles, white laces, green pull tabs, US kids size 2; cream teal-band box. Max keeps original green sneakers for travel/home. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -996,7 +996,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** Both feet measured; Max reseated; device returned beside bench; recommended starting size US kids 2.
 
-**Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_09.png](storyboards/BOARD_09.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** US kids size 1 tight and size 3 loose are returned trial stock; neither is bought. Adult size10 brown display shoe remains store stock; Dan never forces a foot into a child shoe. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -1024,7 +1024,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** Max chooses navy style to try; no purchase decision yet.
 
-**Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_09.png](storyboards/BOARD_09.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Price $32 including tax; budget $40; pay two $20 bills; $8 change is one $5 bill and three $1 bills; no refund processed. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -1052,7 +1052,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** Box identified as size1 trial; Dan asks whether to compare rather than claiming it fits.
 
-**Picture:** [BOARD_10.png](assets/storyboards/BOARD_10.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_10.png](storyboards/BOARD_10.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Rose is Maya sister, visible only shots025–030 (60 seconds), a provisional supporting design; she offers orientation clue while family completes task. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -1080,7 +1080,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** Right size1 shoe briefly on; left foot socked; Max immediately reports tight toes.
 
-**Picture:** [BOARD_10.png](assets/storyboards/BOARD_10.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_10.png](storyboards/BOARD_10.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** All mall action on ground floor; no elevator/escalator ride; children stay with adults. Map upside down021–026, rotated upright027. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -1108,7 +1108,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** Max both feet socked again; size1 pair boxed; no purchase or damage.
 
-**Picture:** [BOARD_10.png](assets/storyboards/BOARD_10.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_10.png](storyboards/BOARD_10.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Store return policy in this fictional story: unworn shoes with receipt within14days; do not imply universal policy. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -1136,7 +1136,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** Size1 returned; one cream size3 box on bench; no size1 shoes remain with family.
 
-**Picture:** [BOARD_10.png](assets/storyboards/BOARD_10.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_10.png](storyboards/BOARD_10.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Receipt stored once at063, moved to household folder075; $8 stays in wallet. No seventh recurring family member or new wardrobe. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -1164,7 +1164,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** Right size3 briefly on with visible heel gap; left socked; Max notices looseness.
 
-**Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_11.png](storyboards/BOARD_11.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Permanent six original Brooks identities and W01 wardrobes; Dan watch anatomical LEFT, phone/wallet RIGHT. Maya and Nina equally respected. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -1192,7 +1192,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** Max both socked; size3 pair returned; no trial boxes remain on bench.
 
-**Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_11.png](storyboards/BOARD_11.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** One purchased pair: navy school shoes, white soles, white laces, green pull tabs, US kids size 2; cream teal-band box. Max keeps original green sneakers for travel/home. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -1222,7 +1222,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** Only one size2 box open on bench; matching navy pair inside.
 
-**Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_11.png](storyboards/BOARD_11.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** US kids size 1 tight and size 3 loose are returned trial stock; neither is bought. Adult size10 brown display shoe remains store stock; Dan never forces a foot into a child shoe. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -1250,7 +1250,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** Both size2 navy trial shoes on Max; box empty on far bench end.
 
-**Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_11.png](storyboards/BOARD_11.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Price $32 including tax; budget $40; pay two $20 bills; $8 change is one $5 bill and three $1 bills; no refund processed. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -1278,7 +1278,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** Both laces secured comfortably; Max still seated; no walking test yet.
 
-**Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_12.png](storyboards/BOARD_12.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Rose is Maya sister, visible only shots025–030 (60 seconds), a provisional supporting design; she offers orientation clue while family completes task. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -1306,7 +1306,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** Max reports neither shoe pinches; adults ready for standing check.
 
-**Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_12.png](storyboards/BOARD_12.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** All mall action on ground floor; no elevator/escalator ride; children stay with adults. Map upside down021–026, rotated upright027. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -1334,7 +1334,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** Max standing safely in navy pair; Nina beside him; neither heel slipping.
 
-**Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_12.png](storyboards/BOARD_12.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Store return policy in this fictional story: unworn shoes with receipt within14days; do not imply universal policy. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -1362,7 +1362,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** Short walk completed; no running or sliding; Max stops beside mirror.
 
-**Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_12.png](storyboards/BOARD_12.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Receipt stored once at063, moved to household folder075; $8 stays in wallet. No seventh recurring family member or new wardrobe. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -1390,7 +1390,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** Max likes appearance and feel; no purchase processed yet.
 
-**Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_13.png](storyboards/BOARD_13.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Permanent six original Brooks identities and W01 wardrobes; Dan watch anatomical LEFT, phone/wallet RIGHT. Maya and Nina equally respected. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -1418,7 +1418,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** Max seated; both fit checks satisfactory; pair ready for price check.
 
-**Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_13.png](storyboards/BOARD_13.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** One purchased pair: navy school shoes, white soles, white laces, green pull tabs, US kids size 2; cream teal-band box. Max keeps original green sneakers for travel/home. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -1448,7 +1448,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** Price confirmed $32 including tax; family has $40 budget.
 
-**Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_13.png](storyboards/BOARD_13.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** US kids size 1 tight and size 3 loose are returned trial stock; neither is bought. Adult size10 brown display shoe remains store stock; Dan never forces a foot into a child shoe. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -1476,7 +1476,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** Dan agrees one pair meets the plan; display shoe remains store stock.
 
-**Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_13.png](storyboards/BOARD_13.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Price $32 including tax; budget $40; pay two $20 bills; $8 change is one $5 bill and three $1 bills; no refund processed. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -1504,7 +1504,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** Max in white socks; chosen navy pair together in cream size2 box; green pair still below.
 
-**Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_14.png](storyboards/BOARD_14.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Rose is Maya sister, visible only shots025–030 (60 seconds), a provisional supporting design; she offers orientation clue while family completes task. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -1532,7 +1532,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** Both original green sneakers back on; chosen navy pair boxed; no wardrobe substitution.
 
-**Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_14.png](storyboards/BOARD_14.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** All mall action on ground floor; no elevator/escalator ride; children stay with adults. Map upside down021–026, rotated upright027. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -1560,7 +1560,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** One closed cream size2 box held by Dan; bench clear; measuring device stays at store.
 
-**Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_14.png](storyboards/BOARD_14.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Store return policy in this fictional story: unworn shoes with receipt within14days; do not imply universal policy. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -1588,7 +1588,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** All six at checkout queue; fitting bench clear and trial boxes returned.
 
-**Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_14.png](storyboards/BOARD_14.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Receipt stored once at063, moved to household folder075; $8 stays in wallet. No seventh recurring family member or new wardrobe. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -1618,7 +1618,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** Cashier has box on counter; price remains $32 tax included.
 
-**Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_15.png](storyboards/BOARD_15.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Permanent six original Brooks identities and W01 wardrobes; Dan watch anatomical LEFT, phone/wallet RIGHT. Maya and Nina equally respected. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -1648,7 +1648,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** Two matching navy shoes verified inside; Nina recloses lid; no spare pair.
 
-**Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_15.png](storyboards/BOARD_15.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** One purchased pair: navy school shoes, white soles, white laces, green pull tabs, US kids size 2; cream teal-band box. Max keeps original green sneakers for travel/home. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -1678,7 +1678,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** Two $20 bills held separately; no change given yet.
 
-**Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_15.png](storyboards/BOARD_15.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** US kids size 1 tight and size 3 loose are returned trial stock; neither is bought. Adult size10 brown display shoe remains store stock; Dan never forces a foot into a child shoe. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -1706,7 +1706,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** $40 on counter for $32 sale; wallet open in Dan's hand.
 
-**Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_15.png](storyboards/BOARD_15.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Price $32 including tax; budget $40; pay two $20 bills; $8 change is one $5 bill and three $1 bills; no refund processed. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -1736,7 +1736,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** Receipt and exact $8 change on buyer-side tray; no coins or extra bills.
 
-**Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_16.png](storyboards/BOARD_16.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Rose is Maya sister, visible only shots025–030 (60 seconds), a provisional supporting design; she offers orientation clue while family completes task. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -1764,7 +1764,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** Budget remainder $8 and cash change $8 clearly distinguished as equal here.
 
-**Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_16.png](storyboards/BOARD_16.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** All mall action on ground floor; no elevator/escalator ride; children stay with adults. Map upside down021–026, rotated upright027. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -1792,7 +1792,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** Receipt and $8 safely walleted/right-pocketed; tray empty; payment complete.
 
-**Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_16.png](storyboards/BOARD_16.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Store return policy in this fictional story: unworn shoes with receipt within14days; do not imply universal policy. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -1822,7 +1822,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** Store policy confirmed: unworn shoes with receipt within14days; exact policy supplied by SVG.
 
-**Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_16.png](storyboards/BOARD_16.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Receipt stored once at063, moved to household folder075; $8 stays in wallet. No seventh recurring family member or new wardrobe. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -1850,7 +1850,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** Max understands refund would follow an eligible return; no extra money appears.
 
-**Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_17.png](storyboards/BOARD_17.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Permanent six original Brooks identities and W01 wardrobes; Dan watch anatomical LEFT, phone/wallet RIGHT. Maya and Nina equally respected. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -1880,7 +1880,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** Dan holds one store bag containing one boxed pair; checkout counter clear.
 
-**Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_17.png](storyboards/BOARD_17.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** One purchased pair: navy school shoes, white soles, white laces, green pull tabs, US kids size 2; cream teal-band box. Max keeps original green sneakers for travel/home. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -1908,7 +1908,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** All six leaving checkout together; receipt/change pocketed; one paid bag.
 
-**Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_17.png](storyboards/BOARD_17.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** US kids size 1 tight and size 3 loose are returned trial stock; neither is bought. Adult size10 brown display shoe remains store stock; Dan never forces a foot into a child shoe. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -1936,7 +1936,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** Box remains closed inside bag; handles secure; group ready to check the exit route.
 
-**Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_17.png](storyboards/BOARD_17.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Price $32 including tax; budget $40; pay two $20 bills; $8 change is one $5 bill and three $1 bills; no refund processed. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -1964,7 +1964,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** Map upright in right hand; route points toward original glass entrance.
 
-**Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_18.png](storyboards/BOARD_18.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Rose is Maya sister, visible only shots025–030 (60 seconds), a provisional supporting design; she offers orientation clue while family completes task. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -1992,7 +1992,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** Max stays on ground floor with adults; no escalator/elevator ride or play.
 
-**Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_18.png](storyboards/BOARD_18.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** All mall action on ground floor; no elevator/escalator ride; children stay with adults. Map upside down021–026, rotated upright027. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -2020,7 +2020,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** Map pocketed right; one bag left; group ready to exit same doors.
 
-**Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_18.png](storyboards/BOARD_18.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Store return policy in this fictional story: unworn shoes with receipt within14days; do not imply universal policy. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -2048,7 +2048,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** Family exits mall together; travel home follows between shots.
 
-**Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_18.png](storyboards/BOARD_18.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Receipt stored once at063, moved to household folder075; $8 stays in wallet. No seventh recurring family member or new wardrobe. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -2076,7 +2076,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** One bag on island; no shoes on food-preparation surfaces yet because box remains closed.
 
-**Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_19.png](storyboards/BOARD_19.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Permanent six original Brooks identities and W01 wardrobes; Dan watch anatomical LEFT, phone/wallet RIGHT. Maya and Nina equally respected. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -2104,7 +2104,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** Bagged box on shoe-storage bench outside kitchen; island clear again.
 
-**Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_19.png](storyboards/BOARD_19.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** One purchased pair: navy school shoes, white soles, white laces, green pull tabs, US kids size 2; cream teal-band box. Max keeps original green sneakers for travel/home. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -2132,7 +2132,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** Receipt in blue folder; $8 remains walleted; wallet returned right; folder closed.
 
-**Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_19.png](storyboards/BOARD_19.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** US kids size 1 tight and size 3 loose are returned trial stock; neither is bought. Adult size10 brown display shoe remains store stock; Dan never forces a foot into a child shoe. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -2160,7 +2160,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** Max feels heard; no trial stock or spare shoes appear at home.
 
-**Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_19.png](storyboards/BOARD_19.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Price $32 including tax; budget $40; pay two $20 bills; $8 change is one $5 bill and three $1 bills; no refund processed. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -2188,7 +2188,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** Dan acknowledges checking labels before joking; no small shoe handled again.
 
-**Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_20.png](storyboards/BOARD_20.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Rose is Maya sister, visible only shots025–030 (60 seconds), a provisional supporting design; she offers orientation clue while family completes task. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -2216,7 +2216,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** Future park plan introduced only; closed shoe purchase remains at storage bench.
 
-**Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_20.png](storyboards/BOARD_20.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** All mall action on ground floor; no elevator/escalator ride; children stay with adults. Map upside down021–026, rotated upright027. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -2244,7 +2244,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** Six together, comfortable choice made; title-ending overlay can begin within current slot.
 
-**Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_20.png](storyboards/BOARD_20.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Store return policy in this fictional story: unworn shoes with receipt within14days; do not imply universal policy. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
@@ -2272,7 +2272,7 @@ One purchased pair: navy, white soles, white laces, green pull tabs, US kids siz
 
 **End state:** Story resolved at13:20; optional creator practice begins only after the film if separately authored.
 
-**Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
+**Picture:** [BOARD_20.png](storyboards/BOARD_20.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
 **Continuity:** Receipt stored once at063, moved to household folder075; $8 stays in wallet. No seventh recurring family member or new wardrobe. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
