@@ -1,6 +1,8 @@
 # Episode 02 — Dad Bought the Sourest Fruit! | Fruit Shop English
 
-> **Format:** 80 continuous story shots × 15 seconds = **20:00 story runtime**  
+> **Format:** 80 continuous story shots × 10 seconds = **13:20 planned story runtime**  
+>
+> **Editing plan:** Plan each shot for 10 editorial seconds to reduce filler pauses and unnecessary movements. Preserve natural dialogue delivery and meaningful actions; confirm timing against recorded performances before final editing rather than adding silence or speeding up speech.
 > **Genre:** original stylized-3D family comedy, gentle emotional drama, natural American English  
 > **Status:** complete written and illustrated preproduction draft; 20 four-panel storyboard sheets cover all 80 shots. Creator approval, individual motion first frames, performed voices and finished movie remain pending.  
 > **Story-only:** no viewer drills, recap narrator, quizzes or timed practice. Optional creator-authored practice belongs after the movie.
@@ -9,22 +11,22 @@ The morning after Episode 01’s vegetable dinner, all six Brooks family members
 
 ## Story arc
 
-- **00:00–02:00 — One card, six helpers:** prepare the household supplies and a $16 fruit budget.
-- **02:00–06:00 — Size and sour surprises:** the giant watermelon will not fit; Dan mistakes a lemon for a tiny orange. Free samples show that sour and spoiled are different.
-- **06:00–10:00 — Choose with a reason:** compare ripeness, quantity and weight; select nine fruit lines together.
-- **10:00–14:00 — A plan worth paying for:** reject the $8 watermelon, stay at $15.50, pay $20 and distinguish $4.50 change from $0.50 budget remaining.
-- **14:00–17:00 — Prepare, protect, share:** wash hands/fruit; adults prepare the fruit and reserve the unused citrus halves; chill the dressed salad.
-- **17:00–20:00 — A picnic already special:** Max chooses his own taste; Dan admits he wanted to impress them; all six enjoy what they chose together.
+- **00:00–01:20 — One card, six helpers:** prepare the household supplies and a $16 fruit budget.
+- **01:20–04:00 — Size and sour surprises:** the giant watermelon will not fit; Dan mistakes a lemon for a tiny orange. Free samples show that sour and spoiled are different.
+- **04:00–06:40 — Choose with a reason:** compare ripeness, quantity and weight; select nine fruit lines together.
+- **06:40–09:20 — A plan worth paying for:** reject the $8 watermelon, stay at $15.50, pay $20 and distinguish $4.50 change from $0.50 budget remaining.
+- **09:20–11:20 — Prepare, protect, share:** wash hands/fruit; adults prepare the fruit and reserve the unused citrus halves; chill the dressed salad.
+- **11:20–13:20 — A picnic already special:** Max chooses his own taste; Dan admits he wanted to impress them; all six enjoy what they chose together.
 
 ## Performance and state rules
 
-Every slot is an editorial 15-second story shot, not a guarantee that any generation service can supply that duration. Speech is sequential, warm General American; allow actions and reactions between lines. Proposed SRT timings must later be conformed to real performances. No background voice or seventh family member is added. Long handwashing, washing, cutting, packing and mealtime work uses explicitly indicated time ellipses rather than impossible real-time demonstrations.
+Every slot is an editorial 10-second story shot, not a guarantee that any generation service can supply that duration. Speech is sequential, warm General American; allow actions and reactions between lines. Proposed SRT timings must later be conformed to real performances. No background voice or seventh family member is added. Long handwashing, washing, cutting, packing and mealtime work uses explicitly indicated time ellipses rather than impossible real-time demonstrations.
 
 All six keep their original faces, proportions and W01 outfits. Existing kitchen geography and Dan’s LEFT-wrist watch / RIGHT-pocket wallet and card continue. Shop and garden layouts, inventory, prices and food handling are locked in [CONTINUITY.md](CONTINUITY.md). All five locations still require Episode 02 shot-specific composition/first-frame approvals; existing Episode 01 kitchen/cast previews are reference aids only.
 
 ## Timed story shots
 
-### SHOT_001 | 00:00:00–00:00:15 | One card, two colors
+### SHOT_001 | 00:00:00–00:00:10 | One card, two colors
 
 **Visible cast:** DAN, MAYA, NINA  
 **Location:** HOME_KITCHEN  
@@ -44,7 +46,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **MAYA:** Good. I want to hear how you explain those colors, Dan.
 
-### SHOT_002 | 00:00:15–00:00:30 | A picnic close to home
+### SHOT_002 | 00:00:10–00:00:20 | A picnic close to home
 
 **Visible cast:** MAYA, ELLA, MAX  
 **Location:** HOME_KITCHEN  
@@ -64,7 +66,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **ELLA:** The shade under that tree is just the right size.
 
-### SHOT_003 | 00:00:30–00:00:45 | A real limit
+### SHOT_003 | 00:00:20–00:00:30 | A real limit
 
 **Visible cast:** DAN, LEO, NINA  
 **Location:** HOME_KITCHEN  
@@ -84,7 +86,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **DAN:** Four stays out. Sixteen is what we can spend.
 
-### SHOT_004 | 00:00:45–00:01:00 | What we already own
+### SHOT_004 | 00:00:30–00:00:40 | What we already own
 
 **Visible cast:** NINA, ELLA, MAX  
 **Location:** HOME_KITCHEN  
@@ -106,7 +108,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **MAX:** Good. Grass makes my knees itch.
 
-### SHOT_005 | 00:01:00–00:01:15 | The size champion
+### SHOT_005 | 00:00:40–00:00:50 | The size champion
 
 **Visible cast:** DAN, MAYA, LEO  
 **Location:** HOME_KITCHEN  
@@ -126,7 +128,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **DAN:** You're taking all the fun out of showing off.
 
-### SHOT_006 | 00:01:15–00:01:30 | The basket has an opinion
+### SHOT_006 | 00:00:50–00:01:00 | The basket has an opinion
 
 **Visible cast:** DAN, MAX  
 **Location:** HOME_KITCHEN  
@@ -146,7 +148,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **DAN:** Let's look at the basket before we choose a winner.
 
-### SHOT_007 | 00:01:30–00:01:45 | Everyone has a job
+### SHOT_007 | 00:01:00–00:01:10 | Everyone has a job
 
 **Visible cast:** MAYA, NINA, LEO, ELLA, DAN, MAX  
 **Location:** HOME_KITCHEN  
@@ -166,7 +168,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **DAN:** Listening. That's a shopping job I haven't tried.
 
-### SHOT_008 | 00:01:45–00:02:00 | Out together
+### SHOT_008 | 00:01:10–00:01:20 | Out together
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX  
 **Location:** HOME_KITCHEN  
@@ -186,7 +188,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **LEO:** It's a trial position. Let's see what you choose.
 
-### SHOT_009 | 00:02:00–00:02:15 | The fruit shop
+### SHOT_009 | 00:01:20–00:01:30 | The fruit shop
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX  
 **Location:** FRUIT_SHOP_WIDE  
@@ -206,7 +208,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **NINA:** Are we handing out medals before we've seen the prices?
 
-### SHOT_010 | 00:02:15–00:02:30 | A champion in a cradle
+### SHOT_010 | 00:01:30–00:01:40 | A champion in a cradle
 
 **Visible cast:** DAN, LEO, MAX  
 **Location:** FRUIT_COUNTER  
@@ -226,7 +228,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **DAN:** Half our money on one fruit? That's quite a table.
 
-### SHOT_011 | 00:02:30–00:02:45 | No room at the rim
+### SHOT_011 | 00:01:40–00:01:50 | No room at the rim
 
 **Visible cast:** DAN, MAYA, MAX  
 **Location:** FRUIT_COUNTER  
@@ -246,7 +248,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **DAN:** It does seem to be winning against the basket.
 
-### SHOT_012 | 00:02:45–00:03:00 | The little yellow orange
+### SHOT_012 | 00:01:50–00:02:00 | The little yellow orange
 
 **Visible cast:** DAN, ELLA, NINA  
 **Location:** FRUIT_COUNTER  
@@ -266,7 +268,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **ELLA:** A real orange doesn't usually have that little nose.
 
-### SHOT_013 | 00:03:00–00:03:15 | More than one clue
+### SHOT_013 | 00:02:00–00:02:10 | More than one clue
 
 **Visible cast:** MAYA, ELLA, DAN  
 **Location:** FRUIT_COUNTER  
@@ -286,7 +288,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **MAYA:** That name might explain why it smells so different.
 
-### SHOT_014 | 00:03:15–00:03:30 | An invitation to compare
+### SHOT_014 | 00:02:10–00:02:20 | An invitation to compare
 
 **Visible cast:** NINA, MAX, DAN  
 **Location:** FRUIT_COUNTER  
@@ -306,7 +308,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **MAX:** Okay. I want to see Dad's face first, though.
 
-### SHOT_015 | 00:03:30–00:03:45 | A little hesitation
+### SHOT_015 | 00:02:20–00:02:30 | A little hesitation
 
 **Visible cast:** DAN, LEO, MAYA  
 **Location:** FRUIT_COUNTER  
@@ -326,7 +328,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **DAN:** Right. You can all help me pick a better name.
 
-### SHOT_016 | 00:03:45–00:04:00 | Putting a guess down
+### SHOT_016 | 00:02:30–00:02:40 | Putting a guess down
 
 **Visible cast:** DAN, ELLA  
 **Location:** FRUIT_COUNTER  
@@ -346,7 +348,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **ELLA:** Let's find out before you guess again.
 
-### SHOT_017 | 00:04:00–00:04:15 | A proper washing pause
+### SHOT_017 | 00:02:40–00:02:50 | A proper washing pause
 
 **Visible cast:** NINA, MAX, MAYA, ELLA, DAN, LEO  
 **Location:** FRUIT_COUNTER  
@@ -355,7 +357,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Opening state:** No samples eaten; basket on dry counter, cooler closed beside it; card placed on dry ledge.  
 **End state:** All six have washed and dried hands; water off; card retrieved by Dan after drying.  
 **Picture:** [BOARD_05.png](assets/storyboards/BOARD_05.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.  
-**Continuity:** The handwashing takes longer in story time than this 15-second slot. Sink is a designated customer handwashing sink, not a fruit display.
+**Continuity:** The handwashing takes longer in story time than this 10-second slot. Sink is a designated customer handwashing sink, not a fruit display.
 
 **Dialogue:**
 **MAX:** Do lemons need us to wash our hands?
@@ -366,7 +368,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **ELLA:** Even experts touch baskets and door handles.
 
-### SHOT_018 | 00:04:15–00:04:30 | Two separate sample plates
+### SHOT_018 | 00:02:50–00:03:00 | Two separate sample plates
 
 **Visible cast:** NINA, DAN, MAX  
 **Location:** FRUIT_COUNTER  
@@ -386,7 +388,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **MAX:** I'm watching your eyebrows. They always give you away.
 
-### SHOT_019 | 00:04:30–00:04:45 | The sour surprise
+### SHOT_019 | 00:03:00–00:03:10 | The sour surprise
 
 **Visible cast:** DAN, MAX, NINA  
 **Location:** FRUIT_COUNTER  
@@ -406,7 +408,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **NINA:** Those eyebrows just told us exactly how strong it is.
 
-### SHOT_020 | 00:04:45–00:05:00 | Is sour the same as bad?
+### SHOT_020 | 00:03:10–00:03:20 | Is sour the same as bad?
 
 **Visible cast:** MAX, NINA, DAN  
 **Location:** FRUIT_COUNTER  
@@ -426,7 +428,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **NINA:** Your nose certainly had something to say about it.
 
-### SHOT_021 | 00:05:00–00:05:15 | A reassuring difference
+### SHOT_021 | 00:03:20–00:03:30 | A reassuring difference
 
 **Visible cast:** NINA, MAX, MAYA  
 **Location:** FRUIT_COUNTER  
@@ -446,7 +448,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **NINA:** That's fine, Max. You can smell the orange instead.
 
-### SHOT_022 | 00:05:15–00:05:30 | An orange on its own terms
+### SHOT_022 | 00:03:30–00:03:40 | An orange on its own terms
 
 **Visible cast:** MAYA, DAN, MAX  
 **Location:** FRUIT_COUNTER  
@@ -466,7 +468,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **DAN:** My eyebrows prefer this one. Did you see them relax?
 
-### SHOT_023 | 00:05:30–00:05:45 | A choice without a dare
+### SHOT_023 | 00:03:40–00:03:50 | A choice without a dare
 
 **Visible cast:** MAX, NINA, ELLA  
 **Location:** FRUIT_COUNTER  
@@ -486,7 +488,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **NINA:** I'd know exactly which sample you meant from that.
 
-### SHOT_024 | 00:05:45–00:06:00 | The expert changes the rule
+### SHOT_024 | 00:03:50–00:04:00 | The expert changes the rule
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX  
 **Location:** FRUIT_COUNTER  
@@ -507,7 +509,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **ELLA:** I'll help you find a pair that looks good.
 
-### SHOT_025 | 00:06:00–00:06:15 | An apple is not a trophy
+### SHOT_025 | 00:04:00–00:04:10 | An apple is not a trophy
 
 **Visible cast:** MAYA, ELLA, DAN  
 **Location:** FRUIT_COUNTER  
@@ -529,7 +531,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **DAN:** Then those two get the first seats in the basket.
 
-### SHOT_026 | 00:06:15–00:06:30 | Two apples, two dollars
+### SHOT_026 | 00:04:10–00:04:20 | Two apples, two dollars
 
 **Visible cast:** DAN, MAYA, LEO  
 **Location:** FRUIT_COUNTER  
@@ -549,7 +551,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **LEO:** And fourteen dollars still gives us choices, Dad.
 
-### SHOT_027 | 00:06:30–00:06:45 | A bunch is one purchase
+### SHOT_027 | 00:04:20–00:04:30 | A bunch is one purchase
 
 **Visible cast:** DAN, MAX, NINA  
 **Location:** FRUIT_COUNTER  
@@ -569,7 +571,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **MAX:** Did they have to hold hands all the way here?
 
-### SHOT_028 | 00:06:45–00:07:00 | No banana passengers
+### SHOT_028 | 00:04:30–00:04:40 | No banana passengers
 
 **Visible cast:** DAN, NINA, LEO  
 **Location:** FRUIT_COUNTER  
@@ -589,7 +591,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **DAN:** Who gets the next invitation? Something round, I hope.
 
-### SHOT_029 | 00:07:00–00:07:15 | Oranges with their own name
+### SHOT_029 | 00:04:40–00:04:50 | Oranges with their own name
 
 **Visible cast:** DAN, ELLA, LEO  
 **Location:** FRUIT_COUNTER  
@@ -609,7 +611,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **DAN:** Two oranges, one price each. I'm following the total.
 
-### SHOT_030 | 00:07:15–00:07:30 | A reason for a lemon
+### SHOT_030 | 00:04:50–00:05:00 | A reason for a lemon
 
 **Visible cast:** NINA, DAN, MAX  
 **Location:** FRUIT_COUNTER  
@@ -629,7 +631,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **NINA:** Just enough for the juice to reach all the fruit.
 
-### SHOT_031 | 00:07:30–00:07:45 | Two different citrus fruits
+### SHOT_031 | 00:05:00–00:05:10 | Two different citrus fruits
 
 **Visible cast:** DAN, NINA, LEO  
 **Location:** FRUIT_COUNTER  
@@ -649,7 +651,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **DAN:** Good. My mouth remembers which one it met first.
 
-### SHOT_032 | 00:07:45–00:08:00 | A pound is a weight
+### SHOT_032 | 00:05:10–00:05:20 | A pound is a weight
 
 **Visible cast:** LEO, DAN, MAYA  
 **Location:** FRUIT_COUNTER  
@@ -670,7 +672,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **DAN:** I'm glad you said weight. I'd be here counting all day.
 
-### SHOT_033 | 00:08:00–00:08:15 | Weight, then price
+### SHOT_033 | 00:05:20–00:05:30 | Weight, then price
 
 **Visible cast:** MAYA, LEO, DAN  
 **Location:** FRUIT_COUNTER  
@@ -690,7 +692,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **LEO:** And it doesn't care how impressive a grape looks.
 
-### SHOT_034 | 00:08:15–00:08:30 | Strawberries under a lid
+### SHOT_034 | 00:05:30–00:05:40 | Strawberries under a lid
 
 **Visible cast:** ELLA, MAYA, LEO  
 **Location:** FRUIT_COUNTER  
@@ -710,7 +712,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **ELLA:** Can we keep the lid clear when we pack?
 
-### SHOT_035 | 00:08:30–00:08:45 | A safe place for soft fruit
+### SHOT_035 | 00:05:40–00:05:50 | A safe place for soft fruit
 
 **Visible cast:** DAN, NINA, ELLA  
 **Location:** FRUIT_COUNTER  
@@ -730,7 +732,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **ELLA:** The berries would like to thank you for changing it.
 
-### SHOT_036 | 00:08:45–00:09:00 | Ready today
+### SHOT_036 | 00:05:50–00:06:00 | Ready today
 
 **Visible cast:** MAYA, ELLA, DAN  
 **Location:** FRUIT_COUNTER  
@@ -751,7 +753,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **DAN:** I can hold the basket steady while you choose.
 
-### SHOT_037 | 00:09:00–00:09:15 | Peaches need protection
+### SHOT_037 | 00:06:00–00:06:10 | Peaches need protection
 
 **Visible cast:** MAYA, ELLA, LEO  
 **Location:** FRUIT_COUNTER  
@@ -771,7 +773,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **ELLA:** I'll leave their spot clear while you finish counting.
 
-### SHOT_038 | 00:09:15–00:09:30 | The pear comparison
+### SHOT_038 | 00:06:10–00:06:20 | The pear comparison
 
 **Visible cast:** NINA, MAX, DAN  
 **Location:** FRUIT_COUNTER  
@@ -791,7 +793,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **MAX:** My hands vote for the little team, too.
 
-### SHOT_039 | 00:09:30–00:09:45 | The last fruit line
+### SHOT_039 | 00:06:20–00:06:30 | The last fruit line
 
 **Visible cast:** NINA, LEO, DAN  
 **Location:** FRUIT_COUNTER  
@@ -811,7 +813,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **DAN:** Just under. That's close enough to check it twice.
 
-### SHOT_040 | 00:09:45–00:10:00 | Enough is a useful amount
+### SHOT_040 | 00:06:30–00:06:40 | Enough is a useful amount
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX  
 **Location:** FRUIT_COUNTER  
@@ -831,7 +833,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **LEO:** The melon can stay on its very own shelf.
 
-### SHOT_041 | 00:10:00–00:10:15 | Reading the total
+### SHOT_041 | 00:06:40–00:06:50 | Reading the total
 
 **Visible cast:** LEO, DAN, ELLA  
 **Location:** FRUIT_COUNTER  
@@ -851,7 +853,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **LEO:** By fifty cents.
 
-### SHOT_042 | 00:10:15–00:10:30 | A little breathing room
+### SHOT_042 | 00:06:50–00:07:00 | A little breathing room
 
 **Visible cast:** DAN, LEO, NINA  
 **Location:** FRUIT_COUNTER  
@@ -871,7 +873,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **DAN:** Ah, the change starts with the twenty in my wallet.
 
-### SHOT_043 | 00:10:30–00:10:45 | The champion asks too much
+### SHOT_043 | 00:07:00–00:07:10 | The champion asks too much
 
 **Visible cast:** DAN, LEO, MAX  
 **Location:** FRUIT_COUNTER  
@@ -891,7 +893,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **DAN:** I don't think my elbows can afford that either.
 
-### SHOT_044 | 00:10:45–00:11:00 | Leaving it for another picnic
+### SHOT_044 | 00:07:10–00:07:20 | Leaving it for another picnic
 
 **Visible cast:** DAN, MAYA, LEO  
 **Location:** FRUIT_COUNTER  
@@ -911,7 +913,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **LEO:** Choosing on purpose? You might get good at that.
 
-### SHOT_045 | 00:11:00–00:11:15 | One remaining worry
+### SHOT_045 | 00:07:20–00:07:30 | One remaining worry
 
 **Visible cast:** MAX, DAN, NINA  
 **Location:** FRUIT_COUNTER  
@@ -931,7 +933,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **MAX:** I'll watch the spoon. My cheeks are counting on you.
 
-### SHOT_046 | 00:11:15–00:11:30 | A small job for a strong flavor
+### SHOT_046 | 00:07:30–00:07:40 | A small job for a strong flavor
 
 **Visible cast:** NINA, MAX, DAN  
 **Location:** FRUIT_COUNTER  
@@ -951,7 +953,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **NINA:** Just wait until you smell the orange in there, too.
 
-### SHOT_047 | 00:11:30–00:11:45 | Sharing the important jobs
+### SHOT_047 | 00:07:40–00:07:50 | Sharing the important jobs
 
 **Visible cast:** MAYA, NINA, DAN, ELLA  
 **Location:** FRUIT_COUNTER  
@@ -972,7 +974,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **DAN:** Sounds like the picnic crew is already on duty.
 
-### SHOT_048 | 00:11:45–00:12:00 | A plan worth carrying
+### SHOT_048 | 00:07:50–00:08:00 | A plan worth carrying
 
 **Visible cast:** DAN, LEO, ELLA, MAX  
 **Location:** FRUIT_COUNTER  
@@ -992,7 +994,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **ELLA:** Easier to share, too. Everybody helped pick something.
 
-### SHOT_049 | 00:12:00–00:12:15 | The real checkout
+### SHOT_049 | 00:08:00–00:08:10 | The real checkout
 
 **Visible cast:** DAN, LEO, MAYA  
 **Location:** FRUIT_CHECKOUT  
@@ -1012,7 +1014,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **DAN:** That makes me feel better about handing over twenty.
 
-### SHOT_050 | 00:12:15–00:12:30 | One twenty-dollar bill
+### SHOT_050 | 00:08:10–00:08:20 | One twenty-dollar bill
 
 **Visible cast:** DAN, LEO  
 **Location:** FRUIT_CHECKOUT  
@@ -1032,7 +1034,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **LEO:** Four fifty back. I'll watch while you count it.
 
-### SHOT_051 | 00:12:30–00:12:45 | Four dollars and two quarters
+### SHOT_051 | 00:08:20–00:08:30 | Four dollars and two quarters
 
 **Visible cast:** DAN, MAX, NINA  
 **Location:** FRUIT_CHECKOUT  
@@ -1052,7 +1054,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **DAN:** Let's start with the bill I actually handed over.
 
-### SHOT_052 | 00:12:45–00:13:00 | Two different remainders
+### SHOT_052 | 00:08:30–00:08:40 | Two different remainders
 
 **Visible cast:** LEO, MAX, DAN  
 **Location:** FRUIT_CHECKOUT  
@@ -1072,7 +1074,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **MAX:** Even the ones that never wanted to go shopping.
 
-### SHOT_053 | 00:13:00–00:13:15 | Gentle seats for the journey
+### SHOT_053 | 00:08:40–00:08:50 | Gentle seats for the journey
 
 **Visible cast:** MAYA, NINA, DAN, ELLA  
 **Location:** FRUIT_CHECKOUT  
@@ -1092,7 +1094,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **ELLA:** I can give the soft ones a little elbow room.
 
-### SHOT_054 | 00:13:15–00:13:30 | Everything accounted for
+### SHOT_054 | 00:08:50–00:09:00 | Everything accounted for
 
 **Visible cast:** DAN, LEO, MAX  
 **Location:** FRUIT_CHECKOUT  
@@ -1112,7 +1114,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **MAX:** And lunch has six people who would like to sit.
 
-### SHOT_055 | 00:13:30–00:13:45 | A smaller victory
+### SHOT_055 | 00:09:00–00:09:10 | A smaller victory
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX  
 **Location:** FRUIT_SHOP_WIDE  
@@ -1132,7 +1134,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **LEO:** That giant table still had an eight-dollar price tag.
 
-### SHOT_056 | 00:13:45–00:14:00 | Home, with the right fruit
+### SHOT_056 | 00:09:10–00:09:20 | Home, with the right fruit
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX  
 **Location:** HOME_KITCHEN  
@@ -1152,7 +1154,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **NINA:** Wait until it's mixed in. Then tell me what you taste.
 
-### SHOT_057 | 00:14:00–00:14:15 | Clean hands again
+### SHOT_057 | 00:09:20–00:09:30 | Clean hands again
 
 **Visible cast:** MAYA, NINA, DAN, LEO, ELLA, MAX  
 **Location:** HOME_KITCHEN  
@@ -1161,7 +1163,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 **Opening state:** Purchased fruit unwashed on clean trays; cooler and basket empty of fruit.  
 **End state:** All six hands washed/dried; water off briefly; fruit still awaiting rinse; children away from cutting stations.  
 **Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 1. Generated illustrated draft; creator approval and individual motion first frame pending.  
-**Continuity:** Handwashing is not compressed into a false fifteen-second real-time demonstration. Never wash food with hand soap.
+**Continuity:** Handwashing is not compressed into a false ten-second real-time demonstration. Never wash food with hand soap.
 
 **Dialogue:**
 **MAYA:** Hands first, after our trip.
@@ -1172,7 +1174,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **LEO:** Good. I'll keep the plates clear while we're washing.
 
-### SHOT_058 | 00:14:15–00:14:30 | Rinse before preparing
+### SHOT_058 | 00:09:30–00:09:40 | Rinse before preparing
 
 **Visible cast:** NINA, MAYA, ELLA  
 **Location:** HOME_KITCHEN  
@@ -1192,7 +1194,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **ELLA:** I can wait. I like the way that peel smells.
 
-### SHOT_059 | 00:14:30–00:14:45 | Adults take the cutting jobs
+### SHOT_059 | 00:09:40–00:09:50 | Adults take the cutting jobs
 
 **Visible cast:** MAYA, DAN, LEO  
 **Location:** HOME_KITCHEN  
@@ -1212,7 +1214,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **MAYA:** Thank you. A clear counter gives me room to work.
 
-### SHOT_060 | 00:14:45–00:15:00 | Grapes take the long cut
+### SHOT_060 | 00:09:50–00:10:00 | Grapes take the long cut
 
 **Visible cast:** NINA, DAN, MAX  
 **Location:** HOME_KITCHEN  
@@ -1232,7 +1234,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **MAX:** Little boats. I can see all four of them.
 
-### SHOT_061 | 00:15:00–00:15:15 | Strawberries join the colors
+### SHOT_061 | 00:10:00–00:10:10 | Strawberries join the colors
 
 **Visible cast:** NINA, ELLA, MAYA  
 **Location:** HOME_KITCHEN  
@@ -1252,7 +1254,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **MAYA:** We can spot the red ones from across the island.
 
-### SHOT_062 | 00:15:15–00:15:30 | Two oranges, no surprises
+### SHOT_062 | 00:10:10–00:10:20 | Two oranges, no surprises
 
 **Visible cast:** DAN, MAYA, MAX  
 **Location:** HOME_KITCHEN  
@@ -1272,7 +1274,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **DAN:** My face will wait. My hands are busy anyway.
 
-### SHOT_063 | 00:15:30–00:15:45 | The bunch becomes four
+### SHOT_063 | 00:10:20–00:10:30 | The bunch becomes four
 
 **Visible cast:** DAN, NINA, LEO  
 **Location:** HOME_KITCHEN  
@@ -1292,7 +1294,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **DAN:** Remember my lemon face? Let's give it a smaller job.
 
-### SHOT_064 | 00:15:45–00:16:00 | Half of each
+### SHOT_064 | 00:10:30–00:10:40 | Half of each
 
 **Visible cast:** NINA, DAN, MAX  
 **Location:** HOME_KITCHEN  
@@ -1312,7 +1314,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **MAX:** Good. My tongue would like a little warning today.
 
-### SHOT_065 | 00:16:00–00:16:15 | Saving the other halves
+### SHOT_065 | 00:10:40–00:10:50 | Saving the other halves
 
 **Visible cast:** MAYA, ELLA, NINA  
 **Location:** HOME_KITCHEN  
@@ -1332,7 +1334,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **ELLA:** I like that we didn't need a whole one.
 
-### SHOT_066 | 00:16:15–00:16:30 | A small amount, a shared bowl
+### SHOT_066 | 00:10:50–00:11:00 | A small amount, a shared bowl
 
 **Visible cast:** NINA, DAN, MAYA, MAX  
 **Location:** HOME_KITCHEN  
@@ -1352,7 +1354,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **NINA:** Deal. Tell me which flavor you notice first.
 
-### SHOT_067 | 00:16:30–00:16:45 | Cool until lunch
+### SHOT_067 | 00:11:00–00:11:10 | Cool until lunch
 
 **Visible cast:** MAYA, NINA, ELLA  
 **Location:** HOME_KITCHEN  
@@ -1372,7 +1374,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **MAYA:** Luckily the shade is only a few steps away.
 
-### SHOT_068 | 00:16:45–00:17:00 | Only a few steps away
+### SHOT_068 | 00:11:10–00:11:20 | Only a few steps away
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX  
 **Location:** HOME_GARDEN  
@@ -1392,7 +1394,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **LEO:** Best trip yet. Nobody had to check the price of shade.
 
-### SHOT_069 | 00:17:00–00:17:15 | Six places in the shade
+### SHOT_069 | 00:11:20–00:11:30 | Six places in the shade
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX  
 **Location:** HOME_GARDEN  
@@ -1412,7 +1414,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **MAX:** I think that melon would have rolled right out from under me.
 
-### SHOT_070 | 00:17:15–00:17:30 | The bowl finally opens
+### SHOT_070 | 00:11:30–00:11:40 | The bowl finally opens
 
 **Visible cast:** NINA, MAYA, MAX, DAN  
 **Location:** HOME_GARDEN  
@@ -1432,7 +1434,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **NINA:** Give it a sniff before you pick your first bite.
 
-### SHOT_071 | 00:17:30–00:17:45 | Max makes his own choice
+### SHOT_071 | 00:11:40–00:11:50 | Max makes his own choice
 
 **Visible cast:** MAX, NINA, DAN  
 **Location:** HOME_GARDEN  
@@ -1452,7 +1454,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **DAN:** I wish it'd learned that before I met the sample.
 
-### SHOT_072 | 00:17:45–00:18:00 | What Dad wanted
+### SHOT_072 | 00:11:50–00:12:00 | What Dad wanted
 
 **Visible cast:** DAN, LEO, MAYA  
 **Location:** HOME_GARDEN  
@@ -1472,7 +1474,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **DAN:** Oh. I could've asked what felt special to you.
 
-### SHOT_073 | 00:18:00–00:18:15 | Already special
+### SHOT_073 | 00:12:00–00:12:10 | Already special
 
 **Visible cast:** MAX, DAN, NINA  
 **Location:** HOME_GARDEN  
@@ -1492,7 +1494,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **MAX:** I'd still come sit under the tree with you.
 
-### SHOT_074 | 00:18:15–00:18:30 | A better kind of champion
+### SHOT_074 | 00:12:10–00:12:20 | A better kind of champion
 
 **Visible cast:** ELLA, MAYA, DAN  
 **Location:** HOME_GARDEN  
@@ -1512,7 +1514,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **ELLA:** Good. There's room under this tree for all six of us.
 
-### SHOT_075 | 00:18:30–00:18:45 | Both mothers, one good plan
+### SHOT_075 | 00:12:20–00:12:30 | Both mothers, one good plan
 
 **Visible cast:** MAYA, NINA, DAN  
 **Location:** HOME_GARDEN  
@@ -1532,7 +1534,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **MAYA:** You made picking two little pears feel important.
 
-### SHOT_076 | 00:18:45–00:19:00 | The face stays unfolded
+### SHOT_076 | 00:12:30–00:12:40 | The face stays unfolded
 
 **Visible cast:** MAX, ELLA, DAN  
 **Location:** HOME_GARDEN  
@@ -1552,7 +1554,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **MAX:** Then I guess we gave the lemon just enough work.
 
-### SHOT_077 | 00:19:00–00:19:15 | A card worth keeping
+### SHOT_077 | 00:12:40–00:12:50 | A card worth keeping
 
 **Visible cast:** DAN, LEO, ELLA  
 **Location:** HOME_GARDEN  
@@ -1572,7 +1574,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **ELLA:** And nobody had to carry a picnic table home.
 
-### SHOT_078 | 00:19:15–00:19:30 | Tomorrow can wait
+### SHOT_078 | 00:12:50–00:13:00 | Tomorrow can wait
 
 **Visible cast:** MAYA, NINA, DAN, MAX  
 **Location:** HOME_GARDEN  
@@ -1592,7 +1594,7 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **MAX:** If it's breakfast, I vote for something we can flip.
 
-### SHOT_079 | 00:19:30–00:19:45 | Keeping what we made
+### SHOT_079 | 00:13:00–00:13:10 | Keeping what we made
 
 **Visible cast:** NINA, MAYA, LEO, ELLA  
 **Location:** HOME_GARDEN  
@@ -1612,16 +1614,16 @@ All six keep their original faces, proportions and W01 outfits. Existing kitchen
 
 **MAYA:** Let's carry the dishes level on the way inside.
 
-### SHOT_080 | 00:19:45–00:20:00 | Enough for a happy ending
+### SHOT_080 | 00:13:10–00:13:20 | Enough for a happy ending
 
 **Visible cast:** DAN, MAYA, NINA, LEO, ELLA, MAX  
 **Location:** HOME_GARDEN  
-**Camera:** Slow wide pullback on all six fixed blanket places; end within 20:00.  
+**Camera:** Slow wide pullback on all six fixed blanket places; end within 13:20.  
 **Action:** All six share a relaxed smile in the tree’s shade. Dan rests his empty hands on his knees; Maya and Nina sit comfortably with the children. The closed cooler and basket remain beside the blanket. A modest editorial ending overlay fits the final two seconds without extending runtime.  
 **Opening state:** Picnic finished; leftovers chilled, dishes gathered, card/wallet pocketed; all six remain seated.  
-**End state:** Hold the six-person family tableau through 00:20:00; completed fruit story, no unresolved errand or new character.  
+**End state:** Hold the six-person family tableau through 00:13:20; completed fruit story, no unresolved errand or new character.  
 **Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 4. Generated illustrated draft; creator approval and individual motion first frame pending.  
-**Continuity:** No chorus or recap narrator. Any creator-designed practice belongs after the finished 20-minute movie, outside this story.
+**Continuity:** No chorus or recap narrator. Any creator-designed practice belongs after the finished 13-minute-20-second movie, outside this story.
 
 **Dialogue:**
 **DAN:** Not the biggest fruit. A very happy picnic.
