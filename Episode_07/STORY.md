@@ -2260,7 +2260,7 @@ All six preserve their original faces, ages, body ratios and W01 clothes; Dan's 
 
 **Opening state:** Outward journey complete; three old books returned, three new loans packed; all six together.
 
-**End state:** Hold family tableau through00:20:00; no return journey or new errand begins.
+**End state:** Hold family tableau through 00:13:20; no return journey or new errand begins.
 
 **Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 
