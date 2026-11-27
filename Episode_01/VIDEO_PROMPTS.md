@@ -1,14 +1,16 @@
 # Episode 01 — 80 video-generation prompts for STORY ONLY
 
-Written preproduction draft; **no videos have been generated**. Each entry is one planned 15-second editorial shot, 16:9, original stylized 3D, natural General American family conversation. Verify the selected service duration/capabilities/costs before separately authorized Task 5 production. No drills, quiz overlays or viewer-repeat pauses.
+Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start dialogue promptly, let meaningful actions and listener reactions occur during speech, and avoid filler silence, prolonged holds or unnatural motion. Speaker windows below are provisional editorial targets, not instructions to rush speech; verify against natural recorded performances. If a line cannot fit naturally, flag the shot for editorial review rather than truncating dialogue or artificially speeding it up.
+
+Written preproduction draft; **no videos have been generated**. Each entry is one planned 10-second editorial shot, 16:9, original stylized 3D, natural General American family conversation. Verify the selected service duration/capabilities/costs before separately authorized Task 5 production. No drills, quiz overlays or viewer-repeat pauses.
 
 Use the permanent [cast previews](assets/characters/) for discussion; restore the original owner-controlled PNG masters before production. Follow [CONTINUITY.md](CONTINUITY.md) and the [scene-reference plan](SCENE_REFERENCE_PLAN.md). Five location previews and 20 illustrated storyboard sheets covering all 80 shots are available in the [visual gallery](STORYBOARD_GALLERY.md). They are visual drafts; creator approval and individual motion first frames remain pending.
 
 Global negatives: no replacement faces, extra family members, wardrobe changes, mirrored watch/pocket sides, duplicate containers or vegetables, unexplained inventory transfers, children handling knives or the hot stove, watermarks or baked-in subtitles. BLUE list/tote is Maya’s salad; YELLOW list/tote is Nina’s soup. Buy four carrots, never forty. Preserve the exact shopping ledger and $18.50 total, $20 payment and $1.50 change. Maya and Nina stay home; their market phone lines are audio only, with no caller portraits or extra people. Vendor dialogue is off-screen/hands-only. Use the exact [editorial SVGs](assets/overlays/) for text/prices; no invented lettering or money. No automated video/voice render calls are authorized.
 
-This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the screenplay first, then review all derived changes.
+This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the screenplay first, then review all derived changes. The legacy sync script and existing subtitle track have not been retimed in this change; verify or update their timing before regenerating this document or assembling video.
 
-## SHOT_001 | 00:00:00–00:00:15 | The blue salad note
+## SHOT_001 | 00:00:00–00:00:10 | The blue salad note
 
 **Characters:** MAYA, DAN. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Off-screen voices:** NONE
@@ -19,7 +21,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Picture:** [BOARD_01.png](assets/storyboards/BOARD_01.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** The blue heading is SALAD throughout. Dan wears the original sky-blue polo and LEFT-wrist watch.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–5.61s · DAN 5.76–7.16s · MAYA 7.31–10.03s · DAN 10.18–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–3.74s · DAN 3.84–4.77s · MAYA 4.87–6.69s · DAN 6.79–8.89s.
 
 **Dialogue:**
 **MAYA:** Dan, can you pick up four carrots, three tomatoes, and one cucumber?
@@ -30,7 +32,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 
 **DAN:** You even drew the carrots. That'll help.
 
-## SHOT_002 | 00:00:15–00:00:30 | A second dish, a second color
+## SHOT_002 | 00:00:10–00:00:20 | A second dish, a second color
 
 **Characters:** NINA, DAN. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Off-screen voices:** NONE
@@ -41,7 +43,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Picture:** [BOARD_01.png](assets/storyboards/BOARD_01.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** The yellow heading is SOUP. Nina and Maya are equal partners with different dishes, not competing requests.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): NINA 0.25–5.61s · DAN 5.76–8.04s · NINA 8.19–10.47s · DAN 10.62–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–3.74s · DAN 3.84–5.36s · NINA 5.46–6.98s · DAN 7.08–8.89s.
 
 **Dialogue:**
 **NINA:** Six potatoes, two onions, and broccoli for my soup. Yellow is mine.
@@ -52,7 +54,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 
 **DAN:** They both fit in one hand.
 
-## SHOT_003 | 00:00:30–00:00:45 | The headings are clear
+## SHOT_003 | 00:00:20–00:00:30 | The headings are clear
 
 **Characters:** MAYA, NINA, DAN. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Off-screen voices:** NONE
@@ -63,7 +65,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Picture:** [BOARD_01.png](assets/storyboards/BOARD_01.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** The audience can see the true assignments. Later confusion changes Dan's memory, never the printed headings.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–1.76s · NINA 1.91–3.41s · DAN 3.56–7.91s · MAYA 8.06–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.17s · NINA 1.27–2.27s · DAN 2.37–5.27s · MAYA 5.37–8.27s.
 
 **Dialogue:**
 **MAYA:** Blue for salad.
@@ -74,7 +76,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 
 **MAYA:** There's room for the actual notes, too, I hope.
 
-## SHOT_004 | 00:00:45–00:01:00 | Three helpers arrive
+## SHOT_004 | 00:00:30–00:00:40 | Three helpers arrive
 
 **Characters:** DAN, LEO, ELLA, MAX. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Off-screen voices:** NONE
@@ -85,7 +87,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Picture:** [BOARD_01.png](assets/storyboards/BOARD_01.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Only the six permanent family members belong to this home; the shot shows Dan and the three named children.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–2.53s · DAN 2.68–4.96s · ELLA 5.11–8.27s · MAX 8.42–12.46s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.69s · DAN 1.79–3.31s · ELLA 3.41–5.51s · MAX 5.61–8.31s.
 
 **Dialogue:**
 **LEO:** Should we check those together?
@@ -96,7 +98,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 
 **MAX:** Can my eyes come along? They're good at broccoli.
 
-## SHOT_005 | 00:01:00–00:01:15 | A filing error in Dad's head
+## SHOT_005 | 00:00:40–00:00:50 | A filing error in Dad's head
 
 **Characters:** DAN, LEO. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Off-screen voices:** NONE
@@ -107,7 +109,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No actual salad or soup has been swapped. Keep the watch on LEFT wrist and the paper pocket on RIGHT.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–2.53s · LEO 2.68–4.52s · DAN 4.67–8.71s · LEO 8.86–12.46s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.69s · LEO 1.79–3.01s · DAN 3.11–5.81s · LEO 5.91–8.31s.
 
 **Dialogue:**
 **DAN:** Blue soup, yellow salad. Easy.
@@ -118,7 +120,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 
 **LEO:** I'll hold you to that. Both headings, okay?
 
-## SHOT_006 | 00:01:15–00:01:30 | The empty containers
+## SHOT_006 | 00:00:50–00:01:00 | The empty containers
 
 **Characters:** ELLA, MAX. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Off-screen voices:** NONE
@@ -129,7 +131,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** One basket and exactly two totes. Neither tote contains produce or a second basket.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–4.29s · MAX 4.44–8.92s · ELLA 9.07–11.79s · MAX 11.94–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.86s · MAX 2.96–5.95s · ELLA 6.05–7.86s · MAX 7.96–9.48s.
 
 **Dialogue:**
 **ELLA:** I will carry the bags and check the vegetables.
@@ -140,7 +142,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 
 **MAX:** I'll walk it very carefully.
 
-## SHOT_007 | 00:01:30–00:01:45 | Ready, including the basket
+## SHOT_007 | 00:01:00–00:01:10 | Ready, including the basket
 
 **Characters:** DAN, LEO, ELLA, MAX. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Off-screen voices:** NONE
@@ -151,7 +153,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** The next shot uses a clear travel cut. Nobody goes ahead alone or changes wardrobe.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–1.21s · MAX 1.36–4.52s · LEO 4.67–9.15s · ELLA 9.30–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–0.81s · MAX 0.91–3.01s · LEO 3.11–6.10s · ELLA 6.20–8.89s.
 
 **Dialogue:**
 **DAN:** Ready, team?
@@ -162,7 +164,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 
 **ELLA:** Come on, before the basket orders its own lunch.
 
-## SHOT_008 | 00:01:45–00:02:00 | One sunny market
+## SHOT_008 | 00:01:10–00:01:20 | One sunny market
 
 **Characters:** DAN, LEO, ELLA, MAX. **Location:** MARKET_WIDE. **Wardrobe:** W01 only.
 **Off-screen voices:** NONE
@@ -173,7 +175,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Picture:** [BOARD_02.png](assets/storyboards/BOARD_02.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Maya and Nina remain home. No close-up strangers or extra family members are added. Basket at end: empty. Both colored totes remain empty.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.41s · ELLA 3.56–6.28s · MAX 6.43–9.15s · LEO 9.30–12.90s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.27s · ELLA 2.37–4.19s · MAX 4.29–6.10s · LEO 6.20–8.60s.
 
 **Dialogue:**
 **DAN:** Vegetables, team. We need vegetables, not surprises.
@@ -184,7 +186,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 
 **LEO:** I can smell the tomatoes from here, Dad.
 
-## SHOT_009 | 00:02:00–00:02:15 | Saving the small muscles
+## SHOT_009 | 00:01:20–00:01:30 | Saving the small muscles
 
 **Characters:** MAX, DAN. **Location:** MARKET_STALL. **Wardrobe:** W01 only.
 **Off-screen voices:** NONE
@@ -195,7 +197,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Picture:** [BOARD_03.png](assets/storyboards/BOARD_03.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** The basket is not full or heavy yet. Keep the transfer calm and away from the aisle. Basket at end: empty. Both colored totes remain empty.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–4.73s · DAN 4.88–6.72s · MAX 6.87–10.03s · DAN 10.18–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–3.15s · DAN 3.25–4.48s · MAX 4.58–6.69s · DAN 6.79–9.48s.
 
 **Dialogue:**
 **MAX:** Can you carry the basket, Dad? It is very heavy.
@@ -206,7 +208,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 
 **DAN:** Saving them for when the basket actually weighs something?
 
-## SHOT_010 | 00:02:15–00:02:30 | Make room to choose
+## SHOT_010 | 00:01:30–00:01:40 | Make room to choose
 
 **Characters:** DAN, LEO, ELLA, MAX. **Location:** MARKET_STALL. **Wardrobe:** W01 only.
 **Off-screen voices:** NONE
@@ -217,7 +219,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Picture:** [BOARD_03.png](assets/storyboards/BOARD_03.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Counter and bag hook remain in the same stall area throughout selection. Containers do not multiply between close views. Basket at end: empty. Both colored totes remain empty.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–3.85s · LEO 4.00–6.72s · DAN 6.87–9.15s · ELLA 9.30–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.57s · LEO 2.67–4.48s · DAN 4.58–6.10s · ELLA 6.20–8.89s.
 
 **Dialogue:**
 **ELLA:** The bags can wait here while we choose.
@@ -228,7 +230,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 
 **ELLA:** Wait till we put the shopping in it, Dad.
 
-## SHOT_011 | 00:02:30–00:02:45 | Our own blue handle
+## SHOT_011 | 00:01:40–00:01:50 | Our own blue handle
 
 **Characters:** LEO, DAN. **Location:** MARKET_STALL. **Wardrobe:** W01 only.
 **Off-screen voices:** NONE
@@ -239,7 +241,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Picture:** [BOARD_03.png](assets/storyboards/BOARD_03.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Blue basket handle is a recognition cue, not another blue shopping note or a third tote. Basket at end: empty. Both colored totes remain empty.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–2.53s · DAN 2.68–6.28s · LEO 6.43–10.03s · DAN 10.18–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.69s · DAN 1.79–4.19s · LEO 4.29–6.69s · DAN 6.79–9.48s.
 
 **Dialogue:**
 **LEO:** Ours has the blue handle.
@@ -250,7 +252,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 
 **DAN:** Blue handle. I'd know that squeak anywhere by now.
 
-## SHOT_012 | 00:02:45–00:03:00 | Four, not forty
+## SHOT_012 | 00:01:50–00:02:00 | Four, not forty
 
 **Characters:** DAN, ELLA. **Location:** MARKET_STALL. **Wardrobe:** W01 only.
 **Off-screen voices:** NONE
@@ -261,7 +263,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Picture:** [BOARD_03.png](assets/storyboards/BOARD_03.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Nobody buys forty carrots, damages produce or wastes food. Exact note lettering is supplied editorially. Basket at end: empty. Both colored totes remain empty.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–1.28s · ELLA 1.43–3.41s · DAN 3.56–7.91s · ELLA 8.06–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–0.85s · ELLA 0.95–2.27s · DAN 2.37–5.27s · ELLA 5.37–8.27s.
 
 **Dialogue:**
 **DAN:** Forty carrots?
@@ -272,7 +274,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 
 **ELLA:** And we'd be eating carrots well into next week.
 
-## SHOT_013 | 00:03:00–00:03:15 | Four distinct carrots
+## SHOT_013 | 00:02:00–00:02:10 | Four distinct carrots
 
 **Characters:** ELLA, DAN. **Location:** MARKET_STALL. **Wardrobe:** W01 only.
 **Off-screen voices:** NONE
@@ -283,7 +285,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Picture:** [BOARD_04.png](assets/storyboards/BOARD_04.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Display carrots stay separate from these four selected carrots. Both tote bags remain on their hook. Basket at end: 4 carrots. Both colored totes remain empty.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–2.23s · DAN 2.38–5.30s · ELLA 5.45–8.85s · DAN 9.00–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.49s · DAN 1.59–3.53s · ELLA 3.63–5.90s · DAN 6.00–8.27s.
 
 **Dialogue:**
 **ELLA:** One, two, three, four.
@@ -294,7 +296,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 
 **DAN:** I'll take the ones you counted, then.
 
-## SHOT_014 | 00:03:15–00:03:30 | Leave the extras in the crate
+## SHOT_014 | 00:02:10–00:02:20 | Leave the extras in the crate
 
 **Characters:** DAN, ELLA. **Location:** MARKET_STALL. **Wardrobe:** W01 only.
 **Off-screen voices:** NONE
@@ -305,7 +307,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Picture:** [BOARD_04.png](assets/storyboards/BOARD_04.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** One checked quantity is enough; this is a decision to move on, not a second carrot purchase. Basket at end: 4 carrots. Both colored totes remain empty.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–2.97s · ELLA 3.12–4.96s · DAN 5.11–8.71s · ELLA 8.86–12.90s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.98s · ELLA 2.08–3.31s · DAN 3.41–5.81s · ELLA 5.91–8.60s.
 
 **Dialogue:**
 **DAN:** Should we get a few extra?
@@ -316,7 +318,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 
 **ELLA:** Thanks. My arms were starting to worry about forty.
 
-## SHOT_015 | 00:03:30–00:03:45 | Three tomatoes need a tray
+## SHOT_015 | 00:02:20–00:02:30 | Three tomatoes need a tray
 
 **Characters:** LEO, DAN. **Location:** MARKET_STALL. **Wardrobe:** W01 only.
 **Off-screen voices:** NONE
@@ -327,7 +329,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Picture:** [BOARD_04.png](assets/storyboards/BOARD_04.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Selected food on the counter and basket contents are separate states; do not duplicate the three tomatoes. Basket at end: 4 carrots. Both colored totes remain empty.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–4.29s · DAN 4.44–6.28s · LEO 6.43–9.59s · DAN 9.74–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.86s · DAN 2.96–4.19s · LEO 4.29–6.39s · DAN 6.49–9.19s.
 
 **Dialogue:**
 **LEO:** Three ripe tomatoes. The tray will keep them safe.
@@ -338,7 +340,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 
 **DAN:** Nobody bowl. I'd like these to make it home.
 
-## SHOT_016 | 00:03:45–00:04:00 | A careful place for tomatoes
+## SHOT_016 | 00:02:30–00:02:40 | A careful place for tomatoes
 
 **Characters:** DAN, LEO. **Location:** MARKET_STALL. **Wardrobe:** W01 only.
 **Off-screen voices:** NONE
@@ -349,7 +351,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Picture:** [BOARD_04.png](assets/storyboards/BOARD_04.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Tomatoes remain round and protected. Mark the printed note in the edit rather than inventing generated numerals. Basket at end: 4 carrots, 3 protected tomatoes. Both colored totes remain empty.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–2.09s · LEO 2.24–4.96s · DAN 5.11–8.27s · LEO 8.42–12.46s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.39s · LEO 1.49–3.31s · DAN 3.41–5.51s · LEO 5.61–8.31s.
 
 **Dialogue:**
 **DAN:** Three tomatoes, safely aboard.
@@ -360,7 +362,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 
 **LEO:** Just promise you won't roll them down the aisle.
 
-## SHOT_017 | 00:04:00–00:04:15 | Packing is part of the plan
+## SHOT_017 | 00:02:40–00:02:50 | Packing is part of the plan
 
 **Characters:** LEO, DAN. **Location:** MARKET_STALL. **Wardrobe:** W01 only.
 **Off-screen voices:** NONE
@@ -371,7 +373,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Picture:** [BOARD_05.png](assets/storyboards/BOARD_05.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Protection is planned before the potato sack arrives; no fruit or extra vegetable is introduced. Basket at end: 4 carrots, 3 protected tomatoes. Both colored totes remain empty.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–3.76s · DAN 3.91–8.70s · LEO 8.85–11.50s · DAN 11.65–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.51s · DAN 2.61–5.80s · LEO 5.90–7.67s · DAN 7.77–9.53s.
 
 **Dialogue:**
 **LEO:** We can make room before anything gets squashed.
@@ -382,7 +384,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 
 **DAN:** Like it's carrying eggs. Got it.
 
-## SHOT_018 | 00:04:15–00:04:30 | The wrong green cousin
+## SHOT_018 | 00:02:50–00:03:00 | The wrong green cousin
 
 **Characters:** DAN, ELLA. **Location:** MARKET_STALL. **Wardrobe:** W01 only.
 **Off-screen voices:** NONE
@@ -393,7 +395,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Picture:** [BOARD_05.png](assets/storyboards/BOARD_05.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** The zucchini is display stock and will be returned. Similar shape does not make it the requested ingredient. Basket at end: 4 carrots, 3 protected tomatoes. Both colored totes remain empty.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.41s · ELLA 3.56–8.48s · DAN 8.63–10.03s · ELLA 10.18–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.27s · ELLA 2.37–5.65s · DAN 5.75–6.69s · ELLA 6.79–9.19s.
 
 **Dialogue:**
 **DAN:** Long, green, ready for salad. A cucumber!
@@ -404,7 +406,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 
 **ELLA:** Check the little sign before you introduce yourself.
 
-## SHOT_019 | 00:04:30–00:04:45 | One cucumber, correctly introduced
+## SHOT_019 | 00:03:00–00:03:10 | One cucumber, correctly introduced
 
 **Characters:** ELLA, DAN. **Location:** MARKET_STALL. **Wardrobe:** W01 only.
 **Off-screen voices:** NONE
@@ -415,7 +417,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Picture:** [BOARD_05.png](assets/storyboards/BOARD_05.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No zucchini is bought or carried away. The true blue-list ingredient is one cucumber. Basket at end: 4 carrots, 3 protected tomatoes, 1 cucumber. Both colored totes remain empty.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–2.97s · DAN 3.12–7.60s · ELLA 7.75–10.03s · DAN 10.18–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.98s · DAN 2.08–5.07s · ELLA 5.17–6.69s · DAN 6.79–9.48s.
 
 **Dialogue:**
 **ELLA:** This is the cucumber we need.
@@ -426,7 +428,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 
 **DAN:** Lucky cucumber. The other cousin can visit another time.
 
-## SHOT_020 | 00:04:45–00:05:00 | Use more than a guess
+## SHOT_020 | 00:03:10–00:03:20 | Use more than a guess
 
 **Characters:** ELLA, DAN. **Location:** MARKET_STALL. **Wardrobe:** W01 only.
 **Off-screen voices:** NONE
@@ -437,7 +439,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Picture:** [BOARD_05.png](assets/storyboards/BOARD_05.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Comparison is finished; do not pick up another cucumber or return the already selected one to display stock. Basket at end: 4 carrots, 3 protected tomatoes, 1 cucumber. Both colored totes remain empty.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–3.41s · DAN 3.56–6.28s · ELLA 6.43–10.03s · DAN 10.18–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.27s · DAN 2.37–4.19s · ELLA 4.29–6.69s · DAN 6.79–9.48s.
 
 **Dialogue:**
 **ELLA:** Shape helps, but the label helps too.
@@ -448,7 +450,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 
 **DAN:** My excellent memory appreciates a sign it can read.
 
-## SHOT_021 | 00:05:00–00:05:15 | The yellow note waits its turn
+## SHOT_021 | 00:03:20–00:03:30 | The yellow note waits its turn
 
 **Characters:** LEO, DAN. **Location:** MARKET_STALL. **Wardrobe:** W01 only.
 **Off-screen voices:** NONE
@@ -459,7 +461,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** The two papers remain separate sheets and neither printed heading changes. Both colored totes remain empty.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–2.97s · DAN 3.12–5.84s · LEO 5.99–9.15s · DAN 9.30–12.90s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.98s · DAN 2.08–3.89s · LEO 3.99–6.10s · DAN 6.20–8.60s.
 
 **Dialogue:**
 **LEO:** The yellow note is still hiding.
@@ -470,7 +472,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 
 **DAN:** Good thing you noticed the corner peeking out.
 
-## SHOT_022 | 00:05:15–00:05:30 | Potatoes raise a question
+## SHOT_022 | 00:03:30–00:03:40 | Potatoes raise a question
 
 **Characters:** DAN, LEO. **Location:** MARKET_STALL. **Wardrobe:** W01 only.
 **Off-screen voices:** NONE
@@ -481,7 +483,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Dan's remembered dish name is wrong; the yellow note belongs to Nina's soup. No raw potato is eaten. Both colored totes remain empty.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–4.29s · LEO 4.44–7.16s · DAN 7.31–10.03s · LEO 10.18–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.86s · LEO 2.96–4.77s · DAN 4.87–6.69s · LEO 6.79–9.48s.
 
 **Dialogue:**
 **DAN:** Six potatoes for the salad? That sounds very crunchy.
@@ -492,7 +494,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 
 **LEO:** That's one question worth keeping till we see both.
 
-## SHOT_023 | 00:05:30–00:05:45 | Six potatoes underneath
+## SHOT_023 | 00:03:40–00:03:50 | Six potatoes underneath
 
 **Characters:** LEO, DAN. **Location:** MARKET_STALL. **Wardrobe:** W01 only.
 **Off-screen voices:** NONE
@@ -503,7 +505,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** The potato already held is included in six, not a seventh. Heavy food goes below tomatoes. Both colored totes remain empty.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–3.85s · DAN 4.00–5.40s · LEO 5.55–8.71s · DAN 8.86–12.90s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.57s · DAN 2.67–3.60s · LEO 3.70–5.81s · DAN 5.91–8.60s.
 
 **Dialogue:**
 **LEO:** Six potatoes. One, two, three, four, five, six.
@@ -514,7 +516,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 
 **DAN:** Nobody wants to sit under a sack of potatoes.
 
-## SHOT_024 | 00:05:45–00:06:00 | A place for each thing
+## SHOT_024 | 00:03:50–00:04:00 | A place for each thing
 
 **Characters:** DAN, ELLA. **Location:** MARKET_STALL. **Wardrobe:** W01 only.
 **Off-screen voices:** NONE
@@ -525,7 +527,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Picture:** [BOARD_06.png](assets/storyboards/BOARD_06.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Inspection does not add food or move anything to either tote. Both colored totes remain empty.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–3.55s · DAN 3.70–7.00s · ELLA 7.15–10.04s · DAN 10.19–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.37s · DAN 2.47–4.67s · ELLA 4.77–6.69s · DAN 6.79–9.53s.
 
 **Dialogue:**
 **ELLA:** The potatoes will not squash the tomatoes now.
@@ -536,7 +538,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 
 **DAN:** Two lists, two jobs. I'll let you help me sort.
 
-## SHOT_025 | 00:06:00–00:06:15 | The uncut onion joke
+## SHOT_025 | 00:04:00–00:04:10 | The uncut onion joke
 
 **Characters:** DAN, MAX. **Location:** MARKET_STALL. **Wardrobe:** W01 only.
 **Off-screen voices:** NONE
@@ -547,7 +549,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Picture:** [BOARD_07.png](assets/storyboards/BOARD_07.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Touching whole uncut onions does not cause tears; Dan is deliberately theatrical. Both colored totes remain empty.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.41s · MAX 3.56–5.84s · DAN 5.99–8.71s · MAX 8.86–12.90s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.27s · MAX 2.37–3.89s · DAN 3.99–5.81s · MAX 5.91–8.60s.
 
 **Dialogue:**
 **DAN:** These onions are making me cry already.
@@ -558,7 +560,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 
 **MAX:** I'm not crying. They're still wearing all their coats.
 
-## SHOT_026 | 00:06:15–00:06:30 | Two onions join the sack
+## SHOT_026 | 00:04:10–00:04:20 | Two onions join the sack
 
 **Characters:** MAX, DAN. **Location:** MARKET_STALL. **Wardrobe:** W01 only.
 **Off-screen voices:** NONE
@@ -569,7 +571,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Picture:** [BOARD_07.png](assets/storyboards/BOARD_07.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Max points without reaching into other display stock; neither tote is filled. Both colored totes remain empty.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–3.85s · DAN 4.00–5.40s · MAX 5.55–10.03s · DAN 10.18–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.57s · DAN 2.67–3.60s · MAX 3.70–6.69s · DAN 6.79–9.48s.
 
 **Dialogue:**
 **MAX:** One onion, two onions. Which dish gets them?
@@ -580,7 +582,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 
 **DAN:** Remind me when we get to the bags, okay?
 
-## SHOT_027 | 00:06:30–00:06:45 | Leave the question open
+## SHOT_027 | 00:04:20–00:04:30 | Leave the question open
 
 **Characters:** LEO, DAN. **Location:** MARKET_STALL. **Wardrobe:** W01 only.
 **Off-screen voices:** NONE
@@ -591,7 +593,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Picture:** [BOARD_07.png](assets/storyboards/BOARD_07.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** The dish names are confused, but each requested quantity stays correct. Nobody hides information or mocks Dan. Both colored totes remain empty.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–4.48s · DAN 4.63–6.78s · LEO 6.93–10.33s · DAN 10.48–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.99s · DAN 3.09–4.52s · LEO 4.62–6.89s · DAN 6.99–9.53s.
 
 **Dialogue:**
 **LEO:** We can check before anything goes in the wrong bag.
@@ -602,7 +604,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 
 **DAN:** Good. I can still get this right before lunch.
 
-## SHOT_028 | 00:06:45–00:07:00 | A small green forest
+## SHOT_028 | 00:04:30–00:04:40 | A small green forest
 
 **Characters:** DAN, MAX. **Location:** MARKET_STALL. **Wardrobe:** W01 only.
 **Off-screen voices:** NONE
@@ -613,7 +615,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Picture:** [BOARD_07.png](assets/storyboards/BOARD_07.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** One head means one purchase, not several trees or one floret. No raw tasting. Both colored totes remain empty.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–3.41s · DAN 3.56–6.72s · MAX 6.87–10.47s · DAN 10.62–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.27s · DAN 2.37–4.48s · MAX 4.58–6.98s · DAN 7.08–9.48s.
 
 **Dialogue:**
 **MAX:** That broccoli looks like a tiny tree.
@@ -624,7 +626,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 
 **DAN:** Just one tree. We're shopping for lunch, remember?
 
-## SHOT_029 | 00:07:00–00:07:15 | One broccoli head
+## SHOT_029 | 00:04:40–00:04:50 | One broccoli head
 
 **Characters:** DAN, ELLA. **Location:** MARKET_STALL. **Wardrobe:** W01 only.
 **Off-screen voices:** NONE
@@ -635,7 +637,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** The broccoli belongs to Nina's soup even while Dan's remembered dish labels are wrong. Both colored totes remain empty.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–4.07s · DAN 4.22–6.37s · ELLA 6.52–10.33s · DAN 10.48–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.71s · DAN 2.81–4.25s · ELLA 4.35–6.89s · DAN 6.99–9.53s.
 
 **Dialogue:**
 **ELLA:** One head of broccoli. That is all we need.
@@ -646,7 +648,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 
 **DAN:** Good. I can see the bottom getting pretty full.
 
-## SHOT_030 | 00:07:15–00:07:30 | A bell that stays quiet
+## SHOT_030 | 00:04:50–00:05:00 | A bell that stays quiet
 
 **Characters:** DAN, MAX. **Location:** MARKET_STALL. **Wardrobe:** W01 only.
 **Off-screen voices:** NONE
@@ -657,7 +659,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** The joke is about the word bell. No green or yellow pepper becomes a purchase. Both colored totes remain empty.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–4.90s · DAN 5.05–7.20s · MAX 7.35–10.33s · DAN 10.48–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–3.27s · DAN 3.37–4.80s · MAX 4.90–6.89s · DAN 6.99–9.53s.
 
 **Dialogue:**
 **MAX:** Why is it a bell pepper if it does not ring?
@@ -668,7 +670,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 
 **DAN:** Imagine a whole crate ringing every time someone shops.
 
-## SHOT_031 | 00:07:30–00:07:45 | Color is part of the request
+## SHOT_031 | 00:05:00–00:05:10 | Color is part of the request
 
 **Characters:** ELLA, DAN. **Location:** MARKET_STALL. **Wardrobe:** W01 only.
 **Off-screen voices:** NONE
@@ -679,7 +681,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Blue is the paper color and Maya's list; the requested pepper is red. Both colored totes remain empty.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–4.29s · DAN 4.44–8.92s · ELLA 9.07–10.47s · DAN 10.62–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.86s · DAN 2.96–5.95s · ELLA 6.05–6.98s · DAN 7.08–9.48s.
 
 **Dialogue:**
 **ELLA:** The blue list asks for one red bell pepper.
@@ -690,7 +692,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 
 **DAN:** Red is the vegetable. Blue is the paper.
 
-## SHOT_032 | 00:07:45–00:08:00 | Look gently before choosing
+## SHOT_032 | 00:05:10–00:05:20 | Look gently before choosing
 
 **Characters:** LEO, DAN. **Location:** MARKET_STALL. **Wardrobe:** W01 only.
 **Off-screen voices:** NONE
@@ -701,7 +703,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Picture:** [BOARD_08.png](assets/storyboards/BOARD_08.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Inspect without crushing or tasting unwashed produce. Display stock stays separate. Both colored totes remain empty.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–4.43s · DAN 4.58–6.93s · LEO 7.08–8.07s · DAN 8.22–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.95s · DAN 3.05–4.62s · LEO 4.72–5.38s · DAN 5.48–8.27s.
 
 **Dialogue:**
 **LEO:** That one looks good. The skin is not damaged.
@@ -712,7 +714,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 
 **DAN:** Quiet as ever. I think we found our pepper.
 
-## SHOT_033 | 00:08:00–00:08:15 | The red pepper has a place
+## SHOT_033 | 00:05:20–00:05:30 | The red pepper has a place
 
 **Characters:** DAN, ELLA. **Location:** MARKET_STALL. **Wardrobe:** W01 only.
 **Off-screen voices:** NONE
@@ -723,7 +725,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No second pepper remains in a hand or another container. Both colored totes remain empty.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.21s · ELLA 3.35–4.28s · DAN 4.43–8.34s · ELLA 8.49–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.14s · ELLA 2.23–2.85s · DAN 2.95–5.56s · ELLA 5.66–8.27s.
 
 **Dialogue:**
 **DAN:** One red bell pepper, safely packed.
@@ -734,7 +736,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 
 **ELLA:** It didn't ring once. Max will be impressed.
 
-## SHOT_034 | 00:08:15–00:08:30 | Corn with ears
+## SHOT_034 | 00:05:30–00:05:40 | Corn with ears
 
 **Characters:** MAX, DAN. **Location:** MARKET_STALL. **Wardrobe:** W01 only.
 **Off-screen voices:** NONE
@@ -745,7 +747,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Ears of corn are produce units, not listening organs. No raw biting or husks dropped on floor. Both colored totes remain empty.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–3.97s · DAN 4.12–6.93s · MAX 7.08–8.53s · DAN 8.68–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.65s · DAN 2.75–4.62s · MAX 4.72–5.69s · DAN 5.79–8.27s.
 
 **Dialogue:**
 **MAX:** Two ears of corn. Can they hear us?
@@ -756,7 +758,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 
 **DAN:** I think they heard you from that basket.
 
-## SHOT_035 | 00:08:30–00:08:45 | Two ears, one careful choice
+## SHOT_035 | 00:05:40–00:05:50 | Two ears, one careful choice
 
 **Characters:** LEO, DAN. **Location:** MARKET_STALL. **Wardrobe:** W01 only.
 **Off-screen voices:** NONE
@@ -767,7 +769,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Two ears does not mean two bags or a crate. Husks stay intact at the stall. Both colored totes remain empty.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–2.53s · DAN 2.68–4.96s · LEO 5.11–8.71s · DAN 8.86–12.90s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.69s · DAN 1.79–3.31s · LEO 3.41–5.81s · DAN 5.91–8.60s.
 
 **Dialogue:**
 **LEO:** Two ears. Both look fresh.
@@ -778,7 +780,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 
 **DAN:** Stalk side in, then. I like my elbows unscratched.
 
-## SHOT_036 | 00:08:45–00:09:00 | A polite pair in the basket
+## SHOT_036 | 00:05:50–00:06:00 | A polite pair in the basket
 
 **Characters:** DAN, MAX. **Location:** MARKET_STALL. **Wardrobe:** W01 only.
 **Off-screen voices:** NONE
@@ -789,7 +791,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Picture:** [BOARD_09.png](assets/storyboards/BOARD_09.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Corn does not become extra kernels or duplicate ears in another container. Both colored totes remain empty.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–2.07s · MAX 2.22–4.04s · DAN 4.19–6.88s · MAX 7.03–10.59s · DAN 10.74–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.38s · MAX 1.48–2.69s · DAN 2.79–4.59s · MAX 4.69–7.06s · DAN 7.16–9.53s.
 
 **Dialogue:**
 **DAN:** Two ears, safely aboard.
@@ -802,7 +804,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 
 **DAN:** Then I think they deserve the nice seat.
 
-## SHOT_037 | 00:09:00–00:09:15 | The round green guess
+## SHOT_037 | 00:06:00–00:06:10 | The round green guess
 
 **Characters:** DAN, ELLA. **Location:** MARKET_STALL. **Wardrobe:** W01 only.
 **Off-screen voices:** NONE
@@ -813,7 +815,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Picture:** [BOARD_10.png](assets/storyboards/BOARD_10.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Cabbage is not purchased. Its tight round form differs from loose-leaf lettuce. Both colored totes remain empty.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–2.09s · ELLA 2.24–6.28s · DAN 6.43–9.59s · ELLA 9.74–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.39s · ELLA 1.49–4.19s · DAN 4.29–6.39s · ELLA 6.49–9.19s.
 
 **Dialogue:**
 **DAN:** A very tidy lettuce?
@@ -824,7 +826,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 
 **ELLA:** Look at those open leaves in the next crate.
 
-## SHOT_038 | 00:09:15–00:09:30 | Leaves with a different shape
+## SHOT_038 | 00:06:10–00:06:20 | Leaves with a different shape
 
 **Characters:** ELLA, DAN. **Location:** MARKET_STALL. **Wardrobe:** W01 only.
 **Off-screen voices:** NONE
@@ -835,7 +837,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Picture:** [BOARD_10.png](assets/storyboards/BOARD_10.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Returned cabbage remains shop stock. Loose leaves do not become a second lettuce purchase. Both colored totes remain empty.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–2.97s · DAN 3.12–5.40s · ELLA 5.55–8.27s · DAN 8.42–12.46s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.98s · DAN 2.08–3.60s · ELLA 3.70–5.51s · DAN 5.61–8.31s.
 
 **Dialogue:**
 **ELLA:** These leaves are loose and open.
@@ -846,7 +848,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 
 **DAN:** Now I can spot it without guessing the name.
 
-## SHOT_039 | 00:09:30–00:09:45 | Protect the leaves on top
+## SHOT_039 | 00:06:20–00:06:30 | Protect the leaves on top
 
 **Characters:** DAN, ELLA. **Location:** MARKET_STALL. **Wardrobe:** W01 only.
 **Off-screen voices:** NONE
@@ -857,7 +859,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Picture:** [BOARD_10.png](assets/storyboards/BOARD_10.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No cabbage, second lettuce or extra bag appears. Heavy produce stays low. Both colored totes remain empty.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–2.97s · ELLA 3.12–5.84s · DAN 5.99–9.59s · ELLA 9.74–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.98s · ELLA 2.08–3.89s · DAN 3.99–6.39s · ELLA 6.49–9.19s.
 
 **Dialogue:**
 **DAN:** The lettuce gets the top seat.
@@ -868,7 +870,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 
 **ELLA:** Save a little space up here for one more.
 
-## SHOT_040 | 00:09:45–00:10:00 | Almost the whole list
+## SHOT_040 | 00:06:30–00:06:40 | Almost the whole list
 
 **Characters:** LEO, DAN, MAX. **Location:** MARKET_STALL. **Wardrobe:** W01 only.
 **Off-screen voices:** NONE
@@ -879,7 +881,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Picture:** [BOARD_10.png](assets/storyboards/BOARD_10.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** A check is not a second purchase. Both real headings remain intact, though yellow is partly covered. Both colored totes remain empty.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–1.70s · MAX 1.85–4.66s · DAN 4.81–7.62s · MAX 7.77–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.13s · MAX 1.23–3.11s · DAN 3.21–5.08s · MAX 5.18–8.27s.
 
 **Dialogue:**
 **LEO:** One ingredient left.
@@ -890,7 +892,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 
 **MAX:** Do we need a whole bush or just a bag?
 
-## SHOT_041 | 00:10:00–00:10:15 | The last bag of leaves
+## SHOT_041 | 00:06:40–00:06:50 | The last bag of leaves
 
 **Characters:** MAX, DAN. **Location:** MARKET_STALL. **Wardrobe:** W01 only.
 **Off-screen voices:** NONE
@@ -901,7 +903,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Leaves in the single bag are one ingredient line, not another lettuce or an extra tote.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–2.97s · DAN 3.12–5.40s · MAX 5.55–8.71s · DAN 8.86–12.90s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.98s · DAN 2.08–3.60s · MAX 3.70–5.81s · DAN 5.91–8.60s.
 
 **Dialogue:**
 **MAX:** Spinach. Is this the last passenger?
@@ -912,7 +914,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 
 **DAN:** Once that's in, we'll see what the notes say.
 
-## SHOT_042 | 00:10:15–00:10:30 | All ten ingredients
+## SHOT_042 | 00:06:50–00:07:00 | All ten ingredients
 
 **Characters:** DAN, LEO. **Location:** MARKET_STALL. **Wardrobe:** W01 only.
 **Off-screen voices:** NONE
@@ -923,7 +925,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Final basket: 4 carrots, 3 protected tomatoes, 1 cucumber, 6 potatoes, 2 onions, 1 broccoli head, 1 red pepper, 2 corn ears, 1 lettuce and 1 spinach bag.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–3.41s · DAN 3.56–5.40s · LEO 5.55–9.59s · DAN 9.74–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.27s · DAN 2.37–3.60s · LEO 3.70–6.39s · DAN 6.49–9.48s.
 
 **Dialogue:**
 **LEO:** That is everything. Ten ingredient lines checked.
@@ -934,7 +936,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 
 **DAN:** All ten? Good. Let's lay those notes side by side.
 
-## SHOT_043 | 00:10:30–00:10:45 | Give both headings some room
+## SHOT_043 | 00:07:00–00:07:10 | Give both headings some room
 
 **Characters:** ELLA, DAN, LEO. **Location:** MARKET_STALL. **Wardrobe:** W01 only.
 **Off-screen voices:** NONE
@@ -945,7 +947,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Exact headings are editorial SVG artwork. This is the first full side-by-side check at the stall, not a change to the papers themselves.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–4.48s · DAN 4.63–6.37s · LEO 6.52–9.92s · DAN 10.07–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.99s · DAN 3.09–4.25s · LEO 4.35–6.61s · DAN 6.71–9.53s.
 
 **Dialogue:**
 **ELLA:** Let us put them where we can see both headings.
@@ -956,7 +958,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 
 **DAN:** I see it now. I switched them in my head.
 
-## SHOT_044 | 00:10:45–00:11:00 | The mistake was in the memory
+## SHOT_044 | 00:07:10–00:07:20 | The mistake was in the memory
 
 **Characters:** DAN, ELLA, MAX. **Location:** MARKET_STALL. **Wardrobe:** W01 only.
 **Off-screen voices:** NONE
@@ -967,7 +969,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Picture:** [BOARD_11.png](assets/storyboards/BOARD_11.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Both mothers' requests were clear. The family repairs a small misunderstanding without ridicule, blame or changing a printed heading.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–5.02s · MAX 5.17–7.98s · ELLA 8.13–10.55s · MAX 10.70–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–3.35s · MAX 3.45–5.32s · ELLA 5.42–7.03s · MAX 7.13–9.53s.
 
 **Dialogue:**
 **DAN:** I put the dish names in the wrong places in my head.
@@ -978,7 +980,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 
 **MAX:** Good thing nobody has to put the onions back.
 
-## SHOT_045 | 00:11:00–00:11:15 | Check with Maya
+## SHOT_045 | 00:07:20–00:07:30 | Check with Maya
 
 **Characters:** DAN, LEO. **Location:** MARKET_STALL. **Wardrobe:** W01 only.
 **Off-screen voices:** MAYA
@@ -989,7 +991,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Maya is heard only. No woman appears at the market or inside a picture-in-picture. No food changes container during the call.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–4.63s · MAYA 4.78–9.94s · DAN 10.09–12.51s · MAYA 12.66–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–3.09s · MAYA 3.19–6.63s · DAN 6.73–8.34s · MAYA 8.44–9.53s.
 
 **Dialogue:**
 **DAN:** Maya, I remembered the colors backward. Blue is your salad, right?
@@ -1000,7 +1002,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 
 **MAYA:** Yes, all four, please.
 
-## SHOT_046 | 00:11:15–00:11:30 | Nina confirms her soup
+## SHOT_046 | 00:07:30–00:07:40 | Nina confirms her soup
 
 **Characters:** DAN, MAX. **Location:** MARKET_STALL. **Wardrobe:** W01 only.
 **Off-screen voices:** NINA
@@ -1011,7 +1013,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Nina stays home and unseen. Yellow belongs to soup: potatoes, onions, broccoli, corn and spinach. No extra purchase occurs.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): NINA 0.25–5.04s · DAN 5.19–10.41s · MAX 10.56–12.36s · NINA 12.51–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–3.36s · DAN 3.46–6.94s · MAX 7.04–8.24s · NINA 8.34–9.53s.
 
 **Dialogue:**
 **NINA:** And yellow is my soup. Potatoes, onions, broccoli, corn and spinach.
@@ -1022,7 +1024,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 
 **NINA:** Especially the broccoli, Max.
 
-## SHOT_047 | 00:11:30–00:11:45 | Help is part of the plan
+## SHOT_047 | 00:07:40–00:07:50 | Help is part of the plan
 
 **Characters:** DAN, LEO, ELLA, MAX. **Location:** MARKET_STALL. **Wardrobe:** W01 only.
 **Off-screen voices:** MAYA, NINA
@@ -1033,7 +1035,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Both off-screen voices are the permanent mothers, not new shoppers or narrators. No home cutaway or floating faces.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–2.74s · MAYA 2.89–6.59s · NINA 6.75–10.45s · LEO 10.60–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.83s · MAYA 1.93–4.39s · NINA 4.50–6.97s · LEO 7.07–9.53s.
 
 **Dialogue:**
 **DAN:** I should have asked before guessing.
@@ -1044,7 +1046,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 
 **LEO:** We'll bring him home too. He's learning the route.
 
-## SHOT_048 | 00:11:45–00:12:00 | The call has done its job
+## SHOT_048 | 00:07:50–00:08:00 | The call has done its job
 
 **Characters:** DAN, LEO. **Location:** MARKET_STALL. **Wardrobe:** W01 only.
 **Off-screen voices:** NONE
@@ -1055,7 +1057,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Picture:** [BOARD_12.png](assets/storyboards/BOARD_12.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No off-screen speech continues after the call. Keep the same phone, watch side and two original papers.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–4.29s · LEO 4.44–6.72s · DAN 6.87–10.03s · LEO 10.18–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.86s · LEO 2.96–4.48s · DAN 4.58–6.69s · LEO 6.79–9.48s.
 
 **Dialogue:**
 **DAN:** Phone away. Two headings where we can see them.
@@ -1066,7 +1068,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 
 **LEO:** The bags will do the remembering once they're packed.
 
-## SHOT_049 | 00:12:00–00:12:15 | Say it honestly
+## SHOT_049 | 00:08:00–00:08:10 | Say it honestly
 
 **Characters:** DAN, LEO, ELLA. **Location:** MARKET_STALL. **Wardrobe:** W01 only.
 **Off-screen voices:** NONE
@@ -1077,7 +1079,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** This is an admission and a practical next step, not a punishment or lesson to the audience. The food quantities were already correct.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–5.16s · LEO 5.31–7.00s · ELLA 7.15–10.85s · DAN 11.00–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–3.44s · LEO 3.54–4.67s · ELLA 4.77–7.23s · DAN 7.33–9.53s.
 
 **Dialogue:**
 **DAN:** I mixed up the lists. Thank you for catching it before packing.
@@ -1088,7 +1090,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 
 **DAN:** I'm taking orders from the packing crew now.
 
-## SHOT_050 | 00:12:15–00:12:30 | Two empty totes, ready
+## SHOT_050 | 00:08:10–00:08:20 | Two empty totes, ready
 
 **Characters:** ELLA, DAN, MAX. **Location:** MARKET_STALL. **Wardrobe:** W01 only.
 **Off-screen voices:** NONE
@@ -1099,7 +1101,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Only two tote bags and one basket. No vegetables appear in the bags before the explicit transfers.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–3.41s · MAX 3.56–5.40s · DAN 5.55–8.71s · ELLA 8.86–12.46s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.27s · MAX 2.37–3.60s · DAN 3.70–5.81s · ELLA 5.91–8.31s.
 
 **Dialogue:**
 **ELLA:** Blue bag beside the blue salad note.
@@ -1110,7 +1112,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 
 **ELLA:** Keep them open so we can see inside.
 
-## SHOT_051 | 00:12:30–00:12:45 | Read, group, then pack
+## SHOT_051 | 00:08:20–00:08:30 | Read, group, then pack
 
 **Characters:** LEO, DAN. **Location:** MARKET_STALL. **Wardrobe:** W01 only.
 **Off-screen voices:** NONE
@@ -1121,7 +1123,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** BLUE: carrots, tomatoes, cucumber, lettuce, red pepper. YELLOW: potatoes, onions, broccoli, corn, spinach. Headings and colors never swap.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–3.41s · DAN 3.56–6.28s · LEO 6.43–10.47s · DAN 10.62–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.27s · DAN 2.37–4.19s · LEO 4.29–6.98s · DAN 7.08–9.48s.
 
 **Dialogue:**
 **LEO:** Read the heading, then match the ingredients.
@@ -1132,7 +1134,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 
 **DAN:** I'll say each name while you check it.
 
-## SHOT_052 | 00:12:45–00:13:00 | Maya's salad goes in BLUE
+## SHOT_052 | 00:08:30–00:08:40 | Maya's salad goes in BLUE
 
 **Characters:** DAN, ELLA. **Location:** MARKET_STALL. **Wardrobe:** W01 only.
 **Off-screen voices:** NONE
@@ -1143,7 +1145,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Picture:** [BOARD_13.png](assets/storyboards/BOARD_13.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** The transferred salad ingredients leave the basket; do not show duplicate carrots, tomatoes or lettuce in both containers. Notes remain flat and separate.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–3.85s · DAN 4.00–5.84s · ELLA 5.99–8.27s · DAN 8.42–12.46s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.57s · DAN 2.67–3.89s · ELLA 3.99–5.51s · DAN 5.61–8.31s.
 
 **Dialogue:**
 **ELLA:** Four carrots, three tomatoes, cucumber, lettuce, red pepper.
@@ -1154,7 +1156,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 
 **DAN:** That one's hers. What belongs in the yellow bag?
 
-## SHOT_053 | 00:13:00–00:13:15 | Nina's soup goes in YELLOW
+## SHOT_053 | 00:08:40–00:08:50 | Nina's soup goes in YELLOW
 
 **Characters:** DAN, LEO, MAX. **Location:** MARKET_STALL. **Wardrobe:** W01 only.
 **Off-screen voices:** NONE
@@ -1165,7 +1167,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Heavy potatoes at the bottom of yellow, protected leaves above. No soup food remains in basket or doubles on counter.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–4.73s · MAX 4.88–7.60s · DAN 7.75–9.59s · MAX 9.74–12.90s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–3.15s · MAX 3.25–5.07s · DAN 5.17–6.39s · MAX 6.49–8.60s.
 
 **Dialogue:**
 **LEO:** Potatoes, onions, broccoli, corn and spinach. All for Nina's soup.
@@ -1176,7 +1178,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 
 **MAX:** No passengers left under the handle, either.
 
-## SHOT_054 | 00:13:15–00:13:30 | Colors and contents agree
+## SHOT_054 | 00:08:50–00:09:00 | Colors and contents agree
 
 **Characters:** DAN, ELLA, LEO, MAX. **Location:** MARKET_STALL. **Wardrobe:** W01 only.
 **Off-screen voices:** NONE
@@ -1187,7 +1189,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No groceries are added or rearranged into another dish. Phone already pocketed; no second call begins.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.85s · ELLA 4.00–5.84s · LEO 5.99–9.15s · DAN 9.30–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.57s · ELLA 2.67–3.89s · LEO 3.99–6.10s · DAN 6.20–8.89s.
 
 **Dialogue:**
 **DAN:** Blue salad. Yellow soup. Checked properly this time.
@@ -1198,7 +1200,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 
 **DAN:** I'll keep them apart on the way to checkout.
 
-## SHOT_055 | 00:13:30–00:13:45 | The total is eighteen fifty
+## SHOT_055 | 00:09:00–00:09:10 | The total is eighteen fifty
 
 **Characters:** DAN, LEO. **Location:** MARKET_CHECKOUT. **Wardrobe:** W01 only.
 **Off-screen voices:** VENDOR
@@ -1209,7 +1211,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Vendor has no visible face. The register and receipt use exact SVG lettering, with no invented fee or different total.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): VENDOR 0.25–2.97s · DAN 3.12–4.08s · LEO 4.23–8.71s · DAN 8.86–12.46s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): VENDOR 0.17–1.98s · DAN 2.08–2.72s · LEO 2.82–5.81s · DAN 5.91–8.31s.
 
 **Dialogue:**
 **VENDOR:** Eighteen dollars and fifty cents, please.
@@ -1220,7 +1222,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 
 **DAN:** Let me get my wallet while you look.
 
-## SHOT_056 | 00:13:45–00:14:00 | One twenty-dollar payment
+## SHOT_056 | 00:09:10–00:09:20 | One twenty-dollar payment
 
 **Characters:** DAN, LEO. **Location:** MARKET_CHECKOUT. **Wardrobe:** W01 only.
 **Off-screen voices:** NONE
@@ -1231,7 +1233,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Picture:** [BOARD_14.png](assets/storyboards/BOARD_14.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** One payment only, no duplicate twenty left on the counter. The empty basket is not refilled while money is handled.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–2.34s · LEO 2.49–6.19s · DAN 6.34–10.45s · LEO 10.60–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.56s · LEO 1.66–4.13s · DAN 4.23–6.97s · LEO 7.07–9.53s.
 
 **Dialogue:**
 **DAN:** Here you go. Twenty dollars.
@@ -1242,7 +1244,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 
 **LEO:** I'll listen for the coins when they come back.
 
-## SHOT_057 | 00:14:00–00:14:15 | A receipt worth reading
+## SHOT_057 | 00:09:20–00:09:30 | A receipt worth reading
 
 **Characters:** DAN, LEO. **Location:** MARKET_CHECKOUT. **Wardrobe:** W01 only.
 **Off-screen voices:** VENDOR
@@ -1253,7 +1255,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Receipt paper does not become a third shopping list or enter the food. Vendor stays unseen apart from hand.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): VENDOR 0.25–2.09s · LEO 2.24–4.52s · DAN 4.67–9.15s · LEO 9.30–12.46s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): VENDOR 0.17–1.39s · LEO 1.49–3.01s · DAN 3.11–6.10s · LEO 6.20–8.31s.
 
 **Dialogue:**
 **VENDOR:** Here is your receipt.
@@ -1264,7 +1266,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 
 **LEO:** Eighteen fifty, Dad. The bottom line agrees.
 
-## SHOT_058 | 00:14:15–00:14:30 | One dollar and two quarters
+## SHOT_058 | 00:09:30–00:09:40 | One dollar and two quarters
 
 **Characters:** DAN, MAX. **Location:** MARKET_CHECKOUT. **Wardrobe:** W01 only.
 **Off-screen voices:** NONE
@@ -1275,7 +1277,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Do not substitute Episode 02's $4.50 change or add another coin. Faces stay limited to the scripted family subset.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.17s · MAX 3.33–5.30s · DAN 5.45–7.91s · MAX 8.06–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.11s · MAX 2.22–3.53s · DAN 3.63–5.27s · MAX 5.37–8.27s.
 
 **Dialogue:**
 **DAN:** One dollar. Two quarters. One fifty.
@@ -1286,7 +1288,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 
 **MAX:** Good thing those quarters don't roll around the basket.
 
-## SHOT_059 | 00:14:30–00:14:45 | Receipt, change, wallet
+## SHOT_059 | 00:09:40–00:09:50 | Receipt, change, wallet
 
 **Characters:** DAN, LEO. **Location:** MARKET_CHECKOUT. **Wardrobe:** W01 only.
 **Off-screen voices:** NONE
@@ -1297,7 +1299,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No extra change handoff occurs. The two shopping notes are not thrown away or replaced by a different list.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–2.53s · DAN 2.68–4.96s · LEO 5.11–10.03s · DAN 10.18–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.69s · DAN 1.79–3.31s · LEO 3.41–6.69s · DAN 6.79–9.48s.
 
 **Dialogue:**
 **LEO:** Receipt and change, both checked.
@@ -1308,7 +1310,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 
 **DAN:** Lettuce is terrible at keeping track of small change.
 
-## SHOT_060 | 00:14:45–00:15:00 | Ready to carry home
+## SHOT_060 | 00:09:50–00:10:00 | Ready to carry home
 
 **Characters:** DAN, LEO, ELLA, MAX. **Location:** MARKET_CHECKOUT. **Wardrobe:** W01 only.
 **Off-screen voices:** NONE
@@ -1319,7 +1321,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Picture:** [BOARD_15.png](assets/storyboards/BOARD_15.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Only four family shoppers leave the market. Maya and Nina remain at home, awaiting the same vegetables and children.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–1.65s · MAX 1.80–4.96s · DAN 5.11–9.59s · LEO 9.74–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.10s · MAX 1.20–3.31s · DAN 3.41–6.39s · LEO 6.49–9.19s.
 
 **Dialogue:**
 **ELLA:** Nothing left behind.
@@ -1330,7 +1332,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 
 **LEO:** One last look around our feet, then we're off.
 
-## SHOT_061 | 00:15:00–00:15:15 | Four shoppers, safely homeward
+## SHOT_061 | 00:10:00–00:10:10 | Four shoppers, safely homeward
 
 **Characters:** DAN, LEO, ELLA, MAX. **Location:** MARKET_WIDE. **Wardrobe:** W01 only.
 **Off-screen voices:** NONE
@@ -1341,7 +1343,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** The direction reversal is shown within the wide view, not an unexplained camera flip. Maya and Nina are still at home.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–2.53s · DAN 2.68–4.96s · MAX 5.11–8.71s · DAN 8.86–12.90s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.69s · DAN 1.79–3.31s · MAX 3.41–5.81s · DAN 5.91–8.60s.
 
 **Dialogue:**
 **ELLA:** All three helpers. Both bags.
@@ -1352,7 +1354,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 
 **DAN:** Neither did I. We'll need help in the kitchen.
 
-## SHOT_062 | 00:15:15–00:15:30 | Maya gets the BLUE tote
+## SHOT_062 | 00:10:10–00:10:20 | Maya gets the BLUE tote
 
 **Characters:** DAN, MAYA, ELLA. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Off-screen voices:** NONE
@@ -1363,7 +1365,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Blue still contains 4 carrots, 3 protected tomatoes, 1 cucumber, 1 lettuce and 1 red pepper. No whole-food duplicate appears on the counter yet.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–3.85s · MAYA 4.00–5.40s · ELLA 5.55–8.71s · MAYA 8.86–12.90s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.57s · MAYA 2.67–3.60s · ELLA 3.70–5.81s · MAYA 5.91–8.60s.
 
 **Dialogue:**
 **DAN:** Maya, your salad vegetables. Blue bag, blue list.
@@ -1374,7 +1376,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 
 **MAYA:** I see my carrots. Who kept the tomatoes safe?
 
-## SHOT_063 | 00:15:30–00:15:45 | Nina gets the YELLOW tote
+## SHOT_063 | 00:10:20–00:10:30 | Nina gets the YELLOW tote
 
 **Characters:** DAN, NINA, MAX. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Off-screen voices:** NONE
@@ -1385,7 +1387,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Yellow contains 6 potatoes, 2 onions, 1 broccoli, 2 corn ears and 1 spinach bag. The basket remains empty, not a hidden spare vegetable store.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): NINA 0.25–4.29s · MAX 4.44–7.16s · DAN 7.31–9.59s · NINA 9.74–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–2.86s · MAX 2.96–4.77s · DAN 4.87–6.39s · NINA 6.49–9.48s.
 
 **Dialogue:**
 **NINA:** My soup vegetables! Did the broccoli enjoy its trip?
@@ -1396,7 +1398,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 
 **NINA:** Then it can travel the last few feet with me.
 
-## SHOT_064 | 00:15:45–00:16:00 | One kitchen, two preparation areas
+## SHOT_064 | 00:10:30–00:10:40 | One kitchen, two preparation areas
 
 **Characters:** MAYA, NINA, DAN, LEO, ELLA, MAX. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Off-screen voices:** NONE
@@ -1407,7 +1409,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Picture:** [BOARD_16.png](assets/storyboards/BOARD_16.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No ingredient is added or duplicated during unloading. Whole purchased food now waits for washing; knife drawer remains closed.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–2.04s · NINA 2.19–5.70s · DAN 5.85–10.21s · MAX 10.36–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.36s · NINA 1.46–3.80s · DAN 3.90–6.81s · MAX 6.91–9.53s.
 
 **Dialogue:**
 **MAYA:** Exactly what we needed.
@@ -1418,7 +1420,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 
 **MAX:** Can the tiny tree be in my bowl later?
 
-## SHOT_065 | 00:16:00–00:16:15 | Clean hands for the next job
+## SHOT_065 | 00:10:40–00:10:50 | Clean hands for the next job
 
 **Characters:** MAYA, NINA, DAN, LEO, ELLA, MAX. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Off-screen voices:** NONE
@@ -1427,9 +1429,9 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Starting continuity:** All whole produce unwashed; no preparation started; adults control tools.
 **Ending continuity:** All six hands washed and dried; faucet briefly off; produce still awaiting rinse; children in cool work area.
 **Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
-**Continuity:** Handwashing takes longer in story time than fifteen seconds. Soap is for hands, not vegetables. Nobody handles a knife or hot pot during the shared washing turn.
+**Continuity:** Handwashing takes longer in story time than ten seconds. Soap is for hands, not vegetables. Nobody handles a knife or hot pot during the shared washing turn.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–2.53s · LEO 2.68–6.28s · NINA 6.43–9.59s · MAX 9.74–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.69s · LEO 1.79–4.19s · NINA 4.29–6.39s · MAX 6.49–8.89s.
 
 **Dialogue:**
 **MAYA:** Hands first, after our trip.
@@ -1440,7 +1442,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 
 **MAX:** Can my elbows have the afternoon off, though?
 
-## SHOT_066 | 00:16:15–00:16:30 | Wash before preparing
+## SHOT_066 | 00:10:50–00:11:00 | Wash before preparing
 
 **Characters:** MAYA, NINA, ELLA. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Off-screen voices:** NONE
@@ -1451,7 +1453,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Use running water, no soap on food. The bag of spinach is opened for washing; its entire purchased amount stays with the soup ingredients.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–3.41s · MAYA 3.56–4.96s · NINA 5.11–10.47s · ELLA 10.62–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.27s · MAYA 2.37–3.31s · NINA 3.41–6.98s · ELLA 7.08–9.48s.
 
 **Dialogue:**
 **ELLA:** Even our well-traveled cucumber gets a wash.
@@ -1462,7 +1464,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 
 **ELLA:** I can do that while the cucumber dries.
 
-## SHOT_067 | 00:16:30–00:16:45 | The salad takes shape
+## SHOT_067 | 00:11:00–00:11:10 | The salad takes shape
 
 **Characters:** MAYA, DAN, ELLA. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Off-screen voices:** NONE
@@ -1473,7 +1475,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Adults alone use knives. Quantities change form, not source: 4 carrots, 3 tomatoes, 1 cucumber, 1 lettuce and 1 red pepper make this salad.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–3.15s · DAN 3.30–6.19s · MAYA 6.34–10.45s · ELLA 10.60–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.10s · DAN 2.20–4.13s · MAYA 4.23–6.97s · ELLA 7.07–9.53s.
 
 **Dialogue:**
 **ELLA:** I will take care of the napkins.
@@ -1484,7 +1486,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 
 **ELLA:** I'll leave you a clear spot to work, Dad.
 
-## SHOT_068 | 00:16:45–00:17:00 | Ingredients are not soup yet
+## SHOT_068 | 00:11:10–00:11:20 | Ingredients are not soup yet
 
 **Characters:** NINA, DAN. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Off-screen voices:** NONE
@@ -1495,7 +1497,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Picture:** [BOARD_17.png](assets/storyboards/BOARD_17.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Adults control knives, stove and hot pot. Household water is not another market purchase. No whole raw potato reappears as cooked food without time passing.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–1.99s · NINA 2.14–5.95s · DAN 6.10–10.75s · NINA 10.90–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.33s · NINA 1.43–3.97s · DAN 4.07–7.17s · NINA 7.27–9.53s.
 
 **Dialogue:**
 **DAN:** Shopping finished. Lunch finished?
@@ -1506,7 +1508,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 
 **NINA:** You'll smell the difference when it's actually ready.
 
-## SHOT_069 | 00:17:00–00:17:15 | Allow the cooking its time
+## SHOT_069 | 00:11:20–00:11:30 | Allow the cooking its time
 
 **Characters:** NINA, MAYA, DAN. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Off-screen voices:** NONE
@@ -1517,7 +1519,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** The full cooking period is an explicit story-time ellipsis. Never use color alone or raw tasting to imply cooked potatoes. Hot cookware stays adult-controlled.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–2.09s · NINA 2.24–5.40s · DAN 5.55–10.03s · MAYA 10.18–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.39s · NINA 1.49–3.60s · DAN 3.70–6.69s · MAYA 6.79–9.19s.
 
 **Dialogue:**
 **MAYA:** The salad is ready.
@@ -1528,7 +1530,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 
 **MAYA:** And everybody will taste what you brought home.
 
-## SHOT_070 | 00:17:15–00:17:30 | Six places waiting
+## SHOT_070 | 00:11:30–00:11:40 | Six places waiting
 
 **Characters:** DAN, LEO, ELLA. **Location:** HOME_TABLE. **Wardrobe:** W01 only.
 **Off-screen voices:** NONE
@@ -1539,7 +1541,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Dan near-left, Leo left-end, Ella far-left, Maya far-right, Nina right-end, Max near-right. No extra chair, bowl or diner appears. The basket's supply chair stays in the kitchen, never as an additional dining place.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): LEO 0.25–2.53s · ELLA 2.68–4.52s · DAN 4.67–10.03s · ELLA 10.18–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.69s · ELLA 1.79–3.01s · DAN 3.11–6.69s · ELLA 6.79–9.19s.
 
 **Dialogue:**
 **LEO:** Six places. Everybody has one.
@@ -1550,7 +1552,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 
 **ELLA:** I don't think it's hungry after that trip.
 
-## SHOT_071 | 00:17:30–00:17:45 | Serve what the family made
+## SHOT_071 | 00:11:40–00:11:50 | Serve what the family made
 
 **Characters:** MAYA, NINA, DAN, LEO, ELLA, MAX. **Location:** HOME_TABLE. **Wardrobe:** W01 only.
 **Off-screen voices:** NONE
@@ -1561,7 +1563,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No second set of bowls appears. Soup is cooked and served safely; no whole market vegetables sit beside duplicate prepared portions. The stove remains OFF.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–1.65s · NINA 1.80–6.28s · DAN 6.43–10.03s · MAX 10.18–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.10s · NINA 1.20–4.19s · DAN 4.29–6.69s · MAX 6.79–9.48s.
 
 **Dialogue:**
 **MAYA:** Salad for everyone.
@@ -1572,7 +1574,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 
 **MAX:** Mine smells good from all the way over here.
 
-## SHOT_072 | 00:17:45–00:18:00 | An honest spoonful
+## SHOT_072 | 00:11:50–00:12:00 | An honest spoonful
 
 **Characters:** DAN, LEO. **Location:** HOME_TABLE. **Wardrobe:** W01 only.
 **Off-screen voices:** NONE
@@ -1583,7 +1585,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Picture:** [BOARD_18.png](assets/storyboards/BOARD_18.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Keep the emotion proportionate to a small shopping mistake. No talking while chewing or handing hot cookware to a child.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–4.90s · LEO 5.05–10.11s · DAN 10.26–12.83s · LEO 12.98–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–3.27s · LEO 3.37–6.74s · DAN 6.84–8.55s · LEO 8.65–9.53s.
 
 **Dialogue:**
 **DAN:** I felt embarrassed when I realized I mixed up the lists.
@@ -1594,7 +1596,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 
 **LEO:** Especially then, Dad.
 
-## SHOT_073 | 00:18:00–00:18:15 | Both partners share the credit
+## SHOT_073 | 00:12:00–00:12:10 | Both partners share the credit
 
 **Characters:** MAYA, NINA, DAN. **Location:** HOME_TABLE. **Wardrobe:** W01 only.
 **Off-screen voices:** NONE
@@ -1605,7 +1607,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Maya and Nina are equally respected partners, neither a rival or servant. Their original faces, voices and wardrobe stay distinct.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–2.97s · NINA 3.12–6.28s · DAN 6.43–10.03s · NINA 10.18–14.22s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.98s · NINA 2.08–4.19s · DAN 4.29–6.69s · NINA 6.79–9.48s.
 
 **Dialogue:**
 **MAYA:** You listened, checked, and tried again.
@@ -1616,7 +1618,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 
 **NINA:** And guess who gets to try both dishes today?
 
-## SHOT_074 | 00:18:15–00:18:30 | Forty carrots stay imaginary
+## SHOT_074 | 00:12:10–00:12:20 | Forty carrots stay imaginary
 
 **Characters:** MAX, DAN. **Location:** HOME_TABLE. **Wardrobe:** W01 only.
 **Off-screen voices:** NONE
@@ -1627,7 +1629,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** This is an imaginary gesture, not a new purchase, flashback with different quantities or a giant carrot arrival.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAX 0.25–3.85s · DAN 4.00–6.72s · MAX 6.87–10.03s · DAN 10.18–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.57s · DAN 2.67–4.48s · MAX 4.58–6.69s · DAN 6.79–9.19s.
 
 **Dialogue:**
 **MAX:** Would forty carrots need their own dining table?
@@ -1638,7 +1640,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 
 **DAN:** Four guests are much easier to squeeze in.
 
-## SHOT_075 | 00:18:30–00:18:45 | An ear for a good question
+## SHOT_075 | 00:12:20–00:12:30 | An ear for a good question
 
 **Characters:** ELLA, MAX. **Location:** HOME_TABLE. **Wardrobe:** W01 only.
 **Off-screen voices:** NONE
@@ -1649,7 +1651,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** Corn is now prepared soup food, not two intact ears placed beside a duplicate serving. Keep family dialogue natural rather than a vocabulary recap.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–3.41s · MAX 3.56–6.28s · ELLA 6.43–9.59s · MAX 9.74–13.34s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.27s · MAX 2.37–4.19s · ELLA 4.29–6.39s · MAX 6.49–8.89s.
 
 **Dialogue:**
 **ELLA:** A question helped more than another guess.
@@ -1660,7 +1662,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 
 **MAX:** I still think the corn understood good morning.
 
-## SHOT_076 | 00:18:45–00:19:00 | Ask before guessing
+## SHOT_076 | 00:12:30–00:12:40 | Ask before guessing
 
 **Characters:** DAN, NINA, MAYA. **Location:** HOME_TABLE. **Wardrobe:** W01 only.
 **Off-screen voices:** NONE
@@ -1671,7 +1673,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Picture:** [BOARD_19.png](assets/storyboards/BOARD_19.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** No scolding, forced lesson, narrator summary or promise that mistakes can never happen again.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–4.24s · NINA 4.39–7.98s · MAYA 8.13–10.55s · NINA 10.70–14.30s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.83s · NINA 2.93–5.32s · MAYA 5.42–7.03s · NINA 7.13–9.53s.
 
 **Dialogue:**
 **DAN:** Next time I am unsure, could you check with me?
@@ -1682,7 +1684,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 
 **NINA:** I'd rather hear your question while there's still time.
 
-## SHOT_077 | 00:19:00–00:19:15 | The two original notes
+## SHOT_077 | 00:12:40–00:12:50 | The two original notes
 
 **Characters:** DAN, ELLA, LEO. **Location:** HOME_TABLE. **Wardrobe:** W01 only.
 **Off-screen voices:** NONE
@@ -1693,7 +1695,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 1. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** These are the same two separate sheets, not Episode 02's future single two-color card. Exact lettering comes from the saved list SVGs.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): ELLA 0.25–1.21s · LEO 1.36–2.32s · DAN 2.47–8.27s · ELLA 8.42–12.46s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–0.81s · LEO 0.91–1.55s · DAN 1.65–5.51s · ELLA 5.61–8.31s.
 
 **Dialogue:**
 **ELLA:** Blue salad.
@@ -1704,7 +1706,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 
 **ELLA:** We'll bring our excellent eyes along next time too.
 
-## SHOT_078 | 00:19:15–00:19:30 | Tomorrow's fruit promise
+## SHOT_078 | 00:12:50–00:13:00 | Tomorrow's fruit promise
 
 **Characters:** MAYA, DAN. **Location:** HOME_TABLE. **Wardrobe:** W01 only.
 **Off-screen voices:** NONE
@@ -1715,7 +1717,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 2. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** The blank card is household stationery for tomorrow, not a third vegetable shopping note or the already completed Episode 02 purchase. Meal stays unchanged.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): MAYA 0.25–3.72s · DAN 3.87–5.41s · MAYA 5.56–7.58s · DAN 7.73–8.78s · MAYA 8.93–12.40s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–2.48s · DAN 2.58–3.61s · MAYA 3.71–5.05s · DAN 5.15–5.85s · MAYA 5.95–8.27s.
 
 **Dialogue:**
 **MAYA:** Tomorrow, we need fruit for a picnic.
@@ -1728,7 +1730,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 
 **MAYA:** Wait till you see what we're buying.
 
-## SHOT_079 | 00:19:30–00:19:45 | Choose together next time
+## SHOT_079 | 00:13:00–00:13:10 | Choose together next time
 
 **Characters:** NINA, DAN, LEO, ELLA, MAX, MAYA. **Location:** HOME_TABLE. **Wardrobe:** W01 only.
 **Off-screen voices:** NONE
@@ -1739,7 +1741,7 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 **Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 3. Illustrated draft; creator approval and individual motion first frame pending.
 **Continuity:** This connects to Episode 02's next-morning one-card/two-colors opening without developing its fruit selections, budget or location here.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): NINA 0.25–2.97s · DAN 3.12–6.72s · MAX 6.87–10.03s · ELLA 10.18–13.78s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–1.98s · DAN 2.08–4.48s · MAX 4.58–6.69s · ELLA 6.79–9.19s.
 
 **Dialogue:**
 **NINA:** Tomorrow, we can choose fruit together.
@@ -1750,18 +1752,18 @@ This file is refreshed from STORY.md with `python Episode_01/sync.py`. Edit the 
 
 **ELLA:** Leo can count while Max interviews the fruit.
 
-## SHOT_080 | 00:19:45–00:20:00 | Two dishes, one family
+## SHOT_080 | 00:13:10–00:13:20 | Two dishes, one family
 
 **Characters:** DAN, MAYA, NINA, LEO, ELLA, MAX. **Location:** HOME_TABLE. **Wardrobe:** W01 only.
 **Off-screen voices:** NONE
-**Composition:** Slow closing wide on the six fixed places, ending within the twenty-minute timeline.
+**Composition:** Slow closing wide on the six fixed places, ending within the 13-minute-20-second timeline.
 **Action:** The family shares relaxed smiles over their prepared meal. Dan rests his hands beside his place; the empty market basket remains safely on the supply chair in the kitchen. Add the editorial ending overlay only within the final two seconds.
 **Starting continuity:** All six enjoying salad and cooked soup; stove OFF; notes/receipt/phone pocketed; future card on sideboard.
-**Ending continuity:** Hold the same six-person family tableau through 00:20:00; vegetable story complete with no unresolved purchase or cooking mistake.
+**Ending continuity:** Hold the same six-person family tableau through 00:13:20; vegetable story complete with no unresolved purchase or cooking mistake.
 **Picture:** [BOARD_20.png](assets/storyboards/BOARD_20.png), panel 4. Illustrated draft; creator approval and individual motion first frame pending.
-**Continuity:** No recap narrator or synchronized chorus. Any optional creator-designed practice begins after this completed story, outside its twenty-minute runtime.
+**Continuity:** No recap narrator or synchronized chorus. Any optional creator-designed practice begins after this completed story, outside its 13-minute-20-second runtime.
 
-**Delivery:** Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut. Speaker cues from clip start (estimated): DAN 0.25–2.53s · MAYA 2.68–4.96s · MAX 5.11–8.71s · NINA 8.86–12.90s.
+**Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.69s · MAYA 1.79–3.31s · MAX 3.41–5.81s · NINA 5.91–8.60s.
 
 **Dialogue:**
 **DAN:** Two dishes. One happy family.
