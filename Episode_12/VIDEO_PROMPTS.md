@@ -28,7 +28,7 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Let Max tell Dan the news as if the shoe really had a school day ahead. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.84s · DAN 2.98–4.30s · LEO 4.44–6.30s · DAN 6.44–9.39s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAX:** Dad, your shoe's going to school.
@@ -54,7 +54,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Save Leo's observation about the knot until Max has finished checking for knees. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.71s · MAYA 2.85–4.58s · MAX 4.72–6.17s · LEO 6.31–9.79s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **LEO:** His head's out of the picture.
@@ -80,7 +80,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Dan gives Leo the credit in passing. Let the surprise register on Leo. Check the fit with a natural read before locking this cut. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.25s · DAN 2.39–5.41s · LEO 5.55–7.32s · DAN 7.46–9.85s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **ELLA:** Dad, when did you take that?
@@ -106,7 +106,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Leo remembers tying the bow just as his hand copies its shape. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.93s · LEO 3.07–5.95s · MAYA 6.09–7.33s · MAX 7.47–9.85s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **DAN:** You called that one the listening ear.
@@ -132,7 +132,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Leave room for the chair squeak between Max's question and Nina's answer. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.36s · MAX 1.50–2.44s · NINA 3.15–5.78s · LEO 5.95–8.17s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **DAN:** Probably my sock.
@@ -158,7 +158,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Land “This one stayed” as the old print settles into its pocket. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.26s · LEO 2.40–4.88s · DAN 5.02–8.02s · MAYA 8.16–9.85s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **DAN:** That was your fourth try.
@@ -184,7 +184,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Let the children lean into Leo's finger frame while he's still explaining. Check the fit with a natural read before locking this cut. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–3.59s · ELLA 3.73–5.31s · LEO 5.45–8.13s · MAX 8.27–9.85s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **LEO:** Tomorrow we get to show something we like doing.
@@ -210,7 +210,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Nina's second frame makes the point before her last line does. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–3.52s · NINA 3.66–4.99s · LEO 5.13–6.04s · NINA 6.18–9.66s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **LEO:** All of you fit if I do this.
@@ -237,7 +237,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Give Leo a small change of mind between Maya's offer and his question. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–2.65s · LEO 2.79–6.06s · ELLA 6.20–7.89s · LEO 8.03–9.85s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAYA:** I can take it for you.
@@ -263,7 +263,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Let Max speak from behind Dan's palm, then peek around the thumb. Check the fit with a natural read before locking this cut. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.72s · MAX 2.86–5.06s · NINA 5.20–7.40s · LEO 7.54–9.85s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **DAN:** I could lend you a longer arm.
@@ -289,7 +289,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Treat the cushion greeting as seriously as a real introduction. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.71s · LEO 2.85–3.42s · MAX 3.56–5.02s · ELLA 5.16–8.10s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **ELLA:** Want me to save your spot?
@@ -315,7 +315,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Let Nina reveal the tripod feet on “three legs.” Check the fit with a natural read before locking this cut. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.72s · NINA 2.86–4.82s · LEO 4.96–7.86s · MAYA 8.00–9.85s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAX:** Does the camera get a chair too?
@@ -341,7 +341,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Match Max's reply to the moment he sees his double in the glass. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.79s · MAX 1.93–3.93s · LEO 4.07–6.57s · MAX 6.71–9.85s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **ELLA:** I see two Maxes.
@@ -367,7 +367,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Keep Dan's sunny greeting cheerfully confident through the squint. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.09s · LEO 1.23–2.96s · DAN 3.10–4.83s · MAYA 4.97–8.45s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **DAN:** How's this?
@@ -393,7 +393,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Let Ella report what she can actually see from behind the lens. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–1.09s · LEO 1.23–4.17s · ELLA 4.31–7.52s · LEO 7.66–9.79s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **NINA:** High enough?
@@ -419,7 +419,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Time Dan's half-step so the branch clears his head during the exchange. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–3.01s · DAN 3.15–4.75s · MAYA 4.89–6.87s · DAN 7.01–9.85s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **LEO:** Dad, take half a step toward Mom.
@@ -446,7 +446,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Settle the joke on the open patch of grass Leo is asking them to save. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.69s · LEO 2.83–4.54s · ELLA 4.68–6.79s · NINA 6.93–9.85s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAX:** Do we need this much space?
@@ -472,7 +472,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Let Leo inspect the cushion's dimple before he comments on his own. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.50s · LEO 1.64–2.96s · ELLA 3.10–4.83s · LEO 4.97–8.32s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAX:** How's your stand-in?
@@ -498,7 +498,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Let Dan's strained smile relax as soon as Nina gives him permission. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.55s · NINA 2.69–4.31s · DAN 4.45–6.95s · LEO 7.09–9.85s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **DAN:** How long do I hold this?
@@ -524,7 +524,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Time the single shutter click to Max posing the cushion. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–3.35s · LEO 3.49–5.52s · MAX 5.66–7.30s · LEO 7.44–9.85s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAYA:** Are we looking at you or the camera?
@@ -550,7 +550,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Give Dan the politeness of someone meeting a cousin for the first time. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–3.52s · MAX 3.66–4.58s · ELLA 4.72–5.64s · LEO 5.78–8.72s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **DAN:** Who's the new fellow with the yellow face?
@@ -576,7 +576,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Keep Nina's question gentle. Leo finds his own answer at the edge of the picture. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–3.31s · LEO 3.45–5.07s · NINA 5.21–7.97s · LEO 8.11–9.85s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAYA:** Somebody at school might ask where you were.
@@ -602,7 +602,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Fit the last two short replies around Leo settling his knee onto the cushion. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.71s · LEO 2.85–3.77s · MAX 3.91–6.98s · NINA 7.12–8.45s · LEO 8.59–9.16s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAX:** You can have your job back.
@@ -630,7 +630,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Let Leo point back at the lens while Ella sees the walk from his spot. Check the fit with a natural read before locking this cut. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.72s · LEO 2.86–4.36s · MAX 4.50–7.40s · LEO 7.54–9.85s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **ELLA:** From down here it looks far away.
@@ -657,7 +657,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Make the two timer choices distinct when Leo reads them. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.88s · NINA 2.02–3.74s · LEO 3.88–5.99s · NINA 6.13–9.85s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **LEO:** There's the little clock.
@@ -683,7 +683,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Let Maya's fingers take the turn that Leo's two-step estimate missed. Check the fit with a natural read before locking this cut. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.09s · MAYA 2.23–4.15s · LEO 4.29–5.85s · MAYA 5.99–9.85s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **LEO:** Looks like two big steps.
@@ -709,7 +709,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Dan recognizes the old shoe joke as he clears Leo's path. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.84s · DAN 2.98–4.71s · MAYA 4.85–6.58s · MAX 6.72–9.66s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **ELLA:** Dad, could you move your foot?
@@ -735,7 +735,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Keep the anticipation in their listening poses. The shutter belongs to the next shot. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.90s · MAX 2.04–4.58s · NINA 4.72–6.45s · DAN 6.59–8.58s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **LEO:** Ready when you are.
@@ -761,7 +761,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. The two-second shutter interrupts the walk. Max asks his question just after the click. Speaker cues from clip start (provisional 10-second targets): MAX 2.18–3.54s · LEO 3.68–4.13s · DAN 4.28–6.31s · LEO 6.48–8.08s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAX:** Did you hear that?
@@ -787,7 +787,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Play Leo's late smile straight. Ella is the first to give the joke away. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.63s · LEO 1.77–2.69s · ELLA 2.83–5.37s · MAX 5.50–6.83s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **DAN:** Lovely smile, son.
@@ -813,7 +813,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Land Leo's last line with his elbow at the same angle as the photograph. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.31s · LEO 2.45–3.37s · MAX 3.51–5.24s · LEO 5.38–7.11s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **ELLA:** What's that on the edge?
@@ -839,7 +839,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Let the mock interview fall away when Leo lowers his arm. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.71s · LEO 2.85–4.71s · NINA 4.85–5.42s · LEO 5.56–8.91s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **DAN:** A word from our new star?
@@ -866,7 +866,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Dan offers help quietly and lets Leo choose what kind he needs. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–4.06s · LEO 4.20–6.87s · DAN 7.00–8.33s · LEO 8.47–9.80s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **DAN:** I want your face there too. Need a hand?
@@ -892,7 +892,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Give “ten” a clear beat as Leo changes the dial. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–3.24s · MAYA 3.38–5.52s · LEO 5.66–7.39s · MAYA 7.53–9.39s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **LEO:** Two was too short. I'll try ten.
@@ -918,7 +918,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Pace Leo's arrival against Maya's tapping. This walk is a rehearsal. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.73s · LEO 3.55–4.20s · MAX 4.34–6.60s · LEO 6.80–8.44s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAYA:** Go when you're ready.
@@ -944,7 +944,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Let the eyes travel from Leo to the lens with his pointing finger. Check the fit with a natural read before locking this cut. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.51s · ELLA 2.65–3.46s · LEO 3.60–6.66s · DAN 6.80–9.85s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **LEO:** When I'm here, look straight ahead.
@@ -970,7 +970,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Let Ella's clenched delivery draw out the smile Nina sees. Check the fit with a natural read before locking this cut. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.90s · ELLA 3.04–5.76s · NINA 5.90–8.30s · MAX 8.44–9.85s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAX:** Do I have to show all my teeth?
@@ -996,7 +996,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Dan's ordinary “Hello” is the face Leo has been trying to get. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–4.13s · MAYA 4.27–6.37s · DAN 6.51–7.08s · LEO 7.22–9.85s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **DAN:** Chin up, shoulders down. What happens to my middle?
@@ -1022,7 +1022,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Let Leo notice Max tightening up at the idea of a countdown. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.31s · LEO 2.45–5.79s · MAX 5.93–7.67s · MAYA 7.80–9.54s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **ELLA:** Want me to count down?
@@ -1048,7 +1048,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Nina waits for Leo's grip to loosen while she speaks. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–1.50s · LEO 1.64–3.50s · NINA 3.64–6.58s · LEO 6.72–9.66s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **NINA:** Is something moving?
@@ -1075,7 +1075,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Dan lifts his covering hand on the correction from Ella. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.50s · DAN 1.64–3.37s · ELLA 3.51–5.77s · DAN 5.91–6.96s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAX:** Nobody sit here.
@@ -1101,7 +1101,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Let the greetings follow Leo into his seat. Save Max's sideways glance for the last second. Speaker cues from clip start (provisional 10-second targets): LEO 0.22–1.33s · DAN 1.55–2.75s · MAX 4.50–5.60s · LEO 5.78–6.55s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **LEO:** Here I come.
@@ -1127,7 +1127,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Release Dan's held portrait smile under the family's shared breath. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–2.03s · DAN 2.17–4.71s · NINA 4.85–5.77s · MAX 5.91–8.58s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAYA:** You can breathe, Dan.
@@ -1153,7 +1153,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Give Ella's last nose count to Leo. Let him enjoy being counted. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.97s · LEO 3.11–4.84s · MAX 4.98–6.71s · LEO 6.85–8.58s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **ELLA:** Five ... six. Real people this time.
@@ -1179,7 +1179,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Let Leo reproduce the smile for Ella while Maya studies the whole family. Check the fit with a natural read before locking this cut. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–3.83s · LEO 3.97–5.18s · MAYA 5.32–8.01s · DAN 8.15–9.85s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **ELLA:** I know that smile. The dentist says, “Bite down.”
@@ -1205,7 +1205,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Max answers as if watching for his brother were the obvious choice. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–1.79s · LEO 1.93–4.31s · MAX 4.45–7.59s · LEO 7.73–9.85s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **NINA:** Look at Max's eyes.
@@ -1231,7 +1231,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Give Leo's request time to register before Dan reaches for another joke. Check the fit with a natural read before locking this cut. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–2.24s · LEO 2.38–5.22s · DAN 5.36–7.10s · LEO 7.24–9.85s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAYA:** Is that the one for school?
@@ -1257,7 +1257,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Keep Max listening to the lopsided bow on his own right shoe. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.71s · ELLA 2.85–4.18s · MAX 4.32–7.52s · LEO 7.66–9.39s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAX:** Mine's got a listening ear too.
@@ -1284,7 +1284,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Max keeps his eyes on the laces. Make his last two words matter to Leo. Check the fit with a natural read before locking this cut. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–3.89s · LEO 4.03–4.82s · MAX 4.96–6.46s · NINA 6.60–8.45s · MAX 8.59–9.85s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAX:** I can do the first bit. Then one ear disappears.
@@ -1312,7 +1312,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Let the others settle beside Max while he decides to undo the bow. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–3.11s · LEO 3.25–4.58s · ELLA 4.72–6.45s · MAX 6.59–8.04s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAX:** What if I can't get it back?
@@ -1338,7 +1338,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Follow the shrinking loop with Leo's eyes as Max changes his grip. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.69s · LEO 2.83–4.54s · MAX 4.68–7.60s · LEO 7.74–9.85s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAX:** This is the bit I know.
@@ -1364,7 +1364,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Time Max opening his empty hand to the joke about blinking. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.50s · MAX 1.64–4.58s · LEO 4.72–6.45s · MAX 6.59–8.04s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **ELLA:** Where'd it go?
@@ -1390,7 +1390,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Leo changes his question when he sees Max's hands leave the laces. Check the fit with a natural read before locking this cut. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.18s · MAX 2.32–4.58s · LEO 4.72–8.17s · MAX 8.31–9.85s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **LEO:** Here, let me show you.
@@ -1416,7 +1416,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Keep Leo's grip at the base of the loop through Max's instructions. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.50s · LEO 1.64–3.37s · MAX 3.51–6.18s · NINA 6.32–7.64s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAX:** Hold it there.
@@ -1442,7 +1442,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Wait for Max's signal before Leo releases the loop. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.31s · LEO 2.45–3.37s · DAN 3.51–5.64s · MAX 5.78–7.64s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAX:** You can let go now.
@@ -1468,7 +1468,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Let Max point out the small, specific part his brother played. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.50s · LEO 1.64–2.56s · MAX 2.70–5.24s · MAYA 5.38–8.45s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAYA:** Who made that?
@@ -1495,7 +1495,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. On “No,” let Max look up at Leo. He still wants his brother beside him. Check the fit with a natural read before locking this cut. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.87s · LEO 3.01–4.72s · MAX 4.86–7.67s · LEO 7.81–9.85s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAX:** Could I try it again without your fingers?
@@ -1521,7 +1521,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Let Ella's invitation draw Leo over only after Max waves him toward her. Check the fit with a natural read before locking this cut. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.54s · LEO 2.68–4.22s · ELLA 4.36–7.81s · DAN 7.95–9.85s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **ELLA:** Leo, can I borrow your eyes?
@@ -1547,7 +1547,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Ella's pointing does the work as Leo discovers the picture for himself. Check the fit with a natural read before locking this cut. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.21s · ELLA 2.35–4.07s · LEO 4.21–7.34s · ELLA 7.48–9.85s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **LEO:** You saw this from over here?
@@ -1573,7 +1573,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Leave Max room to set his one condition before he says yes. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–4.06s · MAX 4.20–6.33s · LEO 6.47–7.79s · MAX 7.93–8.86s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **LEO:** Max, can I take a picture while you try?
@@ -1599,7 +1599,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Let Leo make the tilt adjustment while the family checks the edges with him. Check the fit with a natural read before locking this cut. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–2.31s · LEO 2.45–4.94s · ELLA 5.08–7.57s · LEO 7.71–9.85s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAYA:** Can you get the shoe in?
@@ -1625,7 +1625,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Let Ella deliver the knee joke from front-right as Dan settles behind the children. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–3.11s · MAX 3.25–6.20s · NINA 6.34–7.26s · ELLA 7.40–9.53s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **DAN:** Where would you like me this time?
@@ -1651,7 +1651,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Keep Leo's hands away from the shutter while Max decides. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–3.49s · LEO 3.63–6.14s · MAX 6.28–8.40s · LEO 8.54–9.85s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAX:** Do I have to finish before it clicks?
@@ -1677,7 +1677,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Let Leo settle both hands on his knees before the click. Max is still tying. Speaker cues from clip start (provisional 10-second targets): LEO 0.20–1.27s · MAX 1.67–3.14s · LEO 4.90–6.00s · MAX 6.22–7.40s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **LEO:** On my way.
@@ -1704,7 +1704,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Play Max's reaction to the preceding click without sounding a second shutter. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.50s · LEO 1.64–3.37s · MAX 3.51–4.83s · ELLA 4.97–6.29s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAX:** Was that it?
@@ -1730,7 +1730,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Give Max the first look at the knot holding on its own. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.31s · LEO 2.45–4.18s · MAX 4.32–5.77s · DAN 5.91–9.26s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAX:** I think I did it.
@@ -1756,7 +1756,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Put the warmth on Leo's “I saw it.” He's looking at his brother. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.50s · LEO 1.64–4.71s · MAX 4.85–5.77s · LEO 5.91–7.64s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAX:** You missed it.
@@ -1782,7 +1782,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Answer Max's light stamp with Dan's, one beat from each shoe. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.09s · DAN 1.23–2.15s · ELLA 2.29–4.02s · LEO 4.16–6.70s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAX:** Hear that?
@@ -1808,7 +1808,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Let Maya's “Oh” mark the switch from looking at the lens to looking at Max. Check the fit with a natural read before locking this cut. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–2.77s · LEO 2.91–4.89s · MAYA 5.03–6.79s · ELLA 6.93–9.85s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAYA:** Show me the one where we're all looking.
@@ -1834,7 +1834,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Let the sight of Leo's empty hands settle the choice before his last line. Check the fit with a natural read before locking this cut. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.74s · LEO 2.88–5.45s · MAX 5.59–7.56s · NINA 7.70–8.20s · LEO 8.34–9.85s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAX:** Your hands are still on your knees.
@@ -1862,7 +1862,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Match the cushion's two brisk pats to Max's air of finishing work. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.71s · MAX 2.85–4.18s · ELLA 4.32–5.64s · LEO 5.78–8.72s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **DAN:** Does Cousin Cushion need a ride?
@@ -1888,7 +1888,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Let Leo's “One” settle the print quantity before the job starts. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.50s · LEO 1.64–3.37s · NINA 3.51–4.08s · LEO 4.21–6.48s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAYA:** How many copies?
@@ -1915,7 +1915,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Let the small green toe appear before Max corrects Dan. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.31s · MAX 2.45–3.37s · DAN 3.51–5.77s · MAX 5.91–7.37s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **DAN:** Any sign of me yet?
@@ -1941,7 +1941,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Max compares the unfinished loop on paper with the finished bow he can see. Check the fit with a natural read before locking this cut. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.63s · NINA 2.77–4.89s · MAX 5.03–7.25s · LEO 7.39–9.85s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAX:** There's only one ear in the picture.
@@ -1967,7 +1967,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Let Maya's attention move between the two prints as Leo points out the shoes. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.55s · LEO 2.69–4.69s · MAYA 4.83–7.59s · LEO 7.73–9.85s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **ELLA:** Your stand-in kept your chair warm.
@@ -1993,7 +1993,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Leo's joke about the elbow can continue while he pockets the candid print. Check the fit with a natural read before locking this cut. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–3.18s · LEO 3.32–5.61s · NINA 5.75–7.67s · LEO 7.81–9.85s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **DAN:** No room for the one with the elbow?
@@ -2019,7 +2019,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Dan voices four-year-old Leo himself, looking at the scuff in the print. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.14s · DAN 2.28–5.76s · MAYA 5.90–7.12s · DAN 7.26–9.85s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **LEO:** What happened to the toe?
@@ -2045,7 +2045,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Let Ella give Leo a straight-faced rehearsal of the question he'll hear at school. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.31s · LEO 2.45–4.71s · MAX 4.85–7.79s · LEO 7.93–9.26s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **ELLA:** So who took these pictures?
@@ -2071,7 +2071,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Max keeps the next question to himself until the album is in the bag. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.90s · LEO 2.04–2.61s · NINA 2.75–5.02s · MAX 5.16–7.70s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAYA:** All set for school?
@@ -2097,7 +2097,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Play the request softly. Leo's final answer is for Max as he looks up from the shoes. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–3.65s · LEO 3.79–4.71s · MAX 4.85–7.39s · LEO 7.53–9.26s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAX:** After school, will you sit with me again?

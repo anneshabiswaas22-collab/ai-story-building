@@ -36,7 +36,7 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–2.71s · NINA 2.81–5.08s · DAN 5.18–6.89s · MAYA 6.99–9.53s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAYA:** The library has a quiet reading corner for us.
@@ -59,7 +59,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.57s · MAX 2.67–3.89s · ELLA 3.99–5.81s · LEO 5.91–9.19s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **LEO:** Red, blue, yellow. All three returns are here.
@@ -82,7 +82,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–3.09s · DAN 3.19–5.06s · LEO 5.16–7.03s · NINA 7.13–9.53s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **NINA:** Three adult tickets and three child tickets. Nine dollars, already paid.
@@ -105,7 +105,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.57s · MAYA 2.67–4.48s · ELLA 4.58–5.81s · DAN 5.91–8.89s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **DAN:** Route seven, nine fifty. I have the time.
@@ -128,7 +128,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.98s · NINA 2.08–4.19s · DAN 4.29–5.81s · MAX 5.91–8.89s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAX:** It might rain on our books.
@@ -151,7 +151,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–2.57s · MAYA 2.67–4.19s · DAN 4.29–6.10s · LEO 6.20–9.19s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **NINA:** Cards stay with me. Books stay with Leo.
@@ -174,7 +174,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.98s · ELLA 2.08–4.19s · MAX 4.29–6.39s · MAYA 6.49–9.19s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **LEO:** I want a book of maps.
@@ -197,7 +197,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.15s · MAYA 2.25–4.52s · MAX 4.62–6.33s · ELLA 6.43–9.53s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **DAN:** Early, organized, and all six of us.
@@ -221,7 +221,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.98s · LEO 2.08–4.19s · DAN 4.29–6.39s · LEO 6.49–9.19s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **DAN:** Here we are. Ten minutes early.
@@ -244,7 +244,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.88s · MAX 1.98–3.97s · MAYA 4.07–6.33s · DAN 6.43–9.53s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **DAN:** I may have mastered arriving early.
@@ -267,7 +267,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.10s · ELLA 1.20–3.31s · DAN 3.41–5.81s · ELLA 5.91–8.89s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **LEO:** It says seven.
@@ -290,7 +290,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.57s · NINA 2.67–4.77s · ELLA 4.87–6.69s · MAX 6.79–9.48s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAX:** Does the other bench get a different bus?
@@ -313,7 +313,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.27s · MAYA 2.37–4.19s · LEO 4.29–6.69s · DAN 6.79–9.48s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **DAN:** Nine fifty here too. That is reassuring.
@@ -336,7 +336,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.39s · DAN 1.49–3.89s · MAYA 3.99–6.69s · ELLA 6.79–9.48s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **ELLA:** Our sign says River.
@@ -359,7 +359,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.98s · LEO 2.08–3.89s · NINA 3.99–5.81s · MAX 5.91–9.48s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAX:** Could the library come here instead?
@@ -382,7 +382,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.69s · LEO 1.79–3.60s · DAN 3.70–6.39s · MAYA 6.49–9.48s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAYA:** Bakery behind us, crossing ahead.
@@ -406,7 +406,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.43s · DAN 2.53–4.80s · NINA 4.90–6.61s · MAX 6.71–9.53s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAX:** Did the stop move while we were walking?
@@ -429,7 +429,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–3.45s · LEO 3.55–4.77s · ELLA 4.87–6.69s · DAN 6.79–9.48s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **DAN:** The right bus number can still take us the wrong way.
@@ -452,7 +452,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–1.88s · MAYA 1.98–3.69s · DAN 3.79–6.61s · NINA 6.71–9.53s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **NINA:** We still have time to check.
@@ -475,7 +475,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.69s · ELLA 1.79–3.89s · MAYA 3.99–6.10s · ELLA 6.20–8.89s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **LEO:** We are beside the bakery.
@@ -498,7 +498,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–3.17s · DAN 3.27–4.93s · MAX 5.03–6.97s · NINA 7.07–9.53s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **NINA:** My dad knows this street. We can describe where we are.
@@ -521,7 +521,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.30s · NINA 2.40–4.54s · LEO 4.64–7.03s · DAN 7.13–9.53s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **DAN:** Route seven, bakery side. We want the library.
@@ -544,7 +544,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.65s · NINA 1.75–3.51s · MAYA 3.61–6.53s · ELLA 6.63–9.53s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **ELLA:** Are the cards still here?
@@ -567,7 +567,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.13s · DAN 2.22–3.09s · MAYA 3.19–6.24s · DAN 6.34–8.02s · LEO 8.12–9.53s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **LEO:** I can see Library across the street.
@@ -593,7 +593,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.27s · MAYA 2.37–4.48s · DAN 4.58–6.69s · MAYA 6.79–9.48s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **LEO:** These two dots are the two stops.
@@ -616,7 +616,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.83s · NINA 1.93–4.39s · DAN 4.50–6.97s · MAX 7.07–9.53s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAX:** Did we spoil our library day?
@@ -639,7 +639,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–2.22s · DAN 2.32–4.94s · NINA 5.04–7.09s · DAN 7.19–9.53s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **NINA:** Hi, Dad. Can you check our directions?
@@ -662,7 +662,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.83s · MAYA 2.93–5.06s · LEO 5.16–6.51s · DAN 6.61–9.53s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **DAN:** I wanted this to be the outing with no mistakes.
@@ -686,7 +686,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–3.09s · ED 3.19–5.59s · DAN 5.69–7.03s · NINA 7.13–9.53s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **NINA:** We are at the bakery stop. The panel says southbound, River.
@@ -710,7 +710,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ED 0.17–3.45s · DAN 3.55–4.19s · LEO 4.29–6.10s · NINA 6.20–9.19s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **ED:** Check the destination on your leaflet. What direction does it name?
@@ -734,7 +734,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.93s · ED 2.03–5.51s · NINA 5.61–6.81s · MAX 6.91–9.53s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAX:** Do we need bus eight instead?
@@ -758,7 +758,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.30s · ED 2.40–4.80s · MAYA 4.90–6.77s · NINA 6.87–9.53s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **DAN:** We will check the sign ourselves before boarding.
@@ -782,7 +782,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.10s · ELLA 2.20–4.39s · LEO 4.50–6.97s · DAN 7.07–9.53s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **DAN:** Could you check the direction with me?
@@ -805,7 +805,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.37s · NINA 2.47–5.47s · DAN 5.57–6.97s · LEO 7.07–9.53s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAX:** We are going away from the bus stop.
@@ -828,7 +828,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.10s · MAYA 1.20–3.31s · DAN 3.41–6.39s · ELLA 6.49–9.48s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **ELLA:** I pressed it.
@@ -851,7 +851,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.37s · DAN 2.47–4.13s · NINA 4.23–6.69s · MAX 6.79–9.53s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAX:** Will the library be angry if we wait?
@@ -874,7 +874,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–2.57s · DAN 2.67–3.60s · NINA 3.70–5.22s · LEO 5.32–8.31s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAYA:** Walking signal. Check that the cars have stopped.
@@ -897,7 +897,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.80s · DAN 1.90–4.17s · ELLA 4.27–5.59s · MAYA 5.69–8.27s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAX:** This stop is getting closer.
@@ -920,7 +920,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.51s · MAYA 2.61–3.80s · ELLA 3.90–6.24s · NINA 6.34–9.53s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **LEO:** The blue shelter is a little way back.
@@ -943,7 +943,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.93s · DAN 2.03–3.51s · LEO 3.61–6.53s · MAX 6.63–9.53s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAX:** Our old bench is still there.
@@ -967,7 +967,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.10s · DAN 1.20–3.01s · NINA 3.11–5.22s · LEO 5.32–8.31s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAYA:** Seven. Northbound. Library.
@@ -990,7 +990,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.39s · ELLA 1.49–3.01s · DAN 3.11–5.51s · ELLA 5.61–8.89s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **LEO:** Saturday, northbound, nine fifty.
@@ -1013,7 +1013,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.98s · NINA 2.08–4.77s · MAYA 4.87–6.10s · MAX 6.20–9.48s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAX:** This bench feels just as comfortable.
@@ -1036,7 +1036,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.39s · NINA 1.49–2.72s · LEO 2.82–5.51s · DAN 5.61–8.31s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **DAN:** Six tickets, still here.
@@ -1059,7 +1059,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.27s · MAYA 2.37–3.01s · DAN 3.11–5.81s · ELLA 5.91–9.19s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **ELLA:** Six dollars for adults, three for us.
@@ -1082,7 +1082,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.37s · LEO 2.47–4.39s · MAYA 4.50–6.69s · DAN 6.79–9.53s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **DAN:** Seven, Library. The bus agrees with the stop.
@@ -1105,7 +1105,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.39s · NINA 1.49–3.31s · DAN 3.41–5.81s · MAX 5.91–9.19s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAX:** The door is open.
@@ -1128,7 +1128,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.74s · MAYA 1.84–3.71s · NINA 3.81–5.38s · ELLA 5.48–8.27s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **ELLA:** Are we going on now?
@@ -1152,7 +1152,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.86s · MAYA 2.96–4.19s · DAN 4.29–6.10s · MAYA 6.20–8.31s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **DAN:** Good morning. Six prepaid tickets for the library, please.
@@ -1175,7 +1175,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–1.39s · DAN 1.49–4.19s · NINA 4.29–5.81s · DAN 5.91–8.31s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **NINA:** One for each person.
@@ -1198,7 +1198,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–1.39s · MAX 1.49–3.60s · MAYA 3.70–6.10s · NINA 6.20–9.19s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **NINA:** Take the handrail, Max.
@@ -1221,7 +1221,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.43s · DAN 1.53–3.71s · ELLA 3.81–5.38s · DAN 5.48–8.27s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **LEO:** Here is their home.
@@ -1244,7 +1244,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.10s · NINA 1.20–2.72s · MAX 2.82–5.22s · DAN 5.32–8.31s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAYA:** Ella, beside me.
@@ -1267,7 +1267,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.39s · NINA 1.49–3.01s · ELLA 3.11–5.22s · NINA 5.32–8.31s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **LEO:** Books below, cards above.
@@ -1290,7 +1290,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.27s · MAX 2.37–5.07s · MAYA 5.17–6.69s · DAN 6.79–9.48s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **DAN:** Departure. From the right stop this time.
@@ -1313,7 +1313,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.15s · DAN 2.25–3.97s · MAX 4.07–6.61s · DAN 6.71–9.53s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAX:** The bus is doing all the walking.
@@ -1337,7 +1337,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.98s · NINA 2.08–3.60s · MAYA 3.70–6.10s · LEO 6.20–9.19s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **LEO:** Pine Street comes before Oak Street.
@@ -1360,7 +1360,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.75s · DAN 2.85–3.85s · NINA 3.95–5.27s · DAN 5.37–8.27s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **ELLA:** We passed the bakery a long time ago.
@@ -1383,7 +1383,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.91s · DAN 3.01–4.13s · LEO 4.23–6.69s · MAX 6.79–9.53s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAX:** How will the bus know we want to get off?
@@ -1406,7 +1406,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–0.76s · MAYA 0.86–2.75s · LEO 2.85–5.05s · NINA 5.15–8.27s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **NINA:** Requested.
@@ -1429,7 +1429,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.10s · DAN 1.20–3.60s · ELLA 3.70–5.81s · MAX 5.91–8.60s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAX:** I am ready.
@@ -1452,7 +1452,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.49s · MAYA 1.59–2.91s · NINA 3.01–5.27s · MAYA 5.37–8.27s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **ELLA:** Blue canopy, library sign.
@@ -1475,7 +1475,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.80s · NINA 1.90–2.91s · LEO 3.01–5.27s · ELLA 5.37–8.27s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **DAN:** Arrival. Now we can stand.
@@ -1498,7 +1498,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.93s · MAX 2.03–4.37s · LEO 4.47–7.09s · DAN 7.19–9.53s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **DAN:** Thank you. Have a good morning.
@@ -1522,7 +1522,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–2.57s · DAN 2.67–5.07s · MAX 5.17–5.81s · ELLA 5.91–8.89s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAYA:** Here we are. Quiet voices from this door.
@@ -1545,7 +1545,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.39s · ELLA 1.49–3.31s · MAYA 3.41–5.22s · LEO 5.32–8.31s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **LEO:** Our three return books.
@@ -1568,7 +1568,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.39s · MAX 1.49–3.31s · MAYA 3.41–5.51s · MAX 5.61–8.60s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **LEO:** Red returned. Blue returned.
@@ -1591,7 +1591,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.10s · NINA 1.20–3.31s · MAYA 3.41–5.22s · ELLA 5.32–8.60s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **ELLA:** Yellow returned too.
@@ -1614,7 +1614,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.43s · ELLA 1.53–2.19s · MAX 2.29–4.78s · NINA 4.88–8.27s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **LEO:** There are maps here.
@@ -1637,7 +1637,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.88s · LEO 1.98–4.80s · NINA 4.90–6.06s · DAN 6.16–9.53s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **DAN:** You found the north arrow first.
@@ -1660,7 +1660,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.04s · MAYA 2.14–4.54s · LEO 4.64–6.77s · ELLA 6.87–9.53s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **ELLA:** These little seeds become all of this?
@@ -1683,7 +1683,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.57s · DAN 2.67–3.89s · NINA 3.99–5.22s · MAX 5.32–8.31s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAX:** The dinosaur is enormous, but the book fits.
@@ -1707,7 +1707,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–2.35s · LEO 2.45–3.41s · ELLA 3.51–5.38s · NINA 5.48–8.27s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **NINA:** One book on each of your cards.
@@ -1730,7 +1730,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.98s · NINA 2.08–3.60s · DAN 3.70–6.10s · MAX 6.20–8.89s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAX:** Do we pay another nine dollars?
@@ -1753,7 +1753,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.74s · MAYA 1.84–2.80s · NINA 2.90–5.08s · MAYA 5.18–8.27s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **LEO:** Three new books, same bag.
@@ -1776,7 +1776,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.27s · ELLA 2.37–4.48s · MAX 4.58–6.39s · ELLA 6.49–9.48s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **LEO:** There is a whole world in here.
@@ -1799,7 +1799,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.79s · LEO 2.89–4.94s · MAYA 5.04–6.53s · DAN 6.63–9.53s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **DAN:** I liked sounding certain more than checking the sign.
@@ -1822,7 +1822,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–2.57s · NINA 2.67–5.36s · DAN 5.46–7.27s · NINA 7.37–9.48s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAYA:** Your call helped us ask a clearer question.
@@ -1845,7 +1845,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–3.35s · NINA 3.45–4.80s · DAN 4.90–6.51s · MAX 6.61–9.53s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAX:** Grandpa wanted a story. We have the stop that did not move.
@@ -1868,7 +1868,7 @@ only [Speaker] moves their mouth while all other characters listen with closed m
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.35s · MAYA 2.45–4.01s · MAX 4.11–5.38s · ELLA 5.48–8.27s.
 
-only [Speaker] moves their mouth while all other characters listen with closed mouths
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **DAN:** Right bus. Right direction. Very good arrival.
