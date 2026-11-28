@@ -185,6 +185,7 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **LEO:** I can smell the tomatoes from here, Dad.
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_009 | 00:01:20–00:01:30 | Saving the small muscles
 
 **Characters:** MAX, DAN. **Location:** MARKET_STALL. **Wardrobe:** W01 only.
@@ -361,6 +362,7 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **LEO:** Just promise you won't roll them down the aisle.
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_017 | 00:02:40–00:02:50 | Packing is part of the plan
 
 **Characters:** LEO, DAN. **Location:** MARKET_STALL. **Wardrobe:** W01 only.
@@ -537,6 +539,7 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **DAN:** Two lists, two jobs. I'll let you help me sort.
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_025 | 00:04:00–00:04:10 | The uncut onion joke
 
 **Characters:** DAN, MAX. **Location:** MARKET_STALL. **Wardrobe:** W01 only.
@@ -713,6 +716,7 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **DAN:** Quiet as ever. I think we found our pepper.
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_033 | 00:05:20–00:05:30 | The red pepper has a place
 
 **Characters:** DAN, ELLA. **Location:** MARKET_STALL. **Wardrobe:** W01 only.
@@ -891,6 +895,7 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **MAX:** Do we need a whole bush or just a bag?
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_041 | 00:06:40–00:06:50 | The last bag of leaves
 
 **Characters:** MAX, DAN. **Location:** MARKET_STALL. **Wardrobe:** W01 only.
@@ -1067,6 +1072,7 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **LEO:** The bags will do the remembering once they're packed.
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_049 | 00:08:00–00:08:10 | Say it honestly
 
 **Characters:** DAN, LEO, ELLA. **Location:** MARKET_STALL. **Wardrobe:** W01 only.
@@ -1243,6 +1249,7 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **LEO:** I'll listen for the coins when they come back.
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_057 | 00:09:20–00:09:30 | A receipt worth reading
 
 **Characters:** DAN, LEO. **Location:** MARKET_CHECKOUT. **Wardrobe:** W01 only.
@@ -1419,6 +1426,7 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **MAX:** Can the tiny tree be in my bowl later?
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_065 | 00:10:40–00:10:50 | Clean hands for the next job
 
 **Characters:** MAYA, NINA, DAN, LEO, ELLA, MAX. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
@@ -1595,6 +1603,7 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **LEO:** Especially then, Dad.
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_073 | 00:12:00–00:12:10 | Both partners share the credit
 
 **Characters:** MAYA, NINA, DAN. **Location:** HOME_TABLE. **Wardrobe:** W01 only.
