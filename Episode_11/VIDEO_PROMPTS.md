@@ -8,6 +8,7 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 <a name="shot-001"></a>
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_001 | 00:00:00–00:00:10 | A nose by the mug
 
 **Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
@@ -20,6 +21,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** The cobalt mug stays on the island. Pip is a flat black card mouse with a curled tail and one stick. The paper crescent first appears in 003.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.91s · MAX 2.01–3.75s · DAN 3.85–5.59s · MAX 5.69–8.27s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **DAN:** Something's after my mug.
@@ -45,6 +48,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.11s · MAX 2.22–3.55s · DAN 3.65–6.21s · MAX 6.31–8.27s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **DAN:** Where'd he go?
 
@@ -68,6 +73,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** The cobalt mug stays on the island. Pip is a flat black card mouse with a curled tail and one stick. The paper crescent first appears in 003.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.60s · ELLA 1.70–2.79s · DAN 2.89–5.70s · MAX 5.80–8.27s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **DAN:** Is that his lunch?
@@ -93,6 +100,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–2.29s · MAX 2.39–4.17s · NINA 4.27–5.70s · MAX 5.80–8.27s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **NINA:** Did Rose like your cake story?
 
@@ -116,6 +125,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** Use the fixed dining-room seats. Dan takes Pip in 007. The folded yellow ticket leaves with Nina in 008. The mug stays in the kitchen.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–2.29s · MAX 2.39–3.14s · MAYA 3.24–5.01s · MAX 5.11–8.27s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAYA:** How many tickets do you need?
@@ -141,6 +152,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.74s · MAX 2.84–4.17s · ELLA 4.27–6.43s · LEO 6.53–8.27s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **LEO:** Does he live up there too?
 
@@ -164,6 +177,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** Use the fixed dining-room seats. Dan takes Pip in 007. The folded yellow ticket leaves with Nina in 008. The mug stays in the kitchen.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.11s · ELLA 2.22–4.48s · DAN 4.58–5.90s · MAX 6.00–8.27s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **DAN:** Every great actor takes a bow.
@@ -189,6 +204,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–3.98s · NINA 4.08–5.10s · MAX 5.20–6.21s · DAN 6.31–8.27s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **MAX:** Little steps, Dad. He's working up to something.
 
@@ -200,6 +217,7 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 <a name="shot-009"></a>
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_009 | 00:01:20–00:01:30 | The unpaid understudy
 
 **Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
@@ -212,6 +230,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** Use the blue porch door and low afternoon light. Dan carries Pip, Ella the crescent and Nina the ticket. A passing cloud softens the cast shadows.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.87s · DAN 2.97–5.29s · MAX 5.39–6.21s · DAN 6.31–8.27s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAX:** Dad, your shoe got here before you.
@@ -237,6 +257,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.54s · MAX 1.64–4.33s · DAN 4.43–6.47s · MAX 6.57–8.27s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **ELLA:** Look at that tail!
 
@@ -260,6 +282,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** Use the blue porch door and low afternoon light. Dan carries Pip, Ella the crescent and Nina the ticket. A passing cloud softens the cast shadows.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.49s · NINA 2.59–4.54s · MAX 4.64–6.97s · DAN 7.07–8.27s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **DAN:** I'm ready whenever the sun is.
@@ -285,6 +309,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–2.87s · ELLA 2.97–4.54s · DAN 4.64–6.21s · NINA 6.31–8.27s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **NINA:** We have a light that stays put.
 
@@ -308,6 +334,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** One oak frame with white translucent cloth, one amber battery desk lamp. The family enters through the hall. The lamp first turns on in 016.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.61s · MAYA 2.71–4.76s · LEO 4.86–6.12s · MAYA 6.22–8.27s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **LEO:** I can see light through it.
@@ -333,6 +361,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.87s · NINA 2.97–5.29s · MAX 5.39–6.59s · NINA 6.69–8.27s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **MAX:** Can I be in charge of something?
 
@@ -356,6 +386,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** One oak frame with white translucent cloth, one amber battery desk lamp. The family enters through the hall. The lamp first turns on in 016.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.61s · DAN 2.71–4.76s · ELLA 4.86–6.91s · MAX 7.01–8.27s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **LEO:** Who's going to stand in line?
@@ -381,6 +413,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.39s · NINA 2.49–4.35s · LEO 4.45–6.31s · MAYA 6.41–8.27s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **LEO:** Which side do I sit on?
 
@@ -392,6 +426,7 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 <a name="shot-017"></a>
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_017 | 00:02:40–00:02:50 | Hanging the moon
 
 **Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
@@ -404,6 +439,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** Light travels from the window end of the worktable toward the audience at the door. The moon clips high audience-right. Dan moves Pip. Max voices him.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.62s · MAYA 2.72–4.23s · ELLA 4.33–5.24s · MAYA 5.34–8.27s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **ELLA:** How high is the moon?
@@ -429,6 +466,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.75s · MAX 2.85–4.71s · DAN 4.81–7.03s · MAX 7.13–8.27s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **LEO:** He's about as big as my thumb.
 
@@ -452,6 +491,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** Light travels from the window end of the worktable toward the audience at the door. The moon clips high audience-right. Dan moves Pip. Max voices him.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–3.33s · DAN 3.43–4.42s · MAX 4.52–5.51s · DAN 5.61–8.27s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAX:** Once there was a mouse who—
@@ -477,6 +518,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.21s · DAN 2.31–4.37s · NINA 4.47–6.12s · DAN 6.22–8.27s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **MAX:** Can I do his voice?
 
@@ -501,6 +544,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.74s · DAN 2.83–3.92s · ELLA 4.02–5.59s · MAX 5.69–8.27s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **ELLA:** Bring him a little closer.
 
@@ -524,6 +569,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** The white screen, amber light and clipped crescent stay fixed. Only the mouse moves in depth. Its projected ear covers the moon as it nears the lamp.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.78s · DAN 2.88–4.48s · LEO 4.58–5.55s · DAN 5.65–8.27s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **LEO:** Dad, his ear's getting bigger.
@@ -550,6 +597,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.11s · MAYA 2.22–4.17s · LEO 4.27–6.68s · MAYA 6.78–8.27s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **LEO:** Wait. Where's the moon?
 
@@ -574,6 +623,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.49s · MAX 2.59–3.41s · ELLA 3.51–6.21s · MAX 6.31–8.27s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **DAN:** Anything to say for yourself, Pip?
 
@@ -585,6 +636,7 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 <a name="shot-025"></a>
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_025 | 00:04:00–00:04:10 | Still on its peg
 
 **Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
@@ -597,6 +649,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** Pip stays in Dan’s hand, then drops below the beam in 026. The crescent remains clipped at the same height. Yellow ticket belongs to Max.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.91s · ELLA 2.01–3.33s · DAN 3.43–4.76s · ELLA 4.86–8.27s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **DAN:** Did it fall off?
@@ -623,6 +677,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–1.75s · DAN 1.85–3.42s · NINA 3.52–5.59s · DAN 5.69–8.27s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **NINA:** There's one tip.
 
@@ -646,6 +702,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** Pip stays in Dan’s hand, then drops below the beam in 026. The crescent remains clipped at the same height. Yellow ticket belongs to Max.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.61s · MAX 2.71–4.37s · LEO 4.47–6.91s · MAX 7.01–8.27s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **LEO:** Is he going to burp again?
@@ -671,6 +729,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–3.51s · MAX 3.61–4.63s · MAYA 4.73–5.75s · MAX 5.85–8.27s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **MAYA:** What happens if he eats the moon?
 
@@ -694,6 +754,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** Leo tests his own hand with the lamp and screen fixed. Mouse stays below the beam. The crescent stays top right. Hand clears the beam in 031.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.21s · NINA 2.31–3.57s · LEO 3.67–6.12s · NINA 6.22–8.27s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **LEO:** Can I borrow the light?
@@ -719,6 +781,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.74s · LEO 2.84–4.59s · DAN 4.69–6.01s · LEO 6.11–8.27s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **DAN:** May I shake your enormous hand?
 
@@ -742,6 +806,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** Leo tests his own hand with the lamp and screen fixed. Mouse stays below the beam. The crescent stays top right. Hand clears the beam in 031.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.11s · LEO 2.22–4.48s · NINA 4.58–5.59s · MAX 5.69–8.27s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAX:** Your fingers didn't grow at all.
@@ -767,6 +833,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.98s · DAN 2.08–4.19s · MAX 4.29–6.39s · ELLA 6.49–8.89s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **ELLA:** I meant closer to the moon.
 
@@ -778,6 +846,7 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 <a name="shot-033"></a>
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_033 | 00:05:20–00:05:30 | The blue path
 
 **Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
@@ -790,6 +859,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** One blue strip beside the screen marks the small shadow. One orange dot nearer the lamp marks the big shadow. Dan moves Pip along blue in 036.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.52s · ELLA 2.62–4.97s · LEO 5.07–5.81s · ELLA 5.91–8.27s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **LEO:** Here's a path for his feet.
@@ -816,6 +887,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.33s · NINA 2.43–4.17s · MAX 4.27–6.01s · LEO 6.11–8.27s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **MAX:** Keep the giant spot too.
 
@@ -839,6 +912,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** One blue strip beside the screen marks the small shadow. One orange dot nearer the lamp marks the big shadow. Dan moves Pip along blue in 036.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.58s · DAN 2.68–4.17s · MAX 4.27–5.29s · DAN 5.39–8.27s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAX:** Closer to the screen, Dad.
@@ -864,6 +939,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.39s · DAN 2.49–3.99s · MAX 4.09–5.95s · DAN 6.05–8.27s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **ELLA:** Now slide him toward the moon.
 
@@ -887,6 +964,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** Pip stays close to the cloth and the moon stays clipped. Max sets his ticket at the foot in 040. Dan holds the stick through the end of 040.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.65s · DAN 1.75–3.23s · MAX 3.33–5.29s · DAN 5.39–8.27s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAX:** Is Pip nervous?
@@ -912,6 +991,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.14s · ELLA 2.24–3.83s · MAX 3.93–4.67s · ELLA 4.77–8.27s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **MAX:** Greetings, enormous ball of sky!
 
@@ -935,6 +1016,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** Pip stays close to the cloth and the moon stays clipped. Max sets his ticket at the foot in 040. Dan holds the stick through the end of 040.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–3.44s · MAYA 3.54–4.69s · MAX 4.79–6.48s · MAYA 6.58–8.27s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAX:** Can you hear me from there?
@@ -960,6 +1043,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.49s · DAN 2.59–3.41s · MAX 3.51–6.59s · DAN 6.69–8.27s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **MAX:** Could I move him and talk?
 
@@ -971,6 +1056,7 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 <a name="shot-041"></a>
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_041 | 00:06:40–00:06:50 | Changing hands
 
 **Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
@@ -983,6 +1069,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** Max takes the stick in 041 and operates from the window side. The mouse exits audience-left. The yellow ticket stays by the screen foot.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.13s · MAX 1.23–2.63s · DAN 2.73–5.01s · MAX 5.11–8.27s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **DAN:** Got him?
@@ -1007,6 +1095,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** Max takes the stick in 041 and operates from the window side. The mouse exits audience-left. The yellow ticket stays by the screen foot.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.74s · LEO 2.84–4.17s · MAX 4.27–5.17s · LEO 5.27–8.27s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAX:** How much room do I have?
@@ -1033,6 +1123,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–1.91s · ELLA 2.01–3.75s · NINA 3.85–5.59s · ELLA 5.69–8.27s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **NINA:** There goes his nose.
 
@@ -1056,6 +1148,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** Max takes the stick in 041 and operates from the window side. The mouse exits audience-left. The yellow ticket stays by the screen foot.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.61s · DAN 2.71–4.37s · MAX 4.47–6.51s · DAN 6.61–8.27s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAX:** I can't see where I've gone.
@@ -1081,6 +1175,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.45s · MAX 2.55–3.51s · ELLA 3.61–5.89s · MAX 5.99–8.27s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **ELLA:** A little to your left.
 
@@ -1104,6 +1200,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** The front view defines audience-left and audience-right. The fixed crescent high right is a landmark for both actors. Pip stays at blue.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.11s · ELLA 2.22–3.41s · MAX 3.51–5.47s · DAN 5.57–8.27s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **DAN:** Whose left are we using?
@@ -1129,6 +1227,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.82s · MAX 1.92–3.97s · LEO 4.07–5.72s · MAX 5.82–8.27s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **ELLA:** Toward the moon, Max.
 
@@ -1153,6 +1253,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–2.74s · MAX 2.83–4.41s · NINA 4.51–6.09s · MAX 6.19–8.27s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **NINA:** Any room for that giant?
 
@@ -1164,6 +1266,7 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 <a name="shot-049"></a>
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_049 | 00:08:00–00:08:10 | One knock too soon
 
 **Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
@@ -1176,6 +1279,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** One exploratory knuckle tap in 049. Pip makes two soft knocks with his existing stick in 051. Nina collects the one ticket in 052.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–3.68s · MAX 3.78–5.02s · ELLA 5.12–6.36s · MAX 6.46–8.27s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **LEO:** You'll hear this when it's time.
@@ -1201,6 +1306,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–2.63s · LEO 2.73–4.51s · MAX 4.61–7.07s · MAYA 7.17–8.27s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **MAYA:** I thought somebody was at the door.
 
@@ -1225,6 +1332,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.61s · ELLA 2.71–5.15s · MAX 5.25–6.91s · ELLA 7.01–8.27s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **MAX:** What does that sound like now?
 
@@ -1248,6 +1357,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** One exploratory knuckle tap in 049. Pip makes two soft knocks with his existing stick in 051. Nina collects the one ticket in 052.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.74s · ELLA 2.84–4.17s · MAX 4.27–6.84s · NINA 6.94–8.27s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAX:** After I knock, wait for me.
@@ -1274,6 +1385,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–2.74s · DAN 2.84–4.59s · LEO 4.69–6.43s · DAN 6.53–8.27s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **MAYA:** Shall we give them an entrance?
 
@@ -1297,6 +1410,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** The screen stays lit in the guest room. Leo receives the folded ticket in the entry and gives it back to Nina at the guest-room door.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.74s · DAN 2.84–4.59s · MAYA 4.69–6.43s · DAN 6.53–8.27s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **LEO:** One ticket for the whole family.
@@ -1322,6 +1437,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–2.38s · DAN 2.48–4.17s · LEO 4.27–5.95s · MAYA 6.05–8.27s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **MAYA:** Any cheese to declare?
 
@@ -1346,6 +1463,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–2.11s · LEO 2.22–4.92s · DAN 5.02–6.21s · MAYA 6.31–8.27s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **NINA:** May I see your ticket?
 
@@ -1357,6 +1476,7 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 <a name="shot-057"></a>
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_057 | 00:09:20–00:09:30 | Once, down here
 
 **Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
@@ -1369,6 +1489,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** Four listeners face the screen. Ella voices the moon and Max operates and voices Pip. Dan is in the audience. Two soft wood taps in 058.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–3.19s · NINA 3.29–4.33s · MAX 4.43–6.79s · DAN 6.89–8.27s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAX:** Once there was a mouse who lived down here.
@@ -1393,6 +1515,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** Four listeners face the screen. Ella voices the moon and Max operates and voices Pip. Dan is in the audience. Two soft wood taps in 058.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.75s · ELLA 1.85–4.41s · MAX 4.51–6.09s · LEO 6.19–8.27s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAX:** Is anybody home?
@@ -1419,6 +1543,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–3.28s · MAX 3.39–4.12s · ELLA 4.22–5.81s · MAX 5.91–8.27s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **ELLA:** If you brought crackers, you can go home.
 
@@ -1442,6 +1568,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** Four listeners face the screen. Ella voices the moon and Max operates and voices Pip. Dan is in the audience. Two soft wood taps in 058.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.48s · NINA 2.58–3.44s · MAX 3.54–6.30s · DAN 6.40–8.27s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAX:** I didn't bring any crackers.
@@ -1467,6 +1595,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.82s · ELLA 1.92–3.97s · MAX 4.07–5.33s · ELLA 5.43–8.27s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **MAX:** Could I come up?
 
@@ -1491,6 +1621,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.11s · ELLA 2.22–4.17s · MAX 4.27–6.21s · NINA 6.31–8.27s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **MAX:** Would you meet me halfway?
 
@@ -1514,6 +1646,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** Max keeps Pip at blue for a small shadow. Ella removes the single clip in 063, leaves it by the foot and holds the crescent against the cloth.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.89s · MAX 2.99–4.39s · ELLA 4.49–5.89s · MAX 5.99–8.27s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **ELLA:** I've never been down this far.
@@ -1540,6 +1674,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.88s · MAYA 1.98–3.02s · LEO 3.12–6.45s · MAYA 6.55–8.27s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **LEO:** Up a little.
 
@@ -1551,6 +1687,7 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 <a name="shot-065"></a>
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_065 | 00:10:40–00:10:50 | The question
 
 **Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
@@ -1563,6 +1700,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** Two small shapes sit together with a sliver of white between them. The wooden clip is on the table. The four listeners wait until Max finishes.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–3.77s · ELLA 3.87–5.27s · MAX 5.37–7.21s · ELLA 7.31–8.27s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAX:** Does anybody ever sit with you up there?
@@ -1587,6 +1726,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** Two small shapes sit together with a sliver of white between them. The wooden clip is on the table. The four listeners wait until Max finishes.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.45s · ELLA 2.55–3.51s · MAX 3.61–5.89s · ELLA 5.99–8.27s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAX:** Would you stay for dinner?
@@ -1613,6 +1754,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.74s · ELLA 2.84–4.59s · MAX 4.69–6.43s · NINA 6.53–8.27s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **MAX:** I saved you the quiet seat.
 
@@ -1638,6 +1781,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.78s · MAYA 2.88–4.09s · MAX 4.19–5.55s · DAN 5.65–8.27s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **LEO:** Is that the end?
 
@@ -1661,6 +1806,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** Max invites Dan back. Handoff in 070. Dan uses orange deliberately for one large bow. Ella holds the unclipped moon away from the big ear.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–3.51s · DAN 3.61–5.10s · ELLA 5.20–7.15s · DAN 7.25–8.27s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAX:** Dad, we saved a job for you.
@@ -1686,6 +1833,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.39s · DAN 2.49–4.71s · MAX 4.81–5.95s · ELLA 6.05–8.27s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **MAX:** One bow. I'll tell you when.
 
@@ -1709,6 +1858,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** Max invites Dan back. Handoff in 070. Dan uses orange deliberately for one large bow. Ella holds the unclipped moon away from the big ear.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.19s · NINA 1.29–2.30s · MAX 2.40–5.29s · DAN 5.39–8.27s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAX:** Excuse me.
@@ -1734,6 +1885,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.49s · DAN 1.59–3.33s · MAX 3.43–5.59s · ELLA 5.69–8.27s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **ELLA:** Watch his nose.
 
@@ -1745,6 +1898,7 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 <a name="shot-073"></a>
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_073 | 00:12:00–00:12:10 | The room comes back
 
 **Clip:** 10 seconds, 16:9. Use the named panel for the composition. Match the original family designs in W01. Let the action continue through the natural American-English dialogue.
@@ -1757,6 +1911,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** Light goes off in 073. Leo lifts both marks, Max gathers them with the peg. Max gets the ticket in 074 and the mouse in 075. Maya carries the mug in 076.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.49s · ELLA 2.59–4.92s · NINA 5.02–6.21s · DAN 6.31–8.27s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **DAN:** That's all there was to him?
@@ -1782,6 +1938,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–3.01s · MAX 3.11–3.97s · NINA 4.07–6.12s · MAX 6.22–8.27s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **LEO:** Can you get the last little corner?
 
@@ -1805,6 +1963,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** Light goes off in 073. Leo lifts both marks, Max gathers them with the peg. Max gets the ticket in 074 and the mouse in 075. Maya carries the mug in 076.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.75s · MAX 2.85–4.35s · DAN 4.45–6.67s · MAX 6.77–8.27s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **DAN:** Shall I tell Rose about the giant?
@@ -1830,6 +1990,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.74s · MAX 1.84–3.41s · MAYA 3.51–4.71s · DAN 4.81–8.27s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **DAN:** I know that nose.
 
@@ -1853,6 +2015,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** Fixed family seats. One mug, one mouse, one crescent, one yellow ticket. Max opens the ticket in 078. His final answer comes before a quiet hold.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.21s · MAYA 2.31–3.97s · DAN 4.07–6.12s · MAX 6.22–8.27s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **ELLA:** Where should the moon sit?
@@ -1878,6 +2042,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.67s · MAX 1.77–3.27s · LEO 3.37–7.38s · NINA 7.48–8.27s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **LEO:** I liked the burp.
 
@@ -1902,6 +2068,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.74s · MAX 2.84–4.17s · DAN 4.27–6.84s · NINA 6.94–8.27s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **DAN:** Hey, Pip. Come a little closer.
 
@@ -1925,6 +2093,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** Fixed family seats. One mug, one mouse, one crescent, one yellow ticket. Max opens the ticket in 078. His final answer comes before a quiet hold.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.62s · MAX 2.72–5.17s · ELLA 5.27–7.25s · MAX 7.35–8.27s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **DAN:** Coffee for the little gentleman?

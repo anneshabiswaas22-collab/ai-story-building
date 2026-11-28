@@ -21,6 +21,7 @@ Use the unchanged [cast previews](../ref/characters/), [continuity ledger (histo
 
 Legacy sync scripts and subtitle files are not included in this production layout. Retiming must be checked against recorded dialogue before assembly.
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_001 | 00:00:00–00:00:10 | A small garden plan
 
 **Characters:** DAN, MAYA, NINA. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
@@ -32,6 +33,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Same W01 wardrobe and kitchen; no harvested food or new plant growth.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–2.83s · DAN 2.93–4.02s · NINA 4.11–6.25s · DAN 6.35–9.53s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAYA:** A small garden today. Mint, basil, and a few radishes.
@@ -54,6 +57,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.69s · DAN 1.79–3.89s · ELLA 3.99–5.81s · MAX 5.91–8.89s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **MAX:** Mint? Are we growing money?
 
@@ -74,6 +79,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** No coin enters a pot; no claim money can grow.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–3.07s · MAX 3.17–4.37s · DAN 4.47–6.53s · MAX 6.63–9.53s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAYA:** This mint is an herb. The other mint makes coins.
@@ -96,6 +103,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–2.91s · LEO 3.01–4.13s · ELLA 4.23–6.16s · NINA 6.26–9.53s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **NINA:** Mint left, basil in the middle, radishes on the right.
 
@@ -116,6 +125,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Ben is Dan’s brother and a brief supporting visitor; not a seventh family member.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.27s · LEO 2.37–3.01s · MAYA 3.11–6.10s · DAN 6.20–9.19s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **DAN:** My brother Ben is bringing the pots.
@@ -138,6 +149,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.69s · MAX 1.79–3.60s · NINA 3.70–5.22s · MAX 5.32–8.60s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **ELLA:** Labels and gloves are ready.
 
@@ -158,6 +171,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** The later 100 mL garden measure is a dedicated marked garden cup, never a drinking cup.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.65s · MAYA 1.75–4.66s · MAX 4.76–6.53s · DAN 6.63–9.53s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **DAN:** I will bring their drink.
@@ -180,6 +195,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–3.45s · DAN 3.55–5.65s · LEO 5.75–7.57s · MAYA 7.67–9.19s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **NINA:** Stay on the clear path with your hands free of soil.
 
@@ -189,6 +206,7 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **MAYA:** Look ahead. There's our bench.
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_009 | 00:01:20–00:01:30 | Uncle Ben brings empty homes
 
 **Characters:** BEN, DAN, MAYA. **Location:** GARDEN_PATH. **Wardrobe:** W01 only.
@@ -200,6 +218,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** BEN cameo begins; provisional olive overshirt/cream tee/brown trousers/beard design. Three pots only.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): BEN 0.17–1.69s · DAN 1.79–3.89s · MAYA 3.99–6.10s · BEN 6.20–9.19s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **BEN:** Three empty homes, as promised.
@@ -222,6 +242,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.51s · BEN 2.61–4.09s · NINA 4.19–5.95s · LEO 6.05–9.53s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **LEO:** Three pots and three saucers. Nothing growing yet.
 
@@ -242,6 +264,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** A joke about mint never becomes a magical money plant; Ben does not solve the planting task.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.98s · BEN 2.08–4.19s · DAN 4.29–5.81s · MAX 5.91–8.89s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAX:** We nearly ordered a money plant.
@@ -264,6 +288,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): BEN 0.17–2.10s · DAN 2.20–3.86s · MAYA 3.96–6.16s · MAX 6.26–9.53s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **BEN:** Enjoy your garden. Label first, guess later.
 
@@ -284,6 +310,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Adults lift heavy terracotta; no pot is broken or dropped.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.27s · MAYA 2.37–4.19s · DAN 4.29–6.39s · ELLA 6.49–9.48s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **ELLA:** There is a hole in the bottom.
@@ -306,6 +334,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.98s · DAN 2.08–3.31s · NINA 3.41–6.69s · DAN 6.79–9.19s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **LEO:** Five hundred milliliters in the can.
 
@@ -326,6 +356,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Seedling foliage exists before planting; radish pot must stay bare until a later real day.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.65s · MAYA 1.75–4.37s · NINA 4.47–6.24s · MAX 6.34–9.53s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAX:** Those two already have leaves.
@@ -348,6 +380,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.87s · ELLA 1.97–3.67s · LEO 3.77–5.15s · DAN 5.25–8.27s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **DAN:** Tools here. Clear path there.
 
@@ -357,6 +391,7 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **DAN:** Understood. Even ambitious gardeners carry their tools down low.
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_017 | 00:02:40–00:02:50 | Saucers under empty pots
 
 **Characters:** MAYA, NINA, ELLA. **Location:** POTTING_BENCH. **Wardrobe:** W01 only.
@@ -368,6 +403,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Saucers catch drainage, not permanent pools; their final empty state will be shown.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.71s · NINA 2.81–4.52s · MAYA 4.62–6.61s · ELLA 6.71–9.53s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **ELLA:** Left for mint, middle for basil, right for radishes.
@@ -390,6 +427,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.39s · LEO 1.49–3.89s · DAN 3.99–5.81s · MAX 5.91–8.89s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **MAX:** Can my coin help?
 
@@ -410,6 +449,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Hands kept away from mouths; no dust play, tasting, fertilizer or pesticide.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–1.98s · MAYA 2.08–4.19s · DAN 4.29–7.27s · LEO 7.37–9.48s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **NINA:** Gloves on, hands away from mouths.
@@ -432,6 +473,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.93s · NINA 2.03–4.09s · MAYA 4.19–6.24s · NINA 6.34–9.53s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **LEO:** It is already a little damp.
 
@@ -452,6 +495,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** One work ellipsis, no instant soil teleport; no fourth pot.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.69s · MAYA 1.79–3.89s · DAN 3.99–6.39s · ELLA 6.49–9.19s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **ELLA:** Leave room at the top?
@@ -474,6 +519,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.60s · NINA 1.70–4.25s · MAX 4.35–6.89s · DAN 6.99–9.53s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **DAN:** One generous drink for everyone?
 
@@ -494,6 +541,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** No tasting plants, soil or seeds; gardening and food preparation remain separate.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.98s · MAYA 2.08–3.89s · ELLA 3.99–6.10s · MAX 6.20–9.48s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAX:** It looks much greener than money.
@@ -516,6 +565,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.98s · DAN 2.08–3.89s · MAYA 3.99–6.10s · DAN 6.20–9.48s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **LEO:** The tag says mint. Left pot.
 
@@ -525,6 +576,7 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **DAN:** And a better start than planting a coin in that pot.
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_025 | 00:04:00–00:04:10 | A small root ball
 
 **Characters:** MAYA, ELLA, DAN. **Location:** POTTING_BENCH. **Wardrobe:** W01 only.
@@ -536,6 +588,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Only adults release root balls; do not turn mint into bare seeds or duplicate a plant.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.86s · MAYA 2.96–4.19s · DAN 4.29–6.39s · ELLA 6.49–9.48s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **ELLA:** You are holding the roots, not tugging the leaves.
@@ -558,6 +612,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.39s · NINA 1.49–2.72s · MAYA 2.82–4.93s · MAX 5.03–8.31s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **MAX:** It has moved house.
 
@@ -578,6 +634,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** No hard tamping; keep stem at original planting depth and foliage intact.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.87s · MAYA 1.97–4.00s · LEO 4.10–5.15s · ELLA 5.25–8.27s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **ELLA:** Like tucking in a blanket?
@@ -600,6 +658,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.63s · MAX 2.73–5.20s · NINA 5.31–6.43s · MAX 6.53–9.53s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **DAN:** One empty nursery pot, ready to use another day.
 
@@ -620,6 +680,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Basil and mint are distinct existing seedlings; no edible sampling.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.39s · NINA 1.49–3.31s · LEO 3.41–5.22s · ELLA 5.32–8.31s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **ELLA:** The leaves look different.
@@ -642,6 +704,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.21s · NINA 1.31–3.01s · DAN 3.11–4.82s · MAX 4.92–8.27s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **MAX:** Another moving day.
 
@@ -662,6 +726,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** One mint and one basil only; two empty nursery containers now in crate.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–1.39s · MAYA 1.49–3.60s · ELLA 3.70–5.81s · MAYA 5.91–9.48s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **NINA:** Basil in the middle.
@@ -684,6 +750,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.93s · NINA 2.03–4.09s · DAN 4.19–6.24s · LEO 6.34–9.53s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **LEO:** Not too tight around the stem.
 
@@ -693,6 +761,7 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **LEO:** I think that stem would vote for a little elbow room.
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_033 | 00:05:20–00:05:30 | Two plants, two names
 
 **Characters:** MAYA, MAX, ELLA. **Location:** POTTING_BENCH. **Wardrobe:** W01 only.
@@ -704,6 +773,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** The question serves the family’s planting task, no viewer repetition or quiz overlay.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.98s · MAX 2.08–5.07s · ELLA 5.17–7.27s · MAX 7.37–9.19s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAYA:** Which plant is in the middle?
@@ -726,6 +797,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.74s · MAYA 1.84–3.41s · LEO 3.51–5.08s · DAN 5.18–8.27s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **DAN:** This pot looks rather empty.
 
@@ -746,6 +819,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Stock packet is not additional sown inventory; no seeds eaten or spilled.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.56s · MAYA 1.66–3.59s · LEO 3.69–6.16s · ELLA 6.26–9.53s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **ELLA:** Three seeds for this pot.
@@ -768,6 +843,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.27s · NINA 2.37–4.77s · DAN 4.87–6.10s · LEO 6.20–9.19s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **LEO:** Space between them, and not too deep.
 
@@ -788,6 +865,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Seed count in soil 1; packet remains shut; no sprout appears.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.49s · MAX 1.59–2.59s · MAYA 2.69–4.95s · MAX 5.05–8.27s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **LEO:** One in the back.
@@ -810,6 +889,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.43s · DAN 1.53–2.80s · NINA 2.90–4.78s · ELLA 4.88–8.27s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **ELLA:** One for this space.
 
@@ -830,6 +911,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Max uses no sharp tool and does not bring gloves near mouth.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.69s · LEO 1.79–3.31s · MAYA 3.41–5.51s · LEO 5.61–8.89s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAX:** The last neighbor has arrived.
@@ -852,6 +935,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.39s · NINA 1.49–3.31s · ELLA 3.41–6.10s · MAX 6.20–7.43s · NINA 7.53–9.34s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **MAX:** Where are the radishes?
 
@@ -863,6 +948,7 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **NINA:** Save room for that first shoot.
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_041 | 00:06:40–00:06:50 | Write before you stick
 
 **Characters:** LEO, ELLA, DAN. **Location:** POTTING_BENCH. **Wardrobe:** W01 only.
@@ -874,6 +960,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Exact words from PLANT_LABELS.svg; paper coin never substitutes for a buried marker.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.57s · ELLA 2.67–3.89s · LEO 3.99–6.10s · DAN 6.20–9.19s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **DAN:** Label first, guess later. Ben had a point.
@@ -896,6 +984,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.39s · MAYA 1.49–3.31s · DAN 3.41–5.51s · MAX 5.61–8.60s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **MAX:** Mint. The leafy kind.
 
@@ -916,6 +1006,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Nursery tags kept as reference, not extra planted stakes.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.39s · NINA 1.49–2.72s · LEO 2.82–4.93s · ELLA 5.03–8.60s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **ELLA:** Basil in the middle.
@@ -938,6 +1030,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.27s · LEO 2.37–3.01s · MAYA 3.11–5.51s · MAX 5.61–8.89s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **MAX:** The name is taller than the plant.
 
@@ -958,6 +1052,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** No invented growth measurement or later-day entry; readable journal text comes from GROWTH_JOURNAL.svg.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.27s · DAN 2.37–4.48s · NINA 4.58–6.69s · DAN 6.79–9.48s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **LEO:** Day one: planted. No radish shoots yet.
@@ -980,6 +1076,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.10s · MAYA 2.20–4.67s · MAX 4.77–6.69s · DAN 6.79–9.53s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **DAN:** Perhaps the mint wants the whole can.
 
@@ -1000,6 +1098,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Transferred water counted once; water cup is dedicated garden equipment, never drinking glass.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–2.57s · DAN 2.67–3.89s · ELLA 3.99–6.10s · DAN 6.20–9.48s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **NINA:** Start with one small measured amount, then observe.
@@ -1022,6 +1122,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.98s · MAX 2.08–3.01s · NINA 3.11–5.22s · MAX 5.32–8.89s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **DAN:** A small drink, around the roots.
 
@@ -1031,6 +1133,7 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **MAX:** I can wait. The water doesn't need my help to sink in.
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_049 | 00:08:00–00:08:10 | Wait for the water
 
 **Characters:** MAYA, ELLA, DAN. **Location:** POTTING_BENCH. **Wardrobe:** W01 only.
@@ -1042,6 +1145,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Drainage is not a new water source; do not refill pot just because the shot changes.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.88s · MAYA 1.98–4.52s · DAN 4.62–6.33s · MAYA 6.43–9.53s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **ELLA:** A little came through the bottom.
@@ -1064,6 +1169,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–3.07s · DAN 3.17–5.51s · NINA 5.61–7.67s · DAN 7.77–9.53s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **LEO:** Three hundred in the can, one hundred in the cup.
 
@@ -1084,6 +1191,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** One watering per pot; do not pour onto leaves or create a second basil.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.56s · NINA 1.66–3.32s · MAYA 3.42–6.43s · ELLA 6.53–9.53s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **ELLA:** Same small measure, different plant.
@@ -1106,6 +1215,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.43s · MAYA 2.53–5.08s · LEO 5.18–6.89s · MAX 6.99–9.53s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **MAX:** Do all pots want the same drink forever?
 
@@ -1126,6 +1237,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** This is the third and final draw; no additional tap filling.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.27s · MAYA 2.37–5.07s · MAX 5.17–6.69s · DAN 6.79–9.48s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **DAN:** One hundred for the seed pot, gently.
@@ -1148,6 +1261,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.07s · MAYA 1.17–3.80s · ELLA 3.90–5.95s · MAX 6.05–9.53s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **MAX:** Nothing green yet.
 
@@ -1168,6 +1283,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** No standing-water maintenance implied; adult will empty drainage saucers before final placement.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.91s · NINA 3.01–4.67s · LEO 4.77–6.69s · DAN 6.79–9.53s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **DAN:** Two hundred left. I do not have to spend it.
@@ -1190,6 +1307,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.98s · ELLA 2.08–3.01s · NINA 3.11–6.10s · ELLA 6.20–9.19s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **LEO:** Three hundred used. Two hundred left.
 
@@ -1199,6 +1318,7 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **ELLA:** I'll write the amount we used, so we remember today.
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_057 | 00:09:20–00:09:30 | Drainage is not a bath
 
 **Characters:** MAYA, DAN, MAX. **Location:** POTTING_BENCH. **Wardrobe:** W01 only.
@@ -1210,6 +1330,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Adults lift terracotta; water remainder still 200 mL in can; waste drainage does not refill it.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.69s · MAYA 1.79–3.89s · DAN 3.99–5.81s · MAX 5.91–8.60s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAX:** No pools under the houses.
@@ -1232,6 +1354,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.83s · NINA 1.93–3.59s · MAYA 3.69–6.69s · ELLA 6.79–9.53s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **ELLA:** The tree makes shade over there.
 
@@ -1252,6 +1376,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Adults carry pots; no duplicated mint left on bench or extra saucer.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.39s · LEO 1.49–3.01s · MAYA 3.11–4.93s · DAN 5.03–8.60s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **DAN:** Left pot, left place.
@@ -1274,6 +1400,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.69s · MAX 1.79–3.31s · NINA 3.41–6.10s · ELLA 6.20–9.48s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **ELLA:** Basil in the middle again.
 
@@ -1294,6 +1422,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** No fourth pot, extra seed tray or radish leaf; all labels face the same path.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.39s · DAN 1.49–3.60s · MAYA 3.70–6.39s · DAN 6.49–9.48s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **LEO:** Radishes on the right.
@@ -1316,6 +1446,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.57s · LEO 2.67–4.77s · NINA 4.87–6.69s · ELLA 6.79–8.89s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **ELLA:** Two leafy plants and one pot of waiting.
 
@@ -1336,6 +1468,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** No seeds or soil carried into kitchen; no extra watering; can 200 mL by bench.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.57s · MAYA 2.67–5.07s · DAN 5.17–7.27s · MAX 7.37–9.48s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAX:** Can the seeds stay out of the rain?
@@ -1358,6 +1492,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.98s · DAN 2.08–3.60s · NINA 3.70–6.10s · DAN 6.20–9.48s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **LEO:** Two hundred saved, not secretly added.
 
@@ -1367,6 +1503,7 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **DAN:** Good. Tomorrow the soil can tell us what to do next.
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_065 | 00:10:40–00:10:50 | Gloves off the right way
 
 **Characters:** MAYA, NINA, ELLA. **Location:** GARDEN_PATH. **Wardrobe:** W01 only.
@@ -1378,6 +1515,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Removal does not replace handwashing; dirty gloves remain outside.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.29s · MAYA 1.39–3.05s · NINA 3.15–6.43s · ELLA 6.53–9.53s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **ELLA:** Gloves stay out here.
@@ -1400,6 +1539,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.98s · MAX 2.08–3.31s · NINA 3.41–5.51s · LEO 5.61–8.89s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **DAN:** Before a snack, a proper wash.
 
@@ -1420,6 +1561,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** No dirty garden measure reused as a cup; no sudden harvest on the island.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.39s · ELLA 1.49–3.89s · MAYA 3.99–5.81s · ELLA 5.91–8.89s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **LEO:** Day one is complete.
@@ -1442,6 +1585,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.15s · NINA 2.25–4.52s · DAN 4.62–6.61s · MAX 6.71–9.53s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **MAX:** Will the radishes be ready after lunch?
 
@@ -1462,6 +1607,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** No audience countdown, practice slot or fast-growth montage.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.10s · LEO 2.20–3.86s · MAYA 3.96–6.69s · ELLA 6.79–9.53s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **ELLA:** I will leave room for what changes.
@@ -1484,6 +1631,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.86s · MAX 2.96–3.89s · MAYA 3.99–5.22s · DAN 5.32–8.89s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **DAN:** Your paper coin grew into a very good joke.
 
@@ -1504,6 +1653,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Same morning light; brief return is observation only, no second planting or watering.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–1.98s · DAN 2.08–3.89s · LEO 3.99–5.81s · MAX 5.91–8.89s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **NINA:** A last look from the path.
@@ -1526,6 +1677,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.65s · MAYA 1.75–4.09s · NINA 4.19–6.24s · DAN 6.34–9.53s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **DAN:** I nearly wanted a forest.
 
@@ -1535,6 +1688,7 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **DAN:** And I already know all three of these neighbors by name.
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_073 | 00:12:00–00:12:10 | The quiet pot has company
 
 **Characters:** MAX, ELLA, LEO. **Location:** GARDEN_POTS. **Wardrobe:** W01 only.
@@ -1546,6 +1700,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Personification is a family joke, not talking or sentient plants.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.93s · ELLA 2.03–3.80s · LEO 3.90–6.53s · ELLA 6.63–9.53s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAX:** We will visit again, tiny neighbors.
@@ -1568,6 +1724,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.99s · NINA 3.09–4.80s · MAX 4.90–6.33s · DAN 6.43–9.53s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **DAN:** I wanted to be helpful. Checking helped more than pouring.
 
@@ -1588,6 +1746,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Each child contributed practical work; adults retain equal active roles.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–2.57s · ELLA 2.67–5.07s · LEO 5.17–6.69s · MAYA 6.79–9.48s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAYA:** Labels, a drawing, a water record. Everyone helped.
@@ -1610,6 +1770,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.83s · MAYA 2.93–4.54s · NINA 4.64–6.77s · DAN 6.87–9.53s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **DAN:** We can tell everyone about our garden at the gathering.
 
@@ -1630,6 +1792,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Small ambition payoff replaces size contest; no repeated Episode02 shopping mechanics.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.57s · DAN 2.67–3.60s · ELLA 3.70–6.39s · MAX 6.49–9.48s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAX:** Our garden is not bigger than the house.
@@ -1652,6 +1816,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.27s · DAN 2.37–3.60s · NINA 3.70–5.51s · LEO 5.61–8.60s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **LEO:** Herbs upright. Radish soil bare. Saucers empty.
 
@@ -1673,6 +1839,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.27s · MAYA 2.37–3.89s · MAX 3.99–6.10s · ELLA 6.20–9.48s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **DAN:** Three pots, six helpers, one better plan.
 
@@ -1693,6 +1861,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Creator practice can follow separately after story; all six retain original W01 faces/clothes.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–2.58s · DAN 2.67–3.25s · MAX 3.35–4.58s · MAYA 4.68–8.27s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **NINA:** We will come back and see what changes.

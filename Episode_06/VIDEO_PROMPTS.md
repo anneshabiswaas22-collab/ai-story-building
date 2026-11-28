@@ -18,6 +18,7 @@ Use the unchanged [cast previews](../ref/characters/), [continuity ledger (histo
 
 Legacy sync scripts and subtitle files are not included in this production layout. Retiming must be checked against recorded dialogue before assembly.
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_001 | 00:00:00–00:00:10 | A dinner invitation
 
 **Characters:** DAN, MAYA, NINA. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
@@ -29,6 +30,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Original kitchen geography and six-person W01 cast. No restaurant food or utensils appear at home.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–2.71s · NINA 2.81–4.52s · DAN 4.62–6.61s · MAYA 6.71–9.53s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAYA:** We have time for dinner at the neighborhood restaurant.
@@ -51,6 +54,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.98s · ELLA 2.08–3.89s · NINA 3.99–6.10s · MAX 6.20–9.19s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **LEO:** Can we look at a menu?
 
@@ -71,6 +76,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Original kitchen geography and six-person W01 cast. No restaurant food or utensils appear at home.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.27s · MAYA 2.37–3.89s · DAN 3.99–5.81s · MAYA 5.91–8.60s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **DAN:** Esteemed keeper of dinner, we humbly request—
@@ -93,6 +100,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.69s · NINA 1.79–5.07s · DAN 5.17–6.69s · MAX 6.79–9.48s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **MAX:** Will everything be too hot?
 
@@ -113,6 +122,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Original kitchen geography and six-person W01 cast. No restaurant food or utensils appear at home.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–2.51s · LEO 2.61–4.66s · DAN 4.76–6.53s · LEO 6.63–9.53s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAYA:** Eighty dollars for the meal, tax, and tip.
@@ -135,6 +146,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.27s · ELLA 2.37–4.48s · MAYA 4.58–6.10s · DAN 6.20–9.48s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **DAN:** Perhaps a dessert taller than this kitchen—
 
@@ -155,6 +168,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Original kitchen geography and six-person W01 cast. No restaurant food or utensils appear at home.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.39s · ELLA 1.49–3.60s · NINA 3.70–6.10s · MAX 6.20–9.19s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **LEO:** I can check prices.
@@ -177,6 +192,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.80s · MAYA 1.90–2.59s · DAN 2.69–5.59s · NINA 5.69–8.27s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **DAN:** I have shortened my speech.
 
@@ -186,6 +203,7 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **NINA:** Let's see if dinner fits through with you.
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_009 | 00:01:20–00:01:30 | A welcoming doorway
 
 **Characters:** DAN, MAYA, NINA, LEO, ELLA, MAX. **Location:** RESTAURANT_ENTRANCE. **Wardrobe:** W01 only.
@@ -197,6 +215,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. No food ordered before the choices and clarification.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–0.89s · MAYA 0.99–2.69s · MAX 2.79–5.15s · LEO 5.25–8.27s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **DAN:** Good evening.
@@ -220,6 +240,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.57s · SERVER 2.67–5.07s · NINA 5.17–5.81s · DAN 5.91–8.89s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **DAN:** Could we have a table for six, please?
 
@@ -241,6 +263,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–2.57s · ELLA 2.67–4.48s · MAX 4.58–5.81s · LEO 5.91–8.89s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **MAYA:** Stay beside me. This aisle is for everyone.
 
@@ -261,6 +285,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. No food ordered before the choices and clarification.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.39s · ELLA 1.49–3.01s · DAN 3.11–5.81s · NINA 5.91–8.60s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **LEO:** Three on this side.
@@ -284,6 +310,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): SERVER 0.17–2.53s · MAYA 2.63–3.35s · NINA 3.45–4.82s · DAN 4.92–8.27s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **SERVER:** Here are your menus. Take your time.
 
@@ -304,6 +332,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. No food ordered before the choices and clarification.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.57s · NINA 2.67–4.77s · LEO 4.87–6.69s · MAX 6.79–9.48s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAX:** Do I have to read the whole book?
@@ -327,6 +357,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.69s · SERVER 1.79–3.60s · DAN 3.70–6.10s · MAX 6.20–8.89s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **MAX:** Could we have water, please?
 
@@ -349,6 +381,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): SERVER 0.17–2.11s · MAYA 2.22–2.91s · MAX 3.01–5.27s · NINA 5.37–8.27s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **SERVER:** Your water. There is no charge.
 
@@ -358,6 +392,7 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **NINA:** Leave it there, Max. There's room beside your menu.
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_017 | 00:02:40–00:02:50 | A menu has neighborhoods
 
 **Characters:** LEO, ELLA, DAN. **Location:** RESTAURANT_TABLE. **Wardrobe:** W01 only.
@@ -369,6 +404,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. One draft becomes one ticket; soup is corrected before cooking.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.39s · ELLA 1.49–3.60s · DAN 3.70–6.39s · ELLA 6.49–9.19s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **LEO:** Appetizers, main courses, desserts.
@@ -391,6 +428,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–2.27s · ELLA 2.37–3.89s · MAYA 3.99–6.10s · NINA 6.20–8.89s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **MAYA:** The vegetable pasta sounds good. Twelve dollars.
 
@@ -412,6 +451,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–1.98s · DAN 2.08–4.19s · NINA 4.29–5.51s · DAN 5.61–8.31s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **NINA:** Grilled chicken with rice for me.
 
@@ -432,6 +473,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. One draft becomes one ticket; soup is corrected before cooking.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.93s · MAYA 2.03–3.80s · DAN 3.90–6.53s · LEO 6.63–9.53s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **LEO:** I would like the cheese sandwich.
@@ -455,6 +498,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.27s · SERVER 2.37–3.89s · ELLA 3.99–5.81s · NINA 5.91–9.19s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **ELLA:** Does the baked potato include the vegetables?
 
@@ -476,6 +521,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.15s · NINA 2.25–3.69s · MAX 3.79–6.61s · LEO 6.71–9.53s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **MAX:** There is a smaller chicken and rice.
 
@@ -496,6 +543,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. One draft becomes one ticket; soup is corrected before cooking.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.27s · MAYA 2.37–4.48s · DAN 4.58–5.81s · LEO 5.91–8.60s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **DAN:** The tomato soup looks right for me.
@@ -519,6 +568,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.22s · SERVER 2.32–4.94s · MAX 5.04–6.81s · NINA 6.91–9.53s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **DAN:** I would like the soup hot, please.
 
@@ -528,6 +579,7 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **NINA:** Listen to the question, Dan. Which did you mean?
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_025 | 00:04:00–00:04:10 | The little pepper picture
 
 **Characters:** DAN, LEO, MAYA. **Location:** RESTAURANT_TABLE. **Wardrobe:** W01 only.
@@ -539,6 +591,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. One draft becomes one ticket; soup is corrected before cooking.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.43s · DAN 1.53–3.41s · MAYA 3.51–5.69s · DAN 5.79–8.27s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **LEO:** This pepper means spicy.
@@ -560,6 +614,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. One draft becomes one ticket; soup is corrected before cooking.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.98s · NINA 2.08–3.31s · DAN 3.41–6.10s · MAX 6.20–8.89s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAX:** Should I rescue Dad with water?
@@ -583,6 +639,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.27s · SERVER 2.37–3.60s · NINA 3.70–5.81s · DAN 5.91–8.89s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **DAN:** Mild tomato soup, please. Warm, not extra-hot.
 
@@ -605,6 +663,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.79s · SERVER 2.89–5.23s · LEO 5.33–6.81s · MAYA 6.91–9.53s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **DAN:** Could we change the note before you send it?
 
@@ -625,6 +685,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. One draft becomes one ticket; soup is corrected before cooking.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.88s · NINA 1.98–4.52s · DAN 4.62–6.89s · NINA 6.99–9.53s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAYA:** One meal for each of us.
@@ -647,6 +709,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.98s · MAYA 2.08–3.31s · DAN 3.41–6.39s · LEO 6.49–9.19s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **LEO:** Fifty-eight dollars for the six meals.
 
@@ -667,6 +731,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. One draft becomes one ticket; soup is corrected before cooking.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–2.22s · LEO 2.32–3.80s · DAN 3.90–6.53s · NINA 6.63–9.53s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **NINA:** This menu lists ten percent sales tax.
@@ -689,6 +755,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.98s · NINA 2.08–3.31s · DAN 3.41–5.81s · MAYA 5.91–8.89s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **MAYA:** Let us plan a ten-dollar tip.
 
@@ -698,6 +766,7 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **MAYA:** Good. We can enjoy dinner without guessing at the end.
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_033 | 00:05:20–00:05:30 | Everyone says their own order
 
 **Characters:** LEO, ELLA, MAX. **Location:** RESTAURANT_TABLE. **Wardrobe:** W01 only.
@@ -709,6 +778,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. One draft becomes one ticket; soup is corrected before cooking.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.13s · ELLA 1.23–3.11s · MAX 3.21–5.08s · ELLA 5.18–8.27s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **LEO:** Cheese sandwich, please.
@@ -730,6 +801,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. One draft becomes one ticket; soup is corrected before cooking.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.69s · NINA 1.79–3.31s · DAN 3.41–6.10s · MAYA 6.20–9.19s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAYA:** Vegetable pasta for me, please.
@@ -753,6 +826,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): SERVER 0.17–1.98s · MAYA 2.08–4.48s · NINA 4.58–6.69s · DAN 6.79–9.19s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **SERVER:** Any ingredient restrictions I should flag?
 
@@ -775,6 +850,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): SERVER 0.17–3.15s · DAN 3.25–5.65s · NINA 5.75–7.86s · SERVER 7.96–9.48s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **SERVER:** Six mains, including the mild, warm soup. Sending it now.
 
@@ -795,6 +872,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Cooking takes elapsed story time; table stays empty of meals until service.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.71s · NINA 2.81–4.25s · DAN 4.35–6.33s · MAX 6.43–9.53s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAX:** Does dinner need a quiet minute like pancake batter?
@@ -817,6 +896,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.98s · LEO 2.08–4.48s · MAYA 4.58–5.81s · ELLA 5.91–8.60s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **ELLA:** And now, the very patient fork.
 
@@ -837,6 +918,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Cooking takes elapsed story time; table stays empty of meals until service.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.15s · NINA 2.25–4.25s · DAN 4.35–6.61s · MAX 6.71–9.53s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAX:** Can mild food still be too hot?
@@ -859,6 +942,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.86s · MAYA 2.96–4.19s · ELLA 4.29–6.69s · DAN 6.79–9.48s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **DAN:** I guessed a whole breakfast from one word once.
 
@@ -868,6 +953,7 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **DAN:** One little question is cheaper than another whole dinner.
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_041 | 00:06:40–00:06:50 | An appetizer stays on the menu
 
 **Characters:** LEO, MAX, NINA. **Location:** RESTAURANT_TABLE. **Wardrobe:** W01 only.
@@ -879,6 +965,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Cooking takes elapsed story time; table stays empty of meals until service.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.93s · NINA 2.03–3.51s · LEO 3.61–6.53s · MAX 6.63–9.53s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAX:** Are we missing the appetizer part?
@@ -901,6 +989,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.27s · MAYA 2.37–3.89s · DAN 3.99–6.39s · NINA 6.49–9.19s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **DAN:** I prepared a request for more water.
 
@@ -921,6 +1011,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Cooking takes elapsed story time; table stays empty of meals until service.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–2.27s · ELLA 2.37–3.89s · MAX 3.99–6.10s · ELLA 6.20–9.19s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAYA:** Let us leave room for the server.
@@ -944,6 +1036,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): SERVER 0.17–2.57s · MAYA 2.67–4.19s · NINA 4.29–5.81s · DAN 5.91–8.60s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **SERVER:** Vegetable pasta, and the adult chicken and rice.
 
@@ -964,6 +1058,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Six distinct main dishes decrease only as eaten; mild is not proof of safe temperature.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.10s · ELLA 1.20–3.31s · MAYA 3.41–6.39s · ELLA 6.49–9.19s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **LEO:** My cheese sandwich.
@@ -987,6 +1083,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): SERVER 0.17–2.86s · DAN 2.96–3.60s · NINA 3.70–6.10s · MAX 6.20–8.89s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **SERVER:** Mild tomato soup, and the children's chicken and rice.
 
@@ -1007,6 +1105,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Six distinct main dishes decrease only as eaten; mild is not proof of safe temperature.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.69s · ELLA 1.79–3.31s · MAX 3.41–6.10s · LEO 6.20–8.89s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **DAN:** Six orders, six correct dinners.
@@ -1029,6 +1129,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.93s · NINA 2.03–4.66s · MAX 4.76–6.53s · DAN 6.63–9.53s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **DAN:** I will check a little first.
 
@@ -1038,6 +1140,7 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **DAN:** Good point. Those are two different checks for my soup.
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_049 | 00:08:00–00:08:10 | The soup gets its sentence
 
 **Characters:** DAN, MAYA, LEO. **Location:** RESTAURANT_TABLE. **Wardrobe:** W01 only.
@@ -1049,6 +1152,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Six distinct main dishes decrease only as eaten; mild is not proof of safe temperature.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.69s · DAN 1.79–3.31s · LEO 3.41–6.10s · DAN 6.20–9.19s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAYA:** Is that what you wanted?
@@ -1071,6 +1176,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.69s · MAYA 1.79–2.72s · NINA 2.82–5.51s · ELLA 5.61–8.60s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **ELLA:** The middle needs another moment.
 
@@ -1091,6 +1198,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Six distinct main dishes decrease only as eaten; mild is not proof of safe temperature.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.39s · MAX 1.49–4.19s · NINA 4.29–6.39s · MAX 6.49–9.19s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **DAN:** How is your dinner?
@@ -1113,6 +1222,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.98s · MAYA 2.08–3.60s · ELLA 3.70–6.10s · LEO 6.20–9.19s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **LEO:** I liked saying my own order.
 
@@ -1133,6 +1244,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Six distinct main dishes decrease only as eaten; mild is not proof of safe temperature.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.57s · MAYA 2.67–4.48s · NINA 4.58–6.69s · DAN 6.79–9.48s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **DAN:** The server saved my dinner with one question.
@@ -1155,6 +1268,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.27s · DAN 2.37–5.07s · MAX 5.17–6.39s · ELLA 6.49–8.89s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **ELLA:** Will we ever hear your big speech?
 
@@ -1175,6 +1290,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Six distinct main dishes decrease only as eaten; mild is not proof of safe temperature.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.27s · NINA 2.37–4.19s · MAYA 4.29–6.10s · LEO 6.20–8.89s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **LEO:** The library is open tomorrow, isn't it?
@@ -1197,6 +1314,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.69s · ELLA 1.79–3.31s · NINA 3.41–5.81s · MAX 5.91–8.89s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **MAX:** No rescue needed after all.
 
@@ -1206,6 +1325,7 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **MAX:** Right beside my plate, where my elbow can miss it.
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_057 | 00:09:20–00:09:30 | A pause in the middle
 
 **Characters:** DAN, MAYA, NINA, LEO, ELLA, MAX. **Location:** RESTAURANT_WIDE. **Wardrobe:** W01 only.
@@ -1217,6 +1337,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Six distinct main dishes decrease only as eaten; mild is not proof of safe temperature.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.88s · MAX 1.98–4.52s · NINA 4.62–6.89s · DAN 6.99–9.53s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAYA:** We can take a comfortable pause.
@@ -1240,6 +1362,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–2.27s · SERVER 2.37–2.94s · DAN 3.04–6.03s · MAX 6.13–8.82s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **NINA:** Could we have one takeout box, please?
 
@@ -1262,6 +1386,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): SERVER 0.17–1.17s · NINA 1.27–1.96s · MAX 2.06–4.95s · NINA 5.05–8.27s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **SERVER:** Here you are.
 
@@ -1282,6 +1408,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Exactly one saved portion transfers once into one box; prompt refrigeration at home.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–1.98s · MAX 2.08–3.89s · MAYA 3.99–6.39s · NINA 6.49–9.19s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **NINA:** Your remaining dinner goes in once.
@@ -1304,6 +1432,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–2.86s · DAN 2.96–3.89s · MAX 3.99–6.10s · NINA 6.20–9.19s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **NINA:** We will go straight home and refrigerate this promptly.
 
@@ -1325,6 +1455,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.13s · ELLA 1.23–1.89s · MAYA 1.99–5.38s · ELLA 5.48–8.27s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **LEO:** I am finished.
 
@@ -1345,6 +1477,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Exactly one saved portion transfers once into one box; prompt refrigeration at home.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.57s · MAYA 2.67–3.89s · NINA 3.99–6.39s · DAN 6.49–9.19s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **DAN:** My imaginary tall dessert can stay imaginary tonight.
@@ -1368,6 +1502,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.11s · SERVER 2.22–4.48s · MAYA 4.58–5.27s · NINA 5.37–8.27s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **DAN:** Could we have the check, please?
 
@@ -1377,6 +1513,7 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **NINA:** Let's look it over together when it gets here.
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_065 | 00:10:40–00:10:50 | A clear table keeps one box
 
 **Characters:** MAYA, NINA, DAN. **Location:** RESTAURANT_TABLE. **Wardrobe:** W01 only.
@@ -1389,6 +1526,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Food $58 + tax $5.80 = $63.80; $10 voluntary tip is separate. SERVER is an off-screen voice; only anonymous sleeve-covered hands/forearms may enter.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–1.98s · SERVER 2.08–4.19s · DAN 4.29–5.81s · NINA 5.91–8.60s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **NINA:** This box is coming with us.
@@ -1411,6 +1550,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Food $58 + tax $5.80 = $63.80; $10 voluntary tip is separate. SERVER is an off-screen voice; only anonymous sleeve-covered hands/forearms may enter.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): SERVER 0.17–1.39s · DAN 1.49–2.13s · LEO 2.23–4.05s · DAN 4.15–6.84s · LEO 6.94–9.34s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **SERVER:** Here is your check.
@@ -1435,6 +1576,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.57s · MAYA 2.67–3.89s · DAN 3.99–6.69s · LEO 6.79–9.48s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **LEO:** Six meals. No extra soup, starter, or dessert.
 
@@ -1455,6 +1598,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Food $58 + tax $5.80 = $63.80; $10 voluntary tip is separate.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–1.49s · LEO 1.59–2.27s · DAN 2.37–5.59s · NINA 5.69–8.27s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **NINA:** Fifty-eight plus five eighty.
@@ -1477,6 +1622,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–2.57s · NINA 2.67–3.23s · DAN 3.33–5.73s · MAYA 5.83–9.11s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **MAYA:** Shall we keep the ten-dollar tip we planned?
 
@@ -1497,6 +1644,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. Food $58 + tax $5.80 = $63.80; $10 voluntary tip is separate.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.69s · DAN 1.79–3.89s · MAYA 3.99–5.81s · DAN 5.91–8.60s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAX:** Does your speech pay too?
@@ -1520,6 +1669,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.57s · SERVER 2.67–4.19s · NINA 4.29–6.39s · DAN 6.49–9.48s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **DAN:** Do I pay here or at the counter?
 
@@ -1541,6 +1692,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.69s · MAYA 1.79–3.01s · NINA 3.11–5.51s · MAYA 5.61–8.31s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **DAN:** I will be right back.
 
@@ -1550,6 +1703,7 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **MAYA:** Good. We'll have everything together when you come back.
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_073 | 00:12:00–00:12:10 | Eighty to settle the meal
 
 **Characters:** DAN. **Location:** SERVICE_COUNTER. **Wardrobe:** W01 only.
@@ -1562,6 +1716,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. No extra transaction: $80 - $63.80 = $16.20 change; less $10 tip leaves $6.20. SERVER is an off-screen voice; only anonymous sleeve-covered hands/forearms may enter.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.10s · SERVER 1.20–4.19s · DAN 4.29–6.39s · SERVER 6.49–8.60s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **DAN:** Eighty dollars, please.
@@ -1584,6 +1740,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. No extra transaction: $80 - $63.80 = $16.20 change; less $10 tip leaves $6.20. SERVER is an off-screen voice; only anonymous sleeve-covered hands/forearms may enter.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.27s · SERVER 2.37–3.01s · DAN 3.11–3.75s · SERVER 3.85–7.13s · DAN 7.23–9.05s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **DAN:** Sixteen twenty in change, before the tip.
@@ -1609,6 +1767,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–3.35s · SERVER 3.45–5.06s · DAN 5.16–7.03s · SERVER 7.13–9.53s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **DAN:** This ten dollars is a tip. Thank you for checking my order.
 
@@ -1631,6 +1791,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.57s · SERVER 2.67–4.48s · DAN 4.58–6.69s · SERVER 6.79–8.89s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **DAN:** Receipt, remaining change, and a much smaller speech.
 
@@ -1651,6 +1813,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. No extra transaction: $80 - $63.80 = $16.20 change; less $10 tip leaves $6.20.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–0.85s · NINA 0.95–2.59s · MAX 2.69–4.95s · LEO 5.05–8.27s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **MAYA:** Everyone ready?
@@ -1673,6 +1837,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.69s · DAN 1.79–3.60s · MAYA 3.70–6.39s · DAN 6.49–9.48s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **LEO:** What stayed in the budget?
 
@@ -1694,6 +1860,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.27s · DAN 2.37–4.19s · NINA 4.29–6.39s · MAX 6.49–9.19s.
 
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
+
 **Dialogue:**
 **MAX:** What will your next big speech be?
 
@@ -1714,6 +1882,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** W01 identities and fixed six restaurant places; no unlisted dish, extra diner or new server face. No extra transaction: $80 - $63.80 = $16.20 change; less $10 tip leaves $6.20.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.57s · MAYA 2.67–3.60s · MAX 3.70–5.81s · ELLA 5.91–9.19s.
+
+Only the active speaker lip-syncs; all other characters remain silent but react naturally with smiles, facial emotions, eye contact, and expressive gestures.
 
 **Dialogue:**
 **DAN:** A warm dinner and a very clear evening.
