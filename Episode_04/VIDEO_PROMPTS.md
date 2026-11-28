@@ -19,6 +19,7 @@ Use the unchanged [cast previews](../ref/characters/), [continuity ledger (histo
 
 Legacy sync scripts and subtitle files are not included in this production layout. Retiming must be checked against recorded dialogue before assembly.
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_001 | 00:00:00–00:00:10 | A pair for school
 
 **Characters:** MAYA, DAN, MAX. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
@@ -30,6 +31,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Permanent six original Brooks identities and W01 wardrobes; Dan watch anatomical LEFT, phone/wallet RIGHT. Maya and Nina equally respected. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.69s · DAN 1.79–4.19s · MAX 4.29–5.81s · MAYA 5.91–8.89s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **MAYA:** Max needs comfortable school shoes.
@@ -52,6 +55,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–1.39s · MAX 1.49–3.89s · ELLA 3.99–5.51s · MAX 5.61–8.31s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **NINA:** How should they feel?
 
@@ -72,6 +77,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** US kids size 1 tight and size 3 loose are returned trial stock; neither is bought. Adult size10 brown display shoe remains store stock; Dan never forces a foot into a child shoe. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.98s · DAN 2.08–3.89s · NINA 3.99–6.39s · LEO 6.49–9.19s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **LEO:** One pair, comfortable fit, forty-dollar budget.
@@ -94,6 +101,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.49s · MAX 1.59–3.22s · MAYA 3.32–5.90s · MAX 6.00–8.27s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **DAN:** Do these feel tight?
 
@@ -114,6 +123,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Rose is Maya sister, visible only shots025–030 (60 seconds), a provisional supporting design; she offers orientation clue while family completes task. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–0.85s · ELLA 0.95–2.27s · MAX 2.37–4.95s · DAN 5.05–8.27s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **NINA:** Everyone ready?
@@ -136,6 +147,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.10s · DAN 2.20–4.67s · LEO 4.77–7.23s · DAN 7.33–9.53s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **LEO:** Is the list facing the right way?
 
@@ -156,6 +169,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Store return policy in this fictional story: unworn shoes with receipt within14days; do not imply universal policy. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.69s · NINA 1.79–4.19s · MAX 4.29–5.81s · MAYA 5.91–8.89s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **MAYA:** Tell us if anything pinches.
@@ -178,6 +193,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.27s · ELLA 2.37–3.60s · MAX 3.70–5.51s · LEO 5.61–8.89s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **DAN:** Shoes first, sensible questions along the way.
 
@@ -187,6 +204,7 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **LEO:** Lucky for us. They know how to get to the door.
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_009 | 00:01:20–00:01:30 | Doors and directions
 
 **Characters:** DAN, MAYA, NINA, LEO, ELLA, MAX. **Location:** MALL_ENTRANCE. **Wardrobe:** W01 only.
@@ -198,6 +216,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Permanent six original Brooks identities and W01 wardrobes; Dan watch anatomical LEFT, phone/wallet RIGHT. Maya and Nina equally respected. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.27s · DAN 2.37–4.19s · NINA 4.29–6.10s · LEO 6.20–8.31s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **LEO:** The shoe store is on this floor.
@@ -220,6 +240,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.98s · NINA 2.08–3.31s · MAX 3.41–5.81s · DAN 5.91–8.89s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **DAN:** A moving staircase. Very ambitious stairs.
 
@@ -240,6 +262,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** US kids size 1 tight and size 3 loose are returned trial stock; neither is bought. Adult size10 brown display shoe remains store stock; Dan never forces a foot into a child shoe. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.74s · ELLA 1.84–3.71s · LEO 3.81–5.08s · ELLA 5.18–8.27s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **MAYA:** The elevator is over there.
@@ -262,6 +286,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.86s · MAX 2.96–5.07s · LEO 5.17–6.98s · MAX 7.08–9.48s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **DAN:** I will keep a map for the return trip.
 
@@ -282,6 +308,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Rose is Maya sister, visible only shots025–030 (60 seconds), a provisional supporting design; she offers orientation clue while family completes task. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–2.43s · DAN 2.53–4.52s · ELLA 4.62–6.61s · NINA 6.71–9.53s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **NINA:** Entrance behind us, shoe store to our right.
@@ -304,6 +332,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.51s · MAX 2.61–4.37s · ELLA 4.47–7.09s · DAN 7.19–9.53s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **ELLA:** There are shelves, a mirror, and a bench.
 
@@ -324,6 +354,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Store return policy in this fictional story: unworn shoes with receipt within14days; do not imply universal policy. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–1.43s · DAN 1.53–3.71s · MAX 3.81–5.99s · NINA 6.09–8.27s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **NINA:** Let us start here.
@@ -346,6 +378,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.98s · DAN 2.08–3.89s · ELLA 3.99–5.81s · DAN 5.91–8.60s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **LEO:** That box says adult size ten.
 
@@ -355,6 +389,7 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **DAN:** Max is. My feet can stay in my shoes.
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_017 | 00:02:40–00:02:50 | An overconfident comparison
 
 **Characters:** DAN, MAX, ELLA. **Location:** SHOE_FITTING. **Wardrobe:** W01 only.
@@ -366,6 +401,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Permanent six original Brooks identities and W01 wardrobes; Dan watch anatomical LEFT, phone/wallet RIGHT. Maya and Nina equally respected. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.35s · ELLA 2.45–4.01s · DAN 4.11–5.38s · MAX 5.48–8.27s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **DAN:** Two boxes. I can manage two boxes.
@@ -388,6 +425,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.93s · MAX 2.03–3.80s · ELLA 3.90–6.24s · MAX 6.34–9.53s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **DAN:** This may be a little snug.
 
@@ -408,6 +447,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** US kids size 1 tight and size 3 loose are returned trial stock; neither is bought. Adult size10 brown display shoe remains store stock; Dan never forces a foot into a child shoe. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–2.57s · DAN 2.67–5.07s · LEO 5.17–6.98s · DAN 7.08–9.19s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **MAYA:** We will not force a foot into anything.
@@ -430,6 +471,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–1.80s · MAX 1.90–4.17s · DAN 4.27–5.27s · MAX 5.37–8.27s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **NINA:** First, find the measuring station.
 
@@ -450,6 +493,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Rose is Maya sister, visible only shots025–030 (60 seconds), a provisional supporting design; she offers orientation clue while family completes task. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.27s · LEO 2.37–3.89s · DAN 3.99–6.10s · LEO 6.20–8.89s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **DAN:** The fitting room must be that way.
@@ -472,6 +517,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.43s · NINA 1.53–3.11s · MAX 3.21–5.08s · ELLA 5.18–8.27s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **MAYA:** We will check together.
 
@@ -492,6 +539,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Store return policy in this fictional story: unworn shoes with receipt within14days; do not imply universal policy. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.39s · ELLA 1.49–3.60s · LEO 3.70–4.93s · DAN 5.03–8.31s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **DAN:** The arrow points here.
@@ -514,6 +563,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–3.07s · DAN 3.17–5.23s · MAX 5.33–6.81s · NINA 6.91–9.53s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **NINA:** Shoes often have a fitting area, not a changing room.
 
@@ -523,6 +574,7 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **NINA:** Where they measure feet and let us try shoes.
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_025 | 00:04:00–00:04:10 | A familiar hello
 
 **Characters:** ROSE, MAYA, DAN. **Location:** MALL_CORRIDOR. **Wardrobe:** W01 only.
@@ -534,6 +586,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Permanent six original Brooks identities and W01 wardrobes; Dan watch anatomical LEFT, phone/wallet RIGHT. Maya and Nina equally respected. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.69s · ROSE 1.79–3.89s · DAN 3.99–4.93s · ROSE 5.03–8.31s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **MAYA:** Rose! What a lovely surprise.
@@ -556,6 +610,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.86s · ROSE 2.96–4.48s · LEO 4.58–6.39s · DAN 6.49–9.48s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **DAN:** Where is the fitting area in the shoe store?
 
@@ -576,6 +632,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** US kids size 1 tight and size 3 loose are returned trial stock; neither is bought. Adult size10 brown display shoe remains store stock; Dan never forces a foot into a child shoe. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.69s · DAN 1.79–4.19s · ROSE 4.29–5.51s · LEO 5.61–8.31s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **LEO:** This end matches the entrance.
@@ -598,6 +656,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ROSE 0.17–2.57s · ELLA 2.67–3.31s · NINA 3.41–5.51s · ELLA 5.61–8.60s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **ROSE:** I noticed a measuring device beside the bench.
 
@@ -618,6 +678,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Rose is Maya sister, visible only shots025–030 (60 seconds), a provisional supporting design; she offers orientation clue while family completes task. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.39s · MAX 1.49–3.01s · ROSE 3.11–5.51s · MAX 5.61–8.31s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **MAYA:** School shoes for Max.
@@ -640,6 +702,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ROSE 0.17–2.20s · MAYA 2.30–3.01s · DAN 3.11–5.48s · ROSE 5.58–8.27s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **ROSE:** Enjoy the fitting. See you soon.
 
@@ -660,6 +724,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Store return policy in this fictional story: unworn shoes with receipt within14days; do not imply universal policy. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.27s · LEO 2.37–4.19s · ELLA 4.29–6.10s · DAN 6.20–8.89s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **DAN:** Same floor, back to the shoe store.
@@ -682,6 +748,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.69s · DAN 1.79–4.19s · NINA 4.29–6.39s · MAX 6.49–9.48s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **MAX:** The bench waited for us.
 
@@ -691,6 +759,7 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **MAX:** Yes. My feet have been looking forward to that bench.
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_033 | 00:05:20–00:05:30 | Ask before using
 
 **Characters:** NINA, MAX, DAN. **Location:** SHOE_FITTING. **Wardrobe:** W01 only.
@@ -703,6 +772,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Permanent six original Brooks identities and W01 wardrobes; Dan watch anatomical LEFT, phone/wallet RIGHT. Maya and Nina equally respected. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–2.27s · CLERK 2.37–4.77s · DAN 4.87–6.10s · MAX 6.20–8.89s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **NINA:** Could you help us measure both feet?
@@ -724,6 +795,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** One purchased pair: navy school shoes, white soles, white laces, green pull tabs, US kids size 2; cream teal-band box. Max keeps original green sneakers for travel/home. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.54s · ELLA 1.64–3.35s · NINA 3.45–5.15s · MAX 5.25–8.27s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **MAX:** Their first break today.
@@ -747,6 +820,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): CLERK 0.17–3.15s · DAN 3.25–5.07s · NINA 5.17–6.69s · MAX 6.79–9.19s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **CLERK:** Start with a children's size two, then check the fit.
 
@@ -767,6 +842,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Price $32 including tax; budget $40; pay two $20 bills; $8 change is one $5 bill and three $1 bills; no refund processed. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.98s · MAX 2.08–4.48s · LEO 4.58–6.10s · MAX 6.20–9.19s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **MAYA:** Do you like this navy pair?
@@ -789,6 +866,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.74s · DAN 1.84–4.01s · MAX 4.11–5.69s · DAN 5.79–8.27s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **LEO:** This one is size one.
 
@@ -809,6 +888,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** All mall action on ground floor; no elevator/escalator ride; children stay with adults. Map upside down021–026, rotated upright027. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.43s · NINA 1.53–2.50s · MAYA 2.60–5.38s · MAX 5.48–8.27s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **MAX:** My toes feel squeezed.
@@ -831,6 +912,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.80s · MAX 1.90–4.17s · NINA 4.27–4.95s · DAN 5.05–8.27s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **DAN:** Thank you for telling us.
 
@@ -852,6 +935,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.27s · DAN 2.37–4.77s · ELLA 4.87–7.57s · LEO 7.67–9.48s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **LEO:** We measured two. Three may be loose.
 
@@ -861,6 +946,7 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **LEO:** Let's hear from Max's heel first.
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_041 | 00:06:40–00:06:50 | Loose is information
 
 **Characters:** NINA, MAX, ELLA. **Location:** SHOE_FITTING. **Wardrobe:** W01 only.
@@ -872,6 +958,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Permanent six original Brooks identities and W01 wardrobes; Dan watch anatomical LEFT, phone/wallet RIGHT. Maya and Nina equally respected. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.54s · ELLA 1.64–2.69s · NINA 2.79–4.82s · MAX 4.92–8.27s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **MAX:** My heel is sliding.
@@ -893,6 +981,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** One purchased pair: navy school shoes, white soles, white laces, green pull tabs, US kids size 2; cream teal-band box. Max keeps original green sneakers for travel/home. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.86s · MAX 2.96–4.48s · NINA 4.58–6.39s · MAX 6.49–8.89s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **DAN:** Not tight, not swimming. We need a good fit.
@@ -916,6 +1006,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): CLERK 0.17–1.74s · LEO 1.84–3.41s · DAN 3.51–5.38s · MAX 5.48–8.27s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **CLERK:** Here is the size two.
 
@@ -936,6 +1028,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Price $32 including tax; budget $40; pay two $20 bills; $8 change is one $5 bill and three $1 bills; no refund processed. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–2.27s · MAX 2.37–4.48s · MAYA 4.58–6.10s · MAX 6.20–8.89s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **NINA:** No pushing. Tell me if anything pinches.
@@ -958,6 +1052,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.87s · DAN 1.97–3.35s · NINA 3.45–5.15s · MAX 5.25–8.27s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **MAX:** I can wiggle my toes.
 
@@ -978,6 +1074,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** All mall action on ground floor; no elevator/escalator ride; children stay with adults. Map upside down021–026, rotated upright027. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–2.04s · MAX 2.14–3.71s · ELLA 3.81–4.78s · MAYA 4.88–8.27s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **MAYA:** How does the left one feel?
@@ -1000,6 +1098,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–1.88s · DAN 1.98–4.25s · MAX 4.35–6.89s · NINA 6.99–9.53s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **NINA:** Stand naturally. No need to pose.
 
@@ -1021,6 +1121,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.49s · LEO 1.59–3.22s · NINA 3.32–4.95s · MAX 5.05–8.27s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **MAX:** No pinching. No sliding.
 
@@ -1030,6 +1132,7 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **MAX:** Steady. I can feel the floor without a hard edge.
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_049 | 00:08:00–00:08:10 | The mirror is not the judge
 
 **Characters:** MAX, MAYA, DAN. **Location:** SHOE_FITTING. **Wardrobe:** W01 only.
@@ -1041,6 +1144,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Permanent six original Brooks identities and W01 wardrobes; Dan watch anatomical LEFT, phone/wallet RIGHT. Maya and Nina equally respected. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.21s · MAYA 1.31–2.36s · MAX 2.46–4.82s · DAN 4.92–8.27s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **MAX:** They look good.
@@ -1062,6 +1167,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** One purchased pair: navy school shoes, white soles, white laces, green pull tabs, US kids size 2; cream teal-band box. Max keeps original green sneakers for travel/home. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–3.36s · ELLA 3.46–6.09s · MAX 6.19–7.95s · NINA 8.05–9.53s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **NINA:** There is room at the toes and support at the heel.
@@ -1085,6 +1192,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.98s · CLERK 2.08–3.01s · LEO 3.11–5.22s · MAX 5.32–8.31s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **DAN:** Is thirty-two dollars the full price?
 
@@ -1105,6 +1214,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Price $32 including tax; budget $40; pay two $20 bills; $8 change is one $5 bill and three $1 bills; no refund processed. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.57s · MAYA 2.67–4.77s · MAX 4.87–6.39s · DAN 6.49–9.48s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **DAN:** A giant shoe would hold the shopping list.
@@ -1127,6 +1238,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–2.79s · MAX 2.89–4.94s · ELLA 5.04–6.81s · MAX 6.91–9.53s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **NINA:** We will keep the new pair boxed for school.
 
@@ -1147,6 +1260,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** All mall action on ground floor; no elevator/escalator ride; children stay with adults. Map upside down021–026, rotated upright027. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.98s · MAX 2.08–4.77s · NINA 4.87–6.98s · MAX 7.08–9.48s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **DAN:** The familiar pair gets us home.
@@ -1169,6 +1284,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.57s · DAN 2.67–4.19s · ELLA 4.29–6.98s · DAN 7.08–8.89s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **LEO:** Two shoes, both size two, one matching box.
 
@@ -1190,6 +1307,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.13s · MAX 1.23–3.41s · NINA 3.51–5.08s · LEO 5.18–8.27s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **ELLA:** Nothing left behind.
 
@@ -1199,6 +1318,7 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **LEO:** And our one good pair stays together in its box.
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_057 | 00:09:20–00:09:30 | The pair on the counter
 
 **Characters:** DAN, LEO, MAX. **Location:** SHOE_CHECKOUT. **Wardrobe:** W01 only.
@@ -1211,6 +1331,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Permanent six original Brooks identities and W01 wardrobes; Dan watch anatomical LEFT, phone/wallet RIGHT. Maya and Nina equally respected. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): CLERK 0.17–2.27s · MAX 2.37–3.01s · DAN 3.11–4.05s · LEO 4.15–6.55s · MAX 6.65–8.75s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **CLERK:** This navy pair in children's size two?
@@ -1235,6 +1357,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–1.10s · MAX 1.20–2.43s · DAN 2.53–3.17s · MAX 3.27–5.96s · NINA 6.06–8.46s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **NINA:** Both shoes match.
 
@@ -1258,6 +1382,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.17s · DAN 1.27–4.48s · LEO 4.58–6.21s · DAN 6.31–8.27s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **LEO:** Thirty-two dollars total.
 
@@ -1278,6 +1404,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Price $32 including tax; budget $40; pay two $20 bills; $8 change is one $5 bill and three $1 bills; no refund processed. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.43s · MAX 1.53–4.32s · DAN 4.42–5.69s · MAX 5.79–8.27s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **DAN:** Here is forty dollars.
@@ -1301,6 +1429,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): CLERK 0.17–2.11s · LEO 2.22–3.85s · MAX 3.95–5.27s · DAN 5.37–8.27s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **CLERK:** Eight dollars change and your receipt.
 
@@ -1322,6 +1452,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.98s · NINA 2.08–3.60s · LEO 3.70–5.22s · MAYA 5.32–8.31s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **MAYA:** We stayed eight dollars under budget.
 
@@ -1342,6 +1474,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Store return policy in this fictional story: unworn shoes with receipt within14days; do not imply universal policy. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.27s · MAX 2.37–3.89s · DAN 3.99–5.81s · ELLA 5.91–8.31s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **ELLA:** The receipt proves which pair we bought.
@@ -1365,6 +1499,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.27s · CLERK 2.37–4.48s · NINA 4.58–6.10s · MAX 6.20–8.89s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **DAN:** What if we need to return them?
 
@@ -1374,6 +1510,7 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **MAX:** Good. We know exactly which box goes with them.
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_065 | 00:10:40–00:10:50 | A policy is not a refund
 
 **Characters:** MAX, MAYA, DAN. **Location:** SHOE_CHECKOUT. **Wardrobe:** W01 only.
@@ -1385,6 +1522,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Permanent six original Brooks identities and W01 wardrobes; Dan watch anatomical LEFT, phone/wallet RIGHT. Maya and Nina equally respected. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.69s · MAYA 1.79–4.19s · DAN 4.29–6.39s · MAX 6.49–8.89s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **MAX:** Is a refund more change?
@@ -1408,6 +1547,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): CLERK 0.17–1.69s · DAN 1.79–3.31s · ELLA 3.41–5.51s · NINA 5.61–8.89s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **CLERK:** Here you are. Thank you.
 
@@ -1428,6 +1569,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** US kids size 1 tight and size 3 loose are returned trial stock; neither is bought. Adult size10 brown display shoe remains store stock; Dan never forces a foot into a child shoe. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–2.35s · MAX 2.45–4.01s · DAN 4.11–5.08s · LEO 5.18–8.27s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **NINA:** Six people, one pair of new shoes.
@@ -1450,6 +1593,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.39s · DAN 1.49–3.01s · NINA 3.11–5.22s · MAX 5.32–8.31s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **MAX:** One box, not two?
 
@@ -1470,6 +1615,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Rose is Maya sister, visible only shots025–030 (60 seconds), a provisional supporting design; she offers orientation clue while family completes task. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.35s · LEO 2.45–4.32s · ELLA 4.42–5.38s · DAN 5.48–8.27s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **DAN:** Entrance this way. Does the map agree?
@@ -1492,6 +1639,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.98s · NINA 2.08–4.48s · MAYA 4.58–6.39s · MAX 6.49–9.19s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **MAX:** Are we trying the moving stairs?
 
@@ -1512,6 +1661,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Store return policy in this fictional story: unworn shoes with receipt within14days; do not imply universal policy. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.69s · LEO 1.79–3.31s · MAX 3.41–5.51s · LEO 5.61–8.60s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **DAN:** I checked before I guessed.
@@ -1534,6 +1685,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.69s · MAX 1.79–4.77s · NINA 4.87–6.39s · MAX 6.49–8.60s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **MAYA:** How do your feet feel?
 
@@ -1543,6 +1696,7 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **MAX:** Yes, and the boxed pair comes too.
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_073 | 00:12:00–00:12:10 | Home, same kitchen
 
 **Characters:** DAN, NINA, MAX. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
@@ -1554,6 +1708,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Permanent six original Brooks identities and W01 wardrobes; Dan watch anatomical LEFT, phone/wallet RIGHT. Maya and Nina equally respected. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–1.74s · DAN 1.84–3.11s · MAX 3.21–5.08s · DAN 5.18–8.27s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **NINA:** Home with the correct box.
@@ -1576,6 +1732,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–2.86s · DAN 2.96–4.19s · LEO 4.29–5.81s · DAN 5.91–8.89s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **MAYA:** Let us keep shoes away from the kitchen worktop.
 
@@ -1596,6 +1754,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** US kids size 1 tight and size 3 loose are returned trial stock; neither is bought. Adult size10 brown display shoe remains store stock; Dan never forces a foot into a child shoe. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.86s · NINA 2.96–4.48s · DAN 4.58–5.51s · ELLA 5.61–8.31s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **ELLA:** The receipt stays safe while the shoes stay clean.
@@ -1618,6 +1778,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.27s · MAYA 2.37–3.89s · NINA 3.99–5.22s · MAX 5.32–9.19s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **MAX:** One squeezed. Three slid. Two felt comfortable.
 
@@ -1638,6 +1800,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Rose is Maya sister, visible only shots025–030 (60 seconds), a provisional supporting design; she offers orientation clue while family completes task. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.35s · LEO 2.45–3.41s · ELLA 3.51–5.08s · DAN 5.18–8.27s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **DAN:** My feet will keep their own shoes.
@@ -1660,6 +1824,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.69s · NINA 1.79–3.31s · MAX 3.41–5.22s · NINA 5.32–8.31s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **MAYA:** Next time, a park picnic.
 
@@ -1681,6 +1847,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.51s · MAYA 2.61–4.37s · NINA 4.47–6.81s · MAX 6.91–9.53s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **DAN:** The right shoes needed more listening than guessing.
 
@@ -1701,6 +1869,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Receipt stored once at063, moved to household folder075; $8 stays in wallet. No seventh recurring family member or new wardrobe. Preserve the explicit opening/end state for this shot; exact text uses editorial overlays.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–3.07s · DAN 3.17–4.94s · MAYA 5.04–7.09s · MAX 7.19–9.53s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **MAX:** My new shoes have a box. Our plan has directions.

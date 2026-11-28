@@ -14,6 +14,7 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 <a name="shot-001"></a>
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_001 | 00:00:00–00:00:10 | A boat in the beans
 
 **Clip:** 10 seconds, 16:9. Frame only the named panel in the series’ warm, stylized 3D. Let the action continue through natural General American dialogue.
@@ -26,6 +27,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** The boat is drawn on the loose bookmark. The bean plants are printed in the gray book.
 
 **Delivery:** 10-second clip. Follow Max's pointing finger as he tries to make sense of a boat in a book about beans. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–3.24s · MAYA 3.38–4.71s · MAX 4.85–6.98s · MAYA 7.12–9.26s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **MAX:** Mom, there's a boat in your beans.
@@ -51,6 +54,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Let Ella turn her head to read while Maya identifies the two childhood drawings. Check the fit with a natural read before locking this cut. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.93s · MAYA 2.07–4.27s · MAX 4.41–6.51s · MAYA 6.65–9.85s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **ELLA:** The other end's a hat.
 
@@ -74,6 +79,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** Rose is Maya's sister. Her visit is planned. She first appears at the blue door later today.
 
 **Delivery:** 10-second clip. Give each sister's memory its own phrase in Maya's voice. Check the fit with a natural read before locking this cut. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–5.10s · NINA 5.24–6.68s · MAYA 6.82–8.60s · LEO 8.74–9.85s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **MAYA:** I remember a girl losing her hat. Rose remembers a beetle sailing a boat.
@@ -99,6 +106,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Time Maya's three air-drawn crosses to the stitches she's describing. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–4.59s · ELLA 4.73–5.65s · MAYA 5.79–7.93s · MAX 8.07–8.99s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **MAYA:** Green patch. Three blue stitches. I used to count them.
 
@@ -122,6 +131,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** Orange is the cover color. The hat itself is yellow.
 
 **Delivery:** 10-second clip. Let Nina's practical question slip in between Dan's two title jokes. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–3.89s · MAYA 4.03–6.54s · NINA 6.68–8.00s · DAN 8.14–9.85s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **DAN:** Could it be The Day Dad's Hat Blew Off?
@@ -147,6 +158,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Give the handwritten name to Ella. Recognition of the handwriting belongs to Maya. Check the fit with a natural read before locking this cut. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.12s · ELLA 2.26–3.09s · MAYA 3.23–7.03s · LEO 7.17–9.85s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **LEO:** There's something on the back.
 
@@ -170,6 +183,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** Ruth exists in Maya's memory and speech. The picture stays in the present-day kitchen.
 
 **Delivery:** 10-second clip. Maya voices her mother's invitation herself, using the remembered pat of the seat. Check the fit with a natural read before locking this cut. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–3.49s · MAX 3.63–5.46s · MAYA 5.60–7.88s · NINA 8.02–9.85s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **MAYA:** She'd pat the seat and say, “Pick a beginning.”
@@ -195,6 +210,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Give Max the serious air of someone accepting the job of stitch counter. Check the fit with a natural read before locking this cut. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.43s · LEO 2.57–4.58s · MAX 4.72–6.98s · MAYA 7.12–9.85s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **DAN:** Whose turn is it to choose?
 
@@ -206,6 +223,7 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 <a name="shot-009"></a>
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_009 | 00:01:20–00:01:30 | A question for a librarian
 
 **Clip:** 10 seconds, 16:9. Frame only the named panel in the series’ warm, stylized 3D. Let the action continue through natural General American dialogue.
@@ -218,6 +236,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** The cream bookmark is still between the pages of the gardening book.
 
 **Delivery:** 10-second clip. Ella tries the opening casually. Let Maya sound as if she really might borrow it. Check the fit with a natural read before locking this cut. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.40s · MAYA 2.54–4.05s · DAN 4.19–8.19s · NINA 8.33–9.85s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **ELLA:** “I'm looking for a picture book.”
@@ -243,6 +263,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Let Leo's question catch Maya looking forward to proving her point. Check the fit with a natural read before locking this cut. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–4.22s · MAYA 4.36–5.76s · MAX 5.90–8.63s · DAN 8.77–9.85s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **LEO:** Do you want to read it or prove it was a hat?
 
@@ -266,6 +288,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** The center-right self-checkout, central low display and right-window bench share one foyer.
 
 **Delivery:** 10-second clip. Match Nina's slight lift of the bag to Max remembering the book they brought back. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.90s · NINA 2.04–4.18s · ELLA 4.32–5.24s · DAN 5.38–7.92s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **MAX:** I remember the bench!
@@ -291,6 +315,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Keep Max's palm under the bookmark until Maya slides it clear of the gardening book. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.26s · MAYA 2.40–5.00s · NINA 5.14–8.02s · MAYA 8.16–9.85s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **MAX:** One passenger's still on board.
 
@@ -314,6 +340,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** The gray book stays with the library. The bag now holds only Maya's wallet.
 
 **Delivery:** 10-second clip. Land the gardening book in the slot before Dan notices the weight of the bag. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.90s · NINA 2.04–5.39s · MAX 5.53–7.67s · MAYA 7.81–9.54s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **DAN:** That bag got lighter.
@@ -339,6 +367,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Let Maya try Ella's opening quietly with Nina before she approaches the librarian. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.31s · MAYA 2.45–4.99s · NINA 5.13–6.04s · MAYA 6.18–8.72s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **ELLA:** There's somebody you can ask.
 
@@ -362,6 +392,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** The family is asking about one particular story. The bookmark remains Maya's.
 
 **Delivery:** 10-second clip. Maya can admit she's forgotten the title and still ask clearly for help. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–4.87s · LIBRARIAN 5.00–6.74s · ELLA 6.88–8.61s · MAYA 8.75–9.67s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **MAYA:** I'm looking for a picture book. I don't know the title.
@@ -387,6 +419,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Let Max react to the colors changing while Leo stays with the author's name. Check the fit with a natural read before locking this cut. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–2.57s · LIBRARIAN 2.71–6.26s · MAX 6.40–8.23s · LEO 8.37–9.85s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **MAYA:** Orange cover, yellow hat, green patch.
 
@@ -398,6 +432,7 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 <a name="shot-017"></a>
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_017 | 00:02:40–00:02:50 | Quill begins with Q
 
 **Clip:** 10 seconds, 16:9. Frame only the named panel in the series’ warm, stylized 3D. Let the action continue through natural General American dialogue.
@@ -410,6 +445,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** This display is arranged by the writer's last name. A title can begin with any letter.
 
 **Delivery:** 10-second clip. Reveal QUILL by covering the first name just as Max settles on Q. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.31s · LIBRARIAN 2.45–5.39s · ELLA 5.53–6.45s · MAX 6.59–9.66s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **MAX:** I was looking for H.
@@ -435,6 +472,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Give the title to Leo and the author credit to Maya as they read the green cover. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.53s · MAYA 1.67–4.05s · ELLA 4.19–5.81s · LIBRARIAN 5.95–9.85s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **LEO:** “All Aboard, Beetle!”
 
@@ -458,6 +497,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** The family has taken only one book out of the display.
 
 **Delivery:** 10-second clip. Let the empty spot in the Q bin register with Maya before Nina asks her choice. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–3.49s · DAN 3.63–5.34s · MAX 5.48–7.19s · NINA 7.33–9.85s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **MAYA:** I thought mine would be right behind it.
@@ -483,6 +524,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Play Maya's change of heart as curiosity about what Rose saw. Check the fit with a natural read before locking this cut. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–3.51s · LEO 3.65–5.18s · MAYA 5.32–8.06s · NINA 8.20–9.85s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **MAYA:** I heard my half of the argument for years.
 
@@ -506,6 +549,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** The children can move for a view at the library bench.
 
 **Delivery:** 10-second clip. Let the readers find their places while Maya admits this beginning is new to her. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.90s · DAN 2.04–3.77s · ELLA 3.91–6.05s · MAYA 6.19–9.26s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **MAX:** Can we all fit?
@@ -531,6 +576,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Let Max and Ella offer their two guesses before Maya starts the book. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.90s · ELLA 2.04–4.18s · LEO 4.32–7.26s · MAYA 7.40–9.54s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **MAX:** He's packed a bag.
 
@@ -554,6 +601,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** The artwork is ink and watercolor on the printed page. Maya supplies the voice.
 
 **Delivery:** 10-second clip. Keep the read-aloud in Maya's voice. Max looks for table legs in the illustration. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–4.06s · MAX 4.20–5.93s · NINA 6.07–7.39s · MAX 7.53–9.67s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **MAYA:** “Lunch was ready. The table was across the puddle.”
@@ -579,6 +628,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Let Dan's knee wobble under Nina's empty hand as he reviews the service. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.93s · DAN 3.07–5.45s · NINA 5.59–7.21s · DAN 7.35–9.85s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **ELLA:** He could eat on that flat stone.
 
@@ -590,6 +641,7 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 <a name="shot-025"></a>
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_025 | 00:04:00–00:04:10 | The yellow boat bumps the twig
 
 **Clip:** 10 seconds, 16:9. Frame only the named panel in the series’ warm, stylized 3D. Let the action continue through natural General American dialogue.
@@ -602,6 +654,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** The green side calls the object a boat. Its open crown faces up in the water.
 
 **Delivery:** 10-second clip. Give the little boat horn to Max in his quiet library voice. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–4.73s · MAX 4.87–5.42s · LEO 5.56–7.64s · MAX 7.78–9.85s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **MAYA:** “A yellow boat bumped the twig. Beetle brought his lunch aboard.”
@@ -627,6 +681,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Let Max count each printed stitch as Maya compares it with the faded bookmark. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.44s · MAX 2.58–4.16s · MAYA 4.30–6.84s · MAX 6.98–9.52s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **ELLA:** Mom, what about this patch?
 
@@ -650,6 +706,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** The same spread stays in view until Maya turns one leaf.
 
 **Delivery:** 10-second clip. Let Maya follow the hollow shape in the air before she asks for another page. Check the fit with a natural read before locking this cut. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–3.59s · MAYA 3.73–6.42s · NINA 6.56–8.13s · MAYA 8.27–9.85s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **LEO:** Maybe Nell Quill drew that patch in two books.
@@ -675,6 +733,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Lower Maya's reading voice as the hand appears from the beetle's point of view. Check the fit with a natural read before locking this cut. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–3.98s · MAX 4.12–5.66s · ELLA 5.80–8.06s · MAX 8.20–9.85s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **MAYA:** “A giant reached down. Beetle held on to his crumb.”
 
@@ -698,6 +758,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** On this spread the hand reaches from above. The crumb remains in the beetle's legs.
 
 **Delivery:** 10-second clip. Give Dan's theory some drama and Leo's observation a quieter, curious tone. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–3.05s · NINA 3.19–5.19s · LEO 5.33–7.71s · MAYA 7.85–9.85s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **DAN:** A hungry giant. I know the type.
@@ -723,6 +785,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Let Max check the passenger first and Ella check the crumb on the wordless spread. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.50s · ELLA 1.64–3.77s · LEO 3.91–6.05s · MAYA 6.19–9.26s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **MAX:** He made it!
 
@@ -746,6 +810,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** One finger pins the leaf at the stone. The other hand holds the yellow object by its brim.
 
 **Delivery:** 10-second clip. Keep the family's questions on the two different hands in the illustration. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.90s · NINA 2.04–3.37s · ELLA 3.51–5.64s · MAYA 5.78–8.72s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **ELLA:** There's the finger again.
@@ -771,6 +837,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Time Max's comment to the point where Dan can tilt his head no farther. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.90s · DAN 2.04–3.77s · MAX 3.91–7.80s · MAYA 7.94–9.26s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **LEO:** That writing's upside down.
 
@@ -782,6 +850,7 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 <a name="shot-033"></a>
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_033 | 00:05:20–00:05:30 | Turn the reader or turn the book?
 
 **Clip:** 10 seconds, 16:9. Frame only the named panel in the series’ warm, stylized 3D. Let the action continue through natural General American dialogue.
@@ -794,6 +863,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** Keep the one binding intact. The pages are part of the book.
 
 **Delivery:** 10-second clip. Let Maya's recognition of Dot cut through the effort of reading upside down. Check the fit with a natural read before locking this cut. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–2.90s · LEO 3.04–6.02s · NINA 6.16–6.98s · MAYA 7.12–9.85s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **MAYA:** That word says Dot. That's my girl!
@@ -819,6 +890,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Keep the family talking while Maya closes the book to inspect its other side. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–3.09s · MAYA 3.23–4.54s · ELLA 4.68–6.79s · MAX 6.93–9.85s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **MAX:** What does it say on the back?
 
@@ -842,6 +915,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** Use a cover-to-cover flip followed by a half turn. The pages stay shut.
 
 **Delivery:** 10-second clip. Give turning the book over and rotating it half a turn two separate beats. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.50s · MAX 1.64–4.18s · ELLA 4.32–6.05s · DAN 6.19–9.67s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **MAYA:** Turn it over.
@@ -867,6 +942,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Let Maya recognize the title aloud while Max traces the single spine. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–3.08s · LEO 3.22–5.74s · MAX 5.88–7.19s · NINA 7.33–9.85s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **MAYA:** “Come Back, Hat!” Oh, that's it.
 
@@ -890,6 +967,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** The family recalls the reading chair in dialogue. The picture stays at the library bench.
 
 **Delivery:** 10-second clip. Keep the memory in Maya's present voice and the turn of her own wrist. Check the fit with a natural read before locking this cut. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–3.11s · NINA 3.25–4.76s · MAYA 4.90–6.77s · DAN 6.91–9.85s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **MAYA:** Mom did that when Rose took my seat.
@@ -915,6 +994,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Let the question about the pencil mark take the certainty out of Maya's voice. Check the fit with a natural read before locking this cut. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.57s · MAYA 2.71–5.43s · LEO 5.57–7.64s · MAYA 7.78–9.85s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **ELLA:** Were you asking what the boat was?
 
@@ -938,6 +1019,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** The book stays at the bench. The navy bag remains at Nina's feet.
 
 **Delivery:** 10-second clip. Max's question about the hand gives Maya a reason to keep reading. Check the fit with a natural read before locking this cut. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.48s · MAYA 2.63–4.94s · NINA 5.08–7.39s · DAN 7.53–9.85s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **MAX:** Whose lunch was she reaching for?
@@ -963,6 +1046,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Maya finds her childhood reading voice for Dot. The children answer from the bench. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–4.76s · ELLA 4.90–6.59s · MAX 6.73–8.42s · MAYA 8.56–9.85s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **MAYA:** “Dot went out to count the puddles. Her hat came too.”
 
@@ -974,6 +1059,7 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 <a name="shot-041"></a>
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_041 | 00:06:40–00:06:50 | One face of the patch
 
 **Clip:** 10 seconds, 16:9. Frame only the named panel in the series’ warm, stylized 3D. Let the action continue through natural General American dialogue.
@@ -986,6 +1072,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** The same three blue Xs belong to the same patch on the brim throughout both stories.
 
 **Delivery:** 10-second clip. Let Max finish all three numbers himself before Maya joins in again. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.76s · LEO 1.90–4.84s · MAX 4.98–6.30s · MAYA 6.44–9.79s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **MAX:** One, two, three.
@@ -1011,6 +1099,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Give the printed “Plop!” to Maya reading. Dan supplies his own idea about the hat. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–2.84s · DAN 2.98–5.92s · ELLA 6.06–8.61s · MAX 8.75–9.67s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **MAYA:** “Plop! Dot's hat landed upside down.”
 
@@ -1034,6 +1124,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** Keep the twig at the launch bank and the dry gray stone at the landing bank.
 
 **Delivery:** 10-second clip. Follow the change in Maya's attention from the running girl to the little twig. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.31s · NINA 2.45–4.58s · ELLA 4.72–6.86s · MAYA 7.00–9.54s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **LEO:** Dot went the long way.
@@ -1059,6 +1151,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Maya reads Dot's line. Max is the one who recognizes the giant aloud. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–2.48s · MAX 2.62–3.89s · LEO 4.03–7.26s · MAX 7.40–9.85s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **MAYA:** “Wait, Dot. Somebody's still aboard.”
 
@@ -1082,6 +1176,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** The pictured finger reaches past the crumb toward the landing end of the leaf.
 
 **Delivery:** 10-second clip. Let Maya linger on the beetle after Ella points to the leaf. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–3.05s · NINA 3.19–4.48s · ELLA 4.62–6.31s · MAYA 6.45–9.85s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **MAYA:** I wanted her to grab the hat.
@@ -1107,6 +1203,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Give the recognitions of stone, lunch and leaf to the readers in order. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.03s · ELLA 2.17–3.09s · LEO 3.23–6.18s · MAYA 6.32–8.86s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **MAX:** Same stone. Same lunch.
 
@@ -1130,6 +1228,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** In the center, the brim is held at the water's edge. The beetle and crumb are already on dry stone.
 
 **Delivery:** 10-second clip. Match Max pinning his sleeve to his explanation of the leaf bridge. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–2.17s · MAX 2.31–4.81s · MAYA 4.95–7.33s · MAX 7.47–9.85s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **NINA:** Did she take his lunch?
@@ -1155,6 +1255,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Let Maya and Ella find their different endings in the same quiet picture. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–2.17s · ELLA 2.31–4.31s · DAN 4.45–7.21s · LEO 7.35–9.85s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **MAYA:** She got her hat back.
 
@@ -1166,6 +1268,7 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 <a name="shot-049"></a>
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_049 | 00:08:00–00:08:10 | Something to tell Rose
 
 **Clip:** 10 seconds, 16:9. Frame only the named panel in the series’ warm, stylized 3D. Let the action continue through natural General American dialogue.
@@ -1178,6 +1281,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** Rose drew her beetle and boat. Maya added the pencil question mark beside them.
 
 **Delivery:** 10-second clip. Turn the bookmark toward Maya before she tries looking from Rose's end. Check the fit with a natural read before locking this cut. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–2.66s · ELLA 2.80–5.28s · NINA 5.42–6.54s · MAYA 6.68–9.85s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **MAYA:** I told her boats didn't have brims.
@@ -1203,6 +1308,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Show the librarian both cover colors as Leo and Max explain how close they are. Speaker cues from clip start (provisional 10-second targets): LIBRARIAN 0.17–2.65s · MAYA 2.79–5.67s · LEO 5.81–7.89s · MAX 8.03–9.85s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **LIBRARIAN:** Did you find the orange one?
 
@@ -1226,6 +1333,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** The bookmark is well away from the library label inside the green front cover.
 
 **Delivery:** 10-second clip. Let Maya's quiet closing of the book keep the shared landing marked. Check the fit with a natural read before locking this cut. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–3.11s · MAYA 3.25–5.12s · LEO 5.26–7.48s · MAYA 7.62–9.85s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **ELLA:** Which ending do you want me to save?
@@ -1251,6 +1360,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Keep the librarian's invitation open enough for Maya to choose her own words. Speaker cues from clip start (provisional 10-second targets): LIBRARIAN 0.17–2.89s · MAYA 3.03–4.00s · ELLA 4.14–6.12s · LIBRARIAN 6.26–9.85s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **LIBRARIAN:** Would you recommend it to another reader?
 
@@ -1274,6 +1385,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** The closed volume stays green up. The family writes on the white card alone.
 
 **Delivery:** 10-second clip. Write the first title and slash while Ella supplies the second title aloud. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–2.84s · ELLA 2.98–4.44s · MAX 4.58–5.90s · LEO 6.04–9.52s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **MAYA:** What goes after “All Aboard, Beetle!”?
@@ -1299,6 +1412,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Let Max trail off before he reveals the ending. Nina gives Maya a different opening. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.90s · MAX 2.04–4.58s · NINA 4.62–7.29s · MAYA 7.43–9.56s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **DAN:** “Includes a genuine giant.”
 
@@ -1322,6 +1437,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** The green pencil stays at the display. The cream bookmark travels inside the selected volume.
 
 **Delivery:** 10-second clip. Give the two sentences a gentle read-aloud rhythm before the card goes into the holder. Check the fit with a natural read before locking this cut. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–2.64s · ELLA 2.78–5.48s · MAYA 5.62–7.67s · LIBRARIAN 7.81–9.85s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **MAYA:** “Pick a beginning. Meet in the middle.”
@@ -1347,6 +1464,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Keep Dan's imaginary volume weightless until Maya gives him a real job with the bag. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.71s · NINA 2.85–4.18s · DAN 4.32–5.24s · MAYA 5.38–8.45s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **DAN:** I've got the invisible second book.
 
@@ -1358,6 +1477,7 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 <a name="shot-057"></a>
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_057 | 00:09:20–00:09:30 | Maya's own card
 
 **Clip:** 10 seconds, 16:9. Frame only the named panel in the series’ warm, stylized 3D. Let the action continue through natural General American dialogue.
@@ -1370,6 +1490,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** Only Maya's personal card is used for this loan.
 
 **Delivery:** 10-second clip. Let the pleasure of taking the book out herself come through Maya's answers. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.17s · MAYA 2.31–5.57s · MAX 5.71–6.95s · MAYA 7.09–9.85s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **LEO:** Whose card are we using?
@@ -1395,6 +1517,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Max lowers his second finger as Nina taps the single spine. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.26s · NINA 2.40–4.88s · MAX 5.02–7.23s · MAYA 7.37–9.85s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **MAX:** It's asking for an item.
 
@@ -1418,6 +1542,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** One library item code serves the whole volume. The orange title needs no separate scan.
 
 **Delivery:** 10-second clip. Give the green-cover barcode one scan. Leo confirms the single item. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.90s · MAYA 2.04–4.18s · LEO 4.32–6.18s · ELLA 6.32–8.04s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **ELLA:** Found the library label.
@@ -1443,6 +1569,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Let the one loan receipt be enough to carry Dan's joke about a beetle's ticket. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.55s · LEO 2.69–3.93s · NINA 4.07–6.07s · MAYA 6.21–9.85s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **DAN:** Does the beetle need a ticket?
 
@@ -1466,6 +1594,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** The family bookmark goes home. The white public card stays on display.
 
 **Delivery:** 10-second clip. Shift the children's attention from the cream bookmark to the white card on display. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.90s · MAYA 2.04–3.77s · ELLA 3.91–5.64s · DAN 5.78–9.26s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **MAX:** Our boat's coming home?
@@ -1491,6 +1621,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Let Maya consider the choice before saving her answer for home. Check the fit with a natural read before locking this cut. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–2.48s · MAYA 2.63–6.79s · MAX 6.93–8.13s · MAYA 8.27–9.85s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **NINA:** Orange or green when Rose comes?
 
@@ -1514,6 +1646,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** Ruth's movement is imitated by Maya. Ruth does not appear.
 
 **Delivery:** 10-second clip. Follow Maya's quick turn and reversal. The book settles green side up. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.17s · MAYA 2.31–4.81s · DAN 4.95–7.33s · MAYA 7.47–9.85s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **LEO:** She did it that fast?
@@ -1539,6 +1673,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Let Maya emphasize “two seats” as she leaves room on the bench. Check the fit with a natural read before locking this cut. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.36s · MAYA 1.50–5.00s · MAX 5.14–8.15s · NINA 8.29–9.85s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **ELLA:** Saving a seat?
 
@@ -1550,6 +1686,7 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 <a name="shot-065"></a>
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_065 | 00:10:40–00:10:50 | What kind of question was it?
 
 **Clip:** 10 seconds, 16:9. Frame only the named panel in the series’ warm, stylized 3D. Let the action continue through natural General American dialogue.
@@ -1562,6 +1699,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** Maya drew the question mark. Rose drew the boat beside it.
 
 **Delivery:** 10-second clip. Give the first “A boat?” real curiosity and Maya's remembered version open skepticism. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.39s · MAYA 2.53–4.87s · ELLA 5.01–5.91s · MAYA 6.05–9.85s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **MAX:** Did you say, “A boat?”
@@ -1587,6 +1726,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Let Maya lower her hand before she decides to ask the artist about the mark. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.48s · MAYA 1.62–4.94s · NINA 5.08–6.79s · MAYA 6.93–9.85s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **LEO:** Want an eraser?
 
@@ -1610,6 +1751,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** The green pencil on a cord stayed at the library. Dan holds a plain pencil from home.
 
 **Delivery:** 10-second clip. Play Maya's wish to hear Rose as the reason she leaves the green cover up. Check the fit with a natural read before locking this cut. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.85s · MAYA 2.99–5.68s · LEO 5.82–8.13s · MAYA 8.27–9.85s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **MAX:** Are we going to say she won?
@@ -1635,6 +1778,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Sound the knock before Max presses his lips together to keep the surprise. Speaker cues from clip start (provisional 10-second targets): MAX 0.63–2.73s · ELLA 2.86–4.83s · NINA 4.99–6.39s · MAYA 6.54–8.15s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **MAX:** Can I give her one clue?
 
@@ -1658,6 +1803,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** Keep Rose's shoulder-length dark loose curls and side clip, mustard cardigan, white blouse, olive trousers, brown loafers, small gold hoops and burgundy handbag.
 
 **Delivery:** 10-second clip. Let recognition of her boat break into Rose's doorway greeting. Check the fit with a natural read before locking this cut. Speaker cues from clip start (provisional 10-second targets): ROSE 0.17–3.02s · MAYA 3.16–5.42s · MAX 5.56–7.81s · NINA 7.95–9.85s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **ROSE:** Hi, everybody. Is that my little boat?
@@ -1683,6 +1830,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Give Rose a moment over the crooked bow before she explains how she knows the drawing. Speaker cues from clip start (provisional 10-second targets): ROSE 0.17–2.97s · MAYA 3.11–5.13s · ELLA 5.27–7.68s · ROSE 7.82–9.85s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **ROSE:** I drew this at Mom's kitchen table.
 
@@ -1706,6 +1855,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** Rose remembers the view from low down on the beetle's twig.
 
 **Delivery:** 10-second clip. Max waits for Rose to finish telling her beginning before he claims the crumb. Check the fit with a natural read before locking this cut. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–2.09s · ROSE 2.23–6.82s · MAX 6.96–8.52s · ROSE 8.66–9.85s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **MAYA:** Show me where you started.
@@ -1731,6 +1882,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Let Rose's empty wrist echo Maya's turn. Nina answers after they recognize the gesture. Speaker cues from clip start (provisional 10-second targets): ROSE 0.17–2.84s · MAYA 2.98–4.71s · ROSE 4.85–8.20s · NINA 8.34–9.26s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **ROSE:** Oh, she did that little turn!
 
@@ -1742,6 +1895,7 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 <a name="shot-073"></a>
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_073 | 00:12:00–00:12:10 | What Maya wanted to say
 
 **Clip:** 10 seconds, 16:9. Frame only the named panel in the series’ warm, stylized 3D. Let the action continue through natural General American dialogue.
@@ -1754,6 +1908,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** The cream card still carries both childhood drawings and the original pencil mark.
 
 **Delivery:** 10-second clip. Give Maya her whole admission before Rose delivers her verdict on the boat. Check the fit with a natural read before locking this cut. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–5.23s · ROSE 5.37–7.34s · MAX 7.48–8.00s · ROSE 8.14–9.85s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **MAYA:** I told you you'd made up the boat. I was wrong about that.
@@ -1779,6 +1935,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Let Leo find the brim hand first and Rose pick out the finger she remembers. Speaker cues from clip start (provisional 10-second targets): ROSE 0.17–2.65s · ELLA 2.79–3.69s · LEO 3.83–6.71s · ROSE 6.85–9.85s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **ROSE:** Can you find me the crossing?
 
@@ -1802,6 +1960,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** Hold on the still illustration long enough to follow both sisters' eyelines.
 
 **Delivery:** 10-second clip. Let Rose's held breath go when her eye reaches the end of the leaf. Speaker cues from clip start (provisional 10-second targets): ROSE 0.17–2.97s · MAX 3.11–3.98s · MAYA 4.12–6.91s · NINA 7.05–9.85s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **ROSE:** I thought that giant wanted his lunch.
@@ -1827,6 +1987,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Let Rose move the bookmark clear of the borrowed pages before she takes the pencil. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–3.05s · ROSE 3.19–5.27s · ELLA 5.41–6.71s · ROSE 6.85–9.85s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **MAYA:** Shall we rub out my question mark?
 
@@ -1850,6 +2012,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** Only six short graphite marks are added. The open library book stays on Maya's lap.
 
 **Delivery:** 10-second clip. Put Leo's count on the six new strokes. The original question-mark dot stays visible. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.79s · ROSE 1.93–4.69s · LEO 4.83–8.47s · MAYA 8.61–9.85s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **MAX:** Is that an ant?
@@ -1875,6 +2039,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Let Dan voice the beetle's question while Rose gives the pencil back. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.41s · DAN 1.55–2.79s · NINA 2.93–6.45s · ROSE 6.59–9.85s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **MAX:** What's his question?
 
@@ -1899,6 +2065,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Play Maya's invitation quietly as she makes room for Rose at her shoulder. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.31s · MAYA 2.45–4.18s · ROSE 4.32–6.86s · MAYA 7.00–9.54s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **ELLA:** Which place are you saving?
 
@@ -1922,6 +2090,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** Finish with the first green spread, one oat crumb and the gray stone across the puddle. The cream marker stays deeper in the book.
 
 **Delivery:** 10-second clip. The closing read-aloud belongs to Rose. Let Maya listen to the beginning she missed. Check the fit with a natural read before locking this cut. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.69s · ROSE 2.83–3.96s · MAYA 4.10–6.39s · ROSE 6.53–9.85s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **MAX:** Is there room for all of us?

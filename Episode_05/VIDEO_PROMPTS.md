@@ -15,6 +15,7 @@ Use the unchanged [cast previews](../ref/characters/), [continuity ledger (histo
 
 Legacy sync scripts and subtitle files are not included in this production layout. Retiming must be checked against recorded dialogue before assembly.
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_001 | 00:00:00–00:00:10 | A picnic beyond our gate
 
 **Characters:** MAYA, NINA, DAN. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
@@ -26,6 +27,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** A new public-park picnic, not Episode 02 backyard lunch; identical permanent W01 cast.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–3.17s · DAN 3.27–5.47s · NINA 5.57–6.97s · MAYA 7.07–9.53s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **MAYA:** Today, the park. Our picnic is going farther than the backyard.
@@ -48,6 +51,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.39s · LEO 1.49–3.31s · MAX 3.41–5.22s · ELLA 5.32–8.31s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **ELLA:** Six plates. Six napkins.
 
@@ -68,6 +73,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Map north at top; public park pond remains behind a rail beyond west path.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–2.43s · LEO 2.53–4.52s · DAN 4.62–6.61s · LEO 6.71–9.53s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **MAYA:** Past the fountain, right toward the big oak.
@@ -90,6 +97,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–1.69s · MAX 1.79–3.31s · DAN 3.41–6.10s · MAX 6.20–9.19s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **NINA:** There are two green benches.
 
@@ -110,6 +119,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Keep food chilled and wrapped until clean hands and serving; no sandwiches in basket.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–1.98s · MAYA 2.08–3.01s · ELLA 3.11–5.51s · MAYA 5.61–8.60s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **NINA:** Sandwiches stay cool until we eat.
@@ -132,6 +143,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.99s · MAX 3.09–4.25s · LEO 4.35–6.61s · DAN 6.71–9.53s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **DAN:** I have the basket and a remarkable sense of direction.
 
@@ -152,6 +165,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Travel cut follows; no child sent ahead alone and no extra relatives.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–0.81s · MAX 0.91–3.01s · NINA 3.11–5.51s · ELLA 5.61–8.89s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **MAYA:** Everybody ready?
@@ -174,6 +189,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.27s · ELLA 2.37–3.89s · LEO 3.99–6.10s · DAN 6.20–9.19s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **DAN:** Such a small tree. Easy to spot.
 
@@ -183,6 +200,7 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **DAN:** Good. We won't have to eat under a pencil mark.
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_009 | 00:01:20–00:01:30 | A gate to somewhere new
 
 **Characters:** DAN, MAYA, NINA, LEO, ELLA, MAX. **Location:** PARK_GATE. **Wardrobe:** W01 only.
@@ -194,6 +212,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Gate south, fountain center, west statue bench left, east oak bench right.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.39s · NINA 1.49–3.31s · DAN 3.41–6.10s · LEO 6.20–9.19s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **ELLA:** There is the fountain.
@@ -216,6 +236,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–2.79s · MAX 2.89–4.94s · DAN 5.04–6.53s · MAX 6.63–9.53s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **MAYA:** Our place is under that oak, on the right.
 
@@ -236,6 +258,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** No lost-child plot: Dan stays with both boys; Maya and Nina with Ella; no street crossing.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–2.51s · NINA 2.61–4.66s · DAN 4.76–6.53s · ELLA 6.63–9.53s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **MAYA:** We will spread the blanket under the oak.
@@ -258,6 +282,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.39s · MAYA 1.49–3.31s · NINA 3.41–5.51s · MAYA 5.61–8.31s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **ELLA:** Right at the fountain.
 
@@ -279,6 +305,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.69s · LEO 1.79–3.31s · DAN 3.41–5.51s · MAX 5.61–8.31s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **DAN:** There. Tree on the left.
 
@@ -299,6 +327,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Wrong conclusion remains harmless; keep oak group in distant sight, no isolated children.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.39s · DAN 1.49–2.43s · LEO 2.53–3.75s · DAN 3.85–6.55s · MAX 6.65–8.46s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **MAX:** That bench is green.
@@ -323,6 +353,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.98s · LEO 2.08–3.89s · MAX 3.99–5.81s · LEO 5.91–8.89s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **DAN:** There is a tree beside it.
 
@@ -344,6 +376,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–0.81s · MAX 0.91–3.89s · LEO 3.99–4.93s · DAN 5.03–8.31s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **DAN:** Destination reached.
 
@@ -353,6 +387,7 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **DAN:** Ah. That's quite a lot for a picnic to be missing.
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_017 | 00:02:40–00:02:50 | Three places too few
 
 **Characters:** DAN, MAX, LEO. **Location:** PARK_BENCH_FORK. **Wardrobe:** W01 only.
@@ -364,6 +399,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** There are six permanent family members, not a new three-person picnic.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.27s · DAN 2.37–4.48s · LEO 4.58–6.10s · MAX 6.20–8.89s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **MAX:** One, two, three. We ordered six people.
@@ -386,6 +423,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.35s · DAN 2.45–3.71s · LEO 3.81–5.69s · DAN 5.79–8.27s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **MAX:** Excuse me. Have you seen our picnic?
 
@@ -406,6 +445,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Blanket stays with Maya until east setup; do not duplicate it at wrong bench.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.43s · MAX 1.53–2.80s · DAN 2.90–5.38s · MAX 5.48–8.27s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **LEO:** There is no blanket.
@@ -428,6 +469,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.43s · LEO 2.53–4.52s · MAX 4.62–6.61s · DAN 6.71–9.53s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **DAN:** I can call them if we need help.
 
@@ -448,6 +491,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Wide open sightlines connect both bench paths; no children cross alone.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.74s · DAN 1.84–3.11s · MAX 3.21–5.38s · LEO 5.48–8.27s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **LEO:** There is another green bench.
@@ -470,6 +515,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.69s · LEO 1.79–3.01s · DAN 3.11–5.22s · MAX 5.32–8.31s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **MAX:** Our neighbor is a squirrel.
 
@@ -490,6 +537,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Exact text comes from PARK_MAP.svg; map world never changes.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.69s · DAN 1.79–3.89s · MAX 3.99–5.81s · DAN 5.91–8.89s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **LEO:** Dad, the arrow points down.
@@ -512,6 +561,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.98s · LEO 2.08–4.48s · MAX 4.58–6.69s · DAN 6.79–9.48s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **DAN:** That would explain the adventurous tree.
 
@@ -521,6 +572,7 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **DAN:** So that's where we should be taking these plates.
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_025 | 00:04:00–00:04:10 | A small admission
 
 **Characters:** DAN, LEO, MAX. **Location:** PARK_BENCH_FORK. **Wardrobe:** W01 only.
@@ -532,6 +584,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Error admission is warm and brief, not humiliation or children assuming adult responsibility.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.27s · LEO 2.37–3.31s · MAX 3.41–5.51s · LEO 5.61–8.31s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **DAN:** I saw a bench and stopped checking.
@@ -554,6 +608,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.10s · DAN 1.20–3.31s · LEO 3.41–5.81s · MAX 5.91–8.89s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **MAX:** Which bench, Dad?
 
@@ -574,6 +630,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Landmark identity remains stone squirrel; no animation, talking or magical movement.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.04s · MAX 2.14–4.01s · LEO 4.11–5.38s · DAN 5.48–8.27s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **DAN:** We are beside the squirrel statue.
@@ -596,6 +654,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.71s · DAN 2.81–4.52s · MAX 4.62–6.61s · LEO 6.71–9.53s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **LEO:** Gate behind us, fountain ahead, squirrel to the west.
 
@@ -616,6 +676,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Leave public fixtures and plants untouched; walk on approved paths.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.27s · DAN 2.37–4.19s · LEO 4.29–5.81s · DAN 5.91–8.89s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **MAX:** Could we bring this bench to lunch?
@@ -638,6 +700,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.98s · DAN 2.08–4.19s · LEO 4.29–6.10s · MAX 6.20–8.89s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **MAX:** It looks closer across the flowers.
 
@@ -658,6 +722,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Distant family figures are the existing three, never extra crowd people.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.53s · LEO 2.63–4.00s · MAX 4.10–5.48s · DAN 5.58–8.27s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **DAN:** There they are. They can see us.
@@ -680,6 +746,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.21s · DAN 1.31–3.01s · MAX 3.11–5.15s · LEO 5.25–8.27s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **LEO:** Nothing left behind.
 
@@ -689,6 +757,7 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **LEO:** Come on, Dad. Lunch won't find us sitting here.
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_033 | 00:05:20–00:05:30 | Back to a known point
 
 **Characters:** DAN, LEO, MAX. **Location:** PARK_FOUNTAIN. **Wardrobe:** W01 only.
@@ -700,6 +769,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Children stay beside adult; fountain is a landmark, never climbing/play equipment.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.51s · LEO 2.61–4.66s · MAX 4.76–6.81s · DAN 6.91–9.53s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **DAN:** Back to the fountain. Then we check again.
@@ -722,6 +793,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.69s · LEO 1.79–3.31s · MAX 3.41–5.81s · LEO 5.91–8.60s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **DAN:** Gate behind us. Fountain ahead.
 
@@ -742,6 +815,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** No fountain water drinking, splashing or climbing; sealed water is in cooler.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.98s · DAN 2.08–4.19s · LEO 4.29–6.39s · MAX 6.49–9.48s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **MAX:** The fountain sounds different up close.
@@ -764,6 +839,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.27s · MAX 2.37–4.19s · LEO 4.29–6.39s · DAN 6.49–9.19s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **DAN:** Right at the fountain, toward the oak.
 
@@ -784,6 +861,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Blanket is blue-white check; no sandwiches opened or served yet.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.87s · DAN 1.97–3.67s · LEO 3.77–4.82s · MAX 4.92–8.27s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **MAX:** That bench has our people.
@@ -806,6 +885,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.69s · MAYA 1.79–3.60s · NINA 3.70–5.51s · MAYA 5.61–8.60s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **ELLA:** We saved all six places.
 
@@ -826,6 +907,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** No seventh character; public park remains distinct from home garden.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.69s · MAYA 1.79–3.31s · MAX 3.41–5.22s · LEO 5.32–8.31s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **DAN:** Six people. One correct bench.
@@ -848,6 +931,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–3.36s · MAYA 3.46–4.66s · LEO 4.76–6.81s · DAN 6.91–9.53s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **DAN:** I held the map upside down and trusted the first bench.
 
@@ -857,6 +942,7 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **DAN:** I owe that squirrel a thank-you. You two, too.
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_041 | 00:06:40–00:06:50 | Good information, better directions
 
 **Characters:** NINA, ELLA, DAN. **Location:** PARK_OAK_PICNIC. **Wardrobe:** W01 only.
@@ -868,6 +954,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Natural conversation only; no audience repetition or vocabulary lesson.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–2.27s · ELLA 2.37–4.77s · DAN 4.87–6.10s · ELLA 6.20–8.89s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **NINA:** A bench alone was not enough information.
@@ -890,6 +978,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–2.22s · DAN 2.32–4.37s · MAX 4.47–7.38s · DAN 7.48–9.53s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **MAYA:** I could have pointed out both benches.
 
@@ -910,6 +1000,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Sleeve introduced as packed dry-supply item; no additional map copy.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.69s · DAN 1.79–4.48s · LEO 4.58–5.81s · ELLA 5.91–8.89s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **ELLA:** This sleeve keeps it dry.
@@ -932,6 +1024,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.65s · NINA 1.75–4.09s · ELLA 4.19–6.53s · MAX 6.63–9.53s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **MAX:** Can we open lunch now?
 
@@ -952,6 +1046,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Pavilion visible from oak; nobody guards bags alone; use montage rather than six washes in 10 seconds.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.98s · DAN 2.08–4.19s · MAX 4.29–5.81s · NINA 5.91–8.60s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **MAYA:** We will take everything with us.
@@ -974,6 +1070,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.49s · DAN 1.59–2.91s · MAYA 3.01–4.64s · ELLA 4.74–8.27s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **ELLA:** Same blanket, right place.
 
@@ -994,6 +1092,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Canonical six-place order continues across every later close-up.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.39s · MAX 1.49–4.77s · DAN 4.87–6.39s · MAX 6.49–9.48s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **LEO:** Everyone found a place.
@@ -1016,6 +1116,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.43s · NINA 2.53–4.25s · MAYA 4.35–6.89s · MAX 6.99–9.53s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **MAX:** Would all of us fit on that bench?
 
@@ -1025,6 +1127,7 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **MAX:** Good. My knees were hoping for some blanket space.
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_049 | 00:08:00–00:08:10 | The clean plates arrive
 
 **Characters:** ELLA, MAYA, DAN. **Location:** PARK_OAK_PICNIC. **Wardrobe:** W01 only.
@@ -1036,6 +1139,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Plate transfers once; hands remain clean; no plate placed on bench or ground.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.04s · MAYA 2.14–2.80s · DAN 2.90–5.38s · MAYA 5.48–8.27s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **ELLA:** One plate for each of us.
@@ -1058,6 +1163,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.10s · LEO 2.20–4.13s · NINA 4.23–6.69s · MAX 6.79–9.53s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **MAX:** My napkin is on the right side.
 
@@ -1078,6 +1185,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Do not duplicate sandwiches on blanket while all six still in cooler.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–2.35s · DAN 2.45–4.01s · MAYA 4.11–5.38s · NINA 5.48–8.27s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **NINA:** Still cool. Six sandwiches, ready to share.
@@ -1100,6 +1209,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.49s · MAYA 1.59–2.59s · NINA 2.69–4.95s · ELLA 5.05–8.27s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **ELLA:** Six plates, six sandwiches.
 
@@ -1120,6 +1231,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Bottle caps kept with owners/waste pouch, never scattered; no fountain drinking.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.10s · MAX 1.20–3.60s · LEO 3.70–6.39s · MAX 6.49–9.48s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **DAN:** One bottle each.
@@ -1142,6 +1255,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.69s · MAX 1.79–3.31s · NINA 3.41–5.22s · MAX 5.32–8.31s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **MAYA:** Open it over your plate.
 
@@ -1162,6 +1277,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Track eaten portions; sequential action before speech within editorial slot.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.20s · LEO 2.30–3.35s · MAYA 3.45–4.82s · DAN 4.92–8.27s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **DAN:** Worth finding the right place for.
@@ -1184,6 +1301,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.27s · MAX 2.37–3.60s · NINA 3.70–5.81s · MAX 5.91–8.89s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **ELLA:** The sun stopped at our blanket edge.
 
@@ -1193,6 +1312,7 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **MAX:** Can it keep doing that till I finish my lunch?
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_057 | 00:09:20–00:09:30 | What the other bench taught us
 
 **Characters:** DAN, LEO, MAX. **Location:** PARK_OAK_PICNIC. **Wardrobe:** W01 only.
@@ -1204,6 +1324,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Do not intercut a second simultaneous Dan group at wrong bench; memories only in dialogue.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.69s · LEO 1.79–3.89s · MAX 3.99–5.51s · LEO 5.61–8.31s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **DAN:** That bench looked exactly right.
@@ -1226,6 +1348,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.36s · DAN 1.46–4.94s · ELLA 5.04–6.53s · DAN 6.63–9.53s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **MAYA:** You helped one another.
 
@@ -1246,6 +1370,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Map is a tool, not infallible magic; adults remain available guides.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.65s · DAN 1.75–3.80s · NINA 3.90–6.81s · MAX 6.91–9.53s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **MAX:** Can a map hear directions?
@@ -1268,6 +1394,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.98s · ELLA 2.08–3.89s · MAX 3.99–6.10s · LEO 6.20–8.89s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **LEO:** Best shade goes to the oak.
 
@@ -1288,6 +1416,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Core emotional beat differs from Episode02 impressing-through-size: here usefulness versus doing alone.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.71s · MAYA 2.81–5.35s · NINA 5.45–6.61s · DAN 6.71–9.53s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **DAN:** I wanted to take care of the directions myself.
@@ -1310,6 +1440,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.86s · MAX 2.96–4.48s · LEO 4.58–5.81s · DAN 5.91–8.60s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **DAN:** Leo found the arrow. Max found the wrong neighbor.
 
@@ -1330,6 +1462,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** A drawn symbol is not scale measurement; no implausible tree growth.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.98s · DAN 2.08–3.89s · MAYA 3.99–5.51s · ELLA 5.61–8.60s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **ELLA:** Was the real tree slightly taller?
@@ -1352,6 +1486,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–2.71s · MAX 2.81–5.08s · NINA 5.18–6.61s · MAX 6.71–9.53s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **MAYA:** How would you tell us where this picnic is?
 
@@ -1361,6 +1497,7 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **MAX:** And if you see the squirrel, wave across at us.
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_065 | 00:10:40–00:10:50 | The fountain keeps its voice
 
 **Characters:** DAN, MAX, ELLA. **Location:** PARK_OAK_PICNIC. **Wardrobe:** W01 only.
@@ -1372,6 +1509,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Diegetic fountain ambience only; no narrator, group chant or added dialogue crowd.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.27s · DAN 2.37–3.60s · ELLA 3.70–5.51s · DAN 5.61–8.31s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **MAX:** The fountain stayed exactly where it was.
@@ -1394,6 +1533,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.87s · NINA 1.97–4.00s · DAN 4.10–5.15s · ELLA 5.25–8.27s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **LEO:** That was a good lunch.
 
@@ -1414,6 +1555,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Used dishes separated from cooler; no return of untouched sandwiches.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.27s · DAN 2.37–4.48s · LEO 4.58–6.10s · DAN 6.20–9.19s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **ELLA:** The basket can carry the plates home.
@@ -1436,6 +1579,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.69s · MAYA 1.79–3.60s · NINA 3.70–6.10s · MAX 6.20–9.48s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **MAX:** No wrappers on the grass.
 
@@ -1456,6 +1601,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** No public bench moved, food abandoned or second blanket left on lawn.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.27s · DAN 2.37–3.60s · MAYA 3.70–5.81s · ELLA 5.91–8.89s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **ELLA:** The place looks different without the blanket.
@@ -1478,6 +1625,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.98s · LEO 2.08–3.89s · MAX 3.99–5.51s · NINA 5.61–8.89s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **DAN:** Fountain first. Then the south gate.
 
@@ -1498,6 +1647,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Do not add untracked new drawing, pencil or compass; exact SVG remains unchanged.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.98s · DAN 2.08–4.48s · LEO 4.58–6.10s · ELLA 6.20–8.89s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **ELLA:** Keep this arrow at the top.
@@ -1520,6 +1671,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.39s · DAN 1.49–3.60s · MAYA 3.70–5.81s · MAX 5.91–8.89s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **MAX:** Thank you, quiet guide.
 
@@ -1529,6 +1682,7 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **MAX:** I'll wave for him. His paws look busy staying still.
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_073 | 00:12:00–00:12:10 | Two benches, one good memory
 
 **Characters:** DAN, NINA, ELLA. **Location:** PARK_FOUNTAIN. **Wardrobe:** W01 only.
@@ -1540,6 +1694,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Facing south reverses personal left/right; use gate landmark instead of ambiguous screen right.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.74s · DAN 1.84–4.32s · NINA 4.42–5.38s · ELLA 5.48–8.27s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **ELLA:** Which bench will you remember?
@@ -1561,6 +1717,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Do not show solo child street crossing; travel home occurs after clear cut.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.10s · MAYA 1.20–1.77s · MAX 1.87–3.09s · LEO 3.19–6.18s · DAN 6.28–8.68s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **DAN:** Everybody with us?
@@ -1585,6 +1743,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–0.80s · DAN 0.90–3.27s · LEO 3.37–4.29s · MAX 4.39–7.06s · DAN 7.16–9.53s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **MAX:** Any shortcuts?
 
@@ -1608,6 +1768,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–0.89s · NINA 0.99–2.36s · DAN 2.46–4.82s · MAYA 4.92–8.27s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **MAYA:** Home again.
 
@@ -1628,6 +1790,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** No child handles unknown rubbish or cleaning chemicals; kitchen safe tasks only.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.10s · LEO 1.20–2.43s · MAX 2.53–3.75s · ELLA 3.85–6.84s · MAX 6.94–8.75s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **ELLA:** Blanket to laundry.
@@ -1652,6 +1816,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.79s · LEO 2.89–4.09s · MAYA 4.19–6.53s · DAN 6.63–9.53s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **DAN:** A place for the map. The right way up.
 
@@ -1673,6 +1839,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–2.22s · DAN 2.32–4.94s · MAX 5.04–6.81s · DAN 6.91–9.53s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **NINA:** We have our restaurant dinner another evening.
 
@@ -1693,6 +1861,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Exactly13:20 story; no narrator recap, audience drill, voice recording or generated video claimed.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.99s · MAYA 3.09–4.80s · MAX 4.90–6.33s · ELLA 6.43–9.53s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **DAN:** Next time, I will look for the bench with everyone.

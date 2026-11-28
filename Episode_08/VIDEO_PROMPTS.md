@@ -16,6 +16,7 @@ Use the unchanged [cast previews](../ref/characters/), [continuity ledger (histo
 
 Legacy sync scripts and subtitle files are not included in this production layout. Retiming must be checked against recorded dialogue before assembly.
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_001 | 00:00:00–00:00:10 | A grandmother at the door
 
 **Characters:** MAYA, NINA, RUTH. **Location:** HOME_ENTRY. **Wardrobe:** W01 only.
@@ -27,6 +28,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth is Maya's mother; permanent cast designs remain unchanged; six family sock pairs are still at the laundry counter.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.10s · NINA 1.20–3.31s · RUTH 3.41–6.39s · MAYA 6.49–9.48s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **MAYA:** Mom! Come in.
@@ -49,6 +52,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): RUTH 0.17–2.57s · DAN 2.67–4.77s · ELLA 4.87–6.10s · RUTH 6.20–9.19s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **RUTH:** Six packing cubes, one for each of you.
 
@@ -69,6 +74,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth is Maya's mother; permanent cast designs remain unchanged; six family sock pairs are still at the laundry counter.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): RUTH 0.17–3.07s · DAN 3.17–4.66s · LEO 4.76–6.24s · DAN 6.34–9.53s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **RUTH:** Once, Dan packed a tiny sock instead of his necktie.
@@ -91,6 +98,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–2.27s · NINA 2.37–4.48s · RUTH 4.58–6.10s · MAYA 6.20–9.48s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **MAYA:** Your suitcase can go on this stand.
 
@@ -111,6 +120,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth is Maya's mother; permanent cast designs remain unchanged; six family sock pairs are still at the laundry counter.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): RUTH 0.17–2.10s · DAN 2.20–3.32s · MAYA 3.42–6.16s · RUTH 6.26–9.53s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **RUTH:** This checklist keeps my own things together.
@@ -133,6 +144,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): RUTH 0.17–2.83s · MAX 2.93–5.06s · DAN 5.16–6.25s · MAX 6.35–9.53s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **RUTH:** We noticed before he left. He borrowed a proper tie.
 
@@ -153,6 +166,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth is Maya's mother; permanent cast designs remain unchanged; six family sock pairs are still at the laundry counter.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): RUTH 0.17–3.82s · MAYA 3.92–4.80s · NINA 4.90–6.61s · RUTH 6.71–9.53s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **RUTH:** Use the cubes and borrow my checklist idea. I will rest next door.
@@ -175,6 +190,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.93s · RUTH 2.03–4.94s · NINA 5.04–6.53s · ELLA 6.63–9.53s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **ELLA:** Thank you for the cubes, Grandma.
 
@@ -184,6 +201,7 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **ELLA:** I already have a pair of tenants in mind, Grandma.
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_009 | 00:01:20–00:01:30 | A clean place to sort
 
 **Characters:** NINA, LEO, ELLA. **Location:** LAUNDRY_NOOK. **Wardrobe:** W01 only.
@@ -195,6 +213,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–1.98s · LEO 2.08–4.19s · ELLA 4.29–6.10s · LEO 6.20–9.19s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **NINA:** These socks are clean and dry.
@@ -217,6 +237,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.98s · DAN 2.08–3.60s · NINA 3.70–6.10s · MAX 6.20–9.48s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **MAX:** I can see my green heels.
 
@@ -237,6 +259,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Loading order is green heels, coral stars, orange heels, plum dots, teal plain, navy stripes; no pair is split.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.86s · DAN 2.96–5.65s · DAN 5.75–7.27s · DAN 7.37–9.48s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **DAN:** Six pairs and six places. I can manage that.
@@ -259,6 +283,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.22s · DAN 2.32–4.94s · DAN 5.04–6.81s · DAN 6.91–9.53s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **DAN:** That zipper went all the way around.
 
@@ -279,6 +305,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Ruth is offscreen resting; gifted family cubes are distinct from her lavender personal pouch.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.69s · DAN 1.79–4.48s · DAN 4.58–6.10s · DAN 6.20–8.89s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **DAN:** Now where should these go?
@@ -301,6 +329,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.87s · DAN 1.97–4.00s · DAN 4.10–5.48s · DAN 5.58–8.27s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **DAN:** There's room on this side.
 
@@ -321,6 +351,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.69s · DAN 1.79–3.89s · DAN 3.99–5.81s · DAN 5.91–8.31s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **DAN:** There. The case closes nicely.
@@ -343,6 +375,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.46s · DAN 1.56–2.23s · NINA 2.33–3.32s · DAN 3.42–6.25s · MAYA 6.35–8.27s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **MAYA:** Where are the socks?
 
@@ -354,6 +388,7 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **MAYA:** Dan, whose suitcase did you use?
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_017 | 00:02:40–00:02:50 | A drawer cannot answer
 
 **Characters:** MAX, LEO, DAN. **Location:** LAUNDRY_NOOK. **Wardrobe:** W01 only.
@@ -365,6 +400,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.57s · LEO 2.67–3.89s · DAN 3.99–5.51s · MAX 5.61–8.89s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **MAX:** My socks are not in their new apartment.
@@ -387,6 +424,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.69s · NINA 1.79–4.19s · DAN 4.29–5.51s · ELLA 5.61–8.60s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **ELLA:** The labels never went anywhere.
 
@@ -407,6 +446,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–3.71s · MAYA 3.81–5.20s · LEO 5.31–6.97s · DAN 7.07–9.53s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **DAN:** I put our six cubes in Ruth's suitcase. I assumed they were hers.
@@ -429,6 +470,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–3.15s · NINA 3.25–5.07s · MAX 5.17–6.69s · NINA 6.79–9.48s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **MAYA:** We can retrieve our gifts and leave Grandma's pouch alone.
 
@@ -449,6 +492,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.27s · MAYA 2.37–3.89s · NINA 3.99–5.51s · DAN 5.61–8.31s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **DAN:** This is exactly where I left them.
@@ -471,6 +516,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–3.07s · DAN 3.17–5.23s · MAYA 5.33–7.09s · ELLA 7.19–9.53s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **ELLA:** Gray cubes on the left. Lavender pouch on the right.
 
@@ -491,6 +538,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.04s · NINA 2.14–3.11s · DAN 3.21–5.08s · LEO 5.18–8.27s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **LEO:** One, two, three, four, five, six.
@@ -513,6 +562,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.11s · MAX 2.22–3.53s · MAYA 3.63–5.59s · DAN 5.69–8.27s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **DAN:** My new travel-size socks. Very economical.
 
@@ -522,6 +573,7 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **DAN:** Okay, Max. What gives this particular pair away?
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_025 | 00:04:00–00:04:10 | A description worth hearing
 
 **Characters:** MAX, DAN, MAYA. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
@@ -533,6 +585,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.79s · DAN 2.89–4.66s · MAYA 4.76–6.53s · MAX 6.63–9.53s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **MAX:** Mine have green heels, and both socks fit me.
@@ -555,6 +609,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.37s · NINA 2.47–4.13s · MAYA 4.23–6.43s · ELLA 6.53–9.53s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **ELLA:** Do we need to sort Grandma's pouch too?
 
@@ -575,6 +631,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–3.15s · DAN 3.25–4.77s · LEO 4.87–6.10s · MAYA 6.20–8.89s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **MAYA:** Describe the pair, ask its owner, then add a name.
@@ -597,6 +655,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–3.15s · ELLA 3.25–4.48s · LEO 4.58–6.10s · NINA 6.20–9.19s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **NINA:** We can borrow the method without copying Grandma's personal list.
 
@@ -617,6 +677,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.39s · MAX 1.49–3.31s · ELLA 3.41–5.22s · MAX 5.32–8.31s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **DAN:** No suitcase this time.
@@ -639,6 +701,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–2.57s · MAYA 2.67–5.65s · MAYA 5.75–7.27s · MAYA 7.37–9.48s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **MAYA:** There, that's the last thing back in place.
 
@@ -659,6 +723,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.69s · NINA 1.79–3.60s · DAN 3.70–5.22s · MAYA 5.32–8.31s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **MAYA:** The room is tidy again.
@@ -681,6 +747,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–1.87s · MAX 1.97–3.67s · DAN 3.77–4.82s · MAX 4.92–8.27s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **NINA:** What makes this pair yours?
 
@@ -690,6 +758,7 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **MAX:** Look, both heels are green. I checked the other one.
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_033 | 00:05:20–00:05:30 | Two socks make this pair
 
 **Characters:** MAX, ELLA, NINA. **Location:** LAUNDRY_NOOK. **Wardrobe:** W01 only.
@@ -701,6 +770,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.10s · MAX 1.20–1.84s · NINA 1.94–3.46s · ELLA 3.56–6.55s · MAX 6.65–9.34s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **ELLA:** Two matching socks.
@@ -725,6 +796,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.51s · MAX 2.61–3.80s · NINA 3.90–6.24s · MAX 6.34–9.53s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **LEO:** Name on the cube, not on the sock.
 
@@ -746,6 +819,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.21s · DAN 1.31–3.35s · MAX 3.45–5.81s · DAN 5.91–8.27s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **MAX:** Mine, checked, closed.
 
@@ -766,6 +841,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.39s · DAN 1.49–3.01s · MAYA 3.11–4.05s · ELLA 4.15–6.84s · MAYA 6.94–9.34s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **ELLA:** These have coral stars.
@@ -790,6 +867,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.27s · MAYA 2.37–3.60s · MAX 3.70–5.51s · ELLA 5.61–8.60s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **ELLA:** They are mine. I chose the stars.
 
@@ -810,6 +889,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.39s · ELLA 1.49–2.43s · NINA 2.53–3.46s · ELLA 3.56–6.55s · MAYA 6.65–8.75s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **MAYA:** Ella, on the handle.
@@ -834,6 +915,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.80s · LEO 1.90–2.91s · ELLA 3.01–4.95s · LEO 5.05–8.27s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **DAN:** Orange heels, longer than Max's.
 
@@ -855,6 +938,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.98s · LEO 2.08–3.60s · DAN 3.70–5.81s · LEO 5.91–8.60s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **DAN:** May I label this cube Leo?
 
@@ -864,6 +949,7 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **LEO:** Good. Now I can find them without opening Max's.
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_041 | 00:06:40–00:06:50 | Leo joins the checked row
 
 **Characters:** DAN, LEO, NINA. **Location:** LAUNDRY_NOOK. **Wardrobe:** W01 only.
@@ -875,6 +961,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.10s · NINA 1.20–2.13s · DAN 2.23–3.46s · NINA 3.56–6.55s · LEO 6.65–8.75s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **LEO:** Checked and zipped.
@@ -899,6 +987,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.74s · DAN 1.84–3.11s · NINA 3.21–5.38s · DAN 5.48–8.27s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **MAYA:** Plum dots. These are mine.
 
@@ -920,6 +1010,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.39s · NINA 1.49–2.72s · DAN 2.82–5.22s · MAYA 5.32–8.89s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **MAYA:** I chose the dots.
 
@@ -940,6 +1032,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.38s · MAYA 1.48–2.69s · DAN 2.79–4.29s · MAYA 4.39–6.77s · DAN 6.87–9.53s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **DAN:** Maya. Plum dots. Confirmed.
@@ -964,6 +1058,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.98s · NINA 2.08–3.60s · DAN 3.70–5.51s · NINA 5.61–8.31s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **ELLA:** These are the plain teal ones.
 
@@ -985,6 +1081,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.98s · NINA 2.08–3.89s · MAYA 3.99–5.22s · MAX 5.32–8.31s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **MAX:** Would six identical pairs be easier?
 
@@ -1005,6 +1103,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–0.81s · NINA 0.91–1.55s · LEO 1.65–3.75s · MAYA 3.85–6.84s · NINA 6.94–9.05s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **MAYA:** Nina, checked.
@@ -1029,6 +1129,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.39s · DAN 1.49–2.72s · MAX 2.82–3.75s · DAN 3.85–6.84s · MAX 6.94–9.05s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **LEO:** Navy stripes. Largest size.
 
@@ -1040,6 +1142,7 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **MAX:** That would've been quite a squeeze, Dad.
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_049 | 00:08:00–00:08:10 | A joke that stays a joke
 
 **Characters:** DAN, MAX, ELLA. **Location:** LAUNDRY_NOOK. **Wardrobe:** W01 only.
@@ -1051,6 +1154,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.98s · ELLA 2.08–3.60s · MAX 3.70–4.93s · DAN 5.03–8.31s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **DAN:** Suitable for feet. Unsuitable for meetings.
@@ -1073,6 +1178,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.98s · NINA 2.08–3.60s · LEO 3.70–4.93s · NINA 5.03–8.31s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **DAN:** Dan. Navy stripes. Staying at home.
 
@@ -1093,6 +1200,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.69s · MAYA 1.79–3.31s · NINA 3.41–5.22s · LEO 5.32–8.31s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **LEO:** Six names, with no duplicates.
@@ -1115,6 +1224,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.87s · MAX 1.97–2.69s · DAN 2.79–4.82s · MAX 4.92–8.27s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **LEO:** Six pairs means twelve socks.
 
@@ -1135,6 +1246,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.69s · DAN 1.79–3.01s · MAYA 3.11–4.93s · ELLA 5.03–8.60s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **ELLA:** No lonely socks left here.
@@ -1157,6 +1270,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.98s · NINA 2.08–3.60s · LEO 3.70–6.39s · MAX 6.49–9.48s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **MAX:** Should we count one more time?
 
@@ -1177,6 +1292,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.98s · NINA 2.08–3.60s · DAN 3.70–5.81s · MAYA 5.91–9.19s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **MAYA:** Adults across the top, children below.
@@ -1199,6 +1316,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.27s · ELLA 2.37–3.89s · LEO 3.99–5.22s · DAN 5.32–8.60s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **DAN:** From where we stand: Dan, Maya, Nina.
 
@@ -1208,6 +1327,7 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **DAN:** Good. It matters which way you're standing when you say left.
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_057 | 00:09:20–00:09:30 | The three adult cubes
 
 **Characters:** DAN, MAYA, NINA. **Location:** LAUNDRY_NOOK. **Wardrobe:** W01 only.
@@ -1219,6 +1339,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.69s · NINA 1.79–3.31s · DAN 3.41–5.51s · NINA 5.61–8.60s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **MAYA:** Mine is in the middle.
@@ -1240,6 +1362,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–0.73s · ELLA 0.83–1.40s · MAX 1.50–3.02s · NINA 3.12–6.40s · MAX 6.50–8.90s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **LEO:** Left.
@@ -1264,6 +1388,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.27s · MAYA 2.37–3.89s · NINA 3.99–6.10s · ELLA 6.20–9.48s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **ELLA:** We can read them before opening anything.
 
@@ -1284,6 +1410,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.20s · MAX 2.30–4.00s · NINA 4.10–5.15s · MAX 5.25–8.27s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **DAN:** Even the marker has a place.
@@ -1306,6 +1434,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–2.57s · DAN 2.67–4.48s · MAYA 4.58–6.98s · DAN 7.08–9.19s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **MAYA:** This can wait for the next clean load.
 
@@ -1326,6 +1456,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.10s · ELLA 1.20–2.43s · LEO 2.53–5.22s · MAX 5.32–8.31s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **MAX:** Mine is bottom-right.
@@ -1348,6 +1480,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.60s · NINA 1.70–3.69s · MAYA 3.79–6.33s · NINA 6.43–9.53s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **MAYA:** A clean towel for Mom.
 
@@ -1369,6 +1503,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.98s · MAYA 2.08–3.89s · NINA 3.99–5.51s · DAN 5.61–8.60s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **DAN:** The towel goes in this drawer?
 
@@ -1378,6 +1514,7 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **DAN:** I like asking before I have to carry it back.
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_065 | 00:10:40–00:10:50 | The towel finds its drawer
 
 **Characters:** NINA, MAYA, DAN. **Location:** GUEST_ROOM. **Wardrobe:** W01 only.
@@ -1389,6 +1526,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–1.34s · DAN 1.44–2.61s · MAYA 2.72–3.89s · NINA 3.99–6.85s · MAYA 6.95–9.53s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **NINA:** One towel, top drawer.
@@ -1413,6 +1552,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.27s · DAN 2.37–4.48s · MAYA 4.58–5.22s · ELLA 5.32–8.31s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **ELLA:** The blanket was already where it belongs.
 
@@ -1433,6 +1574,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.57s · NINA 2.67–4.19s · MAYA 4.29–6.10s · MAX 6.20–9.48s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **MAX:** We did not find any pajamas to hang.
@@ -1455,6 +1598,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.69s · DAN 1.79–3.60s · MAYA 3.70–5.22s · LEO 5.32–8.31s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **LEO:** Grandma's list goes back here.
 
@@ -1475,6 +1620,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–1.39s · MAX 1.49–3.31s · MAYA 3.41–5.81s · MAX 5.91–8.60s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **NINA:** Hands washed after sorting.
@@ -1497,6 +1644,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.98s · NINA 2.08–4.19s · DAN 4.29–5.81s · MAYA 5.91–9.19s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **MAYA:** Your questions made the sorting easy.
 
@@ -1517,6 +1666,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–3.36s · LEO 3.46–4.94s · ELLA 5.04–6.81s · DAN 6.91–9.53s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **DAN:** I wanted to make the visit easy. I moved too fast.
@@ -1539,6 +1690,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.98s · DAN 2.08–3.89s · NINA 3.99–6.10s · MAX 6.20–8.89s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **MAX:** Our socks almost went on vacation.
 
@@ -1548,6 +1701,7 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **MAX:** Next time they're staying here without buying a ticket.
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_073 | 00:12:00–00:12:10 | Six people, familiar seats
 
 **Characters:** DAN, MAYA, NINA, LEO, ELLA, MAX. **Location:** HOME_TABLE. **Wardrobe:** W01 only.
@@ -1559,6 +1713,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.69s · DAN 1.79–3.31s · MAX 3.41–5.22s · ELLA 5.32–8.60s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **MAYA:** A peaceful table at last.
@@ -1581,6 +1737,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.79s · DAN 2.89–4.94s · ELLA 5.04–6.81s · DAN 6.91–9.53s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **LEO:** Did Grandma tease you about that tie for years?
 
@@ -1601,6 +1759,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.27s · MAYA 2.37–2.94s · NINA 3.04–5.44s · ELLA 5.54–8.82s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **ELLA:** The label worked because we asked first.
@@ -1623,6 +1783,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.43s · MAX 2.53–4.52s · DAN 4.62–6.61s · LEO 6.71–9.53s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **LEO:** Top row for adults. Bottom row for us.
 
@@ -1643,6 +1805,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): NINA 0.17–2.57s · MAX 2.67–4.48s · MAYA 4.58–6.10s · MAX 6.20–9.19s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **NINA:** Another day, we can organize the garden pots.
@@ -1665,6 +1829,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.57s · MAYA 2.67–4.19s · DAN 4.29–6.10s · MAX 6.20–9.19s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **MAX:** Grandma does not need a label, does she?
 
@@ -1686,6 +1852,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.57s · NINA 2.67–4.48s · LEO 4.58–6.10s · NINA 6.20–9.19s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **DAN:** Six pairs at home. One suitcase correctly packed.
 
@@ -1706,6 +1874,8 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Continuity:** Preserve W01 identities, Dan's LEFT-wrist watch and RIGHT-pocket sides. Ruth appears only in shots001–008; lavender pouch stays closed; keep six family pairs distinct from guest belongings.
 
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–3.15s · MAYA 3.25–5.07s · MAX 5.17–6.10s · ELLA 6.20–9.48s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **DAN:** Next time I help, I will ask where things belong.

@@ -14,6 +14,7 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 <a name="shot-001"></a>
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_001 | 00:00:00–00:00:10 | Someone very short is knocking
 
 **Clip:** 10 seconds, 16:9. Frame only the named panel in the series’ warm, stylized 3D. Let the action continue through natural General American dialogue.
@@ -26,6 +27,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** One yellow duck, four red wheels. The little knock is a sound in the room.
 
 **Delivery:** 10-second clip. Sound the first wooden tok before Dan calls to the empty doorway. Speaker cues from clip start (provisional 10-second targets): DAN 0.38–1.15s · MAX 1.32–2.58s · DAN 2.74–3.46s · ELLA 3.65–6.09s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **DAN:** Come in!
@@ -51,6 +54,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Let the knocks move away from Max's ear with the rolling duck. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.90s · NINA 2.04–2.96s · MAX 3.10–5.37s · ELLA 5.50–8.98s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **MAX:** It's in the table.
 
@@ -74,6 +79,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** Mabel is carved from one piece of wood above the wheeled base.
 
 **Delivery:** 10-second clip. Give Ella's gentle shake silence. Dan's concentration sets up Maya's tap. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.31s · ELLA 2.45–5.79s · MAYA 5.93–6.85s · DAN 6.99–8.72s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **DAN:** Maybe she swallowed a pea.
@@ -99,6 +106,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Ella compares her thumb with the print as Maya remembers her painted sleeve. Check the fit with a natural read before locking this cut. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.65s · ELLA 1.79–5.11s · MAYA 5.25–7.77s · ELLA 7.91–9.85s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **LEO:** Is that your thumb?
 
@@ -122,6 +131,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** The top is a single wooden toy with a short spindle and one rounded point.
 
 **Delivery:** 10-second clip. Max tries to track one stripe while the spinning colors run together. Check the fit with a natural read before locking this cut. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–3.16s · ELLA 3.30–7.46s · MAX 7.60–8.98s · LEO 9.12–9.85s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **LEO:** Is this still the one you want to trade?
@@ -147,6 +158,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Wait for Nina's answer before Ella puts either toy into the tin. Check the fit with a natural read before locking this cut. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.02s · NINA 2.16–5.52s · ELLA 5.66–6.81s · MAYA 6.95–9.85s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **ELLA:** May I borrow your tin?
 
@@ -170,6 +183,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** The top is available to trade. Ella is bringing the duck so someone can look at its wheels.
 
 **Delivery:** 10-second clip. Make Ella's two intentions clear as she steadies the tin. Check the fit with a natural read before locking this cut. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.95s · ELLA 2.09–4.99s · DAN 5.13–7.59s · ELLA 7.73–9.85s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **MAX:** Are you swapping Mabel too?
@@ -195,6 +210,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Let Leo's approving nod land before both boys offer their hands. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.38s · LEO 2.52–4.61s · ELLA 4.75–7.62s · MAX 7.76–9.85s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **MAX:** Look, the other foot learned.
 
@@ -206,6 +223,7 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 <a name="shot-009"></a>
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_009 | 00:01:20–00:01:30 | Through the blue door
 
 **Clip:** 10 seconds, 16:9. Frame only the named panel in the series’ warm, stylized 3D. Let the action continue through natural General American dialogue.
@@ -218,6 +236,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** The sound here is one object touching the tin, distinct from the rolling wheel's tok.
 
 **Delivery:** 10-second clip. Give the closed tin one metallic tick, distinct from Mabel's wooden knock. Check the fit with a natural read before locking this cut. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.07s · ELLA 2.21–4.94s · NINA 5.08–6.62s · ELLA 6.76–9.85s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **DAN:** Are we waking the duck?
@@ -243,6 +263,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Let Nina explain the felt while Ella sets the tin down on her end. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.50s · LEO 1.64–3.77s · NINA 3.91–7.26s · ELLA 7.40–9.13s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **MAYA:** Here's our table.
 
@@ -266,6 +288,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** The top's point drags on soft felt. It spins freely on hard surfaces.
 
 **Delivery:** 10-second clip. Pair the two boys' short lines with the top starting and tipping. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.50s · MAX 1.64–2.96s · ELLA 3.10–6.04s · MAX 6.18–8.72s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **LEO:** There it goes.
@@ -291,6 +315,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Bring the familiar tok back on the wood before Dan blames the kitchen table. Check the fit with a natural read before locking this cut. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.75s · DAN 1.89–4.57s · MAYA 4.71–7.03s · ELLA 7.17–9.85s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **ELLA:** There it is again.
 
@@ -314,6 +340,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** June is the only neighbor in this scene. Her case has a hinged lid.
 
 **Delivery:** 10-second clip. Let the pencil case snap cut through the introductions and catch Max's ear. Speaker cues from clip start (provisional 10-second targets): JUNE 0.17–1.90s · ELLA 2.04–3.90s · JUNE 4.04–4.96s · MAX 5.10–8.86s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **JUNE:** Anybody using this end?
@@ -339,6 +367,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Ella's voice lifts when the lines in her thumb fill the glass. Check the fit with a natural read before locking this cut. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.75s · JUNE 2.89–6.18s · NINA 6.32–7.84s · ELLA 7.98–9.85s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **ELLA:** You keep a magnifying glass in there?
 
@@ -362,6 +392,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** June's dad is at home. Only June tells the family about their game.
 
 **Delivery:** 10-second clip. Let June catch Max in the middle of his silent elephant impression. Speaker cues from clip start (provisional 10-second targets): JUNE 0.17–5.00s · MAX 5.13–6.87s · JUNE 7.00–8.73s · LEO 8.88–9.79s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **JUNE:** My dad shuts his eyes. I make a noise. He guesses.
@@ -387,6 +419,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Sound the tok while June's eyes are still closed. Her guess follows the roll. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.98s · JUNE 2.10–2.70s · MAX 4.48–5.50s · JUNE 5.66–8.49s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **ELLA:** Shut your eyes a second.
 
@@ -398,6 +432,7 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 <a name="shot-017"></a>
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_017 | 00:02:40–00:02:50 | A duck with a name
 
 **Clip:** 10 seconds, 16:9. Frame only the named panel in the series’ warm, stylized 3D. Let the action continue through natural General American dialogue.
@@ -410,6 +445,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** The deep quack comes from Max's mouth. Mabel's own sound is the little wheel knock.
 
 **Delivery:** 10-second clip. Give the deep quack to Max. June knows exactly where that sound came from. Speaker cues from clip start (provisional 10-second targets): JUNE 0.17–2.31s · ELLA 2.45–5.12s · MAX 5.25–5.83s · JUNE 5.96–8.10s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **JUNE:** A duck made that noise?
@@ -435,6 +472,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Keep the mustache joke with Dan while Ella's attention stays on the wheels. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.90s · JUNE 2.04–4.18s · DAN 4.32–7.26s · ELLA 7.40–9.54s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **DAN:** Is that my eyebrow?
 
@@ -458,6 +497,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** Neither girl has said how long the switch will last.
 
 **Delivery:** 10-second clip. Both girls mean their yes. Play the misunderstanding without hesitation or suspicion. Speaker cues from clip start (provisional 10-second targets): JUNE 0.17–1.50s · ELLA 1.64–3.77s · JUNE 3.91–4.96s · ELLA 5.10–5.67s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **JUNE:** Want to switch?
@@ -483,6 +524,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Let each girl wait for the other's hand to clear before picking up her object. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.50s · JUNE 1.64–2.69s · ELLA 2.83–4.96s · JUNE 5.10–6.83s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **ELLA:** There you are.
 
@@ -506,6 +549,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** The dark hair is in the top's red paint. The wheel clue on Mabel is still unseen.
 
 **Delivery:** 10-second clip. Give Max a quick check of his own hair after Leo identifies the brush hair. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.71s · LEO 2.85–4.99s · MAX 5.13–7.67s · ELLA 7.80–9.54s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **ELLA:** Look at that little black line.
@@ -531,6 +576,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Let June savor her one clue before Dan offers his reading of “bill.” Speaker cues from clip start (provisional 10-second targets): JUNE 0.17–2.55s · NINA 2.69–5.07s · JUNE 5.21–6.83s · DAN 6.97–9.85s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **JUNE:** Dad will never get this one.
 
@@ -554,6 +601,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** The duck has not traveled under the table. It is still in June's hands.
 
 **Delivery:** 10-second clip. Keep Max's finger in focus through the glass as Ella discovers the empty space. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–3.05s · MAX 3.19–4.81s · LEO 4.95–7.33s · ELLA 7.47–9.85s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **ELLA:** Okay, let me see that back wheel.
@@ -579,6 +628,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Follow Ella's worry as the beak goes into the bag. June packs quite casually. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.71s · MAYA 2.85–4.99s · ELLA 5.13–7.26s · MAYA 7.40–9.54s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **ELLA:** She's putting Mabel in her bag.
 
@@ -590,6 +641,7 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 <a name="shot-025"></a>
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_025 | 00:04:00–00:04:10 | The rest of the sentence
 
 **Clip:** 10 seconds, 16:9. Frame only the named panel in the series’ warm, stylized 3D. Let the action continue through natural General American dialogue.
@@ -602,6 +654,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** Maya keeps the path between Ella and June open.
 
 **Delivery:** 10-second clip. Let Ella hear what she left out as she quotes her own “Sure.” Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.63s · MAYA 1.77–3.50s · ELLA 3.64–8.19s · LEO 8.33–9.65s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **ELLA:** I said, “Sure.”
@@ -627,6 +681,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Give Dan's salute to Ella as she chooses to speak for herself. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.71s · ELLA 2.85–6.33s · NINA 6.47–7.79s · DAN 7.93–9.66s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **DAN:** Want me to come with you?
 
@@ -650,6 +706,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** June has not left the swap or handed the toy to anybody else.
 
 **Delivery:** 10-second clip. June means her welcome. Ella takes a little longer to get to her question. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.90s · JUNE 2.04–5.24s · ELLA 5.38–7.92s · JUNE 8.06–9.39s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **ELLA:** Can I sit here?
@@ -675,6 +733,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Let the girls discover their different meanings on “a minute” and “for keeps.” Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–4.46s · JUNE 4.60–6.87s · ELLA 7.00–7.92s · JUNE 8.06–9.79s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **ELLA:** When I said we'd switch, I meant for a minute.
 
@@ -698,6 +758,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** The posted sign reads SATURDAY SWAP. It offers no terms for this particular exchange.
 
 **Delivery:** 10-second clip. Give Ella time to hear how the offer sounded from June's end. Check the fit with a natural read before locking this cut. Speaker cues from clip start (provisional 10-second targets): JUNE 0.17–4.49s · ELLA 4.63–6.96s · JUNE 7.10–7.63s · ELLA 7.77–9.85s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **JUNE:** It is a swap. I thought you'd take the glass home.
@@ -723,6 +785,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Let Ella wait with the handle offered while June considers her answer. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–3.96s · JUNE 4.10–6.98s · ELLA 7.12–8.02s · JUNE 8.16–9.85s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **ELLA:** Would you trade back? I'd like to keep Mabel.
 
@@ -746,6 +810,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** June's dad stays at home. There is no pickup or departure happening at the door.
 
 **Delivery:** 10-second clip. Let Max lower his voice and settle down at the bench during his offer of quiet. Check the fit with a natural read before locking this cut. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.69s · JUNE 2.83–5.81s · MAX 5.95–8.58s · ELLA 8.72–9.85s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **MAX:** Is it time for you to go?
@@ -771,6 +837,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. June's spoken yes is what lets Ella start to smile. Speaker cues from clip start (provisional 10-second targets): JUNE 0.17–2.03s · ELLA 2.17–3.09s · JUNE 3.23–5.90s · ELLA 6.04–7.50s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **JUNE:** Yes. Let's trade back.
 
@@ -782,6 +850,7 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 <a name="shot-033"></a>
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_033 | 00:05:20–00:05:30 | Back where they belong
 
 **Clip:** 10 seconds, 16:9. Frame only the named panel in the series’ warm, stylized 3D. Let the action continue through natural General American dialogue.
@@ -794,6 +863,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** Ownership is back where it began. The striped top is still Ella's.
 
 **Delivery:** 10-second clip. Give the returning duck one soft tok before Max interprets it. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.50s · JUNE 1.64–3.37s · MAX 3.51–6.45s · ELLA 6.59–9.66s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **ELLA:** Here's your glass.
@@ -819,6 +890,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Keep Ella's whole loan request together so June can hear when the glass comes back. Check the fit with a natural read before locking this cut. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–4.12s · JUNE 4.26–6.22s · ELLA 6.36–7.86s · JUNE 8.00–9.85s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **ELLA:** Could I borrow your glass till we finish checking the wheels?
 
@@ -842,6 +915,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** June's blue pencil case is still inside her tote. Nina's open tin, lid and Ella's top are at the table.
 
 **Delivery:** 10-second clip. Let June turn the handle toward Ella as Max clears a path along the tabletop. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.65s · JUNE 2.79–4.48s · ELLA 4.62–6.31s · MAX 6.45–9.85s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **MAX:** Room for a duck coming through.
@@ -867,6 +942,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Play the move onto felt as an experiment the children can hear together. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.90s · LEO 2.04–2.96s · JUNE 3.10–4.96s · ELLA 5.10–7.37s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **MAYA:** What haven't we tried?
 
@@ -890,6 +967,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** The duck's movement stays the same on the felt. Only the sound is muffled.
 
 **Delivery:** 10-second clip. On felt, let Max spot the tail lift in silence. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.50s · JUNE 1.64–3.77s · MAX 3.91–6.18s · ELLA 6.32–9.67s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **MAX:** She stopped knocking.
@@ -915,6 +994,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. On wood, sync each tok with a lift of the tail while the girls listen. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.26s · JUNE 2.40–4.75s · DAN 4.89–7.62s · ELLA 7.76–9.85s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **ELLA:** There. Did you hear it?
 
@@ -938,6 +1019,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** The two front wheels remain round. The rear-left wheel carries the bump.
 
 **Delivery:** 10-second clip. Give Leo the beak and Max the tail. Let Ella connect the two observations. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.90s · MAX 2.04–4.18s · MAYA 4.32–6.05s · ELLA 6.19–8.32s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **LEO:** The beak barely moved.
@@ -963,6 +1046,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. The backward roll makes the same knock. Dan's courtesy is for the duck. Speaker cues from clip start (provisional 10-second targets): JUNE 0.17–2.31s · DAN 2.45–6.20s · ELLA 6.34–7.67s · JUNE 7.81–9.67s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **JUNE:** What if she goes backward?
 
@@ -974,6 +1059,7 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 <a name="shot-041"></a>
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_041 | 00:06:40–00:06:50 | Which back wheel?
 
 **Clip:** 10 seconds, 16:9. Frame only the named panel in the series’ warm, stylized 3D. Let the action continue through natural General American dialogue.
@@ -986,6 +1072,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** “Left” belongs to the duck as it faces beak-first, even when the toy is belly-up.
 
 **Delivery:** 10-second clip. Use the duck's own left side as the girls identify the wheel aloud. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.50s · JUNE 1.64–3.77s · NINA 3.91–6.86s · ELLA 7.00–9.66s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **ELLA:** Which one's catching?
@@ -1011,6 +1099,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Stop turning at Ella's “Stop!” so Max can see the raised dab in profile. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.03s · JUNE 2.17–3.50s · ELLA 3.64–6.71s · MAX 6.85–9.79s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **ELLA:** A little more. Stop!
 
@@ -1034,6 +1124,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** The original thumbprint and the drop are two different marks made on the same day.
 
 **Delivery:** 10-second clip. Let Ella remember how impatient she was to try her freshly painted duck. Check the fit with a natural read before locking this cut. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–4.24s · MAYA 4.38–6.57s · ELLA 6.71–8.91s · JUNE 9.05–9.85s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **ELLA:** I painted the wheels red first. Then I did the yellow.
@@ -1059,6 +1151,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Land one wooden tok on contact with the paint before June echoes it. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.74s · ELLA 1.91–4.88s · JUNE 5.35–6.72s · LEO 6.91–9.22s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **LEO:** There it goes around.
 
@@ -1082,6 +1176,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** Nobody alters the paint, the bump or the wheel.
 
 **Delivery:** 10-second clip. Let Ella's fingertip on Mabel's cheek answer Dan's question along with her voice. Check the fit with a natural read before locking this cut. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.72s · ELLA 2.86–6.57s · JUNE 6.71–8.21s · MAX 8.35–9.85s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **DAN:** So do you want a quiet duck?
@@ -1107,6 +1203,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Pass the glass back on “Here.” Give June the close look this time. Check the fit with a natural read before locking this cut. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–4.74s · JUNE 4.88–5.39s · NINA 5.53–6.71s · JUNE 6.85–9.85s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **ELLA:** I said I'd give it back when we found the noise. Here.
 
@@ -1130,6 +1228,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** No offer of the duck is on the table during this conversation.
 
 **Delivery:** 10-second clip. June brightens at the thought of her dad getting a guess wrong. Check the fit with a natural read before locking this cut. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.48s · JUNE 2.63–5.68s · ELLA 5.82–8.13s · JUNE 8.27–9.85s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **ELLA:** What sound would fool your dad?
@@ -1155,6 +1255,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Give Dan the frog imitation and Ella the quiet discovery of the silver lid. Speaker cues from clip start (provisional 10-second targets): JUNE 0.17–3.44s · DAN 3.58–4.88s · JUNE 5.02–6.71s · ELLA 6.85–9.85s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **JUNE:** Once he thought my zipper was a frog.
 
@@ -1166,6 +1268,7 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 <a name="shot-049"></a>
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_049 | 00:08:00–00:08:10 | A noise that looks pink
 
 **Clip:** 10 seconds, 16:9. Frame only the named panel in the series’ warm, stylized 3D. Let the action continue through natural General American dialogue.
@@ -1178,6 +1281,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** The first spin for June is on wood, within a few inches of Nina's separate silver lid.
 
 **Delivery:** 10-second clip. Let the near-silent spin make Max's guess about the ant plausible to him. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.31s · MAX 2.45–3.77s · JUNE 3.91–5.64s · MAX 5.78–8.32s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **ELLA:** Close your eyes and guess.
@@ -1203,6 +1308,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. The top's bright ting brings June's eyes open before she speaks. Speaker cues from clip start (provisional 10-second targets): JUNE 0.17–1.50s · ELLA 1.64–3.37s · LEO 3.51–5.64s · ELLA 5.78–7.92s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **JUNE:** I heard that!
 
@@ -1226,6 +1333,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** The lid is right side up on its own base. The duck stays on the felt clear of the game.
 
 **Delivery:** 10-second clip. Let Nina fit the lid while she gives the top permission to use her tin. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–3.44s · NINA 3.58–6.59s · JUNE 6.73–8.81s · ELLA 8.95–9.85s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **ELLA:** Could we try the top on your tin?
@@ -1251,6 +1360,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Keep Dan's eyes closed while Maya tests him with the silent fish face. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.84s · DAN 2.98–3.55s · JUNE 3.69–6.23s · MAYA 6.37–9.45s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **ELLA:** Dad, can I borrow your ears?
 
@@ -1274,6 +1385,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** The top and tin make the sound together. The toy duck stays parked on felt.
 
 **Delivery:** 10-second clip. Keep the metallic burr audible beneath Dan's first guess. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.31s · MAX 2.45–4.58s · DAN 4.72–7.79s · ELLA 7.93–8.86s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **DAN:** A bee in a lunchbox?
@@ -1299,6 +1412,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Let the smooth buzz break into taps before Dan gives the bee its boots. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.31s · JUNE 2.45–4.18s · NINA 4.32–5.64s · DAN 5.78–8.32s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **DAN:** The bee's put boots on.
 
@@ -1322,6 +1437,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** Dan keeps the lid shut and level. The top stays in view while he peeks under the base.
 
 **Delivery:** 10-second clip. Let Dan take the bee seriously enough to check beneath the tin. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.90s · DAN 2.04–3.37s · JUNE 3.51–5.24s · MAYA 5.38–7.51s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **ELLA:** You can look now.
@@ -1347,6 +1464,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. June asks about the tin before she offers a trade. Give her time to remember the case. Check the fit with a natural read before locking this cut. Speaker cues from clip start (provisional 10-second targets): JUNE 0.17–2.60s · NINA 2.74–5.94s · ELLA 6.08–7.84s · JUNE 7.98–9.85s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **JUNE:** Would the tin come with the top?
 
@@ -1358,6 +1477,7 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 <a name="shot-057"></a>
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_057 | 00:09:20–00:09:30 | June's blue roof
 
 **Clip:** 10 seconds, 16:9. Frame only the named panel in the series’ warm, stylized 3D. Let the action continue through natural General American dialogue.
@@ -1370,6 +1490,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** June's case has its own hinged lid. Nina's silver tin stays closed at the opposite end.
 
 **Delivery:** 10-second clip. Let June show that the blue case is empty before snapping its lid shut. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.90s · JUNE 2.04–3.90s · ELLA 4.04–6.58s · JUNE 6.72–8.04s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **LEO:** What's in there now?
@@ -1395,6 +1517,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Give the smaller case a higher, thinner buzz as Max follows the imaginary plane. Speaker cues from clip start (provisional 10-second targets): JUNE 0.17–1.50s · ELLA 1.64–3.90s · MAX 4.04–6.18s · JUNE 6.32–8.45s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **JUNE:** Can I try?
 
@@ -1418,6 +1542,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** June can reproduce the sound with the case she already owns.
 
 **Delivery:** 10-second clip. Let the top fall into June's palm before she enjoys Max being wrong. Speaker cues from clip start (provisional 10-second targets): JUNE 0.17–1.50s · MAX 1.64–2.96s · JUNE 3.10–4.83s · LEO 4.97–6.30s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **JUNE:** That's the one.
@@ -1443,6 +1569,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Give “for keeps” a clear turn from each girl before Ella answers. Speaker cues from clip start (provisional 10-second targets): JUNE 0.17–3.93s · ELLA 4.07–4.99s · JUNE 5.13–7.79s · ELLA 7.93–9.66s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **JUNE:** Would you trade your top for my magnifying glass?
 
@@ -1466,6 +1594,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** The top stays on Ella's open palm until June accepts it in the next shot.
 
 **Delivery:** 10-second clip. Keep Ella's offer in her hand until she and June finish agreeing. Check the fit with a natural read before locking this cut. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–1.36s · ELLA 1.50–5.36s · JUNE 5.50–7.79s · ELLA 7.93–9.85s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **MAYA:** Happy with that?
@@ -1491,6 +1621,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Land the two handoffs on the first two lines, with the green handle toward Ella. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.50s · JUNE 1.64–3.37s · LEO 3.51–6.04s · ELLA 6.18–8.86s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **ELLA:** Here you go.
 
@@ -1514,6 +1646,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** Ella keeps the magnifier. Nina's silver tin is empty and closed at the left end.
 
 **Delivery:** 10-second clip. Sound the snap just before Max shuts his eyes and guesses. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–1.50s · JUNE 1.64–2.96s · MAX 3.10–5.24s · NINA 5.38–7.11s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **MAX:** Blue pencil case!
@@ -1539,6 +1673,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. June turns at the tok. Ella sees that turn before she offers a visit. Check the fit with a natural read before locking this cut. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.79s · JUNE 2.93–5.66s · ELLA 5.80–8.17s · DAN 8.31–9.85s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **ELLA:** Could your dad use a second sound?
 
@@ -1550,6 +1686,7 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 <a name="shot-065"></a>
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_065 | 00:10:40–00:10:50 | Until three
 
 **Clip:** 10 seconds, 16:9. Frame only the named panel in the series’ warm, stylized 3D. Let the action continue through natural General American dialogue.
@@ -1562,6 +1699,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** The green-handled magnifier rests beside Nina's closed silver tin at the left end.
 
 **Delivery:** 10-second clip. Let June confirm both the hour and the return before reaching for Mabel. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–4.06s · JUNE 4.20–5.52s · ELLA 5.66–6.23s · JUNE 6.37–8.51s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **ELLA:** You can borrow Mabel until three, if you'd like.
@@ -1587,6 +1726,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Give Dan's two-hand wave the precision of an address he knows by heart. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–3.37s · JUNE 3.51–6.46s · DAN 6.60–7.92s · MAYA 8.06–9.79s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **ELLA:** Our front porch. Blue door, cream house.
 
@@ -1610,6 +1751,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** The top rides inside the blue case. The duck rides beside the case in the tote.
 
 **Delivery:** 10-second clip. Let June repeat the plan before Ella hands over the duck. Speaker cues from clip start (provisional 10-second targets): JUNE 0.17–3.65s · ELLA 3.79–6.19s · MAX 6.33–7.25s · JUNE 7.38–9.52s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **JUNE:** Blue door at three. I'll bring her back.
@@ -1635,6 +1778,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. June spots her mother off-screen. Give Dan's smaller second wave to Mabel. Speaker cues from clip start (provisional 10-second targets): JUNE 0.17–3.24s · ELLA 3.38–4.43s · LEO 4.57–7.52s · DAN 7.66–9.79s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **JUNE:** There's my mom. See you at three!
 
@@ -1658,6 +1803,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** The wooden top and the wooden duck both left with June, on different terms.
 
 **Delivery:** 10-second clip. Ella lowers her new glass into the tin as she names what she's taking home. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–2.20s · ELLA 2.34–5.13s · NINA 5.27–7.30s · LEO 7.44–9.85s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **MAYA:** Taking home what you expected?
@@ -1683,6 +1830,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Let the loose lid go back to Nina with the empty tin. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–2.84s · NINA 2.98–5.25s · MAX 5.38–7.12s · NINA 7.25–9.39s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **ELLA:** Your tin back, lid and all.
 
@@ -1706,6 +1855,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** The leaf is dry and loose on the sill. This is the same green-handled magnifier.
 
 **Delivery:** 10-second clip. Follow the fork in the leaf vein while Ella starts wondering about Mabel. Check the fit with a natural read before locking this cut. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–1.73s · ELLA 1.87–4.63s · MAYA 4.77–7.42s · ELLA 7.56–9.85s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **LEO:** Did it get bigger?
@@ -1731,6 +1882,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Give Ella room to sound happy about the loan and still miss her duck. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–2.17s · ELLA 2.31–5.95s · NINA 6.09–7.71s · MAX 7.85–9.85s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **DAN:** A couple of minutes yet.
 
@@ -1742,6 +1895,7 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 <a name="shot-073"></a>
 
+## use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_073 | 00:12:00–00:12:10 | An ordinary knock
 
 **Clip:** 10 seconds, 16:9. Frame only the named panel in the series’ warm, stylized 3D. Let the action continue through natural General American dialogue.
@@ -1754,6 +1908,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** June makes the taps. No voice comes through the closed door.
 
 **Delivery:** 10-second clip. Place the knock high on the door so Dan can make his new guess by ear. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–0.74s · DAN 0.88–3.02s · MAYA 3.16–4.89s · ELLA 5.03–7.57s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **MAX:** Mabel?
@@ -1779,6 +1935,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Play Dan's wave smaller as he realizes June is already in front of him. Speaker cues from clip start (provisional 10-second targets): JUNE 0.17–2.84s · ELLA 2.98–4.30s · JUNE 4.44–6.17s · DAN 6.31–8.86s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **JUNE:** One visiting duck, back at three.
 
@@ -1802,6 +1960,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** June's pencil case and top stay with June. Nothing needs to be swapped back now.
 
 **Delivery:** 10-second clip. Let one familiar tok greet Ella after June places Mabel in her hands. Speaker cues from clip start (provisional 10-second targets): ELLA 0.17–1.50s · JUNE 1.64–4.30s · MAX 4.44–6.17s · JUNE 6.31–8.58s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **ELLA:** There's that knock.
@@ -1827,6 +1987,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Deliver the pickle guess with June's straightest face so Ella gets the laugh. Check the fit with a natural read before locking this cut. Speaker cues from clip start (provisional 10-second targets): JUNE 0.17–2.96s · LEO 3.10–4.21s · JUNE 4.35–6.13s · ELLA 6.27–9.85s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **JUNE:** For Mabel he guessed a woodpecker in slippers.
 
@@ -1850,6 +2012,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** The green-handled glass is in the Brooks kitchen. All loans have been returned.
 
 **Delivery:** 10-second clip. Let the handshake finish the invitation with both girls keeping their toys. Check the fit with a natural read before locking this cut. Speaker cues from clip start (provisional 10-second targets): JUNE 0.17–2.94s · ELLA 3.08–5.00s · JUNE 5.14–7.06s · MAYA 7.20–9.85s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **JUNE:** Next Saturday, want to come and guess?
@@ -1875,6 +2039,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. Let Leo's surprise at the enlarged bump play against Ella's matter-of-fact answer. Check the fit with a natural read before locking this cut. Speaker cues from clip start (provisional 10-second targets): LEO 0.17–2.59s · ELLA 2.73–5.79s · NINA 5.93–7.61s · MAYA 7.75–9.85s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **LEO:** There's the bump. It looks bigger now.
 
@@ -1899,6 +2065,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 
 **Delivery:** 10-second clip. After Ella's last cue, give Dan one clear wooden tok to recognize. Speaker cues from clip start (provisional 10-second targets): MAX 0.17–2.74s · DAN 2.90–3.50s · MAYA 3.75–5.12s · ELLA 5.32–7.02s.
 
+only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **MAX:** Dad, one more. Close your eyes.
 
@@ -1922,6 +2090,8 @@ Timing plan: 10 seconds per clip, 80 clips, 13:20 planned episode runtime. Start
 **Continuity:** The final tok comes from the same paint drop on the same left rear wheel.
 
 **Delivery:** 10-second clip. Dan recognizes Mabel with his eyes still shut. Max addresses the wheels with perfect courtesy. Speaker cues from clip start (provisional 10-second targets): DAN 0.17–1.63s · ELLA 1.77–3.50s · DAN 3.64–5.37s · MAX 5.50–7.37s.
+
+only [Speaker] moves their mouth while all other characters listen with closed mouths
 
 **Dialogue:**
 **DAN:** Come in, Mabel.
