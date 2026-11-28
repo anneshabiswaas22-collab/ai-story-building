@@ -9,9 +9,8 @@ Use the permanent [cast previews](../ref/characters/) for discussion; restore th
 Global negatives: no replacement faces, extra family members, wardrobe changes, mirrored watch/pocket sides, duplicate containers or vegetables, unexplained inventory transfers, children handling knives or the hot stove, watermarks or baked-in subtitles. BLUE list/tote is Maya’s salad; YELLOW list/tote is Nina’s soup. Buy four carrots, never forty. Preserve the exact shopping ledger and $18.50 total, $20 payment and $1.50 change. Maya and Nina stay home; their market phone lines are audio only, with no caller portraits or extra people. Vendor dialogue is off-screen/hands-only. Use the exact [editorial SVGs (historical reference)](https://github.com/pujahalder34675-creator/ai-story-building/tree/8362bf7a5ec009104a53857e9bee314a843c1a14/Episode_01/assets/overlays) for text/prices; no invented lettering or money. No automated video/voice render calls are authorized.
 
 Legacy sync scripts and subtitle files are not included in this production layout. Retiming must be checked against recorded dialogue before assembly.
-
+use same model omni 1.2 my charecter sheet and ref img and generate 1 shot 10 sec 360p
 ## SHOT_001 | 00:00:00–00:00:10 | The blue salad note
-
 **Characters:** MAYA, DAN. **Location:** HOME_KITCHEN. **Wardrobe:** W01 only.
 **Off-screen voices:** NONE
 **Composition:** Medium two-shot across the oak island; Maya left, Dan right.
