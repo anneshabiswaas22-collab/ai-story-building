@@ -23,6 +23,7 @@ Legacy sync scripts and subtitle files are not included in this production layou
 **Delivery:** 10-second clip. Begin speaking on the opening action. Keep replies close and in order. Let listeners react during speech. Finish the physical beat on the cut; avoid filler pauses and keep speech natural. Speaker cues from clip start (provisional 10-second targets): MAYA 0.17–3.74s · DAN 3.84–4.77s · MAYA 4.87–6.69s · DAN 6.79–8.89s. 
 
 only [Speaker] moves their mouth while all other characters listen with closed mouths
+
 **Dialogue:**
 **MAYA:** Dan, can you pick up four carrots, three tomatoes, and one cucumber?
 
